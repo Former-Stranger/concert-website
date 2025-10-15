@@ -347,20 +347,27 @@ exports.processNewConcert = functions.firestore
         concertData.state
       );
 
-      // Get next show number
+      // Get next concert ID (numeric) - use the highest concert_id + 1
       const concertsQuery = await db.collection('concerts')
-        .orderBy('show_number', 'desc')
+        .orderBy('concert_id', 'desc')
         .limit(1)
         .get();
 
+      let nextConcertId = 1;
       let showNumber = 1;
       if (!concertsQuery.empty) {
         const lastConcert = concertsQuery.docs[0].data();
+        nextConcertId = (lastConcert.concert_id || 0) + 1;
         showNumber = (lastConcert.show_number || 0) + 1;
       }
 
-      // Update the concert with proper structure
-      await snap.ref.set({
+      // Delete the auto-generated document
+      await snap.ref.delete();
+
+      // Create new document with numeric ID
+      const newConcertRef = db.collection('concerts').doc(String(nextConcertId));
+      await newConcertRef.set({
+        concert_id: nextConcertId,
         show_number: showNumber,
         date: concertData.date,
         date_unknown: false,
@@ -376,10 +383,10 @@ exports.processNewConcert = functions.firestore
         updated_at: admin.firestore.FieldValue.serverTimestamp()
       });
 
-      console.log(`Successfully processed concert ${concertId} (Show #${showNumber})`);
+      console.log(`Successfully processed concert ${nextConcertId} (Show #${showNumber})`);
 
       // Trigger deployment
-      await triggerGitHubDeployment(concertId, 'new-concert');
+      await triggerGitHubDeployment(nextConcertId, 'new-concert');
 
       return null;
 

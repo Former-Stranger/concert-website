@@ -1,9 +1,9 @@
 {
-  "total_concerts": 1270,
-  "concerts_with_setlists": 1225,
-  "total_songs": 17949,
-  "total_artists": 612,
-  "total_venues": 192,
+  "total_concerts": 1271,
+  "concerts_with_setlists": 1227,
+  "total_songs": 17993,
+  "total_artists": 613,
+  "total_venues": 193,
   "top_artists": [
     {
       "name": "Billy Joel",
@@ -91,7 +91,7 @@
   "concerts_by_year": [
     {
       "year": 2025,
-      "count": 45
+      "count": 46
     },
     {
       "year": 2024,
@@ -218,5 +218,5 @@
       "count": 4
     }
   ],
-  "generated_at": "2025-10-15T18:08:48.179171"
+  "generated_at": "2025-10-15T18:27:52.874156"
 }
