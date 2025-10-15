@@ -346,10 +346,6 @@
         }
 
         window.approveSubmission = async function(submissionId) {
-            if (!confirm('Are you sure you want to approve this submission? The setlist will be automatically imported into the database.')) {
-                return;
-            }
-
             try {
                 const submissionRef = doc(db, 'pending_setlist_submissions', submissionId);
                 await updateDoc(submissionRef, {
@@ -358,7 +354,6 @@
                     reviewedBy: auth.currentUser.email
                 });
 
-                alert('Submission approved! The setlist is being automatically imported. You can run the export script to update the website.');
                 location.reload();
 
             } catch (error) {
