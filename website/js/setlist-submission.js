@@ -2,8 +2,6 @@ import { db, auth } from './firebase-config.js';
 import { collection, addDoc, query, where, getDocs } from 'https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js';
 import { isOwner } from './auth.js';
 
-const SETLISTFM_API_KEY = "DrR0j3jlKSLRrXSTsd_r71QUIA24ZQydjpsE";
-
 export async function initSetlistSubmission() {
     const submitBtn = document.getElementById('submit-setlist-btn');
     const urlInput = document.getElementById('setlistfm-url');

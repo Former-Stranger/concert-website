@@ -8,6 +8,7 @@ echo ""
 
 # Export data from Firestore
 echo "📊 Exporting data from Firestore..."
+export GOOGLE_CLOUD_PROJECT=earplugs-and-memories
 python3 scripts/export_to_web.py
 
 if [ $? -ne 0 ]; then

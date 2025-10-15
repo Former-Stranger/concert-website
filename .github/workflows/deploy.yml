@@ -2,7 +2,7 @@ name: Deploy to Firebase
 
 on:
   repository_dispatch:
-    types: [deploy-setlist]
+    types: [deploy-setlist, new-concert]
   workflow_dispatch:
 
 jobs:

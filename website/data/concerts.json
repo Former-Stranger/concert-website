@@ -8,7 +8,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "The Doobie Brothers, Coral Reefer Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1274",
@@ -52,7 +52,7 @@
     "city": "Katonah",
     "state": "NY",
     "artists": "Lyle Lovett, His Large Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1270",
@@ -96,7 +96,7 @@
     "city": "Bridgeport",
     "state": "CT",
     "artists": "Brad Paisley",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1266",
@@ -547,7 +547,7 @@
     "city": "Brooklyn",
     "state": "NY",
     "artists": "Zach Bryan",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1225",
@@ -14011,17 +14011,6 @@
     "city": "White Plains",
     "state": "NY",
     "artists": "Kenny Rogers",
-    "hasSetlist": false
-  },
-  {
-    "id": "1",
-    "show_number": null,
-    "date": "",
-    "festival_name": null,
-    "venue": "",
-    "city": "",
-    "state": "",
-    "artists": "",
     "hasSetlist": false
   }
 ]

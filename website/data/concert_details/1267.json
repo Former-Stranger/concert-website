@@ -1,0 +1,196 @@
+{
+  "id": "1267",
+  "show_number": 1266,
+  "date": "2025-07-18",
+  "festival_name": null,
+  "venue": "Bridgeport",
+  "city": "Bridgeport",
+  "state": "CT",
+  "artists": [
+    {
+      "name": "Brad Paisley",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/brad-paisley/2025/hartford-healthcare-amphitheater-bridgeport-ct-3b5b7420.html",
+  "song_count": 22,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Truck Still Works",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Mountain Music / Old Alabama",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Wrapped Around",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Perfect Storm",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "The World",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Ticks",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "She's Everything",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Last Time for Everything",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Online",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Mr. Policeman / East Bound and Down / In the Jailhouse Now",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "Little Moments/Letter to Me",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "Then",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Water",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "A Country Boy Can Survive",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Hank Williams, Jr."
+    },
+    {
+      "position": 15,
+      "name": "I'm Still a Guy",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Celebrity",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "Whiskey Lullaby",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jon Randall"
+    },
+    {
+      "position": 18,
+      "name": "I'm Gonna Miss Her (The Fishin' Song)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 19,
+      "name": "River Bank",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "Mud on the Tires",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 21,
+      "name": "Alcohol",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 22,
+      "name": "Country Road",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

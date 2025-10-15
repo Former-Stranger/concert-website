@@ -8,9 +8,8 @@ let currentUser = null;
 let pendingSetlistsCount = 0;
 let unsubscribePendingCount = null;
 
-// Owner UID - we'll set this to your friend's Google ID after he logs in the first time
-// For now, leave empty - the first person to log in will be considered the owner
-const OWNER_UID = '';  // We'll update this later
+// Owner UID - set to the owner's Firebase Auth UID
+const OWNER_UID = 'jBa71VgYp0Qz782bawa4SgjHu1l1';
 
 // Initialize auth state listener
 function initAuth() {

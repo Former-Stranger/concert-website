@@ -62,15 +62,27 @@ exports.fetchSetlist = functions.https.onRequest(async (req, res) => {
   }
 });
 
-// Firestore trigger to automatically import approved setlist submissions
+// Firestore trigger to automatically import approved setlist submissions (uses onWrite to handle both creates and updates)
 exports.processApprovedSetlist = functions.firestore
   .document('pending_setlist_submissions/{submissionId}')
-  .onUpdate(async (change, context) => {
-    const newData = change.after.data();
-    const oldData = change.before.data();
+  .onWrite(async (change, context) => {
+    const newData = change.after.exists ? change.after.data() : null;
+    const oldData = change.before.exists ? change.before.data() : null;
 
-    // Only process if status changed to 'approved'
-    if (newData.status !== 'approved' || oldData.status === 'approved') {
+    // Skip if document was deleted
+    if (!newData) {
+      return null;
+    }
+
+    // Only process if:
+    // 1. Status is 'approved' AND
+    // 2. Either this is a new document OR status just changed to 'approved' AND
+    // 3. Not already processed
+    const isNewAndApproved = !oldData && newData.status === 'approved';
+    const justApproved = oldData && newData.status === 'approved' && oldData.status !== 'approved';
+    const alreadyProcessed = newData.processed === true;
+
+    if ((!isNewAndApproved && !justApproved) || alreadyProcessed) {
       return null;
     }
 
@@ -194,11 +206,11 @@ exports.triggerDeploy = functions.firestore
       const githubOwner = 'Former-Stranger';
       const githubRepo = 'concert-website';
 
-      // Get GitHub token from environment (will be set as a Cloud Function environment variable)
-      const githubToken = process.env.GITHUB_TOKEN;
+      // Get GitHub token from Firebase Functions config
+      const githubToken = functions.config().github.token;
 
       if (!githubToken) {
-        throw new Error('GITHUB_TOKEN environment variable not set');
+        throw new Error('GitHub token not configured. Run: firebase functions:config:set github.token="YOUR_TOKEN"');
       }
 
       // Trigger GitHub Actions workflow via repository dispatch
@@ -238,3 +250,185 @@ exports.triggerDeploy = functions.firestore
       return null;
     }
   });
+
+// Process new concert additions from the web form
+exports.processNewConcert = functions.firestore
+  .document('concerts/{concertId}')
+  .onCreate(async (snap, context) => {
+    const concertData = snap.data();
+    const concertId = context.params.concertId;
+
+    // Check if this is a form submission (has 'status' field)
+    if (!concertData.status || concertData.status !== 'pending') {
+      return null;
+    }
+
+    console.log(`Processing new concert from web form: ${concertId}`);
+
+    try {
+      const db = admin.firestore();
+
+      // Helper function to find or create artist
+      async function getOrCreateArtist(artistName) {
+        // Search for existing artist (case-insensitive)
+        const artistsQuery = await db.collection('artists')
+          .where('canonical_name', '==', artistName)
+          .limit(1)
+          .get();
+
+        if (!artistsQuery.empty) {
+          const doc = artistsQuery.docs[0];
+          return { id: doc.id, name: doc.data().canonical_name };
+        }
+
+        // Create new artist
+        const newArtistRef = db.collection('artists').doc();
+        await newArtistRef.set({
+          canonical_name: artistName,
+          created_at: admin.firestore.FieldValue.serverTimestamp()
+        });
+
+        console.log(`Created new artist: ${artistName} (${newArtistRef.id})`);
+        return { id: newArtistRef.id, name: artistName };
+      }
+
+      // Helper function to find or create venue
+      async function getOrCreateVenue(venueName, city, state) {
+        // Search for existing venue
+        const venuesQuery = await db.collection('venues')
+          .where('canonical_name', '==', venueName)
+          .where('city', '==', city)
+          .where('state', '==', state)
+          .limit(1)
+          .get();
+
+        if (!venuesQuery.empty) {
+          const doc = venuesQuery.docs[0];
+          return { id: doc.id, name: doc.data().canonical_name };
+        }
+
+        // Create new venue
+        const newVenueRef = db.collection('venues').doc();
+        await newVenueRef.set({
+          canonical_name: venueName,
+          city: city,
+          state: state,
+          created_at: admin.firestore.FieldValue.serverTimestamp()
+        });
+
+        console.log(`Created new venue: ${venueName} in ${city}, ${state} (${newVenueRef.id})`);
+        return { id: newVenueRef.id, name: venueName };
+      }
+
+      // Get or create artist
+      const headlinerArtist = await getOrCreateArtist(concertData.artist);
+      const artists = [{
+        artist_id: headlinerArtist.id,
+        artist_name: headlinerArtist.name,
+        role: 'headliner',
+        position: 1
+      }];
+
+      // Add support act if provided
+      if (concertData.support_act) {
+        const supportArtist = await getOrCreateArtist(concertData.support_act);
+        artists.push({
+          artist_id: supportArtist.id,
+          artist_name: supportArtist.name,
+          role: 'opener',
+          position: 2
+        });
+      }
+
+      // Get or create venue
+      const venue = await getOrCreateVenue(
+        concertData.venue,
+        concertData.city,
+        concertData.state
+      );
+
+      // Get next show number
+      const concertsQuery = await db.collection('concerts')
+        .orderBy('show_number', 'desc')
+        .limit(1)
+        .get();
+
+      let showNumber = 1;
+      if (!concertsQuery.empty) {
+        const lastConcert = concertsQuery.docs[0].data();
+        showNumber = (lastConcert.show_number || 0) + 1;
+      }
+
+      // Update the concert with proper structure
+      await snap.ref.set({
+        show_number: showNumber,
+        date: concertData.date,
+        date_unknown: false,
+        venue_id: venue.id,
+        venue_name: venue.name,
+        city: concertData.city,
+        state: concertData.state,
+        festival_name: concertData.festival_name || null,
+        artists: artists,
+        has_setlist: false,
+        attended: true,
+        created_at: admin.firestore.FieldValue.serverTimestamp(),
+        updated_at: admin.firestore.FieldValue.serverTimestamp()
+      });
+
+      console.log(`Successfully processed concert ${concertId} (Show #${showNumber})`);
+
+      // Trigger deployment
+      await triggerGitHubDeployment(concertId, 'new-concert');
+
+      return null;
+
+    } catch (error) {
+      console.error(`Error processing new concert ${concertId}:`, error);
+      throw error;
+    }
+  });
+
+// Helper function to trigger GitHub Actions deployment
+async function triggerGitHubDeployment(entityId, eventType) {
+  try {
+    const githubOwner = 'Former-Stranger';
+    const githubRepo = 'concert-website';
+
+    // Get GitHub token from Firebase Functions config
+    const githubToken = functions.config().github?.token;
+
+    if (!githubToken) {
+      console.error('GitHub token not configured. Run: firebase functions:config:set github.token="YOUR_TOKEN"');
+      return;
+    }
+
+    // Trigger GitHub Actions workflow via repository dispatch
+    const response = await fetch(`https://api.github.com/repos/${githubOwner}/${githubRepo}/dispatches`, {
+      method: 'POST',
+      headers: {
+        'Accept': 'application/vnd.github.v3+json',
+        'Authorization': `token ${githubToken}`,
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        event_type: eventType,
+        client_payload: {
+          entity_id: entityId
+        }
+      })
+    });
+
+    if (!response.ok) {
+      throw new Error(`GitHub API error: ${response.status} ${response.statusText}`);
+    }
+
+    console.log(`GitHub Actions workflow triggered for ${eventType}: ${entityId}`);
+    console.log('Website will be automatically updated in a few minutes.');
+    console.log(`View workflow runs: https://github.com/${githubOwner}/${githubRepo}/actions`);
+
+  } catch (error) {
+    console.error(`Error triggering GitHub Actions: ${error.message}`);
+    console.log('AUTOMATIC DEPLOYMENT FAILED. Manual deployment required: ./deploy.sh');
+  }
+}

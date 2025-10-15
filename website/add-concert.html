@@ -148,29 +148,6 @@
             letter-spacing: 3px;
         }
 
-        .song-item {
-            background: white;
-            border: 2px solid #d4773e;
-            border-radius: 0.375rem;
-            padding: 0.75rem;
-            margin-bottom: 0.5rem;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-
-        .remove-btn {
-            color: #c1502e;
-            cursor: pointer;
-            font-size: 1.25rem;
-            transition: all 0.2s ease;
-        }
-
-        .remove-btn:hover {
-            color: #d4773e;
-            transform: scale(1.2);
-        }
-
         .alert {
             padding: 1rem;
             border-radius: 0.375rem;
@@ -358,43 +335,6 @@
                             <input type="text" id="state" name="state" class="form-input" placeholder="Enter state or province" required>
                         </div>
 
-                        <!-- Setlist.fm URL -->
-                        <div class="mb-6">
-                            <label class="form-label" for="setlistfm_url">
-                                <i class="fas fa-link mr-2"></i>Setlist.fm URL
-                            </label>
-                            <input type="url" id="setlistfm_url" name="setlistfm_url" class="form-input" placeholder="https://www.setlist.fm/setlist/...">
-                        </div>
-
-                        <!-- Setlist Section -->
-                        <div class="mb-6">
-                            <label class="form-label">
-                                <i class="fas fa-music mr-2"></i>Setlist
-                            </label>
-
-                            <div class="mb-3">
-                                <input type="text" id="song-name" class="form-input mb-2" placeholder="Song name">
-                                <div class="flex gap-2 mb-2">
-                                    <label class="flex items-center">
-                                        <input type="checkbox" id="is-cover" class="mr-2">
-                                        <span class="text-sm">Cover Song</span>
-                                    </label>
-                                    <label class="flex items-center">
-                                        <input type="checkbox" id="is-encore" class="mr-2">
-                                        <span class="text-sm">Encore</span>
-                                    </label>
-                                </div>
-                                <input type="text" id="cover-artist" class="form-input mb-2 hidden" placeholder="Original artist">
-                                <button type="button" id="add-song-btn" class="btn-secondary w-full">
-                                    <i class="fas fa-plus mr-2"></i>Add Song
-                                </button>
-                            </div>
-
-                            <div id="setlist-container" class="space-y-2">
-                                <!-- Songs will be added here -->
-                            </div>
-                        </div>
-
                         <!-- Submit Button -->
                         <div class="flex gap-4">
                             <button type="submit" class="btn-primary flex-1" id="submit-btn">
@@ -425,9 +365,6 @@
                 document.getElementById('concert-form-container').classList.remove('hidden');
             }
         }, 500);
-
-        // Store setlist songs
-        let setlistSongs = [];
 
         // Load artists and venues for autocomplete
         let allArtists = [];
@@ -569,73 +506,6 @@
         // Load autocomplete data
         loadAutocompleteData();
 
-        // Show/hide cover artist field
-        document.getElementById('is-cover').addEventListener('change', (e) => {
-            const coverArtistField = document.getElementById('cover-artist');
-            if (e.target.checked) {
-                coverArtistField.classList.remove('hidden');
-            } else {
-                coverArtistField.classList.add('hidden');
-                coverArtistField.value = '';
-            }
-        });
-
-        // Add song to setlist
-        document.getElementById('add-song-btn').addEventListener('click', () => {
-            const songName = document.getElementById('song-name').value.trim();
-            if (!songName) return;
-
-            const isCover = document.getElementById('is-cover').checked;
-            const isEncore = document.getElementById('is-encore').checked;
-            const coverArtist = isCover ? document.getElementById('cover-artist').value.trim() : null;
-
-            const song = {
-                position: setlistSongs.length + 1,
-                name: songName,
-                is_cover: isCover,
-                cover_artist: coverArtist,
-                encore: isEncore ? 1 : 0
-            };
-
-            setlistSongs.push(song);
-            renderSetlist();
-
-            // Clear inputs
-            document.getElementById('song-name').value = '';
-            document.getElementById('is-cover').checked = false;
-            document.getElementById('is-encore').checked = false;
-            document.getElementById('cover-artist').value = '';
-            document.getElementById('cover-artist').classList.add('hidden');
-        });
-
-        // Render setlist
-        function renderSetlist() {
-            const container = document.getElementById('setlist-container');
-            container.innerHTML = setlistSongs.map((song, index) => `
-                <div class="song-item">
-                    <div>
-                        <span class="font-bold">${song.position}.</span>
-                        ${song.name}
-                        ${song.is_cover ? `<span class="text-xs opacity-70">(${song.cover_artist})</span>` : ''}
-                        ${song.encore ? '<span class="text-xs font-bold" style="color: #c1502e;">ENCORE</span>' : ''}
-                    </div>
-                    <span class="remove-btn" onclick="removeSong(${index})">
-                        <i class="fas fa-times"></i>
-                    </span>
-                </div>
-            `).join('');
-        }
-
-        // Remove song from setlist
-        window.removeSong = function(index) {
-            setlistSongs.splice(index, 1);
-            // Renumber positions
-            setlistSongs.forEach((song, i) => {
-                song.position = i + 1;
-            });
-            renderSetlist();
-        };
-
         // Show alert
         function showAlert(message, type) {
             const container = document.getElementById('alert-container');
@@ -672,8 +542,6 @@
                     venue: document.getElementById('venue').value.trim(),
                     city: document.getElementById('city').value.trim(),
                     state: document.getElementById('state').value.trim(),
-                    setlistfm_url: document.getElementById('setlistfm_url').value.trim() || null,
-                    setlist: setlistSongs,
                     created_at: serverTimestamp(),
                     status: 'pending' // Will need to be manually added to SQLite database
                 };
@@ -681,12 +549,10 @@
                 // Save to Firestore
                 await addDoc(collection(db, 'concerts'), formData);
 
-                showAlert('Concert saved! You will need to manually add it to the database.', 'success');
+                showAlert('Concert saved successfully! The website will update automatically in 2-3 minutes.', 'success');
 
                 // Reset form
                 document.getElementById('concert-form').reset();
-                setlistSongs = [];
-                renderSetlist();
 
             } catch (error) {
                 console.error('Error saving concert:', error);

@@ -8,12 +8,8 @@ service cloud.firestore {
     }
 
     // Helper function to check if user is the owner
-    // For now, any authenticated user is considered owner since OWNER_UID is empty
-    // Later, you can update this to check against specific UIDs
     function isOwner() {
-      return isAuthenticated();
-      // After setting OWNER_UID in auth.js, update this to:
-      // return isAuthenticated() && request.auth.uid == 'OWNER_UID_HERE';
+      return isAuthenticated() && request.auth.uid == 'jBa71VgYp0Qz782bawa4SgjHu1l1';
     }
 
     // Concert entries from the form

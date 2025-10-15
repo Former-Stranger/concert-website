@@ -2,7 +2,48 @@
   "id": "248",
   "name": "His Large Band",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Blues Walk",
+      "times_played": 1
+    },
+    {
+      "name": "Pass Me Not, O Gentle Saviour",
+      "times_played": 1
+    },
+    {
+      "name": "I'm a Soldier in the Army of the Lord",
+      "times_played": 1
+    },
+    {
+      "name": "Church",
+      "times_played": 1
+    },
+    {
+      "name": "Here I Am",
+      "times_played": 1
+    },
+    {
+      "name": "Pants Is Overrated",
+      "times_played": 1
+    },
+    {
+      "name": "It's a Naked Party",
+      "times_played": 1
+    },
+    {
+      "name": "Pig Meat Man",
+      "times_played": 1
+    },
+    {
+      "name": "Cowboy Man",
+      "times_played": 1
+    },
+    {
+      "name": "Penguins",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1271",
