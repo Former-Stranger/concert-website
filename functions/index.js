@@ -347,19 +347,28 @@ exports.processNewConcert = functions.firestore
         concertData.state
       );
 
-      // Get next concert ID (numeric) - use the highest concert_id + 1
-      const concertsQuery = await db.collection('concerts')
-        .orderBy('concert_id', 'desc')
-        .limit(1)
-        .get();
+      // Get next concert ID (numeric) - find the highest numeric document ID
+      const allConcerts = await db.collection('concerts').get();
 
-      let nextConcertId = 1;
-      let showNumber = 1;
-      if (!concertsQuery.empty) {
-        const lastConcert = concertsQuery.docs[0].data();
-        nextConcertId = (lastConcert.concert_id || 0) + 1;
-        showNumber = (lastConcert.show_number || 0) + 1;
+      let maxId = 0;
+      let maxShowNumber = 0;
+
+      for (const doc of allConcerts.docs) {
+        // Try to parse document ID as number
+        const docIdNum = parseInt(doc.id);
+        if (!isNaN(docIdNum) && docIdNum > maxId) {
+          maxId = docIdNum;
+        }
+
+        // Also track max show number
+        const showNum = doc.data().show_number || 0;
+        if (showNum > maxShowNumber) {
+          maxShowNumber = showNum;
+        }
       }
+
+      const nextConcertId = maxId + 1;
+      const showNumber = maxShowNumber + 1;
 
       // Delete the auto-generated document
       await snap.ref.delete();
@@ -367,7 +376,6 @@ exports.processNewConcert = functions.firestore
       // Create new document with numeric ID
       const newConcertRef = db.collection('concerts').doc(String(nextConcertId));
       await newConcertRef.set({
-        concert_id: nextConcertId,
         show_number: showNumber,
         date: concertData.date,
         date_unknown: false,
