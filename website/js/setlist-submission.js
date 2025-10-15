@@ -1,5 +1,6 @@
 import { db, auth } from './firebase-config.js';
 import { collection, addDoc, query, where, getDocs } from 'https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js';
+import { isOwner } from './auth.js';
 
 const SETLISTFM_API_KEY = "DrR0j3jlKSLRrXSTsd_r71QUIA24ZQydjpsE";
 
@@ -62,8 +63,8 @@ export async function initSetlistSubmission() {
             const submitterName = user ? user.displayName || 'Anonymous' : 'Anonymous';
 
             // Check if user is owner (auto-approve owner submissions)
-            const isOwner = user && user.email === 'akalbfell@gmail.com';
-            const status = isOwner ? 'approved' : 'pending';
+            const userIsOwner = isOwner();
+            const status = userIsOwner ? 'approved' : 'pending';
 
             // Store in Firestore with the fetched setlist data
             await addDoc(collection(db, 'pending_setlist_submissions'), {
@@ -77,7 +78,7 @@ export async function initSetlistSubmission() {
                 setlistData: setlistData
             });
 
-            const message = isOwner
+            const message = userIsOwner
                 ? 'Setlist submitted and automatically approved! The website will update in a few minutes.'
                 : 'Thank you! Your submission has been received and will be reviewed by an admin';
             showMessage(messageDiv, message, 'success');
