@@ -126,12 +126,18 @@
                 <a href="index.html" class="text-2xl md:text-3xl poster-title hover:opacity-80 transition">
                     <i class="fas fa-guitar mr-2"></i>Jason's Concert Archive
                 </a>
-                <div class="space-x-8">
+                <div class="flex items-center flex-wrap gap-4 md:space-x-8">
                     <a href="index.html" class="nav-link">Home</a>
                     <a href="concerts.html" class="nav-link">Shows</a>
                     <a href="artists.html" class="nav-link">Artists</a>
                     <a href="venues.html" class="nav-link" style="color: #fff; text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);">Venues</a>
                     <a href="songs.html" class="nav-link">Songs</a>
+                    <a href="add-concert.html" id="add-concert-nav" class="nav-link hidden">Add Show</a>
+                    <a href="admin-setlists.html" id="admin-setlists-nav" class="nav-link hidden">Pending Setlists</a>
+                    <div id="user-info" class="hidden text-[#f4e4c1]"></div>
+                    <button id="auth-button" class="nav-link bg-[#c1502e] px-4 py-2 rounded hover:bg-[#d4773e] transition">
+                        <i class="fas fa-sign-in-alt mr-2"></i>Sign In
+                    </button>
                 </div>
             </div>
         </nav>
@@ -219,6 +225,10 @@
             loadVenues();
             document.getElementById('search').addEventListener('input', applyFilter);
         });
+    </script>
+    <script type="module">
+        import { initAuth } from './js/auth.js';
+        initAuth();
     </script>
 </body>
 </html>
