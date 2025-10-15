@@ -167,10 +167,22 @@
 
         <div class="container mx-auto px-4">
             <div class="section-card rounded-lg p-8">
-                <!-- Back button -->
-                <a href="concerts.html" class="back-link inline-block mb-6 text-lg">
-                    <i class="fas fa-arrow-left mr-2"></i>Back to All Shows
-                </a>
+                <!-- Back button and Admin Actions -->
+                <div class="flex justify-between items-center mb-6">
+                    <a href="concerts.html" class="back-link text-lg">
+                        <i class="fas fa-arrow-left mr-2"></i>Back to All Shows
+                    </a>
+
+                    <!-- Admin Actions (Owner Only) -->
+                    <div id="admin-actions" class="hidden">
+                        <button id="edit-concert-btn" class="bg-[#d4773e] text-[#f4e4c1] px-4 py-2 rounded font-bold hover:bg-[#c1502e] transition mr-2">
+                            <i class="fas fa-edit mr-2"></i>Edit
+                        </button>
+                        <button id="delete-concert-btn" class="bg-red-600 text-white px-4 py-2 rounded font-bold hover:bg-red-700 transition">
+                            <i class="fas fa-trash mr-2"></i>Delete
+                        </button>
+                    </div>
+                </div>
 
                 <!-- Concert Header -->
                 <div id="concert-header" class="mb-8">
@@ -277,13 +289,82 @@
 
     <script src="js/concert.js"></script>
     <script type="module">
-        import { initAuth } from './js/auth.js';
+        import { initAuth, isOwner } from './js/auth.js';
         import { initNotesAndComments } from './js/concert-notes.js';
         import { initSetlistSubmission } from './js/setlist-submission.js';
+        import { db } from './js/firebase-config.js';
+        import { doc, deleteDoc, collection, query, where, getDocs } from 'https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js';
 
         initAuth();
         initNotesAndComments();
         initSetlistSubmission();
+
+        // Show admin actions if owner
+        setTimeout(() => {
+            if (isOwner()) {
+                document.getElementById('admin-actions').classList.remove('hidden');
+            }
+        }, 500);
+
+        // Get concert ID from URL
+        const urlParams = new URLSearchParams(window.location.search);
+        const concertId = urlParams.get('id');
+
+        // Edit concert button
+        document.getElementById('edit-concert-btn').addEventListener('click', () => {
+            // For now, redirect to add-concert page with concert ID
+            // TODO: Create an edit page or make add-concert page handle editing
+            alert('Edit functionality coming soon! For now, you can delete and recreate the concert.');
+        });
+
+        // Delete concert button
+        document.getElementById('delete-concert-btn').addEventListener('click', async () => {
+            if (!concertId) {
+                alert('Concert ID not found');
+                return;
+            }
+
+            const confirmed = confirm('Are you sure you want to delete this concert? This action cannot be undone.');
+            if (!confirmed) return;
+
+            try {
+                // Delete the concert from Firestore
+                await deleteDoc(doc(db, 'concerts', concertId));
+
+                // Also delete associated setlist if it exists
+                try {
+                    const setlistsQuery = query(
+                        collection(db, 'setlists'),
+                        where('concert_id', '==', concertId)
+                    );
+                    const setlistsSnapshot = await getDocs(setlistsQuery);
+
+                    for (const setlistDoc of setlistsSnapshot.docs) {
+                        await deleteDoc(setlistDoc.ref);
+                    }
+                } catch (err) {
+                    console.log('No setlist to delete or error deleting setlist:', err);
+                }
+
+                alert('Concert deleted successfully! Redirecting to concerts list...');
+
+                // Trigger deployment to update website
+                try {
+                    await fetch('https://us-central1-earplugs-and-memories.cloudfunctions.net/triggerDeploy', {
+                        method: 'POST'
+                    });
+                } catch (err) {
+                    console.log('Could not trigger automatic deployment:', err);
+                }
+
+                // Redirect to concerts page
+                window.location.href = 'concerts.html';
+
+            } catch (error) {
+                console.error('Error deleting concert:', error);
+                alert('Error deleting concert. Please try again.');
+            }
+        });
     </script>
 </body>
 </html>
