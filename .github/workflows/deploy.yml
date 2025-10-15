@@ -24,8 +24,9 @@ jobs:
       - name: Export data from Firestore
         env:
           GOOGLE_CLOUD_PROJECT: earplugs-and-memories
+          GOOGLE_APPLICATION_CREDENTIALS_JSON: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS }}
         run: |
-          echo "${{ secrets.GOOGLE_APPLICATION_CREDENTIALS }}" | base64 --decode > $HOME/gcloud-key.json
+          echo "$GOOGLE_APPLICATION_CREDENTIALS_JSON" | base64 -d > $HOME/gcloud-key.json
           export GOOGLE_APPLICATION_CREDENTIALS=$HOME/gcloud-key.json
           python3 scripts/export_to_web.py
 
