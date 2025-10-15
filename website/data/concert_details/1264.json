@@ -1,0 +1,172 @@
+{
+  "id": "1264",
+  "show_number": 1263,
+  "date": "2025-06-25",
+  "festival_name": null,
+  "venue": "City Winery",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Benmont Tench",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/benmont-tench/2025/city-winery-new-york-city-new-york-ny-7359ca05.html",
+  "song_count": 19,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Today I Took Your Picture Down",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Love Will Tear Us Apart",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Joy Division"
+    },
+    {
+      "position": 3,
+      "name": "Welcome to Hell",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Mudcrutch"
+    },
+    {
+      "position": 4,
+      "name": "Under the Starlight",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Straight Into Darkness",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tom Petty and the Heartbreakers"
+    },
+    {
+      "position": 6,
+      "name": "Bye Bye Johnny",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Chuck Berry"
+    },
+    {
+      "position": 7,
+      "name": "The Melancholy Season",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Pledge",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Rattle",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "China Doll",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 11,
+      "name": "Like Crystal",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "Wobbles",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Blind Willie McTell",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Dylan"
+    },
+    {
+      "position": 14,
+      "name": "You Should Be So Lucky",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "If She Knew",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "I Will Not Follow You Down",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "Rock & Roll",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Velvet Underground"
+    },
+    {
+      "position": 18,
+      "name": "Dallas",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 19,
+      "name": "American Girl",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Tom Petty and the Heartbreakers"
+    }
+  ]
+}

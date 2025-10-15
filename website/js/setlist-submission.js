@@ -26,7 +26,7 @@ export async function initSetlistSubmission() {
 
         // Get current concert ID
         const urlParams = new URLSearchParams(window.location.search);
-        const concertId = parseInt(urlParams.get('id'));
+        const concertId = urlParams.get('id');
 
         if (!concertId) {
             showMessage(messageDiv, 'Concert ID not found', 'error');
