@@ -1,8 +1,12 @@
 // Authentication module
 import { auth, googleProvider, signInWithPopup, signOut, onAuthStateChanged } from './firebase-config.js';
+import { db } from './firebase-config.js';
+import { collection, query, where, onSnapshot } from 'https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js';
 
 // Current user state
 let currentUser = null;
+let pendingSetlistsCount = 0;
+let unsubscribePendingCount = null;
 
 // Owner UID - we'll set this to your friend's Google ID after he logs in the first time
 // For now, leave empty - the first person to log in will be considered the owner
@@ -13,6 +17,38 @@ function initAuth() {
     onAuthStateChanged(auth, (user) => {
         currentUser = user;
         updateAuthUI();
+
+        // Subscribe to pending setlists count if user is owner
+        if (user && isOwner()) {
+            subscribeToPendingCount();
+        } else {
+            // Unsubscribe if not owner
+            if (unsubscribePendingCount) {
+                unsubscribePendingCount();
+                unsubscribePendingCount = null;
+            }
+            pendingSetlistsCount = 0;
+        }
+    });
+}
+
+// Subscribe to pending setlists count
+function subscribeToPendingCount() {
+    // Unsubscribe from previous listener if any
+    if (unsubscribePendingCount) {
+        unsubscribePendingCount();
+    }
+
+    const q = query(
+        collection(db, 'pending_setlist_submissions'),
+        where('status', '==', 'pending')
+    );
+
+    unsubscribePendingCount = onSnapshot(q, (snapshot) => {
+        pendingSetlistsCount = snapshot.size;
+        updateAuthUI();
+    }, (error) => {
+        console.error('Error listening to pending setlists:', error);
     });
 }
 
@@ -71,6 +107,13 @@ function updateAuthUI() {
         }
         if (adminSetlistsNav && isOwner()) {
             adminSetlistsNav.classList.remove('hidden');
+
+            // Update the text with pending count
+            if (pendingSetlistsCount > 0) {
+                adminSetlistsNav.innerHTML = `Pending Setlists <span style="background: #f87171; color: white; padding: 0.25rem 0.5rem; border-radius: 9999px; font-size: 0.75rem; font-weight: bold; margin-left: 0.5rem;">${pendingSetlistsCount}</span>`;
+            } else {
+                adminSetlistsNav.textContent = 'Pending Setlists';
+            }
         }
     } else {
         // User is signed out
