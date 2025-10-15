@@ -4,6 +4,14 @@
   "concert_count": 2,
   "top_songs": [
     {
+      "name": "Losers",
+      "times_played": 2
+    },
+    {
+      "name": "I Had Some Help",
+      "times_played": 2
+    },
+    {
       "name": "I Am Not Okay",
       "times_played": 1
     },
@@ -33,14 +41,6 @@
     },
     {
       "name": "Friends in Low Places",
-      "times_played": 1
-    },
-    {
-      "name": "Losers",
-      "times_played": 1
-    },
-    {
-      "name": "I Had Some Help",
       "times_played": 1
     }
   ],

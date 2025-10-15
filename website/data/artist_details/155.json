@@ -4,12 +4,20 @@
   "concert_count": 22,
   "top_songs": [
     {
+      "name": "Don't Drink the Water",
+      "times_played": 10
+    },
+    {
       "name": "Two Step",
       "times_played": 9
     },
     {
-      "name": "Don't Drink the Water",
-      "times_played": 9
+      "name": "Grey Street",
+      "times_played": 8
+    },
+    {
+      "name": "Warehouse",
+      "times_played": 8
     },
     {
       "name": "Jimi Thing",
@@ -28,19 +36,11 @@
       "times_played": 7
     },
     {
-      "name": "Grey Street",
-      "times_played": 7
-    },
-    {
-      "name": "Warehouse",
-      "times_played": 7
-    },
-    {
       "name": "All Along the Watchtower",
       "times_played": 7
     },
     {
-      "name": "Stay (Wasting Time)",
+      "name": "Tripping Billies",
       "times_played": 7
     }
   ],

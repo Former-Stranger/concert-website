@@ -2,7 +2,48 @@
   "id": "434",
   "name": "Post Malone",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Texas Tea",
+      "times_played": 1
+    },
+    {
+      "name": "Wow.",
+      "times_played": 1
+    },
+    {
+      "name": "Better Now",
+      "times_played": 1
+    },
+    {
+      "name": "Wrong Ones",
+      "times_played": 1
+    },
+    {
+      "name": "Go Flex",
+      "times_played": 1
+    },
+    {
+      "name": "Broken Whiskey Glass",
+      "times_played": 1
+    },
+    {
+      "name": "Hollywood's Bleeding",
+      "times_played": 1
+    },
+    {
+      "name": "I Fall Apart",
+      "times_played": 1
+    },
+    {
+      "name": "Losers",
+      "times_played": 1
+    },
+    {
+      "name": "Goodbyes",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1257",

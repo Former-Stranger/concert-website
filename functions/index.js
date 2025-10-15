@@ -175,7 +175,7 @@ exports.processApprovedSetlist = functions.firestore
     }
   });
 
-// Trigger Cloud Build to export and deploy when a setlist is processed
+// Trigger GitHub Actions to export and deploy when a setlist is processed
 exports.triggerDeploy = functions.firestore
   .document('pending_setlist_submissions/{submissionId}')
   .onUpdate(async (change, context) => {
@@ -191,73 +191,44 @@ exports.triggerDeploy = functions.firestore
     console.log(`Triggering automatic deployment for submission ${submissionId}`);
 
     try {
-      const cloudbuild = new CloudBuildClient();
-      const projectId = 'earplugs-and-memories';
-
-      // GitHub repository details
       const githubOwner = 'Former-Stranger';
       const githubRepo = 'concert-website';
 
-      // Trigger the Cloud Build using the cloudbuild.yaml file
-      const [operation] = await cloudbuild.createBuild({
-        projectId: projectId,
-        build: {
-          source: {
-            storageSource: {
-              bucket: `${projectId}_cloudbuild`,
-              object: 'source.tar.gz'
-            }
-          },
-          // Use the cloudbuild.yaml from the repo
-          steps: [
-            // Fetch from GitHub
-            {
-              name: 'gcr.io/cloud-builders/git',
-              args: ['clone', `https://github.com/${githubOwner}/${githubRepo}.git`, '.']
-            },
-            // Install Python dependencies
-            {
-              name: 'python:3.11',
-              entrypoint: 'pip',
-              args: ['install', 'firebase-admin']
-            },
-            // Export data from Firestore
-            {
-              name: 'python:3.11',
-              entrypoint: 'python3',
-              args: ['scripts/export_to_web.py']
-            },
-            // Deploy using official Node image with Firebase CLI
-            {
-              name: 'node:20',
-              entrypoint: 'bash',
-              args: [
-                '-c',
-                'npm install -g firebase-tools && firebase deploy --only hosting --project ' + projectId + ' --token $$FIREBASE_TOKEN'
-              ],
-              secretEnv: ['FIREBASE_TOKEN']
-            }
-          ],
-          availableSecrets: {
-            secretManager: [
-              {
-                versionName: `projects/${projectId}/secrets/firebase-token/versions/latest`,
-                env: 'FIREBASE_TOKEN'
-              }
-            ]
-          },
-          timeout: '1200s'
-        }
+      // Get GitHub token from environment (will be set as a Cloud Function environment variable)
+      const githubToken = process.env.GITHUB_TOKEN;
+
+      if (!githubToken) {
+        throw new Error('GITHUB_TOKEN environment variable not set');
+      }
+
+      // Trigger GitHub Actions workflow via repository dispatch
+      const response = await fetch(`https://api.github.com/repos/${githubOwner}/${githubRepo}/dispatches`, {
+        method: 'POST',
+        headers: {
+          'Accept': 'application/vnd.github.v3+json',
+          'Authorization': `token ${githubToken}`,
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          event_type: 'deploy-setlist',
+          client_payload: {
+            submission_id: submissionId
+          }
+        })
       });
 
-      console.log(`Cloud Build triggered: ${operation.name}`);
+      if (!response.ok) {
+        throw new Error(`GitHub API error: ${response.status} ${response.statusText}`);
+      }
+
+      console.log(`GitHub Actions workflow triggered for submission ${submissionId}`);
       console.log('Website will be automatically updated in a few minutes.');
-      console.log(`View build progress: https://console.cloud.google.com/cloud-build/builds;region=global/${operation.metadata.build.id}?project=${projectId}`);
+      console.log(`View workflow runs: https://github.com/${githubOwner}/${githubRepo}/actions`);
 
       return null;
 
     } catch (error) {
-      console.error(`Error triggering Cloud Build: ${error.message}`);
+      console.error(`Error triggering GitHub Actions: ${error.message}`);
       console.error('Full error:', error);
 
       // Fallback: Just log instructions
