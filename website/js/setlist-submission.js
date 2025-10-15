@@ -61,6 +61,10 @@ export async function initSetlistSubmission() {
             const submitterEmail = user ? user.email : 'anonymous';
             const submitterName = user ? user.displayName || 'Anonymous' : 'Anonymous';
 
+            // Check if user is owner (auto-approve owner submissions)
+            const isOwner = user && user.email === 'akalbfell@gmail.com';
+            const status = isOwner ? 'approved' : 'pending';
+
             // Store in Firestore with the fetched setlist data
             await addDoc(collection(db, 'pending_setlist_submissions'), {
                 concertId: concertId,
@@ -69,11 +73,14 @@ export async function initSetlistSubmission() {
                 submittedByEmail: submitterEmail,
                 submittedByName: submitterName,
                 submittedAt: new Date(),
-                status: 'pending',
+                status: status,
                 setlistData: setlistData
             });
 
-            showMessage(messageDiv, 'Thank you! Your submission has been received and will be reviewed by an admin', 'success');
+            const message = isOwner
+                ? 'Setlist submitted and automatically approved! The website will update in a few minutes.'
+                : 'Thank you! Your submission has been received and will be reviewed by an admin';
+            showMessage(messageDiv, message, 'success');
             urlInput.value = '';
 
             // Hide the submission form after successful submission
