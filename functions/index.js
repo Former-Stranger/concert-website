@@ -404,6 +404,30 @@ exports.processNewConcert = functions.firestore
     }
   });
 
+// HTTP endpoint to manually trigger deployment (for delete operations, etc.)
+exports.triggerManualDeploy = functions.https.onRequest(async (req, res) => {
+  // Enable CORS
+  res.set('Access-Control-Allow-Origin', '*');
+  res.set('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
+  res.set('Access-Control-Allow-Headers', 'Content-Type');
+
+  // Handle preflight request
+  if (req.method === 'OPTIONS') {
+    res.status(204).send('');
+    return;
+  }
+
+  console.log('Manual deployment triggered');
+
+  try {
+    await triggerGitHubDeployment('manual', 'manual-deploy');
+    res.status(200).json({ success: true, message: 'Deployment triggered successfully' });
+  } catch (error) {
+    console.error('Error triggering deployment:', error);
+    res.status(500).json({ success: false, error: error.message });
+  }
+});
+
 // Helper function to trigger GitHub Actions deployment
 async function triggerGitHubDeployment(entityId, eventType) {
   try {
@@ -445,5 +469,6 @@ async function triggerGitHubDeployment(entityId, eventType) {
   } catch (error) {
     console.error(`Error triggering GitHub Actions: ${error.message}`);
     console.log('AUTOMATIC DEPLOYMENT FAILED. Manual deployment required: ./deploy.sh');
+    throw error;
   }
 }
