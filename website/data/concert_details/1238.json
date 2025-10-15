@@ -1,32 +1,32 @@
 {
-  "id": "1201",
-  "show_number": 1200,
-  "date": "2024-09-30",
+  "id": "1238",
+  "show_number": 1237,
+  "date": "2025-02-22",
   "festival_name": null,
-  "venue": "Capitol Theatre",
-  "city": "Port Chester",
-  "state": "NY",
+  "venue": "Mohegan Sun Arena",
+  "city": "Uncasville",
+  "state": "CT",
   "artists": [
     {
-      "name": "The Doobie Brothers",
+      "name": "Billy Joel",
       "role": "headliner"
     }
   ],
-  "setlistfm_url": "https://www.setlist.fm/setlist/2353745b.html",
-  "song_count": 25,
+  "setlistfm_url": "https://www.setlist.fm/setlist/billy-joel/2025/mohegan-sun-arena-uncasville-ct-43524727.html",
+  "song_count": 26,
   "has_encore": true,
   "songs": [
     {
       "position": 1,
-      "name": "Take Me in Your Arms (Rock Me a Little While)",
+      "name": "The Natural (The End Title)",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Eddie Holland"
+      "cover_artist": "Randy Newman"
     },
     {
       "position": 2,
-      "name": "Here to Love You",
+      "name": "Movin' Out (Anthony's Song)",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -34,7 +34,7 @@
     },
     {
       "position": 3,
-      "name": "Dependin' on You",
+      "name": "Pressure",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -42,7 +42,7 @@
     },
     {
       "position": 4,
-      "name": "Rockin' Down the Highway",
+      "name": "Vienna",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -50,7 +50,7 @@
     },
     {
       "position": 5,
-      "name": "Walk This Road",
+      "name": "The Entertainer",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -58,15 +58,15 @@
     },
     {
       "position": 6,
-      "name": "Sweet Maxine",
+      "name": "Start Me Up",
       "set_name": "Main Set",
       "encore": 0,
-      "is_cover": false,
-      "cover_artist": null
+      "is_cover": true,
+      "cover_artist": "The Rolling Stones"
     },
     {
       "position": 7,
-      "name": "You Belong to Me",
+      "name": "An Innocent Man",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -74,7 +74,7 @@
     },
     {
       "position": 8,
-      "name": "Clear as the Driven Snow",
+      "name": "Zanzibar",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -82,7 +82,7 @@
     },
     {
       "position": 9,
-      "name": "Cannonball",
+      "name": "The Downeaster \"Alexa\"",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -90,7 +90,7 @@
     },
     {
       "position": 10,
-      "name": "Another Park, Another Sunday",
+      "name": "Allentown",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -98,7 +98,7 @@
     },
     {
       "position": 11,
-      "name": "It Keeps You Runnin'",
+      "name": "New York State of Mind",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -106,15 +106,15 @@
     },
     {
       "position": 12,
-      "name": "Spirit",
+      "name": "Whole Lotta Love",
       "set_name": "Main Set",
       "encore": 0,
-      "is_cover": false,
-      "cover_artist": null
+      "is_cover": true,
+      "cover_artist": "Led Zeppelin"
     },
     {
       "position": 13,
-      "name": "One Step Closer",
+      "name": "My Life",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -122,15 +122,15 @@
     },
     {
       "position": 14,
-      "name": "Eyes of Silver",
+      "name": "Your Song",
       "set_name": "Main Set",
       "encore": 0,
-      "is_cover": false,
-      "cover_artist": null
+      "is_cover": true,
+      "cover_artist": "Elton John"
     },
     {
       "position": 15,
-      "name": "Minute by Minute",
+      "name": "Only the Good Die Young",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -138,7 +138,7 @@
     },
     {
       "position": 16,
-      "name": "World Gone Crazy",
+      "name": "Sometimes a Fantasy",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -146,31 +146,31 @@
     },
     {
       "position": 17,
-      "name": "Without You",
+      "name": "Amazing Grace",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Newton"
+    },
+    {
+      "position": 18,
+      "name": "The River of Dreams",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
-      "position": 18,
-      "name": "Jesus Is Just Alright",
-      "set_name": "Main Set",
-      "encore": 0,
-      "is_cover": true,
-      "cover_artist": "The Art Reynolds Singers"
-    },
-    {
       "position": 19,
-      "name": "What a Fool Believes",
+      "name": "Nessun dorma",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Kenny Loggins"
+      "cover_artist": "Giacomo Puccini"
     },
     {
       "position": 20,
-      "name": "Long Train Runnin'",
+      "name": "Scenes From an Italian Restaurant",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -178,7 +178,7 @@
     },
     {
       "position": 21,
-      "name": "China Grove",
+      "name": "Piano Man",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -186,7 +186,7 @@
     },
     {
       "position": 22,
-      "name": "Black Water",
+      "name": "We Didn't Start the Fire",
       "set_name": "Main Set",
       "encore": 1,
       "is_cover": false,
@@ -194,15 +194,15 @@
     },
     {
       "position": 23,
-      "name": "Amazing Grace",
+      "name": "Uptown Girl",
       "set_name": "Main Set",
       "encore": 1,
-      "is_cover": true,
-      "cover_artist": "John Newton"
+      "is_cover": false,
+      "cover_artist": null
     },
     {
       "position": 24,
-      "name": "Takin' It to the Streets",
+      "name": "It's Still Rock and Roll to Me",
       "set_name": "Main Set",
       "encore": 1,
       "is_cover": false,
@@ -210,7 +210,15 @@
     },
     {
       "position": 25,
-      "name": "Listen to the Music",
+      "name": "Big Shot",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 26,
+      "name": "You May Be Right",
       "set_name": "Main Set",
       "encore": 1,
       "is_cover": false,

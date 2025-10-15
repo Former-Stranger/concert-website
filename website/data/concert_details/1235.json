@@ -1,32 +1,32 @@
 {
-  "id": "1201",
-  "show_number": 1200,
-  "date": "2024-09-30",
+  "id": "1235",
+  "show_number": 1234,
+  "date": "2025-02-11",
   "festival_name": null,
-  "venue": "Capitol Theatre",
-  "city": "Port Chester",
+  "venue": "Kings Theatre",
+  "city": "Brooklyn",
   "state": "NY",
   "artists": [
     {
-      "name": "The Doobie Brothers",
+      "name": "Jack White",
       "role": "headliner"
     }
   ],
-  "setlistfm_url": "https://www.setlist.fm/setlist/2353745b.html",
-  "song_count": 25,
+  "setlistfm_url": "https://www.setlist.fm/setlist/jack-white/2025/kings-theatre-brooklyn-ny-635eea33.html",
+  "song_count": 22,
   "has_encore": true,
   "songs": [
     {
       "position": 1,
-      "name": "Take Me in Your Arms (Rock Me a Little While)",
+      "name": "Old Scratch Blues",
       "set_name": "Main Set",
       "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Eddie Holland"
+      "is_cover": false,
+      "cover_artist": null
     },
     {
       "position": 2,
-      "name": "Here to Love You",
+      "name": "That's How I'm Feeling",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -34,15 +34,15 @@
     },
     {
       "position": 3,
-      "name": "Dependin' on You",
+      "name": "Little Queen of Spades",
       "set_name": "Main Set",
       "encore": 0,
-      "is_cover": false,
-      "cover_artist": null
+      "is_cover": true,
+      "cover_artist": "Robert Johnson"
     },
     {
       "position": 4,
-      "name": "Rockin' Down the Highway",
+      "name": "It's Rough on Rats (If You're Asking)",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -50,7 +50,7 @@
     },
     {
       "position": 5,
-      "name": "Walk This Road",
+      "name": "Yes Yes Yes, No Duress",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -58,23 +58,23 @@
     },
     {
       "position": 6,
-      "name": "Sweet Maxine",
+      "name": "Let's Build a Home",
       "set_name": "Main Set",
       "encore": 0,
-      "is_cover": false,
-      "cover_artist": null
+      "is_cover": true,
+      "cover_artist": "The White Stripes"
     },
     {
       "position": 7,
-      "name": "You Belong to Me",
+      "name": "Boogie Chillen'",
       "set_name": "Main Set",
       "encore": 0,
-      "is_cover": false,
-      "cover_artist": null
+      "is_cover": true,
+      "cover_artist": "John Lee Hooker"
     },
     {
       "position": 8,
-      "name": "Clear as the Driven Snow",
+      "name": "What's Done Is Done",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -82,15 +82,15 @@
     },
     {
       "position": 9,
-      "name": "Cannonball",
+      "name": "Hotel Yorba",
       "set_name": "Main Set",
       "encore": 0,
-      "is_cover": false,
-      "cover_artist": null
+      "is_cover": true,
+      "cover_artist": "The White Stripes"
     },
     {
       "position": 10,
-      "name": "Another Park, Another Sunday",
+      "name": "Traffic Lights Don't Mean Nothing to Me",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -98,23 +98,23 @@
     },
     {
       "position": 11,
-      "name": "It Keeps You Runnin'",
+      "name": "Broken Boy Soldier",
       "set_name": "Main Set",
       "encore": 0,
-      "is_cover": false,
-      "cover_artist": null
+      "is_cover": true,
+      "cover_artist": "The Raconteurs"
     },
     {
       "position": 12,
-      "name": "Spirit",
+      "name": "The Hardest Button to Button",
       "set_name": "Main Set",
       "encore": 0,
-      "is_cover": false,
-      "cover_artist": null
+      "is_cover": true,
+      "cover_artist": "The White Stripes"
     },
     {
       "position": 13,
-      "name": "One Step Closer",
+      "name": "What's the Rumpus?",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -122,7 +122,7 @@
     },
     {
       "position": 14,
-      "name": "Eyes of Silver",
+      "name": "High Ball Stepper",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -130,7 +130,7 @@
     },
     {
       "position": 15,
-      "name": "Minute by Minute",
+      "name": "Thirty-Third Brigade",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -138,7 +138,7 @@
     },
     {
       "position": 16,
-      "name": "World Gone Crazy",
+      "name": "G.O.D. and the Broken Ribs",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -146,75 +146,51 @@
     },
     {
       "position": 17,
-      "name": "Without You",
+      "name": "Black Math",
       "set_name": "Main Set",
       "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The White Stripes"
+    },
+    {
+      "position": 18,
+      "name": "Encore Rave Up",
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
-      "position": 18,
-      "name": "Jesus Is Just Alright",
-      "set_name": "Main Set",
-      "encore": 0,
-      "is_cover": true,
-      "cover_artist": "The Art Reynolds Singers"
-    },
-    {
       "position": 19,
-      "name": "What a Fool Believes",
+      "name": "Steady, as She Goes",
       "set_name": "Main Set",
-      "encore": 0,
+      "encore": 1,
       "is_cover": true,
-      "cover_artist": "Kenny Loggins"
+      "cover_artist": "The Raconteurs"
     },
     {
       "position": 20,
-      "name": "Long Train Runnin'",
+      "name": "Archbishop Harold Holmes",
       "set_name": "Main Set",
-      "encore": 0,
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 21,
-      "name": "China Grove",
+      "name": "Underground",
       "set_name": "Main Set",
-      "encore": 0,
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 22,
-      "name": "Black Water",
-      "set_name": "Main Set",
-      "encore": 1,
-      "is_cover": false,
-      "cover_artist": null
-    },
-    {
-      "position": 23,
-      "name": "Amazing Grace",
+      "name": "Seven Nation Army",
       "set_name": "Main Set",
       "encore": 1,
       "is_cover": true,
-      "cover_artist": "John Newton"
-    },
-    {
-      "position": 24,
-      "name": "Takin' It to the Streets",
-      "set_name": "Main Set",
-      "encore": 1,
-      "is_cover": false,
-      "cover_artist": null
-    },
-    {
-      "position": 25,
-      "name": "Listen to the Music",
-      "set_name": "Main Set",
-      "encore": 1,
-      "is_cover": false,
-      "cover_artist": null
+      "cover_artist": "The White Stripes"
     }
   ]
 }

@@ -2,7 +2,48 @@
   "id": "625",
   "name": "Wallflowers",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Everything I Need",
+      "times_played": 1
+    },
+    {
+      "name": "Move the River",
+      "times_played": 1
+    },
+    {
+      "name": "Feels Like Summer Again",
+      "times_played": 1
+    },
+    {
+      "name": "6th Avenue Heartache",
+      "times_played": 1
+    },
+    {
+      "name": "Roots and Wings",
+      "times_played": 1
+    },
+    {
+      "name": "How Good It Can Get",
+      "times_played": 1
+    },
+    {
+      "name": "When You're on Top",
+      "times_played": 1
+    },
+    {
+      "name": "Love Is a Country",
+      "times_played": 1
+    },
+    {
+      "name": "Misfits and Lovers",
+      "times_played": 1
+    },
+    {
+      "name": "I've Been Delivered",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1216",

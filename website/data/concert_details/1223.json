@@ -1,24 +1,24 @@
 {
-  "id": "537",
-  "show_number": 536,
-  "date": "2013-05-15",
+  "id": "1223",
+  "show_number": 1222,
+  "date": "2024-11-29",
   "festival_name": null,
-  "venue": "NYCB Theatre at Westbury",
-  "city": "Westbury",
+  "venue": "Madison Square Garden",
+  "city": "New York",
   "state": "NY",
   "artists": [
     {
-      "name": "ZZ Top",
+      "name": "Creed",
       "role": "headliner"
     }
   ],
-  "setlistfm_url": "https://www.setlist.fm/setlist/5bd85b48.html",
-  "song_count": 19,
+  "setlistfm_url": "https://www.setlist.fm/setlist/creed/2024/madison-square-garden-new-york-ny-33a858f9.html",
+  "song_count": 16,
   "has_encore": true,
   "songs": [
     {
       "position": 1,
-      "name": "Precious and Grace",
+      "name": "Bullets",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -26,7 +26,7 @@
     },
     {
       "position": 2,
-      "name": "Heartache in Blue",
+      "name": "Freedom Fighter",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -34,7 +34,7 @@
     },
     {
       "position": 3,
-      "name": "Waitin' for the Bus",
+      "name": "Torn",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -42,7 +42,7 @@
     },
     {
       "position": 4,
-      "name": "Jesus Just Left Chicago",
+      "name": "Are You Ready?",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -50,7 +50,7 @@
     },
     {
       "position": 5,
-      "name": "Flyin' High",
+      "name": "Never Die",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -58,7 +58,7 @@
     },
     {
       "position": 6,
-      "name": "Pincushion",
+      "name": "My Own Prison",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -66,7 +66,7 @@
     },
     {
       "position": 7,
-      "name": "Heard It on the X",
+      "name": "What If",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -74,7 +74,7 @@
     },
     {
       "position": 8,
-      "name": "I Gotsta Get Paid",
+      "name": "Say I",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -82,7 +82,7 @@
     },
     {
       "position": 9,
-      "name": "Gimme All Your Lovin'",
+      "name": "Unforgiven",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -90,7 +90,7 @@
     },
     {
       "position": 10,
-      "name": "Blue Jean Blues",
+      "name": "Inside Us All",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -98,7 +98,7 @@
     },
     {
       "position": 11,
-      "name": "My Head's in Mississippi",
+      "name": "One",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -106,7 +106,7 @@
     },
     {
       "position": 12,
-      "name": "Nasty Dogs and Funky Kings",
+      "name": "What's This Life For",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -114,7 +114,7 @@
     },
     {
       "position": 13,
-      "name": "Certified Blues",
+      "name": "With Arms Wide Open",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -122,7 +122,7 @@
     },
     {
       "position": 14,
-      "name": "Chartreuse",
+      "name": "Higher",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -130,39 +130,15 @@
     },
     {
       "position": 15,
-      "name": "Sharp Dressed Man",
+      "name": "One Last Breath",
       "set_name": "Main Set",
-      "encore": 0,
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 16,
-      "name": "Legs",
-      "set_name": "Main Set",
-      "encore": 0,
-      "is_cover": false,
-      "cover_artist": null
-    },
-    {
-      "position": 17,
-      "name": "Tube Snake Boogie",
-      "set_name": "Main Set",
-      "encore": 1,
-      "is_cover": false,
-      "cover_artist": null
-    },
-    {
-      "position": 18,
-      "name": "La Grange",
-      "set_name": "Main Set",
-      "encore": 1,
-      "is_cover": false,
-      "cover_artist": null
-    },
-    {
-      "position": 19,
-      "name": "Tush",
+      "name": "My Sacrifice",
       "set_name": "Main Set",
       "encore": 1,
       "is_cover": false,

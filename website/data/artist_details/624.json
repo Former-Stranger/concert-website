@@ -2,7 +2,48 @@
   "id": "624",
   "name": "Vince Gill",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "One More Last Chance",
+      "times_played": 1
+    },
+    {
+      "name": "You Better Think Twice",
+      "times_played": 1
+    },
+    {
+      "name": "Tryin' to Get Over You",
+      "times_played": 1
+    },
+    {
+      "name": "Take Your Memory With You",
+      "times_played": 1
+    },
+    {
+      "name": "Pocket Full of Gold",
+      "times_played": 1
+    },
+    {
+      "name": "Never Knew Lonely",
+      "times_played": 1
+    },
+    {
+      "name": "High Lonesome Sound",
+      "times_played": 1
+    },
+    {
+      "name": "If You Ever Have Forever in Mind",
+      "times_played": 1
+    },
+    {
+      "name": "The Bottle Let Me Down",
+      "times_played": 1
+    },
+    {
+      "name": "Together Again",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1265",

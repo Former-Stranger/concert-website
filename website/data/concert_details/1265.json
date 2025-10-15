@@ -1,32 +1,32 @@
 {
-  "id": "1201",
-  "show_number": 1200,
-  "date": "2024-09-30",
+  "id": "1265",
+  "show_number": 1264,
+  "date": "2025-07-11",
   "festival_name": null,
-  "venue": "Capitol Theatre",
-  "city": "Port Chester",
+  "venue": "Beacon Theatre",
+  "city": "New York",
   "state": "NY",
   "artists": [
     {
-      "name": "The Doobie Brothers",
+      "name": "Vince Gill",
       "role": "headliner"
     }
   ],
-  "setlistfm_url": "https://www.setlist.fm/setlist/2353745b.html",
-  "song_count": 25,
+  "setlistfm_url": "https://www.setlist.fm/setlist/vince-gill/2025/beacon-theatre-new-york-ny-5b4553fc.html",
+  "song_count": 33,
   "has_encore": true,
   "songs": [
     {
       "position": 1,
-      "name": "Take Me in Your Arms (Rock Me a Little While)",
+      "name": "One More Last Chance",
       "set_name": "Main Set",
       "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Eddie Holland"
+      "is_cover": false,
+      "cover_artist": null
     },
     {
       "position": 2,
-      "name": "Here to Love You",
+      "name": "You Better Think Twice",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -34,7 +34,7 @@
     },
     {
       "position": 3,
-      "name": "Dependin' on You",
+      "name": "Tryin' to Get Over You",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -42,7 +42,7 @@
     },
     {
       "position": 4,
-      "name": "Rockin' Down the Highway",
+      "name": "Take Your Memory With You",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -50,7 +50,7 @@
     },
     {
       "position": 5,
-      "name": "Walk This Road",
+      "name": "Pocket Full of Gold",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -58,7 +58,7 @@
     },
     {
       "position": 6,
-      "name": "Sweet Maxine",
+      "name": "Never Knew Lonely",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -66,7 +66,7 @@
     },
     {
       "position": 7,
-      "name": "You Belong to Me",
+      "name": "High Lonesome Sound",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -74,7 +74,7 @@
     },
     {
       "position": 8,
-      "name": "Clear as the Driven Snow",
+      "name": "If You Ever Have Forever in Mind",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -82,23 +82,23 @@
     },
     {
       "position": 9,
-      "name": "Cannonball",
+      "name": "The Bottle Let Me Down",
       "set_name": "Main Set",
       "encore": 0,
-      "is_cover": false,
-      "cover_artist": null
+      "is_cover": true,
+      "cover_artist": "Merle Haggard"
     },
     {
       "position": 10,
-      "name": "Another Park, Another Sunday",
+      "name": "Together Again",
       "set_name": "Main Set",
       "encore": 0,
-      "is_cover": false,
-      "cover_artist": null
+      "is_cover": true,
+      "cover_artist": "Buck Owens and His Buckaroos"
     },
     {
       "position": 11,
-      "name": "It Keeps You Runnin'",
+      "name": "Look at Us",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -106,7 +106,7 @@
     },
     {
       "position": 12,
-      "name": "Spirit",
+      "name": "When I Call Your Name",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -114,7 +114,7 @@
     },
     {
       "position": 13,
-      "name": "One Step Closer",
+      "name": "Colder Than Winter",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -122,7 +122,7 @@
     },
     {
       "position": 14,
-      "name": "Eyes of Silver",
+      "name": "Feels Like Love",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -130,7 +130,7 @@
     },
     {
       "position": 15,
-      "name": "Minute by Minute",
+      "name": "Guitar Slinger",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -138,7 +138,7 @@
     },
     {
       "position": 16,
-      "name": "World Gone Crazy",
+      "name": "Down to My Last Bad Habit",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -146,7 +146,7 @@
     },
     {
       "position": 17,
-      "name": "Without You",
+      "name": "I Still Believe in You",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -154,23 +154,23 @@
     },
     {
       "position": 18,
-      "name": "Jesus Is Just Alright",
+      "name": "Loving You Is The Only Way To Fly",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "The Art Reynolds Singers"
+      "cover_artist": "Jedd Hughes"
     },
     {
       "position": 19,
-      "name": "What a Fool Believes",
+      "name": "Ode to Billie Joe",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Kenny Loggins"
+      "cover_artist": "Bobbie Gentry"
     },
     {
       "position": 20,
-      "name": "Long Train Runnin'",
+      "name": "When My Amy Prays",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -178,7 +178,7 @@
     },
     {
       "position": 21,
-      "name": "China Grove",
+      "name": "I Gave You Everything I Had",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
@@ -186,31 +186,95 @@
     },
     {
       "position": 22,
-      "name": "Black Water",
+      "name": "Made Me",
       "set_name": "Main Set",
-      "encore": 1,
+      "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 23,
-      "name": "Amazing Grace",
+      "name": "Some Times",
       "set_name": "Main Set",
-      "encore": 1,
-      "is_cover": true,
-      "cover_artist": "John Newton"
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
     },
     {
       "position": 24,
-      "name": "Takin' It to the Streets",
+      "name": "When a Soldier Dies",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 25,
+      "name": "March On, March On",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 26,
+      "name": "Benny's Song",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 27,
+      "name": "Pretty Little Adriana",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 28,
+      "name": "Go Rest High on That Mountain",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 29,
+      "name": "What the Cowgirls Do",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 30,
+      "name": "Oklahoma Borderline",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 31,
+      "name": "Whenever You Come Around",
       "set_name": "Main Set",
       "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
-      "position": 25,
-      "name": "Listen to the Music",
+      "position": 32,
+      "name": "Don't Let Our Love Start Slippin' Away",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 33,
+      "name": "Liza Jane",
       "set_name": "Main Set",
       "encore": 1,
       "is_cover": false,
