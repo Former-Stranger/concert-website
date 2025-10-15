@@ -194,42 +194,57 @@ exports.triggerDeploy = functions.firestore
       const cloudbuild = new CloudBuildClient();
       const projectId = 'earplugs-and-memories';
 
-      // Trigger the Cloud Build
+      // GitHub repository details
+      const githubOwner = 'Former-Stranger';
+      const githubRepo = 'concert-website';
+
+      // Trigger the Cloud Build using the cloudbuild.yaml file
       const [operation] = await cloudbuild.createBuild({
         projectId: projectId,
         build: {
+          source: {
+            storageSource: {
+              bucket: `${projectId}_cloudbuild`,
+              object: 'source.tar.gz'
+            }
+          },
+          // Use the cloudbuild.yaml from the repo
           steps: [
-            // Step 1: Install Python dependencies
+            // Fetch from GitHub
+            {
+              name: 'gcr.io/cloud-builders/git',
+              args: ['clone', `https://github.com/${githubOwner}/${githubRepo}.git`, '.']
+            },
+            // Install Python dependencies
             {
               name: 'python:3.11',
               entrypoint: 'pip',
               args: ['install', 'firebase-admin']
             },
-            // Step 2: Export data from Firestore
+            // Export data from Firestore
             {
               name: 'python:3.11',
               entrypoint: 'python3',
               args: ['scripts/export_to_web.py']
             },
-            // Step 3: Install Firebase CLI
+            // Deploy using official Node image with Firebase CLI
             {
               name: 'node:20',
-              entrypoint: 'npm',
-              args: ['install', '-g', 'firebase-tools']
-            },
-            // Step 4: Deploy to Firebase Hosting
-            {
-              name: 'node:20',
-              entrypoint: 'firebase',
-              args: ['deploy', '--only', 'hosting', '--project', projectId, '--token', '${_FIREBASE_TOKEN}']
+              entrypoint: 'bash',
+              args: [
+                '-c',
+                'npm install -g firebase-tools && firebase deploy --only hosting --project ' + projectId + ' --token $$FIREBASE_TOKEN'
+              ],
+              secretEnv: ['FIREBASE_TOKEN']
             }
           ],
-          source: {
-            repoSource: {
-              projectId: projectId,
-              repoName: 'concert-website', // We'll need to set this up
-              branchName: 'main'
-            }
+          availableSecrets: {
+            secretManager: [
+              {
+                versionName: `projects/${projectId}/secrets/firebase-token/versions/latest`,
+                env: 'FIREBASE_TOKEN'
+              }
+            ]
           },
           timeout: '1200s'
         }
@@ -237,6 +252,7 @@ exports.triggerDeploy = functions.firestore
 
       console.log(`Cloud Build triggered: ${operation.name}`);
       console.log('Website will be automatically updated in a few minutes.');
+      console.log(`View build progress: https://console.cloud.google.com/cloud-build/builds;region=global/${operation.metadata.build.id}?project=${projectId}`);
 
       return null;
 
