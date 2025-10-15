@@ -1,0 +1,94 @@
+{
+  "id": "487",
+  "name": "Rolling Stones",
+  "concert_count": 5,
+  "top_songs": [
+    {
+      "name": "Jumpin' Jack Flash",
+      "times_played": 4
+    },
+    {
+      "name": "Tumbling Dice",
+      "times_played": 4
+    },
+    {
+      "name": "You Can't Always Get What You Want",
+      "times_played": 4
+    },
+    {
+      "name": "Sympathy for the Devil",
+      "times_played": 4
+    },
+    {
+      "name": "Honky Tonk Women",
+      "times_played": 4
+    },
+    {
+      "name": "Paint It Black",
+      "times_played": 4
+    },
+    {
+      "name": "Start Me Up",
+      "times_played": 4
+    },
+    {
+      "name": "Gimme Shelter",
+      "times_played": 4
+    },
+    {
+      "name": "(I Can't Get No) Satisfaction",
+      "times_played": 4
+    },
+    {
+      "name": "Miss You",
+      "times_played": 3
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1167",
+      "show_number": 1166,
+      "date": "2024-05-26",
+      "festival_name": null,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "1166",
+      "show_number": 1165,
+      "date": "2024-05-23",
+      "festival_name": null,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "928",
+      "show_number": 927,
+      "date": "2019-08-05",
+      "festival_name": null,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "926",
+      "show_number": 925,
+      "date": "2019-08-01",
+      "festival_name": null,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "530",
+      "show_number": 529,
+      "date": "2012-12-12",
+      "festival_name": "12-12-12 Concert For Sandy Relief",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

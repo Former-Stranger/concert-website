@@ -1,0 +1,180 @@
+{
+  "id": "534",
+  "show_number": 533,
+  "date": "2013-04-16",
+  "festival_name": null,
+  "venue": "Barclays Center",
+  "city": "Brooklyn",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Bob Seger",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/3d8c597.html",
+  "song_count": 20,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Detroit Made",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Hiatt"
+    },
+    {
+      "position": 2,
+      "name": "Trying to Live My Life Without You",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Otis Clay"
+    },
+    {
+      "position": 3,
+      "name": "The Fire Down Below",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Mainstreet",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Old Time Rock and Roll",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "George Jackson"
+    },
+    {
+      "position": 6,
+      "name": "All of the Roads",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Seger"
+    },
+    {
+      "position": 7,
+      "name": "Like a Rock",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Travelin' Man",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Seger"
+    },
+    {
+      "position": 9,
+      "name": "Beautiful Loser",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Seger"
+    },
+    {
+      "position": 10,
+      "name": "Roll Me Away",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "California Stars",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Bragg & Wilco"
+    },
+    {
+      "position": 12,
+      "name": "Come to Poppa",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "We've Got Tonite",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Turn the Page",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Seger"
+    },
+    {
+      "position": 15,
+      "name": "Sunspot Baby",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Katmandu",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Seger"
+    },
+    {
+      "position": 17,
+      "name": "Against the Wind",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "Hollywood Nights",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 19,
+      "name": "Night Moves",
+      "set_name": "Main Set",
+      "encore": 2,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "Rock and Roll Never Forgets",
+      "set_name": "Main Set",
+      "encore": 2,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

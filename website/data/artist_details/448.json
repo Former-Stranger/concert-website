@@ -1,0 +1,67 @@
+{
+  "id": "448",
+  "name": "Ratdog",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "Jam",
+      "times_played": 2
+    },
+    {
+      "name": "Bird Song",
+      "times_played": 2
+    },
+    {
+      "name": "Stuff",
+      "times_played": 2
+    },
+    {
+      "name": "Turn On Your Love Light",
+      "times_played": 2
+    },
+    {
+      "name": "Shakedown Street",
+      "times_played": 1
+    },
+    {
+      "name": "Minglewood Blues",
+      "times_played": 1
+    },
+    {
+      "name": "Queen Jane Approximately",
+      "times_played": 1
+    },
+    {
+      "name": "Loser",
+      "times_played": 1
+    },
+    {
+      "name": "Money for Gasoline",
+      "times_played": 1
+    },
+    {
+      "name": "Tuesday Blues",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "333",
+      "show_number": 332,
+      "date": "2008-04-03",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "311",
+      "show_number": 310,
+      "date": "2007-08-21",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    }
+  ]
+}

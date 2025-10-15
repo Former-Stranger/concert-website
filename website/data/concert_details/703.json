@@ -1,0 +1,188 @@
+{
+  "id": "703",
+  "show_number": 702,
+  "date": "2016-07-08",
+  "festival_name": null,
+  "venue": "Yankee Stadium",
+  "city": "Bronx",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Garth Brooks",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/4bffd7b2.html",
+  "song_count": 21,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Ain't Goin' Down ('Til the Sun Comes Up)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 2,
+      "name": "Rodeo",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 3,
+      "name": "Two Pi\u00f1a Coladas",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 4,
+      "name": "People Loving People",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 5,
+      "name": "That Summer",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 6,
+      "name": "The Thunder Rolls",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 7,
+      "name": "The River",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 8,
+      "name": "Papa Loved Mama",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 9,
+      "name": "In Another's Eyes",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 10,
+      "name": "When Will I Be Loved",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Everly Brothers"
+    },
+    {
+      "position": 11,
+      "name": "How Do I Live",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "LeAnn Rimes"
+    },
+    {
+      "position": 12,
+      "name": "She's in Love With the Boy",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Trisha Yearwood"
+    },
+    {
+      "position": 13,
+      "name": "Shameless",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 14,
+      "name": "Callin' Baton Rouge",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Oak Ridge Boys"
+    },
+    {
+      "position": 15,
+      "name": "Friends in Low Places",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Dewayne Blackwell"
+    },
+    {
+      "position": 16,
+      "name": "The Dance",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tony Arata"
+    },
+    {
+      "position": 17,
+      "name": "Standing Outside the Fire",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 18,
+      "name": "She's Every Woman",
+      "set_name": "Main Set",
+      "encore": 2,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 19,
+      "name": "Make You Feel My Love",
+      "set_name": "Main Set",
+      "encore": 2,
+      "is_cover": true,
+      "cover_artist": "Bob Dylan"
+    },
+    {
+      "position": 20,
+      "name": "Wrapped Up in You",
+      "set_name": "Main Set",
+      "encore": 2,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 21,
+      "name": "Piano Man",
+      "set_name": "Main Set",
+      "encore": 2,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    }
+  ]
+}

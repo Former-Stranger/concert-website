@@ -1,0 +1,67 @@
+{
+  "id": "407",
+  "name": "Oasis",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "Morning Glory",
+      "times_played": 2
+    },
+    {
+      "name": "Cigarettes & Alcohol",
+      "times_played": 2
+    },
+    {
+      "name": "Champagne Supernova",
+      "times_played": 2
+    },
+    {
+      "name": "Don't Look Back in Anger",
+      "times_played": 2
+    },
+    {
+      "name": "Go Let It Out",
+      "times_played": 1
+    },
+    {
+      "name": "Columbia",
+      "times_played": 1
+    },
+    {
+      "name": "Fade Away",
+      "times_played": 1
+    },
+    {
+      "name": "Acquiesce",
+      "times_played": 1
+    },
+    {
+      "name": "Gas Panic!",
+      "times_played": 1
+    },
+    {
+      "name": "Step Out",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "232",
+      "show_number": 231,
+      "date": "2005-06-22",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "128",
+      "show_number": 127,
+      "date": "2001-06-08",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

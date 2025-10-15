@@ -1,0 +1,94 @@
+{
+  "id": "542",
+  "name": "Steve Winwood",
+  "concert_count": 5,
+  "top_songs": [
+    {
+      "name": "Can't Find My Way Home",
+      "times_played": 5
+    },
+    {
+      "name": "Dear Mr. Fantasy",
+      "times_played": 5
+    },
+    {
+      "name": "Glad",
+      "times_played": 4
+    },
+    {
+      "name": "I'm a Man",
+      "times_played": 3
+    },
+    {
+      "name": "Higher Love",
+      "times_played": 3
+    },
+    {
+      "name": "Gimme Some Lovin'",
+      "times_played": 3
+    },
+    {
+      "name": "Pearly Queen",
+      "times_played": 3
+    },
+    {
+      "name": "Had to Cry Today",
+      "times_played": 2
+    },
+    {
+      "name": "Low Down",
+      "times_played": 2
+    },
+    {
+      "name": "Forever Man",
+      "times_played": 2
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1185",
+      "show_number": 1184,
+      "date": "2024-08-07",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "618",
+      "show_number": 617,
+      "date": "2015-04-24",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "556",
+      "show_number": 555,
+      "date": "2013-12-09",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "383",
+      "show_number": 382,
+      "date": "2009-06-10",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Izod Center",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "331",
+      "show_number": 330,
+      "date": "2008-02-28",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

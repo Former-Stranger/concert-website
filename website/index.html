@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Concert Archive</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Slab:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background: linear-gradient(135deg, #1a0e0e 0%, #2d1b1b 50%, #1a0e0e 100%);
+            background-attachment: fixed;
+            min-height: 100vh;
+            font-family: 'Roboto Slab', serif;
+        }
+
+        /* Retro noise texture overlay */
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            opacity: 0.03;
+            z-index: 1;
+            pointer-events: none;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='3.5' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+        }
+
+        .content-wrapper {
+            position: relative;
+            z-index: 2;
+        }
+
+        .poster-title {
+            font-family: 'Bebas Neue', cursive;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+        }
+
+        .vintage-card {
+            background: linear-gradient(135deg, #d4773e 0%, #c1502e 100%);
+            border: 4px solid #f4e4c1;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5), inset 0 1px 0 rgba(255,255,255,0.2);
+            position: relative;
+        }
+
+        .vintage-card::before {
+            content: '';
+            position: absolute;
+            top: 8px;
+            left: 8px;
+            right: 8px;
+            bottom: 8px;
+            border: 2px solid rgba(244, 228, 193, 0.3);
+            pointer-events: none;
+        }
+
+        .stat-card {
+            background: linear-gradient(135deg, #f4e4c1 0%, #e8d4a8 100%);
+            border: 3px solid #d4773e;
+            color: #2d1b1b;
+            transition: transform 0.3s ease;
+            display: block;
+            text-decoration: none;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px) rotate(-1deg);
+            cursor: pointer;
+        }
+
+        .section-card {
+            background: rgba(244, 228, 193, 0.95);
+            border: 3px solid #d4773e;
+            color: #2d1b1b;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.4);
+        }
+
+        .nav-bar {
+            background: linear-gradient(90deg, #d4773e 0%, #c1502e 50%, #d4773e 100%);
+            border-bottom: 4px solid #f4e4c1;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+        }
+
+        .nav-link {
+            color: #f4e4c1;
+            font-family: 'Bebas Neue', cursive;
+            letter-spacing: 2px;
+            font-size: 1.1rem;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+        }
+
+        .nav-link:hover {
+            color: #fff;
+            text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+        }
+
+        .sunburst {
+            background: radial-gradient(circle at 50% 50%,
+                #f4e4c1 0%,
+                #d4773e 25%,
+                #c1502e 50%,
+                #2d1b1b 100%);
+        }
+
+        .concert-item {
+            border-left: 4px solid #d4773e;
+            background: rgba(255, 255, 255, 0.05);
+            transition: all 0.3s ease;
+        }
+
+        .concert-item:hover {
+            background: rgba(212, 119, 62, 0.1);
+            border-left-color: #f4e4c1;
+        }
+
+        .marquee-header {
+            background: linear-gradient(135deg, #c1502e 0%, #d4773e 100%);
+            color: #f4e4c1;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+            padding: 1rem;
+            border: 3px solid #f4e4c1;
+            margin-bottom: 1.5rem;
+            font-family: 'Bebas Neue', cursive;
+            letter-spacing: 3px;
+        }
+
+        .badge {
+            background: linear-gradient(135deg, #d4773e 0%, #c1502e 100%);
+            color: #f4e4c1;
+            border: 2px solid #f4e4c1;
+        }
+
+        .top-item {
+            background: rgba(212, 119, 62, 0.1);
+            border-left: 4px solid #d4773e;
+            transition: all 0.3s ease;
+        }
+
+        .top-item:hover {
+            background: rgba(212, 119, 62, 0.2);
+            transform: translateX(5px);
+        }
+    </style>
+</head>
+<body class="text-white">
+    <div class="content-wrapper">
+        <!-- Navigation -->
+        <nav class="nav-bar p-4 mb-8">
+            <div class="container mx-auto flex flex-wrap justify-between items-center gap-4">
+                <a href="index.html" class="text-2xl md:text-3xl poster-title hover:opacity-80 transition">
+                    <i class="fas fa-guitar mr-2"></i>Jason's Concert Archive
+                </a>
+                <div class="flex items-center flex-wrap gap-4 md:space-x-8">
+                    <a href="index.html" class="nav-link">Home</a>
+                    <a href="concerts.html" class="nav-link">Shows</a>
+                    <a href="artists.html" class="nav-link">Artists</a>
+                    <a href="venues.html" class="nav-link">Venues</a>
+                    <a href="songs.html" class="nav-link">Songs</a>
+                    <a href="add-concert.html" id="add-concert-nav" class="nav-link hidden">Add Show</a>
+                    <a href="admin-setlists.html" id="admin-setlists-nav" class="nav-link hidden">Pending Setlists</a>
+                    <div id="user-info" class="hidden text-[#f4e4c1]"></div>
+                    <button id="auth-button" class="nav-link bg-[#c1502e] px-4 py-2 rounded hover:bg-[#d4773e] transition">
+                        <i class="fas fa-sign-in-alt mr-2"></i>Sign In
+                    </button>
+                </div>
+            </div>
+        </nav>
+
+        <div class="container mx-auto px-4">
+            <!-- Hero Section -->
+            <div class="vintage-card rounded-lg p-12 mb-12 text-center">
+                <h2 class="text-7xl poster-title mb-4 text-[#f4e4c1]">Live Music Archive</h2>
+                <div class="text-2xl text-[#f4e4c1] opacity-90" style="font-family: 'Roboto Slab', serif;">
+                    Every Show • Every Song • Every Memory
+                </div>
+            </div>
+
+            <!-- Stats Grid -->
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-6 mb-12">
+                <a href="concerts.html" class="stat-card rounded-lg p-6 text-center cursor-pointer">
+                    <i class="fas fa-ticket-alt text-5xl mb-4" style="color: #c1502e;"></i>
+                    <div class="text-5xl poster-title mb-2" id="total-concerts">-</div>
+                    <div class="text-sm uppercase tracking-wider font-bold opacity-70">Total Shows</div>
+                </a>
+                <a href="artists.html" class="stat-card rounded-lg p-6 text-center cursor-pointer">
+                    <i class="fas fa-microphone text-5xl mb-4" style="color: #c1502e;"></i>
+                    <div class="text-5xl poster-title mb-2" id="total-artists">-</div>
+                    <div class="text-sm uppercase tracking-wider font-bold opacity-70">Artists</div>
+                </a>
+                <a href="venues.html" class="stat-card rounded-lg p-6 text-center cursor-pointer">
+                    <i class="fas fa-map-marker-alt text-5xl mb-4" style="color: #c1502e;"></i>
+                    <div class="text-5xl poster-title mb-2" id="total-venues">-</div>
+                    <div class="text-sm uppercase tracking-wider font-bold opacity-70">Venues</div>
+                </a>
+                <a href="songs.html" class="stat-card rounded-lg p-6 text-center cursor-pointer">
+                    <i class="fas fa-music text-5xl mb-4" style="color: #c1502e;"></i>
+                    <div class="text-5xl poster-title mb-2" id="total-songs">-</div>
+                    <div class="text-sm uppercase tracking-wider font-bold opacity-70">Songs</div>
+                </a>
+            </div>
+
+            <!-- On This Date -->
+            <div class="section-card rounded-lg p-8 mb-8">
+                <div class="marquee-header text-center text-3xl rounded">
+                    <i class="fas fa-calendar-day mr-3"></i>On This Date
+                </div>
+                <div id="on-this-date-content">
+                    <p class="text-center opacity-70">Loading...</p>
+                </div>
+            </div>
+
+            <!-- Top Artists & Venues -->
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-8">
+                <div class="section-card rounded-lg p-8">
+                    <div class="marquee-header text-center text-2xl rounded">
+                        <i class="fas fa-star mr-3"></i>Top Artists
+                    </div>
+                    <div id="top-artists" class="space-y-3"></div>
+                </div>
+
+                <div class="section-card rounded-lg p-8">
+                    <div class="marquee-header text-center text-2xl rounded">
+                        <i class="fas fa-building mr-3"></i>Top Venues
+                    </div>
+                    <div id="top-venues" class="space-y-3"></div>
+                </div>
+            </div>
+
+            <!-- Recent Concerts -->
+            <div class="section-card rounded-lg p-8 mb-8">
+                <div class="marquee-header text-center text-2xl rounded">
+                    <i class="fas fa-clock mr-3"></i>Recent Shows
+                </div>
+                <div id="recent-concerts" class="space-y-4"></div>
+            </div>
+
+            <!-- Concerts by Year -->
+            <div class="section-card rounded-lg p-8 mb-8">
+                <div class="marquee-header text-center text-2xl rounded">
+                    <i class="fas fa-calendar-alt mr-3"></i>Shows by Year
+                </div>
+                <div id="year-grid" class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-3">
+                    <!-- Populated by JavaScript -->
+                </div>
+            </div>
+        </div>
+
+        <footer class="text-center py-8 mt-12 opacity-70 text-[#f4e4c1]">
+            <p style="font-family: 'Roboto Slab', serif;">&copy; 2024 My Concert Archive | Data updated: <span id="last-updated"></span></p>
+        </footer>
+    </div>
+
+    <script src="js/main.js"></script>
+    <script type="module">
+        import { initAuth } from './js/auth.js';
+        initAuth();
+    </script>
+</body>
+</html>

@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin - Pending Setlists - Jason's Concert Archive</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Slab:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background: linear-gradient(135deg, #1a0e0e 0%, #2d1b1b 50%, #1a0e0e 100%);
+            background-attachment: fixed;
+            min-height: 100vh;
+            font-family: 'Roboto Slab', serif;
+        }
+
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            opacity: 0.03;
+            z-index: 1;
+            pointer-events: none;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='3.5' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+        }
+
+        .content-wrapper {
+            position: relative;
+            z-index: 2;
+        }
+
+        .poster-title {
+            font-family: 'Bebas Neue', cursive;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+        }
+
+        .nav-bar {
+            background: linear-gradient(90deg, #d4773e 0%, #c1502e 50%, #d4773e 100%);
+            border-bottom: 4px solid #f4e4c1;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+        }
+
+        .nav-link {
+            color: #f4e4c1;
+            font-family: 'Bebas Neue', cursive;
+            letter-spacing: 2px;
+            font-size: 1.1rem;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+        }
+
+        .nav-link:hover {
+            color: #fff;
+            text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+        }
+
+        .section-card {
+            background: rgba(244, 228, 193, 0.95);
+            border: 3px solid #d4773e;
+            color: #2d1b1b;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.4);
+        }
+
+        .marquee-header {
+            background: linear-gradient(135deg, #c1502e 0%, #d4773e 100%);
+            color: #f4e4c1;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+            padding: 1rem;
+            border: 3px solid #f4e4c1;
+            margin-bottom: 1.5rem;
+            font-family: 'Bebas Neue', cursive;
+            letter-spacing: 3px;
+        }
+
+        .submission-card {
+            background: white;
+            border: 2px solid #d4773e;
+            transition: all 0.3s ease;
+        }
+
+        .submission-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }
+
+        .btn-approve {
+            background: #4ade80;
+            color: white;
+            border: 2px solid #22c55e;
+        }
+
+        .btn-approve:hover {
+            background: #22c55e;
+        }
+
+        .btn-reject {
+            background: #f87171;
+            color: white;
+            border: 2px solid #ef4444;
+        }
+
+        .btn-reject:hover {
+            background: #ef4444;
+        }
+
+        .song-list {
+            max-height: 300px;
+            overflow-y: auto;
+        }
+    </style>
+</head>
+<body class="text-white">
+    <div class="content-wrapper">
+        <!-- Navigation -->
+        <nav class="nav-bar p-4 mb-8">
+            <div class="container mx-auto flex flex-wrap justify-between items-center gap-4">
+                <a href="index.html" class="text-2xl md:text-3xl poster-title hover:opacity-80 transition">
+                    <i class="fas fa-guitar mr-2"></i>Jason's Concert Archive
+                </a>
+                <div class="flex items-center flex-wrap gap-4 md:space-x-8">
+                    <a href="index.html" class="nav-link">Home</a>
+                    <a href="concerts.html" class="nav-link">Shows</a>
+                    <a href="artists.html" class="nav-link">Artists</a>
+                    <a href="venues.html" class="nav-link">Venues</a>
+                    <a href="songs.html" class="nav-link">Songs</a>
+                    <a href="add-concert.html" id="add-concert-nav" class="nav-link hidden">Add Show</a>
+                    <a href="admin-setlists.html" id="admin-setlists-nav" class="nav-link hidden">Pending Setlists</a>
+                    <div id="user-info" class="hidden text-[#f4e4c1]"></div>
+                    <button id="auth-button" class="nav-link bg-[#c1502e] px-4 py-2 rounded hover:bg-[#d4773e] transition">
+                        <i class="fas fa-sign-in-alt mr-2"></i>Sign In
+                    </button>
+                </div>
+            </div>
+        </nav>
+
+        <div class="container mx-auto px-4">
+            <!-- Access Check -->
+            <div id="access-denied" class="section-card rounded-lg p-12 text-center hidden">
+                <i class="fas fa-lock text-6xl mb-6" style="color: #c1502e;"></i>
+                <h2 class="text-3xl font-bold mb-4">Admin Access Required</h2>
+                <p class="mb-6">You must be signed in as an owner to view this page.</p>
+                <a href="index.html" class="bg-[#c1502e] text-[#f4e4c1] px-8 py-3 rounded inline-block font-bold hover:bg-[#d4773e] transition">
+                    <i class="fas fa-home mr-2"></i>Return to Home
+                </a>
+            </div>
+
+            <!-- Content (Only shown for owners) -->
+            <div id="admin-content" class="hidden">
+                <div class="section-card rounded-lg p-8 mb-8">
+                    <div class="marquee-header text-center text-3xl rounded">
+                        <i class="fas fa-tasks mr-3"></i>Pending Setlist Submissions
+                    </div>
+
+                    <div id="loading" class="text-center py-12">
+                        <i class="fas fa-spinner fa-spin text-6xl mb-4" style="color: #c1502e;"></i>
+                        <p>Loading submissions...</p>
+                    </div>
+
+                    <div id="no-submissions" class="text-center py-12 hidden">
+                        <i class="fas fa-check-circle text-6xl mb-4" style="color: #4ade80;"></i>
+                        <p class="text-2xl font-bold mb-2">All Caught Up!</p>
+                        <p class="opacity-70">No pending setlist submissions to review.</p>
+                    </div>
+
+                    <div id="submissions-list" class="space-y-6">
+                        <!-- Submissions will be loaded here -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <footer class="text-center py-8 mt-12 opacity-70 text-[#f4e4c1]">
+            <p style="font-family: 'Roboto Slab', serif;">&copy; 2024 Jason's Concert Archive</p>
+        </footer>
+    </div>
+
+    <script type="module">
+        import { initAuth, auth } from './js/auth.js';
+        import { db } from './js/firebase-config.js';
+        import { collection, query, where, getDocs, doc, updateDoc } from 'https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js';
+
+        // Initialize auth first
+        await initAuth();
+
+        // Check if user is owner (you'll need to set this up in auth.js)
+        auth.onAuthStateChanged(async (user) => {
+            const accessDenied = document.getElementById('access-denied');
+            const adminContent = document.getElementById('admin-content');
+            const adminNav = document.getElementById('admin-setlists-nav');
+
+            if (!user) {
+                // Not signed in
+                accessDenied.classList.remove('hidden');
+                adminContent.classList.add('hidden');
+                return;
+            }
+
+            // For now, allow any authenticated user (you can add owner check later)
+            // TODO: Add actual owner check
+            accessDenied.classList.add('hidden');
+            adminContent.classList.remove('hidden');
+            adminNav.classList.remove('hidden');
+
+            // Load submissions
+            await loadSubmissions();
+        });
+
+        async function loadSubmissions() {
+            const loading = document.getElementById('loading');
+            const noSubmissions = document.getElementById('no-submissions');
+            const submissionsList = document.getElementById('submissions-list');
+
+            try {
+                console.log('Fetching pending submissions...');
+                const q = query(
+                    collection(db, 'pending_setlist_submissions'),
+                    where('status', '==', 'pending')
+                );
+
+                const querySnapshot = await getDocs(q);
+                console.log('Query completed. Number of docs:', querySnapshot.size);
+
+                loading.classList.add('hidden');
+
+                if (querySnapshot.empty) {
+                    console.log('No pending submissions found');
+                    noSubmissions.classList.remove('hidden');
+                    return;
+                }
+
+                noSubmissions.classList.add('hidden');
+
+                for (const docSnapshot of querySnapshot.docs) {
+                    const data = docSnapshot.data();
+                    console.log('Processing submission:', docSnapshot.id, data);
+                    const submissionCard = createSubmissionCard(docSnapshot.id, data);
+                    submissionsList.appendChild(submissionCard);
+                }
+
+            } catch (error) {
+                console.error('Error loading submissions:', error);
+                console.error('Error details:', error.code, error.message);
+                loading.innerHTML = `
+                    <i class="fas fa-exclamation-triangle text-6xl mb-4" style="color: #f87171;"></i>
+                    <p class="text-xl font-bold">Error loading submissions</p>
+                    <p class="opacity-70 mt-2">${error.message}</p>
+                    <p class="opacity-70 mt-2 text-sm">Error code: ${error.code || 'unknown'}</p>
+                `;
+            }
+        }
+
+        function createSubmissionCard(submissionId, data) {
+            const card = document.createElement('div');
+            card.className = 'submission-card rounded-lg p-6';
+
+            const setlistData = data.setlistData || {};
+            const artistName = setlistData.artist?.name || 'Unknown';
+            const venueName = setlistData.venue?.name || 'Unknown';
+            const cityName = setlistData.venue?.city?.name || 'Unknown';
+            const stateName = setlistData.venue?.city?.state || '';
+            const eventDate = setlistData.eventDate || 'Unknown';
+
+            // Count songs
+            let songCount = 0;
+            if (setlistData.sets && setlistData.sets.set) {
+                for (const set of setlistData.sets.set) {
+                    if (set.song) {
+                        songCount += set.song.length;
+                    }
+                }
+            }
+
+            card.innerHTML = `
+                <div class="flex flex-col md:flex-row justify-between items-start md:items-center mb-4">
+                    <div>
+                        <h3 class="text-2xl font-bold mb-2" style="color: #c1502e;">${artistName}</h3>
+                        <p class="text-lg mb-1">${venueName}, ${cityName}, ${stateName}</p>
+                        <p class="opacity-70">${eventDate}</p>
+                    </div>
+                    <div class="mt-4 md:mt-0 text-right">
+                        <div class="text-3xl font-bold mb-1" style="color: #d4773e;">${songCount}</div>
+                        <div class="text-sm opacity-70">SONGS</div>
+                    </div>
+                </div>
+
+                <div class="mb-4 pb-4 border-b-2 border-[#f4e4c1]">
+                    <p class="text-sm mb-1"><strong>Concert ID:</strong> ${data.concertId}</p>
+                    <p class="text-sm mb-1"><strong>Setlist.fm URL:</strong>
+                        <a href="${data.setlistfmUrl}" target="_blank" class="text-blue-600 hover:underline">${data.setlistfmUrl}</a>
+                    </p>
+                    <p class="text-sm mb-1"><strong>Submitted by:</strong> ${data.submittedByName} (${data.submittedByEmail})</p>
+                    <p class="text-sm"><strong>Submitted at:</strong> ${new Date(data.submittedAt.toDate()).toLocaleString()}</p>
+                </div>
+
+                <div class="mb-4">
+                    <h4 class="font-bold mb-2">Setlist Preview:</h4>
+                    <div class="song-list bg-gray-50 p-4 rounded">
+                        ${generateSetlistPreview(setlistData)}
+                    </div>
+                </div>
+
+                <div class="flex gap-4">
+                    <button onclick="approveSubmission('${submissionId}')" class="btn-approve flex-1 px-6 py-3 rounded font-bold transition">
+                        <i class="fas fa-check mr-2"></i>Approve
+                    </button>
+                    <button onclick="rejectSubmission('${submissionId}')" class="btn-reject flex-1 px-6 py-3 rounded font-bold transition">
+                        <i class="fas fa-times mr-2"></i>Reject
+                    </button>
+                </div>
+            `;
+
+            return card;
+        }
+
+        function generateSetlistPreview(setlistData) {
+            if (!setlistData.sets || !setlistData.sets.set) {
+                return '<p class="opacity-70">No setlist data available</p>';
+            }
+
+            let html = '';
+            let position = 1;
+
+            for (const set of setlistData.sets.set) {
+                const setName = set.encore ? `Encore ${set.encore}` : (set.name || 'Set');
+                html += `<div class="mb-3"><strong>${setName}</strong><ul class="list-disc list-inside ml-4 mt-1">`;
+
+                if (set.song) {
+                    for (const song of set.song) {
+                        const coverInfo = song.cover ? ` <span class="text-sm opacity-70">(cover of ${song.cover.name})</span>` : '';
+                        html += `<li class="text-sm">${position}. ${song.name}${coverInfo}</li>`;
+                        position++;
+                    }
+                }
+
+                html += `</ul></div>`;
+            }
+
+            return html;
+        }
+
+        window.approveSubmission = async function(submissionId) {
+            if (!confirm('Are you sure you want to approve this submission? The setlist will be automatically imported into the database.')) {
+                return;
+            }
+
+            try {
+                const submissionRef = doc(db, 'pending_setlist_submissions', submissionId);
+                await updateDoc(submissionRef, {
+                    status: 'approved',
+                    reviewedAt: new Date(),
+                    reviewedBy: auth.currentUser.email
+                });
+
+                alert('Submission approved! The setlist is being automatically imported. You can run the export script to update the website.');
+                location.reload();
+
+            } catch (error) {
+                console.error('Error approving submission:', error);
+                alert('Error approving submission: ' + error.message);
+            }
+        };
+
+        window.rejectSubmission = async function(submissionId) {
+            const reason = prompt('Please provide a reason for rejection (optional):');
+            if (reason === null) return; // User cancelled
+
+            try {
+                const submissionRef = doc(db, 'pending_setlist_submissions', submissionId);
+                await updateDoc(submissionRef, {
+                    status: 'rejected',
+                    reviewedAt: new Date(),
+                    reviewedBy: auth.currentUser.email,
+                    rejectionReason: reason || 'No reason provided'
+                });
+
+                alert('Submission rejected.');
+                location.reload();
+
+            } catch (error) {
+                console.error('Error rejecting submission:', error);
+                alert('Error rejecting submission: ' + error.message);
+            }
+        };
+    </script>
+</body>
+</html>

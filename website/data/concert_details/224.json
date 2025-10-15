@@ -1,0 +1,244 @@
+{
+  "id": "224",
+  "show_number": 223,
+  "date": "2005-04-08",
+  "festival_name": null,
+  "venue": "Izod Center",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "artists": [
+    {
+      "name": "The Eagles",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/63d806c7.html",
+  "song_count": 28,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "The Long Run",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "New Kid in Town",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Wasted Time",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Wasted Time (Reprise)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Peaceful Easy Feeling",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jack Tempchin"
+    },
+    {
+      "position": 6,
+      "name": "I Can't Tell You Why",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "One of These Nights",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Lyin' Eyes",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "The Boys of Summer",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Don Henley"
+    },
+    {
+      "position": 10,
+      "name": "In the City",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Joe Walsh"
+    },
+    {
+      "position": 11,
+      "name": "Already Gone",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Robb Strandlund"
+    },
+    {
+      "position": 12,
+      "name": "Tequila Sunrise",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Love Will Keep Us Alive",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Hole in the World",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Take It to the Limit",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "You Belong to the City",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Glenn Frey"
+    },
+    {
+      "position": 17,
+      "name": "Walk Away",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "James Gang"
+    },
+    {
+      "position": 18,
+      "name": "Sunset Grill",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Don Henley"
+    },
+    {
+      "position": 19,
+      "name": "Life's Been Good",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Joe Walsh"
+    },
+    {
+      "position": 20,
+      "name": "Dirty Laundry",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Don Henley"
+    },
+    {
+      "position": 21,
+      "name": "Funk #49",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "James Gang"
+    },
+    {
+      "position": 22,
+      "name": "Heartache Tonight",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 23,
+      "name": "Life in the Fast Lane",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 24,
+      "name": "Hotel California",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 25,
+      "name": "Rocky Mountain Way",
+      "set_name": "Main Set",
+      "encore": 2,
+      "is_cover": true,
+      "cover_artist": "Joe Walsh"
+    },
+    {
+      "position": 26,
+      "name": "All She Wants to Do Is Dance",
+      "set_name": "Main Set",
+      "encore": 2,
+      "is_cover": true,
+      "cover_artist": "Don Henley"
+    },
+    {
+      "position": 27,
+      "name": "Take It Easy",
+      "set_name": "Main Set",
+      "encore": 3,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 28,
+      "name": "Desperado",
+      "set_name": "Main Set",
+      "encore": 3,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

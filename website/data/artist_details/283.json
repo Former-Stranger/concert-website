@@ -1,0 +1,26 @@
+{
+  "id": "283",
+  "name": "Joe D'Urso",
+  "concert_count": 2,
+  "top_songs": [],
+  "concerts": [
+    {
+      "id": "582",
+      "show_number": 581,
+      "date": "2014-06-29",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Tappan Park",
+      "city": "Staten Island",
+      "state": "NY"
+    },
+    {
+      "id": "560",
+      "show_number": 559,
+      "date": "2014-01-18",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Paramount Theatre",
+      "city": "Asbury Park",
+      "state": "NJ"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "183",
+  "name": "Webster Theater",
+  "city": "Hartford",
+  "state": "CT",
+  "concert_count": 2,
+  "concerts": [
+    {
+      "id": "150",
+      "show_number": 149,
+      "date": "2002-02-01",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Southside Johnny, the Asbury Jukes"
+    },
+    {
+      "id": "117",
+      "show_number": 116,
+      "date": "2000-09-23",
+      "festival_name": null,
+      "artists": "Dickey Betts Band"
+    }
+  ]
+}

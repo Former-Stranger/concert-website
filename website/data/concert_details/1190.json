@@ -1,0 +1,132 @@
+{
+  "id": "1190",
+  "show_number": 1189,
+  "date": "2024-08-24",
+  "festival_name": null,
+  "venue": "Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Joe Bonamassa",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/73529209.html",
+  "song_count": 14,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Hope You Realize It (Goodbye Again)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "You Upset Me Baby",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "B.B. King"
+    },
+    {
+      "position": 3,
+      "name": "Twenty\u2010Four Hour Blues",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bobby \u201cBlue\u201d Bland"
+    },
+    {
+      "position": 4,
+      "name": "Well, I Done Got Over It",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Guitar Slim"
+    },
+    {
+      "position": 5,
+      "name": "Self-Inflicted Wounds",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "I Want to Shout About It",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ronnie Earl and the Broadcasters"
+    },
+    {
+      "position": 7,
+      "name": "Blues De Luxe",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jeff Beck Group"
+    },
+    {
+      "position": 8,
+      "name": "I Feel Like Breaking Up Somebody's Home Tonight",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ann Peebles"
+    },
+    {
+      "position": 9,
+      "name": "The Heart That Never Waits",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Is It Safe to Go Home",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "See See Baby",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Freddie King"
+    },
+    {
+      "position": 12,
+      "name": "Hummingbird",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Leon Russell"
+    },
+    {
+      "position": 13,
+      "name": "It's Hard But It's Fair",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Bobby Parker"
+    },
+    {
+      "position": 14,
+      "name": "Mountain Time",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

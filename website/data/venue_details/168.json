@@ -1,0 +1,16 @@
+{
+  "id": "168",
+  "name": "Times Square",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "609",
+      "show_number": 608,
+      "date": "2014-12-01",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Bruce Springsteen with U2, Carrie Underwood, Chris Martin, Kanye West"
+    }
+  ]
+}

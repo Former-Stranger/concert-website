@@ -1,0 +1,30 @@
+{
+  "id": "65",
+  "name": "Hammerstein",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 3,
+  "concerts": [
+    {
+      "id": "461",
+      "show_number": 460,
+      "date": "2010-12-02",
+      "festival_name": null,
+      "artists": "Brandon Flowers"
+    },
+    {
+      "id": "53",
+      "show_number": 52,
+      "date": "1997-12-12",
+      "festival_name": "Multi-Artist Show",
+      "artists": "George Thorogood, the Destroyers"
+    },
+    {
+      "id": "38",
+      "show_number": 37,
+      "date": "1997-06-03",
+      "festival_name": null,
+      "artists": "John Fogerty"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "137",
+  "name": "Roseland",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 3,
+  "concerts": [
+    {
+      "id": "571",
+      "show_number": 570,
+      "date": "2014-04-02",
+      "festival_name": null,
+      "artists": "Lady Gaga"
+    },
+    {
+      "id": "426",
+      "show_number": 425,
+      "date": "2010-06-23",
+      "festival_name": null,
+      "artists": "Phil Collins"
+    },
+    {
+      "id": "51",
+      "show_number": 50,
+      "date": "1997-11-21",
+      "festival_name": "Multi-Artist Show",
+      "artists": "311, Sugar Ray"
+    }
+  ]
+}

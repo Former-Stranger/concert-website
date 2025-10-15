@@ -1,0 +1,103 @@
+{
+  "id": "455",
+  "name": "Richard Thompson",
+  "concert_count": 6,
+  "top_songs": [
+    {
+      "name": "1952 Vincent Black Lightning",
+      "times_played": 6
+    },
+    {
+      "name": "Wall of Death",
+      "times_played": 6
+    },
+    {
+      "name": "Beeswing",
+      "times_played": 5
+    },
+    {
+      "name": "I Feel So Good",
+      "times_played": 4
+    },
+    {
+      "name": "The Ghost of You Walks",
+      "times_played": 4
+    },
+    {
+      "name": "Dimming of the Day",
+      "times_played": 3
+    },
+    {
+      "name": "Singapore Sadie",
+      "times_played": 3
+    },
+    {
+      "name": "Turning of the Tide",
+      "times_played": 3
+    },
+    {
+      "name": "If I Could Live My Life Again",
+      "times_played": 3
+    },
+    {
+      "name": "My Enemy",
+      "times_played": 3
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1145",
+      "show_number": 1144,
+      "date": "2024-03-01",
+      "festival_name": null,
+      "venue": "Emelin Theatre",
+      "city": "Mamaroneck",
+      "state": "NY"
+    },
+    {
+      "id": "1102",
+      "show_number": 1101,
+      "date": "2023-07-27",
+      "festival_name": null,
+      "venue": "City Winery Hudson Valley",
+      "city": "Montgomery",
+      "state": "NY"
+    },
+    {
+      "id": "1075",
+      "show_number": 1074,
+      "date": "2022-12-15",
+      "festival_name": null,
+      "venue": "Symphony Space",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "968",
+      "show_number": 967,
+      "date": "2020-02-08",
+      "festival_name": null,
+      "venue": "Symphony Space",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "920",
+      "show_number": 919,
+      "date": "2019-07-01",
+      "festival_name": null,
+      "venue": "City Winery",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "913",
+      "show_number": 912,
+      "date": "2019-05-11",
+      "festival_name": null,
+      "venue": "Outpost in the Burbs",
+      "city": "Montclair",
+      "state": "NJ"
+    }
+  ]
+}

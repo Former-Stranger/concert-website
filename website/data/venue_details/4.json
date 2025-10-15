@@ -1,0 +1,16 @@
+{
+  "id": "4",
+  "name": "Arthur Ashe Stadium",
+  "city": "Queens",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "1187",
+      "show_number": 1186,
+      "date": "2024-08-18",
+      "festival_name": null,
+      "artists": "Dierks Bentley"
+    }
+  ]
+}

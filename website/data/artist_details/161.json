@@ -1,0 +1,58 @@
+{
+  "id": "161",
+  "name": "Dawes",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Living in the Future",
+      "times_played": 1
+    },
+    {
+      "name": "If I Wanted Someone",
+      "times_played": 1
+    },
+    {
+      "name": "Right on Time",
+      "times_played": 1
+    },
+    {
+      "name": "Quitter",
+      "times_played": 1
+    },
+    {
+      "name": "Never Gonna Say Goodbye",
+      "times_played": 1
+    },
+    {
+      "name": "Things Happen",
+      "times_played": 1
+    },
+    {
+      "name": "Just Beneath the Surface",
+      "times_played": 1
+    },
+    {
+      "name": "Now That It's Too Late, Maria",
+      "times_played": 1
+    },
+    {
+      "name": "Time Spent in Los Angeles",
+      "times_played": 1
+    },
+    {
+      "name": "Feed the Fire",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "894",
+      "show_number": 893,
+      "date": "2019-02-06",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    }
+  ]
+}

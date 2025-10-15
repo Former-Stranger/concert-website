@@ -1,0 +1,67 @@
+{
+  "id": "395",
+  "name": "Nash & Young",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "Carry On",
+      "times_played": 2
+    },
+    {
+      "name": "Military Madness",
+      "times_played": 2
+    },
+    {
+      "name": "Wooden Ships",
+      "times_played": 2
+    },
+    {
+      "name": "Southern Cross",
+      "times_played": 2
+    },
+    {
+      "name": "Almost Cut My Hair",
+      "times_played": 2
+    },
+    {
+      "name": "Helplessly Hoping",
+      "times_played": 2
+    },
+    {
+      "name": "Our House",
+      "times_played": 2
+    },
+    {
+      "name": "Carry Me",
+      "times_played": 2
+    },
+    {
+      "name": "Guinnevere",
+      "times_played": 2
+    },
+    {
+      "name": "Ole Man Trouble",
+      "times_played": 2
+    }
+  ],
+  "concerts": [
+    {
+      "id": "275",
+      "show_number": 274,
+      "date": "2006-08-20",
+      "festival_name": "Multi-Artist Show",
+      "venue": "PNC Bank Arts Center",
+      "city": "Holmdel",
+      "state": "NJ"
+    },
+    {
+      "id": "152",
+      "show_number": 151,
+      "date": "2002-02-28",
+      "festival_name": "Multi-Artist Show",
+      "venue": "XL Center",
+      "city": "Hartford",
+      "state": "CT"
+    }
+  ]
+}

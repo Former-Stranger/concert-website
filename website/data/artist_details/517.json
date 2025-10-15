@@ -1,0 +1,58 @@
+{
+  "id": "517",
+  "name": "Slash",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Ghost",
+      "times_played": 1
+    },
+    {
+      "name": "Nightrain",
+      "times_played": 1
+    },
+    {
+      "name": "Back From Cali",
+      "times_played": 1
+    },
+    {
+      "name": "World on Fire",
+      "times_played": 1
+    },
+    {
+      "name": "You Could Be Mine",
+      "times_played": 1
+    },
+    {
+      "name": "Anastasia",
+      "times_played": 1
+    },
+    {
+      "name": "You're a Lie",
+      "times_played": 1
+    },
+    {
+      "name": "Sweet Child o' Mine",
+      "times_played": 1
+    },
+    {
+      "name": "Slither",
+      "times_played": 1
+    },
+    {
+      "name": "By the Sword",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "586",
+      "show_number": 585,
+      "date": "2014-07-10",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    }
+  ]
+}

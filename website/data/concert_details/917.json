@@ -1,0 +1,128 @@
+{
+  "id": "917",
+  "show_number": 916,
+  "date": "2019-06-20",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Westchester County Center",
+  "city": "White Plains",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "YES",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Asia",
+      "role": "festival_performer"
+    },
+    {
+      "name": "John Lodge",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Carl Palmer",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/1391397d.html",
+  "song_count": 12,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "No Opportunity Necessary, No Experience Needed",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Richie Havens"
+    },
+    {
+      "position": 2,
+      "name": "Tempus Fugit",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Going for the One",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "I've Seen All Good People",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Second Initial",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Steve Howe"
+    },
+    {
+      "position": 6,
+      "name": "Siberian Khatru",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Onward",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "America",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Simon & Garfunkel"
+    },
+    {
+      "position": 9,
+      "name": "Rhythm of Love",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "The Gates of Delirium",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "Imagine",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "John Lennon"
+    },
+    {
+      "position": 12,
+      "name": "Roundabout",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

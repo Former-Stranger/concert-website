@@ -1,0 +1,35 @@
+{
+  "id": "659",
+  "name": "the Asbury Jukes",
+  "concert_count": 3,
+  "top_songs": [],
+  "concerts": [
+    {
+      "id": "282",
+      "show_number": 281,
+      "date": "2006-09-30",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Yonkers",
+      "city": "Yonkers",
+      "state": "NY"
+    },
+    {
+      "id": "198",
+      "show_number": 197,
+      "date": "2004-01-18",
+      "festival_name": "Multi-Artist Show",
+      "venue": "BB King Blues Club",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "150",
+      "show_number": 149,
+      "date": "2002-02-01",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Webster Theater",
+      "city": "Hartford",
+      "state": "CT"
+    }
+  ]
+}

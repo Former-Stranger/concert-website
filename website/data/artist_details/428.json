@@ -1,0 +1,94 @@
+{
+  "id": "428",
+  "name": "Phil Collins",
+  "concert_count": 5,
+  "top_songs": [
+    {
+      "name": "You Can't Hurry Love",
+      "times_played": 5
+    },
+    {
+      "name": "Against All Odds (Take a Look at Me Now)",
+      "times_played": 4
+    },
+    {
+      "name": "Another Day in Paradise",
+      "times_played": 4
+    },
+    {
+      "name": "I Missed Again",
+      "times_played": 4
+    },
+    {
+      "name": "Hang in Long Enough",
+      "times_played": 4
+    },
+    {
+      "name": "Separate Lives",
+      "times_played": 4
+    },
+    {
+      "name": "Something Happened on the Way to Heaven",
+      "times_played": 4
+    },
+    {
+      "name": "In the Air Tonight",
+      "times_played": 4
+    },
+    {
+      "name": "Dance Into the Light",
+      "times_played": 4
+    },
+    {
+      "name": "Easy Lover",
+      "times_played": 4
+    }
+  ],
+  "concerts": [
+    {
+      "id": "948",
+      "show_number": 947,
+      "date": "2019-10-07",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "947",
+      "show_number": 946,
+      "date": "2019-10-06",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "873",
+      "show_number": 872,
+      "date": "2018-10-13",
+      "festival_name": null,
+      "venue": "Prudential Center",
+      "city": "Newark",
+      "state": "NJ"
+    },
+    {
+      "id": "426",
+      "show_number": 425,
+      "date": "2010-06-23",
+      "festival_name": null,
+      "venue": "Roseland",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "214",
+      "show_number": 213,
+      "date": "2004-09-18",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "632",
+  "name": "Weird Al",
+  "concert_count": 5,
+  "top_songs": [
+    {
+      "name": "Dare to Be Stupid",
+      "times_played": 4
+    },
+    {
+      "name": "Drum Solo",
+      "times_played": 4
+    },
+    {
+      "name": "Lame Claim to Fame",
+      "times_played": 3
+    },
+    {
+      "name": "Craigslist",
+      "times_played": 3
+    },
+    {
+      "name": "Good Old Days",
+      "times_played": 3
+    },
+    {
+      "name": "Fat",
+      "times_played": 2
+    },
+    {
+      "name": "Smells Like Nirvana",
+      "times_played": 2
+    },
+    {
+      "name": "Canadian Idiot",
+      "times_played": 2
+    },
+    {
+      "name": "Wanna B Ur Lovr",
+      "times_played": 2
+    },
+    {
+      "name": "White & Nerdy",
+      "times_played": 2
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1266",
+      "show_number": 1265,
+      "date": "2025-07-12",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "1067",
+      "show_number": 1066,
+      "date": "2022-10-29",
+      "festival_name": null,
+      "venue": "Carnegie Hall",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "1021",
+      "show_number": 1020,
+      "date": "2022-05-10",
+      "festival_name": null,
+      "venue": "Ridgefield Playhouse",
+      "city": "Ridgefield",
+      "state": "CT"
+    },
+    {
+      "id": "725",
+      "show_number": 724,
+      "date": "2016-09-24",
+      "festival_name": null,
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "427",
+      "show_number": 426,
+      "date": "2010-06-24",
+      "festival_name": null,
+      "venue": "NYCB Theatre at Westbury",
+      "city": "Westbury",
+      "state": "NY"
+    }
+  ]
+}

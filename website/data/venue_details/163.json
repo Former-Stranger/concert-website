@@ -1,0 +1,16 @@
+{
+  "id": "163",
+  "name": "The Saint Asbury Park",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "711",
+      "show_number": 710,
+      "date": "2016-08-12",
+      "festival_name": null,
+      "artists": "Will Hoge"
+    }
+  ]
+}

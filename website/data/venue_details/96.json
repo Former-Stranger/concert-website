@@ -1,0 +1,16 @@
+{
+  "id": "96",
+  "name": "Minetta Lane Theatre",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "943",
+      "show_number": 942,
+      "date": "2019-09-20",
+      "festival_name": null,
+      "artists": "Tom Morello"
+    }
+  ]
+}

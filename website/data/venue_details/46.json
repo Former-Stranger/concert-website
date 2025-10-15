@@ -1,0 +1,16 @@
+{
+  "id": "46",
+  "name": "Emelin Theatre",
+  "city": "Mamaroneck",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "1145",
+      "show_number": 1144,
+      "date": "2024-03-01",
+      "festival_name": null,
+      "artists": "Richard Thompson"
+    }
+  ]
+}

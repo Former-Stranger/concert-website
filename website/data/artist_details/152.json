@@ -1,0 +1,58 @@
+{
+  "id": "152",
+  "name": "Dave Bromberg",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "If I Should Fall From Grace With God",
+      "times_played": 1
+    },
+    {
+      "name": "The Devil's Right Hand",
+      "times_played": 1
+    },
+    {
+      "name": "Someday",
+      "times_played": 1
+    },
+    {
+      "name": "Guitar Town",
+      "times_played": 1
+    },
+    {
+      "name": "Goodbye",
+      "times_played": 1
+    },
+    {
+      "name": "Hometown Blues",
+      "times_played": 1
+    },
+    {
+      "name": "Jerusalem",
+      "times_played": 1
+    },
+    {
+      "name": "Transcendental Blues",
+      "times_played": 1
+    },
+    {
+      "name": "Copperhead Road",
+      "times_played": 1
+    },
+    {
+      "name": "Teach Your Children",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1134",
+      "show_number": 1133,
+      "date": "2023-12-03",
+      "festival_name": "Multi-Artist Show",
+      "venue": "The Town Hall",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

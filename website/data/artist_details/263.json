@@ -1,0 +1,103 @@
+{
+  "id": "263",
+  "name": "Jason Aldean",
+  "concert_count": 6,
+  "top_songs": [
+    {
+      "name": "Tattoos on This Town",
+      "times_played": 3
+    },
+    {
+      "name": "When She Says Baby",
+      "times_played": 3
+    },
+    {
+      "name": "Fly Over States",
+      "times_played": 3
+    },
+    {
+      "name": "Rearview Town",
+      "times_played": 3
+    },
+    {
+      "name": "Amarillo Sky",
+      "times_played": 3
+    },
+    {
+      "name": "We Back",
+      "times_played": 3
+    },
+    {
+      "name": "Take a Little Ride",
+      "times_played": 3
+    },
+    {
+      "name": "Dirt Road Anthem",
+      "times_played": 3
+    },
+    {
+      "name": "Crazy Town",
+      "times_played": 3
+    },
+    {
+      "name": "The Only Way I Know",
+      "times_played": 3
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1099",
+      "show_number": 1098,
+      "date": "2023-07-15",
+      "festival_name": null,
+      "venue": "Xfinity Center",
+      "city": "Mansfield",
+      "state": "MA"
+    },
+    {
+      "id": "978",
+      "show_number": 977,
+      "date": "2021-08-07",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "940",
+      "show_number": 939,
+      "date": "2019-09-06",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "849",
+      "show_number": 848,
+      "date": "2018-08-11",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "779",
+      "show_number": 778,
+      "date": "2017-08-25",
+      "festival_name": null,
+      "venue": "Today Show Plaza at Rockefeller Center",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "645",
+      "show_number": 644,
+      "date": "2015-08-15",
+      "festival_name": "Multi-Artist Show",
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    }
+  ]
+}

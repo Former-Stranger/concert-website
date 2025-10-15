@@ -1,0 +1,51 @@
+{
+  "id": "5",
+  "name": "Asbury Park Beach",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "concert_count": 6,
+  "concerts": [
+    {
+      "id": "1197",
+      "show_number": 1196,
+      "date": "2024-09-15",
+      "festival_name": "Multi-Artist Show",
+      "artists": "SEA HEAR NOW: Bruce Springsteen, Trey Anastaio, Kool & Gang"
+    },
+    {
+      "id": "1196",
+      "show_number": 1195,
+      "date": "2024-09-14",
+      "festival_name": "Multi-Artist Show",
+      "artists": "SEA HEAR NOW: Noah Kahan, Black Crowes, Guster, Revivalists, Randolph"
+    },
+    {
+      "id": "1059",
+      "show_number": 1058,
+      "date": "2022-09-18",
+      "festival_name": null,
+      "artists": "Sea Hear Now (Green Day)"
+    },
+    {
+      "id": "1058",
+      "show_number": 1057,
+      "date": "2022-09-17",
+      "festival_name": null,
+      "artists": "Sea Hear Now (Stevie Nicks)"
+    },
+    {
+      "id": "989",
+      "show_number": 988,
+      "date": "2021-09-19",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Sea Hear Now (Smashing Pumpkins, Billy Idol, Orville Peck)"
+    },
+    {
+      "id": "988",
+      "show_number": 987,
+      "date": "2021-09-18",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Sea Hear Now (Pearl Jam, Avetts, Patti Smith)"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "429",
+  "name": "Phil Lesh",
+  "concert_count": 5,
+  "top_songs": [
+    {
+      "name": "The Weight",
+      "times_played": 2
+    },
+    {
+      "name": "Bird Song",
+      "times_played": 2
+    },
+    {
+      "name": "All Along the Watchtower",
+      "times_played": 2
+    },
+    {
+      "name": "Mason's Children",
+      "times_played": 2
+    },
+    {
+      "name": "Mississippi Half-Step Uptown Toodeloo",
+      "times_played": 2
+    },
+    {
+      "name": "Doin' That Rag",
+      "times_played": 2
+    },
+    {
+      "name": "Jam",
+      "times_played": 2
+    },
+    {
+      "name": "Cosmic Charlie",
+      "times_played": 2
+    },
+    {
+      "name": "Shakedown Street",
+      "times_played": 2
+    },
+    {
+      "name": "Franklin's Tower",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1146",
+      "show_number": 1145,
+      "date": "2024-03-04",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "1080",
+      "show_number": 1079,
+      "date": "2023-03-19",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "924",
+      "show_number": 923,
+      "date": "2019-07-26",
+      "festival_name": "Newport Folk Festival",
+      "venue": "Fort Adams State Park",
+      "city": "Newport",
+      "state": "RI"
+    },
+    {
+      "id": "695",
+      "show_number": 694,
+      "date": "2016-05-27",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "253",
+      "show_number": 252,
+      "date": "2006-02-15",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

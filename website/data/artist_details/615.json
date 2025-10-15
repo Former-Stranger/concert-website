@@ -1,0 +1,67 @@
+{
+  "id": "615",
+  "name": "Tyler Childers",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "I Swear (to God)",
+      "times_played": 2
+    },
+    {
+      "name": "Country Squire",
+      "times_played": 2
+    },
+    {
+      "name": "All Your'n",
+      "times_played": 2
+    },
+    {
+      "name": "Purgatory",
+      "times_played": 2
+    },
+    {
+      "name": "Cluck Old Hen",
+      "times_played": 2
+    },
+    {
+      "name": "Nose on the Grindstone",
+      "times_played": 2
+    },
+    {
+      "name": "Follow You to Virgie",
+      "times_played": 2
+    },
+    {
+      "name": "Lady May",
+      "times_played": 2
+    },
+    {
+      "name": "In Your Love",
+      "times_played": 2
+    },
+    {
+      "name": "The Old Country Church",
+      "times_played": 2
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1168",
+      "show_number": 1167,
+      "date": "2024-05-28",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "1105",
+      "show_number": 1104,
+      "date": "2023-08-02",
+      "festival_name": null,
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

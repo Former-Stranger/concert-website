@@ -1,0 +1,16 @@
+{
+  "id": "7",
+  "name": "Bakkt Theater at Planet Hollywood",
+  "city": "Las Vegas",
+  "state": "NV",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "1125",
+      "show_number": 1124,
+      "date": "2023-11-01",
+      "festival_name": null,
+      "artists": "Keith Urban"
+    }
+  ]
+}

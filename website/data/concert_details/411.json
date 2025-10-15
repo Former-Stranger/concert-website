@@ -1,0 +1,248 @@
+{
+  "id": "411",
+  "show_number": 410,
+  "date": "2010-02-19",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Eric Clapton",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Jeff Beck",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/73d752e9.html",
+  "song_count": 28,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Eternity's Breath",
+      "set_name": "Jeff Beck",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Mahavishnu Orchestra"
+    },
+    {
+      "position": 2,
+      "name": "Stratus",
+      "set_name": "Jeff Beck",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Cobham"
+    },
+    {
+      "position": 3,
+      "name": "Led Boots",
+      "set_name": "Jeff Beck",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jeff Beck"
+    },
+    {
+      "position": 4,
+      "name": "Corpus Christi Carol",
+      "set_name": "Jeff Beck",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Benjamin Britten"
+    },
+    {
+      "position": 5,
+      "name": "Bass solo",
+      "set_name": "Jeff Beck",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Hammerhead",
+      "set_name": "Jeff Beck",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jeff Beck"
+    },
+    {
+      "position": 7,
+      "name": "Mn\u00e1 na h\u00c9ireann",
+      "set_name": "Jeff Beck",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ceolt\u00f3ir\u00ed Chualann"
+    },
+    {
+      "position": 8,
+      "name": "Brush With the Blues",
+      "set_name": "Jeff Beck",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jeff Beck"
+    },
+    {
+      "position": 9,
+      "name": "Big Block",
+      "set_name": "Jeff Beck",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jeff Beck"
+    },
+    {
+      "position": 10,
+      "name": "A Day in the Life",
+      "set_name": "Jeff Beck",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Beatles"
+    },
+    {
+      "position": 11,
+      "name": "Nessun dorma",
+      "set_name": "Jeff Beck",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Giacomo Puccini"
+    },
+    {
+      "position": 12,
+      "name": "Driftin' Blues",
+      "set_name": "Eric Clapton",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Johnny Moore\u2019s Three Blazers"
+    },
+    {
+      "position": 13,
+      "name": "Nobody Knows You When You're Down and Out",
+      "set_name": "Eric Clapton",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jimmy Cox"
+    },
+    {
+      "position": 14,
+      "name": "Running on Faith",
+      "set_name": "Eric Clapton",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Eric Clapton"
+    },
+    {
+      "position": 15,
+      "name": "I've Got a Rock 'n' Roll Heart",
+      "set_name": "Eric Clapton",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Eric Clapton"
+    },
+    {
+      "position": 16,
+      "name": "Tell the Truth",
+      "set_name": "Eric Clapton",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Derek and the Dominos"
+    },
+    {
+      "position": 17,
+      "name": "Key to the Highway",
+      "set_name": "Eric Clapton",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Charles Segar"
+    },
+    {
+      "position": 18,
+      "name": "I Shot the Sheriff",
+      "set_name": "Eric Clapton",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Wailers"
+    },
+    {
+      "position": 19,
+      "name": "Little Queen of Spades",
+      "set_name": "Eric Clapton",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Robert Johnson"
+    },
+    {
+      "position": 20,
+      "name": "Cocaine",
+      "set_name": "Eric Clapton",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "J.J. Cale"
+    },
+    {
+      "position": 21,
+      "name": "Shake Your Moneymaker",
+      "set_name": "Jeff Beck and Eric Clapton",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elmore James"
+    },
+    {
+      "position": 22,
+      "name": "Moon River",
+      "set_name": "Jeff Beck and Eric Clapton",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Henry Mancini"
+    },
+    {
+      "position": 23,
+      "name": "You Need Love",
+      "set_name": "Jeff Beck and Eric Clapton",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Muddy Waters"
+    },
+    {
+      "position": 24,
+      "name": "Outside Woman Blues",
+      "set_name": "Jeff Beck and Eric Clapton",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Blind Joe Reynolds"
+    },
+    {
+      "position": 25,
+      "name": "Little Brown Bird",
+      "set_name": "Jeff Beck and Eric Clapton",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Muddy Waters"
+    },
+    {
+      "position": 26,
+      "name": "Wee Baby Blues",
+      "set_name": "Jeff Beck and Eric Clapton",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Big Joe Turner"
+    },
+    {
+      "position": 27,
+      "name": "I Want to Take You Higher",
+      "set_name": "Jeff Beck and Eric Clapton",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Sly & the Family Stone"
+    },
+    {
+      "position": 28,
+      "name": "Cross Road Blues",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Robert Johnson"
+    }
+  ]
+}

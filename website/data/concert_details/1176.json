@@ -1,0 +1,132 @@
+{
+  "id": "1176",
+  "show_number": 1175,
+  "date": "2024-06-29",
+  "festival_name": "Outlaw Festival",
+  "venue": "Jones Beach Theater",
+  "city": "Wantagh",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Willie Nelson",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Bob Dylan",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Robert Plant",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/3a959cb.html",
+  "song_count": 13,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Rich Woman",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Li'l Millet and His Creoles"
+    },
+    {
+      "position": 2,
+      "name": "Fortune Teller",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Benny Spellman"
+    },
+    {
+      "position": 3,
+      "name": "Can't Let Go",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Randy Weeks"
+    },
+    {
+      "position": 4,
+      "name": "The Price of Love",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Everly Brothers"
+    },
+    {
+      "position": 5,
+      "name": "Rock and Roll",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Led Zeppelin"
+    },
+    {
+      "position": 6,
+      "name": "Please Read the Letter",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jimmy Page & Robert Plant"
+    },
+    {
+      "position": 7,
+      "name": "High and Lonesome",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Trouble With My Lover",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Allen Toussaint and Leo Nocentelli"
+    },
+    {
+      "position": 9,
+      "name": "In the Mood / Matty Groves / Gallows Pole",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "The Battle of Evermore",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Led Zeppelin"
+    },
+    {
+      "position": 11,
+      "name": "When the Levee Breaks",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Memphis Minnie & Kansas Joe McCoy"
+    },
+    {
+      "position": 12,
+      "name": "Stick With Me Baby",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Everly Brothers"
+    },
+    {
+      "position": 13,
+      "name": "Gone Gone Gone",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Everly Brothers"
+    }
+  ]
+}

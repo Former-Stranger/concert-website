@@ -1,0 +1,37 @@
+{
+  "id": "189",
+  "name": "Xfinity Center",
+  "city": "Mansfield",
+  "state": "MA",
+  "concert_count": 4,
+  "concerts": [
+    {
+      "id": "1099",
+      "show_number": 1098,
+      "date": "2023-07-15",
+      "festival_name": null,
+      "artists": "Jason Aldean"
+    },
+    {
+      "id": "1036",
+      "show_number": 1035,
+      "date": "2022-07-05",
+      "festival_name": "Multi-Artist Show",
+      "artists": "DEAD: Dead, Company"
+    },
+    {
+      "id": "976",
+      "show_number": 975,
+      "date": "2021-07-25",
+      "festival_name": null,
+      "artists": "Black Crowes"
+    },
+    {
+      "id": "938",
+      "show_number": 937,
+      "date": "2019-08-29",
+      "festival_name": null,
+      "artists": "Brad Paisely"
+    }
+  ]
+}

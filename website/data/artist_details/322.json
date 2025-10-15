@@ -1,0 +1,76 @@
+{
+  "id": "322",
+  "name": "Kenny Loggins",
+  "concert_count": 3,
+  "top_songs": [
+    {
+      "name": "Danny's Song",
+      "times_played": 2
+    },
+    {
+      "name": "Return to Pooh Corner",
+      "times_played": 2
+    },
+    {
+      "name": "Conviction of the Heart",
+      "times_played": 2
+    },
+    {
+      "name": "Whenever I Call You \"Friend\"",
+      "times_played": 2
+    },
+    {
+      "name": "The Real Thing",
+      "times_played": 2
+    },
+    {
+      "name": "This Is It",
+      "times_played": 2
+    },
+    {
+      "name": "Celebrate Me Home",
+      "times_played": 2
+    },
+    {
+      "name": "Your Mama Don't Dance",
+      "times_played": 2
+    },
+    {
+      "name": "I'm Alright",
+      "times_played": 2
+    },
+    {
+      "name": "Danger Zone",
+      "times_played": 2
+    }
+  ],
+  "concerts": [
+    {
+      "id": "480",
+      "show_number": 479,
+      "date": "2011-06-18",
+      "festival_name": null,
+      "venue": "NYCB Theatre at Westbury",
+      "city": "Westbury",
+      "state": "NY"
+    },
+    {
+      "id": "420",
+      "show_number": 419,
+      "date": "2010-05-14",
+      "festival_name": null,
+      "venue": "NYCB Theatre at Westbury",
+      "city": "Westbury",
+      "state": "NY"
+    },
+    {
+      "id": "139",
+      "show_number": 138,
+      "date": "2001-07-22",
+      "festival_name": null,
+      "venue": "Hilton Atlantic City",
+      "city": "Atlantic City",
+      "state": "NJ"
+    }
+  ]
+}

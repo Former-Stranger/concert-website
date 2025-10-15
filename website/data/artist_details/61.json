@@ -1,0 +1,184 @@
+{
+  "id": "61",
+  "name": "Bob Dylan",
+  "concert_count": 15,
+  "top_songs": [
+    {
+      "name": "Things Have Changed",
+      "times_played": 7
+    },
+    {
+      "name": "When I Paint My Masterpiece",
+      "times_played": 6
+    },
+    {
+      "name": "Highway 61 Revisited",
+      "times_played": 6
+    },
+    {
+      "name": "Early Roman Kings",
+      "times_played": 6
+    },
+    {
+      "name": "Blowin' in the Wind",
+      "times_played": 6
+    },
+    {
+      "name": "Gotta Serve Somebody",
+      "times_played": 5
+    },
+    {
+      "name": "Thunder on the Mountain",
+      "times_played": 5
+    },
+    {
+      "name": "Soon After Midnight",
+      "times_played": 5
+    },
+    {
+      "name": "All Along the Watchtower",
+      "times_played": 5
+    },
+    {
+      "name": "I'll Be Your Baby Tonight",
+      "times_played": 4
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1270",
+      "show_number": 1269,
+      "date": "2025-08-01",
+      "festival_name": "Outlaw Festival",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "1176",
+      "show_number": 1175,
+      "date": "2024-06-29",
+      "festival_name": "Outlaw Festival",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "1130",
+      "show_number": 1129,
+      "date": "2023-11-16",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "1127",
+      "show_number": 1126,
+      "date": "2023-11-07",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "1001",
+      "show_number": 1000,
+      "date": "2021-11-23",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "964",
+      "show_number": 963,
+      "date": "2019-12-03",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "884",
+      "show_number": 883,
+      "date": "2018-11-26",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "801",
+      "show_number": 800,
+      "date": "2017-11-21",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "758",
+      "show_number": 757,
+      "date": "2017-06-15",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "544",
+      "show_number": 543,
+      "date": "2013-07-19",
+      "festival_name": null,
+      "venue": "Hartford HealthCare Amphitheater",
+      "city": "Bridgeport",
+      "state": "CT"
+    },
+    {
+      "id": "304",
+      "show_number": 303,
+      "date": "2007-06-29",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "172",
+      "show_number": 171,
+      "date": "2002-11-17",
+      "festival_name": null,
+      "venue": "XL Center",
+      "city": "Hartford",
+      "state": "CT"
+    },
+    {
+      "id": "92",
+      "show_number": 91,
+      "date": "1999-07-27",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "54",
+      "show_number": 53,
+      "date": "1998-01-16",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Paramount Theater at MSG",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "18",
+      "show_number": 17,
+      "date": "1996-05-01",
+      "festival_name": null,
+      "venue": "Mid-Hudson Civic Center",
+      "city": "Poughkeepsie",
+      "state": "NY"
+    }
+  ]
+}

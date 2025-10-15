@@ -1,0 +1,58 @@
+{
+  "id": "621",
+  "name": "Van Halen (Hagar)",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Jump",
+      "times_played": 1
+    },
+    {
+      "name": "Runaround",
+      "times_played": 1
+    },
+    {
+      "name": "Humans Being",
+      "times_played": 1
+    },
+    {
+      "name": "Up for Breakfast",
+      "times_played": 1
+    },
+    {
+      "name": "Bass Solo",
+      "times_played": 1
+    },
+    {
+      "name": "Somebody Get Me a Doctor",
+      "times_played": 1
+    },
+    {
+      "name": "Poundcake",
+      "times_played": 1
+    },
+    {
+      "name": "It's About Time",
+      "times_played": 1
+    },
+    {
+      "name": "Drum Solo",
+      "times_played": 1
+    },
+    {
+      "name": "Top of the World",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "203",
+      "show_number": 202,
+      "date": "2004-06-22",
+      "festival_name": null,
+      "venue": "Izod Center",
+      "city": "East Rutherford",
+      "state": "NJ"
+    }
+  ]
+}

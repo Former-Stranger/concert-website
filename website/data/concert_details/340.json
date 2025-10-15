@@ -1,0 +1,172 @@
+{
+  "id": "340",
+  "show_number": 339,
+  "date": "2008-06-05",
+  "festival_name": null,
+  "venue": "Jones Beach Theater",
+  "city": "Wantagh",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Eric Clapton",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/73d6b215.html",
+  "song_count": 19,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Tell the Truth",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Derek and the Dominos"
+    },
+    {
+      "position": 2,
+      "name": "Key to the Highway",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Charles Segar"
+    },
+    {
+      "position": 3,
+      "name": "I'm Your Hoochie Coochie Man",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Willie Dixon"
+    },
+    {
+      "position": 4,
+      "name": "Little Wing",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Jimi Hendrix Experience"
+    },
+    {
+      "position": 5,
+      "name": "Outside Woman Blues",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Blind Joe Reynolds"
+    },
+    {
+      "position": 6,
+      "name": "Double Trouble",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Otis Rush"
+    },
+    {
+      "position": 7,
+      "name": "Don't Knock My Love",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Wilson Pickett"
+    },
+    {
+      "position": 8,
+      "name": "Ramblin' on My Mind",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Robert Johnson"
+    },
+    {
+      "position": 9,
+      "name": "Rockin' Chair",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Hoagy Carmichael"
+    },
+    {
+      "position": 10,
+      "name": "Motherless Child",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Robert Hicks"
+    },
+    {
+      "position": 11,
+      "name": "Travelling Riverside Blues",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Robert Johnson"
+    },
+    {
+      "position": 12,
+      "name": "Running on Faith",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Mother's Children Have a Hard Time",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Blind Willie Johnson"
+    },
+    {
+      "position": 14,
+      "name": "Little Queen of Spades",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Robert Johnson"
+    },
+    {
+      "position": 15,
+      "name": "Before You Accuse Me",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bo Diddley"
+    },
+    {
+      "position": 16,
+      "name": "Wonderful Tonight",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "Layla",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Derek and the Dominos"
+    },
+    {
+      "position": 18,
+      "name": "Cocaine",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "J.J. Cale"
+    },
+    {
+      "position": 19,
+      "name": "Got My Mo-Jo Working (But It Just Won't Work on You)",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Ann Cole with the Suburbans"
+    }
+  ]
+}

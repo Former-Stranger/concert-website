@@ -1,0 +1,76 @@
+{
+  "id": "514",
+  "name": "Sheryl Crow",
+  "concert_count": 3,
+  "top_songs": [
+    {
+      "name": "A Change Would Do You Good",
+      "times_played": 2
+    },
+    {
+      "name": "If It Makes You Happy",
+      "times_played": 2
+    },
+    {
+      "name": "Everything Is Broken",
+      "times_played": 2
+    },
+    {
+      "name": "Maybe Angels",
+      "times_played": 2
+    },
+    {
+      "name": "Leaving Las Vegas",
+      "times_played": 2
+    },
+    {
+      "name": "My Favorite Mistake",
+      "times_played": 2
+    },
+    {
+      "name": "Soak Up the Sun",
+      "times_played": 2
+    },
+    {
+      "name": "Everyday Is a Winding Road",
+      "times_played": 2
+    },
+    {
+      "name": "Beware of Darkness",
+      "times_played": 1
+    },
+    {
+      "name": "Prove You Wrong",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "985",
+      "show_number": 984,
+      "date": "2021-09-14",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "924",
+      "show_number": 923,
+      "date": "2019-07-26",
+      "festival_name": "Newport Folk Festival",
+      "venue": "Fort Adams State Park",
+      "city": "Newport",
+      "state": "RI"
+    },
+    {
+      "id": "446",
+      "show_number": 445,
+      "date": "2010-09-26",
+      "festival_name": null,
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

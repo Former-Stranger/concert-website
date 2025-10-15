@@ -1,0 +1,192 @@
+{
+  "id": "535",
+  "show_number": 534,
+  "date": "2013-05-26",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Tom Petty",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Heartbreakers",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/1bd9a16c.html",
+  "song_count": 21,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "So You Want to Be a Rock 'n' Roll Star",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Byrds"
+    },
+    {
+      "position": 2,
+      "name": "Love Is a Long Road",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tom Petty"
+    },
+    {
+      "position": 3,
+      "name": "Honey Bee",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tom Petty"
+    },
+    {
+      "position": 4,
+      "name": "Born in Chicago",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Nick Gravenites John Cipollina Band"
+    },
+    {
+      "position": 5,
+      "name": "Thirteen Days",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "J.J. Cale"
+    },
+    {
+      "position": 6,
+      "name": "The Best of Everything",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Cabin Down Below",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tom Petty"
+    },
+    {
+      "position": 8,
+      "name": "A Woman in Love (It's Not Me)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Spike",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Tweeter and the Monkey Man",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Traveling Wilburys"
+    },
+    {
+      "position": 11,
+      "name": "Rebels",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "Time to Move On",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tom Petty"
+    },
+    {
+      "position": 13,
+      "name": "Down South",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tom Petty"
+    },
+    {
+      "position": 14,
+      "name": "Girl on LSD",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tom Petty"
+    },
+    {
+      "position": 15,
+      "name": "Willin'",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Little Feat"
+    },
+    {
+      "position": 16,
+      "name": "It's Good to Be King",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tom Petty"
+    },
+    {
+      "position": 17,
+      "name": "I Should Have Known It",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "Refugee",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 19,
+      "name": "Runnin' Down a Dream",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tom Petty"
+    },
+    {
+      "position": 20,
+      "name": "Listen to Her Heart",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 21,
+      "name": "American Girl",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

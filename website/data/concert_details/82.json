@@ -1,0 +1,256 @@
+{
+  "id": "82",
+  "show_number": 81,
+  "date": "1999-04-11",
+  "festival_name": null,
+  "venue": "Irving Plaza",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Tom Petty & the Heartbreakers",
+      "role": "headliner"
+    },
+    {
+      "name": "Blind Boys from Alabama",
+      "role": "opener"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/6bc19e76.html",
+  "song_count": 29,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Rip It Up",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Little Richard"
+    },
+    {
+      "position": 2,
+      "name": "Jammin' Me",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Runnin' Down a Dream",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tom Petty"
+    },
+    {
+      "position": 4,
+      "name": "Call Me the Breeze",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "J.J. Cale"
+    },
+    {
+      "position": 5,
+      "name": "Swingin'",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Mary Jane's Last Dance",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Telstar",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Tornados"
+    },
+    {
+      "position": 8,
+      "name": "Listen to Her Heart",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "You Don't Know How It Feels",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tom Petty"
+    },
+    {
+      "position": 10,
+      "name": "It's Good to Be King",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tom Petty"
+    },
+    {
+      "position": 11,
+      "name": "I Won't Back Down",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tom Petty"
+    },
+    {
+      "position": 12,
+      "name": "Green Onions",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Booker T. & the MG\u2019s"
+    },
+    {
+      "position": 13,
+      "name": "I Want You Back Again",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Zombies"
+    },
+    {
+      "position": 14,
+      "name": "I've Got a Woman",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ray Charles"
+    },
+    {
+      "position": 15,
+      "name": "The Letter",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Box Tops"
+    },
+    {
+      "position": 16,
+      "name": "Little Maggie",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 17,
+      "name": "Lay Down That Old Guitar",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "Walls (Circus)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 19,
+      "name": "Angel Dream (No. 2)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 21,
+      "name": "Room at the Top",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 22,
+      "name": "Heartbreakers Beach Party",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 23,
+      "name": "Guitar Boogie",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Arthur Smith"
+    },
+    {
+      "position": 24,
+      "name": "Even the Losers",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 25,
+      "name": "I Don't Wanna Fight",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 26,
+      "name": "Another Man Done Gone",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Vera Hall"
+    },
+    {
+      "position": 27,
+      "name": "You Wreck Me",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tom Petty"
+    },
+    {
+      "position": 28,
+      "name": "Free Girl Now",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 29,
+      "name": "Gloria",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Them"
+    }
+  ]
+}

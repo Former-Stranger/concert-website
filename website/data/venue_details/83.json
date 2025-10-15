@@ -1,0 +1,16 @@
+{
+  "id": "83",
+  "name": "Klein Memorial Auditorium",
+  "city": "Bridgeport",
+  "state": "CT",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "649",
+      "show_number": 648,
+      "date": "2015-08-29",
+      "festival_name": "Multi-Artist Show",
+      "artists": "John Hiatt, Taj Mahal"
+    }
+  ]
+}

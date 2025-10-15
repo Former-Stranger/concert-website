@@ -1,0 +1,23 @@
+{
+  "id": "117",
+  "name": "Paramount",
+  "city": "Huntington",
+  "state": "NY",
+  "concert_count": 2,
+  "concerts": [
+    {
+      "id": "819",
+      "show_number": 818,
+      "date": "2018-03-17",
+      "festival_name": null,
+      "artists": "Weird Al Yankovic"
+    },
+    {
+      "id": "818",
+      "show_number": 817,
+      "date": "2018-03-11",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Lyle Lovett, Shawn Colvin"
+    }
+  ]
+}

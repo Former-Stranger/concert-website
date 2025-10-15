@@ -1,0 +1,67 @@
+{
+  "id": "349",
+  "name": "Little Steven",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "Soulfire",
+      "times_played": 2
+    },
+    {
+      "name": "Coming Back",
+      "times_played": 2
+    },
+    {
+      "name": "Blues Is My Business",
+      "times_played": 2
+    },
+    {
+      "name": "Love on the Wrong Side of Town",
+      "times_played": 2
+    },
+    {
+      "name": "Until the Good Is Gone",
+      "times_played": 2
+    },
+    {
+      "name": "Angel Eyes",
+      "times_played": 2
+    },
+    {
+      "name": "Saint Valentine's Day",
+      "times_played": 2
+    },
+    {
+      "name": "Standing in the Line of Fire",
+      "times_played": 2
+    },
+    {
+      "name": "I Saw the Light",
+      "times_played": 2
+    },
+    {
+      "name": "Salvation",
+      "times_played": 2
+    }
+  ],
+  "concerts": [
+    {
+      "id": "825",
+      "show_number": 824,
+      "date": "2018-05-02",
+      "festival_name": null,
+      "venue": "Palladium Times Square",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "791",
+      "show_number": 790,
+      "date": "2017-09-25",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Gramercy Theater",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

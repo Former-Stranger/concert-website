@@ -1,0 +1,23 @@
+{
+  "id": "119",
+  "name": "Paramount Theater at MSG",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 2,
+  "concerts": [
+    {
+      "id": "54",
+      "show_number": 53,
+      "date": "1998-01-16",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Bob Dylan, Van Morrison"
+    },
+    {
+      "id": "35",
+      "show_number": 34,
+      "date": "1997-04-12",
+      "festival_name": null,
+      "artists": "John Mellencamp"
+    }
+  ]
+}

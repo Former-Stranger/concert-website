@@ -1,0 +1,76 @@
+{
+  "id": "440",
+  "name": "Queen + Adam Lambert",
+  "concert_count": 3,
+  "top_songs": [
+    {
+      "name": "Another One Bites the Dust",
+      "times_played": 3
+    },
+    {
+      "name": "Fat Bottomed Girls",
+      "times_played": 3
+    },
+    {
+      "name": "Killer Queen",
+      "times_played": 3
+    },
+    {
+      "name": "Somebody to Love",
+      "times_played": 3
+    },
+    {
+      "name": "I Want It All",
+      "times_played": 3
+    },
+    {
+      "name": "Love of My Life",
+      "times_played": 3
+    },
+    {
+      "name": "'39",
+      "times_played": 3
+    },
+    {
+      "name": "Under Pressure",
+      "times_played": 3
+    },
+    {
+      "name": "Who Wants to Live Forever",
+      "times_played": 3
+    },
+    {
+      "name": "Guitar Solo",
+      "times_played": 3
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1123",
+      "show_number": 1122,
+      "date": "2023-10-12",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "929",
+      "show_number": 928,
+      "date": "2019-08-06",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "587",
+      "show_number": 586,
+      "date": "2014-07-17",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

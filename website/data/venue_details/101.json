@@ -1,0 +1,16 @@
+{
+  "id": "101",
+  "name": "NBC Studios",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "1072",
+      "show_number": 1071,
+      "date": "2022-11-14",
+      "festival_name": null,
+      "artists": "Bruce Springsteen (Late Night"
+    }
+  ]
+}

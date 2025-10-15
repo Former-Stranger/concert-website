@@ -1,0 +1,37 @@
+{
+  "id": "145",
+  "name": "Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "concert_count": 4,
+  "concerts": [
+    {
+      "id": "1173",
+      "show_number": 1172,
+      "date": "2024-06-15",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Dead, Company"
+    },
+    {
+      "id": "1172",
+      "show_number": 1171,
+      "date": "2024-06-14",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Dead, Company"
+    },
+    {
+      "id": "1171",
+      "show_number": 1170,
+      "date": "2024-06-13",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Dead, Company"
+    },
+    {
+      "id": "1121",
+      "show_number": 1120,
+      "date": "2023-10-05",
+      "festival_name": null,
+      "artists": "U2"
+    }
+  ]
+}

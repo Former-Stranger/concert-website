@@ -1,0 +1,16 @@
+{
+  "id": "8",
+  "name": "Bald Hill Amphitheater",
+  "city": "Farmingville",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "935",
+      "show_number": 934,
+      "date": "2019-08-17",
+      "festival_name": null,
+      "artists": "Ringo Starr & His All Sarr Band"
+    }
+  ]
+}

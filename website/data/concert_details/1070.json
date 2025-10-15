@@ -1,0 +1,180 @@
+{
+  "id": "1070",
+  "show_number": 1069,
+  "date": "2022-11-07",
+  "festival_name": null,
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Marcus Mumford",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/4bbe0fa6.html",
+  "song_count": 20,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Awake My Soul",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Mumford & Sons"
+    },
+    {
+      "position": 2,
+      "name": "The Cave",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Mumford & Sons"
+    },
+    {
+      "position": 3,
+      "name": "Dink's Song (Fare Thee Well)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 4,
+      "name": "Hang Me, Oh Hang Me",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 5,
+      "name": "Cannibal",
+      "set_name": "(self-titled)",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Grace",
+      "set_name": "(self-titled)",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Prior Warning",
+      "set_name": "(self-titled)",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Better Off High",
+      "set_name": "(self-titled)",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Only Child",
+      "set_name": "(self-titled)",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Dangerous Game",
+      "set_name": "(self-titled)",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "Better Angels",
+      "set_name": "(self-titled)",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "Go in Light",
+      "set_name": "(self-titled)",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Stonecatcher",
+      "set_name": "(self-titled)",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "How",
+      "set_name": "(self-titled)",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "cowboy like me",
+      "set_name": "",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Taylor Swift"
+    },
+    {
+      "position": 16,
+      "name": "I Will Wait",
+      "set_name": "",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Mumford & Sons"
+    },
+    {
+      "position": 17,
+      "name": "Ditmas",
+      "set_name": "",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Mumford & Sons"
+    },
+    {
+      "position": 18,
+      "name": "I'm on Fire",
+      "set_name": "",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bruce Springsteen"
+    },
+    {
+      "position": 19,
+      "name": "When I Get My Hands on You",
+      "set_name": "",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The New Basement Tapes"
+    },
+    {
+      "position": 20,
+      "name": "Kansas City",
+      "set_name": "",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The New Basement Tapes"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "152",
+  "name": "Stony Brook Southampton",
+  "city": "Southampton",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "113",
+      "show_number": 112,
+      "date": "2000-07-31",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Jimmy Buffett, the Coral Reefer Band"
+    }
+  ]
+}

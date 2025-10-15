@@ -1,0 +1,192 @@
+{
+  "id": "896",
+  "show_number": 895,
+  "date": "2019-02-22",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Tarrytown Music Hall",
+  "city": "Tarrytown",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "John Hiatt",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Lyle Lovett",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/2b929cfa.html",
+  "song_count": 21,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Real Fine Love",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Hiatt"
+    },
+    {
+      "position": 2,
+      "name": "Once Is Enough",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Lyle Lovett"
+    },
+    {
+      "position": 3,
+      "name": "Master of Disaster",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Hiatt"
+    },
+    {
+      "position": 4,
+      "name": "White Boy Lost in the Blues",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Sonny Terry & Brownie McGhee"
+    },
+    {
+      "position": 5,
+      "name": "Crossing Muddy Waters",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Hiatt"
+    },
+    {
+      "position": 6,
+      "name": "She's Already Made Up Her Mind",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Lyle Lovett"
+    },
+    {
+      "position": 7,
+      "name": "Tennessee Plates",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Hiatt"
+    },
+    {
+      "position": 8,
+      "name": "You've Been So Good Up to Now",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Lyle Lovett"
+    },
+    {
+      "position": 9,
+      "name": "Marlene",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Hiatt"
+    },
+    {
+      "position": 10,
+      "name": "Lift Up Every Stone",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Hiatt"
+    },
+    {
+      "position": 11,
+      "name": "I Will Rise Up",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Lyle Lovett and His Large Band"
+    },
+    {
+      "position": 12,
+      "name": "Feels Like Rain",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Hiatt"
+    },
+    {
+      "position": 13,
+      "name": "North Dakota",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Lyle Lovett"
+    },
+    {
+      "position": 14,
+      "name": "Perfectly Good Guitar",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Hiatt"
+    },
+    {
+      "position": 15,
+      "name": "Pants Is Overrated",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Lyle Lovett"
+    },
+    {
+      "position": 16,
+      "name": "Drive South",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Hiatt"
+    },
+    {
+      "position": 17,
+      "name": "If I Had a Boat",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Lyle Lovett"
+    },
+    {
+      "position": 18,
+      "name": "Thing Called Love",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Hiatt"
+    },
+    {
+      "position": 19,
+      "name": "My Baby Don't Tolerate",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Lyle Lovett"
+    },
+    {
+      "position": 20,
+      "name": "Memphis in the Meantime",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "John Hiatt"
+    },
+    {
+      "position": 21,
+      "name": "12th of June",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Lyle Lovett"
+    }
+  ]
+}

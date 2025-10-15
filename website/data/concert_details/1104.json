@@ -1,0 +1,148 @@
+{
+  "id": "1104",
+  "show_number": 1103,
+  "date": "2023-07-30",
+  "festival_name": null,
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Phish",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/43a4d737.html",
+  "song_count": 16,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "AC/DC Bag",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "My Friend, My Friend",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Bathtub Gin",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Theme From the Bottom",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Llama",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Tube",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Golgi Apparatus",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Sigma Oasis",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Life Saving Gun",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Page McConnell & Trey Anastasio"
+    },
+    {
+      "position": 10,
+      "name": "No Men in No Man's Land",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "Lonely Trip",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Trey Anastasio"
+    },
+    {
+      "position": 12,
+      "name": "Frankie Says",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Gotta Jibboo",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Light",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Suzy Greenberg",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Izabella",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Jimi Hendrix"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "id": "825",
+  "show_number": 824,
+  "date": "2018-05-02",
+  "festival_name": null,
+  "venue": "Palladium Times Square",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Little Steven",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/bec6516.html",
+  "song_count": 22,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Sweet Soul Music",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Arthur Conley"
+    },
+    {
+      "position": 2,
+      "name": "Soulfire",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Breakers"
+    },
+    {
+      "position": 3,
+      "name": "Coming Back",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Southside Johnny & The Asbury Jukes"
+    },
+    {
+      "position": 4,
+      "name": "Blues Is My Business",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Larry McCray"
+    },
+    {
+      "position": 5,
+      "name": "Love on the Wrong Side of Town",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Little Steven"
+    },
+    {
+      "position": 6,
+      "name": "Until the Good Is Gone",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Angel Eyes",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Some Things Just Don't Change",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Southside Johnny & The Asbury Jukes"
+    },
+    {
+      "position": 9,
+      "name": "Saint Valentine's Day",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Cocktail Slippers"
+    },
+    {
+      "position": 10,
+      "name": "Standing in the Line of Fire",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Gary \u201cU.S.\u201d Bonds"
+    },
+    {
+      "position": 11,
+      "name": "I Saw the Light",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Little Steven"
+    },
+    {
+      "position": 12,
+      "name": "Salvation",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Little Steven"
+    },
+    {
+      "position": 13,
+      "name": "The City Weeps Tonight",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Little Steven"
+    },
+    {
+      "position": 14,
+      "name": "Down and Out in New York City",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "James Brown"
+    },
+    {
+      "position": 15,
+      "name": "Princess of Little Italy",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Solidarity",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Little Steven"
+    },
+    {
+      "position": 17,
+      "name": "Groovin' Is Easy",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Electric Flag"
+    },
+    {
+      "position": 18,
+      "name": "Ride the Night Away",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jimmy Barnes"
+    },
+    {
+      "position": 19,
+      "name": "Bitter Fruit",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Little Steven"
+    },
+    {
+      "position": 20,
+      "name": "Forever",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 21,
+      "name": "I Don't Want to Go Home",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Southside Johnny & The Asbury Jukes"
+    },
+    {
+      "position": 22,
+      "name": "Out of the Darkness",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Little Steven"
+    }
+  ]
+}

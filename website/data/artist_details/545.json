@@ -1,0 +1,76 @@
+{
+  "id": "545",
+  "name": "Stevie Wonder",
+  "concert_count": 3,
+  "top_songs": [
+    {
+      "name": "Love's in Need of Love Today",
+      "times_played": 2
+    },
+    {
+      "name": "Living for the City",
+      "times_played": 2
+    },
+    {
+      "name": "If It's Magic",
+      "times_played": 2
+    },
+    {
+      "name": "Sir Duke",
+      "times_played": 2
+    },
+    {
+      "name": "I Wish",
+      "times_played": 2
+    },
+    {
+      "name": "Superstition",
+      "times_played": 2
+    },
+    {
+      "name": "As",
+      "times_played": 2
+    },
+    {
+      "name": "Too High",
+      "times_played": 1
+    },
+    {
+      "name": "Visions",
+      "times_played": 1
+    },
+    {
+      "name": "Master Blaster (Jammin')",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "658",
+      "show_number": 657,
+      "date": "2015-10-11",
+      "festival_name": null,
+      "venue": "XL Center",
+      "city": "Hartford",
+      "state": "CT"
+    },
+    {
+      "id": "403",
+      "show_number": 402,
+      "date": "2009-10-29",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "326",
+      "show_number": 325,
+      "date": "2007-11-17",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

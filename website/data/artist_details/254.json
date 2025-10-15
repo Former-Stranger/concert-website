@@ -1,0 +1,58 @@
+{
+  "id": "254",
+  "name": "INXS",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Suicide Blonde",
+      "times_played": 1
+    },
+    {
+      "name": "Devil's Party",
+      "times_played": 1
+    },
+    {
+      "name": "Mystify",
+      "times_played": 1
+    },
+    {
+      "name": "Hot Girls",
+      "times_played": 1
+    },
+    {
+      "name": "By My Side",
+      "times_played": 1
+    },
+    {
+      "name": "Afterglow",
+      "times_played": 1
+    },
+    {
+      "name": "Taste It",
+      "times_played": 1
+    },
+    {
+      "name": "Original Sin",
+      "times_played": 1
+    },
+    {
+      "name": "Hungry",
+      "times_played": 1
+    },
+    {
+      "name": "Never Let You Go",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "261",
+      "show_number": 260,
+      "date": "2006-05-05",
+      "festival_name": null,
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

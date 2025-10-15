@@ -1,0 +1,23 @@
+{
+  "id": "167",
+  "name": "Tilles Center",
+  "city": "Brookville",
+  "state": "NY",
+  "concert_count": 2,
+  "concerts": [
+    {
+      "id": "1272",
+      "show_number": 1271,
+      "date": "2025-08-03",
+      "festival_name": null,
+      "artists": "Avett Brothers"
+    },
+    {
+      "id": "557",
+      "show_number": 556,
+      "date": "2013-12-12",
+      "festival_name": null,
+      "artists": "Bryan Adams"
+    }
+  ]
+}

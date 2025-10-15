@@ -1,0 +1,220 @@
+{
+  "id": "20",
+  "name": "Allman Brothers Band",
+  "concert_count": 19,
+  "top_songs": [
+    {
+      "name": "Statesboro Blues",
+      "times_played": 12
+    },
+    {
+      "name": "Mountain Jam",
+      "times_played": 12
+    },
+    {
+      "name": "Southbound",
+      "times_played": 10
+    },
+    {
+      "name": "One Way Out",
+      "times_played": 9
+    },
+    {
+      "name": "Midnight Rider",
+      "times_played": 8
+    },
+    {
+      "name": "Rocking Horse",
+      "times_played": 8
+    },
+    {
+      "name": "Dreams",
+      "times_played": 8
+    },
+    {
+      "name": "Don't Want You No More",
+      "times_played": 7
+    },
+    {
+      "name": "It's Not My Cross to Bear",
+      "times_played": 7
+    },
+    {
+      "name": "Black Hearted Woman",
+      "times_played": 7
+    }
+  ],
+  "concerts": [
+    {
+      "id": "469",
+      "show_number": 468,
+      "date": "2011-03-18",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "415",
+      "show_number": 414,
+      "date": "2010-03-12",
+      "festival_name": null,
+      "venue": "United Palace Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "371",
+      "show_number": 370,
+      "date": "2009-03-09",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "296",
+      "show_number": 295,
+      "date": "2007-04-05",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "294",
+      "show_number": 293,
+      "date": "2007-03-24",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "256",
+      "show_number": 255,
+      "date": "2006-03-25",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "222",
+      "show_number": 221,
+      "date": "2005-03-10",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "211",
+      "show_number": 210,
+      "date": "2004-08-24",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "200",
+      "show_number": 199,
+      "date": "2004-03-28",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "166",
+      "show_number": 165,
+      "date": "2002-08-13",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "153",
+      "show_number": 152,
+      "date": "2002-03-14",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "141",
+      "show_number": 140,
+      "date": "2001-08-21",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "123",
+      "show_number": 122,
+      "date": "2001-03-22",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "114",
+      "show_number": 113,
+      "date": "2000-08-04",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "81",
+      "show_number": 80,
+      "date": "1999-03-19",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "59",
+      "show_number": 58,
+      "date": "1998-03-21",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "34",
+      "show_number": 33,
+      "date": "1997-03-12",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "15",
+      "show_number": 14,
+      "date": "1996-03-12",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "99",
+      "show_number": 98,
+      "date": "",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

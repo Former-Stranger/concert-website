@@ -1,0 +1,67 @@
+{
+  "id": "118",
+  "name": "Chris Martin",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "Who Are You",
+      "times_played": 1
+    },
+    {
+      "name": "Bell Boy",
+      "times_played": 1
+    },
+    {
+      "name": "Pinball Wizard",
+      "times_played": 1
+    },
+    {
+      "name": "See Me, Feel Me",
+      "times_played": 1
+    },
+    {
+      "name": "Baba O'Riley",
+      "times_played": 1
+    },
+    {
+      "name": "Love, Reign O'er Me",
+      "times_played": 1
+    },
+    {
+      "name": "Tea & Theatre",
+      "times_played": 1
+    },
+    {
+      "name": "Power",
+      "times_played": 1
+    },
+    {
+      "name": "Jesus Walks",
+      "times_played": 1
+    },
+    {
+      "name": "Black Skinhead",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "609",
+      "show_number": 608,
+      "date": "2014-12-01",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Times Square",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "530",
+      "show_number": 529,
+      "date": "2012-12-12",
+      "festival_name": "12-12-12 Concert For Sandy Relief",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

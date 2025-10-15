@@ -1,0 +1,94 @@
+{
+  "id": "531",
+  "name": "Steely Dan",
+  "concert_count": 5,
+  "top_songs": [
+    {
+      "name": "Josie",
+      "times_played": 5
+    },
+    {
+      "name": "Hey Nineteen",
+      "times_played": 5
+    },
+    {
+      "name": "Peg",
+      "times_played": 5
+    },
+    {
+      "name": "Kid Charlemagne",
+      "times_played": 5
+    },
+    {
+      "name": "Bodhisattva",
+      "times_played": 4
+    },
+    {
+      "name": "Black Friday",
+      "times_played": 4
+    },
+    {
+      "name": "Dirty Work",
+      "times_played": 4
+    },
+    {
+      "name": "My Old School",
+      "times_played": 4
+    },
+    {
+      "name": "Time Out of Mind",
+      "times_played": 4
+    },
+    {
+      "name": "Aja",
+      "times_played": 4
+    }
+  ],
+  "concerts": [
+    {
+      "id": "771",
+      "show_number": 770,
+      "date": "2017-07-29",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Citi Field",
+      "city": "Queens",
+      "state": "NY"
+    },
+    {
+      "id": "686",
+      "show_number": 685,
+      "date": "2016-04-19",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "302",
+      "show_number": 301,
+      "date": "2007-06-11",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "274",
+      "show_number": 273,
+      "date": "2006-08-17",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "108",
+      "show_number": 107,
+      "date": "2000-07-08",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "16",
+  "name": "Bowery",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 3,
+  "concerts": [
+    {
+      "id": "1242",
+      "show_number": 1241,
+      "date": "2025-03-11",
+      "festival_name": null,
+      "artists": "Wilder Woods"
+    },
+    {
+      "id": "627",
+      "show_number": 626,
+      "date": "2015-06-06",
+      "festival_name": null,
+      "artists": "Will Hoge"
+    },
+    {
+      "id": "546",
+      "show_number": 545,
+      "date": "2013-07-25",
+      "festival_name": null,
+      "artists": "Will Hoge"
+    }
+  ]
+}

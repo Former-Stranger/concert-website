@@ -1,0 +1,58 @@
+{
+  "id": "553",
+  "name": "Sturgill Simpson",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Welcome to Earth (Pollywog)",
+      "times_played": 1
+    },
+    {
+      "name": "It Ain't All Flowers",
+      "times_played": 1
+    },
+    {
+      "name": "Breakers Roar",
+      "times_played": 1
+    },
+    {
+      "name": "I'd Have to Be Crazy",
+      "times_played": 1
+    },
+    {
+      "name": "Some Days",
+      "times_played": 1
+    },
+    {
+      "name": "Turtles All the Way Down",
+      "times_played": 1
+    },
+    {
+      "name": "Keep It Between the Lines",
+      "times_played": 1
+    },
+    {
+      "name": "You Don't Miss Your Water",
+      "times_played": 1
+    },
+    {
+      "name": "Brace for Impact (Live a Little)",
+      "times_played": 1
+    },
+    {
+      "name": "All Around You",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "784",
+      "show_number": 783,
+      "date": "2017-09-14",
+      "festival_name": null,
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

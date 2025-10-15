@@ -1,0 +1,130 @@
+{
+  "id": "643",
+  "name": "Wolf Brothers",
+  "concert_count": 9,
+  "top_songs": [
+    {
+      "name": "Playing in the Band",
+      "times_played": 4
+    },
+    {
+      "name": "Two Djinn",
+      "times_played": 4
+    },
+    {
+      "name": "China Cat Sunflower",
+      "times_played": 4
+    },
+    {
+      "name": "I Know You Rider",
+      "times_played": 4
+    },
+    {
+      "name": "Mexicali Blues",
+      "times_played": 3
+    },
+    {
+      "name": "He's Gone",
+      "times_played": 3
+    },
+    {
+      "name": "Corrina",
+      "times_played": 3
+    },
+    {
+      "name": "The Other One",
+      "times_played": 3
+    },
+    {
+      "name": "Turn On Your Love Light",
+      "times_played": 3
+    },
+    {
+      "name": "Let It Grow",
+      "times_played": 3
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1138",
+      "show_number": 1137,
+      "date": "2023-12-17",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "1137",
+      "show_number": 1136,
+      "date": "2023-12-16",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "1136",
+      "show_number": 1135,
+      "date": "2023-12-13",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "1135",
+      "show_number": 1134,
+      "date": "2023-12-12",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "1062",
+      "show_number": 1061,
+      "date": "2022-10-01",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Westville Music Bowl",
+      "city": "New Haven",
+      "state": "CT"
+    },
+    {
+      "id": "1015",
+      "show_number": 1014,
+      "date": "2022-04-03",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "898",
+      "show_number": 897,
+      "date": "2019-03-02",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Oakdale Theatre",
+      "city": "Wallingford",
+      "state": "CT"
+    },
+    {
+      "id": "883",
+      "show_number": 882,
+      "date": "2018-11-18",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "882",
+      "show_number": 881,
+      "date": "2018-11-10",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    }
+  ]
+}

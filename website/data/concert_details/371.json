@@ -1,0 +1,164 @@
+{
+  "id": "371",
+  "show_number": 370,
+  "date": "2009-03-09",
+  "festival_name": null,
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Allman Brothers Band",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/33d644b1.html",
+  "song_count": 18,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Little Martha",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Don't Want You No More",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Spencer Davis Group"
+    },
+    {
+      "position": 3,
+      "name": "It's Not My Cross to Bear",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "I Walk on Guilded Splinters",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Dr. John"
+    },
+    {
+      "position": 5,
+      "name": "The Same Thing",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Willie Dixon"
+    },
+    {
+      "position": 6,
+      "name": "",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Midnight Rider",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Leave My Blues at Home",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Leaving Trunk",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Sleepy John Estes"
+    },
+    {
+      "position": 10,
+      "name": "44 Blues",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Roosevelt Sykes"
+    },
+    {
+      "position": 11,
+      "name": "Statesboro Blues",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Blind Willie McTell"
+    },
+    {
+      "position": 12,
+      "name": "Ophelia",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Band"
+    },
+    {
+      "position": 13,
+      "name": "I Shall Be Released",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Dylan"
+    },
+    {
+      "position": 14,
+      "name": "The Weight",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Band"
+    },
+    {
+      "position": 15,
+      "name": "Black Hearted Woman",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Call It Stormy Monday but Tuesday Is Just as Bad",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "T\u2010Bone Walker"
+    },
+    {
+      "position": 17,
+      "name": "Mountain Jam",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "Southbound",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

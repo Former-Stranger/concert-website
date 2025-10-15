@@ -1,0 +1,37 @@
+{
+  "id": "191",
+  "name": "Yankee Stadium",
+  "city": "Bronx",
+  "state": "NY",
+  "concert_count": 4,
+  "concerts": [
+    {
+      "id": "704",
+      "show_number": 703,
+      "date": "2016-07-09",
+      "festival_name": null,
+      "artists": "Garth Brooks"
+    },
+    {
+      "id": "703",
+      "show_number": 702,
+      "date": "2016-07-08",
+      "festival_name": null,
+      "artists": "Garth Brooks"
+    },
+    {
+      "id": "484",
+      "show_number": 483,
+      "date": "2011-07-16",
+      "festival_name": null,
+      "artists": "Paul McCartney"
+    },
+    {
+      "id": "483",
+      "show_number": 482,
+      "date": "2011-07-15",
+      "festival_name": null,
+      "artists": "Paul McCartney"
+    }
+  ]
+}

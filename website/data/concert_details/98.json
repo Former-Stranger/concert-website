@@ -1,0 +1,268 @@
+{
+  "id": "98",
+  "show_number": 97,
+  "date": "2000-03-11",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Ice Arena Tampa, FL",
+  "city": "Tampa Bay",
+  "state": "FL",
+  "artists": [
+    {
+      "name": "Crosby",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Stills",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Nash & young",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/5bc57bf4.html",
+  "song_count": 30,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Carry On",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Southern Man",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Neil Young"
+    },
+    {
+      "position": 3,
+      "name": "Stand and Be Counted",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Pre-Road Downs",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Crosby, Stills & Nash"
+    },
+    {
+      "position": 5,
+      "name": "Heartland",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "49 Bye-Byes",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Crosby, Stills & Nash"
+    },
+    {
+      "position": 7,
+      "name": "Slowpoke",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Marrakesh Express",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Crosby, Stills & Nash"
+    },
+    {
+      "position": 9,
+      "name": "Faith in Me",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Almost Cut My Hair",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "David Crosby"
+    },
+    {
+      "position": 11,
+      "name": "Cinnamon Girl",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Neil Young & Crazy Horse"
+    },
+    {
+      "position": 12,
+      "name": "Helplessly Hoping",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Crosby, Stills & Nash"
+    },
+    {
+      "position": 13,
+      "name": "Our House",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Old Man",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Neil Young"
+    },
+    {
+      "position": 15,
+      "name": "Dream for Him",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Someday Soon",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "Looking Forward",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "After the Gold Rush",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Neil Young"
+    },
+    {
+      "position": 19,
+      "name": "Guinnevere",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Crosby, Stills & Nash"
+    },
+    {
+      "position": 20,
+      "name": "Out of Control",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 21,
+      "name": "Seen Enough",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 22,
+      "name": "Teach Your Children",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 23,
+      "name": "Woodstock",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Joni Mitchell"
+    },
+    {
+      "position": 24,
+      "name": "Long Time Gone",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Crosby, Stills & Nash"
+    },
+    {
+      "position": 25,
+      "name": "Ohio",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 26,
+      "name": "Love the One You're With",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Stephen Stills"
+    },
+    {
+      "position": 27,
+      "name": "Rockin' in the Free World",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Neil Young"
+    },
+    {
+      "position": 28,
+      "name": "Long May You Run",
+      "set_name": "Main Set",
+      "encore": 2,
+      "is_cover": true,
+      "cover_artist": "The Stills\u2013Young Band"
+    },
+    {
+      "position": 29,
+      "name": "For What It's Worth",
+      "set_name": "Main Set",
+      "encore": 2,
+      "is_cover": true,
+      "cover_artist": "Buffalo Springfield"
+    },
+    {
+      "position": 30,
+      "name": "Down by the River",
+      "set_name": "Main Set",
+      "encore": 2,
+      "is_cover": true,
+      "cover_artist": "Neil Young & Crazy Horse"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "12",
+  "name": "Bell House",
+  "city": "Brooklyn",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "553",
+      "show_number": 552,
+      "date": "2013-10-16",
+      "festival_name": null,
+      "artists": "Will Hoge"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "66",
+  "name": "Hammerstein Ballroom",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 2,
+  "concerts": [
+    {
+      "id": "864",
+      "show_number": 863,
+      "date": "2018-09-21",
+      "festival_name": null,
+      "artists": "Kip Moore"
+    },
+    {
+      "id": "322",
+      "show_number": 321,
+      "date": "2007-11-02",
+      "festival_name": null,
+      "artists": "John Fogerty"
+    }
+  ]
+}

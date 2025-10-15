@@ -1,0 +1,67 @@
+{
+  "id": "436",
+  "name": "Prince",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "The Question of U",
+      "times_played": 2
+    },
+    {
+      "name": "The One",
+      "times_played": 2
+    },
+    {
+      "name": "Chicken Grease",
+      "times_played": 1
+    },
+    {
+      "name": "Joy in Repetition",
+      "times_played": 1
+    },
+    {
+      "name": "A Long Walk",
+      "times_played": 1
+    },
+    {
+      "name": "My Radio Sure Sounds Good to Me",
+      "times_played": 1
+    },
+    {
+      "name": "Hair",
+      "times_played": 1
+    },
+    {
+      "name": "For the Love of You",
+      "times_played": 1
+    },
+    {
+      "name": "God Be With You Til We Meet Again",
+      "times_played": 1
+    },
+    {
+      "name": "Rock and Roll Hall of Fame induction speech intro",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "462",
+      "show_number": 461,
+      "date": "2010-12-18",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "206",
+      "show_number": 205,
+      "date": "2004-07-16",
+      "festival_name": null,
+      "venue": "Izod Center",
+      "city": "East Rutherford",
+      "state": "NJ"
+    }
+  ]
+}

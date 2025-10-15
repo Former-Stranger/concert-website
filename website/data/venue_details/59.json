@@ -1,0 +1,16 @@
+{
+  "id": "59",
+  "name": "Gibson Guitar Tent (Vegas)",
+  "city": "Las Vegas",
+  "state": "NV",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "329",
+      "show_number": 328,
+      "date": "2008-01-08",
+      "festival_name": null,
+      "artists": "Peter Frampton"
+    }
+  ]
+}

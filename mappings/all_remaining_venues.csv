@@ -1,0 +1,174 @@
+original_name,canonical_name,city,state,venue_type,times_visited,needs_review,notes,NewNotes
+Ford Amphitheater,Ford Amphitheater at Coney Island,Brooklyn,NY,amphitheater,2,NO,2 concerts,
+Highline Ballroom,Highline Ballroom,New York,NY,club,2,NO,2 concerts,
+Iridium,Iridium Jazz Club,New York,NY,club,2,NO,2 concerts,
+Ives Center,Ives Concert Park,Danbury,CT,arena,2,NO,2 concerts,
+Kings Theatre,Kings Theatre,Brooklyn,NY,theater,2,NO,2 concerts,
+Le Poisson Rouge,Le Poisson Rouge,New York,NY,club,2,NO,2 concerts,
+MSG - Paramount,Paramount Theater at MSG,New York,NY,theater,2,NO,2 concerts,
+NJPAC,New Jersey Performing Arts Center,Newark,NJ,theater,2,NO,2 concerts,
+Neil Simon Theater,Neil Simon Theatre,New York,NY,theater,2,NO,2 concerts,
+New Meadowlands,MetLife Stadium,East Rutherford,NJ,stadium,2,NO,2 concerts,
+Oakdale Theater,Oakdale Theatre,Wallingford,CT,theater,2,NO,2 concerts,
+Paramount - Peekskill,Paramount Hudson Valley Theater,Peekskill,NY,theater,2,NO,2 concerts,
+Paramount Huntington,Paramount,Huntington,NY,theater,2,NO,2 concerts,
+Ridgefield,Ridgefield Playhouse,Ridgefield,CT,theater,2,NO,2 concerts,
+SPAC,Saratoga Performing Arts Center,Saratoga Springs,NY,amphitheater,2,NO,2 concerts,
+St. James Theatre,St. James Theatre,New York,NY,theater,2,NO,2 concerts,
+Symphony Space,Symphony Space,New York,NY,theater,2,NO,2 concerts,
+Thunder Ridge,Thunder Ridge Ski Area,Patterson,NY,amphitheater,2,NO,2 concerts,
+Tilles Center,Tilles Center,Brookville,NY,theater,2,NO,2 concerts,
+Toads,Toad's Place,New Haven,CT,club,2,NO,2 concerts,
+Today Show,Today Show Plaza,New York,NY,outdoor,2,NO,2 concerts,
+Tweeter Center,Freedom Mortgage Pavilion,Camden,NJ,amphitheater,2,NO,2 concerts,
+Wachovia,Wells Fargo Center,Philadelphia,PA,arena,2,NO,2 concerts,
+Webster Theater,Webster Theater,Hartford,CT,theater,2,NO,2 concerts,
+Wells Fargo Arena,Wells Fargo Center,Philadelphia,PA,arena,2,NO,2 concerts,
+Wonder Bar,Wonder Bar,Asbury Park,NJ,club,2,NO,2 concerts,
+92 Y,92nd Street Y,New York,NY,theater,1,NO,Verified via web search,
+92Y,92nd Street Y,New York,NY,theater,1,NO,Verified via web search,
+Amalie Arena (Tampa),Amalie Arena,Tampa,FL,arena,1,NO,Verified via web search,
+Amway Center (Orlando),Kia Center,Orlando,FL,arena,1,NO,Verified via web search,
+Apollo Theater,Apollo Theater,New York,NY,theater,1,NO,Verified via web search,
+Atlanta Phillips Arena,State Farm Arena,Atlanta,GA,arena,1,NO,Verified via web search,
+Bakkt Theater (Vegas),Bakkt Theater at Planet Hollywood,Las Vegas,NV,theater,1,NO,"Artist: Keith Urban, Date: 2023-11-01",
+Barcalys,Barclays Center,Brooklyn,NY,arena,1,NO,"Artist: Keith Urban, Date: 2016-11-19",
+Bardavon Theatre,Bardavon Opera House,Poughkeepsie,NY,theater,1,NO,"Artist: Billy Gibbons, Date: 2025-02-10",
+Bell House Brooklyn,Bell House,Brooklyn,NY,club,1,NO,"Artist: Will Hoge, Date: 2013-10-16",
+Billy Bobs of Texas,Billy Bob's Texas,Fort Worth,TX,club,1,NO,Verified via web search,
+Blue Note,Blue Note Jazz Club,New York,NY,club,1,NO,"Artist: Marcus King Trio (MonoNeon, Date: 2025-01-16",
+Bowery Electric,Bowery Electric,New York,NY,club,1,NO,"Artist: Jesse Malin, Date: 2010-03-04",
+Bridgeport Harbor Yard,Hartford HealthCare Amphitheater,Bridgeport,CT,amphitheater,1,NO,"Artist: Bob Dylan, Date: 2013-07-19",
+Broadway,Broadway Theatre,New York,NY,theater,1,NO,Verified via web search,
+Brooklyn Steel,Brooklyn Steel,Brooklyn,NY,club,1,NO,"Artist: Ryan Bingham, Date: 2019-04-23",
+Bushnell Theater,Bushnell Center for the Performing Arts,Hartford,CT,theater,1,NO,"Artist: Joe Bonamassa, Date: 2016-11-21",
+CFG Baltimore,CFG Bank Arena,Baltimore,MD,arena,1,NO,Verified via web search,
+Caesars Palace,Caesars Palace,Las Vegas,NV,casino,1,NO,Verified via web search,
+Camden Yards,Oriole Park at Camden Yards,Baltimore,MD,stadium,1,NO,Verified via web search,
+Capitol Theeatr,Capitol Theatre,Port Chester,NY,theater,1,NO,High confidence match,
+Central Park Great Lawn,Central Park,New York,NY,outdoor,1,NO,Verified via web search,
+Cherry Lane Theatre,Cherry Lane Theatre,New York,NY,theater,1,NO,High confidence match,
+Circle in Square,Circle in the Square Theatre,New York,NY,theater,1,NO,High confidence match,
+Citizens Bank Stadium,Citizens Bank Park,Philadelphia,PA,stadium,1,NO,Verified via web search,
+City Vinyard,City Winery,New York,NY,club,1,NO,High confidence match,
+City Winery HV,City Winery Hudson Valley,Montgomery,NY,club,1,NO,High confidence match,
+City Winery NYC,City Winery,New York,NY,club,1,NO,High confidence match,
+DCU Center,DCU Center,Worcester,MA,arena,1,NO,Verified via web search,
+Damrosch Park Lincoln Center,Damrosch Park at Lincoln Center,New York,NY,outdoor,1,NO,High confidence match,
+Dolby Live (Vegas),Dolby Live at Park MGM,Las Vegas,NV,theater,1,NO,Verified via web search,
+Eisenhower Hall,Eisenhower Hall Theatre,West Point,NY,theater,1,NO,High confidence match,
+Electric Bowery,Electric Bowery,,,,1,YES,"Artist: Jesse Malin, Date: 2010-10-09",https://www.theboweryelectric.com/
+Emelin Theater,Emelin Theatre,Mamaroneck,NY,theater,1,NO,High confidence match,
+FYE,FYE,,,,1,YES,"Artist: Jerry Lee Lewis, Date: 2006-09-26",
+Fairfield Stage One,Fairfield Stage One,,,,1,YES,"Artist: Will Hoge, Date: 2018-09-22",https://fairfieldtheatre.org/venue/stageone
+Farmingville Amphitheater,Farmingville Amphitheater,,,,1,YES,"Artist: Ringo Starr & His All Sarr Band, Date: 2019-08-17",https://www.champbaldhill.com/
+Fenway,Fenway Park,Boston,MA,stadium,1,NO,High confidence match,
+Foxboro,Gillette Stadium,Foxborough,MA,stadium,1,NO,High confidence match,
+Foxwoods,Foxwoods,,,,1,YES,"Artist: Huey Lewis & the News, Date: 2003-03-02",Foxwoods Casino
+Foxwoods Casino,Foxwoods Casino,,,,1,YES,"Artist: Weird Al Yankovic, Date: 2019-07-19",Foxwoods Casino
+Ft. Adams,Ft. Adams,,,,1,YES,"Artist: Newport Folk Festival: Sheryl Crow, Date: 2019-07-26",https://newportfolk.org/ 
+Garcia's,Garcia's,,,,1,YES,"Artist: Stella Blue's Band (acoustic), Date: 2024-10-26", https://www.thecapitoltheatre.com/visit/garcias -  Within The Capitol but a smaller venue
+Gibson Guitar Tent (Vegas),Gibson Guitar Tent (Vegas),,,,1,YES,"Artist: Peter Frampton, Date: 2008-01-08",This looks like an event at a Vegas guitar show
+Gramercy,Gramercy,,,,1,YES,"Artist: Lee DeWyze, Date: 2011-06-29",Grammercy Theater in NYC
+Grange Fair,Grange Fair,,,,1,YES,"Artist: Mountain, Date: 2003-09-06","This is a small fair held in Yorktown, NY"
+Hammerstein Ballroom,Hammerstein Ballroom,,,,1,YES,"Artist: John Fogerty, Date: 2007-11-02","Hammerstein Ballroom in NYC, now known as The Manhattan Center"
+Hard Rock NYC,Hard Rock NYC,,,,1,YES,"Artist: OAR, Date: 2019-04-05",Hard Rock Hotel in NYC
+Hartford,Hartford,,,,1,YES,"Artist: Bruce Springsteen, Date: 2012-10-25",Hartford Civic Center now known as XL Center Hartford
+Hartford Covic Center,Hartford Covic Center,,,,1,YES,"Artist: Bruce Springsteen & the E Street Band, Date: 2009-04-24",Hartford Civic Center now known as XL Center Hartford
+Hill Country BBQ,Hill Country BBQ,,,,1,YES,"Artist: Will Hoge, Date: 2022-04-01",https://www.hillcountry.com/live-music/
+"Hilton, Atlantic City","Hilton, Atlantic City",,,,1,YES,"Artist: Kenny Loggins, Date: 2001-07-22","The Hilton Hotel in Atlantic City, NJ"
+House of Blues (Vegas),House of Blues (Vegas),,,,1,YES,"Artist: Santana, Date: 2023-11-05","House of Blues, Vegas. This is a small venue / restaruant chain"
+"Ice Arena Tampa, FL","Ice Arena Tampa, FL",,,,1,YES,"Artist: Crosby, Date: 2000-03-11","This is now known as Benchmark International Arena in Tampa, Florida"
+Irish Pub of Cape Cod,Irish Pub of Cape Cod,,,,1,YES,"Artist: Clancy, Date: 2000-08-16","A small venue in Cape Cod, MA"
+Irvington Town Hall,Irvington Town Hall,,,,1,YES,"Artist: Roger McGuinn, Date: 2009-04-17","Small theater in Irvington, NY. Now known as Irvington Theater"
+Jones Beacj,Jones Beacj,,,,1,YES,"Artist: Steve Miller Band, Date: 2008-07-11","Jones Beach, NY. This was misspelled"
+Klein Theater Bridgeport,Klein Theater Bridgeport,,,,1,YES,"Artist: John Hiatt & Taj Mahal, Date: 2015-08-29","Now known as The Klein Memorial Auditorium in bridgeport, CT"
+Late Night Studio,NBC Studios,New York,NY,tv_studio,1,NO,High confidence match,
+Lincoln Center,Lincoln Center,New York,NY,theater,1,NO,High confidence match,
+Lincoln Financial,Lincoln Financial,,,,1,YES,"Artist: Kenny Chesney & Thomas Rhett & Old Dominion, Date: 2018-06-09",Lincoln Financial Field in Philadelphia
+Livin For You,Livin For You,,,,1,YES,"Artist: Boston, Date: 1997-07-09","This is the name of the tour, but this is the band Boston playing at Jones Beach, NY"
+MSG Sphere (Vegas),MSG Sphere (Vegas),,,,1,YES,"Artist: U2, Date: 2023-10-05",This is The Sphere in Las Vegas
+MSG Theather,MSG Theather,,,,1,YES,"Artist: Bruce Springsteen: Stand Up For Heroes, Date: 2014-11-05",https://en.wikipedia.org/wiki/The_Theater_at_Madison_Square_Garden
+Manhattan Center,Manhattan Center,,,,1,YES,"Artist: Kip Moore, Date: 2018-09-21","Hammerstein Ballroom in NYC, now known as The Manhattan Center"
+Mayo Performing Arts,Mayo Performing Arts,,,,1,YES,"Artist: Kip Moore, Date: 2019-10-19","https://www.mayoarts.org/about/ in Morristown, NJ"
+Melody Tent,Melody Tent,,,,1,YES,"Artist: Willie Nelson, Date: 1999-07-18","This is a venue in HYANNIS, MA"
+Melrose Ballroom,Melrose Ballroom,,,,1,YES,"Artist: Steven Tyler, Date: 2015-09-10","This is a location in Long Island City, NY"
+Mercury Lounge,Mercury Lounge,,,,1,YES,"Artist: 53 Thieves, Date: 2024-04-04",The Mercury Lounge is a venue in NYC
+Metlife,Metlife,,,,1,YES,"Artist: Kenny Chesney & Jason Aldean, Date: 2015-08-15","This is Metlife stadium in East Rutherford, NJ"
+Metroplitan Opera,Metroplitan Opera,,,,1,YES,"Artist: Sting with Philharmonic, Date: 2010-07-13",Metropolitan Opera House in New York City
+Mid Hudson Civic Center,Mid Hudson Civic Center,,,,1,YES,"Artist: Bob Dylan, Date: 1996-05-01","Venue in Poughkeepsie, NY"
+Mill Hill Club,Mill Hill Club,,,,1,YES,"Artist: John Valby, Date: 1999-07-19","This is a small venue in West Yarmouth, MA"
+Minetta Lane,Minetta Lane,,,,1,YES,"Artist: Tom Morello, Date: 2019-09-20",Minetta Lane Theatre  is a small off broadway theater in lower Manhattan
+"Montage Mt, Scranton PA","Montage Mt, Scranton PA",,,,1,YES,"Artist: Tom Petty & the Heartbreakers & Brian Setzer Trio, Date: 2002-07-13","Montage Mountain Resort is a ski resort in Scranton, PA"
+Morristown Theater,Morristown Theater,,,,1,YES,"Artist: John Hiatt & Lyle Lovett, Date: 2009-02-08","This is a small venue in Morristown, NJ"
+Mulcahey,Mulcahey,,,,1,YES,"Artist: Dickey Betts & Great Southern, Date: 2002-08-03","This is a venue in  Wantagh, NY "
+NBC Plaza,NBC Plaza,,,,1,YES,"Artist: Kenny Chesney, Date: 2012-06-22",This is outside of 30 Rock in NYC. There are other shows at this location
+Nasau,Nasau,,,,1,YES,"Artist: Elton John, Date: 2022-03-06",Nassau Coliseum in Nassau County NY 
+New Haven Coliseum,New Haven Coliseum,,,,1,YES,"Artist: Bob Dylan and Phil Lesh & Friends, Date: 1999-11-10","This was a venue in New Haven, CT that closed in 2002"
+Newark,Newark,,,,1,YES,"Artist: Eagles, Date: 2018-10-12","This is at the Prudential Center in Newark, NJ"
+"Newark, NJ","Newark, NJ",,,,1,YES,"Artist: Tom Petty & the Heartbreakers, Date: 2017-06-16","This is at the Prudential Center in Newark, NJ"
+O'Neill Center,O'Neill Center,,,,1,YES,"Artist: The Wallflowers, Date: 1997-11-23","The O'Neill Theater Center in Waterford, CT"
+OMaha (Qwest Center),OMaha (Qwest Center),,,,1,YES,"Artist: Green Day, Date: 2005-05-15","Now known as CHI Health Center in Omaha, NE"
+OMaha Qwest Center,OMaha Qwest Center,,,,1,YES,"Artist: John Mellencamp, Date: 2005-04-01","Now known as CHI Health Center in Omaha, NE"
+Opry City Stage,Opry City Stage,,,,1,YES,"Artist: Vince Gill, Date: 2018-01-26",This was a venue in NYC that shut down arouned 2018
+Ossining Library,Ossining Library,,,,1,YES,"Artist: Willie Nile, Date: 2015-05-17","This is in Ossining, NY"
+Outpost at Burbs,Outpost at Burbs,,,,1,YES,"Artist: Richard Thompson, Date: 2019-05-11","This is a small venue in Montclair, NJ"
+PNC Bank,PNC Bank,,,,1,YES,"Artist: Govt Mule and JBLZE, Date: 2023-08-19","This is PNC Park in Pittsburgh, PA"
+Palace Theatre Stamford,Palace Theatre Stamford,,,,1,YES,"Artist: Lady A, Date: 2024-04-05","This is a venue in Stamford, CT"
+Paramount,Paramount,,,,1,YES,"This is the Paramount Theater in Asbury, NJ. There should be other shows at this venue","This is the Paramount Theater in Asbury, NJ. There should be other shows at this venue"
+Paramount Asbury (Rehearsal),Paramount Asbury (Rehearsal),,,,1,YES,"Artist: Bruce Springsteen & the E Street Band, Date: 2007-09-24","This is the Paramount Theater in Asbury, NJ. There should be other shows at this venue"
+Paramount Peekskill,Paramount Peekskill,,,,1,YES,"Artist: Tommy Emmanuel w. Larry Campbell & Teresa Williams, Date: 2023-09-15","This is known as the Paramount Theater  in Hudson Valley, NY"
+Patchogue Theatre,Patchogue Theatre,,,,1,YES,"Artist: Colin Hay, Date: 2024-04-13","This is a venue in Patchogue, NY"
+Phildelphia,Phildelphia,,,,1,YES,"Artist: Tom Petty & the Heartbreakers, Date: 2017-07-01","This was at what is now known as the Xfinity Mobile Arena in Philadelphia, PA"
+Pier 17,Pier 17,,,,1,YES,"Artist: Billy Currington, Date: 2024-06-22",The Rooftop at Pier 17 in NYC
+Pier A - Hoboken,Pier A - Hoboken,,,,1,YES,"Artist: Mumford and Sons with Dawes, Date: 2012-08-01","Pier A Park in Hoboken, NJ"
+Play Group Theatre,Play Group Theatre,,,,1,YES,"Artist: Candlelight Concerts:  Beatles, Date: 2024-11-16","This is a small theater in White Plains, NY"
+Playstatio Theater,Playstatio Theater,,,,1,YES,"Artist: Little Steven, Date: 2018-05-02",This is the Playstation Theater in NYC also known as the Palladium Times Square and Nokia Theatre Times Square (2005–10); Best Buy Theater (2010–15); PlayStation Theater (2015–19)
+Playstation Theater,Playstation Theater,,,,1,YES,"Artist: All for Hall: Vince Gill, Date: 2018-02-13",This is the Playstation Theater in NYC also known as the Palladium Times Square and Nokia Theatre Times Square (2005–10); Best Buy Theater (2010–15); PlayStation Theater (2015–19)
+Pleasantville Park,Pleasantville Park,,,,1,YES,"Artist: Jakob Dylan, Date: 2010-07-10","This was in Pleasantvile, NY"
+Portchester,Portchester,,,,1,YES,"Artist: Weird Al Yankovic, Date: 2013-06-02",The Capitol Theater
+Portchster,Portchster,,,,1,YES,"Artist: John Hiatt & Lyle Lovett, Date: 2015-04-30",The Capitol Theater
+Purchase,Purchase,,,,1,YES,"Artist: Crosby & Nash, Date: 2008-10-16","This is at SUNY Purchase in Purchase, NY"
+QU,QU,,,,1,YES,"Artist: Guster, Date: 2003-04-25",Quinnipiac University in CT
+Queens College,Queens College,,,,1,YES,"Artist: Fab Faux, Date: 2008-11-08",This is the wrong date. It should be November 7th 2008 at Queens College in Queens NY
+Radio City (Hillary),Radio City (Hillary),,,,1,YES,"Artist: Elton John, Date: 2008-04-09",Radio City Music Hall in NYC
+Randall's Island,Randall's Island,,,,1,YES,"Artist: Dave Matthews Band & Barenaked Ladies, Date: 2005-07-30",Randalls Island in New York City
+Red Rocks,Red Rocks,,,,1,YES,"Artist: Brantley Gilbert with Justin Moore and Colt Ford, Date: 2016-10-14",This was at Red Rocks Ampitheater in Colorado
+Ridgefiled Playhouse Field,Ridgefiled Playhouse Field,,,,1,YES,"Artist: Tedeschi Trucks Band, Date: 2021-07-13","RidgeField Playhouse is in Ridgefield, CT. There should be a lot of shows here"
+Riviera Chicago,Riviera Chicago,,,,1,YES,"Artist: Noel Gallagher's High Flying Birds, Date: 2012-04-03","The Riveria Theater in Chicago, IL"
+Rockefeller Plaza,Rockefeller Plaza,,,,1,YES,"Artist: Keith Urban, Date: 2022-06-30",This is outside of 30 Rock in NYC. There are other shows at this location
+Rockin River Cruise,Rockin River Cruise,,,,1,YES,"Artist: John Hiatt, Date: 2008-08-07","This was the 	rockin' the river cruise in  NYC"
+Rumsey Playfield,Rumsey Playfield,,,,1,YES,"Artist: Warren Haynes Jerry Symphonny, Date: 2016-08-08",This is in Central Park in NYC
+Saratoga,Saratoga,,,,1,YES,"Artist: Mumford & Sons, Date: 2025-06-21",Saratoga Performing Arts Center in Saratoga Springs NY
+Schottenstein Center,Schottenstein Center,,,,1,YES,"Artist: Bruce Springsteen & the E Street Band, Date: 2002-12-16",This is the Schottenstein Center at The Ohio State University
+Social Club,Social Club,,,,1,YES,"Artist: Lee Dewyze, Date: 2015-04-10",This was at a place in NYC also known as SubCulture
+Southhampton College,Southhampton College,,,,1,YES,"Artist: Jimmy Buffett, Date: 2000-07-31","Southhampton College in Southhampton, NY"
+Stage 48,Stage 48,,,,1,YES,"Artist: Keith Urban, Date: 2016-05-04",Location in NYC
+Stamford Center,Stamford Center,,,,1,YES,"Artist: Joe Bonamassa, Date: 2010-11-12","Stamford Center for the Arts. Stamford, CT"
+Stamford Center for the Arts,Stamford Center for the Arts,,,,1,YES,"Artist: Ian Anderson & Orchestra, Date: 2006-10-23","Stamford Center for the Arts. Stamford, CT"
+Stubbs BBQ,Stubbs BBQ,,,,1,YES,"Artist: Govt Mule, Date: 2019-08-13","Venue in Austin, TX"
+Studio 6H,Studio 6H,,,,1,YES,"Artist: Bruce Springsteen & the E Street Band, Date: 2014-01-14",This was on the Jimmy Fallon Show which is located in Sutdio 6H at 30 Rockk
+Tanner Park,Tanner Park,,,,1,YES,"Artist: Max Weinberg, Date: 2018-07-13",Tanner Park is in Copiague NY
+Tappan Park,Tappan Park,,,,1,YES,"Artist: Rockland Bergen: Willie Nile, Date: 2014-06-29","This is in Staten Island, NY"
+Tarrytown,Tarrytown,,,,1,YES,"Artist: Weird Al Yankovic, Date: 2018-03-01","Tarrytown Music Hall in Tarrytown, NY"
+The Metroplitan Opera,The Metroplitan Opera,,,,1,YES,"Artist: Pete Townshend / Quadrophenia, Date: 2017-09-09",Metropolitan Opera House in New York City
+The Saint Asbury Park,The Saint Asbury Park,,,,1,YES,"Artist: Will Hoge, Date: 2016-08-12","I can't find Will Hoge playing a show on this date, but he did play at City Wineary in NY on Augustst 13 2016. Let's change this entry to match that show"
+Times Square,Times Square,,,,1,YES,"Artist: Bruce Springsteen with U2, Date: 2014-12-01",This is in Times Square in NYC
+Towne Crier Cafe,Towne Crier Cafe,,,,1,YES,"Artist: Christopher Robin Band, Date: 2010-08-13","Towne Crier Café in Beacon, NY"
+Towne Criere,Towne Criere,,,,1,YES,"Artist: Richie Havens, Date: 2006-11-24","Towne Crier Café in Beacon, NY"
+"Trump MArina, Atlantic City","Trump MArina, Atlantic City",,,,1,YES,"Artist: Lynyrd Skynyrd, Date: 2001-05-26","This is the Trump Marina Hotel in Atlantic City, NJ"
+Turning Point,Turning Point,,,,1,YES,"Artist: Richie Havens, Date: 1998-05-13","This is a location in Piermont, NY. Unclear if it's still open or not"
+US Open Tennis Stadium,US Open Tennis Stadium,,,,1,YES,"Artist: Dierks Bentley, Date: 2024-08-18","This is at the Tennis Stadium in Queens, NY"
+USA Upfront,USA Upfront,,,,1,YES,"Artist: Passion Pit, Date: 2013-05-16",I can't find a record of this but USA Upfront is the Upfront for the TV Channel USA. This person works for NBC and handled USA marketing for a while.
+United Palace Theater,United Palace Theater,,,,1,YES,"Artist: Allman Brothers Band, Date: 2010-03-12","a Theater in Washington Heights, NY in NYC"
+Universal Florida,Universal Florida,,,,1,YES,"Artist: Creedence Clearwater Revisited (Doug Clifford & Stu Cook), Date: 1999-03-14",Universal Sutdio in Orlando Florida
+Verizon Center (NH),Verizon Center (NH),,,,1,YES,"Artist: Green Day, Date: 2005-04-29",This is now known as the SNHU Arena at Southern New Hampshire University in NH
+Wachovia Center,Wachovia Center,,,,1,YES,"Artist: Bruce Springsteen & the E Street Band, Date: 2002-10-06",This is now known as the Xfinity Mobile Arena in Philadelphia
+Wall Street,Wall Street,,,,1,YES,"Artist: The Band, Date: 1996-07-04",Broad Street Ballroom in NYC
+Webster,Webster,,,,1,YES,"Artist: Ryan Bingham, Date: 2012-10-18",Webster Hall in NYC
+Wester Bank Arena,Wester Bank Arena,,,,1,YES,"Artist: Hall & Oates, Date: 2016-06-16","This is now known as Total Mortgage Arena in Bridgeport, CT"
+Xfinity Hartford,Xfinity Hartford,,,,1,YES,"Artist: Chris Stapleton, Date: 2017-07-15","This is in Hartford, CT and previously known as Meadows Music Theatre (1994–2000)
+ctnow.com Meadows Music Theatre (2000–2005)
+New England Dodge Music Center (2005–2009)"
+Yonkers,Yonkers,,,,1,YES,"Artist: Southside Johnny & the Asbury Jukes, Date: 2006-09-30","This was a random show in Yonkers, NY that is probably not documented but I confirmed it"
+Yorktown heights FDR Park,Yorktown heights FDR Park,,,,1,YES,"Artist: Richie Havens, Date: 2007-06-03","This is FDR Park which is in Yorktown Heights, NY"

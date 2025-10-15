@@ -1,0 +1,58 @@
+{
+  "id": "411",
+  "name": "Orville Peck)",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Winds Change",
+      "times_played": 1
+    },
+    {
+      "name": "Roses Are Falling",
+      "times_played": 1
+    },
+    {
+      "name": "Turn to Hate",
+      "times_played": 1
+    },
+    {
+      "name": "No Glory in the West",
+      "times_played": 1
+    },
+    {
+      "name": "Drive Me, Crazy",
+      "times_played": 1
+    },
+    {
+      "name": "Buffalo Run",
+      "times_played": 1
+    },
+    {
+      "name": "Nothing Fades Like the Light",
+      "times_played": 1
+    },
+    {
+      "name": "Queen of the Rodeo",
+      "times_played": 1
+    },
+    {
+      "name": "Legends Never Die",
+      "times_played": 1
+    },
+    {
+      "name": "Dead of Night",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "989",
+      "show_number": 988,
+      "date": "2021-09-19",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Asbury Park Beach",
+      "city": "Asbury Park",
+      "state": "NJ"
+    }
+  ]
+}

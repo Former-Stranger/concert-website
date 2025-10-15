@@ -1,0 +1,76 @@
+{
+  "id": "241",
+  "name": "Guster",
+  "concert_count": 3,
+  "top_songs": [
+    {
+      "name": "Barrel of a Gun",
+      "times_played": 2
+    },
+    {
+      "name": "I Spy",
+      "times_played": 2
+    },
+    {
+      "name": "What You Wish For",
+      "times_played": 2
+    },
+    {
+      "name": "Airport Song",
+      "times_played": 2
+    },
+    {
+      "name": "Either Way",
+      "times_played": 2
+    },
+    {
+      "name": "Fa Fa",
+      "times_played": 2
+    },
+    {
+      "name": "Careful",
+      "times_played": 1
+    },
+    {
+      "name": "Homecoming King",
+      "times_played": 1
+    },
+    {
+      "name": "Amsterdam",
+      "times_played": 1
+    },
+    {
+      "name": "Two Points for Honesty",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1196",
+      "show_number": 1195,
+      "date": "2024-09-14",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Asbury Park Beach",
+      "city": "Asbury Park",
+      "state": "NJ"
+    },
+    {
+      "id": "179",
+      "show_number": 178,
+      "date": "2003-04-25",
+      "festival_name": null,
+      "venue": "Quinnipiac University",
+      "city": "Hamden",
+      "state": "CT"
+    },
+    {
+      "id": "122",
+      "show_number": 121,
+      "date": "2001-02-15",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

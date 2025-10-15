@@ -1,0 +1,120 @@
+{
+  "id": "737",
+  "show_number": 736,
+  "date": "2016-12-05",
+  "festival_name": "Multi-Artist Show",
+  "venue": "The Town Hall",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Steve Earle",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Friends",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/23fbec23.html",
+  "song_count": 12,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Guitar Town",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Steve Earle"
+    },
+    {
+      "position": 2,
+      "name": "Goodbye's All We've Got Left",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Steve Earle"
+    },
+    {
+      "position": 3,
+      "name": "Hillbilly Highway",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Steve Earle"
+    },
+    {
+      "position": 4,
+      "name": "Good Ol' Boy (Gettin' Tough)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Steve Earle"
+    },
+    {
+      "position": 5,
+      "name": "My Old Friend the Blues",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Steve Earle"
+    },
+    {
+      "position": 6,
+      "name": "Someday",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Steve Earle"
+    },
+    {
+      "position": 7,
+      "name": "Think It Over",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Steve Earle"
+    },
+    {
+      "position": 8,
+      "name": "Fearless Heart",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Steve Earle"
+    },
+    {
+      "position": 9,
+      "name": "Little Rock 'n' Roller",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Steve Earle"
+    },
+    {
+      "position": 10,
+      "name": "Down the Road",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Steve Earle"
+    },
+    {
+      "position": 11,
+      "name": "Never Go Home",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "Teach Your Children",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Crosby, Stills, Nash & Young"
+    }
+  ]
+}

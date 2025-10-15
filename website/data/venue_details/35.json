@@ -1,0 +1,58 @@
+{
+  "id": "35",
+  "name": "Citizens Bank Park",
+  "city": "Philadelphia",
+  "state": "PA",
+  "concert_count": 7,
+  "concerts": [
+    {
+      "id": "1189",
+      "show_number": 1188,
+      "date": "2024-08-23",
+      "festival_name": null,
+      "artists": "Bruce Springsteen & the E Street Band"
+    },
+    {
+      "id": "1188",
+      "show_number": 1187,
+      "date": "2024-08-21",
+      "festival_name": null,
+      "artists": "Bruce Springsteen & the E Street Band"
+    },
+    {
+      "id": "1029",
+      "show_number": 1028,
+      "date": "2022-06-18",
+      "festival_name": null,
+      "artists": "Kenny Chesney / Dan + Shay / Old Dominion"
+    },
+    {
+      "id": "719",
+      "show_number": 718,
+      "date": "2016-09-09",
+      "festival_name": null,
+      "artists": "Bruce Springsteen & the E Street Band"
+    },
+    {
+      "id": "718",
+      "show_number": 717,
+      "date": "2016-09-07",
+      "festival_name": null,
+      "artists": "Bruce Springsteen & the E Street Band"
+    },
+    {
+      "id": "516",
+      "show_number": 515,
+      "date": "2012-09-02",
+      "festival_name": null,
+      "artists": "Bruce Springsteen"
+    },
+    {
+      "id": "387",
+      "show_number": 386,
+      "date": "2009-08-01",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Billy Joel, Elton John"
+    }
+  ]
+}

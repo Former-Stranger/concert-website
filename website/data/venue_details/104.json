@@ -1,0 +1,23 @@
+{
+  "id": "104",
+  "name": "Neil Simon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 2,
+  "concerts": [
+    {
+      "id": "452",
+      "show_number": 451,
+      "date": "2010-10-25",
+      "festival_name": null,
+      "artists": "RAIN - Tribute to the Beatles"
+    },
+    {
+      "id": "435",
+      "show_number": 434,
+      "date": "2010-07-25",
+      "festival_name": null,
+      "artists": "Harry Connick Jr."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "179",
+  "name": "United Palace Theatre",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "415",
+      "show_number": 414,
+      "date": "2010-03-12",
+      "festival_name": null,
+      "artists": "Allman Brothers Band"
+    }
+  ]
+}

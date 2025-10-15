@@ -1,0 +1,16 @@
+{
+  "id": "153",
+  "name": "Stubb's Bar-B-Q",
+  "city": "Austin",
+  "state": "TX",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "932",
+      "show_number": 931,
+      "date": "2019-08-13",
+      "festival_name": null,
+      "artists": "Govt Mule"
+    }
+  ]
+}

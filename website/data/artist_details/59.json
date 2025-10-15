@@ -1,0 +1,76 @@
+{
+  "id": "59",
+  "name": "Blues Traveler",
+  "concert_count": 3,
+  "top_songs": [
+    {
+      "name": "Run-Around",
+      "times_played": 2
+    },
+    {
+      "name": "Drum Solo",
+      "times_played": 2
+    },
+    {
+      "name": "Hook",
+      "times_played": 2
+    },
+    {
+      "name": "Mountain Cry",
+      "times_played": 1
+    },
+    {
+      "name": "Defense & Desire",
+      "times_played": 1
+    },
+    {
+      "name": "The Wolf Is Bumpin'",
+      "times_played": 1
+    },
+    {
+      "name": "The Devil Went Down to Georgia",
+      "times_played": 1
+    },
+    {
+      "name": "NY Prophesie",
+      "times_played": 1
+    },
+    {
+      "name": "Bass Solo",
+      "times_played": 1
+    },
+    {
+      "name": "Regarding Steven",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1255",
+      "show_number": 1254,
+      "date": "2025-05-29",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "954",
+      "show_number": 953,
+      "date": "2019-11-01",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "814",
+      "show_number": 813,
+      "date": "2018-02-25",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "37",
+  "name": "City Winery Hudson Valley",
+  "city": "Montgomery",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "1102",
+      "show_number": 1101,
+      "date": "2023-07-27",
+      "festival_name": null,
+      "artists": "Richard Thompson"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "441",
+  "name": "Queen + Paul Rodgers",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "Reaching Out",
+      "times_played": 2
+    },
+    {
+      "name": "Tie Your Mother Down",
+      "times_played": 2
+    },
+    {
+      "name": "Fat Bottomed Girls",
+      "times_played": 2
+    },
+    {
+      "name": "Another One Bites the Dust",
+      "times_played": 2
+    },
+    {
+      "name": "Crazy Little Thing Called Love",
+      "times_played": 2
+    },
+    {
+      "name": "Bad Company",
+      "times_played": 2
+    },
+    {
+      "name": "Love of My Life",
+      "times_played": 2
+    },
+    {
+      "name": "Hammer to Fall",
+      "times_played": 2
+    },
+    {
+      "name": "Feel Like Makin' Love",
+      "times_played": 2
+    },
+    {
+      "name": "Let There Be Drums",
+      "times_played": 2
+    }
+  ],
+  "concerts": [
+    {
+      "id": "255",
+      "show_number": 254,
+      "date": "2006-03-12",
+      "festival_name": null,
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    },
+    {
+      "id": "242",
+      "show_number": 241,
+      "date": "2005-10-16",
+      "festival_name": null,
+      "venue": "Continental Airlines Arena",
+      "city": "East Rutherford",
+      "state": "NJ"
+    }
+  ]
+}

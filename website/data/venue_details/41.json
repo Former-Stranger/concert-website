@@ -1,0 +1,16 @@
+{
+  "id": "41",
+  "name": "DCU Center",
+  "city": "Worcester",
+  "state": "MA",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "675",
+      "show_number": 674,
+      "date": "2016-02-27",
+      "festival_name": null,
+      "artists": "Garth Brooks w. Trisha Yearwood"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "45",
+  "name": "Eisenhower Hall Theatre",
+  "city": "West Point",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "17",
+      "show_number": 16,
+      "date": "1996-03-16",
+      "festival_name": null,
+      "artists": "Billy Joel"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "139",
+  "name": "Cream",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "I'm So Glad",
+      "times_played": 1
+    },
+    {
+      "name": "Spoonful",
+      "times_played": 1
+    },
+    {
+      "name": "Outside Woman Blues",
+      "times_played": 1
+    },
+    {
+      "name": "Pressed Rat and Warthog",
+      "times_played": 1
+    },
+    {
+      "name": "Sleepy Time Time",
+      "times_played": 1
+    },
+    {
+      "name": "Tales of Brave Ulysses",
+      "times_played": 1
+    },
+    {
+      "name": "N.S.U.",
+      "times_played": 1
+    },
+    {
+      "name": "Badge",
+      "times_played": 1
+    },
+    {
+      "name": "Politician",
+      "times_played": 1
+    },
+    {
+      "name": "Sweet Wine",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "243",
+      "show_number": 242,
+      "date": "2005-10-25",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

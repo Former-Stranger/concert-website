@@ -1,0 +1,76 @@
+{
+  "id": "560",
+  "name": "Tedeschi Trucks Band",
+  "concert_count": 3,
+  "top_songs": [
+    {
+      "name": "Don't Let Me Slide",
+      "times_played": 1
+    },
+    {
+      "name": "Part of Me",
+      "times_played": 1
+    },
+    {
+      "name": "Bell Bottom Blues",
+      "times_played": 1
+    },
+    {
+      "name": "Why Does Love Got to Be So Sad?",
+      "times_played": 1
+    },
+    {
+      "name": "I Know",
+      "times_played": 1
+    },
+    {
+      "name": "Whiskey Legs",
+      "times_played": 1
+    },
+    {
+      "name": "Key to the Highway",
+      "times_played": 1
+    },
+    {
+      "name": "Signs, High Times",
+      "times_played": 1
+    },
+    {
+      "name": "When Will I Begin",
+      "times_played": 1
+    },
+    {
+      "name": "Little by Little",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1252",
+      "show_number": 1251,
+      "date": "2025-05-20",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "1203",
+      "show_number": 1202,
+      "date": "2024-10-08",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "974",
+      "show_number": 973,
+      "date": "2021-07-13",
+      "festival_name": null,
+      "venue": "Ridgefield Playhouse",
+      "city": "Ridgefield",
+      "state": "CT"
+    }
+  ]
+}

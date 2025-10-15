@@ -1,0 +1,196 @@
+{
+  "id": "1037",
+  "show_number": 1036,
+  "date": "2022-07-13",
+  "festival_name": null,
+  "venue": "Hartford HealthCare Amphitheater",
+  "city": "Bridgeport",
+  "state": "CT",
+  "artists": [
+    {
+      "name": "Jackson Browne",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/33b2b081.html",
+  "song_count": 22,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Somebody's Baby",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "The Barricades of Heaven",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "The Long Way Around",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Downhill From Everywhere",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Fountain of Sorrow",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Rock Me on the Water",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "In the Shape of a Heart",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Before the Deluge",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "I Am a Patriot",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Little Steven"
+    },
+    {
+      "position": 10,
+      "name": "You Love the Thunder",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "The Dreamer",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "Until Justice Is Real",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "For a Dancer",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "These Days",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Redneck Friend",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Doctor My Eyes",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "The Pretender",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "Running on Empty",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 19,
+      "name": "Take It Easy",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Eagles"
+    },
+    {
+      "position": 20,
+      "name": "Our Lady of the Well",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 21,
+      "name": "The Load-Out",
+      "set_name": "Main Set",
+      "encore": 2,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 22,
+      "name": "Stay",
+      "set_name": "Main Set",
+      "encore": 2,
+      "is_cover": true,
+      "cover_artist": "Maurice Williams & the Zodiacs"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "627",
+  "name": "Warren Haynes",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Angel Flying Too Close to the Ground",
+      "times_played": 1
+    },
+    {
+      "name": "Is It Me or You",
+      "times_played": 1
+    },
+    {
+      "name": "A Friend Like You",
+      "times_played": 1
+    },
+    {
+      "name": "Feel Like Going Home",
+      "times_played": 1
+    },
+    {
+      "name": "Forevermore",
+      "times_played": 1
+    },
+    {
+      "name": "Fallen Down",
+      "times_played": 1
+    },
+    {
+      "name": "Beautifully Broken",
+      "times_played": 1
+    },
+    {
+      "name": "Come Back",
+      "times_played": 1
+    },
+    {
+      "name": "Hope She'll Be Happier",
+      "times_played": 1
+    },
+    {
+      "name": "Old Friend",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1009",
+      "show_number": 1008,
+      "date": "2022-03-11",
+      "festival_name": null,
+      "venue": "Ridgefield Playhouse",
+      "city": "Ridgefield",
+      "state": "CT"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "82",
+  "name": "Kings Theatre",
+  "city": "Brooklyn",
+  "state": "NY",
+  "concert_count": 2,
+  "concerts": [
+    {
+      "id": "1235",
+      "show_number": 1234,
+      "date": "2025-02-11",
+      "festival_name": null,
+      "artists": "Jack White"
+    },
+    {
+      "id": "1221",
+      "show_number": 1220,
+      "date": "2024-11-26",
+      "festival_name": null,
+      "artists": "Empire of the Sun"
+    }
+  ]
+}

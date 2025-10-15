@@ -1,0 +1,124 @@
+{
+  "id": "989",
+  "show_number": 988,
+  "date": "2021-09-19",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Asbury Park Beach",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "artists": [
+    {
+      "name": "Sea Hear Now (Smashing Pumpkins",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Billy Idol",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Orville Peck)",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/b8c59a6.html",
+  "song_count": 12,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Winds Change",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Roses Are Falling",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Turn to Hate",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "No Glory in the West",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Drive Me, Crazy",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Buffalo Run",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Nothing Fades Like the Light",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Queen of the Rodeo",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Legends Never Die",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Dead of Night",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "Born This Way",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Lady Gaga"
+    },
+    {
+      "position": 12,
+      "name": "Take You Back (The Iron Hoof Cattle Call)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

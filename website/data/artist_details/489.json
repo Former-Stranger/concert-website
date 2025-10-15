@@ -1,0 +1,103 @@
+{
+  "id": "489",
+  "name": "Rush",
+  "concert_count": 6,
+  "top_songs": [
+    {
+      "name": "Tom Sawyer",
+      "times_played": 7
+    },
+    {
+      "name": "The Spirit of Radio",
+      "times_played": 6
+    },
+    {
+      "name": "Dreamline",
+      "times_played": 5
+    },
+    {
+      "name": "Drum Solo",
+      "times_played": 5
+    },
+    {
+      "name": "YYZ",
+      "times_played": 5
+    },
+    {
+      "name": "2112 Part I: Overture",
+      "times_played": 5
+    },
+    {
+      "name": "2112 Part II: The Temples of Syrinx",
+      "times_played": 5
+    },
+    {
+      "name": "Subdivisions",
+      "times_played": 4
+    },
+    {
+      "name": "Natural Science",
+      "times_played": 4
+    },
+    {
+      "name": "Roll the Bones",
+      "times_played": 4
+    }
+  ],
+  "concerts": [
+    {
+      "id": "633",
+      "show_number": 632,
+      "date": "2015-06-29",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "542",
+      "show_number": 541,
+      "date": "2013-06-23",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "305",
+      "show_number": 304,
+      "date": "2007-07-02",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "158",
+      "show_number": 157,
+      "date": "2002-07-15",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "40",
+      "show_number": 39,
+      "date": "1997-06-25",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "32",
+      "show_number": 31,
+      "date": "1996-12-15",
+      "festival_name": null,
+      "venue": "Izod Center",
+      "city": "East Rutherford",
+      "state": "NJ"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "106",
+  "name": "New Jersey Performing Arts Center",
+  "city": "Newark",
+  "state": "NJ",
+  "concert_count": 2,
+  "concerts": [
+    {
+      "id": "1147",
+      "show_number": 1146,
+      "date": "2024-03-10",
+      "festival_name": null,
+      "artists": "John Mellencamp (Bruce appearance)"
+    },
+    {
+      "id": "1005",
+      "show_number": 1004,
+      "date": "2022-02-06",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Eddie Vedder, The Earthlings"
+    }
+  ]
+}

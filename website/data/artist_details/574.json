@@ -1,0 +1,58 @@
+{
+  "id": "574",
+  "name": "The Earthlings",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "On My Way",
+      "times_played": 1
+    },
+    {
+      "name": "Society",
+      "times_played": 1
+    },
+    {
+      "name": "Room at the Top",
+      "times_played": 1
+    },
+    {
+      "name": "Here Comes the Sun",
+      "times_played": 1
+    },
+    {
+      "name": "Timeless Melody",
+      "times_played": 1
+    },
+    {
+      "name": "I'll Be Waiting",
+      "times_played": 1
+    },
+    {
+      "name": "Invincible",
+      "times_played": 1
+    },
+    {
+      "name": "The Dark",
+      "times_played": 1
+    },
+    {
+      "name": "Fallout Today",
+      "times_played": 1
+    },
+    {
+      "name": "Brother the Cloud",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1005",
+      "show_number": 1004,
+      "date": "2022-02-06",
+      "festival_name": "Multi-Artist Show",
+      "venue": "New Jersey Performing Arts Center",
+      "city": "Newark",
+      "state": "NJ"
+    }
+  ]
+}

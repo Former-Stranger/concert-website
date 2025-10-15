@@ -1,0 +1,79 @@
+{
+  "id": "164",
+  "name": "The Theater at Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 10,
+  "concerts": [
+    {
+      "id": "956",
+      "show_number": 955,
+      "date": "2019-11-04",
+      "festival_name": null,
+      "artists": "Bruce Springsteen/Crow: Stand Up for Heroes"
+    },
+    {
+      "id": "880",
+      "show_number": 879,
+      "date": "2018-11-05",
+      "festival_name": null,
+      "artists": "Springsteen: Stand Up for Heroes (with Eric Church)"
+    },
+    {
+      "id": "811",
+      "show_number": 810,
+      "date": "2018-01-30",
+      "festival_name": null,
+      "artists": "Elton John Tribute"
+    },
+    {
+      "id": "731",
+      "show_number": 730,
+      "date": "2016-11-14",
+      "festival_name": null,
+      "artists": "Rascal Flatts"
+    },
+    {
+      "id": "729",
+      "show_number": 728,
+      "date": "2016-11-01",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Bruce Springsteen: Stand Up For Heroes (Gaffigan, Seinfeld, CK & Stewart)"
+    },
+    {
+      "id": "665",
+      "show_number": 664,
+      "date": "2015-12-05",
+      "festival_name": null,
+      "artists": "John Lennon 75th Birthday: Steven Tyler, Fogerty"
+    },
+    {
+      "id": "662",
+      "show_number": 661,
+      "date": "2015-11-07",
+      "festival_name": null,
+      "artists": "Bruce Springsteen"
+    },
+    {
+      "id": "606",
+      "show_number": 605,
+      "date": "2014-11-05",
+      "festival_name": null,
+      "artists": "Bruce Springsteen: Stand Up For Heroes"
+    },
+    {
+      "id": "341",
+      "show_number": 340,
+      "date": "2008-06-10",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Robert Plant, Alison Krauss"
+    },
+    {
+      "id": "260",
+      "show_number": 259,
+      "date": "2006-04-24",
+      "festival_name": null,
+      "artists": "Van Morrison"
+    }
+  ]
+}

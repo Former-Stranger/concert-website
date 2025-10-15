@@ -1,0 +1,236 @@
+{
+  "id": "322",
+  "show_number": 321,
+  "date": "2007-11-02",
+  "festival_name": null,
+  "venue": "Hammerstein Ballroom",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "John Fogerty",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/3cefd4f.html",
+  "song_count": 27,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "River Is Waiting",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Good Golly, Miss Molly",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Little Richard"
+    },
+    {
+      "position": 3,
+      "name": "Bad Moon Rising",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 4,
+      "name": "Longshot",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Green River",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 6,
+      "name": "Lookin' Out My Back Door",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 7,
+      "name": "Gunslinger",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Born on the Bayou",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 9,
+      "name": "Midnight Special",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 10,
+      "name": "Ramble Tamble",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 11,
+      "name": "Deja Vu (All Over Again)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "Bootleg",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 13,
+      "name": "Who'll Stop the Rain",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 14,
+      "name": "Creedence Song",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Keep On Chooglin'",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 16,
+      "name": "Don't You Wish It Was True",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "Have You Ever Seen the Rain?",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 18,
+      "name": "Broken Down Cowboy",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 19,
+      "name": "Down on the Corner",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 20,
+      "name": "Long Dark Night",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 21,
+      "name": "I Can't Take It No More",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 22,
+      "name": "Centerfield",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 23,
+      "name": "Up Around the Bend",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 24,
+      "name": "The Old Man Down the Road",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 25,
+      "name": "Fortunate Son",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 26,
+      "name": "Travelin' Band",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 27,
+      "name": "Proud Mary",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "48",
+  "name": "FYE",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "279",
+      "show_number": 278,
+      "date": "2006-09-26",
+      "festival_name": null,
+      "artists": "Jerry Lee Lewis"
+    }
+  ]
+}

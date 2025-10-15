@@ -1,0 +1,67 @@
+{
+  "id": "409",
+  "name": "Old Dominion",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "T-Shirt",
+      "times_played": 2
+    },
+    {
+      "name": "Star of the Show",
+      "times_played": 2
+    },
+    {
+      "name": "It Goes Like This",
+      "times_played": 2
+    },
+    {
+      "name": "Make Me Wanna",
+      "times_played": 2
+    },
+    {
+      "name": "Vacation",
+      "times_played": 2
+    },
+    {
+      "name": "Die a Happy Man",
+      "times_played": 2
+    },
+    {
+      "name": "Crash and Burn",
+      "times_played": 2
+    },
+    {
+      "name": "Renegades",
+      "times_played": 1
+    },
+    {
+      "name": "Get Me Some of That",
+      "times_played": 1
+    },
+    {
+      "name": "Craving You",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "831",
+      "show_number": 830,
+      "date": "2018-06-09",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    {
+      "id": "780",
+      "show_number": 779,
+      "date": "2017-08-26",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Gillette Stadium",
+      "city": "Foxborough",
+      "state": "MA"
+    }
+  ]
+}

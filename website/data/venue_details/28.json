@@ -1,0 +1,23 @@
+{
+  "id": "28",
+  "name": "Caramoor Center for Music and the Arts",
+  "city": "Katonah",
+  "state": "NY",
+  "concert_count": 2,
+  "concerts": [
+    {
+      "id": "1271",
+      "show_number": 1270,
+      "date": "2025-08-02",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Lyle Lovett, His Large Band"
+    },
+    {
+      "id": "965",
+      "show_number": 964,
+      "date": "2019-12-07",
+      "festival_name": null,
+      "artists": "John Hiatt"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "63",
+  "name": "Grange Fair",
+  "city": "Yorktown Heights",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "192",
+      "show_number": 191,
+      "date": "2003-09-06",
+      "festival_name": null,
+      "artists": "Mountain"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "385",
+  "name": "Mike Campbell",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "Wicked Mind",
+      "times_played": 2
+    },
+    {
+      "name": "Lightning Boogie",
+      "times_played": 2
+    },
+    {
+      "name": "State of Mind",
+      "times_played": 2
+    },
+    {
+      "name": "Dirty Job",
+      "times_played": 2
+    },
+    {
+      "name": "Fuck That Guy",
+      "times_played": 2
+    },
+    {
+      "name": "Wreckless Abandon",
+      "times_played": 2
+    },
+    {
+      "name": "I Still Love You",
+      "times_played": 2
+    },
+    {
+      "name": "In This Lifetime",
+      "times_played": 2
+    },
+    {
+      "name": "Refugee",
+      "times_played": 2
+    },
+    {
+      "name": "Southern Boy",
+      "times_played": 2
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1057",
+      "show_number": 1056,
+      "date": "2022-09-16",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "1013",
+      "show_number": 1012,
+      "date": "2022-03-26",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Ridgefield Playhouse",
+      "city": "Ridgefield",
+      "state": "CT"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "187",
+  "name": "Wonder Bar",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "concert_count": 2,
+  "concerts": [
+    {
+      "id": "1209",
+      "show_number": 1208,
+      "date": "2024-10-24",
+      "festival_name": null,
+      "artists": "Will Hoge"
+    },
+    {
+      "id": "644",
+      "show_number": 643,
+      "date": "2015-08-14",
+      "festival_name": null,
+      "artists": "Will Hoge"
+    }
+  ]
+}

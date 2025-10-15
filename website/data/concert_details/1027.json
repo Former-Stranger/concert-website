@@ -1,0 +1,28 @@
+{
+  "id": "1027",
+  "show_number": 1026,
+  "date": "2022-06-10",
+  "festival_name": null,
+  "venue": "Tarrytown Music Hall",
+  "city": "Tarrytown",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Buddy Guy",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/63b5b2a7.html",
+  "song_count": 1,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Damn Right, I've Got the Blues",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

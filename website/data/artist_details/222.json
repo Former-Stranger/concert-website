@@ -1,0 +1,85 @@
+{
+  "id": "222",
+  "name": "Garth Brooks",
+  "concert_count": 4,
+  "top_songs": [
+    {
+      "name": "Rodeo",
+      "times_played": 2
+    },
+    {
+      "name": "Two Pi\u00f1a Coladas",
+      "times_played": 2
+    },
+    {
+      "name": "That Summer",
+      "times_played": 2
+    },
+    {
+      "name": "The River",
+      "times_played": 2
+    },
+    {
+      "name": "The Thunder Rolls",
+      "times_played": 2
+    },
+    {
+      "name": "Papa Loved Mama",
+      "times_played": 2
+    },
+    {
+      "name": "In Another's Eyes",
+      "times_played": 2
+    },
+    {
+      "name": "When Will I Be Loved",
+      "times_played": 2
+    },
+    {
+      "name": "How Do I Live",
+      "times_played": 2
+    },
+    {
+      "name": "She's in Love With the Boy",
+      "times_played": 2
+    }
+  ],
+  "concerts": [
+    {
+      "id": "747",
+      "show_number": 746,
+      "date": "2017-03-11",
+      "festival_name": null,
+      "venue": "MVP Arena",
+      "city": "Albany",
+      "state": "NY"
+    },
+    {
+      "id": "704",
+      "show_number": 703,
+      "date": "2016-07-09",
+      "festival_name": null,
+      "venue": "Yankee Stadium",
+      "city": "Bronx",
+      "state": "NY"
+    },
+    {
+      "id": "703",
+      "show_number": 702,
+      "date": "2016-07-08",
+      "festival_name": null,
+      "venue": "Yankee Stadium",
+      "city": "Bronx",
+      "state": "NY"
+    },
+    {
+      "id": "453",
+      "show_number": 452,
+      "date": "2010-11-11",
+      "festival_name": null,
+      "venue": "Chelsea Piers",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

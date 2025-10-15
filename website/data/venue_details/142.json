@@ -1,0 +1,16 @@
+{
+  "id": "142",
+  "name": "Schottenstein Center",
+  "city": "Columbus",
+  "state": "OH",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "176",
+      "show_number": 175,
+      "date": "2002-12-16",
+      "festival_name": null,
+      "artists": "Bruce Springsteen & the E Street Band"
+    }
+  ]
+}

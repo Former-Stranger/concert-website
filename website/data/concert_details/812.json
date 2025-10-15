@@ -1,0 +1,64 @@
+{
+  "id": "812",
+  "show_number": 811,
+  "date": "2018-02-13",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Palladium Times Square",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "All for Hall: Vince Gill",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Maren Morris",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Emmylou",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Kesha",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/6bee32d2.html",
+  "song_count": 4,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "I Could Use a Love Song",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Greener Pastures",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Brothers Osborne"
+    },
+    {
+      "position": 3,
+      "name": "Dear Hate",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "My Church",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

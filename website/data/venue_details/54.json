@@ -1,0 +1,16 @@
+{
+  "id": "54",
+  "name": "Fort Adams State Park",
+  "city": "Newport",
+  "state": "RI",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "924",
+      "show_number": 923,
+      "date": "2019-07-26",
+      "festival_name": "Newport Folk Festival",
+      "artists": "Sheryl Crow, Phil Lesh"
+    }
+  ]
+}

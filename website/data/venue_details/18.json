@@ -1,0 +1,30 @@
+{
+  "id": "18",
+  "name": "Bridgeport",
+  "city": "Bridgeport",
+  "state": "CT",
+  "concert_count": 3,
+  "concerts": [
+    {
+      "id": "1267",
+      "show_number": 1266,
+      "date": "2025-07-18",
+      "festival_name": null,
+      "artists": "Brad Paisley"
+    },
+    {
+      "id": "1181",
+      "show_number": 1180,
+      "date": "2024-07-24",
+      "festival_name": null,
+      "artists": "Sammy Hagar"
+    },
+    {
+      "id": "288",
+      "show_number": 287,
+      "date": "2006-11-28",
+      "festival_name": "Multi-Artist Show",
+      "artists": "The Who, the Pretenders"
+    }
+  ]
+}

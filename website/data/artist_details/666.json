@@ -1,0 +1,67 @@
+{
+  "id": "666",
+  "name": "the Pretenders",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "The Loner",
+      "times_played": 1
+    },
+    {
+      "name": "Talk of the Town",
+      "times_played": 1
+    },
+    {
+      "name": "Popstar",
+      "times_played": 1
+    },
+    {
+      "name": "Message of Love",
+      "times_played": 1
+    },
+    {
+      "name": "Hymn to Her",
+      "times_played": 1
+    },
+    {
+      "name": "Kid",
+      "times_played": 1
+    },
+    {
+      "name": "My City Was Gone",
+      "times_played": 1
+    },
+    {
+      "name": "Back on the Chain Gang",
+      "times_played": 1
+    },
+    {
+      "name": "Night in My Veins",
+      "times_played": 1
+    },
+    {
+      "name": "The Needle and the Damage Done",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "288",
+      "show_number": 287,
+      "date": "2006-11-28",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Bridgeport",
+      "city": "Bridgeport",
+      "state": "CT"
+    },
+    {
+      "id": "115",
+      "show_number": 114,
+      "date": "2000-08-12",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Freedom Mortgage Pavilion",
+      "city": "Camden",
+      "state": "NJ"
+    }
+  ]
+}

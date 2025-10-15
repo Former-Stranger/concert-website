@@ -1,0 +1,23 @@
+{
+  "id": "169",
+  "name": "Toad's Place",
+  "city": "New Haven",
+  "state": "CT",
+  "concert_count": 2,
+  "concerts": [
+    {
+      "id": "125",
+      "show_number": 124,
+      "date": "2001-05-01",
+      "festival_name": null,
+      "artists": "Riders on the Storm"
+    },
+    {
+      "id": "100",
+      "show_number": 99,
+      "date": "2000-03-13",
+      "festival_name": null,
+      "artists": "Clancy Brothers"
+    }
+  ]
+}

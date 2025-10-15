@@ -1,0 +1,58 @@
+{
+  "id": "108",
+  "name": "Carl Palmer",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "No Opportunity Necessary, No Experience Needed",
+      "times_played": 1
+    },
+    {
+      "name": "Tempus Fugit",
+      "times_played": 1
+    },
+    {
+      "name": "Going for the One",
+      "times_played": 1
+    },
+    {
+      "name": "I've Seen All Good People",
+      "times_played": 1
+    },
+    {
+      "name": "Second Initial",
+      "times_played": 1
+    },
+    {
+      "name": "Siberian Khatru",
+      "times_played": 1
+    },
+    {
+      "name": "Onward",
+      "times_played": 1
+    },
+    {
+      "name": "America",
+      "times_played": 1
+    },
+    {
+      "name": "Rhythm of Love",
+      "times_played": 1
+    },
+    {
+      "name": "The Gates of Delirium",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "917",
+      "show_number": 916,
+      "date": "2019-06-20",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Westchester County Center",
+      "city": "White Plains",
+      "state": "NY"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "38",
+  "name": "Continental Airlines Arena",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "concert_count": 4,
+  "concerts": [
+    {
+      "id": "262",
+      "show_number": 261,
+      "date": "2006-06-03",
+      "festival_name": null,
+      "artists": "Pearl Jam"
+    },
+    {
+      "id": "249",
+      "show_number": 248,
+      "date": "2005-11-22",
+      "festival_name": null,
+      "artists": "Bon Jovi"
+    },
+    {
+      "id": "244",
+      "show_number": 243,
+      "date": "2005-11-17",
+      "festival_name": null,
+      "artists": "Bruce Springsteen"
+    },
+    {
+      "id": "242",
+      "show_number": 241,
+      "date": "2005-10-16",
+      "festival_name": null,
+      "artists": "Queen + Paul Rodgers"
+    }
+  ]
+}

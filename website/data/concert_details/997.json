@@ -1,0 +1,56 @@
+{
+  "id": "997",
+  "show_number": 996,
+  "date": "2021-11-06",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Nathaniel Rateliffe",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Night Sweats",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/23b4dc5b.html",
+  "song_count": 4,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "You Worry Me",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Look It Here",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "I Need Never Get Old",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "S.O.B.",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

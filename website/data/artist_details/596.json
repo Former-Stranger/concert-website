@@ -1,0 +1,58 @@
+{
+  "id": "596",
+  "name": "Tom Jones",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Dangerous",
+      "times_played": 1
+    },
+    {
+      "name": "Thank God for the Blues",
+      "times_played": 1
+    },
+    {
+      "name": "Keep Mediocrity at Bay",
+      "times_played": 1
+    },
+    {
+      "name": "Can't Go On This Way",
+      "times_played": 1
+    },
+    {
+      "name": "Days Like This",
+      "times_played": 1
+    },
+    {
+      "name": "Born to Sing",
+      "times_played": 1
+    },
+    {
+      "name": "Did Ye Get Healed?",
+      "times_played": 1
+    },
+    {
+      "name": "Raincheck",
+      "times_played": 1
+    },
+    {
+      "name": "What Am I Living For",
+      "times_played": 1
+    },
+    {
+      "name": "Goodnight, Irene",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1054",
+      "show_number": 1053,
+      "date": "2022-09-10",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Forest Hills Stadium",
+      "city": "Forest Hills",
+      "state": "NY"
+    }
+  ]
+}

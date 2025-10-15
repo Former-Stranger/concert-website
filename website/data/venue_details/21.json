@@ -1,0 +1,16 @@
+{
+  "id": "21",
+  "name": "Brooklyn Steel",
+  "city": "Brooklyn",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "910",
+      "show_number": 909,
+      "date": "2019-04-23",
+      "festival_name": null,
+      "artists": "Ryan Bingham"
+    }
+  ]
+}

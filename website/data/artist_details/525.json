@@ -1,0 +1,44 @@
+{
+  "id": "525",
+  "name": "Southside Johnny",
+  "concert_count": 4,
+  "top_songs": [],
+  "concerts": [
+    {
+      "id": "532",
+      "show_number": 531,
+      "date": "2013-01-20",
+      "festival_name": "Netwon Benefit",
+      "venue": "",
+      "city": "",
+      "state": ""
+    },
+    {
+      "id": "282",
+      "show_number": 281,
+      "date": "2006-09-30",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Yonkers",
+      "city": "Yonkers",
+      "state": "NY"
+    },
+    {
+      "id": "198",
+      "show_number": 197,
+      "date": "2004-01-18",
+      "festival_name": "Multi-Artist Show",
+      "venue": "BB King Blues Club",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "150",
+      "show_number": 149,
+      "date": "2002-02-01",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Webster Theater",
+      "city": "Hartford",
+      "state": "CT"
+    }
+  ]
+}

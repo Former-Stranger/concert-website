@@ -1,0 +1,85 @@
+{
+  "id": "430",
+  "name": "Phish",
+  "concert_count": 4,
+  "top_songs": [
+    {
+      "name": "Bathtub Gin",
+      "times_played": 2
+    },
+    {
+      "name": "No Men in No Man's Land",
+      "times_played": 2
+    },
+    {
+      "name": "Gotta Jibboo",
+      "times_played": 2
+    },
+    {
+      "name": "Mike's Song",
+      "times_played": 2
+    },
+    {
+      "name": "When the Circus Comes",
+      "times_played": 2
+    },
+    {
+      "name": "Down With Disease",
+      "times_played": 2
+    },
+    {
+      "name": "Weekapaug Groove",
+      "times_played": 2
+    },
+    {
+      "name": "AC/DC Bag",
+      "times_played": 1
+    },
+    {
+      "name": "My Friend, My Friend",
+      "times_played": 1
+    },
+    {
+      "name": "Theme From the Bottom",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1228",
+      "show_number": 1227,
+      "date": "2024-12-28",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "1104",
+      "show_number": 1103,
+      "date": "2023-07-30",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "1041",
+      "show_number": 1040,
+      "date": "2022-07-27",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "106",
+      "show_number": 105,
+      "date": "2000-06-28",
+      "festival_name": null,
+      "venue": "PNC Bank Arts Center",
+      "city": "Holmdel",
+      "state": "NJ"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "125",
+  "name": "Clancy Brothers",
+  "concert_count": 1,
+  "top_songs": [],
+  "concerts": [
+    {
+      "id": "100",
+      "show_number": 99,
+      "date": "2000-03-13",
+      "festival_name": null,
+      "venue": "Toad's Place",
+      "city": "New Haven",
+      "state": "CT"
+    }
+  ]
+}

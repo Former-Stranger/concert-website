@@ -1,0 +1,94 @@
+{
+  "id": "424",
+  "name": "Peter Frampton",
+  "concert_count": 5,
+  "top_songs": [
+    {
+      "name": "Lines on My Face",
+      "times_played": 3
+    },
+    {
+      "name": "Show Me the Way",
+      "times_played": 3
+    },
+    {
+      "name": "All I Wanna Be (Is by Your Side)",
+      "times_played": 3
+    },
+    {
+      "name": "Baby, I Love Your Way",
+      "times_played": 3
+    },
+    {
+      "name": "(I'll Give You) Money",
+      "times_played": 3
+    },
+    {
+      "name": "Do You Feel Like We Do",
+      "times_played": 3
+    },
+    {
+      "name": "Black Hole Sun",
+      "times_played": 3
+    },
+    {
+      "name": "Four Day Creep",
+      "times_played": 3
+    },
+    {
+      "name": "While My Guitar Gently Weeps",
+      "times_played": 3
+    },
+    {
+      "name": "Baby (Somethin's Happening)",
+      "times_played": 2
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1246",
+      "show_number": 1245,
+      "date": "2025-04-01",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "1100",
+      "show_number": 1099,
+      "date": "2023-07-23",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "941",
+      "show_number": 940,
+      "date": "2019-09-13",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "501",
+      "show_number": 500,
+      "date": "2012-02-16",
+      "festival_name": null,
+      "venue": "NYCB Theatre at Westbury",
+      "city": "Westbury",
+      "state": "NY"
+    },
+    {
+      "id": "329",
+      "show_number": 328,
+      "date": "2008-01-08",
+      "festival_name": null,
+      "venue": "Gibson Guitar Tent (Vegas)",
+      "city": "Las Vegas",
+      "state": "NV"
+    }
+  ]
+}

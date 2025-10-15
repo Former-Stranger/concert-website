@@ -1,0 +1,248 @@
+{
+  "id": "655",
+  "show_number": 654,
+  "date": "2015-09-24",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Tarrytown Music Hall",
+  "city": "Tarrytown",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Steve Earle",
+      "role": "festival_performer"
+    },
+    {
+      "name": "The Dukes with The Mastersons",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/63f4feef.html",
+  "song_count": 28,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Baby Baby Baby (Baby)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "You're the Best Lover That I Ever Had",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Ain't Nobody's Daddy Now",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Baby's Just as Mean as Me",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Love's Gonna Blow My Way",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "My Old Friend the Blues",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Steve Earle"
+    },
+    {
+      "position": 7,
+      "name": "Someday",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Steve Earle"
+    },
+    {
+      "position": 8,
+      "name": "Guitar Town",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Steve Earle"
+    },
+    {
+      "position": 9,
+      "name": "Copperhead Road",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Steve Earle"
+    },
+    {
+      "position": 10,
+      "name": "Goodbye's All We've Got Left",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Steve Earle"
+    },
+    {
+      "position": 11,
+      "name": "Sparkle and Shine",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Steve Earle"
+    },
+    {
+      "position": 12,
+      "name": "I Thought You Should Know",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Steve Earle"
+    },
+    {
+      "position": 13,
+      "name": "The Galway Girl",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Steve Earle"
+    },
+    {
+      "position": 14,
+      "name": "Little Emperor",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Steve Earle"
+    },
+    {
+      "position": 15,
+      "name": "Acquainted With the Wind",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "South Nashville Blues",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Steve Earle"
+    },
+    {
+      "position": 17,
+      "name": "CCKMP",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Steve Earle"
+    },
+    {
+      "position": 18,
+      "name": "44 Blues",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Roosevelt Sykes"
+    },
+    {
+      "position": 19,
+      "name": "The Usual Time",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "That All You Got?",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 21,
+      "name": "Go Go Boots Are Back",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 22,
+      "name": "Better Off Alone",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 23,
+      "name": "The Tennessee Kid",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 24,
+      "name": "King of the Blues",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 25,
+      "name": "Hey Joe",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Leaves"
+    },
+    {
+      "position": 26,
+      "name": "Mississippi, It's Time",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 27,
+      "name": "Down the Road",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Steve Earle"
+    },
+    {
+      "position": 28,
+      "name": "Down the Road Pt II",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

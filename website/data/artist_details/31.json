@@ -1,0 +1,67 @@
+{
+  "id": "31",
+  "name": "Avetts",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "Mule",
+      "times_played": 1
+    },
+    {
+      "name": "Revolution Come, Revolution Go",
+      "times_played": 1
+    },
+    {
+      "name": "Shine On You Crazy Diamond (Parts I-V)",
+      "times_played": 1
+    },
+    {
+      "name": "Have a Cigar",
+      "times_played": 1
+    },
+    {
+      "name": "Speak to Me",
+      "times_played": 1
+    },
+    {
+      "name": "Breathe (In the Air)",
+      "times_played": 1
+    },
+    {
+      "name": "On the Run",
+      "times_played": 1
+    },
+    {
+      "name": "Time",
+      "times_played": 1
+    },
+    {
+      "name": "Breathe (Reprise)",
+      "times_played": 1
+    },
+    {
+      "name": "The Great Gig in the Sky",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "988",
+      "show_number": 987,
+      "date": "2021-09-18",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Asbury Park Beach",
+      "city": "Asbury Park",
+      "state": "NJ"
+    },
+    {
+      "id": "840",
+      "show_number": 839,
+      "date": "2018-07-12",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    }
+  ]
+}

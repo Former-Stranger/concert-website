@@ -1,0 +1,228 @@
+{
+  "id": "872",
+  "show_number": 871,
+  "date": "2018-10-12",
+  "festival_name": null,
+  "venue": "Prudential Center",
+  "city": "Newark",
+  "state": "NJ",
+  "artists": [
+    {
+      "name": "Eagles",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/2b96b826.html",
+  "song_count": 26,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Seven Bridges Road",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Steve Young"
+    },
+    {
+      "position": 2,
+      "name": "Take It Easy",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "One of These Nights",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Take It to the Limit",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Tequila Sunrise",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Witchy Woman",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "In the City",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Joe Walsh"
+    },
+    {
+      "position": 8,
+      "name": "I Can't Tell You Why",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "New Kid in Town",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "How Long",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "J.D. Souther"
+    },
+    {
+      "position": 11,
+      "name": "Peaceful Easy Feeling",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jack Tempchin"
+    },
+    {
+      "position": 12,
+      "name": "Ol' '55",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tom Waits"
+    },
+    {
+      "position": 13,
+      "name": "Lyin' Eyes",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Love Will Keep Us Alive",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Don't Let Our Love Start Slippin' Away",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Vince Gill"
+    },
+    {
+      "position": 16,
+      "name": "Those Shoes",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "Already Gone",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Robb Strandlund"
+    },
+    {
+      "position": 18,
+      "name": "Walk Away",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "James Gang"
+    },
+    {
+      "position": 19,
+      "name": "Life's Been Good",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Joe Walsh"
+    },
+    {
+      "position": 20,
+      "name": "The Boys of Summer",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Don Henley"
+    },
+    {
+      "position": 21,
+      "name": "Heartache Tonight",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 22,
+      "name": "Funk #49",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "James Gang"
+    },
+    {
+      "position": 23,
+      "name": "Life in the Fast Lane",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 24,
+      "name": "Hotel California",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 25,
+      "name": "Rocky Mountain Way",
+      "set_name": "Main Set",
+      "encore": 2,
+      "is_cover": true,
+      "cover_artist": "Joe Walsh"
+    },
+    {
+      "position": 26,
+      "name": "Desperado",
+      "set_name": "Main Set",
+      "encore": 2,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

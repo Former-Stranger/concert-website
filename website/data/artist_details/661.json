@@ -1,0 +1,62 @@
+{
+  "id": "661",
+  "name": "the Coral Reefer Band",
+  "concert_count": 6,
+  "top_songs": [],
+  "concerts": [
+    {
+      "id": "592",
+      "show_number": 591,
+      "date": "2014-08-21",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "277",
+      "show_number": 276,
+      "date": "2006-09-14",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "266",
+      "show_number": 265,
+      "date": "2006-07-01",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "213",
+      "show_number": 212,
+      "date": "2004-09-04",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "113",
+      "show_number": 112,
+      "date": "2000-07-31",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Stony Brook Southampton",
+      "city": "Southampton",
+      "state": "NY"
+    },
+    {
+      "id": "78",
+      "show_number": 77,
+      "date": "1999-02-22",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

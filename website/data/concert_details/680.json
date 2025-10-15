@@ -1,0 +1,56 @@
+{
+  "id": "680",
+  "show_number": 679,
+  "date": "2016-04-08",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Barclays Center",
+  "city": "Brooklyn",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Rock Hall of Fame: Cheap Trick",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Chicago",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Steve Miller",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Deep Purple",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/13f1a975.html",
+  "song_count": 3,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Fly Like an Eagle",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Rock'n Me",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "The Joker",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

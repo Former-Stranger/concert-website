@@ -1,0 +1,112 @@
+{
+  "id": "362",
+  "name": "Lynyrd Skynyrd",
+  "concert_count": 7,
+  "top_songs": [
+    {
+      "name": "Thunderstruck",
+      "times_played": 1
+    },
+    {
+      "name": "Workin' for MCA",
+      "times_played": 1
+    },
+    {
+      "name": "What's Your Name",
+      "times_played": 1
+    },
+    {
+      "name": "You Got That Right",
+      "times_played": 1
+    },
+    {
+      "name": "Double Trouble",
+      "times_played": 1
+    },
+    {
+      "name": "Whiskey Rock-a-Roller",
+      "times_played": 1
+    },
+    {
+      "name": "That Smell",
+      "times_played": 1
+    },
+    {
+      "name": "Cry for the Bad Man",
+      "times_played": 1
+    },
+    {
+      "name": "Saturday Night Special",
+      "times_played": 1
+    },
+    {
+      "name": "Tuesday's Gone",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1035",
+      "show_number": 1034,
+      "date": "2022-07-02",
+      "festival_name": null,
+      "venue": "Hartford HealthCare Amphitheater",
+      "city": "Bridgeport",
+      "state": "CT"
+    },
+    {
+      "id": "303",
+      "show_number": 302,
+      "date": "2007-06-20",
+      "festival_name": null,
+      "venue": "NYCB Theatre at Westbury",
+      "city": "Westbury",
+      "state": "NY"
+    },
+    {
+      "id": "126",
+      "show_number": 125,
+      "date": "2001-05-26",
+      "festival_name": null,
+      "venue": "Trump Marina",
+      "city": "Atlantic City",
+      "state": "NJ"
+    },
+    {
+      "id": "95",
+      "show_number": 94,
+      "date": "1999-10-08",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Izod Center",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "69",
+      "show_number": 68,
+      "date": "1998-07-22",
+      "festival_name": "Multi-Artist Show",
+      "venue": "PNC Bank Arts Center",
+      "city": "Holmdel",
+      "state": "NJ"
+    },
+    {
+      "id": "41",
+      "show_number": 40,
+      "date": "1997-06-26",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "28",
+      "show_number": 27,
+      "date": "1996-08-10",
+      "festival_name": "Multi-Artist Show",
+      "venue": "PNC Bank Arts Center",
+      "city": "Holmdel",
+      "state": "NJ"
+    }
+  ]
+}

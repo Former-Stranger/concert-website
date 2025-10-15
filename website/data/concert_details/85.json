@@ -1,0 +1,96 @@
+{
+  "id": "85",
+  "show_number": 84,
+  "date": "1999-05-26",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Giants Stadium",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "artists": [
+    {
+      "name": "Dave Matthews Band",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Santana",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/33d5bcb1.html",
+  "song_count": 9,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Spiritual / (Da le) Yaleo / Hannibal",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Right On / Get On",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Migra",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Day of Celebration",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Put Your Lights On",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Bacalao con pan",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Black Magic Woman / Gypsy Queen",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Oye c\u00f3mo va",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tito Puente"
+    },
+    {
+      "position": 9,
+      "name": "Jin-go-lo-ba",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Babatunde Olatunji"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "25",
+  "name": "Caesars Palace",
+  "city": "Las Vegas",
+  "state": "NV",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "270",
+      "show_number": 269,
+      "date": "2006-07-29",
+      "festival_name": null,
+      "artists": "Elton John"
+    }
+  ]
+}

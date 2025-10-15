@@ -1,0 +1,67 @@
+{
+  "id": "231",
+  "name": "Goo Goo Dolls",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "Stay With You",
+      "times_played": 1
+    },
+    {
+      "name": "Slide",
+      "times_played": 1
+    },
+    {
+      "name": "Feel the Silence",
+      "times_played": 1
+    },
+    {
+      "name": "Black Balloon",
+      "times_played": 1
+    },
+    {
+      "name": "Smash",
+      "times_played": 1
+    },
+    {
+      "name": "Tucked Away",
+      "times_played": 1
+    },
+    {
+      "name": "Name",
+      "times_played": 1
+    },
+    {
+      "name": "We'll Be Here (When You're Gone)",
+      "times_played": 1
+    },
+    {
+      "name": "Iris",
+      "times_played": 1
+    },
+    {
+      "name": "Broadway",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "271",
+      "show_number": 270,
+      "date": "2006-08-04",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "145",
+      "show_number": 144,
+      "date": "2001-10-20",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

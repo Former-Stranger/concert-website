@@ -1,0 +1,58 @@
+{
+  "id": "232",
+  "name": "Gov't Mule",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Blind Man in the Dark",
+      "times_played": 2
+    },
+    {
+      "name": "Rocking Horse",
+      "times_played": 1
+    },
+    {
+      "name": "Temporary Saint",
+      "times_played": 1
+    },
+    {
+      "name": "Thorazine Shuffle",
+      "times_played": 1
+    },
+    {
+      "name": "No Need to Suffer",
+      "times_played": 1
+    },
+    {
+      "name": "Larger Than Life",
+      "times_played": 1
+    },
+    {
+      "name": "She Said She Said",
+      "times_played": 1
+    },
+    {
+      "name": "Tomorrow Never Knows",
+      "times_played": 1
+    },
+    {
+      "name": "Wandering Child",
+      "times_played": 1
+    },
+    {
+      "name": "Kind of Bird",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "72",
+      "show_number": 71,
+      "date": "1998-09-12",
+      "festival_name": null,
+      "venue": "Irving Plaza",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

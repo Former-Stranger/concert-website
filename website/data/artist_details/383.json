@@ -1,0 +1,58 @@
+{
+  "id": "383",
+  "name": "Michael McDonald",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Turtle Talk",
+      "times_played": 1
+    },
+    {
+      "name": "Bodhisattva",
+      "times_played": 1
+    },
+    {
+      "name": "Time Out of Mind",
+      "times_played": 1
+    },
+    {
+      "name": "Aja",
+      "times_played": 1
+    },
+    {
+      "name": "I Got the News",
+      "times_played": 1
+    },
+    {
+      "name": "Hey Nineteen",
+      "times_played": 1
+    },
+    {
+      "name": "Josie",
+      "times_played": 1
+    },
+    {
+      "name": "Green Earrings",
+      "times_played": 1
+    },
+    {
+      "name": "Deacon Blues",
+      "times_played": 1
+    },
+    {
+      "name": "Black Friday",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "274",
+      "show_number": 273,
+      "date": "2006-08-17",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    }
+  ]
+}

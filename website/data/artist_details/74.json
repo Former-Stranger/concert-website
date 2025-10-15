@@ -1,0 +1,85 @@
+{
+  "id": "74",
+  "name": "Bonnie Raitt",
+  "concert_count": 4,
+  "top_songs": [
+    {
+      "name": "Why Aye Man",
+      "times_played": 1
+    },
+    {
+      "name": "Corned Beef City",
+      "times_played": 1
+    },
+    {
+      "name": "Sailing to Philadelphia",
+      "times_played": 1
+    },
+    {
+      "name": "Once Upon a Time in the West",
+      "times_played": 1
+    },
+    {
+      "name": "Romeo and Juliet",
+      "times_played": 1
+    },
+    {
+      "name": "My Bacon Roll",
+      "times_played": 1
+    },
+    {
+      "name": "Matchstick Man",
+      "times_played": 1
+    },
+    {
+      "name": "Done With Bonaparte",
+      "times_played": 1
+    },
+    {
+      "name": "Heart Full of Holes",
+      "times_played": 1
+    },
+    {
+      "name": "She's Gone",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "944",
+      "show_number": 943,
+      "date": "2019-09-25",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "572",
+      "show_number": 571,
+      "date": "2014-04-10",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY"
+    },
+    {
+      "id": "403",
+      "show_number": 402,
+      "date": "2009-10-29",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "164",
+      "show_number": 163,
+      "date": "2002-08-11",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    }
+  ]
+}

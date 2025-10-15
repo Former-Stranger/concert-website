@@ -1,0 +1,23 @@
+{
+  "id": "24",
+  "name": "CHI Health Center",
+  "city": "Omaha",
+  "state": "NE",
+  "concert_count": 2,
+  "concerts": [
+    {
+      "id": "226",
+      "show_number": 225,
+      "date": "2005-05-15",
+      "festival_name": null,
+      "artists": "Green Day"
+    },
+    {
+      "id": "223",
+      "show_number": 222,
+      "date": "2005-04-01",
+      "festival_name": null,
+      "artists": "John Mellencamp"
+    }
+  ]
+}

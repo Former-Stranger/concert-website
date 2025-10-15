@@ -1,0 +1,103 @@
+{
+  "id": "536",
+  "name": "Steve Earle",
+  "concert_count": 6,
+  "top_songs": [
+    {
+      "name": "Guitar Town",
+      "times_played": 4
+    },
+    {
+      "name": "Someday",
+      "times_played": 4
+    },
+    {
+      "name": "My Old Friend the Blues",
+      "times_played": 3
+    },
+    {
+      "name": "Copperhead Road",
+      "times_played": 3
+    },
+    {
+      "name": "Goodbye's All We've Got Left",
+      "times_played": 2
+    },
+    {
+      "name": "Down the Road",
+      "times_played": 2
+    },
+    {
+      "name": "Teach Your Children",
+      "times_played": 2
+    },
+    {
+      "name": "The Devil's Right Hand",
+      "times_played": 2
+    },
+    {
+      "name": "The Galway Girl",
+      "times_played": 2
+    },
+    {
+      "name": "Hey Joe",
+      "times_played": 2
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1134",
+      "show_number": 1133,
+      "date": "2023-12-03",
+      "festival_name": "Multi-Artist Show",
+      "venue": "The Town Hall",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "821",
+      "show_number": 820,
+      "date": "2018-04-15",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Paramount Hudson Valley Theater",
+      "city": "Peekskill",
+      "state": "NY"
+    },
+    {
+      "id": "737",
+      "show_number": 736,
+      "date": "2016-12-05",
+      "festival_name": "Multi-Artist Show",
+      "venue": "The Town Hall",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "655",
+      "show_number": 654,
+      "date": "2015-09-24",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Tarrytown Music Hall",
+      "city": "Tarrytown",
+      "state": "NY"
+    },
+    {
+      "id": "601",
+      "show_number": 600,
+      "date": "2014-09-26",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "564",
+      "show_number": 563,
+      "date": "2014-02-01",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    }
+  ]
+}

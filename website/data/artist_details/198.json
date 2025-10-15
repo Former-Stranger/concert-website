@@ -1,0 +1,103 @@
+{
+  "id": "198",
+  "name": "Eric Church",
+  "concert_count": 6,
+  "top_songs": [
+    {
+      "name": "Cold One",
+      "times_played": 5
+    },
+    {
+      "name": "Creepin'",
+      "times_played": 5
+    },
+    {
+      "name": "Drink in My Hand",
+      "times_played": 5
+    },
+    {
+      "name": "Homeboy",
+      "times_played": 5
+    },
+    {
+      "name": "Talladega",
+      "times_played": 5
+    },
+    {
+      "name": "The Outsiders",
+      "times_played": 5
+    },
+    {
+      "name": "Pledge Allegiance to the Hag",
+      "times_played": 5
+    },
+    {
+      "name": "Smoke a Little Smoke",
+      "times_played": 5
+    },
+    {
+      "name": "Give Me Back My Hometown",
+      "times_played": 5
+    },
+    {
+      "name": "These Boots",
+      "times_played": 5
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1022",
+      "show_number": 1021,
+      "date": "2022-05-20",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "955",
+      "show_number": 954,
+      "date": "2019-11-02",
+      "festival_name": null,
+      "venue": "XL Center",
+      "city": "Hartford",
+      "state": "CT"
+    },
+    {
+      "id": "741",
+      "show_number": 740,
+      "date": "2017-01-27",
+      "festival_name": null,
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY"
+    },
+    {
+      "id": "621",
+      "show_number": 620,
+      "date": "2015-05-02",
+      "festival_name": null,
+      "venue": "Prudential Center",
+      "city": "Newark",
+      "state": "NJ"
+    },
+    {
+      "id": "605",
+      "show_number": 604,
+      "date": "2014-10-17",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "550",
+      "show_number": 549,
+      "date": "2013-08-10",
+      "festival_name": "Multi-Artist Show",
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    }
+  ]
+}

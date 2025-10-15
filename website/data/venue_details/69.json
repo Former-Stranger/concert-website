@@ -1,0 +1,23 @@
+{
+  "id": "69",
+  "name": "Highline Ballroom",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 2,
+  "concerts": [
+    {
+      "id": "789",
+      "show_number": 788,
+      "date": "2017-09-22",
+      "festival_name": null,
+      "artists": "Will Hoge"
+    },
+    {
+      "id": "588",
+      "show_number": 587,
+      "date": "2014-07-21",
+      "festival_name": null,
+      "artists": "Keith Urban"
+    }
+  ]
+}

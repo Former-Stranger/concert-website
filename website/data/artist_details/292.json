@@ -1,0 +1,26 @@
+{
+  "id": "292",
+  "name": "John Eddie",
+  "concert_count": 2,
+  "top_songs": [],
+  "concerts": [
+    {
+      "id": "582",
+      "show_number": 581,
+      "date": "2014-06-29",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Tappan Park",
+      "city": "Staten Island",
+      "state": "NY"
+    },
+    {
+      "id": "144",
+      "show_number": 143,
+      "date": "2001-10-19",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Count Basie Center for the Arts",
+      "city": "Red Bank",
+      "state": "NJ"
+    }
+  ]
+}

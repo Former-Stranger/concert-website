@@ -1,0 +1,30 @@
+{
+  "id": "173",
+  "name": "Towne Crier",
+  "city": "Beacon",
+  "state": "NY",
+  "concert_count": 3,
+  "concerts": [
+    {
+      "id": "390",
+      "show_number": 389,
+      "date": "2009-08-21",
+      "festival_name": null,
+      "artists": "Richie Havens"
+    },
+    {
+      "id": "246",
+      "show_number": 245,
+      "date": "2005-11-25",
+      "festival_name": null,
+      "artists": "Richie Havens"
+    },
+    {
+      "id": "55",
+      "show_number": 54,
+      "date": "1998-01-25",
+      "festival_name": null,
+      "artists": "Luther Guitar Johnson"
+    }
+  ]
+}

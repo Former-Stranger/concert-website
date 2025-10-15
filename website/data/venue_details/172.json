@@ -1,0 +1,30 @@
+{
+  "id": "172",
+  "name": "Total Mortgage Arena",
+  "city": "Bridgeport",
+  "state": "CT",
+  "concert_count": 3,
+  "concerts": [
+    {
+      "id": "699",
+      "show_number": 698,
+      "date": "2016-06-16",
+      "festival_name": null,
+      "artists": "Hall & Oates"
+    },
+    {
+      "id": "234",
+      "show_number": 233,
+      "date": "2005-07-20",
+      "festival_name": null,
+      "artists": "Bruce Springsteen"
+    },
+    {
+      "id": "201",
+      "show_number": 200,
+      "date": "2004-04-27",
+      "festival_name": null,
+      "artists": "Elton John"
+    }
+  ]
+}

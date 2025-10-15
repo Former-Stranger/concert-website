@@ -1,0 +1,103 @@
+{
+  "id": "601",
+  "name": "Tom Petty & the Heartbreakers",
+  "concert_count": 6,
+  "top_songs": [
+    {
+      "name": "Runnin' Down a Dream",
+      "times_played": 5
+    },
+    {
+      "name": "Mary Jane's Last Dance",
+      "times_played": 5
+    },
+    {
+      "name": "I Won't Back Down",
+      "times_played": 5
+    },
+    {
+      "name": "Listen to Her Heart",
+      "times_played": 5
+    },
+    {
+      "name": "You Don't Know How It Feels",
+      "times_played": 5
+    },
+    {
+      "name": "You Wreck Me",
+      "times_played": 5
+    },
+    {
+      "name": "Jammin' Me",
+      "times_played": 4
+    },
+    {
+      "name": "Swingin'",
+      "times_played": 4
+    },
+    {
+      "name": "I Don't Wanna Fight",
+      "times_played": 4
+    },
+    {
+      "name": "It's Good to Be King",
+      "times_played": 4
+    }
+  ],
+  "concerts": [
+    {
+      "id": "263",
+      "show_number": 262,
+      "date": "2006-06-20",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "87",
+      "show_number": 86,
+      "date": "1999-07-03",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "86",
+      "show_number": 85,
+      "date": "1999-06-30",
+      "festival_name": null,
+      "venue": "PNC Bank Arts Center",
+      "city": "Holmdel",
+      "state": "NJ"
+    },
+    {
+      "id": "83",
+      "show_number": 82,
+      "date": "1999-04-15",
+      "festival_name": null,
+      "venue": "Irving Plaza",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "82",
+      "show_number": 81,
+      "date": "1999-04-11",
+      "festival_name": null,
+      "venue": "Irving Plaza",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "10",
+      "show_number": 9,
+      "date": "1995-08-18",
+      "festival_name": null,
+      "venue": "The Meadowlands",
+      "city": "East Rutherford",
+      "state": "NJ"
+    }
+  ]
+}

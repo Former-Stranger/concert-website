@@ -1,0 +1,58 @@
+{
+  "id": "579",
+  "name": "The Other Ones",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Slipknot!",
+      "times_played": 2
+    },
+    {
+      "name": "Feel Like a Stranger",
+      "times_played": 1
+    },
+    {
+      "name": "Dire Wolf",
+      "times_played": 1
+    },
+    {
+      "name": "Only the Strange Remain",
+      "times_played": 1
+    },
+    {
+      "name": "Black-Throated Wind",
+      "times_played": 1
+    },
+    {
+      "name": "Eyes of the World",
+      "times_played": 1
+    },
+    {
+      "name": "New Speedway Boogie",
+      "times_played": 1
+    },
+    {
+      "name": "Mason's Children",
+      "times_played": 1
+    },
+    {
+      "name": "Unbroken Chain",
+      "times_played": 1
+    },
+    {
+      "name": "Big Boss Man",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "173",
+      "show_number": 172,
+      "date": "2002-11-22",
+      "festival_name": null,
+      "venue": "XL Center",
+      "city": "Hartford",
+      "state": "CT"
+    }
+  ]
+}

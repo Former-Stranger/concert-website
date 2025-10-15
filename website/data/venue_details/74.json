@@ -1,0 +1,23 @@
+{
+  "id": "74",
+  "name": "Iridium Jazz Club",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 2,
+  "concerts": [
+    {
+      "id": "569",
+      "show_number": 568,
+      "date": "2014-03-19",
+      "festival_name": null,
+      "artists": "Lee Dewyze"
+    },
+    {
+      "id": "568",
+      "show_number": 567,
+      "date": "2014-03-19",
+      "festival_name": null,
+      "artists": "Lee Dewyze"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "724",
+  "show_number": 723,
+  "date": "2016-09-23",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Brian Fallon",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Ryan Bingham",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/33fdd485.html",
+  "song_count": 14,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Atlantic City",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bruce Springsteen"
+    },
+    {
+      "position": 2,
+      "name": "Top Shelf Drug",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Tell My Mother I Miss Her So",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ryan Bingham & The Dead Horses"
+    },
+    {
+      "position": 4,
+      "name": "Depression",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ryan Bingham & The Dead Horses"
+    },
+    {
+      "position": 5,
+      "name": "Bluebird",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ryan Bingham & The Dead Horses"
+    },
+    {
+      "position": 6,
+      "name": "The Poet",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ryan Bingham & The Dead Horses"
+    },
+    {
+      "position": 7,
+      "name": "Dublin Blues",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Guy Clark"
+    },
+    {
+      "position": 8,
+      "name": "Nobody Knows My Trouble",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Whipping Post",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Allman Brothers Band"
+    },
+    {
+      "position": 10,
+      "name": "My Diamond Is Too Rough",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "Hard Times",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "Hallelujah",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ryan Bingham & The Dead Horses"
+    },
+    {
+      "position": 13,
+      "name": "Southside of Heaven",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Don't Think Twice, It's All Right",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Dylan"
+    }
+  ]
+}

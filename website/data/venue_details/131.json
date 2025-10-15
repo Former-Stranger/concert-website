@@ -1,0 +1,16 @@
+{
+  "id": "131",
+  "name": "Randall's Island Park",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "235",
+      "show_number": 234,
+      "date": "2005-07-30",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Dave Matthews Band, Barenaked Ladies"
+    }
+  ]
+}

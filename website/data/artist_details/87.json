@@ -1,0 +1,26 @@
+{
+  "id": "87",
+  "name": "Brothers Osbourne",
+  "concert_count": 2,
+  "top_songs": [],
+  "concerts": [
+    {
+      "id": "1012",
+      "show_number": 1011,
+      "date": "2022-03-23",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "893",
+      "show_number": 892,
+      "date": "2019-01-23",
+      "festival_name": null,
+      "venue": "Terminal 5",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

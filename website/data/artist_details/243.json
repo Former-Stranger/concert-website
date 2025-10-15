@@ -1,0 +1,76 @@
+{
+  "id": "243",
+  "name": "Hall & Oates",
+  "concert_count": 3,
+  "top_songs": [
+    {
+      "name": "Maneater",
+      "times_played": 1
+    },
+    {
+      "name": "Out of Touch",
+      "times_played": 1
+    },
+    {
+      "name": "Did It in a Minute",
+      "times_played": 1
+    },
+    {
+      "name": "Say It Isn't So",
+      "times_played": 1
+    },
+    {
+      "name": "You've Lost That Lovin' Feelin'",
+      "times_played": 1
+    },
+    {
+      "name": "Las Vegas Turnaround (The Stewardess Song)",
+      "times_played": 1
+    },
+    {
+      "name": "She's Gone",
+      "times_played": 1
+    },
+    {
+      "name": "Sara Smile",
+      "times_played": 1
+    },
+    {
+      "name": "Do What You Want, Be What You Are",
+      "times_played": 1
+    },
+    {
+      "name": "I Can't Go for That (No Can Do)",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "699",
+      "show_number": 698,
+      "date": "2016-06-16",
+      "festival_name": null,
+      "venue": "Total Mortgage Arena",
+      "city": "Bridgeport",
+      "state": "CT"
+    },
+    {
+      "id": "572",
+      "show_number": 571,
+      "date": "2014-04-10",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY"
+    },
+    {
+      "id": "219",
+      "show_number": 218,
+      "date": "2004-11-30",
+      "festival_name": null,
+      "venue": "Stamford Center for Arts",
+      "city": "Stamford",
+      "state": "CT"
+    }
+  ]
+}

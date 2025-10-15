@@ -1,0 +1,212 @@
+{
+  "id": "578",
+  "show_number": 577,
+  "date": "2014-06-10",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Radio City Music Hall",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Willie Nelson",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Alison Krauss",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Kacey Musgraves",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/3c0110f.html",
+  "song_count": 23,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Whiskey River",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Johnny Bush"
+    },
+    {
+      "position": 2,
+      "name": "Still Is Still Moving to Me",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Beer for My Horses",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Toby Keith"
+    },
+    {
+      "position": 4,
+      "name": "Good Hearted Woman",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Waylon Jennings"
+    },
+    {
+      "position": 5,
+      "name": "Mammas Don't Let Your Babies Grow Up to Be Cowboys",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ed Bruce"
+    },
+    {
+      "position": 6,
+      "name": "Funny How Time Slips Away",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Crazy",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Night Life",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Down Yonder",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "L. Wolfe Gilbert"
+    },
+    {
+      "position": 10,
+      "name": "Me and Paul",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "Help Me Make It Through the Night",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Kris Kristofferson"
+    },
+    {
+      "position": 12,
+      "name": "Shoeshine Man",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tom T. Hall"
+    },
+    {
+      "position": 13,
+      "name": "Angel Flying Too Close to the Ground",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "On the Road Again",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "You Were Always on My Mind",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Gwen McCrae"
+    },
+    {
+      "position": 16,
+      "name": "Band of Brothers",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "Georgia (on My Mind)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Hoagy Carmichael and His Orchestra"
+    },
+    {
+      "position": 18,
+      "name": "I Been to Georgia on a Fast Train",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joe Shaver"
+    },
+    {
+      "position": 19,
+      "name": "Nuages",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Quintette du Hot Club de France"
+    },
+    {
+      "position": 20,
+      "name": "Will the Circle Be Unbroken?",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "William MacEwan"
+    },
+    {
+      "position": 21,
+      "name": "I'll Fly Away",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Rev. J.M. Gates"
+    },
+    {
+      "position": 22,
+      "name": "Roll Me Up and Smoke Me When I Die",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 23,
+      "name": "I Saw the Light",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Hank Williams With His Drifting Cowboys"
+    }
+  ]
+}

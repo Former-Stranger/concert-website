@@ -1,0 +1,172 @@
+{
+  "id": "15",
+  "show_number": 14,
+  "date": "1996-03-12",
+  "festival_name": null,
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Allman Brothers Band",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/bda1dea.html",
+  "song_count": 19,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Statesboro Blues",
+      "set_name": "Set I",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Blind Willie McTell"
+    },
+    {
+      "position": 2,
+      "name": "You Don't Love Me",
+      "set_name": "Set I",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Willie Cobbs"
+    },
+    {
+      "position": 3,
+      "name": "Good Clean Fun",
+      "set_name": "Set I",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Blue Sky",
+      "set_name": "Set I",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Worried Down With the Blues",
+      "set_name": "Set I",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Gov\u2019t Mule"
+    },
+    {
+      "position": 6,
+      "name": "Stand Back",
+      "set_name": "Set I",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Midnight Rider",
+      "set_name": "Set I",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "End of the Line",
+      "set_name": "Set I",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Change My Way of Living",
+      "set_name": "Set I",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Jessica",
+      "set_name": "Set I",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "Don't Want You No More",
+      "set_name": "Set II",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Spencer Davis Group"
+    },
+    {
+      "position": 12,
+      "name": "It's Not My Cross to Bear",
+      "set_name": "Set II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Ain't Wastin' Time No More",
+      "set_name": "Set II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "I Know I Oughta Leave",
+      "set_name": "Set II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Dreams",
+      "set_name": "Set II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Back Where It All Begins",
+      "set_name": "Set II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "Southbound",
+      "set_name": "Set II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "One Way Out",
+      "set_name": "Set II",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Sonny Boy Williamson"
+    },
+    {
+      "position": 19,
+      "name": "Whipping Post",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

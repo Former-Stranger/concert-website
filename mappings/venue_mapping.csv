@@ -1,0 +1,264 @@
+original_name,canonical_name,short_name,city,state,venue_type,count,needs_review,notes
+Forest Hills,Forest Hills Stadium,Forest Hills,Forest Hills,NY,stadium,7,NO,"Forest Hills is in Forest Hills, NY. The Forest Hills Stadium"
+Forest HIlls,Forest Hills Stadium,Forest Hills,Forest Hills,NY,stadium,2,NO,Typo variation of Forest Hills 
+BB Kings,BB King Blues Club,BB Kings,New York,NY,club,3,NO,Closed venue - was in Times Square
+BB KIngs,BB King Blues Club,BB Kings,New York,NY,club,1,NO,Closed venue - was in Times Square
+MSG Theater,The Theater at Madison Square Garden,MSG Theater,New York,NY,theater,9,NO,Theater underneath MSG - separate from main arena
+Town Hall,The Town Hall,Town Hall,New York,NY,theater,9,NO,The Town Hall is a location in NYC
+Bridgeport Amphitheatre,Hartford HealthCare Amphitheater,Bridgeport,Bridgeport,CT,amphitheater,9,NO,Formerly Bridgeport Amphitheatre
+Times Union Center,MVP Arena,Times Union,Albany,NY,arena,8,NO,Formerly Times Union Center
+Today Show Plaza,Today Show Plaza at Rockefeller Center,Today Show,New York,NY,outdoor,8,NO,Outdoor plaza at 30 Rockefeller Plaza
+Irving Plaza,Irving Plaza,Irving Plaza,New York,NY,club,7,NO,Irving Plaza is a venue in NYC
+Walter Kerr,Walter Kerr Theatre,Walter Kerr,New York,NY,theater,7,NO,Broadway theater
+Terminal 5,Terminal 5,Terminal 5,New York,NY,club,6,NO,Terminal 5 is a venue in NYC. 
+Asbury Park Beach,Asbury Park Beach,Asbury Beach,Asbury Park,NJ,outdoor,6,NO,Asbury Park is a location in New Jersey. 
+Count Basie,Count Basie Center for the Arts,Count Basie,Red Bank,NJ,theater,5,NO,"Count Basie Center for the Arts is in Red Bank, NJ"
+Convention Hall,Convention Hall,Convention Hall,Asbury Park,NJ,arena,5,NO,"This is also in Asbury Park, NJ"
+Continental,Continental Airlines Arena,Continental,East Rutherford,NJ,arena,4,NO,Also known as Izod Center/Meadowlands Arena
+Peekskill,Paramount Hudson Valley Theater,Peekskill,Peekskill,NY,theater,4,NO,"This is a venue in Peekskill, NY. Not sure of the name of the venue. "
+Chelsea Piers,Chelsea Piers,Chelsea Piers,New York,NY,outdoor,4,NO,Sports and entertainment complex
+Carnegie Hall,Carnegie Hall,Carnegie Hall,New York,NY,theater,4,NO,This is Carnegie Hall in NYC. 
+Paramount Asbury,Paramount Theatre,Paramount,Asbury Park,NJ,theater,4,NO,"This is the Paramount Theater in Asbury Park, NJ"
+MSG,Madison Square Garden,MSG,New York,NY,arena,250,NO,Verified
+MSG ,Madison Square Garden,MSG,New York,NY,arena,2,NO,Verified
+Beacon,Beacon Theatre,Beacon,New York,NY,theater,37,NO,Verified
+Beacon ,Beacon Theatre,Beacon,New York,NY,theater,1,NO,Verified
+Radio City,Radio City Music Hall,Radio City,New York,NY,theater,22,NO,Verified
+Radio City ,Radio City Music Hall,Radio City,New York,NY,theater,1,NO,Verified
+Tarrytown Music Hall,Tarrytown Music Hall,Tarrytown,Tarrytown,NY,theater,19,NO,Verified
+Tarrytown  Music Hall,Tarrytown Music Hall,Tarrytown,Tarrytown,NY,theater,4,NO,Verified
+Izod,Izod Center,Izod,East Rutherford,NJ,arena,15,NO,Verified
+Izod ,Izod Center,Izod,East Rutherford,NJ,arena,1,NO,Verified
+Giants,Giants Stadium,Giants,East Rutherford,NJ,stadium,6,NO,Verified
+Giants ,Giants Stadium,Giants,East Rutherford,NJ,stadium,6,NO,Verified
+Westbury Music Fair,NYCB Theatre at Westbury,Westbury,Westbury,NY,theater,11,NO,Verified
+Westbury MUsic Fair,NYCB Theatre at Westbury,Westbury,Westbury,NY,theater,1,NO,Verified
+Meadowlands ,The Meadowlands,Meadows,East Rutherford,NJ,arena,1,NO,Verified
+Meadowlands,The Meadowlands,Meadows,East Rutherford,NJ,arena,1,NO,Verified
+XL Center ,XL Center,XL Center,Hartford,CT,arena,1,NO,Verified
+XL Center,XL Center,XL Center,Hartford,CT,arena,1,NO,Verified
+Jones Beach,Jones Beach Theater,Jones Beach,Wantagh,NY,amphitheater,100,NO,Verified
+Capitol Theater,Capitol Theatre,Capitol,Port Chester,NY,theater,50,NO,Verified
+Capitol Theatre,Capitol Theatre,Capitol,Port Chester,NY,theater,27,NO,Verified
+Metlife Stadium,MetLife Stadium,MetLife,East Rutherford,NJ,stadium,26,NO,Verified
+Metlife,MetLife Stadium,MetLife,East Rutherford,NJ,stadium,1,NO,Variation without Stadium
+Beacon Theater,Beacon Theatre,Beacon,New York,NY,theater,23,NO,Verified
+Ridgefield Playhouse,Ridgefield Playhouse,Ridgefield,Ridgefield,CT,theater,23,NO,Verified
+Citi Field,Citi Field,Citi Field,Queens,NY,stadium,23,NO,Verified
+Giants Stadium,Giants Stadium,Giants,East Rutherford,NJ,stadium,22,NO,Verified
+Nassau,Nassau Coliseum,Nassau,Uniondale,NY,arena,21,NO,Verified
+PNC,PNC Bank Arts Center,PNC,Holmdel,NJ,amphitheater,20,NO,Verified
+City Winery,City Winery,City Winery,New York,NY,club,16,NO,Verified
+Mohegan Sun,Mohegan Sun Arena,Mohegan Sun,Uncasville,CT,casino,15,NO,Verified
+Nassau Coliseum,Nassau Coliseum,Nassau,Uniondale,NY,arena,14,NO,Verified
+Prudential Center,Prudential Center,Prudential,Newark,NJ,arena,14,NO,Verified
+Barclays,Barclays Center,Barclays,Brooklyn,NY,arena,14,NO,Verified
+Barclays Center,Barclays Center,Barclays,Brooklyn,NY,arena,14,NO,Verified
+Hartford Civic Center,XL Center,XL Center,Hartford,CT,arena,13,NO,Verified
+Westbury,NYCB Theatre at Westbury,Westbury,Westbury,NY,theater,12,NO,Verified
+Radio City Music Hall,Radio City Music Hall,Radio City,New York,NY,theater,12,NO,Verified
+Meadows,The Meadowlands,Meadows,East Rutherford,NJ,arena,11,NO,Verified
+Izod Arena,Izod Center,Izod,East Rutherford,NJ,arena,11,NO,Verified
+Oakdale,Great South Bay Music Festival,Oakdale,Oakdale,NY,theater,10,NO,Verified
+UBS Arena,UBS Arena,UBS,Elmont,NY,arena,10,NO,Verified
+Beacon Theatre,Beacon Theatre,Beacon,New York,NY,theater,10,NO,Verified
+Citizens Bank Park,Citizens Bank Park,Citizens,Philadelphia,PA,stadium,4,NO,Correct
+Daryl's House,Daryl's House,Daryl's,Pawling,NY,club,4,NO,Correct
+Xfinity Center,Xfinity Center,Xfinity,Mansfield,MA,amphitheater,4,NO,Correct
+Yankee Stadium,Yankee Stadium,Yankee,Bronx,NY,stadium,4,NO,Correct
+Bowery,Bowery,Bowery,New York,NY,club,3,NO,Correct
+Bridgeport,Bridgeport,Bridgeport,Bridgeport,CT,amphitheater,3,NO,Correct
+Daryls House,Daryl's House,Daryl's,Pawling,NY,club,3,NO,Correct
+Gillette Stadium,Gillette Stadium,Gillette,Foxborough,MA,stadium,3,NO,Correct
+Gramercy Theater,Gramercy Theater,Gramercy,New York,NY,theater,3,NO,Correct
+Hammerstein,Hammerstein,Hammerstein,New York,NY,theater,3,NO,Correct
+Met Life Stadium,MetLife Stadium,MetLife,East Rutherford,NJ,stadium,3,NO,Correct
+Peekskill Paramount,Peekskill Paramount,Peekskill,Peekskill,NY,theater,3,NO,Correct
+Roseland,Roseland,Roseland,New York,NY,club,3,NO,Correct
+Shea Stadium,Shea Stadium,Shea,Queens,NY,stadium,3,NO,Correct
+Sony Hall,Sony Hall,Sony,New York,NY,theater,3,NO,Correct
+Sphere,Sphere,Sphere,Las Vegas,NV,arena,3,NO,Correct
+Stamford Center for Arts,Stamford Center for Arts,Stamford,Stamford,CT,theater,3,NO,Correct
+Stone Pony,Stone Pony,Stone,Asbury Park,NJ,club,3,NO,Correct
+Towne Crier,Towne Crier,Towne,Beacon,NY,club,3,NO,Correct
+Webster Hall,Webster Hall,Webster,New York,NY,club,3,NO,Correct
+Westchester County Center,Westchester County Center,Westchester,White Plains,NY,arena,3,NO,Correct
+Bethel Woods,Bethel Woods,Bethel,Bethel,NY,amphitheater,2,NO,"This is an ampitheater in Bethel, NY"
+Central Park,Central Park,Central,New York,NY,outdoor,2,NO,Correct
+Fleet Center,Fleet Center,Fleet,Boston,MA,arena,2,NO,The Fleet Center is now known as the TD Garden in Boston
+Westville Music Bowl,Westville Music Bowl,Westville,New Haven,CT,amphitheater,3,NO,At Yale University
+Albany Times Union Center,MVP Arena,MVP Arena,Albany,NY,arena,2,NO,Formerly Times Union Center
+Arena at Harbor Yard,Total Mortgage Arena,Harbor Yard,Bridgeport,CT,arena,2,NO,"This is a venue in Bridgeport, CT now known as Total mortgage Arena and previously known as Arena at Harbor Yard (2001Ð2011); Webster Bank Arena (2011Ð2022)"
+Best Buy Theater,Palladium Times Square,Best Buy,New York,NY,theater,2,NO,This is currently Palladium Times Square in NYC and was previously known as Nokia Theatre Times Square (2005Ð10); Best Buy Theater (2010Ð15); PlayStation Theater (2015Ð19)
+Caramoor,Caramoor Center for Music and the Arts,Caramoor,Katonah,NY,outdoor,2,NO,"Caramoor is a small venue in Katonah, NY"
+Citizens,Citizens Bank Park,Citizens,Philadelphia,PA,stadium,2,NO,I think this is Citizens Bank Park in Philadelphia. 
+Ford Amphitheater,Ford Amphitheater at Coney Island,Ford,Brooklyn,NY,amphitheater,2,NO,2 concerts
+Highline Ballroom,Highline Ballroom,Highline,New York,NY,club,2,NO,2 concerts
+Iridium,Iridium Jazz Club,Iridium,New York,NY,club,2,NO,2 concerts
+Ives Center,Ives Concert Park,Ives,Danbury,CT,arena,2,NO,2 concerts
+Kings Theatre,Kings Theatre,Kings,Brooklyn,NY,theater,2,NO,2 concerts
+Le Poisson Rouge,Le Poisson Rouge,Le,New York,NY,club,2,NO,2 concerts
+MSG - Paramount,Paramount Theater at MSG,Paramount,New York,NY,theater,2,NO,2 concerts
+NJPAC,New Jersey Performing Arts Center,New,Newark,NJ,theater,2,NO,2 concerts
+Neil Simon Theater,Neil Simon Theatre,Neil,New York,NY,theater,2,NO,2 concerts
+New Meadowlands,MetLife Stadium,MetLife,East Rutherford,NJ,stadium,2,NO,2 concerts
+Oakdale Theater,Oakdale Theatre,Oakdale,Wallingford,CT,theater,2,NO,2 concerts
+Paramount - Peekskill,Paramount Hudson Valley Theater,Paramount,Peekskill,NY,theater,2,NO,2 concerts
+Paramount Huntington,Paramount,Paramount,Huntington,NY,theater,2,NO,2 concerts
+Ridgefield,Ridgefield Playhouse,Ridgefield,Ridgefield,CT,theater,2,NO,2 concerts
+SPAC,Saratoga Performing Arts Center,Saratoga,Saratoga Springs,NY,amphitheater,2,NO,2 concerts
+St. James Theatre,St. James Theatre,St.,New York,NY,theater,2,NO,2 concerts
+Symphony Space,Symphony Space,Symphony,New York,NY,theater,2,NO,2 concerts
+Thunder Ridge,Thunder Ridge Ski Area,Thunder,Patterson,NY,amphitheater,2,NO,2 concerts
+Tilles Center,Tilles Center,Tilles,Brookville,NY,theater,2,NO,2 concerts
+Toads,Toad's Place,Toad's,New Haven,CT,club,2,NO,2 concerts
+Today Show,Today Show Plaza,Today,New York,NY,outdoor,2,NO,2 concerts
+Tweeter Center,Freedom Mortgage Pavilion,Freedom,Camden,NJ,amphitheater,2,NO,2 concerts
+Wachovia,Wells Fargo Center,Wells,Philadelphia,PA,arena,2,NO,2 concerts
+Webster Theater,Webster Theater,Webster,Hartford,CT,theater,2,NO,2 concerts
+Wells Fargo Arena,Wells Fargo Center,Wells,Philadelphia,PA,arena,2,NO,2 concerts
+Wonder Bar,Wonder Bar,Wonder,Asbury Park,NJ,club,2,NO,2 concerts
+92 Y,92nd Street Y,92nd,New York,NY,theater,1,NO,Verified via web search
+92Y,92nd Street Y,92nd,New York,NY,theater,1,NO,Verified via web search
+Amalie Arena (Tampa),Amalie Arena,Amalie,Tampa,FL,arena,1,NO,Verified via web search
+Amway Center (Orlando),Kia Center,Kia,Orlando,FL,arena,1,NO,Verified via web search
+Apollo Theater,Apollo Theater,Apollo,New York,NY,theater,1,NO,Verified via web search
+Atlanta Phillips Arena,State Farm Arena,State,Atlanta,GA,arena,1,NO,Verified via web search
+Bakkt Theater (Vegas),Bakkt Theater at Planet Hollywood,Bakkt,Las Vegas,NV,theater,1,NO,"Artist: Keith Urban, Date: 2023-11-01"
+Barcalys,Barclays Center,Barclays,Brooklyn,NY,arena,1,NO,"Artist: Keith Urban, Date: 2016-11-19"
+Bardavon Theatre,Bardavon Opera House,Bardavon,Poughkeepsie,NY,theater,1,NO,"Artist: Billy Gibbons, Date: 2025-02-10"
+Bell House Brooklyn,Bell House,Bell,Brooklyn,NY,club,1,NO,"Artist: Will Hoge, Date: 2013-10-16"
+Billy Bobs of Texas,Billy Bob's Texas,Billy,Fort Worth,TX,club,1,NO,Verified via web search
+Blue Note,Blue Note Jazz Club,Blue,New York,NY,club,1,NO,"Artist: Marcus King Trio (MonoNeon, Date: 2025-01-16"
+Bowery Electric,Bowery Electric,Bowery,New York,NY,club,1,NO,"Artist: Jesse Malin, Date: 2010-03-04"
+Bridgeport Harbor Yard,Hartford HealthCare Amphitheater,Hartford,Bridgeport,CT,amphitheater,1,NO,"Artist: Bob Dylan, Date: 2013-07-19"
+Broadway,Broadway Theatre,Broadway,New York,NY,theater,1,NO,Verified via web search
+Brooklyn Steel,Brooklyn Steel,Brooklyn,Brooklyn,NY,club,1,NO,"Artist: Ryan Bingham, Date: 2019-04-23"
+Bushnell Theater,Bushnell Center for the Performing Arts,Bushnell,Hartford,CT,theater,1,NO,"Artist: Joe Bonamassa, Date: 2016-11-21"
+CFG Baltimore,CFG Bank Arena,CFG,Baltimore,MD,arena,1,NO,Verified via web search
+Caesars Palace,Caesars Palace,Caesars,Las Vegas,NV,casino,1,NO,Verified via web search
+Camden Yards,Oriole Park at Camden Yards,Oriole,Baltimore,MD,stadium,1,NO,Verified via web search
+Capitol Theeatr,Capitol Theatre,Capitol,Port Chester,NY,theater,1,NO,High confidence match
+Central Park Great Lawn,Central Park,Central,New York,NY,outdoor,1,NO,Verified via web search
+Cherry Lane Theatre,Cherry Lane Theatre,Cherry,New York,NY,theater,1,NO,High confidence match
+Circle in Square,Circle in the Square Theatre,Circle,New York,NY,theater,1,NO,High confidence match
+Citizens Bank Stadium,Citizens Bank Park,Citizens,Philadelphia,PA,stadium,1,NO,Verified via web search
+City Vinyard,City Winery,City,New York,NY,club,1,NO,High confidence match
+City Winery HV,City Winery Hudson Valley,City,Montgomery,NY,club,1,NO,High confidence match
+City Winery NYC,City Winery,City,New York,NY,club,1,NO,High confidence match
+DCU Center,DCU Center,DCU,Worcester,MA,arena,1,NO,Verified via web search
+Damrosch Park Lincoln Center,Damrosch Park at Lincoln Center,Damrosch,New York,NY,outdoor,1,NO,High confidence match
+Dolby Live (Vegas),Dolby Live at Park MGM,Dolby,Las Vegas,NV,theater,1,NO,Verified via web search
+Eisenhower Hall,Eisenhower Hall Theatre,Eisenhower,West Point,NY,theater,1,NO,High confidence match
+Emelin Theater,Emelin Theatre,Emelin,Mamaroneck,NY,theater,1,NO,High confidence match
+Fenway,Fenway Park,Fenway,Boston,MA,stadium,1,NO,High confidence match
+Foxboro,Gillette Stadium,Gillette,Foxborough,MA,stadium,1,NO,High confidence match
+Late Night Studio,NBC Studios,NBC,New York,NY,tv_studio,1,NO,High confidence match
+Lincoln Center,Lincoln Center,Lincoln,New York,NY,theater,1,NO,High confidence match
+Electric Bowery,Bowery Electric,Bowery,New York,NY,club,1,NO,"Artist: Jesse Malin, Date: 2010-10-09"
+FYE,FYE,FYE,New York,NY,other,1,NO,"Artist: Jerry Lee Lewis, Date: 2006-09-26"
+Fairfield Stage One,Fairfield Stage One,Fairfield,Fairfield,CT,theater,1,NO,"Artist: Will Hoge, Date: 2018-09-22"
+Farmingville Amphitheater,Bald Hill Amphitheater,Bald,Farmingville,NY,amphitheater,1,NO,"Artist: Ringo Starr & His All Sarr Band, Date: 2019-08-17"
+Foxwoods,Foxwoods Resort Casino,Foxwoods,Mashantucket,CT,casino,1,NO,"Artist: Huey Lewis & the News, Date: 2003-03-02"
+Foxwoods Casino,Foxwoods Resort Casino,Foxwoods,Mashantucket,CT,casino,1,NO,"Artist: Weird Al Yankovic, Date: 2019-07-19"
+Ft. Adams,Fort Adams State Park,Fort,Newport,RI,outdoor,1,NO,"Artist: Newport Folk Festival: Sheryl Crow, Date: 2019-07-26"
+Garcia's,Garcia's at The Capitol Theatre,Garcia's,Port Chester,NY,club,1,NO,"Artist: Stella Blue's Band (acoustic), Date: 2024-10-26"
+Gibson Guitar Tent (Vegas),Gibson Guitar Tent (Vegas),Gibson,Las Vegas,NV,other,1,NO,"Artist: Peter Frampton, Date: 2008-01-08"
+Gramercy,Gramercy Theatre,Gramercy,New York,NY,theater,1,NO,"Artist: Lee DeWyze, Date: 2011-06-29"
+Grange Fair,Grange Fair,Grange,Yorktown Heights,NY,outdoor,1,NO,"Artist: Mountain, Date: 2003-09-06"
+Hammerstein Ballroom,Hammerstein Ballroom,Hammerstein,New York,NY,theater,1,NO,"Artist: John Fogerty, Date: 2007-11-02"
+Hard Rock NYC,Hard Rock Hotel New York,Hard,New York,NY,club,1,NO,"Artist: OAR, Date: 2019-04-05"
+Hartford,XL Center,XL,Hartford,CT,arena,1,NO,"Artist: Bruce Springsteen, Date: 2012-10-25"
+Hartford Covic Center,XL Center,XL,Hartford,CT,arena,1,NO,"Artist: Bruce Springsteen & the E Street Band, Date: 2009-04-24"
+Hill Country BBQ,Hill Country Live,Hill,New York,NY,club,1,NO,"Artist: Will Hoge, Date: 2022-04-01"
+"Hilton, Atlantic City",Hilton Atlantic City,Hilton,Atlantic City,NJ,hotel,1,NO,"Artist: Kenny Loggins, Date: 2001-07-22"
+House of Blues (Vegas),House of Blues,House,Las Vegas,NV,club,1,NO,"Artist: Santana, Date: 2023-11-05"
+"Ice Arena Tampa, FL","Ice Arena Tampa, FL",Ice,Tampa Bay,FL,stadium,1,NO,"Artist: Crosby, Date: 2000-03-11"
+Irish Pub of Cape Cod,Irish Pub,Irish,Cape Cod,MA,club,1,NO,"Artist: Clancy, Date: 2000-08-16"
+Irvington Town Hall,Irvington Theater,Irvington,Irvington,NY,theater,1,NO,"Artist: Roger McGuinn, Date: 2009-04-17"
+Jones Beacj,Jones Beach Theater,Jones,Wantagh,NY,amphitheater,1,NO,"Artist: Steve Miller Band, Date: 2008-07-11"
+Klein Theater Bridgeport,Klein Memorial Auditorium,Klein,Bridgeport,CT,theater,1,NO,"Artist: John Hiatt & Taj Mahal, Date: 2015-08-29"
+Lincoln Financial,Lincoln Financial Field,Lincoln,Philadelphia,PA,stadium,1,NO,"Artist: Kenny Chesney & Thomas Rhett & Old Dominion, Date: 2018-06-09"
+Livin For You,Jones Beach Theater,Jones,Wantagh,NY,amphitheater,1,NO,"Artist: Boston, Date: 1997-07-09"
+MSG Sphere (Vegas),Sphere,Sphere,Las Vegas,NV,arena,1,NO,"Artist: U2, Date: 2023-10-05"
+MSG Theather,The Theater at Madison Square Garden,The,New York,NY,theater,1,NO,"Artist: Bruce Springsteen: Stand Up For Heroes, Date: 2014-11-05"
+Manhattan Center,Hammerstein Ballroom,Hammerstein,New York,NY,theater,1,NO,"Artist: Kip Moore, Date: 2018-09-21"
+Mayo Performing Arts,Mayo Performing Arts Center,Mayo,Morristown,NJ,theater,1,NO,"Artist: Kip Moore, Date: 2019-10-19"
+Melody Tent,Cape Cod Melody Tent,Cape,Hyannis,MA,theater,1,NO,"Artist: Willie Nelson, Date: 1999-07-18"
+Melrose Ballroom,Melrose Ballroom,Melrose,Long Island City,NY,club,1,NO,"Artist: Steven Tyler, Date: 2015-09-10"
+Mercury Lounge,Mercury Lounge,Mercury,New York,NY,club,1,NO,"Artist: 53 Thieves, Date: 2024-04-04"
+Metroplitan Opera,Metropolitan Opera House,Metropolitan,New York,NY,theater,1,NO,"Artist: Sting with Philharmonic, Date: 2010-07-13"
+Mid Hudson Civic Center,Mid-Hudson Civic Center,Mid-Hudson,Poughkeepsie,NY,arena,1,NO,"Artist: Bob Dylan, Date: 1996-05-01"
+Mill Hill Club,Mill Hill Club,Mill,West Yarmouth,MA,club,1,NO,"Artist: John Valby, Date: 1999-07-19"
+Minetta Lane,Minetta Lane Theatre,Minetta,New York,NY,theater,1,NO,"Artist: Tom Morello, Date: 2019-09-20"
+"Montage Mt, Scranton PA",Montage Mountain Amphitheater,Montage,Scranton,PA,amphitheater,1,NO,"Artist: Tom Petty & the Heartbreakers & Brian Setzer Trio, Date: 2002-07-13"
+Morristown Theater,Morristown Theater,Morristown,Morristown,NJ,theater,1,NO,"Artist: John Hiatt & Lyle Lovett, Date: 2009-02-08"
+Mulcahey,Mulcahy's Pub,Mulcahy's,Wantagh,NY,club,1,NO,"Artist: Dickey Betts & Great Southern, Date: 2002-08-03"
+NBC Plaza,Rockefeller Plaza,Rockefeller,New York,NY,outdoor,1,NO,"Artist: Kenny Chesney, Date: 2012-06-22"
+Nasau,Nassau Coliseum,Nassau,Uniondale,NY,arena,1,NO,"Artist: Elton John, Date: 2022-03-06"
+New Haven Coliseum,New Haven Coliseum,New,New Haven,CT,arena,1,NO,"Artist: Bob Dylan and Phil Lesh & Friends, Date: 1999-11-10"
+Newark,Prudential Center,Prudential,Newark,NJ,arena,1,NO,"Artist: Eagles, Date: 2018-10-12"
+"Newark, NJ",Prudential Center,Prudential,Newark,NJ,arena,1,NO,"Artist: Tom Petty & the Heartbreakers, Date: 2017-06-16"
+O'Neill Center,O'Neill Theater Center,O'Neill,Waterford,CT,theater,1,NO,"Artist: The Wallflowers, Date: 1997-11-23"
+OMaha (Qwest Center),CHI Health Center,CHI,Omaha,NE,arena,1,NO,"Artist: Green Day, Date: 2005-05-15"
+OMaha Qwest Center,CHI Health Center,CHI,Omaha,NE,arena,1,NO,"Artist: John Mellencamp, Date: 2005-04-01"
+Opry City Stage,Opry City Stage,Opry,New York,NY,club,1,NO,"Artist: Vince Gill, Date: 2018-01-26"
+Ossining Library,Ossining Public Library,Ossining,Ossining,NY,theater,1,NO,"Artist: Willie Nile, Date: 2015-05-17"
+Outpost at Burbs,Outpost in the Burbs,Outpost,Montclair,NJ,club,1,NO,"Artist: Richard Thompson, Date: 2019-05-11"
+PNC Bank,PNC Park,PNC,Pittsburgh,PA,stadium,1,NO,"Artist: Govt Mule and JBLZE, Date: 2023-08-19"
+Palace Theatre Stamford,Palace Theatre,Palace,Stamford,CT,theater,1,NO,"Artist: Lady A, Date: 2024-04-05"
+Paramount,Paramount Theatre,Paramount,Asbury Park,NJ,theater,1,NO,"This is the Paramount Theater in Asbury, NJ. There should be other shows at this venue"
+Paramount Asbury (Rehearsal),Paramount Theatre,Paramount,Asbury Park,NJ,theater,1,NO,"Artist: Bruce Springsteen & the E Street Band, Date: 2007-09-24"
+Paramount Peekskill,Paramount Hudson Valley Theater,Paramount,Peekskill,NY,theater,1,NO,"Artist: Tommy Emmanuel w. Larry Campbell & Teresa Williams, Date: 2023-09-15"
+Patchogue Theatre,Patchogue Theatre,Patchogue,Patchogue,NY,theater,1,NO,"Artist: Colin Hay, Date: 2024-04-13"
+Phildelphia,Phildelphia,Phildelphia,Philadelphia,PA,stadium,1,NO,"Artist: Tom Petty & the Heartbreakers, Date: 2017-07-01"
+Pier 17,The Rooftop at Pier 17,The,New York,NY,outdoor,1,NO,"Artist: Billy Currington, Date: 2024-06-22"
+Pier A - Hoboken,Pier A Park,Pier,Hoboken,NJ,outdoor,1,NO,"Artist: Mumford and Sons with Dawes, Date: 2012-08-01"
+Play Group Theatre,Play Group Theatre,Play,White Plains,NY,theater,1,NO,"Artist: Candlelight Concerts:  Beatles, Date: 2024-11-16"
+Playstatio Theater,Palladium Times Square,Palladium,New York,NY,theater,1,NO,"Artist: Little Steven, Date: 2018-05-02"
+Playstation Theater,Palladium Times Square,Palladium,New York,NY,theater,1,NO,"Artist: All for Hall: Vince Gill, Date: 2018-02-13"
+Pleasantville Park,Pleasantville Park,Pleasantville,Pleasantville,NY,outdoor,1,NO,"Artist: Jakob Dylan, Date: 2010-07-10"
+Portchester,Capitol Theatre,Capitol,Port Chester,NY,theater,1,NO,"Artist: Weird Al Yankovic, Date: 2013-06-02"
+Portchster,Capitol Theatre,Capitol,Port Chester,NY,theater,1,NO,"Artist: John Hiatt & Lyle Lovett, Date: 2015-04-30"
+Purchase,SUNY Purchase,SUNY,Purchase,NY,theater,1,NO,"Artist: Crosby & Nash, Date: 2008-10-16"
+QU,Quinnipiac University,Quinnipiac,Hamden,CT,arena,1,NO,"Artist: Guster, Date: 2003-04-25"
+Queens College,Queens College,Queens,Queens,NY,theater,1,NO,"Artist: Fab Faux, Date: 2008-11-08"
+Radio City (Hillary),Radio City Music Hall,Radio,New York,NY,theater,1,NO,"Artist: Elton John, Date: 2008-04-09"
+Randall's Island,Randall's Island Park,Randall's,New York,NY,outdoor,1,NO,"Artist: Dave Matthews Band & Barenaked Ladies, Date: 2005-07-30"
+Red Rocks,Red Rocks Amphitheatre,Red,Morrison,CO,amphitheater,1,NO,"Artist: Brantley Gilbert with Justin Moore and Colt Ford, Date: 2016-10-14"
+Ridgefiled Playhouse Field,Ridgefield Playhouse,Ridgefield,Ridgefield,CT,theater,1,NO,"Artist: Tedeschi Trucks Band, Date: 2021-07-13"
+Riviera Chicago,Riviera Theatre,Riviera,Chicago,IL,theater,1,NO,"Artist: Noel Gallagher's High Flying Birds, Date: 2012-04-03"
+Rockefeller Plaza,Rockefeller Plaza,Rockefeller,New York,NY,outdoor,1,NO,"Artist: Keith Urban, Date: 2022-06-30"
+Rockin River Cruise,Rockin River Cruise,Rockin,New York,NY,outdoor,1,NO,"Artist: John Hiatt, Date: 2008-08-07"
+Rumsey Playfield,Rumsey Playfield,Rumsey,New York,NY,outdoor,1,NO,"Artist: Warren Haynes Jerry Symphonny, Date: 2016-08-08"
+Saratoga,Saratoga Performing Arts Center,Saratoga,Saratoga Springs,NY,amphitheater,1,NO,"Artist: Mumford & Sons, Date: 2025-06-21"
+Schottenstein Center,Schottenstein Center,Schottenstein,Columbus,OH,arena,1,NO,"Artist: Bruce Springsteen & the E Street Band, Date: 2002-12-16"
+Social Club,SubCulture,SubCulture,New York,NY,club,1,NO,"Artist: Lee Dewyze, Date: 2015-04-10"
+Southhampton College,Stony Brook Southampton,Stony,Southampton,NY,outdoor,1,NO,"Artist: Jimmy Buffett, Date: 2000-07-31"
+Stage 48,Stage 48,Stage,New York,NY,club,1,NO,"Artist: Keith Urban, Date: 2016-05-04"
+Stamford Center,Stamford Center for the Arts,Stamford,Stamford,CT,theater,1,NO,"Artist: Joe Bonamassa, Date: 2010-11-12"
+Stamford Center for the Arts,Stamford Center for the Arts,Stamford,Stamford,CT,theater,1,NO,"Artist: Ian Anderson & Orchestra, Date: 2006-10-23"
+Stubbs BBQ,Stubb's Bar-B-Q,Stubb's,Austin,TX,club,1,NO,"Artist: Govt Mule, Date: 2019-08-13"
+Studio 6H,Studio 6H at 30 Rock,Studio,New York,NY,tv_studio,1,NO,"Artist: Bruce Springsteen & the E Street Band, Date: 2014-01-14"
+Tanner Park,Tanner Park,Tanner,Copiague,NY,outdoor,1,NO,"Artist: Max Weinberg, Date: 2018-07-13"
+Tappan Park,Tappan Park,Tappan,Staten Island,NY,outdoor,1,NO,"Artist: Rockland Bergen: Willie Nile, Date: 2014-06-29"
+Tarrytown,Tarrytown Music Hall,Tarrytown,Tarrytown,NY,theater,1,NO,"Artist: Weird Al Yankovic, Date: 2018-03-01"
+The Metroplitan Opera,Metropolitan Opera House,Metropolitan,New York,NY,theater,1,NO,"Artist: Pete Townshend / Quadrophenia, Date: 2017-09-09"
+The Saint Asbury Park,The Saint Asbury Park,The,Asbury Park,NJ,theater,1,NO,"Artist: Will Hoge, Date: 2016-08-12"
+Times Square,Times Square,Times,New York,NY,outdoor,1,NO,"Artist: Bruce Springsteen with U2, Date: 2014-12-01"
+Towne Crier Cafe,Towne Crier Cafe,Towne,Beacon,NY,club,1,NO,"Artist: Christopher Robin Band, Date: 2010-08-13"
+Towne Criere,Towne Crier Cafe,Towne,Beacon,NY,club,1,NO,"Artist: Richie Havens, Date: 2006-11-24"
+"Trump MArina, Atlantic City",Trump Marina,Trump,Atlantic City,NJ,casino,1,NO,"Artist: Lynyrd Skynyrd, Date: 2001-05-26"
+Turning Point,Turning Point,Turning,Piermont,NY,club,1,NO,"Artist: Richie Havens, Date: 1998-05-13"
+US Open Tennis Stadium,Arthur Ashe Stadium,Arthur,Queens,NY,stadium,1,NO,"Artist: Dierks Bentley, Date: 2024-08-18"
+USA Upfront,USA Upfront,USA,New York,NY,other,1,NO,"Artist: Passion Pit, Date: 2013-05-16"
+United Palace Theater,United Palace Theatre,United,New York,NY,theater,1,NO,"Artist: Allman Brothers Band, Date: 2010-03-12"
+Universal Florida,Universal Studios Florida,Universal,Orlando,FL,outdoor,1,NO,"Artist: Creedence Clearwater Revisited (Doug Clifford & Stu Cook), Date: 1999-03-14"
+Verizon Center (NH),SNHU Arena,SNHU,Manchester,NH,arena,1,NO,"Artist: Green Day, Date: 2005-04-29"
+Wachovia Center,Wells Fargo Center,Wells,Philadelphia,PA,arena,1,NO,"Artist: Bruce Springsteen & the E Street Band, Date: 2002-10-06"
+Wall Street,Broad Street Ballroom,Broad,New York,NY,club,1,NO,"Artist: The Band, Date: 1996-07-04"
+Webster,Webster Hall,Webster,New York,NY,club,1,NO,"Artist: Ryan Bingham, Date: 2012-10-18"
+Wester Bank Arena,Total Mortgage Arena,Total,Bridgeport,CT,arena,1,NO,"Artist: Hall & Oates, Date: 2016-06-16"
+Xfinity Hartford,Xfinity Theatre,Xfinity,Hartford,CT,amphitheater,1,NO,"Artist: Chris Stapleton, Date: 2017-07-15"
+Yonkers,Yonkers,Yonkers,Yonkers,NY,other,1,NO,"Artist: Southside Johnny & the Asbury Jukes, Date: 2006-09-30"
+Yorktown heights FDR Park,FDR State Park,FDR,Yorktown Heights,NY,outdoor,1,NO,"Artist: Richie Havens, Date: 2007-06-03"

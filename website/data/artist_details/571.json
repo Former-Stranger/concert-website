@@ -1,0 +1,67 @@
+{
+  "id": "571",
+  "name": "The Dukes with The Mastersons",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "Copperhead Road",
+      "times_played": 2
+    },
+    {
+      "name": "My Old Friend the Blues",
+      "times_played": 2
+    },
+    {
+      "name": "Someday",
+      "times_played": 2
+    },
+    {
+      "name": "Guitar Town",
+      "times_played": 2
+    },
+    {
+      "name": "The Galway Girl",
+      "times_played": 2
+    },
+    {
+      "name": "Hey Joe",
+      "times_played": 2
+    },
+    {
+      "name": "Snake Oil",
+      "times_played": 1
+    },
+    {
+      "name": "Back to the Wall",
+      "times_played": 1
+    },
+    {
+      "name": "The Devil's Right Hand",
+      "times_played": 1
+    },
+    {
+      "name": "Johnny Come Lately",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "821",
+      "show_number": 820,
+      "date": "2018-04-15",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Paramount Hudson Valley Theater",
+      "city": "Peekskill",
+      "state": "NY"
+    },
+    {
+      "id": "655",
+      "show_number": 654,
+      "date": "2015-09-24",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Tarrytown Music Hall",
+      "city": "Tarrytown",
+      "state": "NY"
+    }
+  ]
+}

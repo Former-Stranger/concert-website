@@ -1,0 +1,58 @@
+{
+  "id": "170",
+  "name": "Dickey Betts Band",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Rave On",
+      "times_played": 1
+    },
+    {
+      "name": "Ramblin' Man",
+      "times_played": 1
+    },
+    {
+      "name": "Blue Sky",
+      "times_played": 1
+    },
+    {
+      "name": "Seven Turns",
+      "times_played": 1
+    },
+    {
+      "name": "Southbound",
+      "times_played": 1
+    },
+    {
+      "name": "Jessica",
+      "times_played": 1
+    },
+    {
+      "name": "Nobody Knows",
+      "times_played": 1
+    },
+    {
+      "name": "In Memory of Elizabeth Reed",
+      "times_played": 1
+    },
+    {
+      "name": "Back Where It All Begins",
+      "times_played": 1
+    },
+    {
+      "name": "No One to Run With",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "117",
+      "show_number": 116,
+      "date": "2000-09-23",
+      "festival_name": null,
+      "venue": "Webster Theater",
+      "city": "Hartford",
+      "state": "CT"
+    }
+  ]
+}

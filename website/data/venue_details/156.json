@@ -1,0 +1,23 @@
+{
+  "id": "156",
+  "name": "Symphony Space",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 2,
+  "concerts": [
+    {
+      "id": "1075",
+      "show_number": 1074,
+      "date": "2022-12-15",
+      "festival_name": null,
+      "artists": "Richard Thompson"
+    },
+    {
+      "id": "968",
+      "show_number": 967,
+      "date": "2020-02-08",
+      "festival_name": null,
+      "artists": "Richard Thompson"
+    }
+  ]
+}

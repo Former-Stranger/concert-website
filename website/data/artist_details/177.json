@@ -1,0 +1,121 @@
+{
+  "id": "177",
+  "name": "Doobie Brothers",
+  "concert_count": 8,
+  "top_songs": [
+    {
+      "name": "Jesus Is Just Alright",
+      "times_played": 3
+    },
+    {
+      "name": "Rockin' Down the Highway",
+      "times_played": 3
+    },
+    {
+      "name": "Dependin' on You",
+      "times_played": 3
+    },
+    {
+      "name": "Clear as the Driven Snow",
+      "times_played": 3
+    },
+    {
+      "name": "World Gone Crazy",
+      "times_played": 3
+    },
+    {
+      "name": "Eyes of Silver",
+      "times_played": 3
+    },
+    {
+      "name": "Takin' It to the Streets",
+      "times_played": 3
+    },
+    {
+      "name": "Black Water",
+      "times_played": 3
+    },
+    {
+      "name": "Long Train Runnin'",
+      "times_played": 3
+    },
+    {
+      "name": "China Grove",
+      "times_played": 3
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1275",
+      "show_number": 1274,
+      "date": "2025-08-10",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "1258",
+      "show_number": 1257,
+      "date": "2025-06-06",
+      "festival_name": null,
+      "venue": "Irving Plaza",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "1201",
+      "show_number": 1200,
+      "date": "2024-09-30",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "1185",
+      "show_number": 1184,
+      "date": "2024-08-07",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "1030",
+      "show_number": 1029,
+      "date": "2022-06-21",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "654",
+      "show_number": 653,
+      "date": "2015-09-18",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "458",
+      "show_number": 457,
+      "date": "2010-11-19",
+      "festival_name": null,
+      "venue": "NYCB Theatre at Westbury",
+      "city": "Westbury",
+      "state": "NY"
+    },
+    {
+      "id": "308",
+      "show_number": 307,
+      "date": "2007-07-28",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    }
+  ]
+}

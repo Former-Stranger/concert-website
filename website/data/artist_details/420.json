@@ -1,0 +1,112 @@
+{
+  "id": "420",
+  "name": "Paul Simon",
+  "concert_count": 7,
+  "top_songs": [
+    {
+      "name": "Graceland",
+      "times_played": 4
+    },
+    {
+      "name": "Me and Julio Down by the Schoolyard",
+      "times_played": 4
+    },
+    {
+      "name": "Diamonds on the Soles of Her Shoes",
+      "times_played": 4
+    },
+    {
+      "name": "You Can Call Me Al",
+      "times_played": 4
+    },
+    {
+      "name": "The Boy in the Bubble",
+      "times_played": 4
+    },
+    {
+      "name": "Late in the Evening",
+      "times_played": 4
+    },
+    {
+      "name": "Still Crazy After All These Years",
+      "times_played": 4
+    },
+    {
+      "name": "The Boxer",
+      "times_played": 4
+    },
+    {
+      "name": "Bridge Over Troubled Water",
+      "times_played": 4
+    },
+    {
+      "name": "50 Ways to Leave Your Lover",
+      "times_played": 3
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1261",
+      "show_number": 1260,
+      "date": "2025-06-18",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "863",
+      "show_number": 862,
+      "date": "2018-09-20",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "567",
+      "show_number": 566,
+      "date": "2014-03-06",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "408",
+      "show_number": 407,
+      "date": "2009-11-13",
+      "festival_name": null,
+      "venue": "Chelsea Piers",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "403",
+      "show_number": 402,
+      "date": "2009-10-29",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "137",
+      "show_number": 136,
+      "date": "2001-07-20",
+      "festival_name": "Multi-Artist Show",
+      "venue": "PNC Bank Arts Center",
+      "city": "Holmdel",
+      "state": "NJ"
+    },
+    {
+      "id": "92",
+      "show_number": 91,
+      "date": "1999-07-27",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

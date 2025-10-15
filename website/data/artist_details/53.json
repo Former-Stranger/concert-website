@@ -1,0 +1,139 @@
+{
+  "id": "53",
+  "name": "Black Crowes",
+  "concert_count": 10,
+  "top_songs": [
+    {
+      "name": "Thorn in My Pride",
+      "times_played": 7
+    },
+    {
+      "name": "Remedy",
+      "times_played": 7
+    },
+    {
+      "name": "Twice as Hard",
+      "times_played": 6
+    },
+    {
+      "name": "Jealous Again",
+      "times_played": 6
+    },
+    {
+      "name": "My Morning Song",
+      "times_played": 5
+    },
+    {
+      "name": "Sister Luck",
+      "times_played": 4
+    },
+    {
+      "name": "Seeing Things",
+      "times_played": 4
+    },
+    {
+      "name": "Hard to Handle",
+      "times_played": 4
+    },
+    {
+      "name": "She Talks to Angels",
+      "times_played": 4
+    },
+    {
+      "name": "No Speak No Slave",
+      "times_played": 4
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1227",
+      "show_number": 1226,
+      "date": "2024-12-22",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "1196",
+      "show_number": 1195,
+      "date": "2024-09-14",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Asbury Park Beach",
+      "city": "Asbury Park",
+      "state": "NJ"
+    },
+    {
+      "id": "1160",
+      "show_number": 1159,
+      "date": "2024-04-27",
+      "festival_name": null,
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "1113",
+      "show_number": 1112,
+      "date": "2023-09-09",
+      "festival_name": "Multi-Artist Show",
+      "venue": "UBS Arena",
+      "city": "Elmont",
+      "state": "NY"
+    },
+    {
+      "id": "1031",
+      "show_number": 1030,
+      "date": "2022-06-27",
+      "festival_name": null,
+      "venue": "Hartford HealthCare Amphitheater",
+      "city": "Bridgeport",
+      "state": "CT"
+    },
+    {
+      "id": "976",
+      "show_number": 975,
+      "date": "2021-07-25",
+      "festival_name": null,
+      "venue": "Xfinity Center",
+      "city": "Mansfield",
+      "state": "MA"
+    },
+    {
+      "id": "423",
+      "show_number": 422,
+      "date": "2010-06-02",
+      "festival_name": null,
+      "venue": "NYCB Theatre at Westbury",
+      "city": "Westbury",
+      "state": "NY"
+    },
+    {
+      "id": "310",
+      "show_number": 309,
+      "date": "2007-08-09",
+      "festival_name": null,
+      "venue": "Central Park",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "128",
+      "show_number": 127,
+      "date": "2001-06-08",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "79",
+      "show_number": 78,
+      "date": "1999-02-28",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

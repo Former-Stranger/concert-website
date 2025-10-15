@@ -1,0 +1,16 @@
+{
+  "id": "70",
+  "name": "Hill Country Live",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "1014",
+      "show_number": 1013,
+      "date": "2022-04-01",
+      "festival_name": null,
+      "artists": "Will Hoge"
+    }
+  ]
+}

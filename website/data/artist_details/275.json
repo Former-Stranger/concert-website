@@ -1,0 +1,67 @@
+{
+  "id": "275",
+  "name": "Jethro Tull",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "Aqualung",
+      "times_played": 2
+    },
+    {
+      "name": "Thick as a Brick",
+      "times_played": 2
+    },
+    {
+      "name": "Bourr\u00e9e in E minor",
+      "times_played": 2
+    },
+    {
+      "name": "Mis\u00e8re",
+      "times_played": 2
+    },
+    {
+      "name": "My God",
+      "times_played": 2
+    },
+    {
+      "name": "Nothing Is Easy",
+      "times_played": 2
+    },
+    {
+      "name": "Locomotive Breath",
+      "times_played": 2
+    },
+    {
+      "name": "Living in the Past",
+      "times_played": 2
+    },
+    {
+      "name": "A Song for Jeffrey",
+      "times_played": 1
+    },
+    {
+      "name": "Dangerous Veils",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "327",
+      "show_number": 326,
+      "date": "2007-12-01",
+      "festival_name": null,
+      "venue": "Great South Bay Music Festival",
+      "city": "Oakdale",
+      "state": "NY"
+    },
+    {
+      "id": "49",
+      "show_number": 48,
+      "date": "1997-08-08",
+      "festival_name": null,
+      "venue": "Great South Bay Music Festival",
+      "city": "Oakdale",
+      "state": "NY"
+    }
+  ]
+}

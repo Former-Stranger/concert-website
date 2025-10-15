@@ -1,0 +1,103 @@
+{
+  "id": "119",
+  "name": "Chris Stapleton",
+  "concert_count": 6,
+  "top_songs": [
+    {
+      "name": "Nobody to Blame",
+      "times_played": 4
+    },
+    {
+      "name": "Parachute",
+      "times_played": 4
+    },
+    {
+      "name": "Second One to Know",
+      "times_played": 4
+    },
+    {
+      "name": "Hard Livin'",
+      "times_played": 4
+    },
+    {
+      "name": "Traveller",
+      "times_played": 4
+    },
+    {
+      "name": "Midnight Train to Memphis",
+      "times_played": 4
+    },
+    {
+      "name": "Might as Well Get Stoned",
+      "times_played": 4
+    },
+    {
+      "name": "Fire Away",
+      "times_played": 4
+    },
+    {
+      "name": "Broken Halos",
+      "times_played": 4
+    },
+    {
+      "name": "Tennessee Whiskey",
+      "times_played": 4
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1269",
+      "show_number": 1268,
+      "date": "2025-07-25",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "1262",
+      "show_number": 1261,
+      "date": "2025-06-20",
+      "festival_name": null,
+      "venue": "MVP Arena",
+      "city": "Albany",
+      "state": "NY"
+    },
+    {
+      "id": "1050",
+      "show_number": 1049,
+      "date": "2022-08-25",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "993",
+      "show_number": 992,
+      "date": "2021-10-08",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "879",
+      "show_number": 878,
+      "date": "2018-11-02",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "767",
+      "show_number": 766,
+      "date": "2017-07-15",
+      "festival_name": null,
+      "venue": "Xfinity Theatre",
+      "city": "Hartford",
+      "state": "CT"
+    }
+  ]
+}

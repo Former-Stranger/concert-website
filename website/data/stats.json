@@ -1,0 +1,222 @@
+{
+  "total_concerts": 1270,
+  "concerts_with_setlists": 1199,
+  "total_songs": 17362,
+  "total_artists": 612,
+  "total_venues": 192,
+  "top_artists": [
+    {
+      "name": "Billy Joel",
+      "count": 73
+    },
+    {
+      "name": "Bruce Springsteen & the E Street Band",
+      "count": 72
+    },
+    {
+      "name": "Bruce Springsteen",
+      "count": 34
+    },
+    {
+      "name": "Elton John",
+      "count": 33
+    },
+    {
+      "name": "John Hiatt",
+      "count": 24
+    },
+    {
+      "name": "Dave Matthews Band",
+      "count": 22
+    },
+    {
+      "name": "Jimmy Buffett",
+      "count": 22
+    },
+    {
+      "name": "Allman Brothers Band",
+      "count": 19
+    },
+    {
+      "name": "Bon Jovi",
+      "count": 19
+    },
+    {
+      "name": "Company",
+      "count": 19
+    }
+  ],
+  "top_venues": [
+    {
+      "name": "Madison Square Garden",
+      "count": 249
+    },
+    {
+      "name": "Jones Beach Theater",
+      "count": 100
+    },
+    {
+      "name": "Capitol Theatre",
+      "count": 78
+    },
+    {
+      "name": "Beacon Theatre",
+      "count": 70
+    },
+    {
+      "name": "Nassau Coliseum",
+      "count": 36
+    },
+    {
+      "name": "Radio City Music Hall",
+      "count": 36
+    },
+    {
+      "name": "Giants Stadium",
+      "count": 34
+    },
+    {
+      "name": "MetLife Stadium",
+      "count": 31
+    },
+    {
+      "name": "Barclays Center",
+      "count": 28
+    },
+    {
+      "name": "Izod Center",
+      "count": 27
+    }
+  ],
+  "concerts_by_year": [
+    {
+      "year": 2025,
+      "count": 45
+    },
+    {
+      "year": 2024,
+      "count": 91
+    },
+    {
+      "year": 2023,
+      "count": 64
+    },
+    {
+      "year": 2022,
+      "count": 71
+    },
+    {
+      "year": 2021,
+      "count": 32
+    },
+    {
+      "year": 2020,
+      "count": 5
+    },
+    {
+      "year": 2019,
+      "count": 76
+    },
+    {
+      "year": 2018,
+      "count": 85
+    },
+    {
+      "year": 2017,
+      "count": 69
+    },
+    {
+      "year": 2016,
+      "count": 73
+    },
+    {
+      "year": 2015,
+      "count": 52
+    },
+    {
+      "year": 2014,
+      "count": 56
+    },
+    {
+      "year": 2013,
+      "count": 28
+    },
+    {
+      "year": 2012,
+      "count": 30
+    },
+    {
+      "year": 2011,
+      "count": 38
+    },
+    {
+      "year": 2010,
+      "count": 53
+    },
+    {
+      "year": 2009,
+      "count": 41
+    },
+    {
+      "year": 2008,
+      "count": 38
+    },
+    {
+      "year": 2007,
+      "count": 38
+    },
+    {
+      "year": 2006,
+      "count": 40
+    },
+    {
+      "year": 2005,
+      "count": 30
+    },
+    {
+      "year": 2004,
+      "count": 22
+    },
+    {
+      "year": 2003,
+      "count": 20
+    },
+    {
+      "year": 2002,
+      "count": 28
+    },
+    {
+      "year": 2001,
+      "count": 28
+    },
+    {
+      "year": 2000,
+      "count": 23
+    },
+    {
+      "year": 1999,
+      "count": 20
+    },
+    {
+      "year": 1998,
+      "count": 24
+    },
+    {
+      "year": 1997,
+      "count": 20
+    },
+    {
+      "year": 1996,
+      "count": 20
+    },
+    {
+      "year": 1995,
+      "count": 6
+    },
+    {
+      "year": 1994,
+      "count": 4
+    }
+  ],
+  "generated_at": "2025-10-14T20:53:13.851260"
+}

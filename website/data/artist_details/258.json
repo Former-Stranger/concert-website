@@ -1,0 +1,17 @@
+{
+  "id": "258",
+  "name": "Jack White",
+  "concert_count": 1,
+  "top_songs": [],
+  "concerts": [
+    {
+      "id": "1235",
+      "show_number": 1234,
+      "date": "2025-02-11",
+      "festival_name": null,
+      "venue": "Kings Theatre",
+      "city": "Brooklyn",
+      "state": "NY"
+    }
+  ]
+}

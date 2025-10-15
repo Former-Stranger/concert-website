@@ -1,0 +1,85 @@
+{
+  "id": "334",
+  "name": "Lady Gaga",
+  "concert_count": 4,
+  "top_songs": [
+    {
+      "name": "Poker Face",
+      "times_played": 4
+    },
+    {
+      "name": "Bad Romance",
+      "times_played": 4
+    },
+    {
+      "name": "Born This Way",
+      "times_played": 3
+    },
+    {
+      "name": "Paparazzi",
+      "times_played": 3
+    },
+    {
+      "name": "Just Dance",
+      "times_played": 3
+    },
+    {
+      "name": "LoveGame",
+      "times_played": 2
+    },
+    {
+      "name": "Telephone",
+      "times_played": 2
+    },
+    {
+      "name": "Yo\u00fc and I",
+      "times_played": 2
+    },
+    {
+      "name": "Monster",
+      "times_played": 2
+    },
+    {
+      "name": "Alejandro",
+      "times_played": 2
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1120",
+      "show_number": 1119,
+      "date": "2023-10-04",
+      "festival_name": null,
+      "venue": "Dolby Live at Park MGM",
+      "city": "Las Vegas",
+      "state": "NV"
+    },
+    {
+      "id": "781",
+      "show_number": 780,
+      "date": "2017-08-28",
+      "festival_name": null,
+      "venue": "Citi Field",
+      "city": "Queens",
+      "state": "NY"
+    },
+    {
+      "id": "571",
+      "show_number": 570,
+      "date": "2014-04-02",
+      "festival_name": null,
+      "venue": "Roseland",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "429",
+      "show_number": 428,
+      "date": "2010-07-07",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

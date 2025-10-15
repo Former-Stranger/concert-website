@@ -1,0 +1,67 @@
+{
+  "id": "15",
+  "name": "Alison Krauss",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "Whiskey River",
+      "times_played": 1
+    },
+    {
+      "name": "Still Is Still Moving to Me",
+      "times_played": 1
+    },
+    {
+      "name": "Beer for My Horses",
+      "times_played": 1
+    },
+    {
+      "name": "Good Hearted Woman",
+      "times_played": 1
+    },
+    {
+      "name": "Mammas Don't Let Your Babies Grow Up to Be Cowboys",
+      "times_played": 1
+    },
+    {
+      "name": "Funny How Time Slips Away",
+      "times_played": 1
+    },
+    {
+      "name": "Crazy",
+      "times_played": 1
+    },
+    {
+      "name": "Night Life",
+      "times_played": 1
+    },
+    {
+      "name": "Down Yonder",
+      "times_played": 1
+    },
+    {
+      "name": "Me and Paul",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "578",
+      "show_number": 577,
+      "date": "2014-06-10",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "341",
+      "show_number": 340,
+      "date": "2008-06-10",
+      "festival_name": "Multi-Artist Show",
+      "venue": "The Theater at Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

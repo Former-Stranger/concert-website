@@ -1,0 +1,58 @@
+{
+  "id": "588",
+  "name": "The Who (w. Orchestra)",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Overture",
+      "times_played": 1
+    },
+    {
+      "name": "1921",
+      "times_played": 1
+    },
+    {
+      "name": "Amazing Journey",
+      "times_played": 1
+    },
+    {
+      "name": "Sparks",
+      "times_played": 1
+    },
+    {
+      "name": "Pinball Wizard",
+      "times_played": 1
+    },
+    {
+      "name": "We're Not Gonna Take It",
+      "times_played": 1
+    },
+    {
+      "name": "Who Are You",
+      "times_played": 1
+    },
+    {
+      "name": "Eminence Front",
+      "times_played": 1
+    },
+    {
+      "name": "Imagine a Man",
+      "times_played": 1
+    },
+    {
+      "name": "Hero Ground Zero",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "939",
+      "show_number": 938,
+      "date": "2019-09-01",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

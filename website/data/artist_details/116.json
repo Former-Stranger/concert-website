@@ -1,0 +1,76 @@
+{
+  "id": "116",
+  "name": "Chicago",
+  "concert_count": 3,
+  "top_songs": [
+    {
+      "name": "Make Me Smile",
+      "times_played": 2
+    },
+    {
+      "name": "So Much to Say, So Much to Give",
+      "times_played": 2
+    },
+    {
+      "name": "Anxiety's Moment",
+      "times_played": 2
+    },
+    {
+      "name": "West Virginia Fantasies",
+      "times_played": 2
+    },
+    {
+      "name": "Colour My World",
+      "times_played": 2
+    },
+    {
+      "name": "To Be Free",
+      "times_played": 2
+    },
+    {
+      "name": "Now More Than Ever",
+      "times_played": 2
+    },
+    {
+      "name": "Does Anybody Really Know What Time It Is?",
+      "times_played": 2
+    },
+    {
+      "name": "Dialogue (Part I & II)",
+      "times_played": 2
+    },
+    {
+      "name": "Call on Me",
+      "times_played": 2
+    }
+  ],
+  "concerts": [
+    {
+      "id": "862",
+      "show_number": 861,
+      "date": "2018-09-19",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "680",
+      "show_number": 679,
+      "date": "2016-04-08",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY"
+    },
+    {
+      "id": "478",
+      "show_number": 477,
+      "date": "2011-05-19",
+      "festival_name": null,
+      "venue": "NYCB Theatre at Westbury",
+      "city": "Westbury",
+      "state": "NY"
+    }
+  ]
+}

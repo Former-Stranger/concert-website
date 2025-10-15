@@ -1,0 +1,58 @@
+{
+  "id": "66",
+  "name": "Bob Seger (guest: Bruce Springsteen)",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Roll Me Away",
+      "times_played": 1
+    },
+    {
+      "name": "Trying to Live My Life Without You",
+      "times_played": 1
+    },
+    {
+      "name": "The Fire Down Below",
+      "times_played": 1
+    },
+    {
+      "name": "Mainstreet",
+      "times_played": 1
+    },
+    {
+      "name": "Old Time Rock and Roll",
+      "times_played": 1
+    },
+    {
+      "name": "The Little Drummer Boy",
+      "times_played": 1
+    },
+    {
+      "name": "Ramblin' Gamblin' Man",
+      "times_played": 1
+    },
+    {
+      "name": "Hey-Hey-Hey-Hey",
+      "times_played": 1
+    },
+    {
+      "name": "Travelin' Man",
+      "times_played": 1
+    },
+    {
+      "name": "Beautiful Loser",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "497",
+      "show_number": 496,
+      "date": "2011-12-01",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

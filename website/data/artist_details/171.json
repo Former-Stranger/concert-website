@@ -1,0 +1,94 @@
+{
+  "id": "171",
+  "name": "Dierks Bentley",
+  "concert_count": 5,
+  "top_songs": [
+    {
+      "name": "Burning Man",
+      "times_played": 4
+    },
+    {
+      "name": "I Hold On",
+      "times_played": 3
+    },
+    {
+      "name": "Free and Easy (Down the Road I Go)",
+      "times_played": 3
+    },
+    {
+      "name": "Black",
+      "times_played": 3
+    },
+    {
+      "name": "5-1-5-0",
+      "times_played": 3
+    },
+    {
+      "name": "Am I the Only One",
+      "times_played": 3
+    },
+    {
+      "name": "Say You Do",
+      "times_played": 3
+    },
+    {
+      "name": "Living",
+      "times_played": 3
+    },
+    {
+      "name": "What Was I Thinkin'",
+      "times_played": 3
+    },
+    {
+      "name": "Drunk on a Plane",
+      "times_played": 3
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1187",
+      "show_number": 1186,
+      "date": "2024-08-18",
+      "festival_name": null,
+      "venue": "Arthur Ashe Stadium",
+      "city": "Queens",
+      "state": "NY"
+    },
+    {
+      "id": "927",
+      "show_number": 926,
+      "date": "2019-08-02",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "859",
+      "show_number": 858,
+      "date": "2018-09-08",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "832",
+      "show_number": 831,
+      "date": "2018-06-12",
+      "festival_name": null,
+      "venue": "Today Show Plaza",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "402",
+      "show_number": 401,
+      "date": "2009-10-21",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "id": "764",
+  "show_number": 763,
+  "date": "2017-07-01",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Phildelphia",
+  "city": "Philadelphia",
+  "state": "PA",
+  "artists": [
+    {
+      "name": "Tom Petty",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Heartbreakers",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/4be4c352.html",
+  "song_count": 19,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Rockin' Around (With You)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Mary Jane's Last Dance",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "You Don't Know How It Feels",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tom Petty"
+    },
+    {
+      "position": 4,
+      "name": "Forgotten Man",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "You Got Lucky",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "I Won't Back Down",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tom Petty"
+    },
+    {
+      "position": 7,
+      "name": "Free Fallin'",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tom Petty"
+    },
+    {
+      "position": 8,
+      "name": "Into the Great Wide Open",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Don't Come Around Here No More",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "It's Good to Be King",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tom Petty"
+    },
+    {
+      "position": 11,
+      "name": "Crawling Back to You",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tom Petty"
+    },
+    {
+      "position": 12,
+      "name": "Wildflowers",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tom Petty"
+    },
+    {
+      "position": 13,
+      "name": "Learning to Fly",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Yer So Bad",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tom Petty"
+    },
+    {
+      "position": 15,
+      "name": "I Should Have Known It",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Refugee",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "Runnin' Down a Dream",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tom Petty"
+    },
+    {
+      "position": 18,
+      "name": "You Wreck Me",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Tom Petty"
+    },
+    {
+      "position": 19,
+      "name": "American Girl",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

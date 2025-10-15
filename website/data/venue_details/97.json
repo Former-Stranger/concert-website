@@ -1,0 +1,107 @@
+{
+  "id": "97",
+  "name": "Mohegan Sun Arena",
+  "city": "Uncasville",
+  "state": "CT",
+  "concert_count": 14,
+  "concerts": [
+    {
+      "id": "1238",
+      "show_number": 1237,
+      "date": "2025-02-22",
+      "festival_name": null,
+      "artists": "Billy Joel"
+    },
+    {
+      "id": "1155",
+      "show_number": 1154,
+      "date": "2024-04-12",
+      "festival_name": null,
+      "artists": "Bruce Springsteen & the E Street Band"
+    },
+    {
+      "id": "1065",
+      "show_number": 1064,
+      "date": "2022-10-21",
+      "festival_name": null,
+      "artists": "Keith Urban"
+    },
+    {
+      "id": "962",
+      "show_number": 961,
+      "date": "2019-11-17",
+      "festival_name": null,
+      "artists": "Keith Urban"
+    },
+    {
+      "id": "776",
+      "show_number": 775,
+      "date": "2017-08-11",
+      "festival_name": null,
+      "artists": "Kenny Chesney"
+    },
+    {
+      "id": "619",
+      "show_number": 618,
+      "date": "2015-04-25",
+      "festival_name": null,
+      "artists": "Kenny Chesney with Chase Rice"
+    },
+    {
+      "id": "576",
+      "show_number": 575,
+      "date": "2014-05-18",
+      "festival_name": null,
+      "artists": "Bruce Springsteen & the E Street Band"
+    },
+    {
+      "id": "575",
+      "show_number": 574,
+      "date": "2014-05-17",
+      "festival_name": null,
+      "artists": "Bruce Springsteen & the E Street Band"
+    },
+    {
+      "id": "496",
+      "show_number": 495,
+      "date": "2011-11-26",
+      "festival_name": null,
+      "artists": "Bob Seger"
+    },
+    {
+      "id": "482",
+      "show_number": 481,
+      "date": "2011-07-09",
+      "festival_name": null,
+      "artists": "Keith Urban"
+    },
+    {
+      "id": "363",
+      "show_number": 362,
+      "date": "2008-11-15",
+      "festival_name": null,
+      "artists": "Elton John"
+    },
+    {
+      "id": "337",
+      "show_number": 336,
+      "date": "2008-05-23",
+      "festival_name": null,
+      "artists": "Billy Joel"
+    },
+    {
+      "id": "250",
+      "show_number": 249,
+      "date": "2006-01-20",
+      "festival_name": null,
+      "artists": "Esteban"
+    },
+    {
+      "id": "212",
+      "show_number": 211,
+      "date": "2004-08-28",
+      "festival_name": null,
+      "artists": "Cher"
+    }
+  ]
+}

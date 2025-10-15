@@ -1,0 +1,85 @@
+{
+  "id": "63",
+  "name": "Bob Seger",
+  "concert_count": 4,
+  "top_songs": [
+    {
+      "name": "Roll Me Away",
+      "times_played": 4
+    },
+    {
+      "name": "The Fire Down Below",
+      "times_played": 4
+    },
+    {
+      "name": "Mainstreet",
+      "times_played": 4
+    },
+    {
+      "name": "Old Time Rock and Roll",
+      "times_played": 4
+    },
+    {
+      "name": "Travelin' Man",
+      "times_played": 4
+    },
+    {
+      "name": "Beautiful Loser",
+      "times_played": 4
+    },
+    {
+      "name": "We've Got Tonite",
+      "times_played": 4
+    },
+    {
+      "name": "Come to Poppa",
+      "times_played": 4
+    },
+    {
+      "name": "Turn the Page",
+      "times_played": 4
+    },
+    {
+      "name": "Against the Wind",
+      "times_played": 4
+    }
+  ],
+  "concerts": [
+    {
+      "id": "915",
+      "show_number": 914,
+      "date": "2019-05-30",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "612",
+      "show_number": 611,
+      "date": "2014-12-19",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "534",
+      "show_number": 533,
+      "date": "2013-04-16",
+      "festival_name": null,
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY"
+    },
+    {
+      "id": "496",
+      "show_number": 495,
+      "date": "2011-11-26",
+      "festival_name": null,
+      "venue": "Mohegan Sun Arena",
+      "city": "Uncasville",
+      "state": "CT"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "47",
+  "name": "FDR State Park",
+  "city": "Yorktown Heights",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "301",
+      "show_number": 300,
+      "date": "2007-06-03",
+      "festival_name": null,
+      "artists": "Richie Havens"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "150",
+  "name": "State Farm Arena",
+  "city": "Atlanta",
+  "state": "GA",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "336",
+      "show_number": 335,
+      "date": "2008-04-25",
+      "festival_name": null,
+      "artists": "Bruce Springsteen & the E Street Band"
+    }
+  ]
+}

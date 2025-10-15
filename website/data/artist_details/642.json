@@ -1,0 +1,94 @@
+{
+  "id": "642",
+  "name": "Willie Nile",
+  "concert_count": 5,
+  "top_songs": [
+    {
+      "name": "This Is Our Time",
+      "times_played": 2
+    },
+    {
+      "name": "Heaven Help the Lonely",
+      "times_played": 2
+    },
+    {
+      "name": "House of a Thousand Guitars",
+      "times_played": 2
+    },
+    {
+      "name": "Sweet Jane",
+      "times_played": 2
+    },
+    {
+      "name": "One Guitar",
+      "times_played": 2
+    },
+    {
+      "name": "You Gotta Be a Buddha (In a Place Like This)",
+      "times_played": 2
+    },
+    {
+      "name": "Seeds of a Revolution",
+      "times_played": 1
+    },
+    {
+      "name": "All Dressed Up and No Place to Go",
+      "times_played": 1
+    },
+    {
+      "name": "Don't",
+      "times_played": 1
+    },
+    {
+      "name": "Earth Blues",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "869",
+      "show_number": 868,
+      "date": "2018-10-03",
+      "festival_name": null,
+      "venue": "City Winery",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "807",
+      "show_number": 806,
+      "date": "2017-12-30",
+      "festival_name": null,
+      "venue": "Daryl's House",
+      "city": "Pawling",
+      "state": "NY"
+    },
+    {
+      "id": "792",
+      "show_number": 791,
+      "date": "2017-10-10",
+      "festival_name": null,
+      "venue": "City Winery",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "623",
+      "show_number": 622,
+      "date": "2015-05-17",
+      "festival_name": null,
+      "venue": "Ossining Public Library",
+      "city": "Ossining",
+      "state": "NY"
+    },
+    {
+      "id": "410",
+      "show_number": 409,
+      "date": "2010-01-16",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Paramount Theatre",
+      "city": "Asbury Park",
+      "state": "NJ"
+    }
+  ]
+}

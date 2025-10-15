@@ -1,0 +1,212 @@
+{
+  "id": "1044",
+  "show_number": 1043,
+  "date": "2022-08-13",
+  "festival_name": null,
+  "venue": "UBS Arena",
+  "city": "Elmont",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Roger Waters",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/4bb383da.html",
+  "song_count": 24,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Comfortably Numb",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 2,
+      "name": "The Happiest Days of Our Lives",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 3,
+      "name": "Another Brick in the Wall, Part 2",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 4,
+      "name": "Another Brick in the Wall, Part 3",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 5,
+      "name": "The Powers That Be",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "The Bravery of Being Out of Range",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "The Bar",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Have a Cigar",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 9,
+      "name": "Wish You Were Here",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 10,
+      "name": "Shine On You Crazy Diamond (Parts VI-IX)",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 11,
+      "name": "Sheep",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 12,
+      "name": "In the Flesh",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 13,
+      "name": "Run Like Hell",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 14,
+      "name": "D\u00e9j\u00e0 vu",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "D\u00e9j\u00e0 vu (Reprise)",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Is This the Life We Really Want?",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "Money",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 18,
+      "name": "Us and Them",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 19,
+      "name": "Any Colour You Like",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 20,
+      "name": "Brain Damage",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 21,
+      "name": "Eclipse",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 22,
+      "name": "Two Suns in the Sunset",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 23,
+      "name": "The Bar (Reprise)",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 24,
+      "name": "Outside the Wall",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    }
+  ]
+}

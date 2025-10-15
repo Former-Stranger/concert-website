@@ -1,0 +1,94 @@
+{
+  "id": "212",
+  "name": "Fleetwood Mac",
+  "concert_count": 5,
+  "top_songs": [
+    {
+      "name": "The Chain",
+      "times_played": 5
+    },
+    {
+      "name": "Gypsy",
+      "times_played": 5
+    },
+    {
+      "name": "Go Your Own Way",
+      "times_played": 5
+    },
+    {
+      "name": "Dreams",
+      "times_played": 4
+    },
+    {
+      "name": "Second Hand News",
+      "times_played": 4
+    },
+    {
+      "name": "Rhiannon",
+      "times_played": 4
+    },
+    {
+      "name": "Landslide",
+      "times_played": 4
+    },
+    {
+      "name": "Gold Dust Woman",
+      "times_played": 4
+    },
+    {
+      "name": "World Turning",
+      "times_played": 4
+    },
+    {
+      "name": "Don't Stop",
+      "times_played": 4
+    }
+  ],
+  "concerts": [
+    {
+      "id": "900",
+      "show_number": 899,
+      "date": "2019-03-11",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "603",
+      "show_number": 602,
+      "date": "2014-10-09",
+      "festival_name": null,
+      "venue": "Today Show Plaza at Rockefeller Center",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "602",
+      "show_number": 601,
+      "date": "2014-10-07",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "384",
+      "show_number": 383,
+      "date": "2009-06-11",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "194",
+      "show_number": 193,
+      "date": "2003-09-30",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

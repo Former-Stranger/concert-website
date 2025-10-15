@@ -1,0 +1,84 @@
+{
+  "id": "780",
+  "show_number": 779,
+  "date": "2017-08-26",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Gillette Stadium",
+  "city": "Foxborough",
+  "state": "MA",
+  "artists": [
+    {
+      "name": "Kenny Chesney",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Thomas Rhett",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Old Dominion",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/3be2f4b4.html",
+  "song_count": 7,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "T-Shirt",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Make Me Wanna",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Crash and Burn",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Vacation",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "It Goes Like This",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Die a Happy Man",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Star of the Show",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

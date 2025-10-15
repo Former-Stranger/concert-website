@@ -1,0 +1,296 @@
+{
+  "id": "5",
+  "show_number": 4,
+  "date": "1994-07-24",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Giants Stadium",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "artists": [
+    {
+      "name": "Elton John",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Billy Joel",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/13da6995.html",
+  "song_count": 34,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Yankee Doodle Dandy",
+      "set_name": "Elton John and Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 2,
+      "name": "Your Song",
+      "set_name": "Elton John and Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 3,
+      "name": "Honesty",
+      "set_name": "Elton John and Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 4,
+      "name": "Don't Let the Sun Go Down on Me",
+      "set_name": "Elton John and Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 5,
+      "name": "Philadelphia Freedom",
+      "set_name": "Elton John",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 6,
+      "name": "Take Me to the Pilot",
+      "set_name": "Elton John",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 7,
+      "name": "Levon",
+      "set_name": "Elton John",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 8,
+      "name": "Rocket Man (I Think It's Going to Be a Long, Long Time)",
+      "set_name": "Elton John",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 9,
+      "name": "Simple Life",
+      "set_name": "Elton John",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 10,
+      "name": "The One",
+      "set_name": "Elton John",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 11,
+      "name": "New York State of Mind",
+      "set_name": "Elton John",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 12,
+      "name": "Funeral for a Friend/Love Lies Bleeding",
+      "set_name": "Elton John",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 13,
+      "name": "I Guess That's Why They Call It the Blues",
+      "set_name": "Elton John",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 14,
+      "name": "Can You Feel the Love Tonight",
+      "set_name": "Elton John",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 15,
+      "name": "Saturday Night's Alright for Fighting",
+      "set_name": "Elton John",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 16,
+      "name": "Pinball Wizard",
+      "set_name": "Elton John",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Who"
+    },
+    {
+      "position": 17,
+      "name": "I Go to Extremes",
+      "set_name": "Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 18,
+      "name": "Pressure",
+      "set_name": "Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 19,
+      "name": "The Ballad of Billy the Kid",
+      "set_name": "Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 20,
+      "name": "Goodbye Yellow Brick Road",
+      "set_name": "Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 21,
+      "name": "Scenes From an Italian Restaurant",
+      "set_name": "Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 22,
+      "name": "My Life",
+      "set_name": "Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 23,
+      "name": "Goodnight Saigon",
+      "set_name": "Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 24,
+      "name": "Lullabye (Goodnight, My Angel)",
+      "set_name": "Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 25,
+      "name": "The River of Dreams",
+      "set_name": "Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 26,
+      "name": "We Didn't Start the Fire",
+      "set_name": "Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 27,
+      "name": "It's Still Rock and Roll to Me",
+      "set_name": "Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 28,
+      "name": "Only the Good Die Young",
+      "set_name": "Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 29,
+      "name": "Big Shot",
+      "set_name": "Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 30,
+      "name": "You May Be Right",
+      "set_name": "Elton John and Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 31,
+      "name": "Bennie and the Jets",
+      "set_name": "Elton John and Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 32,
+      "name": "A Hard Day's Night",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "The Beatles"
+    },
+    {
+      "position": 33,
+      "name": "Candle in the Wind",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 34,
+      "name": "Piano Man",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "21",
+  "name": "Amos Lee",
+  "concert_count": 3,
+  "top_songs": [
+    {
+      "name": "Bottom of the Barrel",
+      "times_played": 1
+    },
+    {
+      "name": "No More Darkness, No More Light",
+      "times_played": 1
+    },
+    {
+      "name": "All You Got Is a Song",
+      "times_played": 1
+    },
+    {
+      "name": "Keep It Loose, Keep It Tight",
+      "times_played": 1
+    },
+    {
+      "name": "Spirit",
+      "times_played": 1
+    },
+    {
+      "name": "Violin",
+      "times_played": 1
+    },
+    {
+      "name": "Kid",
+      "times_played": 1
+    },
+    {
+      "name": "Jesus",
+      "times_played": 1
+    },
+    {
+      "name": "Baby I Want You",
+      "times_played": 1
+    },
+    {
+      "name": "Flower",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1177",
+      "show_number": 1176,
+      "date": "2024-07-12",
+      "festival_name": null,
+      "venue": "Tarrytown Music Hall",
+      "city": "Tarrytown",
+      "state": "NY"
+    },
+    {
+      "id": "861",
+      "show_number": 860,
+      "date": "2018-09-16",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "628",
+      "show_number": 627,
+      "date": "2015-06-17",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "110",
+  "name": "Carrie Underwood",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "Power",
+      "times_played": 1
+    },
+    {
+      "name": "Jesus Walks",
+      "times_played": 1
+    },
+    {
+      "name": "Black Skinhead",
+      "times_played": 1
+    },
+    {
+      "name": "Stronger",
+      "times_played": 1
+    },
+    {
+      "name": "Touch the Sky",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "609",
+      "show_number": 608,
+      "date": "2014-12-01",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Times Square",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "572",
+      "show_number": 571,
+      "date": "2014-04-10",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY"
+    }
+  ]
+}

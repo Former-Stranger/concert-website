@@ -1,0 +1,16 @@
+{
+  "id": "73",
+  "name": "Ice Arena Tampa, FL",
+  "city": "Tampa Bay",
+  "state": "FL",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "98",
+      "show_number": 97,
+      "date": "2000-03-11",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Crosby, Stills, Nash & young"
+    }
+  ]
+}

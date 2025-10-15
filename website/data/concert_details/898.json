@@ -1,0 +1,168 @@
+{
+  "id": "898",
+  "show_number": 897,
+  "date": "2019-03-02",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Oakdale Theatre",
+  "city": "Wallingford",
+  "state": "CT",
+  "artists": [
+    {
+      "name": "Bob Weir",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Wolf Brothers",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/5b92fbf0.html",
+  "song_count": 18,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Bertha",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 2,
+      "name": "Loser",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jerry Garcia"
+    },
+    {
+      "position": 3,
+      "name": "Lay My Lily Down",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Weir"
+    },
+    {
+      "position": 4,
+      "name": "When I Paint My Masterpiece",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Dylan"
+    },
+    {
+      "position": 5,
+      "name": "She Belongs to Me",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Dylan"
+    },
+    {
+      "position": 6,
+      "name": "West L.A. Fadeaway",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 7,
+      "name": "Corrina",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 8,
+      "name": "Touch of Grey",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 9,
+      "name": "Easy to Slip",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Little Feat"
+    },
+    {
+      "position": 10,
+      "name": "He's Gone",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 11,
+      "name": "Two Djinn",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ratdog"
+    },
+    {
+      "position": 12,
+      "name": "Playing in the Band",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 13,
+      "name": "Let It Grow",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 14,
+      "name": "Going Down the Road Feeling Bad",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 15,
+      "name": "Standing on the Moon",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 16,
+      "name": "China Cat Sunflower",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 17,
+      "name": "I Know You Rider",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 18,
+      "name": "Brokedown Palace",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    }
+  ]
+}

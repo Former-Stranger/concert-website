@@ -1,0 +1,67 @@
+{
+  "id": "591",
+  "name": "Tim McGraw",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "How Bad Do You Want It",
+      "times_played": 1
+    },
+    {
+      "name": "Something Like That",
+      "times_played": 1
+    },
+    {
+      "name": "Down on the Farm",
+      "times_played": 1
+    },
+    {
+      "name": "Just to See You Smile",
+      "times_played": 1
+    },
+    {
+      "name": "Southern Girl",
+      "times_played": 1
+    },
+    {
+      "name": "Don't Take the Girl",
+      "times_played": 1
+    },
+    {
+      "name": "7500 OBO",
+      "times_played": 1
+    },
+    {
+      "name": "Memory Lane",
+      "times_played": 1
+    },
+    {
+      "name": "Over and Over",
+      "times_played": 1
+    },
+    {
+      "name": "Shotgun Rider",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1025",
+      "show_number": 1024,
+      "date": "2022-06-03",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "513",
+      "show_number": 512,
+      "date": "2012-08-13",
+      "festival_name": "Multi-Artist Show",
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    }
+  ]
+}

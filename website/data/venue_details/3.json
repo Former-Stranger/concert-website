@@ -1,0 +1,16 @@
+{
+  "id": "3",
+  "name": "Apollo Theater",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "744",
+      "show_number": 743,
+      "date": "2017-02-16",
+      "festival_name": null,
+      "artists": "Ryan Adams"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "216",
+  "name": "Friends",
+  "concert_count": 5,
+  "top_songs": [
+    {
+      "name": "Jam",
+      "times_played": 2
+    },
+    {
+      "name": "Uncle John's Band",
+      "times_played": 2
+    },
+    {
+      "name": "Mississippi Half-Step Uptown Toodeloo",
+      "times_played": 2
+    },
+    {
+      "name": "Shakedown Street",
+      "times_played": 2
+    },
+    {
+      "name": "Guitar Town",
+      "times_played": 1
+    },
+    {
+      "name": "Goodbye's All We've Got Left",
+      "times_played": 1
+    },
+    {
+      "name": "Hillbilly Highway",
+      "times_played": 1
+    },
+    {
+      "name": "Good Ol' Boy (Gettin' Tough)",
+      "times_played": 1
+    },
+    {
+      "name": "My Old Friend the Blues",
+      "times_played": 1
+    },
+    {
+      "name": "Someday",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1243",
+      "show_number": 1242,
+      "date": "2025-03-15",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "1080",
+      "show_number": 1079,
+      "date": "2023-03-19",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "737",
+      "show_number": 736,
+      "date": "2016-12-05",
+      "festival_name": "Multi-Artist Show",
+      "venue": "The Town Hall",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "253",
+      "show_number": 252,
+      "date": "2006-02-15",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "96",
+      "show_number": 95,
+      "date": "1999-11-10",
+      "festival_name": "Multi-Artist Show",
+      "venue": "New Haven Coliseum",
+      "city": "New Haven",
+      "state": "CT"
+    }
+  ]
+}

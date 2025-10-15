@@ -1,0 +1,42 @@
+{
+  "id": "8",
+  "name": "Adam Lambert",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Happy to See Me",
+      "times_played": 1
+    },
+    {
+      "name": "The Knock",
+      "times_played": 1
+    },
+    {
+      "name": "New Song (Untitled)",
+      "times_played": 1
+    },
+    {
+      "name": "Waitress",
+      "times_played": 1
+    },
+    {
+      "name": "Well-Dressed",
+      "times_played": 1
+    },
+    {
+      "name": "Tibetan Pop Stars",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "770",
+      "show_number": 769,
+      "date": "2017-07-28",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY"
+    }
+  ]
+}

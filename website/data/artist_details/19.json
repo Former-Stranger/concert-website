@@ -1,0 +1,58 @@
+{
+  "id": "19",
+  "name": "Allman Brothers",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Jam",
+      "times_played": 1
+    },
+    {
+      "name": "Feel Like a Stranger",
+      "times_played": 1
+    },
+    {
+      "name": "Easy Answers",
+      "times_played": 1
+    },
+    {
+      "name": "She Belongs to Me",
+      "times_played": 1
+    },
+    {
+      "name": "Brown-Eyed Women",
+      "times_played": 1
+    },
+    {
+      "name": "Eyes of the World",
+      "times_played": 1
+    },
+    {
+      "name": "Me and My Uncle",
+      "times_played": 1
+    },
+    {
+      "name": "Friend of the Devil",
+      "times_played": 1
+    },
+    {
+      "name": "Liberty",
+      "times_played": 1
+    },
+    {
+      "name": "Two Djinn",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "311",
+      "show_number": 310,
+      "date": "2007-08-21",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    }
+  ]
+}

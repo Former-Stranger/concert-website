@@ -1,0 +1,148 @@
+{
+  "id": "668",
+  "show_number": 667,
+  "date": "2016-01-22",
+  "festival_name": null,
+  "venue": "Carnegie Hall",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Joe Bonamassa",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/63f3fe07.html",
+  "song_count": 16,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Locomotive Breath",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jethro Tull"
+    },
+    {
+      "position": 2,
+      "name": "This Train",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Drive",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "The Valley Runs Low",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Dust Bowl",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Driving Towards the Daylight",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Black Lung Heartache",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Blue and Evil",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Livin' Easy",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Get Back My Tomorrow",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "How Can a Poor Man Stand Such Times and Live?",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Blind Alfred Reed"
+    },
+    {
+      "position": 12,
+      "name": "Mountain Time",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Song of Yesterday",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Black Country Communion"
+    },
+    {
+      "position": 14,
+      "name": "Woke Up Dreaming",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Hummingbird",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Leon Russell"
+    },
+    {
+      "position": 16,
+      "name": "The Rose",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Amanda McBroom"
+    }
+  ]
+}

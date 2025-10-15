@@ -1,0 +1,23 @@
+{
+  "id": "56",
+  "name": "Freedom Mortgage Pavilion",
+  "city": "Camden",
+  "state": "NJ",
+  "concert_count": 2,
+  "concerts": [
+    {
+      "id": "118",
+      "show_number": 117,
+      "date": "2000-08-19",
+      "festival_name": "Multi-Artist Show",
+      "artists": "John Fogerty with Dr. John, Aaron neville"
+    },
+    {
+      "id": "115",
+      "show_number": 114,
+      "date": "2000-08-12",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Neil Young, the Pretenders"
+    }
+  ]
+}

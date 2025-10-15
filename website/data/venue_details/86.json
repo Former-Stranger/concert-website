@@ -1,0 +1,16 @@
+{
+  "id": "86",
+  "name": "Lincoln Financial Field",
+  "city": "Philadelphia",
+  "state": "PA",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "831",
+      "show_number": 830,
+      "date": "2018-06-09",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Kenny Chesney, Thomas Rhett, Old Dominion"
+    }
+  ]
+}

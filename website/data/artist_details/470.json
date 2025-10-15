@@ -1,0 +1,85 @@
+{
+  "id": "470",
+  "name": "Robert Plant",
+  "concert_count": 4,
+  "top_songs": [
+    {
+      "name": "Black Dog",
+      "times_played": 2
+    },
+    {
+      "name": "Rock and Roll",
+      "times_played": 2
+    },
+    {
+      "name": "Rich Woman",
+      "times_played": 2
+    },
+    {
+      "name": "Fortune Teller",
+      "times_played": 2
+    },
+    {
+      "name": "Please Read the Letter",
+      "times_played": 2
+    },
+    {
+      "name": "The Battle of Evermore",
+      "times_played": 2
+    },
+    {
+      "name": "Gone Gone Gone",
+      "times_played": 2
+    },
+    {
+      "name": "Poor Howard",
+      "times_played": 1
+    },
+    {
+      "name": "Tin Pan Valley",
+      "times_played": 1
+    },
+    {
+      "name": "Trampled Under Foot",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1176",
+      "show_number": 1175,
+      "date": "2024-06-29",
+      "festival_name": "Outlaw Festival",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "653",
+      "show_number": 652,
+      "date": "2015-09-17",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "341",
+      "show_number": 340,
+      "date": "2008-06-10",
+      "festival_name": "Multi-Artist Show",
+      "venue": "The Theater at Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "167",
+      "show_number": 166,
+      "date": "2002-08-31",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    }
+  ]
+}

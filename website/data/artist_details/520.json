@@ -1,0 +1,34 @@
+{
+  "id": "520",
+  "name": "Smashing Pumpkins",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Cenotaph",
+      "times_played": 1
+    },
+    {
+      "name": "Ziggy Stardust",
+      "times_played": 1
+    },
+    {
+      "name": "To Forgive",
+      "times_played": 1
+    },
+    {
+      "name": "Perfect",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1184",
+      "show_number": 1183,
+      "date": "2024-08-05",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Citi Field",
+      "city": "Queens",
+      "state": "NY"
+    }
+  ]
+}

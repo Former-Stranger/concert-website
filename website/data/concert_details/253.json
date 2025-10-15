@@ -1,0 +1,168 @@
+{
+  "id": "253",
+  "show_number": 252,
+  "date": "2006-02-15",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Phil Lesh",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Friends",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/23df405b.html",
+  "song_count": 18,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Passenger",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 2,
+      "name": "Doin' That Rag",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 3,
+      "name": "Stagger Lee",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 4,
+      "name": "Mr. Charlie",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 5,
+      "name": "The Hardest Part",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ryan Adams & the Cardinals"
+    },
+    {
+      "position": 6,
+      "name": "The Weight",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Band"
+    },
+    {
+      "position": 7,
+      "name": "Cosmic Charlie",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 8,
+      "name": "Space",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 9,
+      "name": "Jam",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Shakedown Street",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 11,
+      "name": "New Speedway Boogie",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 12,
+      "name": "Cats Under the Stars",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jerry Garcia Band"
+    },
+    {
+      "position": 13,
+      "name": "Magnolia Mountain",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ryan Adams & the Cardinals"
+    },
+    {
+      "position": 14,
+      "name": "Uncle John's Band",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 15,
+      "name": "Morning Dew",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bonnie Dobson"
+    },
+    {
+      "position": 16,
+      "name": "Truckin'",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 17,
+      "name": "The Golden Road (to Unlimited Devotion)",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 18,
+      "name": "I Am the Walrus",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "The Beatles"
+    }
+  ]
+}

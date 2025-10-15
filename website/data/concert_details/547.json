@@ -1,0 +1,96 @@
+{
+  "id": "547",
+  "show_number": 546,
+  "date": "2013-07-27",
+  "festival_name": "Multi-Artist Show",
+  "venue": "MetLife Stadium",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "artists": [
+    {
+      "name": "Bon Jovi",
+      "role": "festival_performer"
+    },
+    {
+      "name": "J. Geils Band",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/3bc6e450.html",
+  "song_count": 9,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Sno-Cone (Part 1)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Albert Collins"
+    },
+    {
+      "position": 2,
+      "name": "Hard Drivin' Man",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Centerfold",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Detroit Breakdown",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Must of Got Lost",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Love Stinks",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Lookin' for a Love",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Valentinos"
+    },
+    {
+      "position": 8,
+      "name": "Whammer Jammer",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Ain't Nothin' but a House Party",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Show Stoppers"
+    }
+  ]
+}

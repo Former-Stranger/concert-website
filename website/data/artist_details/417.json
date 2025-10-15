@@ -1,0 +1,184 @@
+{
+  "id": "417",
+  "name": "Paul McCartney",
+  "concert_count": 15,
+  "top_songs": [
+    {
+      "name": "Lady Madonna",
+      "times_played": 11
+    },
+    {
+      "name": "Yesterday",
+      "times_played": 9
+    },
+    {
+      "name": "Let Me Roll It",
+      "times_played": 7
+    },
+    {
+      "name": "Blackbird",
+      "times_played": 7
+    },
+    {
+      "name": "Eleanor Rigby",
+      "times_played": 7
+    },
+    {
+      "name": "Band on the Run",
+      "times_played": 7
+    },
+    {
+      "name": "Back in the U.S.S.R.",
+      "times_played": 7
+    },
+    {
+      "name": "Let It Be",
+      "times_played": 7
+    },
+    {
+      "name": "Live and Let Die",
+      "times_played": 7
+    },
+    {
+      "name": "Hey Jude",
+      "times_played": 7
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1028",
+      "show_number": 1027,
+      "date": "2022-06-16",
+      "festival_name": null,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "788",
+      "show_number": 787,
+      "date": "2017-09-19",
+      "festival_name": null,
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY"
+    },
+    {
+      "id": "787",
+      "show_number": 786,
+      "date": "2017-09-17",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "785",
+      "show_number": 784,
+      "date": "2017-09-15",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "709",
+      "show_number": 708,
+      "date": "2016-08-07",
+      "festival_name": null,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "585",
+      "show_number": 584,
+      "date": "2014-07-05",
+      "festival_name": null,
+      "venue": "MVP Arena",
+      "city": "Albany",
+      "state": "NY"
+    },
+    {
+      "id": "536",
+      "show_number": 535,
+      "date": "2013-06-08",
+      "festival_name": null,
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY"
+    },
+    {
+      "id": "530",
+      "show_number": 529,
+      "date": "2012-12-12",
+      "festival_name": "12-12-12 Concert For Sandy Relief",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "484",
+      "show_number": 483,
+      "date": "2011-07-16",
+      "festival_name": null,
+      "venue": "Yankee Stadium",
+      "city": "Bronx",
+      "state": "NY"
+    },
+    {
+      "id": "483",
+      "show_number": 482,
+      "date": "2011-07-15",
+      "festival_name": null,
+      "venue": "Yankee Stadium",
+      "city": "Bronx",
+      "state": "NY"
+    },
+    {
+      "id": "385",
+      "show_number": 384,
+      "date": "2009-07-17",
+      "festival_name": null,
+      "venue": "Citi Field",
+      "city": "Queens",
+      "state": "NY"
+    },
+    {
+      "id": "240",
+      "show_number": 239,
+      "date": "2005-10-01",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "239",
+      "show_number": 238,
+      "date": "2005-09-30",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "155",
+      "show_number": 154,
+      "date": "2002-04-21",
+      "festival_name": null,
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    },
+    {
+      "id": "145",
+      "show_number": 144,
+      "date": "2001-10-20",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

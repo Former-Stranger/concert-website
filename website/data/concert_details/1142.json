@@ -1,0 +1,300 @@
+{
+  "id": "1142",
+  "show_number": 1141,
+  "date": "2024-01-23",
+  "festival_name": null,
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Madonna",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/33ac8cd9.html",
+  "song_count": 35,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "It's a Celebration",
+      "set_name": "Act I",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Nothing Really Matters",
+      "set_name": "Act I",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Everybody",
+      "set_name": "Act I",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Into the Groove",
+      "set_name": "Act I",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Causing a Commotion",
+      "set_name": "Act I",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Burning Up / I Love New York",
+      "set_name": "Act I",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Open Your Heart",
+      "set_name": "Act I",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Holiday",
+      "set_name": "Act I",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "The Storm",
+      "set_name": "Act II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Live to Tell",
+      "set_name": "Act II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "The Ritual",
+      "set_name": "Act II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "Like a Prayer",
+      "set_name": "Act II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Living for Love",
+      "set_name": "Act III",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Erotica",
+      "set_name": "Act III",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Justify My Love",
+      "set_name": "Act III",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Hung Up",
+      "set_name": "Act III",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "Bad Girl",
+      "set_name": "Act III",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "Ballroom",
+      "set_name": "Act IV",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 19,
+      "name": "Vogue",
+      "set_name": "Act IV",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "Human Nature",
+      "set_name": "Act IV",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 21,
+      "name": "Crazy for You",
+      "set_name": "Act IV",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 22,
+      "name": "The Beast Within",
+      "set_name": "Act V",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 23,
+      "name": "Die Another Day",
+      "set_name": "Act V",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 24,
+      "name": "Don't Tell Me",
+      "set_name": "Act V",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 25,
+      "name": "Mother and Father",
+      "set_name": "Act V",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 26,
+      "name": "Express Yourself",
+      "set_name": "Act V",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 27,
+      "name": "La Isla Bonita",
+      "set_name": "Act V",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 28,
+      "name": "Don't Cry for Me Argentina",
+      "set_name": "Act V",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Andrew Lloyd Webber"
+    },
+    {
+      "position": 29,
+      "name": "Madonna",
+      "set_name": "Act VI",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 30,
+      "name": "Bedtime Story",
+      "set_name": "Act VI",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 31,
+      "name": "Ray of Light",
+      "set_name": "Act VI",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 32,
+      "name": "Rain",
+      "set_name": "Act VI",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 33,
+      "name": "Billie Jean / Like a Virgin",
+      "set_name": "Act VII",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 34,
+      "name": "Bitch I'm Madonna",
+      "set_name": "Act VII",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 35,
+      "name": "Celebration",
+      "set_name": "Act VII",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

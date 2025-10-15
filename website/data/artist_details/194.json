@@ -1,0 +1,34 @@
+{
+  "id": "194",
+  "name": "Emmylou",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "I Could Use a Love Song",
+      "times_played": 1
+    },
+    {
+      "name": "Greener Pastures",
+      "times_played": 1
+    },
+    {
+      "name": "Dear Hate",
+      "times_played": 1
+    },
+    {
+      "name": "My Church",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "812",
+      "show_number": 811,
+      "date": "2018-02-13",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Palladium Times Square",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

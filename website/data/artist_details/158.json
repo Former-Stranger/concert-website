@@ -1,0 +1,58 @@
+{
+  "id": "158",
+  "name": "David Gray",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Birds of the High Arctic",
+      "times_played": 1
+    },
+    {
+      "name": "Back in the World",
+      "times_played": 1
+    },
+    {
+      "name": "Mutineers",
+      "times_played": 1
+    },
+    {
+      "name": "My Oh My",
+      "times_played": 1
+    },
+    {
+      "name": "Slow Motion",
+      "times_played": 1
+    },
+    {
+      "name": "Nightblindness",
+      "times_played": 1
+    },
+    {
+      "name": "Snow in Vegas",
+      "times_played": 1
+    },
+    {
+      "name": "Dancing With Both Feet off the Ground",
+      "times_played": 1
+    },
+    {
+      "name": "Babylon",
+      "times_played": 1
+    },
+    {
+      "name": "Fugitive",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "628",
+      "show_number": 627,
+      "date": "2015-06-17",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

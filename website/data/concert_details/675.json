@@ -1,0 +1,348 @@
+{
+  "id": "675",
+  "show_number": 674,
+  "date": "2016-02-27",
+  "festival_name": null,
+  "venue": "DCU Center",
+  "city": "Worcester",
+  "state": "MA",
+  "artists": [
+    {
+      "name": "Garth Brooks w. Trisha Yearwood",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/6bf09ebe.html",
+  "song_count": 41,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Man Against Machine",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 2,
+      "name": "Rodeo",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 3,
+      "name": "The Beaches of Cheyenne",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 4,
+      "name": "Two Pi\u00f1a Coladas",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 5,
+      "name": "The River",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 6,
+      "name": "Two of a Kind, Workin' on a Full House",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Dennis Robbins"
+    },
+    {
+      "position": 7,
+      "name": "Shameless",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 8,
+      "name": "Ain't Goin' Down ('Til the Sun Comes Up)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 9,
+      "name": "Unanswered Prayers",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 10,
+      "name": "If Tomorrow Never Comes",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 11,
+      "name": "Papa Loved Mama",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 12,
+      "name": "More Than a Memory",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 13,
+      "name": "The Thunder Rolls",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 14,
+      "name": "People Loving People",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 15,
+      "name": "In Another's Eyes",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 16,
+      "name": "Perfect Love",
+      "set_name": "Trisha Yearwood",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Trisha Yearwood"
+    },
+    {
+      "position": 17,
+      "name": "Believe Me Baby (I Lied)",
+      "set_name": "Trisha Yearwood",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Trisha Yearwood"
+    },
+    {
+      "position": 18,
+      "name": "She's in Love With the Boy",
+      "set_name": "Trisha Yearwood",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Trisha Yearwood"
+    },
+    {
+      "position": 19,
+      "name": "PrizeFighter",
+      "set_name": "Trisha Yearwood",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Trisha Yearwood"
+    },
+    {
+      "position": 20,
+      "name": "Georgia Rain",
+      "set_name": "Trisha Yearwood",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Trisha Yearwood"
+    },
+    {
+      "position": 21,
+      "name": "She's Tired of Boys",
+      "set_name": "Garth Brooks",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 22,
+      "name": "The Red Strokes",
+      "set_name": "Garth Brooks",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 23,
+      "name": "You Move Me",
+      "set_name": "Garth Brooks",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pierce Pettis"
+    },
+    {
+      "position": 24,
+      "name": "Make You Feel My Love",
+      "set_name": "Garth Brooks",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Dylan"
+    },
+    {
+      "position": 25,
+      "name": "That Summer",
+      "set_name": "Garth Brooks",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 26,
+      "name": "Cold Like That",
+      "set_name": "Garth Brooks",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 27,
+      "name": "Callin' Baton Rouge",
+      "set_name": "Garth Brooks",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Oak Ridge Boys"
+    },
+    {
+      "position": 28,
+      "name": "You Wreck Me",
+      "set_name": "Garth Brooks",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 29,
+      "name": "Friends in Low Places",
+      "set_name": "Garth Brooks",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Dewayne Blackwell"
+    },
+    {
+      "position": 30,
+      "name": "The Dance",
+      "set_name": "Garth Brooks",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tony Arata"
+    },
+    {
+      "position": 31,
+      "name": "Fever",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Aerosmith"
+    },
+    {
+      "position": 32,
+      "name": "Why Ain't I Running",
+      "set_name": "Main Set",
+      "encore": 2,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 33,
+      "name": "Somewhere Other Than the Night",
+      "set_name": "Main Set",
+      "encore": 2,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 34,
+      "name": "What She's Doing Now",
+      "set_name": "Main Set",
+      "encore": 2,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 35,
+      "name": "When You Come Back to Me Again",
+      "set_name": "Main Set",
+      "encore": 2,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 36,
+      "name": "Send 'Em On Down the Road",
+      "set_name": "Main Set",
+      "encore": 3,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 37,
+      "name": "Wolves",
+      "set_name": "Main Set",
+      "encore": 3,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 38,
+      "name": "Much Too Young (to Feel This Damn Old)",
+      "set_name": "Main Set",
+      "encore": 3,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 39,
+      "name": "Standing Outside the Fire",
+      "set_name": "Main Set",
+      "encore": 3,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 40,
+      "name": "Tacoma",
+      "set_name": "Main Set",
+      "encore": 3,
+      "is_cover": true,
+      "cover_artist": "Garth Brooks"
+    },
+    {
+      "position": 41,
+      "name": "Walkaway Joe",
+      "set_name": "Main Set",
+      "encore": 4,
+      "is_cover": true,
+      "cover_artist": "Trisha Yearwood"
+    }
+  ]
+}

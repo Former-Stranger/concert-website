@@ -1,0 +1,67 @@
+{
+  "id": "180",
+  "name": "Dwight Yoakam",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "Suspicious Minds",
+      "times_played": 1
+    },
+    {
+      "name": "The Outsiders",
+      "times_played": 1
+    },
+    {
+      "name": "Creepin'",
+      "times_played": 1
+    },
+    {
+      "name": "Guys Like Me",
+      "times_played": 1
+    },
+    {
+      "name": "Carolina",
+      "times_played": 1
+    },
+    {
+      "name": "I'm Gettin' Stoned",
+      "times_played": 1
+    },
+    {
+      "name": "Talladega",
+      "times_played": 1
+    },
+    {
+      "name": "Pledge Allegiance to the Hag",
+      "times_played": 1
+    },
+    {
+      "name": "Drink in My Hand",
+      "times_played": 1
+    },
+    {
+      "name": "The Hard Way",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "959",
+      "show_number": 958,
+      "date": "2019-11-09",
+      "festival_name": null,
+      "venue": "Terminal 5",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "605",
+      "show_number": 604,
+      "date": "2014-10-17",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

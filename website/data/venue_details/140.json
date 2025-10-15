@@ -1,0 +1,16 @@
+{
+  "id": "140",
+  "name": "SUNY Purchase",
+  "city": "Purchase",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "359",
+      "show_number": 358,
+      "date": "2008-10-16",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Crosby, Nash"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "485",
+  "name": "Roger Waters",
+  "concert_count": 10,
+  "top_songs": [
+    {
+      "name": "The Happiest Days of Our Lives",
+      "times_played": 8
+    },
+    {
+      "name": "Another Brick in the Wall, Part 2",
+      "times_played": 8
+    },
+    {
+      "name": "Comfortably Numb",
+      "times_played": 8
+    },
+    {
+      "name": "In the Flesh",
+      "times_played": 7
+    },
+    {
+      "name": "Wish You Were Here",
+      "times_played": 7
+    },
+    {
+      "name": "Money",
+      "times_played": 7
+    },
+    {
+      "name": "Brain Damage",
+      "times_played": 7
+    },
+    {
+      "name": "Eclipse",
+      "times_played": 7
+    },
+    {
+      "name": "Mother",
+      "times_played": 5
+    },
+    {
+      "name": "Speak to Me",
+      "times_played": 5
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1053",
+      "show_number": 1052,
+      "date": "2022-08-31",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "1044",
+      "show_number": 1043,
+      "date": "2022-08-13",
+      "festival_name": null,
+      "venue": "UBS Arena",
+      "city": "Elmont",
+      "state": "NY"
+    },
+    {
+      "id": "786",
+      "show_number": 785,
+      "date": "2017-09-16",
+      "festival_name": null,
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    },
+    {
+      "id": "530",
+      "show_number": 529,
+      "date": "2012-12-12",
+      "festival_name": "12-12-12 Concert For Sandy Relief",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "449",
+      "show_number": 448,
+      "date": "2010-10-13",
+      "festival_name": null,
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    },
+    {
+      "id": "306",
+      "show_number": 305,
+      "date": "2007-07-07",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "300",
+      "show_number": 299,
+      "date": "2007-05-30",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "276",
+      "show_number": 275,
+      "date": "2006-09-12",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "111",
+      "show_number": 110,
+      "date": "2000-07-13",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "93",
+      "show_number": 92,
+      "date": "1999-08-07",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    }
+  ]
+}

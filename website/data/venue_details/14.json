@@ -1,0 +1,16 @@
+{
+  "id": "14",
+  "name": "Billy Bob's Texas",
+  "city": "Fort Worth",
+  "state": "TX",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "679",
+      "show_number": 678,
+      "date": "2016-04-02",
+      "festival_name": null,
+      "artists": "Montgomery gentry"
+    }
+  ]
+}

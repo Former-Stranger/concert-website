@@ -1,0 +1,26 @@
+{
+  "id": "1",
+  "name": ".38 Special",
+  "concert_count": 2,
+  "top_songs": [],
+  "concerts": [
+    {
+      "id": "127",
+      "show_number": 126,
+      "date": "2001-06-07",
+      "festival_name": "Multi-Artist Show",
+      "venue": "NYCB Theatre at Westbury",
+      "city": "Westbury",
+      "state": "NY"
+    },
+    {
+      "id": "69",
+      "show_number": 68,
+      "date": "1998-07-22",
+      "festival_name": "Multi-Artist Show",
+      "venue": "PNC Bank Arts Center",
+      "city": "Holmdel",
+      "state": "NJ"
+    }
+  ]
+}

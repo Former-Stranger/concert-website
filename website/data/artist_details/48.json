@@ -1,0 +1,706 @@
+{
+  "id": "48",
+  "name": "Billy Joel",
+  "concert_count": 73,
+  "top_songs": [
+    {
+      "name": "The River of Dreams",
+      "times_played": 65
+    },
+    {
+      "name": "Scenes From an Italian Restaurant",
+      "times_played": 65
+    },
+    {
+      "name": "Piano Man",
+      "times_played": 65
+    },
+    {
+      "name": "You May Be Right",
+      "times_played": 65
+    },
+    {
+      "name": "Movin' Out (Anthony's Song)",
+      "times_played": 64
+    },
+    {
+      "name": "Allentown",
+      "times_played": 64
+    },
+    {
+      "name": "It's Still Rock and Roll to Me",
+      "times_played": 63
+    },
+    {
+      "name": "New York State of Mind",
+      "times_played": 62
+    },
+    {
+      "name": "Only the Good Die Young",
+      "times_played": 59
+    },
+    {
+      "name": "My Life",
+      "times_played": 58
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1238",
+      "show_number": 1237,
+      "date": "2025-02-22",
+      "festival_name": null,
+      "venue": "Mohegan Sun Arena",
+      "city": "Uncasville",
+      "state": "CT"
+    },
+    {
+      "id": "1230",
+      "show_number": 1229,
+      "date": "2024-12-31",
+      "festival_name": null,
+      "venue": "UBS Arena",
+      "city": "Elmont",
+      "state": "NY"
+    },
+    {
+      "id": "1170",
+      "show_number": 1169,
+      "date": "2024-06-08",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "1139",
+      "show_number": 1138,
+      "date": "2023-12-31",
+      "festival_name": null,
+      "venue": "UBS Arena",
+      "city": "Elmont",
+      "state": "NY"
+    },
+    {
+      "id": "1114",
+      "show_number": 1113,
+      "date": "2023-09-10",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "1101",
+      "show_number": 1100,
+      "date": "2023-07-24",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "1089",
+      "show_number": 1088,
+      "date": "2023-04-25",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "1049",
+      "show_number": 1048,
+      "date": "2022-08-24",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "1018",
+      "show_number": 1017,
+      "date": "2022-04-08",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "996",
+      "show_number": 995,
+      "date": "2021-11-05",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "890",
+      "show_number": 889,
+      "date": "2019-12-19",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "966",
+      "show_number": 965,
+      "date": "2019-12-11",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "945",
+      "show_number": 944,
+      "date": "2019-09-27",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "908",
+      "show_number": 907,
+      "date": "2019-04-12",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "895",
+      "show_number": 894,
+      "date": "2019-02-14",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "892",
+      "show_number": 891,
+      "date": "2018-12-31",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "868",
+      "show_number": 867,
+      "date": "2018-09-30",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "855",
+      "show_number": 854,
+      "date": "2018-08-23",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "829",
+      "show_number": 828,
+      "date": "2018-05-23",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "820",
+      "show_number": 819,
+      "date": "2018-04-13",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "813",
+      "show_number": 812,
+      "date": "2018-02-21",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "806",
+      "show_number": 805,
+      "date": "2017-12-20",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "796",
+      "show_number": 795,
+      "date": "2017-10-20",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "778",
+      "show_number": 777,
+      "date": "2017-08-21",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "765",
+      "show_number": 764,
+      "date": "2017-07-05",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "750",
+      "show_number": 749,
+      "date": "2017-04-05",
+      "festival_name": null,
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    },
+    {
+      "id": "746",
+      "show_number": 745,
+      "date": "2017-03-03",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "745",
+      "show_number": 744,
+      "date": "2017-02-22",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "735",
+      "show_number": 734,
+      "date": "2016-11-30",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "728",
+      "show_number": 727,
+      "date": "2016-10-28",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "706",
+      "show_number": 705,
+      "date": "2016-07-20",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "684",
+      "show_number": 683,
+      "date": "2016-04-15",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "674",
+      "show_number": 673,
+      "date": "2016-02-13",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "667",
+      "show_number": 666,
+      "date": "2016-01-07",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "663",
+      "show_number": 662,
+      "date": "2015-11-19",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "640",
+      "show_number": 639,
+      "date": "2015-08-04",
+      "festival_name": null,
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    },
+    {
+      "id": "635",
+      "show_number": 634,
+      "date": "2015-07-01",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "629",
+      "show_number": 628,
+      "date": "2015-06-20",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "625",
+      "show_number": 624,
+      "date": "2015-05-28",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "614",
+      "show_number": 613,
+      "date": "2015-04-03",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "611",
+      "show_number": 610,
+      "date": "2014-12-18",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "608",
+      "show_number": 607,
+      "date": "2014-11-25",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "597",
+      "show_number": 596,
+      "date": "2014-09-17",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "583",
+      "show_number": 582,
+      "date": "2014-07-02",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "580",
+      "show_number": 579,
+      "date": "2014-06-21",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "573",
+      "show_number": 572,
+      "date": "2014-04-18",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "570",
+      "show_number": 569,
+      "date": "2014-03-21",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "565",
+      "show_number": 564,
+      "date": "2014-02-03",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "562",
+      "show_number": 561,
+      "date": "2014-01-27",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "558",
+      "show_number": 557,
+      "date": "2013-12-31",
+      "festival_name": null,
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY"
+    },
+    {
+      "id": "403",
+      "show_number": 402,
+      "date": "2009-10-29",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "387",
+      "show_number": 386,
+      "date": "2009-08-01",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Citizens Bank Park",
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    {
+      "id": "386",
+      "show_number": 385,
+      "date": "2009-07-18",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Gillette Stadium",
+      "city": "Foxborough",
+      "state": "MA"
+    },
+    {
+      "id": "350",
+      "show_number": 349,
+      "date": "2008-07-18",
+      "festival_name": null,
+      "venue": "Shea Stadium",
+      "city": "Queens",
+      "state": "NY"
+    },
+    {
+      "id": "349",
+      "show_number": 348,
+      "date": "2008-07-16",
+      "festival_name": null,
+      "venue": "Shea Stadium",
+      "city": "Queens",
+      "state": "NY"
+    },
+    {
+      "id": "337",
+      "show_number": 336,
+      "date": "2008-05-23",
+      "festival_name": null,
+      "venue": "Mohegan Sun Arena",
+      "city": "Uncasville",
+      "state": "CT"
+    },
+    {
+      "id": "297",
+      "show_number": 296,
+      "date": "2007-04-17",
+      "festival_name": null,
+      "venue": "MVP Arena",
+      "city": "Albany",
+      "state": "NY"
+    },
+    {
+      "id": "258",
+      "show_number": 257,
+      "date": "2006-04-19",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "252",
+      "show_number": 251,
+      "date": "2006-01-26",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "251",
+      "show_number": 250,
+      "date": "2006-01-23",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "248",
+      "show_number": 247,
+      "date": "2005-11-29",
+      "festival_name": null,
+      "venue": "92nd Street Y",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "171",
+      "show_number": 170,
+      "date": "2002-10-11",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    },
+    {
+      "id": "168",
+      "show_number": 167,
+      "date": "2002-09-27",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    },
+    {
+      "id": "151",
+      "show_number": 150,
+      "date": "2002-02-04",
+      "festival_name": "Multi-Artist Show",
+      "venue": "XL Center",
+      "city": "Hartford",
+      "state": "CT"
+    },
+    {
+      "id": "145",
+      "show_number": 144,
+      "date": "2001-10-20",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "97",
+      "show_number": 96,
+      "date": "1999-12-31",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "84",
+      "show_number": 83,
+      "date": "1999-04-20",
+      "festival_name": null,
+      "venue": "Izod Center",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "77",
+      "show_number": 76,
+      "date": "1998-12-05",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "58",
+      "show_number": 57,
+      "date": "1998-02-16",
+      "festival_name": null,
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    },
+    {
+      "id": "57",
+      "show_number": 56,
+      "date": "1998-02-02",
+      "festival_name": null,
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    },
+    {
+      "id": "56",
+      "show_number": 55,
+      "date": "1998-01-29",
+      "festival_name": null,
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    },
+    {
+      "id": "17",
+      "show_number": 16,
+      "date": "1996-03-16",
+      "festival_name": null,
+      "venue": "Eisenhower Hall Theatre",
+      "city": "West Point",
+      "state": "NY"
+    },
+    {
+      "id": "5",
+      "show_number": 4,
+      "date": "1994-07-24",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    }
+  ]
+}

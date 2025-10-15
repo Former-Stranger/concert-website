@@ -1,0 +1,112 @@
+{
+  "id": "115",
+  "show_number": 114,
+  "date": "2000-08-12",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Freedom Mortgage Pavilion",
+  "city": "Camden",
+  "state": "NJ",
+  "artists": [
+    {
+      "name": "Neil Young",
+      "role": "festival_performer"
+    },
+    {
+      "name": "the Pretenders",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/73dac269.html",
+  "song_count": 11,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "The Loner",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Neil Young"
+    },
+    {
+      "position": 2,
+      "name": "Talk of the Town",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Popstar",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Message of Love",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Hymn to Her",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Kid",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "My City Was Gone",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Back on the Chain Gang",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Night in My Veins",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "The Needle and the Damage Done",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Neil Young"
+    },
+    {
+      "position": 11,
+      "name": "Middle of the Road",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

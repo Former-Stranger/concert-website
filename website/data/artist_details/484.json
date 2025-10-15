@@ -1,0 +1,103 @@
+{
+  "id": "484",
+  "name": "Roger McGuinn",
+  "concert_count": 6,
+  "top_songs": [
+    {
+      "name": "My Back Pages",
+      "times_played": 1
+    },
+    {
+      "name": "Nothing Was Delivered",
+      "times_played": 1
+    },
+    {
+      "name": "Pretty Boy Floyd",
+      "times_played": 1
+    },
+    {
+      "name": "You Ain't Goin' Nowhere",
+      "times_played": 1
+    },
+    {
+      "name": "I'm In Love",
+      "times_played": 1
+    },
+    {
+      "name": "Daddy Roll 'em",
+      "times_played": 1
+    },
+    {
+      "name": "They Hung Him on a Cross",
+      "times_played": 1
+    },
+    {
+      "name": "St. James Infirmary Blues",
+      "times_played": 1
+    },
+    {
+      "name": "Turn! Turn! Turn! (To Everything There Is a Season)",
+      "times_played": 1
+    },
+    {
+      "name": "The Water Is Wide",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1251",
+      "show_number": 1250,
+      "date": "2025-05-09",
+      "festival_name": null,
+      "venue": "Tarrytown Music Hall",
+      "city": "Tarrytown",
+      "state": "NY"
+    },
+    {
+      "id": "909",
+      "show_number": 908,
+      "date": "2019-04-13",
+      "festival_name": null,
+      "venue": "Tarrytown Music Hall",
+      "city": "Tarrytown",
+      "state": "NY"
+    },
+    {
+      "id": "418",
+      "show_number": 417,
+      "date": "2010-04-25",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Tarrytown Music Hall",
+      "city": "Tarrytown",
+      "state": "NY"
+    },
+    {
+      "id": "375",
+      "show_number": 374,
+      "date": "2009-04-17",
+      "festival_name": null,
+      "venue": "Irvington Theater",
+      "city": "Irvington",
+      "state": "NY"
+    },
+    {
+      "id": "312",
+      "show_number": 311,
+      "date": "2007-09-07",
+      "festival_name": null,
+      "venue": "Tarrytown Music Hall",
+      "city": "Tarrytown",
+      "state": "NY"
+    },
+    {
+      "id": "23",
+      "show_number": 22,
+      "date": "1996-07-13",
+      "festival_name": null,
+      "venue": "Paramount Hudson Valley Theater",
+      "city": "Peekskill",
+      "state": "NY"
+    }
+  ]
+}

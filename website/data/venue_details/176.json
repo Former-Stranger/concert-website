@@ -1,0 +1,16 @@
+{
+  "id": "176",
+  "name": "Turning Point",
+  "city": "Piermont",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "61",
+      "show_number": 60,
+      "date": "1998-05-13",
+      "festival_name": null,
+      "artists": "Richie Havens"
+    }
+  ]
+}

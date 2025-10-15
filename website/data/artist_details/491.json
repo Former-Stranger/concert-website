@@ -1,0 +1,58 @@
+{
+  "id": "491",
+  "name": "Ryan Adams",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Do You Still Love Me?",
+      "times_played": 1
+    },
+    {
+      "name": "Magnolia Mountain",
+      "times_played": 1
+    },
+    {
+      "name": "Dirty Rain",
+      "times_played": 1
+    },
+    {
+      "name": "Prisoner",
+      "times_played": 1
+    },
+    {
+      "name": "Kim",
+      "times_played": 1
+    },
+    {
+      "name": "Haunted House",
+      "times_played": 1
+    },
+    {
+      "name": "Peaceful Valley",
+      "times_played": 1
+    },
+    {
+      "name": "Let It Ride",
+      "times_played": 1
+    },
+    {
+      "name": "Breakdown",
+      "times_played": 1
+    },
+    {
+      "name": "Everybody Knows",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "744",
+      "show_number": 743,
+      "date": "2017-02-16",
+      "festival_name": null,
+      "venue": "Apollo Theater",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

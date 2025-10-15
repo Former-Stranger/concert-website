@@ -1,0 +1,58 @@
+{
+  "id": "34",
+  "name": "Bad Company",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Walk Away",
+      "times_played": 1
+    },
+    {
+      "name": "Analog Man",
+      "times_played": 1
+    },
+    {
+      "name": "Mother Says",
+      "times_played": 1
+    },
+    {
+      "name": "The Bomber: Closet Queen / Bolero / Cast Your Fate to the Wind",
+      "times_played": 1
+    },
+    {
+      "name": "Take It to the Limit",
+      "times_played": 1
+    },
+    {
+      "name": "Turn to Stone",
+      "times_played": 1
+    },
+    {
+      "name": "In the City",
+      "times_played": 1
+    },
+    {
+      "name": "Funk #49",
+      "times_played": 1
+    },
+    {
+      "name": "Life's Been Good",
+      "times_played": 1
+    },
+    {
+      "name": "Life in the Fast Lane",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "697",
+      "show_number": 696,
+      "date": "2016-06-11",
+      "festival_name": "Multi-Artist Show",
+      "venue": "PNC Bank Arts Center",
+      "city": "Holmdel",
+      "state": "NJ"
+    }
+  ]
+}

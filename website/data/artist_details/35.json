@@ -1,0 +1,76 @@
+{
+  "id": "35",
+  "name": "Barenaked Ladies",
+  "concert_count": 3,
+  "top_songs": [
+    {
+      "name": "Maybe Katie",
+      "times_played": 1
+    },
+    {
+      "name": "Too Little Too Late",
+      "times_played": 1
+    },
+    {
+      "name": "Grade 9",
+      "times_played": 1
+    },
+    {
+      "name": "It's All Been Done",
+      "times_played": 1
+    },
+    {
+      "name": "Another Postcard",
+      "times_played": 1
+    },
+    {
+      "name": "Celebrity",
+      "times_played": 1
+    },
+    {
+      "name": "Box Set",
+      "times_played": 1
+    },
+    {
+      "name": "Baby Seat",
+      "times_played": 1
+    },
+    {
+      "name": "For You",
+      "times_played": 1
+    },
+    {
+      "name": "One Week",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "235",
+      "show_number": 234,
+      "date": "2005-07-30",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Randall's Island Park",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "199",
+      "show_number": 198,
+      "date": "2004-02-22",
+      "festival_name": null,
+      "venue": "Izod Center",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "122",
+      "show_number": 121,
+      "date": "2001-02-15",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

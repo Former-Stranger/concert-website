@@ -1,0 +1,67 @@
+{
+  "id": "569",
+  "name": "The Dead",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "Drums",
+      "times_played": 2
+    },
+    {
+      "name": "U.S. Blues",
+      "times_played": 1
+    },
+    {
+      "name": "Scarlet Begonias",
+      "times_played": 1
+    },
+    {
+      "name": "Fire on the Mountain",
+      "times_played": 1
+    },
+    {
+      "name": "Bird Song",
+      "times_played": 1
+    },
+    {
+      "name": "Feel Like a Stranger",
+      "times_played": 1
+    },
+    {
+      "name": "High Time",
+      "times_played": 1
+    },
+    {
+      "name": "Turn On Your Love Light",
+      "times_played": 1
+    },
+    {
+      "name": "New Potato Caboose",
+      "times_played": 1
+    },
+    {
+      "name": "Estimated Prophet",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "378",
+      "show_number": 377,
+      "date": "2009-04-28",
+      "festival_name": null,
+      "venue": "Izod Center",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "377",
+      "show_number": 376,
+      "date": "2009-04-25",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "1039",
+  "show_number": 1038,
+  "date": "2022-07-16",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Citi Field",
+  "city": "Queens",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "DEAD:  Dead",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Company",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/7bb2eeec.html",
+  "song_count": 2,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Hot Summer",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Hollow Skin",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

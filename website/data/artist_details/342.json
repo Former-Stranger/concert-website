@@ -1,0 +1,35 @@
+{
+  "id": "342",
+  "name": "Light of Day",
+  "concert_count": 3,
+  "top_songs": [],
+  "concerts": [
+    {
+      "id": "1140",
+      "show_number": 1139,
+      "date": "2024-01-20",
+      "festival_name": null,
+      "venue": "Count Basie Center for the Arts",
+      "city": "Red Bank",
+      "state": "NJ"
+    },
+    {
+      "id": "1076",
+      "show_number": 1075,
+      "date": "2023-01-14",
+      "festival_name": null,
+      "venue": "Count Basie Center for the Arts",
+      "city": "Red Bank",
+      "state": "NJ"
+    },
+    {
+      "id": "738",
+      "show_number": 737,
+      "date": "2017-01-14",
+      "festival_name": null,
+      "venue": "Paramount Theatre",
+      "city": "Asbury Park",
+      "state": "NJ"
+    }
+  ]
+}

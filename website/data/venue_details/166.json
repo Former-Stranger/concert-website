@@ -1,0 +1,23 @@
+{
+  "id": "166",
+  "name": "Thunder Ridge Ski Area",
+  "city": "Patterson",
+  "state": "NY",
+  "concert_count": 2,
+  "concerts": [
+    {
+      "id": "44",
+      "show_number": 43,
+      "date": "1997-07-10",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Santana, Rusted root"
+    },
+    {
+      "id": "42",
+      "show_number": 41,
+      "date": "1997-06-28",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Crosby, Stills, Nash"
+    }
+  ]
+}

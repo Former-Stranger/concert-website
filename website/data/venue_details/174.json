@@ -1,0 +1,23 @@
+{
+  "id": "174",
+  "name": "Towne Crier Cafe",
+  "city": "Beacon",
+  "state": "NY",
+  "concert_count": 2,
+  "concerts": [
+    {
+      "id": "437",
+      "show_number": 436,
+      "date": "2010-08-13",
+      "festival_name": null,
+      "artists": "Christopher Robin Band"
+    },
+    {
+      "id": "287",
+      "show_number": 286,
+      "date": "2006-11-24",
+      "festival_name": null,
+      "artists": "Richie Havens"
+    }
+  ]
+}

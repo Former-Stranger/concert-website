@@ -1,0 +1,58 @@
+{
+  "id": "76",
+  "name": "Boston",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "The Star-Spangled Banner",
+      "times_played": 1
+    },
+    {
+      "name": "Rock & Roll Band",
+      "times_played": 1
+    },
+    {
+      "name": "Peace of Mind",
+      "times_played": 1
+    },
+    {
+      "name": "Guitar Solo",
+      "times_played": 1
+    },
+    {
+      "name": "Don't Look Back",
+      "times_played": 1
+    },
+    {
+      "name": "The Journey",
+      "times_played": 1
+    },
+    {
+      "name": "Hey Baby",
+      "times_played": 1
+    },
+    {
+      "name": "More Than a Feeling",
+      "times_played": 1
+    },
+    {
+      "name": "Instrumental",
+      "times_played": 1
+    },
+    {
+      "name": "Livin' for You",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "43",
+      "show_number": 42,
+      "date": "1997-07-09",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    }
+  ]
+}

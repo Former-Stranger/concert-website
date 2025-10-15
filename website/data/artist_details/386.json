@@ -1,0 +1,58 @@
+{
+  "id": "386",
+  "name": "Miranda Lambert",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Fastest Girl in Town",
+      "times_played": 1
+    },
+    {
+      "name": "Baggage Claim",
+      "times_played": 1
+    },
+    {
+      "name": "Kerosene",
+      "times_played": 1
+    },
+    {
+      "name": "Heart Like Mine",
+      "times_played": 1
+    },
+    {
+      "name": "Bathroom Sink",
+      "times_played": 1
+    },
+    {
+      "name": "All Kinds of Kinds",
+      "times_played": 1
+    },
+    {
+      "name": "Over You",
+      "times_played": 1
+    },
+    {
+      "name": "Rock and Roll, Hoochie Koo",
+      "times_played": 1
+    },
+    {
+      "name": "That's the Way That the World Goes 'Round",
+      "times_played": 1
+    },
+    {
+      "name": "Mississippi Queen",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "714",
+      "show_number": 713,
+      "date": "2016-08-20",
+      "festival_name": "Multi-Artist Show",
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    }
+  ]
+}

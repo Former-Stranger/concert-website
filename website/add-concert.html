@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Concert | My Concert Archive</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Slab:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background: linear-gradient(135deg, #1a0e0e 0%, #2d1b1b 50%, #1a0e0e 100%);
+            background-attachment: fixed;
+            min-height: 100vh;
+            font-family: 'Roboto Slab', serif;
+        }
+
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            opacity: 0.03;
+            z-index: 1;
+            pointer-events: none;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='3.5' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+        }
+
+        .content-wrapper {
+            position: relative;
+            z-index: 2;
+        }
+
+        .poster-title {
+            font-family: 'Bebas Neue', cursive;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+        }
+
+        .nav-bar {
+            background: linear-gradient(90deg, #d4773e 0%, #c1502e 50%, #d4773e 100%);
+            border-bottom: 4px solid #f4e4c1;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+        }
+
+        .nav-link {
+            color: #f4e4c1;
+            font-family: 'Bebas Neue', cursive;
+            letter-spacing: 2px;
+            font-size: 1.1rem;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+        }
+
+        .nav-link:hover {
+            color: #fff;
+            text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+        }
+
+        .form-card {
+            background: rgba(244, 228, 193, 0.95);
+            border: 3px solid #d4773e;
+            color: #2d1b1b;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.4);
+        }
+
+        .form-label {
+            font-weight: 700;
+            color: #2d1b1b;
+            margin-bottom: 0.5rem;
+            display: block;
+            font-size: 0.95rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .form-input {
+            width: 100%;
+            padding: 0.75rem;
+            border: 2px solid #d4773e;
+            border-radius: 0.375rem;
+            background: white;
+            color: #2d1b1b;
+            font-family: 'Roboto Slab', serif;
+            transition: all 0.3s ease;
+        }
+
+        .form-input:focus {
+            outline: none;
+            border-color: #c1502e;
+            box-shadow: 0 0 0 3px rgba(193, 80, 46, 0.1);
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, #d4773e 0%, #c1502e 100%);
+            color: #f4e4c1;
+            border: 2px solid #f4e4c1;
+            padding: 1rem 2rem;
+            border-radius: 0.375rem;
+            font-family: 'Bebas Neue', cursive;
+            letter-spacing: 2px;
+            font-size: 1.25rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+        }
+
+        .btn-primary:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .btn-secondary {
+            background: transparent;
+            color: #c1502e;
+            border: 2px solid #c1502e;
+            padding: 0.5rem 1rem;
+            border-radius: 0.375rem;
+            font-family: 'Bebas Neue', cursive;
+            letter-spacing: 2px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+        }
+
+        .btn-secondary:hover {
+            background: rgba(193, 80, 46, 0.1);
+        }
+
+        .marquee-header {
+            background: linear-gradient(135deg, #c1502e 0%, #d4773e 100%);
+            color: #f4e4c1;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+            padding: 1rem;
+            border: 3px solid #f4e4c1;
+            margin-bottom: 1.5rem;
+            font-family: 'Bebas Neue', cursive;
+            letter-spacing: 3px;
+        }
+
+        .song-item {
+            background: white;
+            border: 2px solid #d4773e;
+            border-radius: 0.375rem;
+            padding: 0.75rem;
+            margin-bottom: 0.5rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .remove-btn {
+            color: #c1502e;
+            cursor: pointer;
+            font-size: 1.25rem;
+            transition: all 0.2s ease;
+        }
+
+        .remove-btn:hover {
+            color: #d4773e;
+            transform: scale(1.2);
+        }
+
+        .alert {
+            padding: 1rem;
+            border-radius: 0.375rem;
+            margin-bottom: 1rem;
+            border: 2px solid;
+        }
+
+        .alert-success {
+            background: rgba(34, 197, 94, 0.1);
+            border-color: #22c55e;
+            color: #15803d;
+        }
+
+        .alert-error {
+            background: rgba(239, 68, 68, 0.1);
+            border-color: #ef4444;
+            color: #991b1b;
+        }
+
+        /* Autocomplete styles */
+        .autocomplete-container {
+            position: relative;
+        }
+
+        .autocomplete-dropdown {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            background: white;
+            border: 2px solid #d4773e;
+            border-top: none;
+            border-radius: 0 0 0.375rem 0.375rem;
+            max-height: 200px;
+            overflow-y: auto;
+            z-index: 1000;
+            display: none;
+        }
+
+        .autocomplete-dropdown.show {
+            display: block;
+        }
+
+        .autocomplete-item {
+            padding: 0.75rem;
+            cursor: pointer;
+            border-bottom: 1px solid rgba(212, 119, 62, 0.2);
+            transition: background 0.2s ease;
+        }
+
+        .autocomplete-item:last-child {
+            border-bottom: none;
+        }
+
+        .autocomplete-item:hover, .autocomplete-item.selected {
+            background: rgba(212, 119, 62, 0.1);
+        }
+
+        .autocomplete-item-main {
+            font-weight: bold;
+            color: #2d1b1b;
+        }
+
+        .autocomplete-item-sub {
+            font-size: 0.85rem;
+            color: #666;
+            margin-top: 0.25rem;
+        }
+
+        .autocomplete-no-results {
+            padding: 0.75rem;
+            text-align: center;
+            color: #999;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body class="text-white">
+    <div class="content-wrapper">
+        <!-- Navigation -->
+        <nav class="nav-bar p-4 mb-8">
+            <div class="container mx-auto flex flex-wrap justify-between items-center gap-4">
+                <a href="index.html" class="text-2xl md:text-3xl poster-title hover:opacity-80 transition">
+                    <i class="fas fa-guitar mr-2"></i>Jason's Concert Archive
+                </a>
+                <div class="flex items-center flex-wrap gap-4 md:space-x-8">
+                    <a href="index.html" class="nav-link">Home</a>
+                    <a href="concerts.html" class="nav-link">Shows</a>
+                    <a href="artists.html" class="nav-link">Artists</a>
+                    <a href="venues.html" class="nav-link">Venues</a>
+                    <a href="songs.html" class="nav-link">Songs</a>
+                    <a href="add-concert.html" id="add-concert-nav" class="nav-link">Add Show</a>
+                    <div id="user-info" class="hidden text-[#f4e4c1]"></div>
+                    <button id="auth-button" class="nav-link bg-[#c1502e] px-4 py-2 rounded hover:bg-[#d4773e] transition">
+                        <i class="fas fa-sign-in-alt mr-2"></i>Sign In
+                    </button>
+                </div>
+            </div>
+        </nav>
+
+        <div class="container mx-auto px-4 max-w-3xl pb-12">
+            <!-- Access Control Message -->
+            <div id="access-denied" class="form-card rounded-lg p-8 text-center hidden">
+                <i class="fas fa-lock text-6xl mb-4" style="color: #c1502e;"></i>
+                <h2 class="text-3xl poster-title mb-4">Access Restricted</h2>
+                <p class="mb-4">Only the archive owner can add new concerts.</p>
+                <a href="index.html" class="btn-secondary inline-block">
+                    <i class="fas fa-arrow-left mr-2"></i>Return Home
+                </a>
+            </div>
+
+            <!-- Form -->
+            <div id="concert-form-container" class="hidden">
+                <div class="form-card rounded-lg p-8">
+                    <div class="marquee-header text-center text-3xl rounded">
+                        <i class="fas fa-plus-circle mr-3"></i>Add New Concert
+                    </div>
+
+                    <div id="alert-container"></div>
+
+                    <form id="concert-form">
+                        <!-- Date -->
+                        <div class="mb-6">
+                            <label class="form-label" for="date">
+                                <i class="fas fa-calendar mr-2"></i>Date *
+                            </label>
+                            <input type="date" id="date" name="date" class="form-input" required>
+                        </div>
+
+                        <!-- Artist -->
+                        <div class="mb-6">
+                            <label class="form-label" for="artist">
+                                <i class="fas fa-microphone mr-2"></i>Artist *
+                            </label>
+                            <div class="autocomplete-container">
+                                <input type="text" id="artist" name="artist" class="form-input" placeholder="Enter artist name" required autocomplete="off">
+                                <div id="artist-autocomplete" class="autocomplete-dropdown"></div>
+                            </div>
+                        </div>
+
+                        <!-- Support Act -->
+                        <div class="mb-6">
+                            <label class="form-label" for="support">
+                                <i class="fas fa-users mr-2"></i>Support Act
+                            </label>
+                            <div class="autocomplete-container">
+                                <input type="text" id="support" name="support" class="form-input" placeholder="Enter support act (optional)" autocomplete="off">
+                                <div id="support-autocomplete" class="autocomplete-dropdown"></div>
+                            </div>
+                        </div>
+
+                        <!-- Festival Name -->
+                        <div class="mb-6">
+                            <label class="form-label" for="festival">
+                                <i class="fas fa-flag mr-2"></i>Festival Name
+                            </label>
+                            <input type="text" id="festival" name="festival" class="form-input" placeholder="Enter festival name (if applicable)">
+                        </div>
+
+                        <!-- Venue -->
+                        <div class="mb-6">
+                            <label class="form-label" for="venue">
+                                <i class="fas fa-building mr-2"></i>Venue *
+                            </label>
+                            <div class="autocomplete-container">
+                                <input type="text" id="venue" name="venue" class="form-input" placeholder="Enter venue name" required autocomplete="off">
+                                <div id="venue-autocomplete" class="autocomplete-dropdown"></div>
+                            </div>
+                        </div>
+
+                        <!-- City -->
+                        <div class="mb-6">
+                            <label class="form-label" for="city">
+                                <i class="fas fa-map-marker-alt mr-2"></i>City *
+                            </label>
+                            <input type="text" id="city" name="city" class="form-input" placeholder="Enter city" required>
+                        </div>
+
+                        <!-- State -->
+                        <div class="mb-6">
+                            <label class="form-label" for="state">
+                                <i class="fas fa-map mr-2"></i>State/Province *
+                            </label>
+                            <input type="text" id="state" name="state" class="form-input" placeholder="Enter state or province" required>
+                        </div>
+
+                        <!-- Setlist.fm URL -->
+                        <div class="mb-6">
+                            <label class="form-label" for="setlistfm_url">
+                                <i class="fas fa-link mr-2"></i>Setlist.fm URL
+                            </label>
+                            <input type="url" id="setlistfm_url" name="setlistfm_url" class="form-input" placeholder="https://www.setlist.fm/setlist/...">
+                        </div>
+
+                        <!-- Setlist Section -->
+                        <div class="mb-6">
+                            <label class="form-label">
+                                <i class="fas fa-music mr-2"></i>Setlist
+                            </label>
+
+                            <div class="mb-3">
+                                <input type="text" id="song-name" class="form-input mb-2" placeholder="Song name">
+                                <div class="flex gap-2 mb-2">
+                                    <label class="flex items-center">
+                                        <input type="checkbox" id="is-cover" class="mr-2">
+                                        <span class="text-sm">Cover Song</span>
+                                    </label>
+                                    <label class="flex items-center">
+                                        <input type="checkbox" id="is-encore" class="mr-2">
+                                        <span class="text-sm">Encore</span>
+                                    </label>
+                                </div>
+                                <input type="text" id="cover-artist" class="form-input mb-2 hidden" placeholder="Original artist">
+                                <button type="button" id="add-song-btn" class="btn-secondary w-full">
+                                    <i class="fas fa-plus mr-2"></i>Add Song
+                                </button>
+                            </div>
+
+                            <div id="setlist-container" class="space-y-2">
+                                <!-- Songs will be added here -->
+                            </div>
+                        </div>
+
+                        <!-- Submit Button -->
+                        <div class="flex gap-4">
+                            <button type="submit" class="btn-primary flex-1" id="submit-btn">
+                                <i class="fas fa-save mr-2"></i>Save Concert
+                            </button>
+                            <button type="button" onclick="window.location.href='index.html'" class="btn-secondary">
+                                <i class="fas fa-times mr-2"></i>Cancel
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script type="module">
+        import { initAuth, isAuthenticated, isOwner } from './js/auth.js';
+        import { db, collection, addDoc, serverTimestamp } from './js/firebase-config.js';
+
+        // Wait for auth to initialize
+        initAuth();
+
+        // Check access after a short delay to allow auth to initialize
+        setTimeout(() => {
+            if (!isAuthenticated() || !isOwner()) {
+                document.getElementById('access-denied').classList.remove('hidden');
+            } else {
+                document.getElementById('concert-form-container').classList.remove('hidden');
+            }
+        }, 500);
+
+        // Store setlist songs
+        let setlistSongs = [];
+
+        // Load artists and venues for autocomplete
+        let allArtists = [];
+        let allVenues = [];
+
+        async function loadAutocompleteData() {
+            try {
+                const [artistsRes, venuesRes] = await Promise.all([
+                    fetch('data/artists.json'),
+                    fetch('data/venues.json')
+                ]);
+
+                allArtists = await artistsRes.json();
+                allVenues = await venuesRes.json();
+
+                // Setup autocomplete for artist fields
+                setupAutocomplete('artist', allArtists, (item) => item.name);
+                setupAutocomplete('support', allArtists, (item) => item.name);
+
+                // Setup autocomplete for venue field
+                setupAutocomplete('venue', allVenues, (item) => ({
+                    main: item.name,
+                    sub: `${item.city}, ${item.state}`
+                }));
+            } catch (error) {
+                console.error('Error loading autocomplete data:', error);
+            }
+        }
+
+        // Setup autocomplete for an input field
+        function setupAutocomplete(fieldId, data, formatter) {
+            const input = document.getElementById(fieldId);
+            const dropdown = document.getElementById(`${fieldId}-autocomplete`);
+            let selectedIndex = -1;
+
+            input.addEventListener('input', () => {
+                const value = input.value.toLowerCase().trim();
+
+                if (value.length < 2) {
+                    dropdown.classList.remove('show');
+                    return;
+                }
+
+                // Filter data
+                const matches = data.filter(item => {
+                    const formatted = formatter(item);
+                    const searchText = typeof formatted === 'string' ? formatted : formatted.main;
+                    return searchText.toLowerCase().includes(value);
+                }).slice(0, 10); // Limit to 10 results
+
+                if (matches.length === 0) {
+                    dropdown.innerHTML = '<div class="autocomplete-no-results">No matching results found</div>';
+                    dropdown.classList.add('show');
+                    return;
+                }
+
+                // Render matches
+                dropdown.innerHTML = matches.map((item, index) => {
+                    const formatted = formatter(item);
+                    if (typeof formatted === 'string') {
+                        return `
+                            <div class="autocomplete-item" data-index="${index}">
+                                <div class="autocomplete-item-main">${formatted}</div>
+                            </div>
+                        `;
+                    } else {
+                        return `
+                            <div class="autocomplete-item" data-index="${index}">
+                                <div class="autocomplete-item-main">${formatted.main}</div>
+                                <div class="autocomplete-item-sub">${formatted.sub}</div>
+                            </div>
+                        `;
+                    }
+                }).join('');
+
+                dropdown.classList.add('show');
+                selectedIndex = -1;
+
+                // Add click handlers to items
+                dropdown.querySelectorAll('.autocomplete-item').forEach((el, index) => {
+                    el.addEventListener('click', () => {
+                        const item = matches[index];
+                        const formatted = formatter(item);
+                        input.value = typeof formatted === 'string' ? formatted : formatted.main;
+
+                        // Auto-fill city and state if this is the venue field
+                        if (fieldId === 'venue' && item.city && item.state) {
+                            document.getElementById('city').value = item.city;
+                            document.getElementById('state').value = item.state;
+                        }
+
+                        dropdown.classList.remove('show');
+                    });
+                });
+            });
+
+            // Handle keyboard navigation
+            input.addEventListener('keydown', (e) => {
+                const items = dropdown.querySelectorAll('.autocomplete-item');
+                if (!dropdown.classList.contains('show') || items.length === 0) return;
+
+                if (e.key === 'ArrowDown') {
+                    e.preventDefault();
+                    selectedIndex = Math.min(selectedIndex + 1, items.length - 1);
+                    updateSelection(items);
+                } else if (e.key === 'ArrowUp') {
+                    e.preventDefault();
+                    selectedIndex = Math.max(selectedIndex - 1, -1);
+                    updateSelection(items);
+                } else if (e.key === 'Enter' && selectedIndex >= 0) {
+                    e.preventDefault();
+                    items[selectedIndex].click();
+                } else if (e.key === 'Escape') {
+                    dropdown.classList.remove('show');
+                    selectedIndex = -1;
+                }
+            });
+
+            // Close dropdown when clicking outside
+            document.addEventListener('click', (e) => {
+                if (!input.contains(e.target) && !dropdown.contains(e.target)) {
+                    dropdown.classList.remove('show');
+                    selectedIndex = -1;
+                }
+            });
+
+            function updateSelection(items) {
+                items.forEach((item, index) => {
+                    if (index === selectedIndex) {
+                        item.classList.add('selected');
+                        item.scrollIntoView({ block: 'nearest' });
+                    } else {
+                        item.classList.remove('selected');
+                    }
+                });
+            }
+        }
+
+        // Load autocomplete data
+        loadAutocompleteData();
+
+        // Show/hide cover artist field
+        document.getElementById('is-cover').addEventListener('change', (e) => {
+            const coverArtistField = document.getElementById('cover-artist');
+            if (e.target.checked) {
+                coverArtistField.classList.remove('hidden');
+            } else {
+                coverArtistField.classList.add('hidden');
+                coverArtistField.value = '';
+            }
+        });
+
+        // Add song to setlist
+        document.getElementById('add-song-btn').addEventListener('click', () => {
+            const songName = document.getElementById('song-name').value.trim();
+            if (!songName) return;
+
+            const isCover = document.getElementById('is-cover').checked;
+            const isEncore = document.getElementById('is-encore').checked;
+            const coverArtist = isCover ? document.getElementById('cover-artist').value.trim() : null;
+
+            const song = {
+                position: setlistSongs.length + 1,
+                name: songName,
+                is_cover: isCover,
+                cover_artist: coverArtist,
+                encore: isEncore ? 1 : 0
+            };
+
+            setlistSongs.push(song);
+            renderSetlist();
+
+            // Clear inputs
+            document.getElementById('song-name').value = '';
+            document.getElementById('is-cover').checked = false;
+            document.getElementById('is-encore').checked = false;
+            document.getElementById('cover-artist').value = '';
+            document.getElementById('cover-artist').classList.add('hidden');
+        });
+
+        // Render setlist
+        function renderSetlist() {
+            const container = document.getElementById('setlist-container');
+            container.innerHTML = setlistSongs.map((song, index) => `
+                <div class="song-item">
+                    <div>
+                        <span class="font-bold">${song.position}.</span>
+                        ${song.name}
+                        ${song.is_cover ? `<span class="text-xs opacity-70">(${song.cover_artist})</span>` : ''}
+                        ${song.encore ? '<span class="text-xs font-bold" style="color: #c1502e;">ENCORE</span>' : ''}
+                    </div>
+                    <span class="remove-btn" onclick="removeSong(${index})">
+                        <i class="fas fa-times"></i>
+                    </span>
+                </div>
+            `).join('');
+        }
+
+        // Remove song from setlist
+        window.removeSong = function(index) {
+            setlistSongs.splice(index, 1);
+            // Renumber positions
+            setlistSongs.forEach((song, i) => {
+                song.position = i + 1;
+            });
+            renderSetlist();
+        };
+
+        // Show alert
+        function showAlert(message, type) {
+            const container = document.getElementById('alert-container');
+            container.innerHTML = `
+                <div class="alert alert-${type}">
+                    <i class="fas fa-${type === 'success' ? 'check-circle' : 'exclamation-circle'} mr-2"></i>
+                    ${message}
+                </div>
+            `;
+            setTimeout(() => {
+                container.innerHTML = '';
+            }, 5000);
+        }
+
+        // Handle form submission
+        document.getElementById('concert-form').addEventListener('submit', async (e) => {
+            e.preventDefault();
+
+            if (!isAuthenticated() || !isOwner()) {
+                showAlert('You must be signed in as the owner to add concerts.', 'error');
+                return;
+            }
+
+            const submitBtn = document.getElementById('submit-btn');
+            submitBtn.disabled = true;
+            submitBtn.innerHTML = '<i class="fas fa-spinner fa-spin mr-2"></i>Saving...';
+
+            try {
+                const formData = {
+                    date: document.getElementById('date').value,
+                    artist: document.getElementById('artist').value.trim(),
+                    support_act: document.getElementById('support').value.trim() || null,
+                    festival_name: document.getElementById('festival').value.trim() || null,
+                    venue: document.getElementById('venue').value.trim(),
+                    city: document.getElementById('city').value.trim(),
+                    state: document.getElementById('state').value.trim(),
+                    setlistfm_url: document.getElementById('setlistfm_url').value.trim() || null,
+                    setlist: setlistSongs,
+                    created_at: serverTimestamp(),
+                    status: 'pending' // Will need to be manually added to SQLite database
+                };
+
+                // Save to Firestore
+                await addDoc(collection(db, 'concerts'), formData);
+
+                showAlert('Concert saved! You will need to manually add it to the database.', 'success');
+
+                // Reset form
+                document.getElementById('concert-form').reset();
+                setlistSongs = [];
+                renderSetlist();
+
+            } catch (error) {
+                console.error('Error saving concert:', error);
+                showAlert('Failed to save concert. Please try again.', 'error');
+            } finally {
+                submitBtn.disabled = false;
+                submitBtn.innerHTML = '<i class="fas fa-save mr-2"></i>Save Concert';
+            }
+        });
+    </script>
+</body>
+</html>

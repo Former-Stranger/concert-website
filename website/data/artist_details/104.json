@@ -1,0 +1,58 @@
+{
+  "id": "104",
+  "name": "Buckingham/McVie",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Trouble",
+      "times_played": 1
+    },
+    {
+      "name": "Wish You Were Here",
+      "times_played": 1
+    },
+    {
+      "name": "Never Going Back Again",
+      "times_played": 1
+    },
+    {
+      "name": "Shut Us Down",
+      "times_played": 1
+    },
+    {
+      "name": "Sleeping Around the Corner",
+      "times_played": 1
+    },
+    {
+      "name": "Feel About You",
+      "times_played": 1
+    },
+    {
+      "name": "In My World",
+      "times_played": 1
+    },
+    {
+      "name": "Too Far Gone",
+      "times_played": 1
+    },
+    {
+      "name": "Hold Me",
+      "times_played": 1
+    },
+    {
+      "name": "Little Lies",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "775",
+      "show_number": 774,
+      "date": "2017-08-10",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

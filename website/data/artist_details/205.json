@@ -1,0 +1,26 @@
+{
+  "id": "205",
+  "name": "Fab Faux",
+  "concert_count": 2,
+  "top_songs": [],
+  "concerts": [
+    {
+      "id": "361",
+      "show_number": 360,
+      "date": "2008-11-08",
+      "festival_name": null,
+      "venue": "Queens College",
+      "city": "Queens",
+      "state": "NY"
+    },
+    {
+      "id": "293",
+      "show_number": 292,
+      "date": "2007-03-14",
+      "festival_name": null,
+      "venue": "Webster Hall",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

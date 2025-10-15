@@ -1,0 +1,188 @@
+{
+  "id": "713",
+  "show_number": 712,
+  "date": "2016-08-19",
+  "festival_name": null,
+  "venue": "Citi Field",
+  "city": "Queens",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Zac Brown Band",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/13fcc195.html",
+  "song_count": 21,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Homegrown",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Whiskey's Gone",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Knee Deep",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "S.O.B.",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Nathaniel Rateliff & The Night Sweats"
+    },
+    {
+      "position": 5,
+      "name": "Castaway",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Sweet Annie",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Tomorrow Never Comes",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Jack & Diane",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Mellencamp"
+    },
+    {
+      "position": 9,
+      "name": "Colder Weather",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "As She's Walking Away",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "It's Not OK",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "I'll Be Your Man (Song for a Daughter)",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "The Way You Look Tonight",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jerome Kern"
+    },
+    {
+      "position": 14,
+      "name": "Beautiful Drug",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Loving You Easy",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Don't Let Me Down",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Chainsmokers"
+    },
+    {
+      "position": 17,
+      "name": "Keep Me in Mind",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "Toes",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 19,
+      "name": "Baba O'Riley",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "The Who"
+    },
+    {
+      "position": 20,
+      "name": "Free / Into the Mystic",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 21,
+      "name": "Chicken Fried",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

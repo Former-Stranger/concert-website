@@ -1,0 +1,38 @@
+{
+  "id": "343",
+  "name": "Light of Day 13: D'Urso",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "House of a Thousand Guitars",
+      "times_played": 1
+    },
+    {
+      "name": "Heaven Help the Lonely",
+      "times_played": 1
+    },
+    {
+      "name": "Give Me Tomorrow",
+      "times_played": 1
+    },
+    {
+      "name": "People Who Died",
+      "times_played": 1
+    },
+    {
+      "name": "One Guitar",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "531",
+      "show_number": 530,
+      "date": "2013-01-19",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Paramount Theatre",
+      "city": "Asbury Park",
+      "state": "NJ"
+    }
+  ]
+}

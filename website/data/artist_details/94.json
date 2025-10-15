@@ -1,0 +1,38 @@
+{
+  "id": "94",
+  "name": "Bruce Springsteen with U2",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Power",
+      "times_played": 1
+    },
+    {
+      "name": "Jesus Walks",
+      "times_played": 1
+    },
+    {
+      "name": "Black Skinhead",
+      "times_played": 1
+    },
+    {
+      "name": "Stronger",
+      "times_played": 1
+    },
+    {
+      "name": "Touch the Sky",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "609",
+      "show_number": 608,
+      "date": "2014-12-01",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Times Square",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

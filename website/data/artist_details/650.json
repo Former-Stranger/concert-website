@@ -1,0 +1,58 @@
+{
+  "id": "650",
+  "name": "Zac Brown",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Keep Me in Mind",
+      "times_played": 1
+    },
+    {
+      "name": "Toes",
+      "times_played": 1
+    },
+    {
+      "name": "The Devil Went Down to Georgia",
+      "times_played": 1
+    },
+    {
+      "name": "As She's Walking Away",
+      "times_played": 1
+    },
+    {
+      "name": "Loving You Easy",
+      "times_played": 1
+    },
+    {
+      "name": "Free / Into the Mystic",
+      "times_played": 1
+    },
+    {
+      "name": "Bohemian Rhapsody",
+      "times_played": 1
+    },
+    {
+      "name": "Whiskey's Gone",
+      "times_played": 1
+    },
+    {
+      "name": "Jump Right In",
+      "times_played": 1
+    },
+    {
+      "name": "You Can Call Me Al / The Lion Sleeps Tonight",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1186",
+      "show_number": 1185,
+      "date": "2024-08-17",
+      "festival_name": "Multi-Artist Show",
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    }
+  ]
+}

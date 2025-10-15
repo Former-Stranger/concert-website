@@ -1,0 +1,85 @@
+{
+  "id": "462",
+  "name": "Ringo Starr",
+  "concert_count": 4,
+  "top_songs": [
+    {
+      "name": "It Don't Come Easy",
+      "times_played": 3
+    },
+    {
+      "name": "I Wanna Be Your Man",
+      "times_played": 3
+    },
+    {
+      "name": "Yellow Submarine",
+      "times_played": 3
+    },
+    {
+      "name": "Boys",
+      "times_played": 3
+    },
+    {
+      "name": "Photograph",
+      "times_played": 3
+    },
+    {
+      "name": "Act Naturally",
+      "times_played": 3
+    },
+    {
+      "name": "With a Little Help From My Friends",
+      "times_played": 3
+    },
+    {
+      "name": "Kyrie",
+      "times_played": 2
+    },
+    {
+      "name": "Back Off Boogaloo",
+      "times_played": 2
+    },
+    {
+      "name": "Broken Wings",
+      "times_played": 2
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1259",
+      "show_number": 1258,
+      "date": "2025-06-13",
+      "festival_name": null,
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "860",
+      "show_number": 859,
+      "date": "2018-09-13",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "799",
+      "show_number": 798,
+      "date": "2017-11-15",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "428",
+      "show_number": 427,
+      "date": "2010-06-30",
+      "festival_name": null,
+      "venue": "NYCB Theatre at Westbury",
+      "city": "Westbury",
+      "state": "NY"
+    }
+  ]
+}

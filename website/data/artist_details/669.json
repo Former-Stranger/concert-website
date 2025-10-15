@@ -1,0 +1,50 @@
+{
+  "id": "669",
+  "name": "the Wallflowers",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Sleepwalker",
+      "times_played": 1
+    },
+    {
+      "name": "Letters From the Wasteland",
+      "times_played": 1
+    },
+    {
+      "name": "6th Avenue Heartache",
+      "times_played": 1
+    },
+    {
+      "name": "Three Marlenas",
+      "times_played": 1
+    },
+    {
+      "name": "\"Heroes\"",
+      "times_played": 1
+    },
+    {
+      "name": "One Headlight",
+      "times_played": 1
+    },
+    {
+      "name": "The Difference",
+      "times_played": 1
+    },
+    {
+      "name": "Won't Get Fooled Again",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "142",
+      "show_number": 141,
+      "date": "2001-09-08",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    }
+  ]
+}

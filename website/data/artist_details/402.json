@@ -1,0 +1,34 @@
+{
+  "id": "402",
+  "name": "Night Sweats",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "You Worry Me",
+      "times_played": 1
+    },
+    {
+      "name": "Look It Here",
+      "times_played": 1
+    },
+    {
+      "name": "I Need Never Get Old",
+      "times_played": 1
+    },
+    {
+      "name": "S.O.B.",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "997",
+      "show_number": 996,
+      "date": "2021-11-06",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    }
+  ]
+}

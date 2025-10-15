@@ -1,0 +1,67 @@
+{
+  "id": "663",
+  "name": "the Destroyers",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "Long Gone",
+      "times_played": 1
+    },
+    {
+      "name": "Who Do You Love?",
+      "times_played": 1
+    },
+    {
+      "name": "Get Back Into Rockin'",
+      "times_played": 1
+    },
+    {
+      "name": "Night Time",
+      "times_played": 1
+    },
+    {
+      "name": "I Drink Alone",
+      "times_played": 1
+    },
+    {
+      "name": "One Bourbon, One Scotch, One Beer",
+      "times_played": 1
+    },
+    {
+      "name": "If You Don't Start Drinkin' (I'm Gonna Leave)",
+      "times_played": 1
+    },
+    {
+      "name": "The Sky Is Crying",
+      "times_played": 1
+    },
+    {
+      "name": "Get a Hair-cut",
+      "times_played": 1
+    },
+    {
+      "name": "Bad to the Bone",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1240",
+      "show_number": 1239,
+      "date": "2025-03-03",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Ridgefield Playhouse",
+      "city": "Ridgefield",
+      "state": "CT"
+    },
+    {
+      "id": "53",
+      "show_number": 52,
+      "date": "1997-12-12",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Hammerstein",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

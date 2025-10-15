@@ -1,0 +1,16 @@
+{
+  "id": "115",
+  "name": "Palace Theatre",
+  "city": "Stamford",
+  "state": "CT",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "1154",
+      "show_number": 1153,
+      "date": "2024-04-05",
+      "festival_name": null,
+      "artists": "Lady A"
+    }
+  ]
+}

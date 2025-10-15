@@ -1,0 +1,17 @@
+{
+  "id": "404",
+  "name": "Nirvana",
+  "concert_count": 1,
+  "top_songs": [],
+  "concerts": [
+    {
+      "id": "572",
+      "show_number": 571,
+      "date": "2014-04-10",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "93",
+  "name": "Bruce Springsteen In Conversation",
+  "concert_count": 2,
+  "top_songs": [],
+  "concerts": [
+    {
+      "id": "753",
+      "show_number": 752,
+      "date": "2017-04-28",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "726",
+      "show_number": 725,
+      "date": "2016-10-07",
+      "festival_name": null,
+      "venue": "The Town Hall",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

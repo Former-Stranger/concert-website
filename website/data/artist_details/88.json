@@ -1,0 +1,355 @@
+{
+  "id": "88",
+  "name": "Bruce Springsteen",
+  "concert_count": 34,
+  "top_songs": [
+    {
+      "name": "The Rising",
+      "times_played": 23
+    },
+    {
+      "name": "Born to Run",
+      "times_played": 20
+    },
+    {
+      "name": "Dancing in the Dark",
+      "times_played": 20
+    },
+    {
+      "name": "The Promised Land",
+      "times_played": 20
+    },
+    {
+      "name": "Tenth Avenue Freeze-Out",
+      "times_played": 19
+    },
+    {
+      "name": "Land of Hope and Dreams",
+      "times_played": 17
+    },
+    {
+      "name": "Thunder Road",
+      "times_played": 15
+    },
+    {
+      "name": "Born in the U.S.A.",
+      "times_played": 12
+    },
+    {
+      "name": "Badlands",
+      "times_played": 11
+    },
+    {
+      "name": "The Wish",
+      "times_played": 11
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1195",
+      "show_number": 1194,
+      "date": "2024-09-13",
+      "festival_name": null,
+      "venue": "Oriole Park at Camden Yards",
+      "city": "Baltimore",
+      "state": "MD"
+    },
+    {
+      "id": "975",
+      "show_number": 974,
+      "date": "2021-07-16",
+      "festival_name": null,
+      "venue": "St. James Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "973",
+      "show_number": 972,
+      "date": "2021-06-30",
+      "festival_name": null,
+      "venue": "St. James Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "889",
+      "show_number": 888,
+      "date": "2018-12-15",
+      "festival_name": null,
+      "venue": "Walter Kerr Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "867",
+      "show_number": 866,
+      "date": "2018-09-29",
+      "festival_name": null,
+      "venue": "Walter Kerr Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "856",
+      "show_number": 855,
+      "date": "2018-08-25",
+      "festival_name": null,
+      "venue": "Walter Kerr Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "828",
+      "show_number": 827,
+      "date": "2018-05-18",
+      "festival_name": null,
+      "venue": "Walter Kerr Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "809",
+      "show_number": 808,
+      "date": "2018-01-18",
+      "festival_name": null,
+      "venue": "Walter Kerr Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "800",
+      "show_number": 799,
+      "date": "2017-11-16",
+      "festival_name": null,
+      "venue": "Walter Kerr Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "795",
+      "show_number": 794,
+      "date": "2017-10-13",
+      "festival_name": null,
+      "venue": "Walter Kerr Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "662",
+      "show_number": 661,
+      "date": "2015-11-07",
+      "festival_name": null,
+      "venue": "The Theater at Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "572",
+      "show_number": 571,
+      "date": "2014-04-10",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY"
+    },
+    {
+      "id": "530",
+      "show_number": 529,
+      "date": "2012-12-12",
+      "festival_name": "12-12-12 Concert For Sandy Relief",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "526",
+      "show_number": 525,
+      "date": "2012-10-25",
+      "festival_name": null,
+      "venue": "XL Center",
+      "city": "Hartford",
+      "state": "CT"
+    },
+    {
+      "id": "519",
+      "show_number": 518,
+      "date": "2012-09-22",
+      "festival_name": null,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "518",
+      "show_number": 517,
+      "date": "2012-09-21",
+      "festival_name": null,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "517",
+      "show_number": 516,
+      "date": "2012-09-19",
+      "festival_name": null,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "516",
+      "show_number": 515,
+      "date": "2012-09-02",
+      "festival_name": null,
+      "venue": "Citizens Bank Park",
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    {
+      "id": "514",
+      "show_number": 513,
+      "date": "2012-08-18",
+      "festival_name": null,
+      "venue": "Gillette Stadium",
+      "city": "Foxborough",
+      "state": "MA"
+    },
+    {
+      "id": "507",
+      "show_number": 506,
+      "date": "2012-05-02",
+      "festival_name": null,
+      "venue": "Prudential Center",
+      "city": "Newark",
+      "state": "NJ"
+    },
+    {
+      "id": "505",
+      "show_number": 504,
+      "date": "2012-04-16",
+      "festival_name": null,
+      "venue": "MVP Arena",
+      "city": "Albany",
+      "state": "NY"
+    },
+    {
+      "id": "504",
+      "show_number": 503,
+      "date": "2012-04-09",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "323",
+      "show_number": 322,
+      "date": "2007-11-09",
+      "festival_name": null,
+      "venue": "Chelsea Piers",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "265",
+      "show_number": 264,
+      "date": "2006-06-25",
+      "festival_name": "Multi-Artist Show",
+      "venue": "PNC Bank Arts Center",
+      "city": "Holmdel",
+      "state": "NJ"
+    },
+    {
+      "id": "264",
+      "show_number": 263,
+      "date": "2006-06-22",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "259",
+      "show_number": 258,
+      "date": "2006-04-20",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Convention Hall",
+      "city": "Asbury Park",
+      "state": "NJ"
+    },
+    {
+      "id": "244",
+      "show_number": 243,
+      "date": "2005-11-17",
+      "festival_name": null,
+      "venue": "Continental Airlines Arena",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "241",
+      "show_number": 240,
+      "date": "2005-10-09",
+      "festival_name": null,
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    },
+    {
+      "id": "234",
+      "show_number": 233,
+      "date": "2005-07-20",
+      "festival_name": null,
+      "venue": "Total Mortgage Arena",
+      "city": "Bridgeport",
+      "state": "CT"
+    },
+    {
+      "id": "228",
+      "show_number": 227,
+      "date": "2005-05-19",
+      "festival_name": null,
+      "venue": "Izod Center",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "216",
+      "show_number": 215,
+      "date": "2004-10-13",
+      "festival_name": null,
+      "venue": "Izod Center",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "215",
+      "show_number": 214,
+      "date": "2004-10-01",
+      "festival_name": null,
+      "venue": "Wells Fargo Center",
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    {
+      "id": "197",
+      "show_number": 196,
+      "date": "2003-12-08",
+      "festival_name": null,
+      "venue": "Convention Hall",
+      "city": "Asbury Park",
+      "state": "NJ"
+    },
+    {
+      "id": "149",
+      "show_number": 148,
+      "date": "2001-12-04",
+      "festival_name": null,
+      "venue": "Convention Hall",
+      "city": "Asbury Park",
+      "state": "NJ"
+    }
+  ]
+}

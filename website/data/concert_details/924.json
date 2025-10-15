@@ -1,0 +1,112 @@
+{
+  "id": "924",
+  "show_number": 923,
+  "date": "2019-07-26",
+  "festival_name": "Newport Folk Festival",
+  "venue": "Fort Adams State Park",
+  "city": "Newport",
+  "state": "RI",
+  "artists": [
+    {
+      "name": "Sheryl Crow",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Phil Lesh",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/339e0cc5.html",
+  "song_count": 11,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "A Change Would Do You Good",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "If It Makes You Happy",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Beware of Darkness",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "George Harrison"
+    },
+    {
+      "position": 4,
+      "name": "Prove You Wrong",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Everything Is Broken",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Dylan"
+    },
+    {
+      "position": 6,
+      "name": "Maybe Angels",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Leaving Las Vegas",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "My Favorite Mistake",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Best of Times",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Soak Up the Sun",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "Everyday Is a Winding Road",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

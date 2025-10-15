@@ -1,0 +1,67 @@
+{
+  "id": "595",
+  "name": "Todd Rundgren",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "I Believe I'll Dust My Broom",
+      "times_played": 1
+    },
+    {
+      "name": "Stop Breakin' Down Blues",
+      "times_played": 1
+    },
+    {
+      "name": "Kiddie Boy",
+      "times_played": 1
+    },
+    {
+      "name": "Soul Brother",
+      "times_played": 1
+    },
+    {
+      "name": "Walkin' Blues",
+      "times_played": 1
+    },
+    {
+      "name": "Kind Hearted Woman Blues",
+      "times_played": 1
+    },
+    {
+      "name": "Bleeding",
+      "times_played": 1
+    },
+    {
+      "name": "Black Maria",
+      "times_played": 1
+    },
+    {
+      "name": "Last Fair Deal Gone Down",
+      "times_played": 1
+    },
+    {
+      "name": "Love in Vain Blues",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "522",
+      "show_number": 521,
+      "date": "2012-10-09",
+      "festival_name": null,
+      "venue": "Ridgefield Playhouse",
+      "city": "Ridgefield",
+      "state": "CT"
+    },
+    {
+      "id": "417",
+      "show_number": 416,
+      "date": "2010-04-11",
+      "festival_name": null,
+      "venue": "Ridgefield Playhouse",
+      "city": "Ridgefield",
+      "state": "CT"
+    }
+  ]
+}

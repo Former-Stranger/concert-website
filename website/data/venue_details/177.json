@@ -1,0 +1,79 @@
+{
+  "id": "177",
+  "name": "UBS Arena",
+  "city": "Elmont",
+  "state": "NY",
+  "concert_count": 10,
+  "concerts": [
+    {
+      "id": "1230",
+      "show_number": 1229,
+      "date": "2024-12-31",
+      "festival_name": null,
+      "artists": "Billy Joel"
+    },
+    {
+      "id": "1152",
+      "show_number": 1151,
+      "date": "2024-03-30",
+      "festival_name": null,
+      "artists": "Zach Bryan"
+    },
+    {
+      "id": "1139",
+      "show_number": 1138,
+      "date": "2023-12-31",
+      "festival_name": null,
+      "artists": "Billy Joel"
+    },
+    {
+      "id": "1122",
+      "show_number": 1121,
+      "date": "2023-10-07",
+      "festival_name": null,
+      "artists": "Chris Stapleton w Margo Price"
+    },
+    {
+      "id": "1113",
+      "show_number": 1112,
+      "date": "2023-09-09",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Aerosmith, Black Crowes"
+    },
+    {
+      "id": "1086",
+      "show_number": 1085,
+      "date": "2023-04-11",
+      "festival_name": null,
+      "artists": "Bruce Springsteen & the E Street Band"
+    },
+    {
+      "id": "1085",
+      "show_number": 1084,
+      "date": "2023-04-09",
+      "festival_name": null,
+      "artists": "Bruce Springsteen & the E Street Band"
+    },
+    {
+      "id": "1066",
+      "show_number": 1065,
+      "date": "2022-10-22",
+      "festival_name": null,
+      "artists": "Keith Urban"
+    },
+    {
+      "id": "1044",
+      "show_number": 1043,
+      "date": "2022-08-13",
+      "festival_name": null,
+      "artists": "Roger Waters"
+    },
+    {
+      "id": "1020",
+      "show_number": 1019,
+      "date": "2022-04-23",
+      "festival_name": null,
+      "artists": "The Eagles"
+    }
+  ]
+}

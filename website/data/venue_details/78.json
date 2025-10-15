@@ -1,0 +1,23 @@
+{
+  "id": "78",
+  "name": "Ives Concert Park",
+  "city": "Danbury",
+  "state": "CT",
+  "concert_count": 2,
+  "concerts": [
+    {
+      "id": "490",
+      "show_number": 489,
+      "date": "2011-08-28",
+      "festival_name": null,
+      "artists": "ZZ Top"
+    },
+    {
+      "id": "346",
+      "show_number": 345,
+      "date": "2008-07-03",
+      "festival_name": null,
+      "artists": "The Beach Boys"
+    }
+  ]
+}

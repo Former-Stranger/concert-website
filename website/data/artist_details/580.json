@@ -1,0 +1,76 @@
+{
+  "id": "580",
+  "name": "The Police",
+  "concert_count": 3,
+  "top_songs": [
+    {
+      "name": "Message in a Bottle",
+      "times_played": 2
+    },
+    {
+      "name": "Driven to Tears",
+      "times_played": 2
+    },
+    {
+      "name": "Roxanne",
+      "times_played": 2
+    },
+    {
+      "name": "Synchronicity II",
+      "times_played": 1
+    },
+    {
+      "name": "Walking on the Moon",
+      "times_played": 1
+    },
+    {
+      "name": "Voices Inside My Head / When the World Is Running Down, You Make the Best of What's Still Around",
+      "times_played": 1
+    },
+    {
+      "name": "Don't Stand So Close to Me",
+      "times_played": 1
+    },
+    {
+      "name": "Truth Hits Everybody",
+      "times_played": 1
+    },
+    {
+      "name": "The Bed's Too Big Without You",
+      "times_played": 1
+    },
+    {
+      "name": "Every Little Thing She Does Is Magic",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "354",
+      "show_number": 353,
+      "date": "2008-07-03",
+      "festival_name": null,
+      "venue": "PNC Bank Arts Center",
+      "city": "Holmdel",
+      "state": "NJ"
+    },
+    {
+      "id": "309",
+      "show_number": 308,
+      "date": "2007-08-05",
+      "festival_name": null,
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "306",
+      "show_number": 305,
+      "date": "2007-07-07",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    }
+  ]
+}

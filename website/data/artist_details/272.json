@@ -1,0 +1,26 @@
+{
+  "id": "272",
+  "name": "Jerry Seinfeld",
+  "concert_count": 2,
+  "top_songs": [],
+  "concerts": [
+    {
+      "id": "757",
+      "show_number": 756,
+      "date": "2017-06-08",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "693",
+      "show_number": 692,
+      "date": "2016-05-05",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

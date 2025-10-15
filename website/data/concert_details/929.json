@@ -1,0 +1,284 @@
+{
+  "id": "929",
+  "show_number": 928,
+  "date": "2019-08-06",
+  "festival_name": null,
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Queen + Adam Lambert",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/139fb995.html",
+  "song_count": 33,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Innuendo",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 2,
+      "name": "Now I'm Here",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 3,
+      "name": "Seven Seas of Rhye",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 4,
+      "name": "Keep Yourself Alive",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 5,
+      "name": "Hammer to Fall",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 6,
+      "name": "Killer Queen",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 7,
+      "name": "Don't Stop Me Now",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 8,
+      "name": "In the Lap of the Gods... Revisited",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 9,
+      "name": "Somebody to Love",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 10,
+      "name": "The Show Must Go On",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 11,
+      "name": "I'm in Love With My Car",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 12,
+      "name": "Bicycle Race",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 13,
+      "name": "Another One Bites the Dust",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 14,
+      "name": "Machines (Or 'Back to Humans')",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 15,
+      "name": "I Want It All",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 16,
+      "name": "Love of My Life",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 17,
+      "name": "'39",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 18,
+      "name": "Doing All Right",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 19,
+      "name": "Crazy Little Thing Called Love",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 20,
+      "name": "Under Pressure",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen & David Bowie"
+    },
+    {
+      "position": 21,
+      "name": "I Want to Break Free",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 22,
+      "name": "You Take My Breath Away",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 23,
+      "name": "Who Wants to Live Forever",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 24,
+      "name": "Guitar Solo",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 25,
+      "name": "Tie Your Mother Down",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 26,
+      "name": "Fat Bottomed Girls",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 27,
+      "name": "Radio Ga Ga",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 28,
+      "name": "Bohemian Rhapsody",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 29,
+      "name": "Ay\u2010Oh",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 30,
+      "name": "We Will Rock You",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 31,
+      "name": "We Are the Champions",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 32,
+      "name": "God Save the Queen",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 33,
+      "name": "\"Heroes\"",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "David Bowie"
+    }
+  ]
+}

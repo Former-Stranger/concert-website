@@ -1,0 +1,23 @@
+{
+  "id": "61",
+  "name": "Gramercy Theater",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 2,
+  "concerts": [
+    {
+      "id": "1081",
+      "show_number": 1080,
+      "date": "2023-03-21",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Will Hoge, Wild Feathers"
+    },
+    {
+      "id": "791",
+      "show_number": 790,
+      "date": "2017-09-25",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Little Steven, Disciples of Soul"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "50",
+  "name": "Fenway Park",
+  "city": "Boston",
+  "state": "MA",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "858",
+      "show_number": 857,
+      "date": "2018-09-02",
+      "festival_name": null,
+      "artists": "Pearl Jam"
+    }
+  ]
+}

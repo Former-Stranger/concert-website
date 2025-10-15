@@ -1,0 +1,202 @@
+{
+  "id": "310",
+  "name": "KISS",
+  "concert_count": 17,
+  "top_songs": [
+    {
+      "name": "Deuce",
+      "times_played": 14
+    },
+    {
+      "name": "Shout It Out Loud",
+      "times_played": 14
+    },
+    {
+      "name": "Bass Solo",
+      "times_played": 14
+    },
+    {
+      "name": "Love Gun",
+      "times_played": 14
+    },
+    {
+      "name": "Detroit Rock City",
+      "times_played": 14
+    },
+    {
+      "name": "Rock and Roll All Nite",
+      "times_played": 14
+    },
+    {
+      "name": "Black Diamond",
+      "times_played": 13
+    },
+    {
+      "name": "100,000 Years",
+      "times_played": 13
+    },
+    {
+      "name": "God of Thunder",
+      "times_played": 12
+    },
+    {
+      "name": "Beth",
+      "times_played": 12
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1133",
+      "show_number": 1132,
+      "date": "2023-12-02",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "936",
+      "show_number": 935,
+      "date": "2019-08-20",
+      "festival_name": null,
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY"
+    },
+    {
+      "id": "903",
+      "show_number": 902,
+      "date": "2019-03-27",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "901",
+      "show_number": 900,
+      "date": "2019-03-22",
+      "festival_name": null,
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    },
+    {
+      "id": "590",
+      "show_number": 589,
+      "date": "2014-08-06",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "439",
+      "show_number": 438,
+      "date": "2010-08-14",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "400",
+      "show_number": 399,
+      "date": "2009-10-10",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "209",
+      "show_number": 208,
+      "date": "2004-07-21",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "196",
+      "show_number": 195,
+      "date": "2003-11-16",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "190",
+      "show_number": 189,
+      "date": "2003-08-11",
+      "festival_name": "Multi-Artist Show",
+      "venue": "PNC Bank Arts Center",
+      "city": "Holmdel",
+      "state": "NJ"
+    },
+    {
+      "id": "105",
+      "show_number": 104,
+      "date": "2000-06-27",
+      "festival_name": null,
+      "venue": "Izod Center",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "103",
+      "show_number": 102,
+      "date": "2000-06-09",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "76",
+      "show_number": 75,
+      "date": "1998-11-27",
+      "festival_name": null,
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    },
+    {
+      "id": "75",
+      "show_number": 74,
+      "date": "1998-11-23",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "33",
+      "show_number": 32,
+      "date": "1996-12-29",
+      "festival_name": null,
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    },
+    {
+      "id": "26",
+      "show_number": 25,
+      "date": "1996-07-27",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "25",
+      "show_number": 24,
+      "date": "1996-07-25",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

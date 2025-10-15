@@ -1,0 +1,58 @@
+{
+  "id": "86",
+  "name": "Brothers Osborne",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "The Mountain",
+      "times_played": 1
+    },
+    {
+      "name": "I Hold On",
+      "times_played": 1
+    },
+    {
+      "name": "Free and Easy (Down the Road I Go)",
+      "times_played": 1
+    },
+    {
+      "name": "Somewhere on a Beach",
+      "times_played": 1
+    },
+    {
+      "name": "Woman, Amen",
+      "times_played": 1
+    },
+    {
+      "name": "Black",
+      "times_played": 1
+    },
+    {
+      "name": "Burning Man",
+      "times_played": 1
+    },
+    {
+      "name": "Up on the Ridge",
+      "times_played": 1
+    },
+    {
+      "name": "5-1-5-0",
+      "times_played": 1
+    },
+    {
+      "name": "Sold (The Grundy County Auction Incident)",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "859",
+      "show_number": 858,
+      "date": "2018-09-08",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

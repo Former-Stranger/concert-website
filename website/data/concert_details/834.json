@@ -1,0 +1,120 @@
+{
+  "id": "834",
+  "show_number": 833,
+  "date": "2018-06-16",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Citi Field",
+  "city": "Queens",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Dead",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Company",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/b53f926.html",
+  "song_count": 12,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Hell in a Bucket",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 2,
+      "name": "Money",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 3,
+      "name": "West L.A. Fadeaway",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 4,
+      "name": "Dogs",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 5,
+      "name": "The Other One",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 6,
+      "name": "Scarlet Begonias",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 7,
+      "name": "Pigs (Three Different Ones)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 8,
+      "name": "Dancing in the Street",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Martha Reeves and the Vandellas"
+    },
+    {
+      "position": 9,
+      "name": "The Happiest Days of Our Lives",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 10,
+      "name": "Morning Dew",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bonnie Dobson"
+    },
+    {
+      "position": 11,
+      "name": "Run Like Hell",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 12,
+      "name": "Brokedown Palace",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    }
+  ]
+}

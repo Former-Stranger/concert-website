@@ -1,0 +1,228 @@
+{
+  "id": "409",
+  "show_number": 408,
+  "date": "2009-11-24",
+  "festival_name": null,
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "John Fogerty",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/7bd51e50.html",
+  "song_count": 26,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Hey Tonight",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 2,
+      "name": "Green River",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 3,
+      "name": "Susie-Q",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Dale Hawkins"
+    },
+    {
+      "position": 4,
+      "name": "When Will I Be Loved",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Everly Brothers"
+    },
+    {
+      "position": 5,
+      "name": "Lookin' Out My Back Door",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 6,
+      "name": "Ramble Tamble",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 7,
+      "name": "I Don't Care (Just as Long as You Love Me)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Buck Owens and His Buckaroos"
+    },
+    {
+      "position": 8,
+      "name": "Midnight Special",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 9,
+      "name": "Back Home Again",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Denver"
+    },
+    {
+      "position": 10,
+      "name": "Big Train (From Memphis)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "Keep On Chooglin'",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 12,
+      "name": "Have You Ever Seen the Rain?",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 13,
+      "name": "I'm Working on a Building",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 14,
+      "name": "Oh, Pretty Woman",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Roy Orbison"
+    },
+    {
+      "position": 15,
+      "name": "Haunted House",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Johnny Fuller"
+    },
+    {
+      "position": 16,
+      "name": "Born on the Bayou",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 17,
+      "name": "Garden Party",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Rick Nelson & The Stone Canyon Band"
+    },
+    {
+      "position": 18,
+      "name": "Night Time Is the Right Time",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Roosevelt Sykes"
+    },
+    {
+      "position": 19,
+      "name": "Comin' Down the Road",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "Down on the Corner",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 21,
+      "name": "Centerfield",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 22,
+      "name": "Bad Moon Rising",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 23,
+      "name": "The Old Man Down the Road",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 24,
+      "name": "Fortunate Son",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 25,
+      "name": "Good Golly, Miss Molly",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Little Richard"
+    },
+    {
+      "position": 26,
+      "name": "Proud Mary",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1184",
+  "show_number": 1183,
+  "date": "2024-08-05",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Citi Field",
+  "city": "Queens",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Green Day",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Smashing Pumpkins",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/6b55e2de.html",
+  "song_count": 4,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Cenotaph",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Ziggy Stardust",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "David Bowie"
+    },
+    {
+      "position": 3,
+      "name": "To Forgive",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Perfect",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

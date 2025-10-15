@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "earplugs-and-memories",
+  "private_key_id": "0fdc34267f9c4f2c021ed9de210422adfaf1aaf6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCXPHAsvzedgrKK\ny8AHtGoYKVpZYjeeNBFGR16itHjjIYMJ+nO7SAUXZJf7sNWpEsTwt+0rLaRPPD38\n2Rrz6Tl1n9/DQUG5vHSKO3+PBFzFHq4x7Pp+QvNFeTLQee8uTf36BwTcbdAEI8bG\nO452a6gxtc2xemiMcp8hTr1I9XGqdQj8EUW45e086iyNPryu+BGvG+yeP7uxSosH\nv+vubTB42ClupStHIo6lpjArqoAKsAl6hMSS2smHha4T2qNdi/VHaTbL1+eqi5f9\nytfaSp2kiUdzLuR/i7ClUfbpSSDcdpvCkU4Nd1xWcVS74tNxcVV3If6MoB+uHxk8\nFQGUZkq9AgMBAAECggEAQhnv+5beM5GPAPw6JAP2hTX53+x+W77tN/b0xY+08K1S\njXdyww4g748PoLozQNFL09zIJCGwWdN+UngAAFDVRPSKRFjO5eQZWdvUjol9FMkq\noPavq6UOmDR3gchxwp7jHbeYp9G1ZEHQ3Q7l3xuB6axJScOzU4O7yr6UHAHvWu1d\nXr41or1O2GBGsEcp0Kx2eiLHtINXz0YsUWKkBRQskN7kxPr/mCUyVY4HGEBbcqmA\nI5K4cUBbIZ+WxHxVUOaF60d1q1vf0Lp+D79nL9ZvIzmuFXVy1SMvS5Eky3p+7wQo\nSMR5KD0vli+cgBipsnM3VzE1Cxl144sM6rk3aO5mnwKBgQDJ52h+JidycHUT30Cy\n31FoS4fhJmZFMcKYqtNq78mmxkvrNMasleCXVfn5YPVIr2KSIJoyB0ATJA1LD/+2\nH17cJT8dRmpzUyYFk6SEGAsvUWhu/jl4R27tB+S0ZyJiirMwNyh6/3i/bUCvwwST\nNQ1dUqxhSBd71tfr+1dRYQPYVwKBgQC/wbjOEiucQfdizu1SEJ8fMWu2gAfu4olw\nO7IndLk7Q8JGme136YzWUCOAT4zM+kgMMJQsJxlaUqBRo/1xmZGezJQ4RD+i+pzx\noh+UiZpjkmjM2KXTcB3nejp4o7wKCOXkdvxdKtl8MXMTtwNsHuhbaZ1XoHKgv6c6\npIuadJCZCwKBgDSk4doCmMZ+DAjibTw2fkNzbjqGiKQCFXs5D2cSnsGdcq4hVKwr\naCQNhuA/J7WMBWeUmJ/yxAI5pD2uLj6Ob213SL2ZXqgzRfauSHcozcHIuDI4l0OF\nXKbxJ/Dh81U+VPp9Z1CqzBEdq4AomUjIzHNI2ymCYp0np6UgI+RUJ2yBAoGBALSr\nnafrTtOnA6NBPDE6H/KP6eDFuLPHFZ99X1n1jCDessk6dpeooV27m/dk/FCU8BUs\nIC+Jl0WW3B6P2FeUTbPFJVHuW9b/MagpDIAzNhfi9oMrDPKujD5w126bNqxtvc0I\nnrZZjRiKrtZAdSUF6f9W/zx0nAwBB1sldbNNaIAJAoGANSiaWwooWIGWhBHbcY1m\nKY3mHQleS/Ca4e0l2xIBIvJ5lW9hdlaTmpAoZXNqTnhcADxJlyQI+Ir6Mk63At11\ng+q2QU8pCM1rB80XoKI0zHAZP90PeF2BKWKZuNwe2E2MtupNe9/oGyOrt1UCilvJ\ntmsnVlByW4wae6cAd+G94/E=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@earplugs-and-memories.iam.gserviceaccount.com",
+  "client_id": "111326516947303441723",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40earplugs-and-memories.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+

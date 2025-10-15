@@ -1,0 +1,16 @@
+{
+  "id": "75",
+  "name": "Irish Pub",
+  "city": "Cape Cod",
+  "state": "MA",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "116",
+      "show_number": 115,
+      "date": "2000-08-16",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Clancy, OConnell, Clancy"
+    }
+  ]
+}

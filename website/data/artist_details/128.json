@@ -1,0 +1,58 @@
+{
+  "id": "128",
+  "name": "Classic East: Eagles",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Bodhisattva",
+      "times_played": 1
+    },
+    {
+      "name": "Hey Nineteen",
+      "times_played": 1
+    },
+    {
+      "name": "Aja",
+      "times_played": 1
+    },
+    {
+      "name": "Time Out of Mind",
+      "times_played": 1
+    },
+    {
+      "name": "Rikki Don't Lose That Number",
+      "times_played": 1
+    },
+    {
+      "name": "Black Friday",
+      "times_played": 1
+    },
+    {
+      "name": "Dirty Work",
+      "times_played": 1
+    },
+    {
+      "name": "Peg",
+      "times_played": 1
+    },
+    {
+      "name": "Don't Take Me Alive",
+      "times_played": 1
+    },
+    {
+      "name": "My Old School",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "771",
+      "show_number": 770,
+      "date": "2017-07-29",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Citi Field",
+      "city": "Queens",
+      "state": "NY"
+    }
+  ]
+}

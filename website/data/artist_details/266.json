@@ -1,0 +1,76 @@
+{
+  "id": "266",
+  "name": "Jeff Beck",
+  "concert_count": 3,
+  "top_songs": [
+    {
+      "name": "Corpus Christi Carol",
+      "times_played": 2
+    },
+    {
+      "name": "Brush With the Blues",
+      "times_played": 2
+    },
+    {
+      "name": "Big Block",
+      "times_played": 2
+    },
+    {
+      "name": "A Day in the Life",
+      "times_played": 2
+    },
+    {
+      "name": "Eternity's Breath",
+      "times_played": 1
+    },
+    {
+      "name": "Stratus",
+      "times_played": 1
+    },
+    {
+      "name": "Led Boots",
+      "times_played": 1
+    },
+    {
+      "name": "Bass solo",
+      "times_played": 1
+    },
+    {
+      "name": "Hammerhead",
+      "times_played": 1
+    },
+    {
+      "name": "Mn\u00e1 na h\u00c9ireann",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1063",
+      "show_number": 1062,
+      "date": "2022-10-07",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "850",
+      "show_number": 849,
+      "date": "2018-08-14",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "411",
+      "show_number": 410,
+      "date": "2010-02-19",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

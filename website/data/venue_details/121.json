@@ -1,0 +1,16 @@
+{
+  "id": "121",
+  "name": "Patchogue Theatre",
+  "city": "Patchogue",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "1156",
+      "show_number": 1155,
+      "date": "2024-04-13",
+      "festival_name": null,
+      "artists": "Colin Hay"
+    }
+  ]
+}

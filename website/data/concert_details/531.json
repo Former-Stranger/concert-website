@@ -1,0 +1,76 @@
+{
+  "id": "531",
+  "show_number": 530,
+  "date": "2013-01-19",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Paramount Theatre",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "artists": [
+    {
+      "name": "Light of Day 13: D'Urso",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Grushecky",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Malin",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Nile",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Love",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/4b8e5b92.html",
+  "song_count": 5,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "House of a Thousand Guitars",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Heaven Help the Lonely",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Give Me Tomorrow",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "People Who Died",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Jim Carroll Band"
+    },
+    {
+      "position": 5,
+      "name": "One Guitar",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

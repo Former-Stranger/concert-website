@@ -1,0 +1,157 @@
+{
+  "id": "587",
+  "name": "The Who",
+  "concert_count": 12,
+  "top_songs": [
+    {
+      "name": "Who Are You",
+      "times_played": 10
+    },
+    {
+      "name": "Won't Get Fooled Again",
+      "times_played": 10
+    },
+    {
+      "name": "Behind Blue Eyes",
+      "times_played": 10
+    },
+    {
+      "name": "Baba O'Riley",
+      "times_played": 10
+    },
+    {
+      "name": "Pinball Wizard",
+      "times_played": 9
+    },
+    {
+      "name": "Love, Reign O'er Me",
+      "times_played": 8
+    },
+    {
+      "name": "Amazing Journey",
+      "times_played": 7
+    },
+    {
+      "name": "Sparks",
+      "times_played": 7
+    },
+    {
+      "name": "You Better You Bet",
+      "times_played": 7
+    },
+    {
+      "name": "Eminence Front",
+      "times_played": 6
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1023",
+      "show_number": 1022,
+      "date": "2022-05-26",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "914",
+      "show_number": 913,
+      "date": "2019-05-13",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "677",
+      "show_number": 676,
+      "date": "2016-03-03",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "624",
+      "show_number": 623,
+      "date": "2015-05-26",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY"
+    },
+    {
+      "id": "530",
+      "show_number": 529,
+      "date": "2012-12-12",
+      "festival_name": "12-12-12 Concert For Sandy Relief",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "288",
+      "show_number": 287,
+      "date": "2006-11-28",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Bridgeport",
+      "city": "Bridgeport",
+      "state": "CT"
+    },
+    {
+      "id": "278",
+      "show_number": 277,
+      "date": "2006-09-18",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "202",
+      "show_number": 201,
+      "date": "2004-05-22",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "167",
+      "show_number": 166,
+      "date": "2002-08-31",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "145",
+      "show_number": 144,
+      "date": "2001-10-20",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "120",
+      "show_number": 119,
+      "date": "2000-10-03",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "24",
+      "show_number": 23,
+      "date": "1996-07-20",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

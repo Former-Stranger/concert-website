@@ -1,0 +1,67 @@
+{
+  "id": "406",
+  "name": "OAR",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "The Wanderer",
+      "times_played": 1
+    },
+    {
+      "name": "Lay Down",
+      "times_played": 1
+    },
+    {
+      "name": "Wonderful Day",
+      "times_played": 1
+    },
+    {
+      "name": "Black Rock",
+      "times_played": 1
+    },
+    {
+      "name": "Heard the World",
+      "times_played": 1
+    },
+    {
+      "name": "Something Coming Over",
+      "times_played": 1
+    },
+    {
+      "name": "Hey Girl",
+      "times_played": 1
+    },
+    {
+      "name": "To Zion Goes I",
+      "times_played": 1
+    },
+    {
+      "name": "Tragedy in Waiting",
+      "times_played": 1
+    },
+    {
+      "name": "Shattered (Turn the Car Around)",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "905",
+      "show_number": 904,
+      "date": "2019-04-05",
+      "festival_name": null,
+      "venue": "Hard Rock Hotel New York",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "548",
+      "show_number": 547,
+      "date": "2013-08-03",
+      "festival_name": null,
+      "venue": "PNC Bank Arts Center",
+      "city": "Holmdel",
+      "state": "NJ"
+    }
+  ]
+}

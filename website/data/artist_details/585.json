@@ -1,0 +1,94 @@
+{
+  "id": "585",
+  "name": "The Rolling Stones",
+  "concert_count": 5,
+  "top_songs": [
+    {
+      "name": "Brown Sugar",
+      "times_played": 5
+    },
+    {
+      "name": "It's Only Rock 'n' Roll (but I Like It)",
+      "times_played": 5
+    },
+    {
+      "name": "Start Me Up",
+      "times_played": 5
+    },
+    {
+      "name": "Tumbling Dice",
+      "times_played": 5
+    },
+    {
+      "name": "Honky Tonk Women",
+      "times_played": 5
+    },
+    {
+      "name": "Jumpin' Jack Flash",
+      "times_played": 5
+    },
+    {
+      "name": "(I Can't Get No) Satisfaction",
+      "times_played": 5
+    },
+    {
+      "name": "Sympathy for the Devil",
+      "times_played": 4
+    },
+    {
+      "name": "Miss You",
+      "times_played": 4
+    },
+    {
+      "name": "Monkey Man",
+      "times_played": 3
+    }
+  ],
+  "concerts": [
+    {
+      "id": "280",
+      "show_number": 279,
+      "date": "2006-09-27",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "238",
+      "show_number": 237,
+      "date": "2005-09-15",
+      "festival_name": null,
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "169",
+      "show_number": 168,
+      "date": "2002-09-28",
+      "festival_name": null,
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "50",
+      "show_number": 49,
+      "date": "1997-10-16",
+      "festival_name": null,
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "6",
+      "show_number": 5,
+      "date": "1994-08-14",
+      "festival_name": null,
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    }
+  ]
+}

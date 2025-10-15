@@ -1,0 +1,499 @@
+{
+  "id": "11",
+  "name": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 70,
+  "concerts": [
+    {
+      "id": "1265",
+      "show_number": 1264,
+      "date": "2025-07-11",
+      "festival_name": null,
+      "artists": "Vince Gill"
+    },
+    {
+      "id": "1261",
+      "show_number": 1260,
+      "date": "2025-06-18",
+      "festival_name": null,
+      "artists": "Paul Simon"
+    },
+    {
+      "id": "1254",
+      "show_number": 1253,
+      "date": "2025-05-28",
+      "festival_name": null,
+      "artists": "John Fogerty"
+    },
+    {
+      "id": "1252",
+      "show_number": 1251,
+      "date": "2025-05-20",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Tedeschi Trucks Band, Buddy Guy"
+    },
+    {
+      "id": "1239",
+      "show_number": 1238,
+      "date": "2025-02-27",
+      "festival_name": null,
+      "artists": "Joe Bonamassa"
+    },
+    {
+      "id": "1229",
+      "show_number": 1228,
+      "date": "2024-12-30",
+      "festival_name": null,
+      "artists": "Govt Mule"
+    },
+    {
+      "id": "1224",
+      "show_number": 1223,
+      "date": "2024-12-01",
+      "festival_name": null,
+      "artists": "Jesse Malin Benefit"
+    },
+    {
+      "id": "1180",
+      "show_number": 1179,
+      "date": "2024-07-23",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Pat Benetar, Neil Giraldo"
+    },
+    {
+      "id": "1130",
+      "show_number": 1129,
+      "date": "2023-11-16",
+      "festival_name": null,
+      "artists": "Bob Dylan"
+    },
+    {
+      "id": "1128",
+      "show_number": 1127,
+      "date": "2023-11-13",
+      "festival_name": null,
+      "artists": "Geddy Lee (In Conversation)"
+    },
+    {
+      "id": "1124",
+      "show_number": 1123,
+      "date": "2023-10-20",
+      "festival_name": null,
+      "artists": "My Morning Jacket"
+    },
+    {
+      "id": "1092",
+      "show_number": 1091,
+      "date": "2023-06-06",
+      "festival_name": null,
+      "artists": "John Mellencamp"
+    },
+    {
+      "id": "1088",
+      "show_number": 1087,
+      "date": "2023-04-21",
+      "festival_name": null,
+      "artists": "Bono"
+    },
+    {
+      "id": "1074",
+      "show_number": 1073,
+      "date": "2022-12-08",
+      "festival_name": null,
+      "artists": "Gregg Allman Beacon 75"
+    },
+    {
+      "id": "1070",
+      "show_number": 1069,
+      "date": "2022-11-07",
+      "festival_name": null,
+      "artists": "Marcus Mumford"
+    },
+    {
+      "id": "1068",
+      "show_number": 1067,
+      "date": "2022-11-02",
+      "festival_name": null,
+      "artists": "U2:  Bono"
+    },
+    {
+      "id": "964",
+      "show_number": 963,
+      "date": "2019-12-03",
+      "festival_name": null,
+      "artists": "Bob Dylan"
+    },
+    {
+      "id": "960",
+      "show_number": 959,
+      "date": "2019-11-15",
+      "festival_name": null,
+      "artists": "Joe Bonamassa"
+    },
+    {
+      "id": "958",
+      "show_number": 957,
+      "date": "2019-11-06",
+      "festival_name": null,
+      "artists": "Little Steven (Peter Wolf)"
+    },
+    {
+      "id": "954",
+      "show_number": 953,
+      "date": "2019-11-01",
+      "festival_name": null,
+      "artists": "Blues Traveler"
+    },
+    {
+      "id": "919",
+      "show_number": 918,
+      "date": "2019-06-26",
+      "festival_name": null,
+      "artists": "Jackson Browne"
+    },
+    {
+      "id": "916",
+      "show_number": 915,
+      "date": "2019-06-11",
+      "festival_name": null,
+      "artists": "Tim McGraw (w. John Meachum)"
+    },
+    {
+      "id": "897",
+      "show_number": 896,
+      "date": "2019-02-26",
+      "festival_name": null,
+      "artists": "John Mellencamp"
+    },
+    {
+      "id": "884",
+      "show_number": 883,
+      "date": "2018-11-26",
+      "festival_name": null,
+      "artists": "Bob Dylan"
+    },
+    {
+      "id": "883",
+      "show_number": 882,
+      "date": "2018-11-18",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Bob Weir, Wolf Brothers"
+    },
+    {
+      "id": "801",
+      "show_number": 800,
+      "date": "2017-11-21",
+      "festival_name": null,
+      "artists": "Bob Dylan"
+    },
+    {
+      "id": "799",
+      "show_number": 798,
+      "date": "2017-11-15",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Ringo Starr, All Starr Band"
+    },
+    {
+      "id": "797",
+      "show_number": 796,
+      "date": "2017-11-12",
+      "festival_name": "Multi-Artist Show",
+      "artists": "John Hiatt, Lyle Lovett"
+    },
+    {
+      "id": "790",
+      "show_number": 789,
+      "date": "2017-09-23",
+      "festival_name": null,
+      "artists": "Joe Bonamassa"
+    },
+    {
+      "id": "775",
+      "show_number": 774,
+      "date": "2017-08-10",
+      "festival_name": null,
+      "artists": "Buckingham/McVie"
+    },
+    {
+      "id": "757",
+      "show_number": 756,
+      "date": "2017-06-08",
+      "festival_name": null,
+      "artists": "Jerry Seinfeld"
+    },
+    {
+      "id": "753",
+      "show_number": 752,
+      "date": "2017-04-28",
+      "festival_name": null,
+      "artists": "Bruce Springsteen In Conversation"
+    },
+    {
+      "id": "693",
+      "show_number": 692,
+      "date": "2016-05-05",
+      "festival_name": null,
+      "artists": "Jerry Seinfeld"
+    },
+    {
+      "id": "630",
+      "show_number": 629,
+      "date": "2015-06-22",
+      "festival_name": null,
+      "artists": "Bryan Adams"
+    },
+    {
+      "id": "593",
+      "show_number": 592,
+      "date": "2014-08-23",
+      "festival_name": null,
+      "artists": "Lyle Lovett"
+    },
+    {
+      "id": "535",
+      "show_number": 534,
+      "date": "2013-05-26",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Tom Petty, Heartbreakers"
+    },
+    {
+      "id": "538",
+      "show_number": 537,
+      "date": "2013-05-17",
+      "festival_name": null,
+      "artists": "Joe Bonamassa"
+    },
+    {
+      "id": "524",
+      "show_number": 523,
+      "date": "2012-10-17",
+      "festival_name": null,
+      "artists": "Crosby, Stills and Nash"
+    },
+    {
+      "id": "495",
+      "show_number": 494,
+      "date": "2011-11-19",
+      "festival_name": null,
+      "artists": "John Fogerty"
+    },
+    {
+      "id": "493",
+      "show_number": 492,
+      "date": "2011-11-08",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Joan Baez, Kris Kristofferson"
+    },
+    {
+      "id": "492",
+      "show_number": 491,
+      "date": "2011-11-04",
+      "festival_name": null,
+      "artists": "Joe Bonamassa"
+    },
+    {
+      "id": "491",
+      "show_number": 490,
+      "date": "2011-08-31",
+      "festival_name": null,
+      "artists": "Crosby, Stills and Nash"
+    },
+    {
+      "id": "477",
+      "show_number": 476,
+      "date": "2011-05-12",
+      "festival_name": null,
+      "artists": "Warren Haynes Band"
+    },
+    {
+      "id": "469",
+      "show_number": 468,
+      "date": "2011-03-18",
+      "festival_name": null,
+      "artists": "Allman Brothers Band"
+    },
+    {
+      "id": "451",
+      "show_number": 450,
+      "date": "2010-10-20",
+      "festival_name": "Multi-Artist Show",
+      "artists": "T-Bone Burnett's Speaking Clock Revue: Elton John & Leon Russell, John Mellencamp, Jeff Bridges, Elvis Costello, Punch Brothers, Secret Sisters, Gregg Allman"
+    },
+    {
+      "id": "445",
+      "show_number": 444,
+      "date": "2010-09-14",
+      "festival_name": null,
+      "artists": "Jackson Browne"
+    },
+    {
+      "id": "409",
+      "show_number": 408,
+      "date": "2009-11-24",
+      "festival_name": null,
+      "artists": "John Fogerty"
+    },
+    {
+      "id": "404",
+      "show_number": 403,
+      "date": "2009-11-04",
+      "festival_name": null,
+      "artists": "Lyle Lovett"
+    },
+    {
+      "id": "371",
+      "show_number": 370,
+      "date": "2009-03-09",
+      "festival_name": null,
+      "artists": "Allman Brothers Band"
+    },
+    {
+      "id": "333",
+      "show_number": 332,
+      "date": "2008-04-03",
+      "festival_name": null,
+      "artists": "Ratdog"
+    },
+    {
+      "id": "302",
+      "show_number": 301,
+      "date": "2007-06-11",
+      "festival_name": null,
+      "artists": "Steely Dan"
+    },
+    {
+      "id": "296",
+      "show_number": 295,
+      "date": "2007-04-05",
+      "festival_name": null,
+      "artists": "Allman Brothers Band"
+    },
+    {
+      "id": "294",
+      "show_number": 293,
+      "date": "2007-03-24",
+      "festival_name": null,
+      "artists": "Allman Brothers Band"
+    },
+    {
+      "id": "289",
+      "show_number": 288,
+      "date": "2006-12-03",
+      "festival_name": null,
+      "artists": "Aerosmith"
+    },
+    {
+      "id": "257",
+      "show_number": 256,
+      "date": "2006-04-06",
+      "festival_name": null,
+      "artists": "Bob Weir & Ratdog"
+    },
+    {
+      "id": "256",
+      "show_number": 255,
+      "date": "2006-03-25",
+      "festival_name": null,
+      "artists": "Allman Brothers Band"
+    },
+    {
+      "id": "253",
+      "show_number": 252,
+      "date": "2006-02-15",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Phil Lesh, Friends"
+    },
+    {
+      "id": "236",
+      "show_number": 235,
+      "date": "2005-08-02",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Crosby, Stills, Nash"
+    },
+    {
+      "id": "222",
+      "show_number": 221,
+      "date": "2005-03-10",
+      "festival_name": null,
+      "artists": "Allman Brothers Band"
+    },
+    {
+      "id": "218",
+      "show_number": 217,
+      "date": "2004-11-14",
+      "festival_name": null,
+      "artists": "John Fogerty"
+    },
+    {
+      "id": "200",
+      "show_number": 199,
+      "date": "2004-03-28",
+      "festival_name": null,
+      "artists": "Allman Brothers Band"
+    },
+    {
+      "id": "153",
+      "show_number": 152,
+      "date": "2002-03-14",
+      "festival_name": null,
+      "artists": "Allman Brothers Band"
+    },
+    {
+      "id": "123",
+      "show_number": 122,
+      "date": "2001-03-22",
+      "festival_name": null,
+      "artists": "Allman Brothers Band"
+    },
+    {
+      "id": "81",
+      "show_number": 80,
+      "date": "1999-03-19",
+      "festival_name": null,
+      "artists": "Allman Brothers Band"
+    },
+    {
+      "id": "79",
+      "show_number": 78,
+      "date": "1999-02-28",
+      "festival_name": null,
+      "artists": "Black Crowes"
+    },
+    {
+      "id": "59",
+      "show_number": 58,
+      "date": "1998-03-21",
+      "festival_name": null,
+      "artists": "Allman Brothers Band"
+    },
+    {
+      "id": "34",
+      "show_number": 33,
+      "date": "1997-03-12",
+      "festival_name": null,
+      "artists": "Allman Brothers Band"
+    },
+    {
+      "id": "15",
+      "show_number": 14,
+      "date": "1996-03-12",
+      "festival_name": null,
+      "artists": "Allman Brothers Band"
+    },
+    {
+      "id": "8",
+      "show_number": 7,
+      "date": "1995-03-16",
+      "festival_name": null,
+      "artists": "Joe Cocker"
+    },
+    {
+      "id": "99",
+      "show_number": 98,
+      "date": "",
+      "festival_name": null,
+      "artists": "Allman Brothers Band"
+    }
+  ]
+}

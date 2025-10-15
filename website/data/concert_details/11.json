@@ -1,0 +1,216 @@
+{
+  "id": "11",
+  "show_number": 10,
+  "date": "1995-09-19",
+  "festival_name": null,
+  "venue": "Nassau Coliseum",
+  "city": "Uniondale",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Eric Clapton",
+      "role": "headliner"
+    },
+    {
+      "name": "Clarence \"Gatemouth \" Brown",
+      "role": "opener"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/23dab84b.html",
+  "song_count": 24,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Motherless Child",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Robert Hicks"
+    },
+    {
+      "position": 2,
+      "name": "Malted Milk",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Robert Johnson"
+    },
+    {
+      "position": 3,
+      "name": "From Four Until Late",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Robert Johnson"
+    },
+    {
+      "position": 4,
+      "name": "How Long Blues",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Leroy Carr"
+    },
+    {
+      "position": 5,
+      "name": "Kid Man Blues",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Big Maceo"
+    },
+    {
+      "position": 6,
+      "name": "I'm Gonna Cut Your Head",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Homer Harris"
+    },
+    {
+      "position": 7,
+      "name": "44 Blues",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Roosevelt Sykes"
+    },
+    {
+      "position": 8,
+      "name": "Blues All Day Long (Blues Leave Me Alone)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jimmy Rogers"
+    },
+    {
+      "position": 9,
+      "name": "Standin' Round Crying",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Muddy Waters"
+    },
+    {
+      "position": 10,
+      "name": "I'm Your Hoochie Coochie Man",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Willie Dixon"
+    },
+    {
+      "position": 11,
+      "name": "It Hurts Me Too",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tampa Red"
+    },
+    {
+      "position": 12,
+      "name": "Blues Before Sunrise",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Leroy Carr"
+    },
+    {
+      "position": 13,
+      "name": "Third Degree",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Eddie Boyd"
+    },
+    {
+      "position": 14,
+      "name": "Reconsider Baby",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Lowell Fulson"
+    },
+    {
+      "position": 15,
+      "name": "Sinner's Prayer",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Lowell Fulson"
+    },
+    {
+      "position": 16,
+      "name": "Every Day I Have the Blues",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Aaron \u2018Pinetop\u2019 Sparks"
+    },
+    {
+      "position": 17,
+      "name": "Early in the Morning",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Sonny Boy Williamson"
+    },
+    {
+      "position": 18,
+      "name": "Before You Accuse Me",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bo Diddley"
+    },
+    {
+      "position": 19,
+      "name": "You'll Be Sorry",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Big Joe Turner & Orchestra"
+    },
+    {
+      "position": 20,
+      "name": "I'm Tore Down",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Freddie King"
+    },
+    {
+      "position": 21,
+      "name": "Have You Ever Loved a Woman",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Freddie King"
+    },
+    {
+      "position": 22,
+      "name": "Cross Road Blues",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Robert Johnson"
+    },
+    {
+      "position": 23,
+      "name": "Five Long Years",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Eddie Boyd"
+    },
+    {
+      "position": 24,
+      "name": "'Taint Nobody's Biz-ness If I Do",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Anna Meyers & The Original Memphis Six"
+    }
+  ]
+}

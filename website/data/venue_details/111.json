@@ -1,0 +1,16 @@
+{
+  "id": "111",
+  "name": "Ossining Public Library",
+  "city": "Ossining",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "623",
+      "show_number": 622,
+      "date": "2015-05-17",
+      "festival_name": null,
+      "artists": "Willie Nile"
+    }
+  ]
+}

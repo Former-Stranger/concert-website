@@ -1,0 +1,103 @@
+{
+  "id": "326",
+  "name": "Kip Moore",
+  "concert_count": 6,
+  "top_songs": [
+    {
+      "name": "Just Another Girl",
+      "times_played": 4
+    },
+    {
+      "name": "Come and Get It",
+      "times_played": 4
+    },
+    {
+      "name": "Running for You",
+      "times_played": 4
+    },
+    {
+      "name": "That Was Us",
+      "times_played": 4
+    },
+    {
+      "name": "Somethin' 'Bout a Truck",
+      "times_played": 4
+    },
+    {
+      "name": "Beer Money",
+      "times_played": 3
+    },
+    {
+      "name": "Wild Ones",
+      "times_played": 3
+    },
+    {
+      "name": "Plead the Fifth",
+      "times_played": 3
+    },
+    {
+      "name": "More Girls Like You",
+      "times_played": 3
+    },
+    {
+      "name": "The Bull",
+      "times_played": 3
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1225",
+      "show_number": 1224,
+      "date": "2024-12-12",
+      "festival_name": null,
+      "venue": "Webster Hall",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "1071",
+      "show_number": 1070,
+      "date": "2022-11-10",
+      "festival_name": null,
+      "venue": "Terminal 5",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "949",
+      "show_number": 948,
+      "date": "2019-10-19",
+      "festival_name": null,
+      "venue": "Mayo Performing Arts Center",
+      "city": "Morristown",
+      "state": "NJ"
+    },
+    {
+      "id": "912",
+      "show_number": 911,
+      "date": "2019-05-09",
+      "festival_name": null,
+      "venue": "Ridgefield Playhouse",
+      "city": "Ridgefield",
+      "state": "CT"
+    },
+    {
+      "id": "864",
+      "show_number": 863,
+      "date": "2018-09-21",
+      "festival_name": null,
+      "venue": "Hammerstein Ballroom",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "736",
+      "show_number": 735,
+      "date": "2016-12-01",
+      "festival_name": null,
+      "venue": "Terminal 5",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

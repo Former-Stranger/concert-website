@@ -1,0 +1,188 @@
+{
+  "id": "1009",
+  "show_number": 1008,
+  "date": "2022-03-11",
+  "festival_name": null,
+  "venue": "Ridgefield Playhouse",
+  "city": "Ridgefield",
+  "state": "CT",
+  "artists": [
+    {
+      "name": "Warren Haynes",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/1389f101.html",
+  "song_count": 21,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Angel Flying Too Close to the Ground",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Willie Nelson"
+    },
+    {
+      "position": 2,
+      "name": "Is It Me or You",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "A Friend Like You",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Feel Like Going Home",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Muddy Waters"
+    },
+    {
+      "position": 5,
+      "name": "Forevermore",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Gov\u2019t Mule"
+    },
+    {
+      "position": 6,
+      "name": "Fallen Down",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Gov\u2019t Mule"
+    },
+    {
+      "position": 7,
+      "name": "Beautifully Broken",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Gov\u2019t Mule"
+    },
+    {
+      "position": 8,
+      "name": "Come Back",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pearl Jam"
+    },
+    {
+      "position": 9,
+      "name": "Hope She'll Be Happier",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bill Withers"
+    },
+    {
+      "position": 10,
+      "name": "Old Friend",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Allman Brothers Band"
+    },
+    {
+      "position": 11,
+      "name": "Madman Across the Water",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 12,
+      "name": "If Heartaches Were Nickels",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Kenny Neal"
+    },
+    {
+      "position": 13,
+      "name": "Louise",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Paul Siebel"
+    },
+    {
+      "position": 14,
+      "name": "Child of the Earth",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Gov\u2019t Mule"
+    },
+    {
+      "position": 15,
+      "name": "Smokestack Lightning",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Howlin\u2019 Wolf"
+    },
+    {
+      "position": 16,
+      "name": "One",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "U2"
+    },
+    {
+      "position": 17,
+      "name": "New Year's Eve",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "Into the Mystic",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Van Morrison"
+    },
+    {
+      "position": 19,
+      "name": "Soulshine",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Allman Brothers Band"
+    },
+    {
+      "position": 20,
+      "name": "Hallelujah",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Leonard Cohen"
+    },
+    {
+      "position": 21,
+      "name": "End of the Line",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "The Allman Brothers Band"
+    }
+  ]
+}

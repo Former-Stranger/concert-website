@@ -1,0 +1,35 @@
+{
+  "id": "668",
+  "name": "the Seeger Sessions Band",
+  "concert_count": 3,
+  "top_songs": [],
+  "concerts": [
+    {
+      "id": "265",
+      "show_number": 264,
+      "date": "2006-06-25",
+      "festival_name": "Multi-Artist Show",
+      "venue": "PNC Bank Arts Center",
+      "city": "Holmdel",
+      "state": "NJ"
+    },
+    {
+      "id": "264",
+      "show_number": 263,
+      "date": "2006-06-22",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "259",
+      "show_number": 258,
+      "date": "2006-04-20",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Convention Hall",
+      "city": "Asbury Park",
+      "state": "NJ"
+    }
+  ]
+}

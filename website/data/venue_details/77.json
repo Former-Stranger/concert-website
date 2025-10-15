@@ -1,0 +1,16 @@
+{
+  "id": "77",
+  "name": "Irvington Theater",
+  "city": "Irvington",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "375",
+      "show_number": 374,
+      "date": "2009-04-17",
+      "festival_name": null,
+      "artists": "Roger McGuinn"
+    }
+  ]
+}

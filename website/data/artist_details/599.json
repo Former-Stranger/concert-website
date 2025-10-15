@@ -1,0 +1,85 @@
+{
+  "id": "599",
+  "name": "Tom Petty & The Heartbreakers",
+  "concert_count": 4,
+  "top_songs": [
+    {
+      "name": "Mary Jane's Last Dance",
+      "times_played": 3
+    },
+    {
+      "name": "I Won't Back Down",
+      "times_played": 3
+    },
+    {
+      "name": "Free Fallin'",
+      "times_played": 3
+    },
+    {
+      "name": "Learning to Fly",
+      "times_played": 3
+    },
+    {
+      "name": "Refugee",
+      "times_played": 3
+    },
+    {
+      "name": "Runnin' Down a Dream",
+      "times_played": 3
+    },
+    {
+      "name": "You Wreck Me",
+      "times_played": 3
+    },
+    {
+      "name": "American Girl",
+      "times_played": 3
+    },
+    {
+      "name": "So You Want to Be a Rock 'n' Roll Star",
+      "times_played": 2
+    },
+    {
+      "name": "American Dream Plan B",
+      "times_played": 2
+    }
+  ],
+  "concerts": [
+    {
+      "id": "344",
+      "show_number": 343,
+      "date": "2018-06-18",
+      "festival_name": null,
+      "venue": "Prudential Center",
+      "city": "Newark",
+      "state": "NJ"
+    },
+    {
+      "id": "595",
+      "show_number": 594,
+      "date": "2014-09-13",
+      "festival_name": null,
+      "venue": "XL Center",
+      "city": "Hartford",
+      "state": "CT"
+    },
+    {
+      "id": "594",
+      "show_number": 593,
+      "date": "2014-09-10",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "343",
+      "show_number": 342,
+      "date": "2008-06-17",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

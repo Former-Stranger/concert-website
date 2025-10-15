@@ -1,0 +1,85 @@
+{
+  "id": "273",
+  "name": "Jesse Malin",
+  "concert_count": 8,
+  "top_songs": [
+    {
+      "name": "You Can't Put Your Arms Around a Memory",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "632",
+      "show_number": 631,
+      "date": "2015-06-27",
+      "festival_name": null,
+      "venue": "Stone Pony",
+      "city": "Asbury Park",
+      "state": "NJ"
+    },
+    {
+      "id": "582",
+      "show_number": 581,
+      "date": "2014-06-29",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Tappan Park",
+      "city": "Staten Island",
+      "state": "NY"
+    },
+    {
+      "id": "560",
+      "show_number": 559,
+      "date": "2014-01-18",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Paramount Theatre",
+      "city": "Asbury Park",
+      "state": "NJ"
+    },
+    {
+      "id": "499",
+      "show_number": 498,
+      "date": "2011-12-10",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Stone Pony",
+      "city": "Asbury Park",
+      "state": "NJ"
+    },
+    {
+      "id": "466",
+      "show_number": 465,
+      "date": "2011-02-19",
+      "festival_name": null,
+      "venue": "City Winery",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "448",
+      "show_number": 447,
+      "date": "2010-10-09",
+      "festival_name": null,
+      "venue": "Bowery Electric",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "413",
+      "show_number": 412,
+      "date": "2010-03-04",
+      "festival_name": null,
+      "venue": "Bowery Electric",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "401",
+      "show_number": 400,
+      "date": "2009-10-15",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Terminal 5",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

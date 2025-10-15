@@ -1,0 +1,26 @@
+{
+  "id": "353",
+  "name": "Lone Bellow",
+  "concert_count": 2,
+  "top_songs": [],
+  "concerts": [
+    {
+      "id": "1244",
+      "show_number": 1243,
+      "date": "2025-03-16",
+      "festival_name": null,
+      "venue": "Ridgefield Playhouse",
+      "city": "Ridgefield",
+      "state": "CT"
+    },
+    {
+      "id": "1206",
+      "show_number": 1205,
+      "date": "2024-10-17",
+      "festival_name": null,
+      "venue": "Tarrytown Music Hall",
+      "city": "Tarrytown",
+      "state": "NY"
+    }
+  ]
+}

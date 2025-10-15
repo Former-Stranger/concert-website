@@ -1,0 +1,268 @@
+{
+  "id": "1123",
+  "show_number": 1122,
+  "date": "2023-10-12",
+  "festival_name": null,
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Queen + Adam Lambert",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/3ba35c38.html",
+  "song_count": 31,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Machines (Or 'Back to Humans') / Radio Ga Ga",
+      "set_name": "Act 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 2,
+      "name": "Hammer to Fall",
+      "set_name": "Act 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 3,
+      "name": "Stone Cold Crazy",
+      "set_name": "Act 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 4,
+      "name": "Another One Bites the Dust",
+      "set_name": "Act 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 5,
+      "name": "I'm in Love With My Car",
+      "set_name": "Act 2",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 6,
+      "name": "Bicycle Race",
+      "set_name": "Act 2",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 7,
+      "name": "Fat Bottomed Girls",
+      "set_name": "Act 2",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 8,
+      "name": "I Want It All",
+      "set_name": "Act 2",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 9,
+      "name": "A Kind of Magic",
+      "set_name": "Act 3",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 10,
+      "name": "Killer Queen",
+      "set_name": "Act 3",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 11,
+      "name": "Don't Stop Me Now",
+      "set_name": "Act 3",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 12,
+      "name": "Somebody to Love",
+      "set_name": "Act 3",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 13,
+      "name": "Love of My Life",
+      "set_name": "Act 4 - B-Stage",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 14,
+      "name": "'39",
+      "set_name": "Act 4 - B-Stage",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 15,
+      "name": "Timpani Solo",
+      "set_name": "Act 4 - B-Stage",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Drum Solo",
+      "set_name": "Act 4 - B-Stage",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "Under Pressure",
+      "set_name": "Act 4 - B-Stage",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen & David Bowie"
+    },
+    {
+      "position": 18,
+      "name": "Tie Your Mother Down",
+      "set_name": "Act 4 - B-Stage",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 19,
+      "name": "Crazy Little Thing Called Love",
+      "set_name": "Act 4 - B-Stage",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 20,
+      "name": "I Want to Break Free",
+      "set_name": "Act 5",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 21,
+      "name": "You Take My Breath Away",
+      "set_name": "Act 5",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 22,
+      "name": "Who Wants to Live Forever",
+      "set_name": "Act 5",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 23,
+      "name": "Guitar Solo",
+      "set_name": "Act 5",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 24,
+      "name": "Is This the World We Created...?",
+      "set_name": "Act 5",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 25,
+      "name": "Bohemian Rhapsody",
+      "set_name": "Act 5",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 26,
+      "name": "Ay\u2010Oh",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 27,
+      "name": "We Will Rock You",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 28,
+      "name": "Radio Ga Ga",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 29,
+      "name": "We Are the Champions",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 30,
+      "name": "God Save the Queen",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 31,
+      "name": "\"Heroes\"",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "David Bowie"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "469",
+  "show_number": 468,
+  "date": "2011-03-18",
+  "festival_name": null,
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Allman Brothers Band",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/73d38e85.html",
+  "song_count": 16,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Don't Want You No More",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Spencer Davis Group"
+    },
+    {
+      "position": 2,
+      "name": "It's Not My Cross to Bear",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "I Must Have Done Somebody Wrong",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Eddie Kirkland"
+    },
+    {
+      "position": 4,
+      "name": "Blind Willie McTell",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Dylan"
+    },
+    {
+      "position": 5,
+      "name": "I Walk on Guilded Splinters",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Dr. John"
+    },
+    {
+      "position": 6,
+      "name": "Comin' Home",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Delaney & Bonnie"
+    },
+    {
+      "position": 7,
+      "name": "That Did It",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bobby \u201cBlue\u201d Bland"
+    },
+    {
+      "position": 8,
+      "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Dylan"
+    },
+    {
+      "position": 9,
+      "name": "In Memory of Elizabeth Reed",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Dreams",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "Come and Go Blues",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "Soulshine",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Come On in My Kitchen",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Robert Johnson"
+    },
+    {
+      "position": 14,
+      "name": "44 Blues",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Roosevelt Sykes"
+    },
+    {
+      "position": 15,
+      "name": "Mountain Jam",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "One Way Out",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Sonny Boy Williamson"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "5",
+  "name": "ACDC",
+  "concert_count": 3,
+  "top_songs": [
+    {
+      "name": "Hell Ain't a Bad Place to Be",
+      "times_played": 3
+    },
+    {
+      "name": "Back in Black",
+      "times_played": 3
+    },
+    {
+      "name": "Dirty Deeds Done Dirt Cheap",
+      "times_played": 3
+    },
+    {
+      "name": "Thunderstruck",
+      "times_played": 3
+    },
+    {
+      "name": "Hells Bells",
+      "times_played": 3
+    },
+    {
+      "name": "Shoot to Thrill",
+      "times_played": 3
+    },
+    {
+      "name": "You Shook Me All Night Long",
+      "times_played": 3
+    },
+    {
+      "name": "T.N.T.",
+      "times_played": 3
+    },
+    {
+      "name": "Whole Lotta Rosie",
+      "times_played": 3
+    },
+    {
+      "name": "Let There Be Rock",
+      "times_played": 3
+    }
+  ],
+  "concerts": [
+    {
+      "id": "648",
+      "show_number": 647,
+      "date": "2015-08-26",
+      "festival_name": null,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "362",
+      "show_number": 361,
+      "date": "2008-11-13",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "124",
+      "show_number": 123,
+      "date": "2001-05-08",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

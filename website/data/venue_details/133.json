@@ -1,0 +1,191 @@
+{
+  "id": "133",
+  "name": "Ridgefield Playhouse",
+  "city": "Ridgefield",
+  "state": "CT",
+  "concert_count": 26,
+  "concerts": [
+    {
+      "id": "1244",
+      "show_number": 1243,
+      "date": "2025-03-16",
+      "festival_name": null,
+      "artists": "Lone Bellow"
+    },
+    {
+      "id": "1240",
+      "show_number": 1239,
+      "date": "2025-03-03",
+      "festival_name": "Multi-Artist Show",
+      "artists": "George Thorogood, the Destroyers"
+    },
+    {
+      "id": "1161",
+      "show_number": 1160,
+      "date": "2024-05-01",
+      "festival_name": null,
+      "artists": "Lyle Lovett (with Lisa Loeb)"
+    },
+    {
+      "id": "1144",
+      "show_number": 1143,
+      "date": "2024-02-28",
+      "festival_name": null,
+      "artists": "Live"
+    },
+    {
+      "id": "1097",
+      "show_number": 1096,
+      "date": "2023-07-09",
+      "festival_name": null,
+      "artists": "Ace Frehley"
+    },
+    {
+      "id": "1091",
+      "show_number": 1090,
+      "date": "2023-05-09",
+      "festival_name": null,
+      "artists": "The Wallflowers"
+    },
+    {
+      "id": "1082",
+      "show_number": 1081,
+      "date": "2023-03-23",
+      "festival_name": null,
+      "artists": "Live"
+    },
+    {
+      "id": "1021",
+      "show_number": 1020,
+      "date": "2022-05-10",
+      "festival_name": null,
+      "artists": "Weird Al"
+    },
+    {
+      "id": "1013",
+      "show_number": 1012,
+      "date": "2022-03-26",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Mike Campbell, Dirty Knobs"
+    },
+    {
+      "id": "1009",
+      "show_number": 1008,
+      "date": "2022-03-11",
+      "festival_name": null,
+      "artists": "Warren Haynes"
+    },
+    {
+      "id": "998",
+      "show_number": 997,
+      "date": "2021-11-13",
+      "festival_name": null,
+      "artists": "The Wallflowers"
+    },
+    {
+      "id": "990",
+      "show_number": 989,
+      "date": "2021-09-21",
+      "festival_name": null,
+      "artists": "John Hiatt + Jerry Douglas Band"
+    },
+    {
+      "id": "974",
+      "show_number": 973,
+      "date": "2021-07-13",
+      "festival_name": null,
+      "artists": "Tedeschi Trucks Band"
+    },
+    {
+      "id": "925",
+      "show_number": 924,
+      "date": "2019-07-31",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Lyle Lovett, His Big Band"
+    },
+    {
+      "id": "912",
+      "show_number": 911,
+      "date": "2019-05-09",
+      "festival_name": null,
+      "artists": "Kip Moore"
+    },
+    {
+      "id": "740",
+      "show_number": 739,
+      "date": "2017-01-25",
+      "festival_name": "Multi-Artist Show",
+      "artists": "John Hiatt, Lyle Lovett"
+    },
+    {
+      "id": "694",
+      "show_number": 693,
+      "date": "2016-05-10",
+      "festival_name": "Multi-Artist Show",
+      "artists": "John Hiatt, Rick Brantley"
+    },
+    {
+      "id": "584",
+      "show_number": 583,
+      "date": "2014-07-03",
+      "festival_name": "Multi-Artist Show",
+      "artists": "John Hiatt, Robert Cray Band"
+    },
+    {
+      "id": "549",
+      "show_number": 548,
+      "date": "2013-08-09",
+      "festival_name": null,
+      "artists": "John Hiatt"
+    },
+    {
+      "id": "522",
+      "show_number": 521,
+      "date": "2012-10-09",
+      "festival_name": null,
+      "artists": "Todd Rundgren"
+    },
+    {
+      "id": "471",
+      "show_number": 470,
+      "date": "2011-03-24",
+      "festival_name": null,
+      "artists": "Peter Wolf"
+    },
+    {
+      "id": "464",
+      "show_number": 463,
+      "date": "2011-01-28",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Dickey Betts, Great Southern"
+    },
+    {
+      "id": "417",
+      "show_number": 416,
+      "date": "2010-04-11",
+      "festival_name": null,
+      "artists": "Todd Rundgren"
+    },
+    {
+      "id": "380",
+      "show_number": 379,
+      "date": "2009-05-17",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Dickey Betts, Great Southern"
+    },
+    {
+      "id": "367",
+      "show_number": 366,
+      "date": "2008-12-18",
+      "festival_name": null,
+      "artists": "Rockapella"
+    },
+    {
+      "id": "328",
+      "show_number": 327,
+      "date": "2007-12-02",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Sha Na Na, the Retrotones"
+    }
+  ]
+}

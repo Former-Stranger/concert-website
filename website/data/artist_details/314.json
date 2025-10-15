@@ -1,0 +1,58 @@
+{
+  "id": "314",
+  "name": "Katy Perry",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Roar",
+      "times_played": 1
+    },
+    {
+      "name": "Part of Me",
+      "times_played": 1
+    },
+    {
+      "name": "Wide Awake",
+      "times_played": 1
+    },
+    {
+      "name": "Dark Horse",
+      "times_played": 1
+    },
+    {
+      "name": "E.T.",
+      "times_played": 1
+    },
+    {
+      "name": "Unconditionally",
+      "times_played": 1
+    },
+    {
+      "name": "Megamix Dance Party",
+      "times_played": 1
+    },
+    {
+      "name": "Walking on Air",
+      "times_played": 1
+    },
+    {
+      "name": "Teenage Dream",
+      "times_played": 1
+    },
+    {
+      "name": "California Gurls",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "676",
+      "show_number": 675,
+      "date": "2016-03-02",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

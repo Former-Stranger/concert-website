@@ -1,0 +1,16 @@
+{
+  "id": "22",
+  "name": "Bushnell Center for the Performing Arts",
+  "city": "Hartford",
+  "state": "CT",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "733",
+      "show_number": 732,
+      "date": "2016-11-21",
+      "festival_name": null,
+      "artists": "Joe Bonamassa"
+    }
+  ]
+}

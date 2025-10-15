@@ -1,0 +1,44 @@
+{
+  "id": "39",
+  "name": "Convention Hall",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "concert_count": 5,
+  "concerts": [
+    {
+      "id": "498",
+      "show_number": 497,
+      "date": "2011-12-09",
+      "festival_name": null,
+      "artists": "Gaslight Anthem (guest: Bruce Springsteen)"
+    },
+    {
+      "id": "372",
+      "show_number": 371,
+      "date": "2009-03-24",
+      "festival_name": null,
+      "artists": "Bruce Springsteen & the E Street Band"
+    },
+    {
+      "id": "259",
+      "show_number": 258,
+      "date": "2006-04-20",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Bruce Springsteen, the Seeger Sessions Band"
+    },
+    {
+      "id": "197",
+      "show_number": 196,
+      "date": "2003-12-08",
+      "festival_name": null,
+      "artists": "Bruce Springsteen"
+    },
+    {
+      "id": "149",
+      "show_number": 148,
+      "date": "2001-12-04",
+      "festival_name": null,
+      "artists": "Bruce Springsteen"
+    }
+  ]
+}

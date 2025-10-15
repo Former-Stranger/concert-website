@@ -1,0 +1,76 @@
+{
+  "id": "425",
+  "name": "Peter Gabriel",
+  "concert_count": 3,
+  "top_songs": [
+    {
+      "name": "Digging in the Dirt",
+      "times_played": 2
+    },
+    {
+      "name": "Red Rain",
+      "times_played": 2
+    },
+    {
+      "name": "Darkness",
+      "times_played": 2
+    },
+    {
+      "name": "Solsbury Hill",
+      "times_played": 2
+    },
+    {
+      "name": "In Your Eyes",
+      "times_played": 2
+    },
+    {
+      "name": "Don't Give Up",
+      "times_played": 2
+    },
+    {
+      "name": "\"Heroes\"",
+      "times_played": 1
+    },
+    {
+      "name": "The Boy in the Bubble",
+      "times_played": 1
+    },
+    {
+      "name": "Mirrorball",
+      "times_played": 1
+    },
+    {
+      "name": "Flume",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1118",
+      "show_number": 1117,
+      "date": "2023-09-18",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "572",
+      "show_number": 571,
+      "date": "2014-04-10",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY"
+    },
+    {
+      "id": "419",
+      "show_number": 418,
+      "date": "2010-05-03",
+      "festival_name": null,
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

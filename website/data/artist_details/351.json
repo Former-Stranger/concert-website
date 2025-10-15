@@ -1,0 +1,67 @@
+{
+  "id": "351",
+  "name": "Live",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "Selling the Drama",
+      "times_played": 2
+    },
+    {
+      "name": "The Distance",
+      "times_played": 2
+    },
+    {
+      "name": "All Over You",
+      "times_played": 2
+    },
+    {
+      "name": "The Beauty of Gray",
+      "times_played": 2
+    },
+    {
+      "name": "They Stood Up for Love",
+      "times_played": 2
+    },
+    {
+      "name": "I Alone",
+      "times_played": 2
+    },
+    {
+      "name": "Mirror Song",
+      "times_played": 2
+    },
+    {
+      "name": "Pillar of Davidson",
+      "times_played": 2
+    },
+    {
+      "name": "Turn My Head",
+      "times_played": 2
+    },
+    {
+      "name": "Overcome",
+      "times_played": 2
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1144",
+      "show_number": 1143,
+      "date": "2024-02-28",
+      "festival_name": null,
+      "venue": "Ridgefield Playhouse",
+      "city": "Ridgefield",
+      "state": "CT"
+    },
+    {
+      "id": "1082",
+      "show_number": 1081,
+      "date": "2023-03-23",
+      "festival_name": null,
+      "venue": "Ridgefield Playhouse",
+      "city": "Ridgefield",
+      "state": "CT"
+    }
+  ]
+}

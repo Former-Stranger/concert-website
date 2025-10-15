@@ -1,0 +1,17 @@
+{
+  "id": "610",
+  "name": "Tony Bennett",
+  "concert_count": 1,
+  "top_songs": [],
+  "concerts": [
+    {
+      "id": "365",
+      "show_number": 364,
+      "date": "2008-12-04",
+      "festival_name": null,
+      "venue": "NYCB Theatre at Westbury",
+      "city": "Westbury",
+      "state": "NY"
+    }
+  ]
+}

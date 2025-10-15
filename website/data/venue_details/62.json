@@ -1,0 +1,16 @@
+{
+  "id": "62",
+  "name": "Gramercy Theatre",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "481",
+      "show_number": 480,
+      "date": "2011-06-29",
+      "festival_name": null,
+      "artists": "Lee DeWyze"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "10",
+  "name": "Aerosmith",
+  "concert_count": 9,
+  "top_songs": [
+    {
+      "name": "Sweet Emotion",
+      "times_played": 5
+    },
+    {
+      "name": "Cryin'",
+      "times_played": 4
+    },
+    {
+      "name": "Dream On",
+      "times_played": 4
+    },
+    {
+      "name": "Livin' on the Edge",
+      "times_played": 4
+    },
+    {
+      "name": "Walk This Way",
+      "times_played": 4
+    },
+    {
+      "name": "Love in an Elevator",
+      "times_played": 4
+    },
+    {
+      "name": "I Don't Want to Miss a Thing",
+      "times_played": 3
+    },
+    {
+      "name": "Last Child",
+      "times_played": 3
+    },
+    {
+      "name": "The Train Kept A-Rollin'",
+      "times_played": 3
+    },
+    {
+      "name": "Janie's Got a Gun",
+      "times_played": 3
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1113",
+      "show_number": 1112,
+      "date": "2023-09-09",
+      "festival_name": "Multi-Artist Show",
+      "venue": "UBS Arena",
+      "city": "Elmont",
+      "state": "NY"
+    },
+    {
+      "id": "851",
+      "show_number": 850,
+      "date": "2018-08-15",
+      "festival_name": null,
+      "venue": "Today Show Plaza at Rockefeller Center",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "586",
+      "show_number": 585,
+      "date": "2014-07-10",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "289",
+      "show_number": 288,
+      "date": "2006-12-03",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "196",
+      "show_number": 195,
+      "date": "2003-11-16",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "190",
+      "show_number": 189,
+      "date": "2003-08-11",
+      "festival_name": "Multi-Artist Show",
+      "venue": "PNC Bank Arts Center",
+      "city": "Holmdel",
+      "state": "NJ"
+    },
+    {
+      "id": "131",
+      "show_number": 130,
+      "date": "2001-06-16",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "73",
+      "show_number": 72,
+      "date": "1998-10-15",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "48",
+      "show_number": 47,
+      "date": "1997-08-06",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "418",
+  "name": "Paul Rodgers",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "Little Bit of Love",
+      "times_played": 1
+    },
+    {
+      "name": "Can't Get Enough",
+      "times_played": 1
+    },
+    {
+      "name": "Wishing Well",
+      "times_played": 1
+    },
+    {
+      "name": "Feel Like Makin' Love",
+      "times_played": 1
+    },
+    {
+      "name": "The Stealer",
+      "times_played": 1
+    },
+    {
+      "name": "Ready for Love",
+      "times_played": 1
+    },
+    {
+      "name": "Movin' On",
+      "times_played": 1
+    },
+    {
+      "name": "Mr. Big",
+      "times_played": 1
+    },
+    {
+      "name": "Woman",
+      "times_played": 1
+    },
+    {
+      "name": "Fire and Water",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "850",
+      "show_number": 849,
+      "date": "2018-08-14",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "41",
+      "show_number": 40,
+      "date": "1997-06-26",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    }
+  ]
+}

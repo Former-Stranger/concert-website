@@ -1,0 +1,58 @@
+{
+  "id": "400",
+  "name": "Neil Giraldo",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "All Fired Up",
+      "times_played": 1
+    },
+    {
+      "name": "We Live for Love",
+      "times_played": 1
+    },
+    {
+      "name": "Ties That Bind",
+      "times_played": 1
+    },
+    {
+      "name": "Promises in the Dark",
+      "times_played": 1
+    },
+    {
+      "name": "My Clone Sleeps Alone",
+      "times_played": 1
+    },
+    {
+      "name": "In the Heat of the Night",
+      "times_played": 1
+    },
+    {
+      "name": "Invincible",
+      "times_played": 1
+    },
+    {
+      "name": "We Belong",
+      "times_played": 1
+    },
+    {
+      "name": "River of Love",
+      "times_played": 1
+    },
+    {
+      "name": "Shadows of the Night",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1180",
+      "show_number": 1179,
+      "date": "2024-07-23",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

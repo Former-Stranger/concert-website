@@ -1,0 +1,121 @@
+{
+  "id": "78",
+  "name": "Brad Paisley",
+  "concert_count": 8,
+  "top_songs": [
+    {
+      "name": "Old Alabama",
+      "times_played": 3
+    },
+    {
+      "name": "Perfect Storm",
+      "times_played": 3
+    },
+    {
+      "name": "Crushin' It",
+      "times_played": 3
+    },
+    {
+      "name": "American Saturday Night",
+      "times_played": 3
+    },
+    {
+      "name": "Ticks",
+      "times_played": 3
+    },
+    {
+      "name": "I'm Still a Guy",
+      "times_played": 3
+    },
+    {
+      "name": "Celebrity",
+      "times_played": 3
+    },
+    {
+      "name": "Then",
+      "times_played": 3
+    },
+    {
+      "name": "She's Everything",
+      "times_played": 3
+    },
+    {
+      "name": "River Bank",
+      "times_played": 3
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1267",
+      "show_number": 1266,
+      "date": "2025-07-18",
+      "festival_name": null,
+      "venue": "Bridgeport",
+      "city": "Bridgeport",
+      "state": "CT"
+    },
+    {
+      "id": "1098",
+      "show_number": 1097,
+      "date": "2023-07-14",
+      "festival_name": null,
+      "venue": "Today Show Plaza at Rockefeller Center",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "848",
+      "show_number": 847,
+      "date": "2018-08-10",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "773",
+      "show_number": 772,
+      "date": "2017-08-03",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "708",
+      "show_number": 707,
+      "date": "2016-08-04",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "540",
+      "show_number": 539,
+      "date": "2013-05-18",
+      "festival_name": "Multi-Artist Show",
+      "venue": "The Meadowlands",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "508",
+      "show_number": 507,
+      "date": "2012-06-01",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "402",
+      "show_number": 401,
+      "date": "2009-10-21",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

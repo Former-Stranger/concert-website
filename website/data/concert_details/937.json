@@ -1,0 +1,236 @@
+{
+  "id": "937",
+  "show_number": 936,
+  "date": "2019-08-23",
+  "festival_name": null,
+  "venue": "Jones Beach Theater",
+  "city": "Wantagh",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Zac Brown Band",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/139f25c5.html",
+  "song_count": 27,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Homegrown",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Someone I Used to Know",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Knee Deep",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Use Somebody",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Kings of Leon"
+    },
+    {
+      "position": 5,
+      "name": "Me and the Boys in the Band",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "As She's Walking Away",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Sweet Annie",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Quiet Your Mind",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Beautiful Drug",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Fire and Rain",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "James Taylor"
+    },
+    {
+      "position": 11,
+      "name": "My Old Man",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "Toes",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Leaving Love Behind",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Can't You See",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Marshall Tucker Band"
+    },
+    {
+      "position": 15,
+      "name": "Keep Me in Mind",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Shoofly Pie",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Wood Brothers"
+    },
+    {
+      "position": 17,
+      "name": "Warrior",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "Colder Weather",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 19,
+      "name": "The Woods",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "Jump Right In",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 21,
+      "name": "Free / Into the Mystic",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 22,
+      "name": "Chicken Fried",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 23,
+      "name": "Money for Nothing",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Dire Straits"
+    },
+    {
+      "position": 24,
+      "name": "Seven Nation Army",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "The White Stripes"
+    },
+    {
+      "position": 25,
+      "name": "Hot for Teacher",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Van Halen"
+    },
+    {
+      "position": 26,
+      "name": "Pour Some Sugar on Me",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Def Leppard"
+    },
+    {
+      "position": 27,
+      "name": "Bulls on Parade",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Rage Against the Machine"
+    }
+  ]
+}

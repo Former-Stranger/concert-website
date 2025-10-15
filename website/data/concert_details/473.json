@@ -1,0 +1,104 @@
+{
+  "id": "473",
+  "show_number": 472,
+  "date": "2011-03-26",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Rod Stewart",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Stevie Nicks",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/7bc53eb4.html",
+  "song_count": 10,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Stand Back",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Secret Love",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "If Anyone Falls",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Dreams",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Fleetwood Mac"
+    },
+    {
+      "position": 5,
+      "name": "Sorcerer",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Gold Dust Woman",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Fleetwood Mac"
+    },
+    {
+      "position": 7,
+      "name": "Rhiannon",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Fleetwood Mac"
+    },
+    {
+      "position": 8,
+      "name": "Landslide",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Fleetwood Mac"
+    },
+    {
+      "position": 9,
+      "name": "Edge of Seventeen",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Love Is",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

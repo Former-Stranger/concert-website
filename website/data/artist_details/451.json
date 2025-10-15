@@ -1,0 +1,26 @@
+{
+  "id": "451",
+  "name": "Red Hot Chile Peppers",
+  "concert_count": 2,
+  "top_songs": [],
+  "concerts": [
+    {
+      "id": "181",
+      "show_number": 180,
+      "date": "2003-05-20",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "14",
+      "show_number": 13,
+      "date": "1996-02-16",
+      "festival_name": null,
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    }
+  ]
+}

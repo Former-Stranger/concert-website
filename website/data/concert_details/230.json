@@ -1,0 +1,244 @@
+{
+  "id": "230",
+  "show_number": 229,
+  "date": "2005-06-07",
+  "festival_name": null,
+  "venue": "Stamford Center for Arts",
+  "city": "Stamford",
+  "state": "CT",
+  "artists": [
+    {
+      "name": "John Fogerty",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/1bc8694c.html",
+  "song_count": 28,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Travelin' Band",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 2,
+      "name": "Susie-Q",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Dale Hawkins"
+    },
+    {
+      "position": 3,
+      "name": "Green River",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 4,
+      "name": "Who'll Stop the Rain",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 5,
+      "name": "It Came Out of the Sky",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 6,
+      "name": "Lodi",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 7,
+      "name": "Sugar-Sugar (In My Life)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Lookin' Out My Back Door",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 9,
+      "name": "Rambunctious Boy",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Blue Moon Nights",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "I Will Walk With You",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "Born on the Bayou",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 13,
+      "name": "Midnight Special",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 14,
+      "name": "Run Through the Jungle",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 15,
+      "name": "Bootleg",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 16,
+      "name": "Deja Vu (All Over Again)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "Hey Tonight",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 18,
+      "name": "Down on the Corner",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 19,
+      "name": "I Heard It Through the Grapevine",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Gladys Knight & the Pips"
+    },
+    {
+      "position": 20,
+      "name": "Night Time Is the Right Time",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Roosevelt Sykes"
+    },
+    {
+      "position": 21,
+      "name": "Have You Ever Seen the Rain?",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 22,
+      "name": "Tombstone Shadow",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 23,
+      "name": "Centerfield",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 24,
+      "name": "Up Around the Bend",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 25,
+      "name": "The Old Man Down the Road",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 26,
+      "name": "Fortunate Son",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 27,
+      "name": "Bad Moon Rising",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 28,
+      "name": "Proud Mary",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    }
+  ]
+}

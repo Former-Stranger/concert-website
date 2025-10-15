@@ -1,0 +1,23 @@
+{
+  "id": "146",
+  "name": "St. James Theatre",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 2,
+  "concerts": [
+    {
+      "id": "975",
+      "show_number": 974,
+      "date": "2021-07-16",
+      "festival_name": null,
+      "artists": "Bruce Springsteen"
+    },
+    {
+      "id": "973",
+      "show_number": 972,
+      "date": "2021-06-30",
+      "festival_name": null,
+      "artists": "Bruce Springsteen"
+    }
+  ]
+}

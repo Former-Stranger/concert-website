@@ -1,0 +1,76 @@
+{
+  "id": "140",
+  "name": "Creed",
+  "concert_count": 3,
+  "top_songs": [
+    {
+      "name": "Bullets",
+      "times_played": 2
+    },
+    {
+      "name": "What If",
+      "times_played": 2
+    },
+    {
+      "name": "Say I",
+      "times_played": 2
+    },
+    {
+      "name": "Torn",
+      "times_played": 2
+    },
+    {
+      "name": "One Last Breath",
+      "times_played": 2
+    },
+    {
+      "name": "Faceless Man",
+      "times_played": 2
+    },
+    {
+      "name": "My Own Prison",
+      "times_played": 2
+    },
+    {
+      "name": "With Arms Wide Open",
+      "times_played": 2
+    },
+    {
+      "name": "One",
+      "times_played": 2
+    },
+    {
+      "name": "What's This Life For",
+      "times_played": 2
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1223",
+      "show_number": 1222,
+      "date": "2024-11-29",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "388",
+      "show_number": 387,
+      "date": "2009-08-15",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "161",
+      "show_number": 160,
+      "date": "2002-07-27",
+      "festival_name": null,
+      "venue": "Izod Center",
+      "city": "East Rutherford",
+      "state": "NJ"
+    }
+  ]
+}

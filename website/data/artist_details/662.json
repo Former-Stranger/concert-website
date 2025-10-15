@@ -1,0 +1,67 @@
+{
+  "id": "662",
+  "name": "the Coral Reefer Band with Huey Lewis",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "Workin' N' Playin'",
+      "times_played": 4
+    },
+    {
+      "name": "Changes in Latitudes, Changes in Attitudes",
+      "times_played": 2
+    },
+    {
+      "name": "License to Chill",
+      "times_played": 2
+    },
+    {
+      "name": "Son of a Son of a Sailor",
+      "times_played": 2
+    },
+    {
+      "name": "Come Monday",
+      "times_played": 2
+    },
+    {
+      "name": "It's Five O'Clock Somewhere",
+      "times_played": 2
+    },
+    {
+      "name": "Blue Guitar",
+      "times_played": 2
+    },
+    {
+      "name": "Volcano",
+      "times_played": 2
+    },
+    {
+      "name": "Why Don't We Get Drunk",
+      "times_played": 2
+    },
+    {
+      "name": "One Particular Harbour",
+      "times_played": 2
+    }
+  ],
+  "concerts": [
+    {
+      "id": "666",
+      "show_number": 665,
+      "date": "2015-12-31",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY"
+    },
+    {
+      "id": "646",
+      "show_number": 645,
+      "date": "2015-08-18",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    }
+  ]
+}

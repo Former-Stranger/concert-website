@@ -1,0 +1,16 @@
+{
+  "id": "10",
+  "name": "Bardavon Opera House",
+  "city": "Poughkeepsie",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "1234",
+      "show_number": 1233,
+      "date": "2025-02-10",
+      "festival_name": null,
+      "artists": "Billy Gibbons"
+    }
+  ]
+}

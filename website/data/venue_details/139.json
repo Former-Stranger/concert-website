@@ -1,0 +1,16 @@
+{
+  "id": "139",
+  "name": "SNHU Arena",
+  "city": "Manchester",
+  "state": "NH",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "225",
+      "show_number": 224,
+      "date": "2005-04-29",
+      "festival_name": null,
+      "artists": "Green Day"
+    }
+  ]
+}

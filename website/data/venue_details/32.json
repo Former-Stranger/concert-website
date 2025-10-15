@@ -1,0 +1,16 @@
+{
+  "id": "32",
+  "name": "Cherry Lane Theatre",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "1011",
+      "show_number": 1010,
+      "date": "2022-03-22",
+      "festival_name": null,
+      "artists": "Steve Earle (Coal Country Play)"
+    }
+  ]
+}

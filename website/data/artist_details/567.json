@@ -1,0 +1,67 @@
+{
+  "id": "567",
+  "name": "The Brothers",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "Don't Want You No More",
+      "times_played": 1
+    },
+    {
+      "name": "It's Not My Cross to Bear",
+      "times_played": 1
+    },
+    {
+      "name": "Statesboro Blues",
+      "times_played": 1
+    },
+    {
+      "name": "Revival",
+      "times_played": 1
+    },
+    {
+      "name": "Trouble No More",
+      "times_played": 1
+    },
+    {
+      "name": "Don't Keep Me Wonderin'",
+      "times_played": 1
+    },
+    {
+      "name": "Black Hearted Woman",
+      "times_played": 1
+    },
+    {
+      "name": "Dreams",
+      "times_played": 1
+    },
+    {
+      "name": "Hot 'Lanta",
+      "times_played": 1
+    },
+    {
+      "name": "Come and Go Blues",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1247",
+      "show_number": 1246,
+      "date": "2025-04-15",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "972",
+      "show_number": 971,
+      "date": "2020-03-10",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

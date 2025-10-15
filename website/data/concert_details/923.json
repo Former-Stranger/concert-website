@@ -1,0 +1,228 @@
+{
+  "id": "923",
+  "show_number": 922,
+  "date": "2019-07-19",
+  "festival_name": null,
+  "venue": "Foxwoods Resort Casino",
+  "city": "Mashantucket",
+  "state": "CT",
+  "artists": [
+    {
+      "name": "Weird Al Yankovic",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/4b9e330a.html",
+  "song_count": 26,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "The Raiders March",
+      "set_name": "National Symphony Orchestra Warm-Up",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Williams"
+    },
+    {
+      "position": 2,
+      "name": "Mission: Impossible",
+      "set_name": "National Symphony Orchestra Warm-Up",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Lalo Schifrin"
+    },
+    {
+      "position": 3,
+      "name": "Superman March",
+      "set_name": "National Symphony Orchestra Warm-Up",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Williams"
+    },
+    {
+      "position": 4,
+      "name": "Throne Room / End Credits",
+      "set_name": "National Symphony Orchestra Warm-Up",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Williams"
+    },
+    {
+      "position": 5,
+      "name": "I Lost on Jeopardy / I Love Rocky Road / Like a Surgeon",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "The Biggest Ball of Twine in Minnesota",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Word Crimes",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Drum Solo",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Jurassic Park",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Don't Download This Song",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "Weasel Stomping Day",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "You Don't Love Me Anymore",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Oboe Solo",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Tacky",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Harvey the Wonder Hamster",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Jackson Park Express",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "TV Channel Surfing Video Montage#1",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "Smells Like Nirvana",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 19,
+      "name": "TV Channel Surfing Video Montage #2",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "Dare to Be Stupid",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 21,
+      "name": "TV Channel Surfing Video Montage #3",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 22,
+      "name": "White & Nerdy",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 23,
+      "name": "TV Channel Surfing Video Montage #4",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 24,
+      "name": "Amish Paradise",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 25,
+      "name": "The Saga Begins",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 26,
+      "name": "Yoda",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

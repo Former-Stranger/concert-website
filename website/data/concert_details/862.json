@@ -1,0 +1,268 @@
+{
+  "id": "862",
+  "show_number": 861,
+  "date": "2018-09-19",
+  "festival_name": null,
+  "venue": "Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Chicago",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/63e9e63b.html",
+  "song_count": 31,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Make Me Smile",
+      "set_name": "Chicago II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "So Much to Say, So Much to Give",
+      "set_name": "Chicago II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Anxiety's Moment",
+      "set_name": "Chicago II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "West Virginia Fantasies",
+      "set_name": "Chicago II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Colour My World",
+      "set_name": "Chicago II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "To Be Free",
+      "set_name": "Chicago II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Now More Than Ever",
+      "set_name": "Chicago II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Movin' In",
+      "set_name": "Chicago II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "The Road",
+      "set_name": "Chicago II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "In the Country",
+      "set_name": "Chicago II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "Wake Up Sunshine",
+      "set_name": "Chicago II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "Poem for the People",
+      "set_name": "Chicago II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Fancy Colours",
+      "set_name": "Chicago II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Memories of Love",
+      "set_name": "Chicago II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Where Do We Go From Here",
+      "set_name": "Chicago II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "It Better End Soon",
+      "set_name": "Chicago II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "25 or 6 to 4",
+      "set_name": "Chicago II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "Beginnings",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 19,
+      "name": "Questions 67 & 68",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "Dialogue (Part I & II)",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 21,
+      "name": "If You Leave Me Now",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 22,
+      "name": "Call on Me",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 23,
+      "name": "Does Anybody Really Know What Time It Is?",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 24,
+      "name": "Hard Habit to Break",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 25,
+      "name": "You're the Inspiration",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 26,
+      "name": "I'm a Man",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Spencer Davis Group"
+    },
+    {
+      "position": 27,
+      "name": "Old Days",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 28,
+      "name": "Just You 'n' Me",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 29,
+      "name": "Hard to Say I'm Sorry / Get Away",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 30,
+      "name": "Saturday in the Park",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 31,
+      "name": "Feelin' Stronger Every Day",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

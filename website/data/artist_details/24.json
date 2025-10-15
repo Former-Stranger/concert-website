@@ -1,0 +1,17 @@
+{
+  "id": "24",
+  "name": "Andrea Bocelli",
+  "concert_count": 1,
+  "top_songs": [],
+  "concerts": [
+    {
+      "id": "967",
+      "show_number": 966,
+      "date": "2019-12-19",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

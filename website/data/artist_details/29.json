@@ -1,0 +1,148 @@
+{
+  "id": "29",
+  "name": "Avett Brothers",
+  "concert_count": 11,
+  "top_songs": [
+    {
+      "name": "Ain't No Man",
+      "times_played": 9
+    },
+    {
+      "name": "Head Full of Doubt/Road Full of Promise",
+      "times_played": 8
+    },
+    {
+      "name": "I Wish I Was",
+      "times_played": 7
+    },
+    {
+      "name": "No Hard Feelings",
+      "times_played": 7
+    },
+    {
+      "name": "Laundry Room",
+      "times_played": 6
+    },
+    {
+      "name": "I and Love and You",
+      "times_played": 6
+    },
+    {
+      "name": "The Fall",
+      "times_played": 5
+    },
+    {
+      "name": "Down With the Shine",
+      "times_played": 5
+    },
+    {
+      "name": "Vanity",
+      "times_played": 5
+    },
+    {
+      "name": "Kick Drum Heart",
+      "times_played": 5
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1273",
+      "show_number": 1272,
+      "date": "2025-08-08",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "1272",
+      "show_number": 1271,
+      "date": "2025-08-03",
+      "festival_name": null,
+      "venue": "Tilles Center",
+      "city": "Brookville",
+      "state": "NY"
+    },
+    {
+      "id": "1249",
+      "show_number": 1248,
+      "date": "2025-05-03",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "1248",
+      "show_number": 1247,
+      "date": "2025-05-02",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "1164",
+      "show_number": 1163,
+      "date": "2024-05-21",
+      "festival_name": null,
+      "venue": "Westville Music Bowl",
+      "city": "New Haven",
+      "state": "CT"
+    },
+    {
+      "id": "1052",
+      "show_number": 1051,
+      "date": "2022-08-28",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "1024",
+      "show_number": 1023,
+      "date": "2022-05-31",
+      "festival_name": null,
+      "venue": "Westville Music Bowl",
+      "city": "New Haven",
+      "state": "CT"
+    },
+    {
+      "id": "946",
+      "show_number": 945,
+      "date": "2019-10-03",
+      "festival_name": null,
+      "venue": "Great South Bay Music Festival",
+      "city": "Oakdale",
+      "state": "NY"
+    },
+    {
+      "id": "875",
+      "show_number": 874,
+      "date": "2018-10-25",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "755",
+      "show_number": 754,
+      "date": "2017-05-12",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "681",
+      "show_number": 680,
+      "date": "2016-04-09",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    }
+  ]
+}

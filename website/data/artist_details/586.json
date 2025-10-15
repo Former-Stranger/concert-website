@@ -1,0 +1,85 @@
+{
+  "id": "586",
+  "name": "The Wallflowers",
+  "concert_count": 4,
+  "top_songs": [
+    {
+      "name": "Maybe Your Heart's Not in It No More",
+      "times_played": 2
+    },
+    {
+      "name": "Move the River",
+      "times_played": 2
+    },
+    {
+      "name": "6th Avenue Heartache",
+      "times_played": 2
+    },
+    {
+      "name": "Roots and Wings",
+      "times_played": 2
+    },
+    {
+      "name": "I've Been Delivered",
+      "times_played": 2
+    },
+    {
+      "name": "I'll Let You Down (But Will Not Give You Up)",
+      "times_played": 2
+    },
+    {
+      "name": "One Headlight",
+      "times_played": 2
+    },
+    {
+      "name": "Who's That Man Walking 'Round My Garden",
+      "times_played": 2
+    },
+    {
+      "name": "The Difference",
+      "times_played": 2
+    },
+    {
+      "name": "The Passenger",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1091",
+      "show_number": 1090,
+      "date": "2023-05-09",
+      "festival_name": null,
+      "venue": "Ridgefield Playhouse",
+      "city": "Ridgefield",
+      "state": "CT"
+    },
+    {
+      "id": "998",
+      "show_number": 997,
+      "date": "2021-11-13",
+      "festival_name": null,
+      "venue": "Ridgefield Playhouse",
+      "city": "Ridgefield",
+      "state": "CT"
+    },
+    {
+      "id": "120",
+      "show_number": 119,
+      "date": "2000-10-03",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "52",
+      "show_number": 51,
+      "date": "1997-11-23",
+      "festival_name": null,
+      "venue": "O'Neill Theater Center",
+      "city": "Waterford",
+      "state": "CT"
+    }
+  ]
+}

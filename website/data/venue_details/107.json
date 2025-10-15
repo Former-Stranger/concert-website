@@ -1,0 +1,16 @@
+{
+  "id": "107",
+  "name": "O'Neill Theater Center",
+  "city": "Waterford",
+  "state": "CT",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "52",
+      "show_number": 51,
+      "date": "1997-11-23",
+      "festival_name": null,
+      "artists": "The Wallflowers"
+    }
+  ]
+}

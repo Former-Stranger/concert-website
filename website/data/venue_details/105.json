@@ -1,0 +1,16 @@
+{
+  "id": "105",
+  "name": "New Haven Coliseum",
+  "city": "New Haven",
+  "state": "CT",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "96",
+      "show_number": 95,
+      "date": "1999-11-10",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Bob Dylan and Phil Lesh, Friends"
+    }
+  ]
+}

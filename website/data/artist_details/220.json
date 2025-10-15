@@ -1,0 +1,35 @@
+{
+  "id": "220",
+  "name": "Further",
+  "concert_count": 3,
+  "top_songs": [],
+  "concerts": [
+    {
+      "id": "494",
+      "show_number": 493,
+      "date": "2011-11-10",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "474",
+      "show_number": 473,
+      "date": "2011-03-27",
+      "festival_name": null,
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "459",
+      "show_number": 458,
+      "date": "2010-11-20",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

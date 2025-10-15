@@ -1,0 +1,23 @@
+{
+  "id": "51",
+  "name": "Fleet Center",
+  "city": "Boston",
+  "state": "MA",
+  "concert_count": 2,
+  "concerts": [
+    {
+      "id": "63",
+      "show_number": 62,
+      "date": "1998-05-16",
+      "festival_name": null,
+      "artists": "Elton John"
+    },
+    {
+      "id": "62",
+      "show_number": 61,
+      "date": "1998-05-15",
+      "festival_name": null,
+      "artists": "Elton John"
+    }
+  ]
+}

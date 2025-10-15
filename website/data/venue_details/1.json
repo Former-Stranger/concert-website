@@ -1,0 +1,23 @@
+{
+  "id": "1",
+  "name": "92nd Street Y",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 2,
+  "concerts": [
+    {
+      "id": "1056",
+      "show_number": 1055,
+      "date": "2022-09-13",
+      "festival_name": null,
+      "artists": "Bruce Springsteen / Jann Wenner"
+    },
+    {
+      "id": "248",
+      "show_number": 247,
+      "date": "2005-11-29",
+      "festival_name": null,
+      "artists": "Billy Joel"
+    }
+  ]
+}

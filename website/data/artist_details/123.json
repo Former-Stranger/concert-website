@@ -1,0 +1,17 @@
+{
+  "id": "123",
+  "name": "Christopher Robin Band",
+  "concert_count": 1,
+  "top_songs": [],
+  "concerts": [
+    {
+      "id": "437",
+      "show_number": 436,
+      "date": "2010-08-13",
+      "festival_name": null,
+      "venue": "Towne Crier Cafe",
+      "city": "Beacon",
+      "state": "NY"
+    }
+  ]
+}

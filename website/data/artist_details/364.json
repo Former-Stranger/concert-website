@@ -1,0 +1,26 @@
+{
+  "id": "364",
+  "name": "Mac McAnally",
+  "concert_count": 2,
+  "top_songs": [],
+  "concerts": [
+    {
+      "id": "1218",
+      "show_number": 1217,
+      "date": "2024-11-18",
+      "festival_name": null,
+      "venue": "Sony Hall",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "1132",
+      "show_number": 1131,
+      "date": "2023-11-21",
+      "festival_name": null,
+      "venue": "City Winery",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

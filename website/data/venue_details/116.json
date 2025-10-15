@@ -1,0 +1,37 @@
+{
+  "id": "116",
+  "name": "Palladium Times Square",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 4,
+  "concerts": [
+    {
+      "id": "825",
+      "show_number": 824,
+      "date": "2018-05-02",
+      "festival_name": null,
+      "artists": "Little Steven"
+    },
+    {
+      "id": "812",
+      "show_number": 811,
+      "date": "2018-02-13",
+      "festival_name": "Multi-Artist Show",
+      "artists": "All for Hall: Vince Gill, Maren Morris, Emmylou, Kesha"
+    },
+    {
+      "id": "607",
+      "show_number": 606,
+      "date": "2014-11-14",
+      "festival_name": null,
+      "artists": "Chris Young"
+    },
+    {
+      "id": "600",
+      "show_number": 599,
+      "date": "2014-09-25",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Kip Moore, Sam Hunt, Charlie Worshem"
+    }
+  ]
+}

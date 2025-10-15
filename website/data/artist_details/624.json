@@ -1,0 +1,26 @@
+{
+  "id": "624",
+  "name": "Vince Gill",
+  "concert_count": 2,
+  "top_songs": [],
+  "concerts": [
+    {
+      "id": "1265",
+      "show_number": 1264,
+      "date": "2025-07-11",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "810",
+      "show_number": 809,
+      "date": "2018-01-26",
+      "festival_name": null,
+      "venue": "Opry City Stage",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

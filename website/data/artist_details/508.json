@@ -1,0 +1,58 @@
+{
+  "id": "508",
+  "name": "Sensational Space Shifters",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Poor Howard",
+      "times_played": 1
+    },
+    {
+      "name": "Tin Pan Valley",
+      "times_played": 1
+    },
+    {
+      "name": "Trampled Under Foot",
+      "times_played": 1
+    },
+    {
+      "name": "Turn It Up",
+      "times_played": 1
+    },
+    {
+      "name": "Black Dog",
+      "times_played": 1
+    },
+    {
+      "name": "Let the Four Winds Blow",
+      "times_played": 1
+    },
+    {
+      "name": "The Rain Song",
+      "times_played": 1
+    },
+    {
+      "name": "No Place to Go / Dazed and Confused",
+      "times_played": 1
+    },
+    {
+      "name": "Little Maggie",
+      "times_played": 1
+    },
+    {
+      "name": "Crawling King Snake",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "653",
+      "show_number": 652,
+      "date": "2015-09-17",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    }
+  ]
+}

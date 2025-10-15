@@ -1,0 +1,67 @@
+{
+  "id": "346",
+  "name": "Lionel Richie",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "All Around the World",
+      "times_played": 1
+    },
+    {
+      "name": "Penny Lover",
+      "times_played": 1
+    },
+    {
+      "name": "Easy",
+      "times_played": 1
+    },
+    {
+      "name": "My Love",
+      "times_played": 1
+    },
+    {
+      "name": "Ballerina Girl",
+      "times_played": 1
+    },
+    {
+      "name": "You Are",
+      "times_played": 1
+    },
+    {
+      "name": "Truly",
+      "times_played": 1
+    },
+    {
+      "name": "Running With the Night",
+      "times_played": 1
+    },
+    {
+      "name": "Still",
+      "times_played": 1
+    },
+    {
+      "name": "Oh No",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "922",
+      "show_number": 921,
+      "date": "2019-07-17",
+      "festival_name": null,
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "581",
+      "show_number": 580,
+      "date": "2014-06-25",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    }
+  ]
+}

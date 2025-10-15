@@ -1,0 +1,23 @@
+{
+  "id": "149",
+  "name": "Stamford Center for the Arts",
+  "city": "Stamford",
+  "state": "CT",
+  "concert_count": 2,
+  "concerts": [
+    {
+      "id": "454",
+      "show_number": 453,
+      "date": "2010-11-12",
+      "festival_name": null,
+      "artists": "Joe Bonamassa"
+    },
+    {
+      "id": "284",
+      "show_number": 283,
+      "date": "2006-10-23",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Ian Anderson, Orchestra"
+    }
+  ]
+}

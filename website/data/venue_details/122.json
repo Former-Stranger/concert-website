@@ -1,0 +1,30 @@
+{
+  "id": "122",
+  "name": "Peekskill Paramount",
+  "city": "Peekskill",
+  "state": "NY",
+  "concert_count": 3,
+  "concerts": [
+    {
+      "id": "887",
+      "show_number": 886,
+      "date": "2018-12-06",
+      "festival_name": null,
+      "artists": "Lindsey Buckingham"
+    },
+    {
+      "id": "722",
+      "show_number": 721,
+      "date": "2016-09-18",
+      "festival_name": null,
+      "artists": "Donovan"
+    },
+    {
+      "id": "689",
+      "show_number": 688,
+      "date": "2016-04-29",
+      "festival_name": "Multi-Artist Show",
+      "artists": "John Hiatt, Rick Brantley"
+    }
+  ]
+}

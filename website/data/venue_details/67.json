@@ -1,0 +1,16 @@
+{
+  "id": "67",
+  "name": "Hard Rock Hotel New York",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "905",
+      "show_number": 904,
+      "date": "2019-04-05",
+      "festival_name": null,
+      "artists": "OAR"
+    }
+  ]
+}

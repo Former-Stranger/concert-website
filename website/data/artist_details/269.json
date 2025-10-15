@@ -1,0 +1,67 @@
+{
+  "id": "269",
+  "name": "Jelly Roll",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "I Am Not Okay",
+      "times_played": 1
+    },
+    {
+      "name": "Halfway to Hell",
+      "times_played": 1
+    },
+    {
+      "name": "Get By",
+      "times_played": 1
+    },
+    {
+      "name": "Burning",
+      "times_played": 1
+    },
+    {
+      "name": "Son of a Sinner",
+      "times_played": 1
+    },
+    {
+      "name": "Should've Been a Cowboy",
+      "times_played": 1
+    },
+    {
+      "name": "Man! I Feel Like a Woman!",
+      "times_played": 1
+    },
+    {
+      "name": "Friends in Low Places",
+      "times_played": 1
+    },
+    {
+      "name": "Losers",
+      "times_played": 1
+    },
+    {
+      "name": "I Had Some Help",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1257",
+      "show_number": 1256,
+      "date": "2025-06-04",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Citi Field",
+      "city": "Queens",
+      "state": "NY"
+    },
+    {
+      "id": "1200",
+      "show_number": 1199,
+      "date": "2024-09-27",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

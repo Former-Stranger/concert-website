@@ -1,0 +1,84 @@
+{
+  "id": "306",
+  "show_number": 305,
+  "date": "2007-07-07",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Giants Stadium",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "artists": [
+    {
+      "name": "Live Earth (Dave Matthews Band",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Roger Waters",
+      "role": "festival_performer"
+    },
+    {
+      "name": "The Police",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Bon Jovi",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Alicia Keys",
+      "role": "festival_performer"
+    },
+    {
+      "name": "John Mayer",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Melissa Etheridge",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Kanye West",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Fall Out Boy)",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/13d6fdf5.html",
+  "song_count": 4,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Driven to Tears",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Roxanne",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Can't Stand Losing You / Reggatta de Blanc",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Message in a Bottle",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

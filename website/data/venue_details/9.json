@@ -1,0 +1,205 @@
+{
+  "id": "9",
+  "name": "Barclays Center",
+  "city": "Brooklyn",
+  "state": "NY",
+  "concert_count": 28,
+  "concerts": [
+    {
+      "id": "1226",
+      "show_number": 1225,
+      "date": "2024-12-19",
+      "festival_name": null,
+      "artists": "Zach Bryan"
+    },
+    {
+      "id": "1165",
+      "show_number": 1164,
+      "date": "2024-05-22",
+      "festival_name": null,
+      "artists": "Ed Sheeran"
+    },
+    {
+      "id": "1084",
+      "show_number": 1083,
+      "date": "2023-04-03",
+      "festival_name": null,
+      "artists": "Bruce Springsteen & the E Street Band"
+    },
+    {
+      "id": "1007",
+      "show_number": 1006,
+      "date": "2022-03-01",
+      "festival_name": null,
+      "artists": "Elton John"
+    },
+    {
+      "id": "936",
+      "show_number": 935,
+      "date": "2019-08-20",
+      "festival_name": null,
+      "artists": "KISS"
+    },
+    {
+      "id": "904",
+      "show_number": 903,
+      "date": "2019-03-29",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Rock, Roll Hall Induction 2019"
+    },
+    {
+      "id": "899",
+      "show_number": 898,
+      "date": "2019-03-08",
+      "festival_name": null,
+      "artists": "Elton John"
+    },
+    {
+      "id": "876",
+      "show_number": 875,
+      "date": "2018-10-27",
+      "festival_name": null,
+      "artists": "Keith Urban"
+    },
+    {
+      "id": "808",
+      "show_number": 807,
+      "date": "2018-01-09",
+      "festival_name": null,
+      "artists": "The Killers"
+    },
+    {
+      "id": "788",
+      "show_number": 787,
+      "date": "2017-09-19",
+      "festival_name": null,
+      "artists": "Paul McCartney"
+    },
+    {
+      "id": "770",
+      "show_number": 769,
+      "date": "2017-07-28",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Queen, Adam Lambert"
+    },
+    {
+      "id": "751",
+      "show_number": 750,
+      "date": "2017-04-07",
+      "festival_name": null,
+      "artists": "Rock Hall of Fame"
+    },
+    {
+      "id": "748",
+      "show_number": 747,
+      "date": "2017-03-15",
+      "festival_name": null,
+      "artists": "Green Day"
+    },
+    {
+      "id": "741",
+      "show_number": 740,
+      "date": "2017-01-27",
+      "festival_name": null,
+      "artists": "Eric Church"
+    },
+    {
+      "id": "732",
+      "show_number": 731,
+      "date": "2016-11-19",
+      "festival_name": null,
+      "artists": "Keith Urban"
+    },
+    {
+      "id": "688",
+      "show_number": 687,
+      "date": "2016-04-25",
+      "festival_name": null,
+      "artists": "Bruce Springsteen & the E Street Band"
+    },
+    {
+      "id": "687",
+      "show_number": 686,
+      "date": "2016-04-23",
+      "festival_name": null,
+      "artists": "Bruce Springsteen & the E Street Band"
+    },
+    {
+      "id": "680",
+      "show_number": 679,
+      "date": "2016-04-08",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Rock Hall of Fame: Cheap Trick, Chicago, Steve Miller, Deep Purple"
+    },
+    {
+      "id": "666",
+      "show_number": 665,
+      "date": "2015-12-31",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Jimmy Buffett, the Coral Reefer Band with Huey Lewis"
+    },
+    {
+      "id": "624",
+      "show_number": 623,
+      "date": "2015-05-26",
+      "festival_name": "Multi-Artist Show",
+      "artists": "The Who, Joan Jett"
+    },
+    {
+      "id": "613",
+      "show_number": 612,
+      "date": "2014-12-31",
+      "festival_name": null,
+      "artists": "Elton John"
+    },
+    {
+      "id": "596",
+      "show_number": 595,
+      "date": "2014-09-14",
+      "festival_name": null,
+      "artists": "Luke Bryan"
+    },
+    {
+      "id": "572",
+      "show_number": 571,
+      "date": "2014-04-10",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Bruce Springsteen, Peter Gabriel, Hall & Oates, Nirvana, Cat Stevens, Stevie Nicks, Emmylou Harries, Bonnie Raitt, Carrie Underwood"
+    },
+    {
+      "id": "558",
+      "show_number": 557,
+      "date": "2013-12-31",
+      "festival_name": null,
+      "artists": "Billy Joel"
+    },
+    {
+      "id": "554",
+      "show_number": 553,
+      "date": "2013-10-19",
+      "festival_name": null,
+      "artists": "Pearl Jam"
+    },
+    {
+      "id": "536",
+      "show_number": 535,
+      "date": "2013-06-08",
+      "festival_name": null,
+      "artists": "Paul McCartney"
+    },
+    {
+      "id": "534",
+      "show_number": 533,
+      "date": "2013-04-16",
+      "festival_name": null,
+      "artists": "Bob Seger"
+    },
+    {
+      "id": "533",
+      "show_number": 532,
+      "date": "2013-02-12",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Mumford, Sons"
+    }
+  ]
+}

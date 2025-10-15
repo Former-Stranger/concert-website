@@ -1,0 +1,37 @@
+{
+  "id": "60",
+  "name": "Gillette Stadium",
+  "city": "Foxborough",
+  "state": "MA",
+  "concert_count": 4,
+  "concerts": [
+    {
+      "id": "780",
+      "show_number": 779,
+      "date": "2017-08-26",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Kenny Chesney, Thomas Rhett, Old Dominion"
+    },
+    {
+      "id": "720",
+      "show_number": 719,
+      "date": "2016-09-14",
+      "festival_name": null,
+      "artists": "Bruce Springsteen & the E Street Band"
+    },
+    {
+      "id": "514",
+      "show_number": 513,
+      "date": "2012-08-18",
+      "festival_name": null,
+      "artists": "Bruce Springsteen"
+    },
+    {
+      "id": "386",
+      "show_number": 385,
+      "date": "2009-07-18",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Billy Joel, Elton John"
+    }
+  ]
+}

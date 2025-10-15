@@ -1,0 +1,79 @@
+{
+  "id": "64",
+  "name": "Great South Bay Music Festival",
+  "city": "Oakdale",
+  "state": "NY",
+  "concert_count": 10,
+  "concerts": [
+    {
+      "id": "1183",
+      "show_number": 1182,
+      "date": "2024-07-26",
+      "festival_name": null,
+      "artists": "NeedtoBreathe"
+    },
+    {
+      "id": "946",
+      "show_number": 945,
+      "date": "2019-10-03",
+      "festival_name": null,
+      "artists": "Avett Brothers"
+    },
+    {
+      "id": "443",
+      "show_number": 442,
+      "date": "2010-09-05",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Keith Urban, Kris Allen"
+    },
+    {
+      "id": "334",
+      "show_number": 333,
+      "date": "2008-04-06",
+      "festival_name": null,
+      "artists": "Jackson Browne"
+    },
+    {
+      "id": "327",
+      "show_number": 326,
+      "date": "2007-12-01",
+      "festival_name": null,
+      "artists": "Jethro Tull"
+    },
+    {
+      "id": "178",
+      "show_number": 177,
+      "date": "2003-03-17",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Dave Matthews, Tim Reynolds"
+    },
+    {
+      "id": "154",
+      "show_number": 153,
+      "date": "2002-04-20",
+      "festival_name": null,
+      "artists": "Stone Temple Pilots"
+    },
+    {
+      "id": "121",
+      "show_number": 120,
+      "date": "2000-10-19",
+      "festival_name": null,
+      "artists": "Alice Cooper"
+    },
+    {
+      "id": "49",
+      "show_number": 48,
+      "date": "1997-08-08",
+      "festival_name": null,
+      "artists": "Jethro Tull"
+    },
+    {
+      "id": "46",
+      "show_number": 45,
+      "date": "1997-07-19",
+      "festival_name": null,
+      "artists": "John Fogerty"
+    }
+  ]
+}

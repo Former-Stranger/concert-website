@@ -1,0 +1,103 @@
+{
+  "id": "325",
+  "name": "Kings of Leon",
+  "concert_count": 6,
+  "top_songs": [
+    {
+      "name": "Molly's Chambers",
+      "times_played": 5
+    },
+    {
+      "name": "The Bucket",
+      "times_played": 5
+    },
+    {
+      "name": "Sex on Fire",
+      "times_played": 5
+    },
+    {
+      "name": "On Call",
+      "times_played": 5
+    },
+    {
+      "name": "Closer",
+      "times_played": 5
+    },
+    {
+      "name": "Crawl",
+      "times_played": 5
+    },
+    {
+      "name": "Use Somebody",
+      "times_played": 5
+    },
+    {
+      "name": "Four Kicks",
+      "times_played": 4
+    },
+    {
+      "name": "Radioactive",
+      "times_played": 4
+    },
+    {
+      "name": "Pyro",
+      "times_played": 4
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1202",
+      "show_number": 1201,
+      "date": "2024-10-05",
+      "festival_name": null,
+      "venue": "Hartford HealthCare Amphitheater",
+      "city": "Bridgeport",
+      "state": "CT"
+    },
+    {
+      "id": "981",
+      "show_number": 980,
+      "date": "2021-08-17",
+      "festival_name": null,
+      "venue": "Hartford HealthCare Amphitheater",
+      "city": "Bridgeport",
+      "state": "CT"
+    },
+    {
+      "id": "739",
+      "show_number": 738,
+      "date": "2017-01-20",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "566",
+      "show_number": 565,
+      "date": "2014-02-14",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "457",
+      "show_number": 456,
+      "date": "2010-11-16",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "392",
+      "show_number": 391,
+      "date": "2009-09-14",
+      "festival_name": null,
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    }
+  ]
+}

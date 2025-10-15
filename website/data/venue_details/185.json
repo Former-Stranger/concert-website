@@ -1,0 +1,30 @@
+{
+  "id": "185",
+  "name": "Westchester County Center",
+  "city": "White Plains",
+  "state": "NY",
+  "concert_count": 3,
+  "concerts": [
+    {
+      "id": "963",
+      "show_number": 962,
+      "date": "2019-11-23",
+      "festival_name": null,
+      "artists": "Doobie Brothers (Peter Wolf)"
+    },
+    {
+      "id": "917",
+      "show_number": 916,
+      "date": "2019-06-20",
+      "festival_name": "Multi-Artist Show",
+      "artists": "YES, Asia, John Lodge, Carl Palmer"
+    },
+    {
+      "id": "2",
+      "show_number": 1,
+      "date": "",
+      "festival_name": null,
+      "artists": "Kenny Rogers"
+    }
+  ]
+}

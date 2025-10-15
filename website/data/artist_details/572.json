@@ -1,0 +1,94 @@
+{
+  "id": "572",
+  "name": "The Eagles",
+  "concert_count": 5,
+  "top_songs": [
+    {
+      "name": "Hotel California",
+      "times_played": 5
+    },
+    {
+      "name": "Peaceful Easy Feeling",
+      "times_played": 5
+    },
+    {
+      "name": "I Can't Tell You Why",
+      "times_played": 5
+    },
+    {
+      "name": "Lyin' Eyes",
+      "times_played": 5
+    },
+    {
+      "name": "Funk #49",
+      "times_played": 5
+    },
+    {
+      "name": "Life's Been Good",
+      "times_played": 5
+    },
+    {
+      "name": "Heartache Tonight",
+      "times_played": 5
+    },
+    {
+      "name": "Life in the Fast Lane",
+      "times_played": 5
+    },
+    {
+      "name": "Rocky Mountain Way",
+      "times_played": 5
+    },
+    {
+      "name": "Desperado",
+      "times_played": 5
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1020",
+      "show_number": 1019,
+      "date": "2022-04-23",
+      "festival_name": null,
+      "venue": "UBS Arena",
+      "city": "Elmont",
+      "state": "NY"
+    },
+    {
+      "id": "598",
+      "show_number": 597,
+      "date": "2014-09-18",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "338",
+      "show_number": 337,
+      "date": "2008-05-30",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "224",
+      "show_number": 223,
+      "date": "2005-04-08",
+      "festival_name": null,
+      "venue": "Izod Center",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "20",
+      "show_number": 19,
+      "date": "1996-06-24",
+      "festival_name": null,
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    }
+  ]
+}

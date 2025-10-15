@@ -1,0 +1,156 @@
+{
+  "id": "784",
+  "show_number": 783,
+  "date": "2017-09-14",
+  "festival_name": null,
+  "venue": "Radio City Music Hall",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Sturgill Simpson",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/3e2216f.html",
+  "song_count": 17,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Welcome to Earth (Pollywog)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "It Ain't All Flowers",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Breakers Roar",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "I'd Have to Be Crazy",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Steven Fromholz"
+    },
+    {
+      "position": 5,
+      "name": "Some Days",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Turtles All the Way Down",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Keep It Between the Lines",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "You Don't Miss Your Water",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "William Bell"
+    },
+    {
+      "position": 9,
+      "name": "Brace for Impact (Live a Little)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "All Around You",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "Could You Love Me (One More Time)",
+      "set_name": "Solo Acoustic",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Stanley Brothers"
+    },
+    {
+      "position": 12,
+      "name": "Living the Dream",
+      "set_name": "Solo Acoustic",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Oh Sarah",
+      "set_name": "Solo Acoustic",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Long White Line",
+      "set_name": "Solo Acoustic",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Moore & Napier"
+    },
+    {
+      "position": 15,
+      "name": "Life of Sin",
+      "set_name": "Solo Acoustic",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Going Down",
+      "set_name": "Full Band",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Alabama State Troupers"
+    },
+    {
+      "position": 17,
+      "name": "Call to Arms",
+      "set_name": "Full Band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

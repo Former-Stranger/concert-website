@@ -1,0 +1,16 @@
+{
+  "id": "138",
+  "name": "Rumsey Playfield",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "710",
+      "show_number": 709,
+      "date": "2016-08-08",
+      "festival_name": null,
+      "artists": "Warren Haynes Jerry Symphonny"
+    }
+  ]
+}

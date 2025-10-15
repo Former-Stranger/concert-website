@@ -1,0 +1,26 @@
+{
+  "id": "564",
+  "name": "The Band",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Theme From 'The Dukes of Hazzard' (Good Ol' Boys)",
+      "times_played": 1
+    },
+    {
+      "name": "Luckenbach, Texas (Back to the Basics of Love)",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "21",
+      "show_number": 20,
+      "date": "1996-07-04",
+      "festival_name": null,
+      "venue": "Broad Street Ballroom",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

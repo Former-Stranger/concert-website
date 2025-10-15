@@ -1,0 +1,67 @@
+{
+  "id": "389",
+  "name": "Mudcrutch",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "Shady Grove",
+      "times_played": 2
+    },
+    {
+      "name": "Orphan of the Storm",
+      "times_played": 2
+    },
+    {
+      "name": "Six Days on the Road",
+      "times_played": 2
+    },
+    {
+      "name": "Scare Easy",
+      "times_played": 2
+    },
+    {
+      "name": "Trailer",
+      "times_played": 2
+    },
+    {
+      "name": "This Is a Good Street",
+      "times_played": 2
+    },
+    {
+      "name": "Lover of the Bayou",
+      "times_played": 2
+    },
+    {
+      "name": "Beautiful World",
+      "times_played": 2
+    },
+    {
+      "name": "Dreams of Flying",
+      "times_played": 2
+    },
+    {
+      "name": "Save Your Water",
+      "times_played": 2
+    }
+  ],
+  "concerts": [
+    {
+      "id": "698",
+      "show_number": 697,
+      "date": "2016-06-14",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "696",
+      "show_number": 695,
+      "date": "2016-06-10",
+      "festival_name": null,
+      "venue": "Webster Hall",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

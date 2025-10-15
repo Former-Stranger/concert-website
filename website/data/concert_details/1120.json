@@ -1,0 +1,204 @@
+{
+  "id": "1120",
+  "show_number": 1119,
+  "date": "2023-10-04",
+  "festival_name": null,
+  "venue": "Dolby Live at Park MGM",
+  "city": "Las Vegas",
+  "state": "NV",
+  "artists": [
+    {
+      "name": "Lady Gaga",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/6ba33e4a.html",
+  "song_count": 23,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Orange Colored Sky",
+      "set_name": "Act I",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Nat King Cole"
+    },
+    {
+      "position": 2,
+      "name": "Luck Be a Lady",
+      "set_name": "Act I",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Frank Loesser"
+    },
+    {
+      "position": 3,
+      "name": "Steppin' Out With My Baby",
+      "set_name": "Act I",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Irving Berlin"
+    },
+    {
+      "position": 4,
+      "name": "The Best Is Yet to Come",
+      "set_name": "Act I",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Cy Coleman"
+    },
+    {
+      "position": 5,
+      "name": "Call Me Irresponsible",
+      "set_name": "Act I",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jimmy Van Heusen"
+    },
+    {
+      "position": 6,
+      "name": "Poker Face",
+      "set_name": "Act I",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "It Don't Mean a Thing (If It Ain't Got That Swing)",
+      "set_name": "Act II",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Duke Ellington and His Orchestra"
+    },
+    {
+      "position": 8,
+      "name": "I Can't Give You Anything but Love, Baby",
+      "set_name": "Act II",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jimmy McHugh"
+    },
+    {
+      "position": 9,
+      "name": "If I Had You",
+      "set_name": "Act II",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Irving King"
+    },
+    {
+      "position": 10,
+      "name": "Do I Love You",
+      "set_name": "Act II",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Cole Porter"
+    },
+    {
+      "position": 11,
+      "name": "Born This Way",
+      "set_name": "Act II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "Stupid Love",
+      "set_name": "Act II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Sway",
+      "set_name": "Act III",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Orquesta de Pablo Beltr\u00e1n Ruiz"
+    },
+    {
+      "position": 14,
+      "name": "Rags to Riches",
+      "set_name": "Act III",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tony Bennett"
+    },
+    {
+      "position": 15,
+      "name": "Mambo Italiano",
+      "set_name": "Act III",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Merrill"
+    },
+    {
+      "position": 16,
+      "name": "'O sole mio",
+      "set_name": "Act III",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Eduardo Di Capua"
+    },
+    {
+      "position": 17,
+      "name": "Paparazzi",
+      "set_name": "Act III",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "La Vie en rose",
+      "set_name": "Act IV",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "\u00c9dith Piaf"
+    },
+    {
+      "position": 19,
+      "name": "What a Difference a Day Makes",
+      "set_name": "Act IV",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jimmie Ague"
+    },
+    {
+      "position": 20,
+      "name": "Bad Romance",
+      "set_name": "Act IV",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 21,
+      "name": "Lush Life",
+      "set_name": "Act IV",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Strayhorn"
+    },
+    {
+      "position": 22,
+      "name": "Fly Me to the Moon",
+      "set_name": "Act IV",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Kaye Ballard"
+    },
+    {
+      "position": 23,
+      "name": "Theme From New York, New York",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "John Kander"
+    }
+  ]
+}

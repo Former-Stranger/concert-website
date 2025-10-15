@@ -1,0 +1,46 @@
+{
+  "id": "62",
+  "name": "Bob Dylan and Phil Lesh",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Jam",
+      "times_played": 1
+    },
+    {
+      "name": "Uncle John's Band",
+      "times_played": 1
+    },
+    {
+      "name": "Mississippi Half-Step Uptown Toodeloo",
+      "times_played": 1
+    },
+    {
+      "name": "Pride of Cucamonga",
+      "times_played": 1
+    },
+    {
+      "name": "Patchwork Quilt",
+      "times_played": 1
+    },
+    {
+      "name": "Scarlet Begonias",
+      "times_played": 1
+    },
+    {
+      "name": "Fire on the Mountain",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "96",
+      "show_number": 95,
+      "date": "1999-11-10",
+      "festival_name": "Multi-Artist Show",
+      "venue": "New Haven Coliseum",
+      "city": "New Haven",
+      "state": "CT"
+    }
+  ]
+}

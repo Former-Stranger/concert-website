@@ -1,0 +1,67 @@
+{
+  "id": "218",
+  "name": "Friends (W. Warren Haynes)",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "All Along the Watchtower",
+      "times_played": 2
+    },
+    {
+      "name": "Mason's Children",
+      "times_played": 2
+    },
+    {
+      "name": "Franklin's Tower",
+      "times_played": 1
+    },
+    {
+      "name": "The Weight",
+      "times_played": 1
+    },
+    {
+      "name": "Alabama Getaway",
+      "times_played": 1
+    },
+    {
+      "name": "Blue Sky",
+      "times_played": 1
+    },
+    {
+      "name": "Bird Song",
+      "times_played": 1
+    },
+    {
+      "name": "Mountains of the Moon",
+      "times_played": 1
+    },
+    {
+      "name": "St. Stephen",
+      "times_played": 1
+    },
+    {
+      "name": "Unbroken Chain",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1146",
+      "show_number": 1145,
+      "date": "2024-03-04",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "695",
+      "show_number": 694,
+      "date": "2016-05-27",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    }
+  ]
+}

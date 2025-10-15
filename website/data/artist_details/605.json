@@ -1,0 +1,35 @@
+{
+  "id": "605",
+  "name": "Tom Petty & the Heartbreakers & Jackson Browne",
+  "concert_count": 3,
+  "top_songs": [],
+  "concerts": [
+    {
+      "id": "175",
+      "show_number": 174,
+      "date": "2002-12-13",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "136",
+      "show_number": 135,
+      "date": "2001-07-05",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "135",
+      "show_number": 134,
+      "date": "2001-07-01",
+      "festival_name": null,
+      "venue": "PNC Bank Arts Center",
+      "city": "Holmdel",
+      "state": "NJ"
+    }
+  ]
+}

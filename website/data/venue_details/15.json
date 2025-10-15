@@ -1,0 +1,16 @@
+{
+  "id": "15",
+  "name": "Blue Note Jazz Club",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "1231",
+      "show_number": 1230,
+      "date": "2025-01-16",
+      "festival_name": null,
+      "artists": "Marcus King Trio (MonoNeon, Chris Dave)"
+    }
+  ]
+}

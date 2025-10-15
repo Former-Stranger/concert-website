@@ -1,0 +1,58 @@
+{
+  "id": "213",
+  "name": "Flight of the Conchords",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Too Many Dicks (on the Dance Floor)",
+      "times_played": 1
+    },
+    {
+      "name": "Hurt Feelings",
+      "times_played": 1
+    },
+    {
+      "name": "Stana",
+      "times_played": 1
+    },
+    {
+      "name": "Carol Brown",
+      "times_played": 1
+    },
+    {
+      "name": "Jenny",
+      "times_played": 1
+    },
+    {
+      "name": "I Told You I Was Freaky",
+      "times_played": 1
+    },
+    {
+      "name": "Not Crying",
+      "times_played": 1
+    },
+    {
+      "name": "The Most Beautiful Girl (in the Room)",
+      "times_played": 1
+    },
+    {
+      "name": "You Don't Have to Be a Prostitute",
+      "times_played": 1
+    },
+    {
+      "name": "Bus Driver's Song",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "374",
+      "show_number": 373,
+      "date": "2009-04-15",
+      "festival_name": null,
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "307",
+  "name": "Johnny Depp",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Freeway Jam",
+      "times_played": 1
+    },
+    {
+      "name": "Me and the Devil Blues",
+      "times_played": 1
+    },
+    {
+      "name": "Midnight Walker",
+      "times_played": 1
+    },
+    {
+      "name": "Big Block",
+      "times_played": 1
+    },
+    {
+      "name": "Caroline, No",
+      "times_played": 1
+    },
+    {
+      "name": "You Know You Know",
+      "times_played": 1
+    },
+    {
+      "name": "Loose Cannon",
+      "times_played": 1
+    },
+    {
+      "name": "Star Cycle",
+      "times_played": 1
+    },
+    {
+      "name": "Brush With the Blues",
+      "times_played": 1
+    },
+    {
+      "name": "You Never Know",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1063",
+      "show_number": 1062,
+      "date": "2022-10-07",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    }
+  ]
+}

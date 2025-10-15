@@ -1,0 +1,76 @@
+{
+  "id": "224",
+  "name": "Gaslight Anthem",
+  "concert_count": 3,
+  "top_songs": [
+    {
+      "name": "Boxer",
+      "times_played": 2
+    },
+    {
+      "name": "We Came to Dance",
+      "times_played": 2
+    },
+    {
+      "name": "The Diamond Church Street Choir",
+      "times_played": 2
+    },
+    {
+      "name": "Old White Lincoln",
+      "times_played": 2
+    },
+    {
+      "name": "Even Cowgirls Get the Blues",
+      "times_played": 2
+    },
+    {
+      "name": "Old Haunts",
+      "times_played": 2
+    },
+    {
+      "name": "The '59 Sound",
+      "times_played": 2
+    },
+    {
+      "name": "Bring It On",
+      "times_played": 2
+    },
+    {
+      "name": "Miles Davis and the Cool",
+      "times_played": 2
+    },
+    {
+      "name": "The Spirit of Jazz",
+      "times_played": 2
+    }
+  ],
+  "concerts": [
+    {
+      "id": "447",
+      "show_number": 446,
+      "date": "2010-09-30",
+      "festival_name": null,
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "424",
+      "show_number": 423,
+      "date": "2010-06-15",
+      "festival_name": null,
+      "venue": "Irving Plaza",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "401",
+      "show_number": 400,
+      "date": "2009-10-15",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Terminal 5",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

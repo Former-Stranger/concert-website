@@ -1,0 +1,16 @@
+{
+  "id": "125",
+  "name": "Play Group Theatre",
+  "city": "White Plains",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "1217",
+      "show_number": 1216,
+      "date": "2024-11-16",
+      "festival_name": "Candlelight Concerts",
+      "artists": "Beatles"
+    }
+  ]
+}

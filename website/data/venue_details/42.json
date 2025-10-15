@@ -1,0 +1,16 @@
+{
+  "id": "42",
+  "name": "Damrosch Park at Lincoln Center",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "642",
+      "show_number": 641,
+      "date": "2015-08-09",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Lyle Lovett, His Big Band"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "191",
+  "name": "Elvis Costello",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "Pump It Up",
+      "times_played": 1
+    },
+    {
+      "name": "Watching the Detectives",
+      "times_played": 1
+    },
+    {
+      "name": "No Flag",
+      "times_played": 1
+    },
+    {
+      "name": "Green Shirt",
+      "times_played": 1
+    },
+    {
+      "name": "We Are All Cowards Now",
+      "times_played": 1
+    },
+    {
+      "name": "No Reason to Quit",
+      "times_played": 1
+    },
+    {
+      "name": "Indoor Fireworks",
+      "times_played": 1
+    },
+    {
+      "name": "Wonder Woman",
+      "times_played": 1
+    },
+    {
+      "name": "Everyday I Write the Book",
+      "times_played": 1
+    },
+    {
+      "name": "A Face in the Crowd",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1178",
+      "show_number": 1177,
+      "date": "2024-07-16",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "451",
+      "show_number": 450,
+      "date": "2010-10-20",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

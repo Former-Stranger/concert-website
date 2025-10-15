@@ -1,0 +1,76 @@
+{
+  "id": "655",
+  "name": "Zach Bryan",
+  "concert_count": 3,
+  "top_songs": [
+    {
+      "name": "Overtime",
+      "times_played": 1
+    },
+    {
+      "name": "Open the Gate",
+      "times_played": 1
+    },
+    {
+      "name": "God Speed",
+      "times_played": 1
+    },
+    {
+      "name": "The Great American Bar Scene",
+      "times_played": 1
+    },
+    {
+      "name": "Fifth of May",
+      "times_played": 1
+    },
+    {
+      "name": "Tishomingo",
+      "times_played": 1
+    },
+    {
+      "name": "Oklahoma City",
+      "times_played": 1
+    },
+    {
+      "name": "Nine Ball",
+      "times_played": 1
+    },
+    {
+      "name": "Deep Satin",
+      "times_played": 1
+    },
+    {
+      "name": "East Side of Sorrow",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1268",
+      "show_number": 1267,
+      "date": "2025-07-19",
+      "festival_name": null,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "1226",
+      "show_number": 1225,
+      "date": "2024-12-19",
+      "festival_name": null,
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY"
+    },
+    {
+      "id": "1152",
+      "show_number": 1151,
+      "date": "2024-03-30",
+      "festival_name": null,
+      "venue": "UBS Arena",
+      "city": "Elmont",
+      "state": "NY"
+    }
+  ]
+}

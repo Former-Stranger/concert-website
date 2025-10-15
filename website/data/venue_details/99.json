@@ -1,0 +1,16 @@
+{
+  "id": "99",
+  "name": "Morristown Theater",
+  "city": "Morristown",
+  "state": "NJ",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "370",
+      "show_number": 369,
+      "date": "2009-02-08",
+      "festival_name": "Multi-Artist Show",
+      "artists": "John Hiatt, Lyle Lovett"
+    }
+  ]
+}

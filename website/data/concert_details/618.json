@@ -1,0 +1,108 @@
+{
+  "id": "618",
+  "show_number": 617,
+  "date": "2015-04-24",
+  "festival_name": null,
+  "venue": "Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Steve Winwood",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/4bc8e7ba.html",
+  "song_count": 11,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "I'm a Man",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Spencer Davis Group"
+    },
+    {
+      "position": 2,
+      "name": "Them Changes",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Buddy Miles"
+    },
+    {
+      "position": 3,
+      "name": "Pearly Queen",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Traffic"
+    },
+    {
+      "position": 4,
+      "name": "Can't Find My Way Home",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Blind Faith"
+    },
+    {
+      "position": 5,
+      "name": "Dirty City",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "The Low Spark of High Heeled Boys",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Traffic"
+    },
+    {
+      "position": 7,
+      "name": "Glad",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Traffic"
+    },
+    {
+      "position": 8,
+      "name": "Light Up or Leave Me Alone",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Traffic"
+    },
+    {
+      "position": 9,
+      "name": "Higher Love",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Dear Mr. Fantasy",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Traffic"
+    },
+    {
+      "position": 11,
+      "name": "Gimme Some Lovin'",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "The Spencer Davis Group"
+    }
+  ]
+}

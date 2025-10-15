@@ -1,0 +1,35 @@
+{
+  "id": "341",
+  "name": "Leon Russell",
+  "concert_count": 3,
+  "top_songs": [],
+  "concerts": [
+    {
+      "id": "470",
+      "show_number": 469,
+      "date": "2011-03-20",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "468",
+      "show_number": 467,
+      "date": "2011-03-16",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "254",
+      "show_number": 253,
+      "date": "2006-03-10",
+      "festival_name": "Multi-Artist Show",
+      "venue": "NYCB Theatre at Westbury",
+      "city": "Westbury",
+      "state": "NY"
+    }
+  ]
+}

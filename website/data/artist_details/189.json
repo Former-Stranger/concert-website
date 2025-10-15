@@ -1,0 +1,346 @@
+{
+  "id": "189",
+  "name": "Elton John",
+  "concert_count": 33,
+  "top_songs": [
+    {
+      "name": "Your Song",
+      "times_played": 28
+    },
+    {
+      "name": "Bennie and the Jets",
+      "times_played": 27
+    },
+    {
+      "name": "Philadelphia Freedom",
+      "times_played": 27
+    },
+    {
+      "name": "Rocket Man (I Think It's Going to Be a Long, Long Time)",
+      "times_played": 27
+    },
+    {
+      "name": "Don't Let the Sun Go Down on Me",
+      "times_played": 27
+    },
+    {
+      "name": "I Guess That's Why They Call It the Blues",
+      "times_played": 26
+    },
+    {
+      "name": "Funeral for a Friend/Love Lies Bleeding",
+      "times_played": 25
+    },
+    {
+      "name": "Tiny Dancer",
+      "times_played": 25
+    },
+    {
+      "name": "The Bitch Is Back",
+      "times_played": 25
+    },
+    {
+      "name": "I'm Still Standing",
+      "times_played": 24
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1040",
+      "show_number": 1039,
+      "date": "2022-07-23",
+      "festival_name": null,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "1008",
+      "show_number": 1007,
+      "date": "2022-03-06",
+      "festival_name": null,
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    },
+    {
+      "id": "1007",
+      "show_number": 1006,
+      "date": "2022-03-01",
+      "festival_name": null,
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY"
+    },
+    {
+      "id": "1006",
+      "show_number": 1005,
+      "date": "2022-02-23",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "961",
+      "show_number": 960,
+      "date": "2019-11-16",
+      "festival_name": null,
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    },
+    {
+      "id": "899",
+      "show_number": 898,
+      "date": "2019-03-08",
+      "festival_name": null,
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY"
+    },
+    {
+      "id": "881",
+      "show_number": 880,
+      "date": "2018-11-09",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "874",
+      "show_number": 873,
+      "date": "2018-10-19",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "871",
+      "show_number": 870,
+      "date": "2018-10-09",
+      "festival_name": null,
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    },
+    {
+      "id": "676",
+      "show_number": 675,
+      "date": "2016-03-02",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "613",
+      "show_number": 612,
+      "date": "2014-12-31",
+      "festival_name": null,
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY"
+    },
+    {
+      "id": "555",
+      "show_number": 554,
+      "date": "2013-12-04",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "470",
+      "show_number": 469,
+      "date": "2011-03-20",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "468",
+      "show_number": 467,
+      "date": "2011-03-16",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "387",
+      "show_number": 386,
+      "date": "2009-08-01",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Citizens Bank Park",
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    {
+      "id": "386",
+      "show_number": 385,
+      "date": "2009-07-18",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Gillette Stadium",
+      "city": "Foxborough",
+      "state": "MA"
+    },
+    {
+      "id": "363",
+      "show_number": 362,
+      "date": "2008-11-15",
+      "festival_name": null,
+      "venue": "Mohegan Sun Arena",
+      "city": "Uncasville",
+      "state": "CT"
+    },
+    {
+      "id": "335",
+      "show_number": 334,
+      "date": "2008-04-09",
+      "festival_name": null,
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "295",
+      "show_number": 294,
+      "date": "2007-03-25",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "285",
+      "show_number": 284,
+      "date": "2006-11-01",
+      "festival_name": null,
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    },
+    {
+      "id": "270",
+      "show_number": 269,
+      "date": "2006-07-29",
+      "festival_name": null,
+      "venue": "Caesars Palace",
+      "city": "Las Vegas",
+      "state": "NV"
+    },
+    {
+      "id": "208",
+      "show_number": 207,
+      "date": "2004-07-18",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "201",
+      "show_number": 200,
+      "date": "2004-04-27",
+      "festival_name": null,
+      "venue": "Total Mortgage Arena",
+      "city": "Bridgeport",
+      "state": "CT"
+    },
+    {
+      "id": "171",
+      "show_number": 170,
+      "date": "2002-10-11",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    },
+    {
+      "id": "168",
+      "show_number": 167,
+      "date": "2002-09-27",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    },
+    {
+      "id": "151",
+      "show_number": 150,
+      "date": "2002-02-04",
+      "festival_name": "Multi-Artist Show",
+      "venue": "XL Center",
+      "city": "Hartford",
+      "state": "CT"
+    },
+    {
+      "id": "148",
+      "show_number": 147,
+      "date": "2001-11-27",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "145",
+      "show_number": 144,
+      "date": "2001-10-20",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "74",
+      "show_number": 73,
+      "date": "1998-10-17",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "63",
+      "show_number": 62,
+      "date": "1998-05-16",
+      "festival_name": null,
+      "venue": "Fleet Center",
+      "city": "Boston",
+      "state": "MA"
+    },
+    {
+      "id": "62",
+      "show_number": 61,
+      "date": "1998-05-15",
+      "festival_name": null,
+      "venue": "Fleet Center",
+      "city": "Boston",
+      "state": "MA"
+    },
+    {
+      "id": "12",
+      "show_number": 11,
+      "date": "1995-10-14",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "5",
+      "show_number": 4,
+      "date": "1994-07-24",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    }
+  ]
+}

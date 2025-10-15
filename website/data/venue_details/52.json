@@ -1,0 +1,23 @@
+{
+  "id": "52",
+  "name": "Ford Amphitheater at Coney Island",
+  "city": "Brooklyn",
+  "state": "NY",
+  "concert_count": 2,
+  "concerts": [
+    {
+      "id": "1096",
+      "show_number": 1095,
+      "date": "2023-07-05",
+      "festival_name": null,
+      "artists": "Neil Young"
+    },
+    {
+      "id": "852",
+      "show_number": 851,
+      "date": "2018-08-17",
+      "festival_name": null,
+      "artists": "Beach Boys"
+    }
+  ]
+}

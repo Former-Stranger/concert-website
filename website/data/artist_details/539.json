@@ -1,0 +1,94 @@
+{
+  "id": "539",
+  "name": "Steve Miller Band",
+  "concert_count": 5,
+  "top_songs": [
+    {
+      "name": "Jet Airliner",
+      "times_played": 4
+    },
+    {
+      "name": "Fly Like an Eagle",
+      "times_played": 3
+    },
+    {
+      "name": "Living in the U.S.A.",
+      "times_played": 3
+    },
+    {
+      "name": "Abracadabra",
+      "times_played": 3
+    },
+    {
+      "name": "The Stake",
+      "times_played": 3
+    },
+    {
+      "name": "Serenade",
+      "times_played": 3
+    },
+    {
+      "name": "Dance, Dance, Dance",
+      "times_played": 3
+    },
+    {
+      "name": "Wild Mountain Honey",
+      "times_played": 3
+    },
+    {
+      "name": "Rock'n Me",
+      "times_played": 3
+    },
+    {
+      "name": "Take the Money and Run",
+      "times_played": 3
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1045",
+      "show_number": 1044,
+      "date": "2022-08-14",
+      "festival_name": null,
+      "venue": "Hartford HealthCare Amphitheater",
+      "city": "Bridgeport",
+      "state": "CT"
+    },
+    {
+      "id": "407",
+      "show_number": 406,
+      "date": "2009-11-11",
+      "festival_name": null,
+      "venue": "NYCB Theatre at Westbury",
+      "city": "Westbury",
+      "state": "NY"
+    },
+    {
+      "id": "347",
+      "show_number": 346,
+      "date": "2008-07-11",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "308",
+      "show_number": 307,
+      "date": "2007-07-28",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "47",
+      "show_number": 46,
+      "date": "1997-07-31",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    }
+  ]
+}

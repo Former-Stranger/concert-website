@@ -1,0 +1,288 @@
+{
+  "id": "387",
+  "show_number": 386,
+  "date": "2009-08-01",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Citizens Bank Park",
+  "city": "Philadelphia",
+  "state": "PA",
+  "artists": [
+    {
+      "name": "Billy Joel",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Elton John",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/3bd7b4e4.html",
+  "song_count": 33,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Your Song",
+      "set_name": "Elton John & Billy Joel together",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 2,
+      "name": "Just the Way You Are",
+      "set_name": "Elton John & Billy Joel together",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 3,
+      "name": "Don't Let the Sun Go Down on Me",
+      "set_name": "Elton John & Billy Joel together",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 4,
+      "name": "My Life",
+      "set_name": "Elton John & Billy Joel together",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 5,
+      "name": "Funeral for a Friend/Love Lies Bleeding",
+      "set_name": "Elton John Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 6,
+      "name": "Saturday Night's Alright for Fighting",
+      "set_name": "Elton John Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 7,
+      "name": "Levon",
+      "set_name": "Elton John Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 8,
+      "name": "Madman Across the Water",
+      "set_name": "Elton John Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 9,
+      "name": "Tiny Dancer",
+      "set_name": "Elton John Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 10,
+      "name": "Goodbye Yellow Brick Road",
+      "set_name": "Elton John Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 11,
+      "name": "Daniel",
+      "set_name": "Elton John Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 12,
+      "name": "Rocket Man (I Think It's Going to Be a Long, Long Time)",
+      "set_name": "Elton John Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 13,
+      "name": "Philadelphia Freedom",
+      "set_name": "Elton John Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 14,
+      "name": "I'm Still Standing",
+      "set_name": "Elton John Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 15,
+      "name": "Crocodile Rock",
+      "set_name": "Elton John Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 16,
+      "name": "Prelude/Angry Young Man",
+      "set_name": "Billy Joel Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 17,
+      "name": "Movin' Out (Anthony's Song)",
+      "set_name": "Billy Joel Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 18,
+      "name": "Allentown",
+      "set_name": "Billy Joel Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 19,
+      "name": "Zanzibar",
+      "set_name": "Billy Joel Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 20,
+      "name": "She's Always a Woman",
+      "set_name": "Billy Joel Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 21,
+      "name": "Scenes From an Italian Restaurant",
+      "set_name": "Billy Joel Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 22,
+      "name": "The River of Dreams",
+      "set_name": "Billy Joel Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 23,
+      "name": "Highway to Hell",
+      "set_name": "Billy Joel Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "AC/DC"
+    },
+    {
+      "position": 24,
+      "name": "We Didn't Start the Fire",
+      "set_name": "Billy Joel Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 25,
+      "name": "It's Still Rock and Roll to Me",
+      "set_name": "Billy Joel Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 26,
+      "name": "Only the Good Die Young",
+      "set_name": "Billy Joel Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 27,
+      "name": "I Guess That's Why They Call It the Blues",
+      "set_name": "Elton John & Billy Joel together",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 28,
+      "name": "Uptown Girl",
+      "set_name": "Elton John & Billy Joel together",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 29,
+      "name": "The Bitch Is Back",
+      "set_name": "Elton John & Billy Joel together",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 30,
+      "name": "You May Be Right",
+      "set_name": "Elton John & Billy Joel together",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 31,
+      "name": "Bennie and the Jets",
+      "set_name": "Elton John & Billy Joel together",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 32,
+      "name": "Candle in the Wind",
+      "set_name": "Elton & Billy without bands",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 33,
+      "name": "Piano Man",
+      "set_name": "Elton & Billy without bands",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "id": "34",
+  "name": "Citi Field",
+  "city": "Queens",
+  "state": "NY",
+  "concert_count": 23,
+  "concerts": [
+    {
+      "id": "1257",
+      "show_number": 1256,
+      "date": "2025-06-04",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Post Malone, Jelly Roll"
+    },
+    {
+      "id": "1184",
+      "show_number": 1183,
+      "date": "2024-08-05",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Green Day, Smashing Pumpkins"
+    },
+    {
+      "id": "1179",
+      "show_number": 1178,
+      "date": "2024-07-17",
+      "festival_name": null,
+      "artists": "Foo Fighters"
+    },
+    {
+      "id": "1094",
+      "show_number": 1093,
+      "date": "2023-06-22",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Dead, Company"
+    },
+    {
+      "id": "1093",
+      "show_number": 1092,
+      "date": "2023-06-21",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Dead, Company"
+    },
+    {
+      "id": "1046",
+      "show_number": 1045,
+      "date": "2022-08-18",
+      "festival_name": null,
+      "artists": "Zac Brown Band"
+    },
+    {
+      "id": "1039",
+      "show_number": 1038,
+      "date": "2022-07-16",
+      "festival_name": "Multi-Artist Show",
+      "artists": "DEAD:  Dead, Company"
+    },
+    {
+      "id": "1038",
+      "show_number": 1037,
+      "date": "2022-07-15",
+      "festival_name": "Multi-Artist Show",
+      "artists": "DEAD:  Dead, Company"
+    },
+    {
+      "id": "982",
+      "show_number": 981,
+      "date": "2021-08-20",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Dead, Company"
+    },
+    {
+      "id": "918",
+      "show_number": 917,
+      "date": "2019-06-23",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Dead, Company"
+    },
+    {
+      "id": "844",
+      "show_number": 843,
+      "date": "2018-07-29",
+      "festival_name": null,
+      "artists": "Zac Brown Band"
+    },
+    {
+      "id": "834",
+      "show_number": 833,
+      "date": "2018-06-16",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Dead, Company"
+    },
+    {
+      "id": "833",
+      "show_number": 832,
+      "date": "2018-06-15",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Dead, Company"
+    },
+    {
+      "id": "781",
+      "show_number": 780,
+      "date": "2017-08-28",
+      "festival_name": null,
+      "artists": "Lady Gaga"
+    },
+    {
+      "id": "772",
+      "show_number": 771,
+      "date": "2017-07-30",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Classic East: Fleetwood Mac, EWF, Journey"
+    },
+    {
+      "id": "771",
+      "show_number": 770,
+      "date": "2017-07-29",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Classic East: Eagles, Steely Dan, Doobies"
+    },
+    {
+      "id": "762",
+      "show_number": 761,
+      "date": "2017-06-24",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Dead, Company"
+    },
+    {
+      "id": "713",
+      "show_number": 712,
+      "date": "2016-08-19",
+      "festival_name": null,
+      "artists": "Zac Brown Band"
+    },
+    {
+      "id": "702",
+      "show_number": 701,
+      "date": "2016-06-26",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Dead, Company"
+    },
+    {
+      "id": "701",
+      "show_number": 700,
+      "date": "2016-06-25",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Dead, Company"
+    },
+    {
+      "id": "647",
+      "show_number": 646,
+      "date": "2015-08-22",
+      "festival_name": null,
+      "artists": "Zac Brown Band"
+    },
+    {
+      "id": "434",
+      "show_number": 433,
+      "date": "2010-07-16",
+      "festival_name": null,
+      "artists": "Dave Matthews Band with Zach Brown Band"
+    },
+    {
+      "id": "385",
+      "show_number": 384,
+      "date": "2009-07-17",
+      "festival_name": null,
+      "artists": "Paul McCartney"
+    }
+  ]
+}

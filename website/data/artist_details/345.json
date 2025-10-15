@@ -1,0 +1,67 @@
+{
+  "id": "345",
+  "name": "Lindsey Buckingham",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "Not Too Late",
+      "times_played": 2
+    },
+    {
+      "name": "Soul Drifter",
+      "times_played": 2
+    },
+    {
+      "name": "I Must Go",
+      "times_played": 2
+    },
+    {
+      "name": "Doing What I Can",
+      "times_played": 2
+    },
+    {
+      "name": "Shut Us Down",
+      "times_played": 2
+    },
+    {
+      "name": "Trouble",
+      "times_played": 2
+    },
+    {
+      "name": "Never Going Back Again",
+      "times_played": 2
+    },
+    {
+      "name": "Big Love",
+      "times_played": 2
+    },
+    {
+      "name": "Tusk",
+      "times_played": 2
+    },
+    {
+      "name": "I'm So Afraid",
+      "times_played": 2
+    }
+  ],
+  "concerts": [
+    {
+      "id": "986",
+      "show_number": 985,
+      "date": "2021-09-16",
+      "festival_name": null,
+      "venue": "The Town Hall",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "887",
+      "show_number": 886,
+      "date": "2018-12-06",
+      "festival_name": null,
+      "venue": "Peekskill Paramount",
+      "city": "Peekskill",
+      "state": "NY"
+    }
+  ]
+}

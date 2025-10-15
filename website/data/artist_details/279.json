@@ -1,0 +1,85 @@
+{
+  "id": "279",
+  "name": "Joan Jett",
+  "concert_count": 4,
+  "top_songs": [
+    {
+      "name": "Who Are You",
+      "times_played": 2
+    },
+    {
+      "name": "The Seeker",
+      "times_played": 2
+    },
+    {
+      "name": "The Kids Are Alright",
+      "times_played": 2
+    },
+    {
+      "name": "I Can See for Miles",
+      "times_played": 2
+    },
+    {
+      "name": "My Generation",
+      "times_played": 2
+    },
+    {
+      "name": "Behind Blue Eyes",
+      "times_played": 2
+    },
+    {
+      "name": "Bargain",
+      "times_played": 2
+    },
+    {
+      "name": "Join Together",
+      "times_played": 2
+    },
+    {
+      "name": "You Better You Bet",
+      "times_played": 2
+    },
+    {
+      "name": "I'm One",
+      "times_played": 2
+    }
+  ],
+  "concerts": [
+    {
+      "id": "677",
+      "show_number": 676,
+      "date": "2016-03-03",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "624",
+      "show_number": 623,
+      "date": "2015-05-26",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY"
+    },
+    {
+      "id": "144",
+      "show_number": 143,
+      "date": "2001-10-19",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Count Basie Center for the Arts",
+      "city": "Red Bank",
+      "state": "NJ"
+    },
+    {
+      "id": "143",
+      "show_number": 142,
+      "date": "2001-10-01",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    }
+  ]
+}

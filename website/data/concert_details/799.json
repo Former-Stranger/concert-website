@@ -1,0 +1,216 @@
+{
+  "id": "799",
+  "show_number": 798,
+  "date": "2017-11-15",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Ringo Starr",
+      "role": "festival_performer"
+    },
+    {
+      "name": "All Starr Band",
+      "role": "festival_performer"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/1be0857c.html",
+  "song_count": 24,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Matchbox",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Carl Perkins"
+    },
+    {
+      "position": 2,
+      "name": "It Don't Come Easy",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ringo Starr"
+    },
+    {
+      "position": 3,
+      "name": "What Goes On",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Beatles"
+    },
+    {
+      "position": 4,
+      "name": "I Saw the Light",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Todd Rundgren"
+    },
+    {
+      "position": 5,
+      "name": "Evil Ways",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Willie Bobo"
+    },
+    {
+      "position": 6,
+      "name": "Rosanna",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Toto"
+    },
+    {
+      "position": 7,
+      "name": "Kyrie",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Mr. Mister"
+    },
+    {
+      "position": 8,
+      "name": "Bang the Drum All Day",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Todd Rundgren"
+    },
+    {
+      "position": 9,
+      "name": "Boys",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Shirelles"
+    },
+    {
+      "position": 10,
+      "name": "Don't Pass Me By",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Beatles"
+    },
+    {
+      "position": 11,
+      "name": "Yellow Submarine",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Beatles"
+    },
+    {
+      "position": 12,
+      "name": "Black Magic Woman / Gypsy Queen",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "You're Sixteen",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Johnny Burnette"
+    },
+    {
+      "position": 14,
+      "name": "Back Off Boogaloo",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ringo Starr"
+    },
+    {
+      "position": 15,
+      "name": "You Are Mine",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Richard Page"
+    },
+    {
+      "position": 16,
+      "name": "Africa",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Toto"
+    },
+    {
+      "position": 17,
+      "name": "Oye c\u00f3mo va",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tito Puente"
+    },
+    {
+      "position": 18,
+      "name": "I Wanna Be Your Man",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Beatles"
+    },
+    {
+      "position": 19,
+      "name": "Love Is the Answer",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Utopia"
+    },
+    {
+      "position": 20,
+      "name": "Broken Wings",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Mr. Mister"
+    },
+    {
+      "position": 21,
+      "name": "Hold the Line",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Toto"
+    },
+    {
+      "position": 22,
+      "name": "Photograph",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ringo Starr"
+    },
+    {
+      "position": 23,
+      "name": "Act Naturally",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Johnny Russell"
+    },
+    {
+      "position": 24,
+      "name": "With a Little Help From My Friends",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Beatles"
+    }
+  ]
+}

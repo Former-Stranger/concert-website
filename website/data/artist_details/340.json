@@ -1,0 +1,35 @@
+{
+  "id": "340",
+  "name": "Lee Dewyze",
+  "concert_count": 3,
+  "top_songs": [],
+  "concerts": [
+    {
+      "id": "616",
+      "show_number": 615,
+      "date": "2015-04-10",
+      "festival_name": null,
+      "venue": "SubCulture",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "569",
+      "show_number": 568,
+      "date": "2014-03-19",
+      "festival_name": null,
+      "venue": "Iridium Jazz Club",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "568",
+      "show_number": 567,
+      "date": "2014-03-19",
+      "festival_name": null,
+      "venue": "Iridium Jazz Club",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

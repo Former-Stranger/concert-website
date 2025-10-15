@@ -1,0 +1,67 @@
+{
+  "id": "648",
+  "name": "ZZTOP",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "Precious and Grace",
+      "times_played": 1
+    },
+    {
+      "name": "Heartache in Blue",
+      "times_played": 1
+    },
+    {
+      "name": "Waitin' for the Bus",
+      "times_played": 1
+    },
+    {
+      "name": "Jesus Just Left Chicago",
+      "times_played": 1
+    },
+    {
+      "name": "Flyin' High",
+      "times_played": 1
+    },
+    {
+      "name": "Pincushion",
+      "times_played": 1
+    },
+    {
+      "name": "Heard It on the X",
+      "times_played": 1
+    },
+    {
+      "name": "I Gotsta Get Paid",
+      "times_played": 1
+    },
+    {
+      "name": "Gimme All Your Lovin'",
+      "times_played": 1
+    },
+    {
+      "name": "Blue Jean Blues",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "537",
+      "show_number": 536,
+      "date": "2013-05-15",
+      "festival_name": null,
+      "venue": "NYCB Theatre at Westbury",
+      "city": "Westbury",
+      "state": "NY"
+    },
+    {
+      "id": "307",
+      "show_number": 306,
+      "date": "",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    }
+  ]
+}

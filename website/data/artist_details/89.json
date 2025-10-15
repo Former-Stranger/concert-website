@@ -1,0 +1,697 @@
+{
+  "id": "89",
+  "name": "Bruce Springsteen & the E Street Band",
+  "concert_count": 72,
+  "top_songs": [
+    {
+      "name": "The Ghost of Tom Joad",
+      "times_played": 1
+    },
+    {
+      "name": "Thunder Road",
+      "times_played": 1
+    },
+    {
+      "name": "Prove It All Night",
+      "times_played": 1
+    },
+    {
+      "name": "Darkness on the Edge of Town",
+      "times_played": 1
+    },
+    {
+      "name": "Cover Me",
+      "times_played": 1
+    },
+    {
+      "name": "Candy's Room",
+      "times_played": 1
+    },
+    {
+      "name": "The Promised Land",
+      "times_played": 1
+    },
+    {
+      "name": "I'm Goin' Down",
+      "times_played": 1
+    },
+    {
+      "name": "She's the One",
+      "times_played": 1
+    },
+    {
+      "name": "I'm on Fire",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1189",
+      "show_number": 1188,
+      "date": "2024-08-23",
+      "festival_name": null,
+      "venue": "Citizens Bank Park",
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    {
+      "id": "1188",
+      "show_number": 1187,
+      "date": "2024-08-21",
+      "festival_name": null,
+      "venue": "Citizens Bank Park",
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    {
+      "id": "1158",
+      "show_number": 1157,
+      "date": "2024-04-15",
+      "festival_name": null,
+      "venue": "MVP Arena",
+      "city": "Albany",
+      "state": "NY"
+    },
+    {
+      "id": "1155",
+      "show_number": 1154,
+      "date": "2024-04-12",
+      "festival_name": null,
+      "venue": "Mohegan Sun Arena",
+      "city": "Uncasville",
+      "state": "CT"
+    },
+    {
+      "id": "1110",
+      "show_number": 1109,
+      "date": "2023-09-03",
+      "festival_name": null,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "1109",
+      "show_number": 1108,
+      "date": "2023-09-01",
+      "festival_name": null,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "1108",
+      "show_number": 1107,
+      "date": "2023-08-30",
+      "festival_name": null,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "1087",
+      "show_number": 1086,
+      "date": "2023-04-14",
+      "festival_name": null,
+      "venue": "Prudential Center",
+      "city": "Newark",
+      "state": "NJ"
+    },
+    {
+      "id": "1086",
+      "show_number": 1085,
+      "date": "2023-04-11",
+      "festival_name": null,
+      "venue": "UBS Arena",
+      "city": "Elmont",
+      "state": "NY"
+    },
+    {
+      "id": "1085",
+      "show_number": 1084,
+      "date": "2023-04-09",
+      "festival_name": null,
+      "venue": "UBS Arena",
+      "city": "Elmont",
+      "state": "NY"
+    },
+    {
+      "id": "1084",
+      "show_number": 1083,
+      "date": "2023-04-03",
+      "festival_name": null,
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY"
+    },
+    {
+      "id": "1083",
+      "show_number": 1082,
+      "date": "2023-04-01",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "1079",
+      "show_number": 1078,
+      "date": "2023-03-16",
+      "festival_name": null,
+      "venue": "Wells Fargo Center",
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    {
+      "id": "1078",
+      "show_number": 1077,
+      "date": "2023-02-05",
+      "festival_name": null,
+      "venue": "Kia Center",
+      "city": "Orlando",
+      "state": "FL"
+    },
+    {
+      "id": "1077",
+      "show_number": 1076,
+      "date": "2023-02-01",
+      "festival_name": null,
+      "venue": "Amalie Arena",
+      "city": "Tampa",
+      "state": "FL"
+    },
+    {
+      "id": "720",
+      "show_number": 719,
+      "date": "2016-09-14",
+      "festival_name": null,
+      "venue": "Gillette Stadium",
+      "city": "Foxborough",
+      "state": "MA"
+    },
+    {
+      "id": "719",
+      "show_number": 718,
+      "date": "2016-09-09",
+      "festival_name": null,
+      "venue": "Citizens Bank Park",
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    {
+      "id": "718",
+      "show_number": 717,
+      "date": "2016-09-07",
+      "festival_name": null,
+      "venue": "Citizens Bank Park",
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    {
+      "id": "717",
+      "show_number": 716,
+      "date": "2016-08-30",
+      "festival_name": null,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "715",
+      "show_number": 714,
+      "date": "2016-08-23",
+      "festival_name": null,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "688",
+      "show_number": 687,
+      "date": "2016-04-25",
+      "festival_name": null,
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY"
+    },
+    {
+      "id": "687",
+      "show_number": 686,
+      "date": "2016-04-23",
+      "festival_name": null,
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY"
+    },
+    {
+      "id": "678",
+      "show_number": 677,
+      "date": "2016-03-28",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "673",
+      "show_number": 672,
+      "date": "2016-02-12",
+      "festival_name": null,
+      "venue": "Wells Fargo Center",
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    {
+      "id": "672",
+      "show_number": 671,
+      "date": "2016-02-10",
+      "festival_name": null,
+      "venue": "XL Center",
+      "city": "Hartford",
+      "state": "CT"
+    },
+    {
+      "id": "671",
+      "show_number": 670,
+      "date": "2016-02-08",
+      "festival_name": null,
+      "venue": "MVP Arena",
+      "city": "Albany",
+      "state": "NY"
+    },
+    {
+      "id": "670",
+      "show_number": 669,
+      "date": "2016-01-31",
+      "festival_name": null,
+      "venue": "Prudential Center",
+      "city": "Newark",
+      "state": "NJ"
+    },
+    {
+      "id": "669",
+      "show_number": 668,
+      "date": "2016-01-27",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "576",
+      "show_number": 575,
+      "date": "2014-05-18",
+      "festival_name": null,
+      "venue": "Mohegan Sun Arena",
+      "city": "Uncasville",
+      "state": "CT"
+    },
+    {
+      "id": "575",
+      "show_number": 574,
+      "date": "2014-05-17",
+      "festival_name": null,
+      "venue": "Mohegan Sun Arena",
+      "city": "Uncasville",
+      "state": "CT"
+    },
+    {
+      "id": "574",
+      "show_number": 573,
+      "date": "2014-05-13",
+      "festival_name": null,
+      "venue": "MVP Arena",
+      "city": "Albany",
+      "state": "NY"
+    },
+    {
+      "id": "559",
+      "show_number": 558,
+      "date": "2014-01-14",
+      "festival_name": null,
+      "venue": "Studio 6H at 30 Rock",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "406",
+      "show_number": 405,
+      "date": "2009-11-08",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "405",
+      "show_number": 404,
+      "date": "2009-11-07",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "399",
+      "show_number": 398,
+      "date": "2009-10-09",
+      "festival_name": null,
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "397",
+      "show_number": 396,
+      "date": "2009-10-03",
+      "festival_name": null,
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "396",
+      "show_number": 395,
+      "date": "2009-10-02",
+      "festival_name": null,
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "395",
+      "show_number": 394,
+      "date": "2009-09-30",
+      "festival_name": null,
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "389",
+      "show_number": 388,
+      "date": "2009-08-19",
+      "festival_name": null,
+      "venue": "The Meadowlands",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "382",
+      "show_number": 381,
+      "date": "2009-05-23",
+      "festival_name": null,
+      "venue": "Izod Center",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "381",
+      "show_number": 380,
+      "date": "2009-05-21",
+      "festival_name": null,
+      "venue": "Izod Center",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "379",
+      "show_number": 378,
+      "date": "2009-05-04",
+      "festival_name": null,
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    },
+    {
+      "id": "376",
+      "show_number": 375,
+      "date": "2009-04-24",
+      "festival_name": null,
+      "venue": "XL Center",
+      "city": "Hartford",
+      "state": "CT"
+    },
+    {
+      "id": "372",
+      "show_number": 371,
+      "date": "2009-03-24",
+      "festival_name": null,
+      "venue": "Convention Hall",
+      "city": "Asbury Park",
+      "state": "NJ"
+    },
+    {
+      "id": "353",
+      "show_number": 352,
+      "date": "2008-07-31",
+      "festival_name": null,
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "352",
+      "show_number": 351,
+      "date": "2008-07-28",
+      "festival_name": null,
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "351",
+      "show_number": 350,
+      "date": "2008-07-27",
+      "festival_name": null,
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "336",
+      "show_number": 335,
+      "date": "2008-04-25",
+      "festival_name": null,
+      "venue": "State Farm Arena",
+      "city": "Atlanta",
+      "state": "GA"
+    },
+    {
+      "id": "332",
+      "show_number": 331,
+      "date": "2008-03-10",
+      "festival_name": null,
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    },
+    {
+      "id": "325",
+      "show_number": 324,
+      "date": "2007-11-15",
+      "festival_name": null,
+      "venue": "MVP Arena",
+      "city": "Albany",
+      "state": "NY"
+    },
+    {
+      "id": "320",
+      "show_number": 319,
+      "date": "2007-10-18",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "319",
+      "show_number": 318,
+      "date": "2007-10-17",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "318",
+      "show_number": 317,
+      "date": "2007-10-10",
+      "festival_name": null,
+      "venue": "Izod Center",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "316",
+      "show_number": 315,
+      "date": "2007-10-02",
+      "festival_name": null,
+      "venue": "XL Center",
+      "city": "Hartford",
+      "state": "CT"
+    },
+    {
+      "id": "315",
+      "show_number": 314,
+      "date": "2007-09-28",
+      "festival_name": null,
+      "venue": "Today Show Plaza at Rockefeller Center",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "314",
+      "show_number": 313,
+      "date": "2007-09-24",
+      "festival_name": null,
+      "venue": "Paramount Theatre",
+      "city": "Asbury Park",
+      "state": "NJ"
+    },
+    {
+      "id": "195",
+      "show_number": 194,
+      "date": "2003-10-04",
+      "festival_name": null,
+      "venue": "Shea Stadium",
+      "city": "Queens",
+      "state": "NY"
+    },
+    {
+      "id": "191",
+      "show_number": 190,
+      "date": "2003-08-28",
+      "festival_name": null,
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "186",
+      "show_number": 185,
+      "date": "2003-07-27",
+      "festival_name": null,
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "185",
+      "show_number": 184,
+      "date": "2003-07-24",
+      "festival_name": null,
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "184",
+      "show_number": 183,
+      "date": "2003-07-21",
+      "festival_name": null,
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "183",
+      "show_number": 182,
+      "date": "2003-07-17",
+      "festival_name": null,
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "182",
+      "show_number": 181,
+      "date": "2003-07-15",
+      "festival_name": null,
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "176",
+      "show_number": 175,
+      "date": "2002-12-16",
+      "festival_name": null,
+      "venue": "Schottenstein Center",
+      "city": "Columbus",
+      "state": "OH"
+    },
+    {
+      "id": "170",
+      "show_number": 169,
+      "date": "2002-10-06",
+      "festival_name": null,
+      "venue": "Wells Fargo Center",
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    {
+      "id": "165",
+      "show_number": 164,
+      "date": "2002-08-12",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "163",
+      "show_number": 162,
+      "date": "2002-08-05",
+      "festival_name": null,
+      "venue": "Izod Center",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "107",
+      "show_number": 106,
+      "date": "2000-07-01",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "104",
+      "show_number": 103,
+      "date": "2000-06-26",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "102",
+      "show_number": 101,
+      "date": "2000-05-08",
+      "festival_name": null,
+      "venue": "XL Center",
+      "city": "Hartford",
+      "state": "CT"
+    },
+    {
+      "id": "89",
+      "show_number": 88,
+      "date": "1999-07-24",
+      "festival_name": null,
+      "venue": "Izod Center",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "88",
+      "show_number": 87,
+      "date": "1999-07-15",
+      "festival_name": null,
+      "venue": "Izod Center",
+      "city": "East Rutherford",
+      "state": "NJ"
+    }
+  ]
+}

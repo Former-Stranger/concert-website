@@ -1,0 +1,76 @@
+{
+  "id": "500",
+  "name": "Santana",
+  "concert_count": 3,
+  "top_songs": [
+    {
+      "name": "Black Magic Woman / Gypsy Queen",
+      "times_played": 3
+    },
+    {
+      "name": "Oye c\u00f3mo va",
+      "times_played": 3
+    },
+    {
+      "name": "Jin-go-lo-ba",
+      "times_played": 3
+    },
+    {
+      "name": "Day of Celebration",
+      "times_played": 2
+    },
+    {
+      "name": "Bacalao con pan",
+      "times_played": 2
+    },
+    {
+      "name": "Europa (Earth's Cry, Heaven's Smile)",
+      "times_played": 2
+    },
+    {
+      "name": "Put Your Lights On",
+      "times_played": 2
+    },
+    {
+      "name": "Spiritual / (Da le) Yaleo",
+      "times_played": 1
+    },
+    {
+      "name": "Everybody's Everything",
+      "times_played": 1
+    },
+    {
+      "name": "Serpents and Doves",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1126",
+      "show_number": 1125,
+      "date": "2023-11-05",
+      "festival_name": null,
+      "venue": "House of Blues",
+      "city": "Las Vegas",
+      "state": "NV"
+    },
+    {
+      "id": "85",
+      "show_number": 84,
+      "date": "1999-05-26",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "44",
+      "show_number": 43,
+      "date": "1997-07-10",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Thunder Ridge Ski Area",
+      "city": "Patterson",
+      "state": "NY"
+    }
+  ]
+}

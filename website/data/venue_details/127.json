@@ -1,0 +1,121 @@
+{
+  "id": "127",
+  "name": "Prudential Center",
+  "city": "Newark",
+  "state": "NJ",
+  "concert_count": 16,
+  "concerts": [
+    {
+      "id": "1241",
+      "show_number": 1240,
+      "date": "2025-03-06",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Blake Shelton (Trace Adkins, Craig Morgan, Deana Carter, Emily Ann Roberts)"
+    },
+    {
+      "id": "1148",
+      "show_number": 1147,
+      "date": "2024-03-16",
+      "festival_name": null,
+      "artists": "Bryan Adams (w. Dave Stewart)"
+    },
+    {
+      "id": "1087",
+      "show_number": 1086,
+      "date": "2023-04-14",
+      "festival_name": null,
+      "artists": "Bruce Springsteen & the E Street Band"
+    },
+    {
+      "id": "921",
+      "show_number": 920,
+      "date": "2019-07-16",
+      "festival_name": null,
+      "artists": "ELO"
+    },
+    {
+      "id": "873",
+      "show_number": 872,
+      "date": "2018-10-13",
+      "festival_name": null,
+      "artists": "Phil Collins"
+    },
+    {
+      "id": "872",
+      "show_number": 871,
+      "date": "2018-10-12",
+      "festival_name": null,
+      "artists": "Eagles"
+    },
+    {
+      "id": "838",
+      "show_number": 837,
+      "date": "2018-06-29",
+      "festival_name": null,
+      "artists": "U2"
+    },
+    {
+      "id": "344",
+      "show_number": 343,
+      "date": "2018-06-18",
+      "festival_name": null,
+      "artists": "Tom Petty & The Heartbreakers"
+    },
+    {
+      "id": "803",
+      "show_number": 802,
+      "date": "2017-12-02",
+      "festival_name": null,
+      "artists": "Garth Brooks w. Trisha Yearwood"
+    },
+    {
+      "id": "802",
+      "show_number": 801,
+      "date": "2017-12-01",
+      "festival_name": null,
+      "artists": "Garth Brooks w. Trisha Yearwood"
+    },
+    {
+      "id": "794",
+      "show_number": 793,
+      "date": "2017-10-12",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Guns, Roses"
+    },
+    {
+      "id": "759",
+      "show_number": 758,
+      "date": "2017-06-16",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Tom Petty, Heartbreakers"
+    },
+    {
+      "id": "670",
+      "show_number": 669,
+      "date": "2016-01-31",
+      "festival_name": null,
+      "artists": "Bruce Springsteen & the E Street Band"
+    },
+    {
+      "id": "621",
+      "show_number": 620,
+      "date": "2015-05-02",
+      "festival_name": null,
+      "artists": "Eric Church"
+    },
+    {
+      "id": "507",
+      "show_number": 506,
+      "date": "2012-05-02",
+      "festival_name": null,
+      "artists": "Bruce Springsteen"
+    },
+    {
+      "id": "321",
+      "show_number": 320,
+      "date": "2007-10-30",
+      "festival_name": null,
+      "artists": "Bon Jovi"
+    }
+  ]
+}

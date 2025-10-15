@@ -1,0 +1,58 @@
+{
+  "id": "37",
+  "name": "Barry Gibb",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Jive Talkin'",
+      "times_played": 1
+    },
+    {
+      "name": "You Should Be Dancing",
+      "times_played": 1
+    },
+    {
+      "name": "Lonely Days",
+      "times_played": 1
+    },
+    {
+      "name": "(Our Love) Don't Throw It All Away",
+      "times_played": 1
+    },
+    {
+      "name": "To Love Somebody",
+      "times_played": 1
+    },
+    {
+      "name": "How Can You Mend a Broken Heart?",
+      "times_played": 1
+    },
+    {
+      "name": "Stayin' Alive",
+      "times_played": 1
+    },
+    {
+      "name": "How Deep Is Your Love?",
+      "times_played": 1
+    },
+    {
+      "name": "On Time",
+      "times_played": 1
+    },
+    {
+      "name": "I've Gotta Get a Message to You",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "577",
+      "show_number": 576,
+      "date": "2014-05-23",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    }
+  ]
+}

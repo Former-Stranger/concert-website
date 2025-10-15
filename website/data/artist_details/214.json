@@ -1,0 +1,76 @@
+{
+  "id": "214",
+  "name": "Foo Fighters",
+  "concert_count": 3,
+  "top_songs": [
+    {
+      "name": "All My Life",
+      "times_played": 3
+    },
+    {
+      "name": "The Pretender",
+      "times_played": 3
+    },
+    {
+      "name": "Walk",
+      "times_played": 3
+    },
+    {
+      "name": "Times Like These",
+      "times_played": 3
+    },
+    {
+      "name": "Breakout",
+      "times_played": 3
+    },
+    {
+      "name": "My Hero",
+      "times_played": 3
+    },
+    {
+      "name": "The Sky Is a Neighborhood",
+      "times_played": 3
+    },
+    {
+      "name": "Learn to Fly",
+      "times_played": 3
+    },
+    {
+      "name": "Everlong",
+      "times_played": 3
+    },
+    {
+      "name": "No Son of Mine",
+      "times_played": 2
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1179",
+      "show_number": 1178,
+      "date": "2024-07-17",
+      "festival_name": null,
+      "venue": "Citi Field",
+      "city": "Queens",
+      "state": "NY"
+    },
+    {
+      "id": "987",
+      "show_number": 986,
+      "date": "2021-09-17",
+      "festival_name": null,
+      "venue": "Hartford HealthCare Amphitheater",
+      "city": "Bridgeport",
+      "state": "CT"
+    },
+    {
+      "id": "842",
+      "show_number": 841,
+      "date": "2018-07-14",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    }
+  ]
+}

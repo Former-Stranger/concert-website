@@ -1,0 +1,30 @@
+{
+  "id": "148",
+  "name": "Stamford Center for Arts",
+  "city": "Stamford",
+  "state": "CT",
+  "concert_count": 3,
+  "concerts": [
+    {
+      "id": "230",
+      "show_number": 229,
+      "date": "2005-06-07",
+      "festival_name": null,
+      "artists": "John Fogerty"
+    },
+    {
+      "id": "220",
+      "show_number": 219,
+      "date": "2005-02-11",
+      "festival_name": null,
+      "artists": "Joe Cocker"
+    },
+    {
+      "id": "219",
+      "show_number": 218,
+      "date": "2004-11-30",
+      "festival_name": null,
+      "artists": "Hall & Oates"
+    }
+  ]
+}

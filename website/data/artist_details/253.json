@@ -1,0 +1,67 @@
+{
+  "id": "253",
+  "name": "Huey Lewis  The News",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "The Heart of Rock & Roll",
+      "times_played": 2
+    },
+    {
+      "name": "I Want a New Drug",
+      "times_played": 2
+    },
+    {
+      "name": "Her Love Is Killin' Me",
+      "times_played": 2
+    },
+    {
+      "name": "Um, Um, Um, Um, Um, Um, Um",
+      "times_played": 2
+    },
+    {
+      "name": "Hip to Be Square",
+      "times_played": 2
+    },
+    {
+      "name": "While We're Young",
+      "times_played": 2
+    },
+    {
+      "name": "Heart and Soul",
+      "times_played": 2
+    },
+    {
+      "name": "We're Not Here for a Long Time (We're Here for a Good Time)",
+      "times_played": 2
+    },
+    {
+      "name": "The Power of Love",
+      "times_played": 2
+    },
+    {
+      "name": "Stuck With You",
+      "times_played": 2
+    }
+  ],
+  "concerts": [
+    {
+      "id": "761",
+      "show_number": 760,
+      "date": "2017-06-21",
+      "festival_name": null,
+      "venue": "NYCB Theatre at Westbury",
+      "city": "Westbury",
+      "state": "NY"
+    },
+    {
+      "id": "685",
+      "show_number": 684,
+      "date": "2016-04-16",
+      "festival_name": null,
+      "venue": "Oakdale Theatre",
+      "city": "Wallingford",
+      "state": "CT"
+    }
+  ]
+}

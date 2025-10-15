@@ -1,0 +1,23 @@
+{
+  "id": "93",
+  "name": "Metropolitan Opera House",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 2,
+  "concerts": [
+    {
+      "id": "783",
+      "show_number": 782,
+      "date": "2017-09-09",
+      "festival_name": null,
+      "artists": "Pete Townshend / Quadrophenia"
+    },
+    {
+      "id": "432",
+      "show_number": 431,
+      "date": "2010-07-13",
+      "festival_name": null,
+      "artists": "Sting with Philharmonic"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "151",
+  "name": "Stone Pony",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "concert_count": 3,
+  "concerts": [
+    {
+      "id": "632",
+      "show_number": 631,
+      "date": "2015-06-27",
+      "festival_name": null,
+      "artists": "Jesse Malin"
+    },
+    {
+      "id": "499",
+      "show_number": 498,
+      "date": "2011-12-10",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Jesse Malin, St. Marks Social"
+    },
+    {
+      "id": "221",
+      "show_number": 220,
+      "date": "2005-02-19",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Joe Grushecky, the Houserockers"
+    }
+  ]
+}

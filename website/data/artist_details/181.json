@@ -1,0 +1,85 @@
+{
+  "id": "181",
+  "name": "ELO",
+  "concert_count": 4,
+  "top_songs": [
+    {
+      "name": "Evil Woman",
+      "times_played": 4
+    },
+    {
+      "name": "Showdown",
+      "times_played": 4
+    },
+    {
+      "name": "Rockaria!",
+      "times_played": 4
+    },
+    {
+      "name": "10538 Overture",
+      "times_played": 4
+    },
+    {
+      "name": "Sweet Talkin' Woman",
+      "times_played": 4
+    },
+    {
+      "name": "Can't Get It Out of My Head",
+      "times_played": 4
+    },
+    {
+      "name": "Livin' Thing",
+      "times_played": 4
+    },
+    {
+      "name": "Telephone Line",
+      "times_played": 4
+    },
+    {
+      "name": "All Over the World",
+      "times_played": 4
+    },
+    {
+      "name": "Turn to Stone",
+      "times_played": 4
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1198",
+      "show_number": 1197,
+      "date": "2024-09-16",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "921",
+      "show_number": 920,
+      "date": "2019-07-16",
+      "festival_name": null,
+      "venue": "Prudential Center",
+      "city": "Newark",
+      "state": "NJ"
+    },
+    {
+      "id": "854",
+      "show_number": 853,
+      "date": "2018-08-21",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "721",
+      "show_number": 720,
+      "date": "2016-09-16",
+      "festival_name": null,
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

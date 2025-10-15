@@ -1,0 +1,16 @@
+{
+  "id": "155",
+  "name": "SubCulture",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "616",
+      "show_number": 615,
+      "date": "2015-04-10",
+      "festival_name": null,
+      "artists": "Lee Dewyze"
+    }
+  ]
+}

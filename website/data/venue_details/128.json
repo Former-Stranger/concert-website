@@ -1,0 +1,16 @@
+{
+  "id": "128",
+  "name": "Queens College",
+  "city": "Queens",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "361",
+      "show_number": 360,
+      "date": "2008-11-08",
+      "festival_name": null,
+      "artists": "Fab Faux"
+    }
+  ]
+}

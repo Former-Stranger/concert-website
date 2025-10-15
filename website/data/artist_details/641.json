@@ -1,0 +1,94 @@
+{
+  "id": "641",
+  "name": "Willie Nelson",
+  "concert_count": 5,
+  "top_songs": [
+    {
+      "name": "Whiskey River",
+      "times_played": 2
+    },
+    {
+      "name": "Rich Woman",
+      "times_played": 1
+    },
+    {
+      "name": "Fortune Teller",
+      "times_played": 1
+    },
+    {
+      "name": "Can't Let Go",
+      "times_played": 1
+    },
+    {
+      "name": "The Price of Love",
+      "times_played": 1
+    },
+    {
+      "name": "Rock and Roll",
+      "times_played": 1
+    },
+    {
+      "name": "Please Read the Letter",
+      "times_played": 1
+    },
+    {
+      "name": "High and Lonesome",
+      "times_played": 1
+    },
+    {
+      "name": "Trouble With My Lover",
+      "times_played": 1
+    },
+    {
+      "name": "In the Mood / Matty Groves / Gallows Pole",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1270",
+      "show_number": 1269,
+      "date": "2025-08-01",
+      "festival_name": "Outlaw Festival",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "1176",
+      "show_number": 1175,
+      "date": "2024-06-29",
+      "festival_name": "Outlaw Festival",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "578",
+      "show_number": 577,
+      "date": "2014-06-10",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "272",
+      "show_number": 271,
+      "date": "2006-08-11",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "90",
+      "show_number": 89,
+      "date": "1999-07-18",
+      "festival_name": null,
+      "venue": "Cape Cod Melody Tent",
+      "city": "Hyannis",
+      "state": "MA"
+    }
+  ]
+}

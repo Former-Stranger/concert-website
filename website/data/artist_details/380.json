@@ -1,0 +1,67 @@
+{
+  "id": "380",
+  "name": "Metallica",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "The Ecstasy of Gold",
+      "times_played": 2
+    },
+    {
+      "name": "For Whom the Bell Tolls",
+      "times_played": 2
+    },
+    {
+      "name": "Sad but True",
+      "times_played": 2
+    },
+    {
+      "name": "One",
+      "times_played": 2
+    },
+    {
+      "name": "Fade to Black",
+      "times_played": 2
+    },
+    {
+      "name": "Seek & Destroy",
+      "times_played": 2
+    },
+    {
+      "name": "Nothing Else Matters",
+      "times_played": 2
+    },
+    {
+      "name": "Enter Sandman",
+      "times_played": 2
+    },
+    {
+      "name": "Hardwired Intro",
+      "times_played": 1
+    },
+    {
+      "name": "Hardwired",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "756",
+      "show_number": 755,
+      "date": "2017-05-17",
+      "festival_name": null,
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    },
+    {
+      "id": "112",
+      "show_number": 111,
+      "date": "2000-07-20",
+      "festival_name": null,
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "id": "909",
+  "show_number": 908,
+  "date": "2019-04-13",
+  "festival_name": null,
+  "venue": "Tarrytown Music Hall",
+  "city": "Tarrytown",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Roger McGuinn",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/4b931f0a.html",
+  "song_count": 25,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "My Back Pages",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Dylan"
+    },
+    {
+      "position": 2,
+      "name": "Nothing Was Delivered",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Dylan & The Band"
+    },
+    {
+      "position": 3,
+      "name": "Pretty Boy Floyd",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Woody Guthrie"
+    },
+    {
+      "position": 4,
+      "name": "You Ain't Goin' Nowhere",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Dylan"
+    },
+    {
+      "position": 5,
+      "name": "I'm In Love",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Daddy Roll 'em",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Gibson"
+    },
+    {
+      "position": 7,
+      "name": "They Hung Him on a Cross",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Lead Belly"
+    },
+    {
+      "position": 8,
+      "name": "St. James Infirmary Blues",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 9,
+      "name": "Turn! Turn! Turn! (To Everything There Is a Season)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pete Seeger"
+    },
+    {
+      "position": 10,
+      "name": "The Water Is Wide",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 11,
+      "name": "I Wasn't Born to Follow",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The City"
+    },
+    {
+      "position": 12,
+      "name": "Ballad of Easy Rider",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Randy Dandy Oh",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 14,
+      "name": "The Preacher and the Bear",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 15,
+      "name": "Clarence White's Guitar Tune",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "So You Want to Be a Rock 'n' Roll Star",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Byrds"
+    },
+    {
+      "position": 17,
+      "name": "Lover of the Bayou",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Byrds"
+    },
+    {
+      "position": 18,
+      "name": "American Girl",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tom Petty and the Heartbreakers"
+    },
+    {
+      "position": 19,
+      "name": "King of the Hill",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "Chestnut Mare",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Byrds"
+    },
+    {
+      "position": 21,
+      "name": "Russian Hill",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 22,
+      "name": "Mr. Tambourine Man",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Dylan"
+    },
+    {
+      "position": 23,
+      "name": "Eight Miles High",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Byrds"
+    },
+    {
+      "position": 24,
+      "name": "I'll Feel a Whole Lot Better",
+      "set_name": "Encore",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Byrds"
+    },
+    {
+      "position": 25,
+      "name": "Chimes of Freedom",
+      "set_name": "Encore",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Dylan"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "476",
+  "name": "Rock Hall of Fame: Cheap Trick",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Fly Like an Eagle",
+      "times_played": 1
+    },
+    {
+      "name": "Rock'n Me",
+      "times_played": 1
+    },
+    {
+      "name": "The Joker",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "680",
+      "show_number": 679,
+      "date": "2016-04-08",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY"
+    }
+  ]
+}

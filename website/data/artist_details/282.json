@@ -1,0 +1,85 @@
+{
+  "id": "282",
+  "name": "Joe Cocker",
+  "concert_count": 4,
+  "top_songs": [
+    {
+      "name": "I Want to Take You Higher",
+      "times_played": 1
+    },
+    {
+      "name": "Absolutely Nothing's Changed",
+      "times_played": 1
+    },
+    {
+      "name": "A Fool in Love",
+      "times_played": 1
+    },
+    {
+      "name": "The Acid Queen",
+      "times_played": 1
+    },
+    {
+      "name": "River Deep, Mountain High",
+      "times_played": 1
+    },
+    {
+      "name": "We Don't Need Another Hero (Thunderdome)",
+      "times_played": 1
+    },
+    {
+      "name": "Better Be Good to Me",
+      "times_played": 1
+    },
+    {
+      "name": "Private Dancer",
+      "times_played": 1
+    },
+    {
+      "name": "Let's Stay Together",
+      "times_played": 1
+    },
+    {
+      "name": "What's Love Got to Do With It",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "220",
+      "show_number": 219,
+      "date": "2005-02-11",
+      "festival_name": null,
+      "venue": "Stamford Center for Arts",
+      "city": "Stamford",
+      "state": "CT"
+    },
+    {
+      "id": "119",
+      "show_number": 118,
+      "date": "2000-10-01",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    },
+    {
+      "id": "31",
+      "show_number": 30,
+      "date": "1996-08-31",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "8",
+      "show_number": 7,
+      "date": "1995-03-16",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

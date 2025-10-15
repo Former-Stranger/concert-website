@@ -1,0 +1,68 @@
+{
+  "id": "105",
+  "name": "Buddy Guy",
+  "concert_count": 3,
+  "top_songs": [
+    {
+      "name": "Damn Right, I've Got the Blues",
+      "times_played": 2
+    },
+    {
+      "name": "I'm Your Hoochie Coochie Man / She's Nineteen Years Old",
+      "times_played": 1
+    },
+    {
+      "name": "I Just Want to Make Love to You",
+      "times_played": 1
+    },
+    {
+      "name": "Chicken Heads",
+      "times_played": 1
+    },
+    {
+      "name": "Fever",
+      "times_played": 1
+    },
+    {
+      "name": "All Around the World / Take Me to the River",
+      "times_played": 1
+    },
+    {
+      "name": "Drowning On Dry Land / Rock Me",
+      "times_played": 1
+    },
+    {
+      "name": "Downhearted",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1252",
+      "show_number": 1251,
+      "date": "2025-05-20",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "1157",
+      "show_number": 1156,
+      "date": "2024-04-14",
+      "festival_name": null,
+      "venue": "NYCB Theatre at Westbury",
+      "city": "Westbury",
+      "state": "NY"
+    },
+    {
+      "id": "1027",
+      "show_number": 1026,
+      "date": "2022-06-10",
+      "festival_name": null,
+      "venue": "Tarrytown Music Hall",
+      "city": "Tarrytown",
+      "state": "NY"
+    }
+  ]
+}

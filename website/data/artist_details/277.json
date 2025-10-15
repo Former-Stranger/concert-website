@@ -1,0 +1,247 @@
+{
+  "id": "277",
+  "name": "Jimmy Buffett",
+  "concert_count": 22,
+  "top_songs": [
+    {
+      "name": "Volcano",
+      "times_played": 15
+    },
+    {
+      "name": "Margaritaville",
+      "times_played": 15
+    },
+    {
+      "name": "Fins",
+      "times_played": 15
+    },
+    {
+      "name": "It's Five O'Clock Somewhere",
+      "times_played": 14
+    },
+    {
+      "name": "Changes in Latitudes, Changes in Attitudes",
+      "times_played": 14
+    },
+    {
+      "name": "One Particular Harbour",
+      "times_played": 14
+    },
+    {
+      "name": "Brown Eyed Girl",
+      "times_played": 14
+    },
+    {
+      "name": "Cheeseburger in Paradise",
+      "times_played": 14
+    },
+    {
+      "name": "Come Monday",
+      "times_played": 14
+    },
+    {
+      "name": "Son of a Son of a Sailor",
+      "times_played": 14
+    }
+  ],
+  "concerts": [
+    {
+      "id": "979",
+      "show_number": 978,
+      "date": "2021-08-10",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "930",
+      "show_number": 929,
+      "date": "2019-08-08",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "846",
+      "show_number": 845,
+      "date": "2018-08-02",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "777",
+      "show_number": 776,
+      "date": "2017-08-15",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "716",
+      "show_number": 715,
+      "date": "2016-08-25",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "666",
+      "show_number": 665,
+      "date": "2015-12-31",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY"
+    },
+    {
+      "id": "646",
+      "show_number": 645,
+      "date": "2015-08-18",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "391",
+      "show_number": 390,
+      "date": "2014-08-26",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "592",
+      "show_number": 591,
+      "date": "2014-08-21",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "552",
+      "show_number": 551,
+      "date": "2013-08-22",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "551",
+      "show_number": 550,
+      "date": "2013-08-15",
+      "festival_name": null,
+      "venue": "Today Show Plaza at Rockefeller Center",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "515",
+      "show_number": 514,
+      "date": "2012-08-30",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "488",
+      "show_number": 487,
+      "date": "2011-08-19",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "442",
+      "show_number": 441,
+      "date": "2010-08-31",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "358",
+      "show_number": 357,
+      "date": "2008-08-27",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "342",
+      "show_number": 341,
+      "date": "2008-06-12",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "317",
+      "show_number": 316,
+      "date": "2007-09-18",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "277",
+      "show_number": 276,
+      "date": "2006-09-14",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "266",
+      "show_number": 265,
+      "date": "2006-07-01",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "213",
+      "show_number": 212,
+      "date": "2004-09-04",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "113",
+      "show_number": 112,
+      "date": "2000-07-31",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Stony Brook Southampton",
+      "city": "Southampton",
+      "state": "NY"
+    },
+    {
+      "id": "78",
+      "show_number": 77,
+      "date": "1999-02-22",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

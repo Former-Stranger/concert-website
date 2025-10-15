@@ -1,0 +1,50 @@
+{
+  "id": "151",
+  "name": "Dave & Tim",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "From Hank to Hendrix",
+      "times_played": 1
+    },
+    {
+      "name": "Harvest Moon",
+      "times_played": 1
+    },
+    {
+      "name": "Unknown Legend",
+      "times_played": 1
+    },
+    {
+      "name": "Journey Through the Past",
+      "times_played": 1
+    },
+    {
+      "name": "Love Earth",
+      "times_played": 1
+    },
+    {
+      "name": "Heart of Gold",
+      "times_played": 1
+    },
+    {
+      "name": "Homegrown",
+      "times_played": 1
+    },
+    {
+      "name": "Powderfinger",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1199",
+      "show_number": 1198,
+      "date": "2024-09-21",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Saratoga Performing Arts Center",
+      "city": "Saratoga Springs",
+      "state": "NY"
+    }
+  ]
+}

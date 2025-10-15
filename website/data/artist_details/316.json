@@ -1,0 +1,211 @@
+{
+  "id": "316",
+  "name": "Keith Urban",
+  "concert_count": 18,
+  "top_songs": [
+    {
+      "name": "Long Hot Summer",
+      "times_played": 12
+    },
+    {
+      "name": "Somewhere in My Car",
+      "times_played": 11
+    },
+    {
+      "name": "Stupid Boy",
+      "times_played": 11
+    },
+    {
+      "name": "Somebody Like You",
+      "times_played": 10
+    },
+    {
+      "name": "Days Go By",
+      "times_played": 9
+    },
+    {
+      "name": "Blue Ain't Your Color",
+      "times_played": 9
+    },
+    {
+      "name": "Wasted Time",
+      "times_played": 9
+    },
+    {
+      "name": "Cop Car",
+      "times_played": 8
+    },
+    {
+      "name": "John Cougar, John Deere, John 3:16",
+      "times_played": 8
+    },
+    {
+      "name": "You Gonna Fly",
+      "times_played": 7
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1260",
+      "show_number": 1259,
+      "date": "2025-06-14",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    },
+    {
+      "id": "1211",
+      "show_number": 1210,
+      "date": "2024-10-30",
+      "festival_name": null,
+      "venue": "Today Show Plaza at Rockefeller Center",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "1125",
+      "show_number": 1124,
+      "date": "2023-11-01",
+      "festival_name": null,
+      "venue": "Bakkt Theater at Planet Hollywood",
+      "city": "Las Vegas",
+      "state": "NV"
+    },
+    {
+      "id": "1066",
+      "show_number": 1065,
+      "date": "2022-10-22",
+      "festival_name": null,
+      "venue": "UBS Arena",
+      "city": "Elmont",
+      "state": "NY"
+    },
+    {
+      "id": "1065",
+      "show_number": 1064,
+      "date": "2022-10-21",
+      "festival_name": null,
+      "venue": "Mohegan Sun Arena",
+      "city": "Uncasville",
+      "state": "CT"
+    },
+    {
+      "id": "1033",
+      "show_number": 1032,
+      "date": "2022-06-30",
+      "festival_name": null,
+      "venue": "Rockefeller Plaza",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "962",
+      "show_number": 961,
+      "date": "2019-11-17",
+      "festival_name": null,
+      "venue": "Mohegan Sun Arena",
+      "city": "Uncasville",
+      "state": "CT"
+    },
+    {
+      "id": "876",
+      "show_number": 875,
+      "date": "2018-10-27",
+      "festival_name": null,
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY"
+    },
+    {
+      "id": "845",
+      "show_number": 844,
+      "date": "2018-08-02",
+      "festival_name": null,
+      "venue": "Today Show Plaza",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "732",
+      "show_number": 731,
+      "date": "2016-11-19",
+      "festival_name": null,
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY"
+    },
+    {
+      "id": "705",
+      "show_number": 704,
+      "date": "2016-07-16",
+      "festival_name": null,
+      "venue": "PNC Bank Arts Center",
+      "city": "Holmdel",
+      "state": "NJ"
+    },
+    {
+      "id": "692",
+      "show_number": 691,
+      "date": "2016-05-04",
+      "festival_name": null,
+      "venue": "Stage 48",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "641",
+      "show_number": 640,
+      "date": "2015-08-07",
+      "festival_name": null,
+      "venue": "Today Show Plaza at Rockefeller Center",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "591",
+      "show_number": 590,
+      "date": "2014-08-16",
+      "festival_name": null,
+      "venue": "The Meadowlands",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "588",
+      "show_number": 587,
+      "date": "2014-07-21",
+      "festival_name": null,
+      "venue": "Highline Ballroom",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "563",
+      "show_number": 562,
+      "date": "2014-01-29",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "482",
+      "show_number": 481,
+      "date": "2011-07-09",
+      "festival_name": null,
+      "venue": "Mohegan Sun Arena",
+      "city": "Uncasville",
+      "state": "CT"
+    },
+    {
+      "id": "443",
+      "show_number": 442,
+      "date": "2010-09-05",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Great South Bay Music Festival",
+      "city": "Oakdale",
+      "state": "NY"
+    }
+  ]
+}

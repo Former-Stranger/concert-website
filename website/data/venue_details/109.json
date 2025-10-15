@@ -1,0 +1,16 @@
+{
+  "id": "109",
+  "name": "Opry City Stage",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "810",
+      "show_number": 809,
+      "date": "2018-01-26",
+      "festival_name": null,
+      "artists": "Vince Gill"
+    }
+  ]
+}

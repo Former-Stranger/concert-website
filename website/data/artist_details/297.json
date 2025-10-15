@@ -1,0 +1,265 @@
+{
+  "id": "297",
+  "name": "John Hiatt",
+  "concert_count": 24,
+  "top_songs": [
+    {
+      "name": "Thing Called Love",
+      "times_played": 12
+    },
+    {
+      "name": "Have a Little Faith in Me",
+      "times_played": 12
+    },
+    {
+      "name": "Crossing Muddy Waters",
+      "times_played": 11
+    },
+    {
+      "name": "Drive South",
+      "times_played": 11
+    },
+    {
+      "name": "Feels Like Rain",
+      "times_played": 11
+    },
+    {
+      "name": "Memphis in the Meantime",
+      "times_played": 11
+    },
+    {
+      "name": "Perfectly Good Guitar",
+      "times_played": 10
+    },
+    {
+      "name": "Tennessee Plates",
+      "times_played": 10
+    },
+    {
+      "name": "Real Fine Love",
+      "times_played": 9
+    },
+    {
+      "name": "Lift Up Every Stone",
+      "times_played": 8
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1169",
+      "show_number": 1168,
+      "date": "2024-05-31",
+      "festival_name": null,
+      "venue": "Tarrytown Music Hall",
+      "city": "Tarrytown",
+      "state": "NY"
+    },
+    {
+      "id": "1032",
+      "show_number": 1031,
+      "date": "2022-06-30",
+      "festival_name": null,
+      "venue": "City Winery",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "965",
+      "show_number": 964,
+      "date": "2019-12-07",
+      "festival_name": null,
+      "venue": "Caramoor Center for Music and the Arts",
+      "city": "Katonah",
+      "state": "NY"
+    },
+    {
+      "id": "911",
+      "show_number": 910,
+      "date": "2019-04-30",
+      "festival_name": null,
+      "venue": "City Winery",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "896",
+      "show_number": 895,
+      "date": "2019-02-22",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Tarrytown Music Hall",
+      "city": "Tarrytown",
+      "state": "NY"
+    },
+    {
+      "id": "878",
+      "show_number": 877,
+      "date": "2018-10-31",
+      "festival_name": null,
+      "venue": "City Winery",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "877",
+      "show_number": 876,
+      "date": "2018-10-29",
+      "festival_name": null,
+      "venue": "City Winery",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "797",
+      "show_number": 796,
+      "date": "2017-11-12",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "740",
+      "show_number": 739,
+      "date": "2017-01-25",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Ridgefield Playhouse",
+      "city": "Ridgefield",
+      "state": "CT"
+    },
+    {
+      "id": "694",
+      "show_number": 693,
+      "date": "2016-05-10",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Ridgefield Playhouse",
+      "city": "Ridgefield",
+      "state": "CT"
+    },
+    {
+      "id": "689",
+      "show_number": 688,
+      "date": "2016-04-29",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Peekskill Paramount",
+      "city": "Peekskill",
+      "state": "NY"
+    },
+    {
+      "id": "649",
+      "show_number": 648,
+      "date": "2015-08-29",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Klein Memorial Auditorium",
+      "city": "Bridgeport",
+      "state": "CT"
+    },
+    {
+      "id": "620",
+      "show_number": 619,
+      "date": "2015-04-30",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "604",
+      "show_number": 603,
+      "date": "2014-10-13",
+      "festival_name": null,
+      "venue": "City Winery",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "599",
+      "show_number": 598,
+      "date": "2014-09-21",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Tarrytown Music Hall",
+      "city": "Tarrytown",
+      "state": "NY"
+    },
+    {
+      "id": "584",
+      "show_number": 583,
+      "date": "2014-07-03",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Ridgefield Playhouse",
+      "city": "Ridgefield",
+      "state": "CT"
+    },
+    {
+      "id": "561",
+      "show_number": 560,
+      "date": "2014-01-19",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Tarrytown Music Hall",
+      "city": "Tarrytown",
+      "state": "NY"
+    },
+    {
+      "id": "549",
+      "show_number": 548,
+      "date": "2013-08-09",
+      "festival_name": null,
+      "venue": "Ridgefield Playhouse",
+      "city": "Ridgefield",
+      "state": "CT"
+    },
+    {
+      "id": "528",
+      "show_number": 527,
+      "date": "2012-11-21",
+      "festival_name": null,
+      "venue": "City Winery",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "521",
+      "show_number": 520,
+      "date": "2012-10-07",
+      "festival_name": null,
+      "venue": "Tarrytown Music Hall",
+      "city": "Tarrytown",
+      "state": "NY"
+    },
+    {
+      "id": "486",
+      "show_number": 485,
+      "date": "2011-08-12",
+      "festival_name": null,
+      "venue": "City Winery",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "414",
+      "show_number": 413,
+      "date": "2010-03-07",
+      "festival_name": null,
+      "venue": "Tarrytown Music Hall",
+      "city": "Tarrytown",
+      "state": "NY"
+    },
+    {
+      "id": "370",
+      "show_number": 369,
+      "date": "2009-02-08",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Morristown Theater",
+      "city": "Morristown",
+      "state": "NJ"
+    },
+    {
+      "id": "355",
+      "show_number": 354,
+      "date": "2008-08-07",
+      "festival_name": null,
+      "venue": "Rockin River Cruise",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

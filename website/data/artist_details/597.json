@@ -1,0 +1,50 @@
+{
+  "id": "597",
+  "name": "Tom Morello",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Vigilante Nocturno",
+      "times_played": 1
+    },
+    {
+      "name": "Mr. Crowley",
+      "times_played": 1
+    },
+    {
+      "name": "Wild Guitar Stuff",
+      "times_played": 1
+    },
+    {
+      "name": "The Garden of Gethsemane",
+      "times_played": 1
+    },
+    {
+      "name": "The Ghost of Tom Joad",
+      "times_played": 1
+    },
+    {
+      "name": "Killing in the Name",
+      "times_played": 1
+    },
+    {
+      "name": "Power to the People",
+      "times_played": 1
+    },
+    {
+      "name": "This Land Is Your Land",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "943",
+      "show_number": 942,
+      "date": "2019-09-20",
+      "festival_name": null,
+      "venue": "Minetta Lane Theatre",
+      "city": "New York",
+      "state": "NY"
+    }
+  ]
+}

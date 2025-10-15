@@ -1,0 +1,709 @@
+{
+  "id": "80",
+  "name": "Jones Beach Theater",
+  "city": "Wantagh",
+  "state": "NY",
+  "concert_count": 100,
+  "concerts": [
+    {
+      "id": "1275",
+      "show_number": 1274,
+      "date": "2025-08-10",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Doobie Brothers, Coral Reefer Band"
+    },
+    {
+      "id": "1270",
+      "show_number": 1269,
+      "date": "2025-08-01",
+      "festival_name": "Outlaw Festival",
+      "artists": "Bob Dylan, Willie Nelson"
+    },
+    {
+      "id": "1260",
+      "show_number": 1259,
+      "date": "2025-06-14",
+      "festival_name": null,
+      "artists": "Keith Urban"
+    },
+    {
+      "id": "1256",
+      "show_number": 1255,
+      "date": "2025-05-31",
+      "festival_name": null,
+      "artists": "Luke Bryan"
+    },
+    {
+      "id": "1176",
+      "show_number": 1175,
+      "date": "2024-06-29",
+      "festival_name": "Outlaw Festival",
+      "artists": "Willie Nelson, Bob Dylan, Robert Plant"
+    },
+    {
+      "id": "1117",
+      "show_number": 1116,
+      "date": "2023-09-17",
+      "festival_name": null,
+      "artists": "Zac Brown Band w. King Calaway"
+    },
+    {
+      "id": "1116",
+      "show_number": 1115,
+      "date": "2023-09-16",
+      "festival_name": null,
+      "artists": "Zac Brown Band"
+    },
+    {
+      "id": "1112",
+      "show_number": 1111,
+      "date": "2023-09-08",
+      "festival_name": null,
+      "artists": "Sting + Joe Sumner"
+    },
+    {
+      "id": "1050",
+      "show_number": 1049,
+      "date": "2022-08-25",
+      "festival_name": null,
+      "artists": "Chris Stapleton"
+    },
+    {
+      "id": "1048",
+      "show_number": 1047,
+      "date": "2022-08-23",
+      "festival_name": null,
+      "artists": "Rod Stewart"
+    },
+    {
+      "id": "1047",
+      "show_number": 1046,
+      "date": "2022-08-19",
+      "festival_name": null,
+      "artists": "Joe Bonamassa"
+    },
+    {
+      "id": "1041",
+      "show_number": 1040,
+      "date": "2022-07-27",
+      "festival_name": null,
+      "artists": "Phish"
+    },
+    {
+      "id": "1030",
+      "show_number": 1029,
+      "date": "2022-06-21",
+      "festival_name": null,
+      "artists": "Doobie Brothers"
+    },
+    {
+      "id": "1025",
+      "show_number": 1024,
+      "date": "2022-06-03",
+      "festival_name": null,
+      "artists": "Tim McGraw"
+    },
+    {
+      "id": "984",
+      "show_number": 983,
+      "date": "2021-09-03",
+      "festival_name": null,
+      "artists": "Zac Brown Band"
+    },
+    {
+      "id": "983",
+      "show_number": 982,
+      "date": "2021-09-02",
+      "festival_name": null,
+      "artists": "Zac Brown Band"
+    },
+    {
+      "id": "980",
+      "show_number": 979,
+      "date": "2021-08-13",
+      "festival_name": null,
+      "artists": "Luke Bryan"
+    },
+    {
+      "id": "979",
+      "show_number": 978,
+      "date": "2021-08-10",
+      "festival_name": null,
+      "artists": "Jimmy Buffett"
+    },
+    {
+      "id": "978",
+      "show_number": 977,
+      "date": "2021-08-07",
+      "festival_name": null,
+      "artists": "Jason Aldean"
+    },
+    {
+      "id": "941",
+      "show_number": 940,
+      "date": "2019-09-13",
+      "festival_name": null,
+      "artists": "Peter Frampton"
+    },
+    {
+      "id": "940",
+      "show_number": 939,
+      "date": "2019-09-06",
+      "festival_name": null,
+      "artists": "Jason Aldean"
+    },
+    {
+      "id": "937",
+      "show_number": 936,
+      "date": "2019-08-23",
+      "festival_name": null,
+      "artists": "Zac Brown Band"
+    },
+    {
+      "id": "930",
+      "show_number": 929,
+      "date": "2019-08-08",
+      "festival_name": null,
+      "artists": "Jimmy Buffett"
+    },
+    {
+      "id": "927",
+      "show_number": 926,
+      "date": "2019-08-02",
+      "festival_name": null,
+      "artists": "Dierks Bentley"
+    },
+    {
+      "id": "915",
+      "show_number": 914,
+      "date": "2019-05-30",
+      "festival_name": null,
+      "artists": "Bob Seger"
+    },
+    {
+      "id": "850",
+      "show_number": 849,
+      "date": "2018-08-14",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Jeff Beck, Paul Rodgers, Ann Wilson"
+    },
+    {
+      "id": "848",
+      "show_number": 847,
+      "date": "2018-08-10",
+      "festival_name": null,
+      "artists": "Brad Paisley"
+    },
+    {
+      "id": "846",
+      "show_number": 845,
+      "date": "2018-08-02",
+      "festival_name": null,
+      "artists": "Jimmy Buffett"
+    },
+    {
+      "id": "842",
+      "show_number": 841,
+      "date": "2018-07-14",
+      "festival_name": null,
+      "artists": "Foo Fighters"
+    },
+    {
+      "id": "840",
+      "show_number": 839,
+      "date": "2018-07-12",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Govt Mule, Avetts"
+    },
+    {
+      "id": "777",
+      "show_number": 776,
+      "date": "2017-08-15",
+      "festival_name": null,
+      "artists": "Jimmy Buffett"
+    },
+    {
+      "id": "773",
+      "show_number": 772,
+      "date": "2017-08-03",
+      "festival_name": null,
+      "artists": "Brad Paisley"
+    },
+    {
+      "id": "716",
+      "show_number": 715,
+      "date": "2016-08-25",
+      "festival_name": null,
+      "artists": "Jimmy Buffett"
+    },
+    {
+      "id": "708",
+      "show_number": 707,
+      "date": "2016-08-04",
+      "festival_name": null,
+      "artists": "Brad Paisley"
+    },
+    {
+      "id": "646",
+      "show_number": 645,
+      "date": "2015-08-18",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Jimmy Buffett, the Coral Reefer Band with Huey Lewis"
+    },
+    {
+      "id": "643",
+      "show_number": 642,
+      "date": "2015-08-13",
+      "festival_name": null,
+      "artists": "Van Halen"
+    },
+    {
+      "id": "626",
+      "show_number": 625,
+      "date": "2015-05-29",
+      "festival_name": null,
+      "artists": "Lady Antebellum with Hunter Hayes and Sam Hunt"
+    },
+    {
+      "id": "391",
+      "show_number": 390,
+      "date": "2014-08-26",
+      "festival_name": null,
+      "artists": "Jimmy Buffett"
+    },
+    {
+      "id": "592",
+      "show_number": 591,
+      "date": "2014-08-21",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Jimmy Buffett, the Coral Reefer Band"
+    },
+    {
+      "id": "590",
+      "show_number": 589,
+      "date": "2014-08-06",
+      "festival_name": "Multi-Artist Show",
+      "artists": "KISS, Def Leppard"
+    },
+    {
+      "id": "589",
+      "show_number": 588,
+      "date": "2014-08-05",
+      "festival_name": "Multi-Artist Show",
+      "artists": "John Fogerty, Jackson Browne"
+    },
+    {
+      "id": "586",
+      "show_number": 585,
+      "date": "2014-07-10",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Aerosmith, Slash"
+    },
+    {
+      "id": "581",
+      "show_number": 580,
+      "date": "2014-06-25",
+      "festival_name": null,
+      "artists": "Lionel Richie"
+    },
+    {
+      "id": "577",
+      "show_number": 576,
+      "date": "2014-05-23",
+      "festival_name": null,
+      "artists": "Barry Gibb"
+    },
+    {
+      "id": "552",
+      "show_number": 551,
+      "date": "2013-08-22",
+      "festival_name": null,
+      "artists": "Jimmy Buffett"
+    },
+    {
+      "id": "542",
+      "show_number": 541,
+      "date": "2013-06-23",
+      "festival_name": null,
+      "artists": "Rush"
+    },
+    {
+      "id": "515",
+      "show_number": 514,
+      "date": "2012-08-30",
+      "festival_name": null,
+      "artists": "Jimmy Buffett"
+    },
+    {
+      "id": "509",
+      "show_number": 508,
+      "date": "2012-06-12",
+      "festival_name": null,
+      "artists": "Dave Matthews Band"
+    },
+    {
+      "id": "508",
+      "show_number": 507,
+      "date": "2012-06-01",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Brad Paisley, The Band Perry, Easton Corbin"
+    },
+    {
+      "id": "489",
+      "show_number": 488,
+      "date": "2011-08-23",
+      "festival_name": null,
+      "artists": "Lynyrd Skynyrd/Doobie Brothers"
+    },
+    {
+      "id": "488",
+      "show_number": 487,
+      "date": "2011-08-19",
+      "festival_name": null,
+      "artists": "Jimmy Buffett"
+    },
+    {
+      "id": "442",
+      "show_number": 441,
+      "date": "2010-08-31",
+      "festival_name": null,
+      "artists": "Jimmy Buffett"
+    },
+    {
+      "id": "440",
+      "show_number": 439,
+      "date": "2010-08-20",
+      "festival_name": null,
+      "artists": "Crosby, Stills and Nash"
+    },
+    {
+      "id": "439",
+      "show_number": 438,
+      "date": "2010-08-14",
+      "festival_name": null,
+      "artists": "KISS"
+    },
+    {
+      "id": "388",
+      "show_number": 387,
+      "date": "2009-08-15",
+      "festival_name": null,
+      "artists": "Creed"
+    },
+    {
+      "id": "358",
+      "show_number": 357,
+      "date": "2008-08-27",
+      "festival_name": null,
+      "artists": "Jimmy Buffett"
+    },
+    {
+      "id": "347",
+      "show_number": 346,
+      "date": "2008-07-11",
+      "festival_name": null,
+      "artists": "Steve Miller Band"
+    },
+    {
+      "id": "340",
+      "show_number": 339,
+      "date": "2008-06-05",
+      "festival_name": null,
+      "artists": "Eric Clapton"
+    },
+    {
+      "id": "311",
+      "show_number": 310,
+      "date": "2007-08-21",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Allman Brothers, Ratdog"
+    },
+    {
+      "id": "308",
+      "show_number": 307,
+      "date": "2007-07-28",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Steve Miller Band, Doobie Brothers"
+    },
+    {
+      "id": "305",
+      "show_number": 304,
+      "date": "2007-07-02",
+      "festival_name": null,
+      "artists": "Rush"
+    },
+    {
+      "id": "304",
+      "show_number": 303,
+      "date": "2007-06-29",
+      "festival_name": null,
+      "artists": "Bob Dylan"
+    },
+    {
+      "id": "274",
+      "show_number": 273,
+      "date": "2006-08-17",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Steely Dan, Michael McDonald"
+    },
+    {
+      "id": "272",
+      "show_number": 271,
+      "date": "2006-08-11",
+      "festival_name": "Multi-Artist Show",
+      "artists": "John Fogerty, Willie Nelson"
+    },
+    {
+      "id": "271",
+      "show_number": 270,
+      "date": "2006-08-04",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Counting Crows, Goo Goo Dolls"
+    },
+    {
+      "id": "266",
+      "show_number": 265,
+      "date": "2006-07-01",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Jimmy Buffett, the Coral Reefer Band"
+    },
+    {
+      "id": "231",
+      "show_number": 230,
+      "date": "2005-06-21",
+      "festival_name": null,
+      "artists": "Tom Petty & The Heartbreakers & Black Crowes"
+    },
+    {
+      "id": "213",
+      "show_number": 212,
+      "date": "2004-09-04",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Jimmy Buffett, the Coral Reefer Band"
+    },
+    {
+      "id": "211",
+      "show_number": 210,
+      "date": "2004-08-24",
+      "festival_name": null,
+      "artists": "Allman Brothers Band"
+    },
+    {
+      "id": "210",
+      "show_number": 209,
+      "date": "2004-08-12",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Crosby, Stills, nash"
+    },
+    {
+      "id": "209",
+      "show_number": 208,
+      "date": "2004-07-21",
+      "festival_name": null,
+      "artists": "KISS"
+    },
+    {
+      "id": "167",
+      "show_number": 166,
+      "date": "2002-08-31",
+      "festival_name": "Multi-Artist Show",
+      "artists": "The Who, Robert Plant"
+    },
+    {
+      "id": "166",
+      "show_number": 165,
+      "date": "2002-08-13",
+      "festival_name": null,
+      "artists": "Allman Brothers Band"
+    },
+    {
+      "id": "164",
+      "show_number": 163,
+      "date": "2002-08-11",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Bonnie Raitt, Lyle Lovett"
+    },
+    {
+      "id": "159",
+      "show_number": 158,
+      "date": "2002-07-20",
+      "festival_name": null,
+      "artists": "John Mellencamp"
+    },
+    {
+      "id": "158",
+      "show_number": 157,
+      "date": "2002-07-15",
+      "festival_name": null,
+      "artists": "Rush"
+    },
+    {
+      "id": "142",
+      "show_number": 141,
+      "date": "2001-09-08",
+      "festival_name": "Multi-Artist Show",
+      "artists": "John Mellencamp, the Wallflowers"
+    },
+    {
+      "id": "141",
+      "show_number": 140,
+      "date": "2001-08-21",
+      "festival_name": null,
+      "artists": "Allman Brothers Band"
+    },
+    {
+      "id": "136",
+      "show_number": 135,
+      "date": "2001-07-05",
+      "festival_name": null,
+      "artists": "Tom Petty & the Heartbreakers & Jackson Browne"
+    },
+    {
+      "id": "131",
+      "show_number": 130,
+      "date": "2001-06-16",
+      "festival_name": null,
+      "artists": "Aerosmith"
+    },
+    {
+      "id": "114",
+      "show_number": 113,
+      "date": "2000-08-04",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Allman Brothers Band, Hot Tuna"
+    },
+    {
+      "id": "108",
+      "show_number": 107,
+      "date": "2000-07-08",
+      "festival_name": null,
+      "artists": "Steely Dan"
+    },
+    {
+      "id": "103",
+      "show_number": 102,
+      "date": "2000-06-09",
+      "festival_name": null,
+      "artists": "KISS"
+    },
+    {
+      "id": "93",
+      "show_number": 92,
+      "date": "1999-08-07",
+      "festival_name": null,
+      "artists": "Roger Waters"
+    },
+    {
+      "id": "87",
+      "show_number": 86,
+      "date": "1999-07-03",
+      "festival_name": null,
+      "artists": "Tom Petty & the Heartbreakers"
+    },
+    {
+      "id": "73",
+      "show_number": 72,
+      "date": "1998-10-15",
+      "festival_name": null,
+      "artists": "Aerosmith"
+    },
+    {
+      "id": "47",
+      "show_number": 46,
+      "date": "1997-07-31",
+      "festival_name": null,
+      "artists": "Steve Miller Band"
+    },
+    {
+      "id": "45",
+      "show_number": 44,
+      "date": "1997-07-13",
+      "festival_name": "Multi-Artist Show",
+      "artists": "ZZTop, Kansas"
+    },
+    {
+      "id": "43",
+      "show_number": 42,
+      "date": "1997-07-09",
+      "festival_name": null,
+      "artists": "Boston"
+    },
+    {
+      "id": "41",
+      "show_number": 40,
+      "date": "1997-06-26",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Lynyrd Skynyrd, Paul Rodgers"
+    },
+    {
+      "id": "40",
+      "show_number": 39,
+      "date": "1997-06-25",
+      "festival_name": null,
+      "artists": "Rush"
+    },
+    {
+      "id": "39",
+      "show_number": 38,
+      "date": "1997-06-07",
+      "festival_name": null,
+      "artists": "Ringo Starr & His All-Starr Band (Kirke, Jack Bruce, Gary Brooker, Frampton, Rivera)"
+    },
+    {
+      "id": "31",
+      "show_number": 30,
+      "date": "1996-08-31",
+      "festival_name": null,
+      "artists": "Joe Cocker"
+    },
+    {
+      "id": "30",
+      "show_number": 29,
+      "date": "1996-08-26",
+      "festival_name": null,
+      "artists": "Neil Young"
+    },
+    {
+      "id": "29",
+      "show_number": 28,
+      "date": "1996-08-23",
+      "festival_name": null,
+      "artists": "Melissa Etheridge"
+    },
+    {
+      "id": "27",
+      "show_number": 26,
+      "date": "1996-08-03",
+      "festival_name": null,
+      "artists": "Hootie & the Blowfish & John Hiatt"
+    },
+    {
+      "id": "22",
+      "show_number": 21,
+      "date": "1996-07-07",
+      "festival_name": null,
+      "artists": "Sting"
+    },
+    {
+      "id": "19",
+      "show_number": 18,
+      "date": "1996-06-08",
+      "festival_name": null,
+      "artists": "Bob Seger & the Silver Bullet Band"
+    },
+    {
+      "id": "307",
+      "show_number": 306,
+      "date": "",
+      "festival_name": null,
+      "artists": "ZZTOP"
+    },
+    {
+      "id": "3",
+      "show_number": 2,
+      "date": "",
+      "festival_name": null,
+      "artists": "Diana Ross"
+    }
+  ]
+}

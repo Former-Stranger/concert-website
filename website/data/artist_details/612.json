@@ -1,0 +1,54 @@
+{
+  "id": "612",
+  "name": "Trey Anastaio",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Open Sesame",
+      "times_played": 1
+    },
+    {
+      "name": "Fresh",
+      "times_played": 1
+    },
+    {
+      "name": "Misled",
+      "times_played": 1
+    },
+    {
+      "name": "Too Hot",
+      "times_played": 1
+    },
+    {
+      "name": "Jungle Boogie",
+      "times_played": 1
+    },
+    {
+      "name": "Hollywood Swingin'",
+      "times_played": 1
+    },
+    {
+      "name": "Ladies' Night",
+      "times_played": 1
+    },
+    {
+      "name": "Get Down on It",
+      "times_played": 1
+    },
+    {
+      "name": "Celebration",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1197",
+      "show_number": 1196,
+      "date": "2024-09-15",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Asbury Park Beach",
+      "city": "Asbury Park",
+      "state": "NJ"
+    }
+  ]
+}

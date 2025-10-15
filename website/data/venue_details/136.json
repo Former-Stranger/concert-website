@@ -1,0 +1,16 @@
+{
+  "id": "136",
+  "name": "Rockin River Cruise",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 1,
+  "concerts": [
+    {
+      "id": "355",
+      "show_number": 354,
+      "date": "2008-08-07",
+      "festival_name": null,
+      "artists": "John Hiatt"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "146",
+  "show_number": 145,
+  "date": "2001-10-26",
+  "festival_name": null,
+  "venue": "XL Center",
+  "city": "Hartford",
+  "state": "CT",
+  "artists": [
+    {
+      "name": "Stone Temple Pilots",
+      "role": "headliner"
+    },
+    {
+      "name": "Staind, Linkin Park, Deadsy, Static X",
+      "role": "opener"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/4bc09356.html",
+  "song_count": 1,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Revolution",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Beatles"
+    }
+  ]
+}

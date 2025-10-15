@@ -1,0 +1,30 @@
+{
+  "id": "186",
+  "name": "Westville Music Bowl",
+  "city": "New Haven",
+  "state": "CT",
+  "concert_count": 3,
+  "concerts": [
+    {
+      "id": "1164",
+      "show_number": 1163,
+      "date": "2024-05-21",
+      "festival_name": null,
+      "artists": "Avett Brothers"
+    },
+    {
+      "id": "1062",
+      "show_number": 1061,
+      "date": "2022-10-01",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Bob Weir, Wolf Brothers"
+    },
+    {
+      "id": "1024",
+      "show_number": 1023,
+      "date": "2022-05-31",
+      "festival_name": null,
+      "artists": "Avett Brothers"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "id": "1048",
+  "show_number": 1047,
+  "date": "2022-08-23",
+  "festival_name": null,
+  "venue": "Jones Beach Theater",
+  "city": "Wantagh",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Rod Stewart",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/4bb31316.html",
+  "song_count": 22,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Addicted to Love",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Robert Palmer"
+    },
+    {
+      "position": 2,
+      "name": "You Wear It Well",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Ooh La La",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Faces"
+    },
+    {
+      "position": 4,
+      "name": "Some Guys Have All the Luck",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Persuaders"
+    },
+    {
+      "position": 5,
+      "name": "It Takes Two",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Kim Weston"
+    },
+    {
+      "position": 6,
+      "name": "Forever Young",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "The First Cut Is the Deepest",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Cat Stevens"
+    },
+    {
+      "position": 8,
+      "name": "Have You Ever Seen the Rain?",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 9,
+      "name": "Every Picture Tells a Story",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Maggie May",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "I'd Rather Go Blind",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Etta James"
+    },
+    {
+      "position": 12,
+      "name": "Young Turks",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Da Ya Think I'm Sexy?",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Rhythm of My Heart",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Marc Jordan"
+    },
+    {
+      "position": 15,
+      "name": "Call Me",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Blondie"
+    },
+    {
+      "position": 16,
+      "name": "People Get Ready",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Impressions"
+    },
+    {
+      "position": 17,
+      "name": "Tonight's the Night (Gonna Be Alright)",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "You're in My Heart (The Final Acclaim)",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 19,
+      "name": "Have I Told You Lately",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Van Morrison"
+    },
+    {
+      "position": 20,
+      "name": "Hot Stuff",
+      "set_name": "Full Band",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Donna Summer"
+    },
+    {
+      "position": 21,
+      "name": "Hot Legs",
+      "set_name": "Full Band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 22,
+      "name": "Stay With Me",
+      "set_name": "Full Band",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Faces"
+    }
+  ]
+}

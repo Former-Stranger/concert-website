@@ -1,0 +1,76 @@
+{
+  "id": "589",
+  "name": "Thomas Rhett",
+  "concert_count": 3,
+  "top_songs": [
+    {
+      "name": "T-Shirt",
+      "times_played": 2
+    },
+    {
+      "name": "Star of the Show",
+      "times_played": 2
+    },
+    {
+      "name": "It Goes Like This",
+      "times_played": 2
+    },
+    {
+      "name": "Make Me Wanna",
+      "times_played": 2
+    },
+    {
+      "name": "Vacation",
+      "times_played": 2
+    },
+    {
+      "name": "Die a Happy Man",
+      "times_played": 2
+    },
+    {
+      "name": "Crash and Burn",
+      "times_played": 2
+    },
+    {
+      "name": "Renegades",
+      "times_played": 1
+    },
+    {
+      "name": "Get Me Some of That",
+      "times_played": 1
+    },
+    {
+      "name": "Craving You",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "853",
+      "show_number": 852,
+      "date": "2018-08-18",
+      "festival_name": "Multi-Artist Show",
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "831",
+      "show_number": 830,
+      "date": "2018-06-09",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    {
+      "id": "780",
+      "show_number": 779,
+      "date": "2017-08-26",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Gillette Stadium",
+      "city": "Foxborough",
+      "state": "MA"
+    }
+  ]
+}

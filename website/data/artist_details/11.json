@@ -1,0 +1,17 @@
+{
+  "id": "11",
+  "name": "Aerosmith with Cheap Trrick",
+  "concert_count": 1,
+  "top_songs": [],
+  "concerts": [
+    {
+      "id": "511",
+      "show_number": 510,
+      "date": "2012-07-01",
+      "festival_name": null,
+      "venue": "Nassau Coliseum",
+      "city": "Uniondale",
+      "state": "NY"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "181",
+  "name": "Walter Kerr Theatre",
+  "city": "New York",
+  "state": "NY",
+  "concert_count": 7,
+  "concerts": [
+    {
+      "id": "889",
+      "show_number": 888,
+      "date": "2018-12-15",
+      "festival_name": null,
+      "artists": "Bruce Springsteen"
+    },
+    {
+      "id": "867",
+      "show_number": 866,
+      "date": "2018-09-29",
+      "festival_name": null,
+      "artists": "Bruce Springsteen"
+    },
+    {
+      "id": "856",
+      "show_number": 855,
+      "date": "2018-08-25",
+      "festival_name": null,
+      "artists": "Bruce Springsteen"
+    },
+    {
+      "id": "828",
+      "show_number": 827,
+      "date": "2018-05-18",
+      "festival_name": null,
+      "artists": "Bruce Springsteen"
+    },
+    {
+      "id": "809",
+      "show_number": 808,
+      "date": "2018-01-18",
+      "festival_name": null,
+      "artists": "Bruce Springsteen"
+    },
+    {
+      "id": "800",
+      "show_number": 799,
+      "date": "2017-11-16",
+      "festival_name": null,
+      "artists": "Bruce Springsteen"
+    },
+    {
+      "id": "795",
+      "show_number": 794,
+      "date": "2017-10-13",
+      "festival_name": null,
+      "artists": "Bruce Springsteen"
+    }
+  ]
+}

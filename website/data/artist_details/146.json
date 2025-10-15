@@ -1,0 +1,58 @@
+{
+  "id": "146",
+  "name": "DEAD: Dead",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "When the Summer Dies",
+      "times_played": 1
+    },
+    {
+      "name": "My Pet Coelacanth",
+      "times_played": 1
+    },
+    {
+      "name": "2448",
+      "times_played": 1
+    },
+    {
+      "name": "Moar Ghosts 'n' Stuff",
+      "times_played": 1
+    },
+    {
+      "name": "Ghosts 'n' Stuff (Chuckie Remix)",
+      "times_played": 1
+    },
+    {
+      "name": "Ghosts 'n' Stuff",
+      "times_played": 1
+    },
+    {
+      "name": "Maths",
+      "times_played": 1
+    },
+    {
+      "name": "Maths (Botnek Remix)",
+      "times_played": 1
+    },
+    {
+      "name": "Channel 43",
+      "times_played": 1
+    },
+    {
+      "name": "Some Chords (Dillon Francis Remix)",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1036",
+      "show_number": 1035,
+      "date": "2022-07-05",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Xfinity Center",
+      "city": "Mansfield",
+      "state": "MA"
+    }
+  ]
+}

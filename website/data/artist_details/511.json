@@ -1,0 +1,26 @@
+{
+  "id": "511",
+  "name": "Shawn Colvin",
+  "concert_count": 2,
+  "top_songs": [],
+  "concerts": [
+    {
+      "id": "818",
+      "show_number": 817,
+      "date": "2018-03-11",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Paramount",
+      "city": "Huntington",
+      "state": "NY"
+    },
+    {
+      "id": "601",
+      "show_number": 600,
+      "date": "2014-09-26",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    }
+  ]
+}

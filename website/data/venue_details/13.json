@@ -1,0 +1,23 @@
+{
+  "id": "13",
+  "name": "Bethel Woods",
+  "city": "Bethel",
+  "state": "NY",
+  "concert_count": 2,
+  "concerts": [
+    {
+      "id": "1253",
+      "show_number": 1252,
+      "date": "2025-05-24",
+      "festival_name": null,
+      "artists": "Dave Matthews Band"
+    },
+    {
+      "id": "1106",
+      "show_number": 1105,
+      "date": "2023-08-13",
+      "festival_name": null,
+      "artists": "Joe Bonamassa + Styx + Don Felder"
+    }
+  ]
+}

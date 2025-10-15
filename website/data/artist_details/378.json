@@ -1,0 +1,103 @@
+{
+  "id": "378",
+  "name": "Melissa Etheridge",
+  "concert_count": 6,
+  "top_songs": [
+    {
+      "name": "Shout Now",
+      "times_played": 1
+    },
+    {
+      "name": "Brave and Crazy",
+      "times_played": 1
+    },
+    {
+      "name": "All American Girl",
+      "times_played": 1
+    },
+    {
+      "name": "I Want to Come Over",
+      "times_played": 1
+    },
+    {
+      "name": "4th Street Feeling",
+      "times_played": 1
+    },
+    {
+      "name": "You Used to Love to Dance",
+      "times_played": 1
+    },
+    {
+      "name": "The Shadow of a Black Crow",
+      "times_played": 1
+    },
+    {
+      "name": "Ruins",
+      "times_played": 1
+    },
+    {
+      "name": "Come to My Window",
+      "times_played": 1
+    },
+    {
+      "name": "An Unexpected Rain",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1129",
+      "show_number": 1128,
+      "date": "2023-11-14",
+      "festival_name": null,
+      "venue": "Circle in the Square Theatre",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "907",
+      "show_number": 906,
+      "date": "2019-04-11",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
+      "id": "543",
+      "show_number": 542,
+      "date": "2013-07-12",
+      "festival_name": null,
+      "venue": "NYCB Theatre at Westbury",
+      "city": "Westbury",
+      "state": "NY"
+    },
+    {
+      "id": "306",
+      "show_number": 305,
+      "date": "2007-07-07",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "id": "145",
+      "show_number": 144,
+      "date": "2001-10-20",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "29",
+      "show_number": 28,
+      "date": "1996-08-23",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY"
+    }
+  ]
+}

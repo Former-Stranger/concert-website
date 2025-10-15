@@ -1,0 +1,84 @@
+{
+  "id": "1157",
+  "show_number": 1156,
+  "date": "2024-04-14",
+  "festival_name": null,
+  "venue": "NYCB Theatre at Westbury",
+  "city": "Westbury",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Buddy Guy",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/6ba8ba72.html",
+  "song_count": 8,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Damn Right, I've Got the Blues",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "I'm Your Hoochie Coochie Man / She's Nineteen Years Old",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "I Just Want to Make Love to You",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Willie Dixon"
+    },
+    {
+      "position": 4,
+      "name": "Chicken Heads",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bobby Rush"
+    },
+    {
+      "position": 5,
+      "name": "Fever",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Eddie Cooley"
+    },
+    {
+      "position": 6,
+      "name": "All Around the World / Take Me to the River",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Drowning On Dry Land / Rock Me",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Downhearted",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Johnny Moore\u2019s Three Blazers"
+    }
+  ]
+}

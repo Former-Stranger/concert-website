@@ -1,0 +1,128 @@
+{
+  "id": "188",
+  "name": "XL Center",
+  "city": "Hartford",
+  "state": "CT",
+  "concert_count": 17,
+  "concerts": [
+    {
+      "id": "955",
+      "show_number": 954,
+      "date": "2019-11-02",
+      "festival_name": null,
+      "artists": "Eric Church"
+    },
+    {
+      "id": "672",
+      "show_number": 671,
+      "date": "2016-02-10",
+      "festival_name": null,
+      "artists": "Bruce Springsteen & the E Street Band"
+    },
+    {
+      "id": "658",
+      "show_number": 657,
+      "date": "2015-10-11",
+      "festival_name": null,
+      "artists": "Stevie Wonder"
+    },
+    {
+      "id": "595",
+      "show_number": 594,
+      "date": "2014-09-13",
+      "festival_name": null,
+      "artists": "Tom Petty & The Heartbreakers"
+    },
+    {
+      "id": "526",
+      "show_number": 525,
+      "date": "2012-10-25",
+      "festival_name": null,
+      "artists": "Bruce Springsteen"
+    },
+    {
+      "id": "376",
+      "show_number": 375,
+      "date": "2009-04-24",
+      "festival_name": null,
+      "artists": "Bruce Springsteen & the E Street Band"
+    },
+    {
+      "id": "316",
+      "show_number": 315,
+      "date": "2007-10-02",
+      "festival_name": null,
+      "artists": "Bruce Springsteen & the E Street Band"
+    },
+    {
+      "id": "313",
+      "show_number": 312,
+      "date": "2007-09-16",
+      "festival_name": null,
+      "artists": "Genesis"
+    },
+    {
+      "id": "174",
+      "show_number": 173,
+      "date": "2002-12-03",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Guns, Roses"
+    },
+    {
+      "id": "173",
+      "show_number": 172,
+      "date": "2002-11-22",
+      "festival_name": null,
+      "artists": "The Other Ones"
+    },
+    {
+      "id": "172",
+      "show_number": 171,
+      "date": "2002-11-17",
+      "festival_name": null,
+      "artists": "Bob Dylan"
+    },
+    {
+      "id": "152",
+      "show_number": 151,
+      "date": "2002-02-28",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Crosby, Stills, Nash & Young"
+    },
+    {
+      "id": "151",
+      "show_number": 150,
+      "date": "2002-02-04",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Elton John, Billy Joel"
+    },
+    {
+      "id": "146",
+      "show_number": 145,
+      "date": "2001-10-26",
+      "festival_name": null,
+      "artists": "Stone Temple Pilots"
+    },
+    {
+      "id": "102",
+      "show_number": 101,
+      "date": "2000-05-08",
+      "festival_name": null,
+      "artists": "Bruce Springsteen & the E Street Band"
+    },
+    {
+      "id": "101",
+      "show_number": 100,
+      "date": "2000-04-12",
+      "festival_name": "Multi-Artist Show",
+      "artists": "Crosby, Stills, Nash & young"
+    },
+    {
+      "id": "16",
+      "show_number": 15,
+      "date": "1996-02-01",
+      "festival_name": null,
+      "artists": "Rod Stewart"
+    }
+  ]
+}
