@@ -59,8 +59,8 @@ service cloud.firestore {
       // Authenticated users can create comments
       allow create: if isAuthenticated()
                     && request.resource.data.user_id == request.auth.uid
-                    && request.resource.data.user_name == request.auth.token.name
-                    && request.resource.data.user_photo == request.auth.token.picture;
+                    && request.resource.data.user_name is string
+                    && request.resource.data.user_photo is string;
       // Users can only delete their own comments, or owner can delete any comment
       allow delete: if isAuthenticated()
                     && (resource.data.user_id == request.auth.uid || isOwner());
@@ -87,7 +87,7 @@ service cloud.firestore {
       // Authenticated users can upload photos
       allow create: if isAuthenticated()
                     && request.resource.data.user_id == request.auth.uid
-                    && request.resource.data.user_name == request.auth.token.name
+                    && request.resource.data.user_name is string
                     && request.resource.data.concert_id is string
                     && request.resource.data.storage_path is string
                     && request.resource.data.download_url is string
