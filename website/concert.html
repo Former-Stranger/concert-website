@@ -340,7 +340,7 @@
         import { initSetlistSubmission } from './js/setlist-submission.js';
         import { initPhotoUpload } from './js/concert-photos.js';
         import { db } from './js/firebase-config.js';
-        import { doc, deleteDoc, getDoc, updateDoc, collection, query, where, getDocs } from 'https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js';
+        import { doc, deleteDoc, getDoc, updateDoc, setDoc, collection, query, where, getDocs } from 'https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js';
 
         // Get concert ID from URL
         const urlParams = new URLSearchParams(window.location.search);
@@ -557,7 +557,43 @@
                 // Find and update headliner/primary artist
                 const headliner = updatedArtists.find(a => a.role === 'headliner' || a.role === 'festival_performer');
                 if (headliner) {
-                    headliner.artist_name = artistName;
+                    // Check if artist name changed
+                    if (headliner.artist_name !== artistName) {
+                        // Look up the artist by canonical_name to get the correct artist_id
+                        const artistsQuery = query(
+                            collection(db, 'artists'),
+                            where('canonical_name', '==', artistName)
+                        );
+                        const artistsSnapshot = await getDocs(artistsQuery);
+
+                        if (!artistsSnapshot.empty) {
+                            // Artist exists - use their ID
+                            const artistDoc = artistsSnapshot.docs[0];
+                            headliner.artist_id = artistDoc.id;
+                            headliner.artist_name = artistName;
+                        } else {
+                            // Artist doesn't exist - ask user if they want to create it
+                            const createNew = confirm(
+                                `Artist "${artistName}" doesn't exist in the database.\n\n` +
+                                `Would you like to create a new artist record?\n\n` +
+                                `Click OK to create new artist, or Cancel to keep the old artist link.`
+                            );
+
+                            if (createNew) {
+                                // Create new artist document
+                                const newArtistRef = doc(collection(db, 'artists'));
+                                await setDoc(newArtistRef, {
+                                    canonical_name: artistName,
+                                    created_at: new Date()
+                                });
+                                headliner.artist_id = newArtistRef.id;
+                                headliner.artist_name = artistName;
+                            } else {
+                                // Keep old artist_id but update display name
+                                headliner.artist_name = artistName;
+                            }
+                        }
+                    }
                 }
 
                 if (supportingAct) {
