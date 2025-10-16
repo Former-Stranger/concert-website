@@ -180,5 +180,26 @@
       "is_cover": true,
       "cover_artist": "Killing Joke"
     }
-  ]
+  ],
+  "photos": [
+    {
+      "id": "zwO4j9EPHNN6DiSquBQC",
+      "user_name": "Alex (Alex)",
+      "user_photo": "https://lh3.googleusercontent.com/a/ACg8ocJSJUAlUkegRHzdjKDYqNgN1eHDwUDy4-kxtQ6shbwsr8TjiQ=s96-c",
+      "download_url": "https://firebasestorage.googleapis.com/v0/b/earplugs-and-memories.firebasestorage.app/o/concert_photos%2F1063%2Fmgtl0h3bfar645iig7.jpeg?alt=media&token=1dc0038a-4fd1-4a7d-8095-a105674590ac",
+      "uploaded_at": "2025-10-16T15:35:42.426000+00:00",
+      "caption": "",
+      "file_type": "image/jpeg"
+    },
+    {
+      "id": "ddmxanNNRBcjAh6DnZ8a",
+      "user_name": "Alex (Alex)",
+      "user_photo": "https://lh3.googleusercontent.com/a/ACg8ocJSJUAlUkegRHzdjKDYqNgN1eHDwUDy4-kxtQ6shbwsr8TjiQ=s96-c",
+      "download_url": "https://firebasestorage.googleapis.com/v0/b/earplugs-and-memories.firebasestorage.app/o/concert_photos%2F1063%2Fmgtivpox6ssbj49id0a.jpeg?alt=media&token=12f0c46c-2aa8-40e9-862f-9d037fd6a0a1",
+      "uploaded_at": "2025-10-16T14:36:01.038000+00:00",
+      "caption": "What were we about to get into?",
+      "file_type": "image/jpeg"
+    }
+  ],
+  "photo_count": 2
 }

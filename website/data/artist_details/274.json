@@ -2,7 +2,12 @@
   "id": "274",
   "name": "Jesse Malin Benefit",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Wild Horses",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1224",

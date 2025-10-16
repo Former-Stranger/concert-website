@@ -2,7 +2,48 @@
   "id": "614",
   "name": "Tribute to Phil Lesh / Graham Lesh",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Dark Star",
+      "times_played": 2
+    },
+    {
+      "name": "Friend of the Devil",
+      "times_played": 1
+    },
+    {
+      "name": "Deal",
+      "times_played": 1
+    },
+    {
+      "name": "Althea",
+      "times_played": 1
+    },
+    {
+      "name": "Peggy-O",
+      "times_played": 1
+    },
+    {
+      "name": "Crazy Fingers",
+      "times_played": 1
+    },
+    {
+      "name": "Stella Blue",
+      "times_played": 1
+    },
+    {
+      "name": "He's Gone",
+      "times_played": 1
+    },
+    {
+      "name": "Cold Rain and Snow",
+      "times_played": 1
+    },
+    {
+      "name": "Help on the Way",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1245",

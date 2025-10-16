@@ -115,6 +115,27 @@ def export_to_json(output_dir):
                 'cover_artist': song.get('cover_artist')
             })
 
+        # Get photos for this concert
+        photos_query = db.collection('concert_photos').where('concert_id', '==', concert_id).order_by('uploaded_at', direction=firestore.Query.DESCENDING)
+        photos_docs = photos_query.stream()
+
+        photos = []
+        for photo_doc in photos_docs:
+            photo_data = photo_doc.to_dict()
+            # Convert timestamp to ISO string if it exists
+            uploaded_at = photo_data.get('uploaded_at')
+            uploaded_at_str = uploaded_at.isoformat() if uploaded_at else None
+
+            photos.append({
+                'id': photo_doc.id,
+                'user_name': photo_data.get('user_name', ''),
+                'user_photo': photo_data.get('user_photo', ''),
+                'download_url': photo_data.get('download_url', ''),
+                'uploaded_at': uploaded_at_str,
+                'caption': photo_data.get('caption', ''),
+                'file_type': photo_data.get('file_type', '')
+            })
+
         concert_detail = {
             'id': concert_id,
             'show_number': concert_data.get('show_number'),
@@ -127,7 +148,9 @@ def export_to_json(output_dir):
             'setlistfm_url': setlist_data.get('setlistfm_url'),
             'song_count': setlist_data.get('song_count', 0),
             'has_encore': setlist_data.get('has_encore', False),
-            'songs': formatted_songs
+            'songs': formatted_songs,
+            'photos': photos,
+            'photo_count': len(photos)
         }
 
         with open(details_dir / f'{concert_id}.json', 'w') as f:

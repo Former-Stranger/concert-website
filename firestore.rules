@@ -54,5 +54,29 @@ service cloud.firestore {
       // Only owner can update status or delete submissions
       allow update, delete: if isOwner();
     }
+
+    // Concert photos - authenticated users can create, everyone can read, uploader/owner can delete
+    match /concert_photos/{photoId} {
+      // Everyone can read photos
+      allow read: if true;
+
+      // Authenticated users can upload photos
+      allow create: if isAuthenticated()
+                    && request.resource.data.user_id == request.auth.uid
+                    && request.resource.data.user_name == request.auth.token.name
+                    && request.resource.data.concert_id is string
+                    && request.resource.data.storage_path is string
+                    && request.resource.data.download_url is string
+                    && request.resource.data.uploaded_at is timestamp
+                    && request.resource.data.file_size is number
+                    && request.resource.data.file_type is string;
+
+      // Users can delete their own photos, or owner can delete any photo
+      allow delete: if isAuthenticated()
+                    && (resource.data.user_id == request.auth.uid || isOwner());
+
+      // Photos cannot be updated (must delete and re-upload)
+      allow update: if false;
+    }
   }
 }

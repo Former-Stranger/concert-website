@@ -67,11 +67,20 @@ async function loadConcertDetail() {
 
 // Render concert details
 function renderConcertDetail(concert) {
+    // Get headliners and openers
+    const headliners = concert.artists ? concert.artists.filter(a => a.role === 'headliner' || a.role === 'festival_performer') : [];
+    const openers = concert.artists ? concert.artists.filter(a => a.role === 'opener') : [];
+
     // Header
     const header = document.getElementById('concert-header');
     header.innerHTML = `
         <div class="vintage-poster rounded-lg p-10 text-center mb-8">
             <h2 class="poster-title mb-4 text-[#f4e4c1]" style="font-size: 3.5rem; line-height: 1.1;">${getArtistNames(concert.artists)}</h2>
+            ${openers.length > 0 ? `
+                <p class="text-xl mb-4 text-[#f4e4c1] opacity-80">
+                    with ${openers.map(a => a.name).join(', ')}
+                </p>
+            ` : ''}
             ${concert.festival_name ? `<p class="text-2xl mb-4 text-[#f4e4c1] opacity-90">${concert.festival_name}</p>` : ''}
             <div class="my-6" style="border-top: 2px solid rgba(244, 228, 193, 0.3); border-bottom: 2px solid rgba(244, 228, 193, 0.3); padding: 1.5rem 0;">
                 <p class="text-2xl text-[#f4e4c1] mb-2 font-bold">${concert.venue}</p>

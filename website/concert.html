@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Concert Detail - My Concert Archive</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -252,6 +253,51 @@
                     </button>
                 </div>
 
+                <!-- Photos Section -->
+                <div id="photos-section" class="mt-8">
+                    <div class="marquee-header text-2xl rounded flex justify-between items-center px-4">
+                        <span><i class="fas fa-camera mr-3"></i>Photos</span>
+                        <button id="upload-photo-btn" class="hidden text-lg bg-[#c1502e] hover:bg-[#d4773e] px-4 py-2 rounded transition">
+                            <i class="fas fa-plus mr-2"></i>Upload Photo
+                        </button>
+                    </div>
+
+                    <!-- Photo Upload Form (Hidden by default) -->
+                    <div id="photo-upload-form" class="hidden mb-4 p-4 bg-white rounded border-2 border-[#d4773e]">
+                        <label class="block mb-2 font-bold text-[#2d1b1b]">Select Photo:</label>
+                        <input type="file" id="photo-file-input" accept="image/*"
+                               class="w-full mb-3 p-2 border-2 border-[#d4773e] rounded bg-white text-[#2d1b1b]">
+                        <label class="block mb-2 font-bold text-[#2d1b1b]">Caption (optional):</label>
+                        <input type="text" id="photo-caption-input" placeholder="Add a caption..."
+                               class="w-full p-3 mb-3 border-2 border-[#d4773e] rounded bg-white text-[#2d1b1b]">
+                        <div class="flex gap-2">
+                            <button id="submit-photo-btn" class="bg-[#c1502e] text-[#f4e4c1] px-6 py-2 rounded font-bold hover:bg-[#d4773e] transition">
+                                <i class="fas fa-upload mr-2"></i>Upload
+                            </button>
+                            <button id="cancel-photo-btn" class="bg-gray-400 text-white px-6 py-2 rounded font-bold hover:bg-gray-500 transition">
+                                <i class="fas fa-times mr-2"></i>Cancel
+                            </button>
+                        </div>
+                        <div id="upload-progress" class="hidden mt-3">
+                            <div class="w-full bg-gray-200 rounded-full h-3">
+                                <div id="upload-progress-bar" class="bg-[#c1502e] h-3 rounded-full transition-all" style="width: 0%"></div>
+                            </div>
+                            <p class="text-sm text-[#2d1b1b] mt-1 text-center">Uploading...</p>
+                        </div>
+                    </div>
+
+                    <!-- Photo Gallery Grid -->
+                    <div id="photos-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                        <!-- Photos will be loaded here -->
+                    </div>
+
+                    <!-- No photos message -->
+                    <div id="no-photos-message" class="text-center py-8 opacity-70">
+                        <i class="fas fa-camera text-4xl mb-3 opacity-50"></i>
+                        <p>No photos yet. Be the first to share a photo from this concert!</p>
+                    </div>
+                </div>
+
                 <!-- Comments Section -->
                 <div id="comments-section" class="mt-8">
                     <div class="marquee-header text-center text-2xl rounded">
@@ -292,12 +338,22 @@
         import { initAuth, isOwner } from './js/auth.js';
         import { initNotesAndComments } from './js/concert-notes.js';
         import { initSetlistSubmission } from './js/setlist-submission.js';
+        import { initPhotoUpload } from './js/concert-photos.js';
         import { db } from './js/firebase-config.js';
-        import { doc, deleteDoc, collection, query, where, getDocs } from 'https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js';
+        import { doc, deleteDoc, getDoc, updateDoc, collection, query, where, getDocs } from 'https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js';
 
         initAuth();
         initNotesAndComments();
         initSetlistSubmission();
+
+        // Get concert ID from URL
+        const urlParams = new URLSearchParams(window.location.search);
+        const concertId = urlParams.get('id');
+
+        // Initialize photo upload
+        if (concertId) {
+            initPhotoUpload(concertId);
+        }
 
         // Show admin actions if owner
         setTimeout(() => {
@@ -306,15 +362,22 @@
             }
         }, 500);
 
-        // Get concert ID from URL
-        const urlParams = new URLSearchParams(window.location.search);
-        const concertId = urlParams.get('id');
-
         // Edit concert button
-        document.getElementById('edit-concert-btn').addEventListener('click', () => {
-            // For now, redirect to add-concert page with concert ID
-            // TODO: Create an edit page or make add-concert page handle editing
-            alert('Edit functionality coming soon! For now, you can delete and recreate the concert.');
+        document.getElementById('edit-concert-btn').addEventListener('click', async () => {
+            if (!concertId) {
+                alert('Concert ID not found');
+                return;
+            }
+
+            // Load concert data
+            const concertDoc = await getDoc(doc(db, 'concerts', concertId));
+            if (!concertDoc.exists()) {
+                alert('Concert not found');
+                return;
+            }
+
+            const concertData = concertDoc.data();
+            showEditModal(concertId, concertData);
         });
 
         // Delete concert button
@@ -365,6 +428,177 @@
                 alert('Error deleting concert. Please try again.');
             }
         });
+
+        // Helper function to get supporting act from artists array
+        function getSupportingAct(artists) {
+            if (!artists || !Array.isArray(artists)) return '';
+            const opener = artists.find(a => a.role === 'opener');
+            return opener ? opener.artist_name : '';
+        }
+
+        // Function to show edit modal
+        function showEditModal(concertId, concertData) {
+            // Create modal
+            const modal = document.createElement('div');
+            modal.id = 'edit-concert-modal';
+            modal.className = 'fixed inset-0 bg-black bg-opacity-75 z-50 flex items-center justify-center p-4 overflow-y-auto';
+            modal.onclick = (e) => {
+                if (e.target === modal) {
+                    modal.remove();
+                }
+            };
+
+            modal.innerHTML = `
+                <div class="bg-white rounded-lg p-8 max-w-2xl w-full my-8" onclick="event.stopPropagation()">
+                    <div class="flex justify-between items-center mb-6">
+                        <h2 class="text-3xl font-bold text-[#2d1b1b] poster-title">Edit Concert</h2>
+                        <button onclick="document.getElementById('edit-concert-modal').remove()"
+                                class="text-gray-500 hover:text-gray-700 text-2xl">
+                            <i class="fas fa-times"></i>
+                        </button>
+                    </div>
+
+                    <form id="edit-concert-form" class="space-y-4">
+                        <div>
+                            <label class="block text-[#2d1b1b] font-bold mb-2">Date</label>
+                            <input type="date" id="edit-date" value="${concertData.date}"
+                                   class="w-full p-3 border-2 border-[#d4773e] rounded bg-white text-[#2d1b1b]" required>
+                        </div>
+
+                        <div>
+                            <label class="block text-[#2d1b1b] font-bold mb-2">Venue</label>
+                            <input type="text" id="edit-venue" value="${concertData.venue_name || ''}"
+                                   class="w-full p-3 border-2 border-[#d4773e] rounded bg-white text-[#2d1b1b]" required>
+                        </div>
+
+                        <div class="grid grid-cols-2 gap-4">
+                            <div>
+                                <label class="block text-[#2d1b1b] font-bold mb-2">City</label>
+                                <input type="text" id="edit-city" value="${concertData.city || ''}"
+                                       class="w-full p-3 border-2 border-[#d4773e] rounded bg-white text-[#2d1b1b]" required>
+                            </div>
+                            <div>
+                                <label class="block text-[#2d1b1b] font-bold mb-2">State</label>
+                                <input type="text" id="edit-state" value="${concertData.state || ''}"
+                                       class="w-full p-3 border-2 border-[#d4773e] rounded bg-white text-[#2d1b1b]" required>
+                            </div>
+                        </div>
+
+                        <div>
+                            <label class="block text-[#2d1b1b] font-bold mb-2">Supporting Act (optional)</label>
+                            <input type="text" id="edit-support" value="${getSupportingAct(concertData.artists)}"
+                                   class="w-full p-3 border-2 border-[#d4773e] rounded bg-white text-[#2d1b1b]"
+                                   placeholder="Enter supporting/opening act name">
+                        </div>
+
+                        <div>
+                            <label class="block text-[#2d1b1b] font-bold mb-2">Festival Name (optional)</label>
+                            <input type="text" id="edit-festival" value="${concertData.festival_name || ''}"
+                                   class="w-full p-3 border-2 border-[#d4773e] rounded bg-white text-[#2d1b1b]">
+                        </div>
+
+                        <div class="flex gap-4 mt-6">
+                            <button type="submit" class="bg-[#d4773e] text-[#f4e4c1] px-6 py-3 rounded font-bold hover:bg-[#c1502e] transition flex-1">
+                                <i class="fas fa-save mr-2"></i>Save Changes
+                            </button>
+                            <button type="button" onclick="document.getElementById('edit-concert-modal').remove()"
+                                    class="bg-gray-400 text-white px-6 py-3 rounded font-bold hover:bg-gray-500 transition">
+                                <i class="fas fa-times mr-2"></i>Cancel
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            `;
+
+            document.body.appendChild(modal);
+
+            // Handle form submission
+            document.getElementById('edit-concert-form').addEventListener('submit', async (e) => {
+                e.preventDefault();
+                await saveEditedConcert(concertId);
+            });
+        }
+
+        // Function to save edited concert
+        async function saveEditedConcert(concertId) {
+            const date = document.getElementById('edit-date').value;
+            const venueName = document.getElementById('edit-venue').value.trim();
+            const city = document.getElementById('edit-city').value.trim();
+            const state = document.getElementById('edit-state').value.trim();
+            const supportingAct = document.getElementById('edit-support').value.trim();
+            const festivalName = document.getElementById('edit-festival').value.trim();
+
+            if (!date || !venueName || !city || !state) {
+                alert('Please fill in all required fields');
+                return;
+            }
+
+            try {
+                // Get current concert data to preserve the artists array structure
+                const concertDoc = await getDoc(doc(db, 'concerts', concertId));
+                const currentData = concertDoc.data();
+
+                // Build updated artists array
+                let updatedArtists = currentData.artists || [];
+
+                // Find headliner (should always exist)
+                const headliner = updatedArtists.find(a => a.role === 'headliner');
+
+                if (supportingAct) {
+                    // Check if opener already exists
+                    const existingOpener = updatedArtists.find(a => a.role === 'opener');
+
+                    if (existingOpener) {
+                        // Update existing opener name
+                        existingOpener.artist_name = supportingAct;
+                    } else {
+                        // Add new opener
+                        updatedArtists.push({
+                            artist_id: '', // Will be populated by backend
+                            artist_name: supportingAct,
+                            role: 'opener',
+                            position: 2
+                        });
+                    }
+                } else {
+                    // Remove opener if support act field is empty
+                    updatedArtists = updatedArtists.filter(a => a.role !== 'opener');
+                }
+
+                // Update concert in Firestore
+                const concertRef = doc(db, 'concerts', concertId);
+                await updateDoc(concertRef, {
+                    date: date,
+                    venue_name: venueName,
+                    city: city,
+                    state: state,
+                    artists: updatedArtists,
+                    festival_name: festivalName || null,
+                    updated_at: new Date()
+                });
+
+                // Trigger deployment
+                try {
+                    await fetch('https://us-central1-earplugs-and-memories.cloudfunctions.net/triggerManualDeploy', {
+                        method: 'POST'
+                    });
+                    console.log('Automatic deployment triggered');
+                } catch (err) {
+                    console.log('Could not trigger automatic deployment:', err);
+                }
+
+                // Close modal
+                document.getElementById('edit-concert-modal').remove();
+
+                // Show success message and reload
+                alert('Concert updated successfully! The page will reload to show the changes.');
+                window.location.reload();
+
+            } catch (error) {
+                console.error('Error updating concert:', error);
+                alert('Error updating concert: ' + error.message);
+            }
+        }
     </script>
 </body>
 </html>

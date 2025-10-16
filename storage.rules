@@ -1,0 +1,35 @@
+rules_version = '2';
+service firebase.storage {
+  match /b/{bucket}/o {
+
+    // Helper function to check if user is authenticated
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+
+    // Helper function to check if user is the owner
+    function isOwner() {
+      return isAuthenticated() && request.auth.uid == 'jBa71VgYp0Qz782bawa4SgjHu1l1';
+    }
+
+    // Concert photos
+    match /concert_photos/{concertId}/{photoId} {
+      // Anyone can read photos
+      allow read: if true;
+
+      // Authenticated users can upload photos
+      // Maximum file size: 5MB
+      // Only image files allowed
+      allow create: if isAuthenticated()
+                    && request.resource.size < 5 * 1024 * 1024
+                    && request.resource.contentType.matches('image/.*');
+
+      // Authenticated users can delete (ownership verified in Firestore rules)
+      // Owner can delete any photo
+      allow delete: if isAuthenticated();
+
+      // No updates allowed (must delete and re-upload)
+      allow update: if false;
+    }
+  }
+}

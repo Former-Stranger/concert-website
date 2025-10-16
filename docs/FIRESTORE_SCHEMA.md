@@ -119,6 +119,23 @@
 }
 ```
 
+### `concert_photos` (new)
+```
+{
+  id: auto-generated
+  concert_id: string (reference to concerts)
+  user_id: string (Firebase Auth UID of uploader)
+  user_name: string (display name of uploader)
+  user_photo: string (profile photo URL, optional)
+  storage_path: string (path in Firebase Storage)
+  download_url: string (public download URL)
+  uploaded_at: timestamp
+  file_size: number (bytes)
+  file_type: string (MIME type: image/jpeg, image/png, etc.)
+  caption: string (optional user caption)
+}
+```
+
 ## Denormalization Strategy
 
 To optimize read performance and reduce queries, we denormalize some data:
@@ -140,5 +157,22 @@ Firestore will auto-create single-field indexes. We'll need composite indexes fo
 - `concerts`: `date` (desc)
 - `concerts`: `has_setlist` + `date` (desc)
 - `concerts`: `artists.artist_id` + `date` (desc)
+- `concert_photos`: `concert_id` + `uploaded_at` (desc)
 
 These will be created automatically when we run queries that need them.
+
+## Firebase Storage Structure
+
+Photos are stored in Firebase Storage:
+
+```
+/concert_photos/
+  ├── {concert_id}/
+  │   ├── {photo_id_1}.jpg
+  │   ├── {photo_id_2}.png
+  │   └── {photo_id_3}.jpg
+  └── {another_concert_id}/
+      └── {photo_id_4}.jpg
+```
+
+Each photo file is referenced in the `concert_photos` Firestore collection via `storage_path` and `download_url` fields.

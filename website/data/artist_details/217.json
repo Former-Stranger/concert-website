@@ -2,7 +2,48 @@
   "id": "217",
   "name": "Friends (Q)",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Dark Star",
+      "times_played": 1
+    },
+    {
+      "name": "Viola Lee Blues",
+      "times_played": 1
+    },
+    {
+      "name": "Doin' That Rag",
+      "times_played": 1
+    },
+    {
+      "name": "Passenger",
+      "times_played": 1
+    },
+    {
+      "name": "Bird Song",
+      "times_played": 1
+    },
+    {
+      "name": "The Wheel",
+      "times_played": 1
+    },
+    {
+      "name": "Rock and Roll Blues",
+      "times_played": 1
+    },
+    {
+      "name": "Liberty",
+      "times_played": 1
+    },
+    {
+      "name": "Mason's Children",
+      "times_played": 1
+    },
+    {
+      "name": "St. Stephen",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1245",

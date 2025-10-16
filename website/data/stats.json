@@ -1,9 +1,9 @@
 {
-  "total_concerts": 1270,
-  "concerts_with_setlists": 1227,
-  "total_songs": 17993,
-  "total_artists": 612,
-  "total_venues": 192,
+  "total_concerts": 1272,
+  "concerts_with_setlists": 1259,
+  "total_songs": 18542,
+  "total_artists": 610,
+  "total_venues": 193,
   "top_artists": [
     {
       "name": "Billy Joel",
@@ -27,7 +27,7 @@
     },
     {
       "name": "Dave Matthews Band",
-      "count": 22
+      "count": 23
     },
     {
       "name": "Jimmy Buffett",
@@ -91,7 +91,7 @@
   "concerts_by_year": [
     {
       "year": 2025,
-      "count": 45
+      "count": 46
     },
     {
       "year": 2024,
@@ -211,12 +211,12 @@
     },
     {
       "year": 1995,
-      "count": 6
+      "count": 7
     },
     {
       "year": 1994,
       "count": 4
     }
   ],
-  "generated_at": "2025-10-15T18:50:40.718680"
+  "generated_at": "2025-10-16T13:38:55.298815"
 }

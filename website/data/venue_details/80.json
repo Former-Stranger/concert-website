@@ -692,18 +692,18 @@
       "artists": "Bob Seger & the Silver Bullet Band"
     },
     {
+      "id": "3",
+      "show_number": 2,
+      "date": "1995-08-18",
+      "festival_name": null,
+      "artists": "Diana Ross"
+    },
+    {
       "id": "307",
       "show_number": 306,
       "date": "",
       "festival_name": null,
       "artists": "ZZ Top"
-    },
-    {
-      "id": "3",
-      "show_number": 2,
-      "date": "",
-      "festival_name": null,
-      "artists": "Diana Ross"
     }
   ]
 }

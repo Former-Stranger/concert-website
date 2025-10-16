@@ -2,7 +2,48 @@
   "id": "96",
   "name": "Bruce Springsteen:  Light of Day",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Broken Radio",
+      "times_played": 1
+    },
+    {
+      "name": "One Guitar",
+      "times_played": 1
+    },
+    {
+      "name": "Never Be Enough Time",
+      "times_played": 1
+    },
+    {
+      "name": "Darkness on the Edge of Town",
+      "times_played": 1
+    },
+    {
+      "name": "The Promised Land",
+      "times_played": 1
+    },
+    {
+      "name": "Savin' Up",
+      "times_played": 1
+    },
+    {
+      "name": "Pumping Iron",
+      "times_played": 1
+    },
+    {
+      "name": "Pink Cadillac",
+      "times_played": 1
+    },
+    {
+      "name": "Light of Day",
+      "times_played": 1
+    },
+    {
+      "name": "Thunder Road",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1233",

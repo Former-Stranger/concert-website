@@ -428,6 +428,52 @@ exports.triggerManualDeploy = functions.https.onRequest(async (req, res) => {
   }
 });
 
+// Trigger deployment when a photo is uploaded
+exports.onPhotoUpload = functions.firestore
+  .document('concert_photos/{photoId}')
+  .onCreate(async (snap, context) => {
+    const photoData = snap.data();
+    const photoId = context.params.photoId;
+    const concertId = photoData.concert_id;
+
+    console.log(`New photo uploaded: ${photoId} for concert ${concertId}`);
+    console.log(`Triggering automatic deployment to update static site...`);
+
+    try {
+      await triggerGitHubDeployment(concertId, 'photo-upload');
+      console.log('Deployment triggered successfully. Site will update in 2-3 minutes.');
+      return null;
+    } catch (error) {
+      console.error(`Error triggering deployment for photo ${photoId}:`, error);
+      console.log('AUTOMATIC DEPLOYMENT FAILED. Manual deployment required: ./deploy.sh');
+      // Don't throw - we don't want photo upload to fail if deployment fails
+      return null;
+    }
+  });
+
+// Trigger deployment when a photo is deleted
+exports.onPhotoDelete = functions.firestore
+  .document('concert_photos/{photoId}')
+  .onDelete(async (snap, context) => {
+    const photoData = snap.data();
+    const photoId = context.params.photoId;
+    const concertId = photoData.concert_id;
+
+    console.log(`Photo deleted: ${photoId} for concert ${concertId}`);
+    console.log(`Triggering automatic deployment to update static site...`);
+
+    try {
+      await triggerGitHubDeployment(concertId, 'photo-delete');
+      console.log('Deployment triggered successfully. Site will update in 2-3 minutes.');
+      return null;
+    } catch (error) {
+      console.error(`Error triggering deployment for photo deletion ${photoId}:`, error);
+      console.log('AUTOMATIC DEPLOYMENT FAILED. Manual deployment required: ./deploy.sh');
+      // Don't throw - photo is already deleted
+      return null;
+    }
+  });
+
 // Helper function to trigger GitHub Actions deployment
 async function triggerGitHubDeployment(entityId, eventType) {
   try {

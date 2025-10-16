@@ -1,5 +1,16 @@
 [
   {
+    "id": "1276",
+    "show_number": 1275,
+    "date": "2025-10-10",
+    "festival_name": null,
+    "venue": "Highlands Concert Series",
+    "city": "Amenia",
+    "state": "NY",
+    "artists": "Third Eye Blind",
+    "hasSetlist": true
+  },
+  {
     "id": "1275",
     "show_number": 1274,
     "date": "2025-08-10",
@@ -18,7 +29,7 @@
     "venue": "Forest Hills Stadium",
     "city": "Forest Hills",
     "state": "NY",
-    "artists": "Mumford & Sons, Sons",
+    "artists": "Mumford & Sons",
     "hasSetlist": true
   },
   {
@@ -63,7 +74,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Bob Dylan, Willie Nelson",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1269",
@@ -107,7 +118,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Weird Al",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1265",
@@ -139,7 +150,7 @@
     "venue": "Saratoga Performing Arts Center",
     "city": "Saratoga Springs",
     "state": "NY",
-    "artists": "Mumford & Sons, Sons",
+    "artists": "Mumford & Sons",
     "hasSetlist": true
   },
   {
@@ -173,7 +184,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Keith Urban",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1259",
@@ -228,7 +239,7 @@
     "city": "Port Chester",
     "state": "NY",
     "artists": "Blues Traveler",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1254",
@@ -261,7 +272,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Tedeschi Trucks Band, Buddy Guy",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1251",
@@ -272,7 +283,7 @@
     "city": "Tarrytown",
     "state": "NY",
     "artists": "Roger McGuinn",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1250",
@@ -283,7 +294,7 @@
     "city": "Port Chester",
     "state": "NY",
     "artists": "Little Feat",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1249",
@@ -294,7 +305,7 @@
     "city": "Port Chester",
     "state": "NY",
     "artists": "Avett Brothers",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1248",
@@ -305,7 +316,7 @@
     "city": "Port Chester",
     "state": "NY",
     "artists": "Avett Brothers",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1247",
@@ -338,7 +349,7 @@
     "city": "Port Chester",
     "state": "NY",
     "artists": "Tribute to Phil Lesh / Graham Lesh, Friends (Q)",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1244",
@@ -348,8 +359,8 @@
     "venue": "Ridgefield Playhouse",
     "city": "Ridgefield",
     "state": "CT",
-    "artists": "Lone Bellow",
-    "hasSetlist": false
+    "artists": "The Lone Bellow",
+    "hasSetlist": true
   },
   {
     "id": "1243",
@@ -360,7 +371,7 @@
     "city": "Port Chester",
     "state": "NY",
     "artists": "Tribute to Phil Lesh / Graham Lesh, Friends",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1242",
@@ -371,7 +382,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Wilder Woods",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1241",
@@ -382,7 +393,7 @@
     "city": "Newark",
     "state": "NJ",
     "artists": "Blake Shelton (Trace Adkins, Craig Morgan, Deana Carter, Emily Ann Roberts)",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1240",
@@ -393,7 +404,7 @@
     "city": "Ridgefield",
     "state": "CT",
     "artists": "George Thorogood, the Destroyers",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1239",
@@ -426,7 +437,7 @@
     "city": "Port Chester",
     "state": "NY",
     "artists": "Jason Isbell",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1236",
@@ -459,7 +470,7 @@
     "city": "Poughkeepsie",
     "state": "NY",
     "artists": "Billy Gibbons",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1233",
@@ -470,7 +481,7 @@
     "city": "Red Bank",
     "state": "NJ",
     "artists": "Bruce Springsteen:  Light of Day",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1232",
@@ -492,7 +503,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Marcus King Trio (MonoNeon, Chris Dave)",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1230",
@@ -536,7 +547,7 @@
     "city": "Port Chester",
     "state": "NY",
     "artists": "Black Crowes",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1226",
@@ -558,7 +569,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Kip Moore",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1224",
@@ -569,7 +580,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Jesse Malin Benefit",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1223",
@@ -608,12 +619,12 @@
     "id": "1220",
     "show_number": 1219,
     "date": "2024-11-24",
-    "festival_name": null,
+    "festival_name": "SOULSHINE",
     "venue": "Madison Square Garden",
     "city": "New York",
     "state": "NY",
-    "artists": "Soulshine Benefit",
-    "hasSetlist": false
+    "artists": "Dave Matthews Band",
+    "hasSetlist": true
   },
   {
     "id": "1219",
@@ -624,7 +635,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Dave Matthews Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1218",
@@ -635,7 +646,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Mac McAnally",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1217",
@@ -668,7 +679,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Stand Up for Heroes:  Bruce Springsteen, Norah Jones",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1214",
@@ -690,7 +701,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "David Gilmour",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1212",
@@ -701,7 +712,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "David Gilmour",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1211",
@@ -766,7 +777,7 @@
     "venue": "Tarrytown Music Hall",
     "city": "Tarrytown",
     "state": "NY",
-    "artists": "Lone Bellow",
+    "artists": "The Lone Bellow",
     "hasSetlist": false
   },
   {
@@ -789,7 +800,7 @@
     "city": "Port Chester",
     "state": "NY",
     "artists": "Sting",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1203",
@@ -800,7 +811,7 @@
     "city": "Port Chester",
     "state": "NY",
     "artists": "Tedeschi Trucks Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1202",
@@ -4264,7 +4275,7 @@
     "venue": "Madison Square Garden",
     "city": "New York",
     "state": "NY",
-    "artists": "Mumford & Sons, Sons",
+    "artists": "Mumford & Sons",
     "hasSetlist": true
   },
   {
@@ -6343,7 +6354,7 @@
     "venue": "Forest Hills Stadium",
     "city": "Forest Hills",
     "state": "NY",
-    "artists": "Mumford & Sons, Sons",
+    "artists": "Mumford & Sons",
     "hasSetlist": true
   },
   {
@@ -7278,7 +7289,7 @@
     "venue": "Le Poisson Rouge",
     "city": "New York",
     "state": "NY",
-    "artists": "Mumford & Sons, Sons",
+    "artists": "Mumford & Sons",
     "hasSetlist": true
   },
   {
@@ -8191,7 +8202,7 @@
     "venue": "Barclays Center",
     "city": "Brooklyn",
     "state": "NY",
-    "artists": "Mumford & Sons, Sons",
+    "artists": "Mumford & Sons",
     "hasSetlist": true
   },
   {
@@ -8422,7 +8433,7 @@
     "venue": "Pier A Park",
     "city": "Hoboken",
     "state": "NJ",
-    "artists": "Mumford and Sons with Dawes",
+    "artists": "Mumford & Sons",
     "hasSetlist": true
   },
   {
@@ -9038,7 +9049,7 @@
     "venue": "Terminal 5",
     "city": "New York",
     "state": "NY",
-    "artists": "Mumford & Sons, Sons",
+    "artists": "Mumford & Sons",
     "hasSetlist": true
   },
   {
@@ -13893,6 +13904,17 @@
     "hasSetlist": true
   },
   {
+    "id": "3",
+    "show_number": 2,
+    "date": "1995-08-18",
+    "festival_name": null,
+    "venue": "Jones Beach Theater",
+    "city": "Wantagh",
+    "state": "NY",
+    "artists": "Diana Ross",
+    "hasSetlist": true
+  },
+  {
     "id": "10",
     "show_number": 9,
     "date": "1995-08-18",
@@ -13989,17 +14011,6 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "ZZ Top",
-    "hasSetlist": false
-  },
-  {
-    "id": "3",
-    "show_number": 2,
-    "date": "",
-    "festival_name": null,
-    "venue": "Jones Beach Theater",
-    "city": "Wantagh",
-    "state": "NY",
-    "artists": "Diana Ross",
     "hasSetlist": false
   },
   {

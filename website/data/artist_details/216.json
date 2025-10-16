@@ -4,6 +4,10 @@
   "concert_count": 5,
   "top_songs": [
     {
+      "name": "Scarlet Begonias",
+      "times_played": 2
+    },
+    {
       "name": "Jam",
       "times_played": 2
     },
@@ -37,10 +41,6 @@
     },
     {
       "name": "My Old Friend the Blues",
-      "times_played": 1
-    },
-    {
-      "name": "Someday",
       "times_played": 1
     }
   ],

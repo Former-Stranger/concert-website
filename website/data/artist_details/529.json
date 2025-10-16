@@ -2,7 +2,24 @@
   "id": "529",
   "name": "Stand Up for Heroes:  Bruce Springsteen, Norah Jones",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "The Power of Prayer",
+      "times_played": 1
+    },
+    {
+      "name": "Land of Hope and Dreams",
+      "times_played": 1
+    },
+    {
+      "name": "Dancing in the Dark",
+      "times_played": 1
+    },
+    {
+      "name": "Long Walk Home",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1215",

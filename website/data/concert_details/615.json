@@ -10,10 +10,6 @@
     {
       "name": "Mumford & Sons",
       "role": "festival_performer"
-    },
-    {
-      "name": "Sons",
-      "role": "festival_performer"
     }
   ],
   "setlistfm_url": "https://www.setlist.fm/setlist/3bc8b8f8.html",
@@ -164,5 +160,7 @@
       "is_cover": false,
       "cover_artist": null
     }
-  ]
+  ],
+  "photos": [],
+  "photo_count": 0
 }

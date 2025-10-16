@@ -1,0 +1,54 @@
+{
+  "id": "1215",
+  "show_number": 1214,
+  "date": "2024-11-11",
+  "festival_name": null,
+  "venue": "Lincoln Center",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Stand Up for Heroes:  Bruce Springsteen, Norah Jones",
+      "role": "headliner"
+    }
+  ],
+  "setlistfm_url": "https://www.setlist.fm/setlist/bruce-springsteen/2024/david-geffen-hall-new-york-ny-b526da2.html",
+  "song_count": 4,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "The Power of Prayer",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Land of Hope and Dreams",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Dancing in the Dark",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Long Walk Home",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ],
+  "photos": [],
+  "photo_count": 0
+}

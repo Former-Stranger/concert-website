@@ -1,8 +1,49 @@
 {
   "id": "353",
-  "name": "Lone Bellow",
+  "name": "The Lone Bellow",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Homesick",
+      "times_played": 1
+    },
+    {
+      "name": "To the Woods",
+      "times_played": 1
+    },
+    {
+      "name": "You Never Need Nobody",
+      "times_played": 1
+    },
+    {
+      "name": "Cost of Living",
+      "times_played": 1
+    },
+    {
+      "name": "You Don't Love Me Like You Used To",
+      "times_played": 1
+    },
+    {
+      "name": "When You Were Young",
+      "times_played": 1
+    },
+    {
+      "name": "Common Folk",
+      "times_played": 1
+    },
+    {
+      "name": "Bleeding Out",
+      "times_played": 1
+    },
+    {
+      "name": "I'll Be",
+      "times_played": 1
+    },
+    {
+      "name": "Watch Over Us",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1244",

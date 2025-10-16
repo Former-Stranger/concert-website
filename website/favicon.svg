@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="48" fill="#d4773e"/>
+
+  <!-- Large, bold eighth note -->
+  <!-- Note stem -->
+  <rect x="58" y="22" width="8" height="42" rx="2" fill="#2d1b1b"/>
+
+  <!-- Note head (oval) -->
+  <ellipse cx="54" cy="64" rx="14" ry="11" fill="#2d1b1b"/>
+
+  <!-- Note flag -->
+  <path d="M 66 22 Q 78 28 78 38 Q 78 32 70 28 Q 68 26 66 27 Z" fill="#2d1b1b"/>
+</svg>

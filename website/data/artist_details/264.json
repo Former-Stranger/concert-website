@@ -4,6 +4,18 @@
   "concert_count": 4,
   "top_songs": [
     {
+      "name": "Alabama Pines",
+      "times_played": 4
+    },
+    {
+      "name": "Cover Me Up",
+      "times_played": 4
+    },
+    {
+      "name": "Strawberry Woman",
+      "times_played": 3
+    },
+    {
       "name": "Last of My Kind",
       "times_played": 3
     },
@@ -12,11 +24,7 @@
       "times_played": 3
     },
     {
-      "name": "Alabama Pines",
-      "times_played": 3
-    },
-    {
-      "name": "Cover Me Up",
+      "name": "Cast Iron Skillet",
       "times_played": 3
     },
     {
@@ -24,23 +32,15 @@
       "times_played": 3
     },
     {
+      "name": "If We Were Vampires",
+      "times_played": 3
+    },
+    {
+      "name": "Speed Trap Town",
+      "times_played": 3
+    },
+    {
       "name": "When We Were Close",
-      "times_played": 2
-    },
-    {
-      "name": "Save the World",
-      "times_played": 2
-    },
-    {
-      "name": "Strawberry Woman",
-      "times_played": 2
-    },
-    {
-      "name": "King of Oklahoma",
-      "times_played": 2
-    },
-    {
-      "name": "Stockholm",
       "times_played": 2
     }
   ],

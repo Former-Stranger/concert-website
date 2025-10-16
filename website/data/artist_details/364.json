@@ -2,7 +2,48 @@
   "id": "364",
   "name": "Mac McAnally",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Son of a Son of a Sailor",
+      "times_played": 1
+    },
+    {
+      "name": "Blame It on New Orleans",
+      "times_played": 1
+    },
+    {
+      "name": "Somewhere Over the Rainbow/Grapefruit-Juicy Fruit",
+      "times_played": 1
+    },
+    {
+      "name": "Trying to Reason With Hurricane Season",
+      "times_played": 1
+    },
+    {
+      "name": "This Time",
+      "times_played": 1
+    },
+    {
+      "name": "Meanwhile",
+      "times_played": 1
+    },
+    {
+      "name": "Down the Road",
+      "times_played": 1
+    },
+    {
+      "name": "Pirates & Parrots",
+      "times_played": 1
+    },
+    {
+      "name": "The Opposite of Love",
+      "times_played": 1
+    },
+    {
+      "name": "Come Monday",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1218",
