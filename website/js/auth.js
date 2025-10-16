@@ -199,12 +199,12 @@ function showSignInModal() {
                     Continue with Google
                 </button>
 
-                <!-- Facebook Sign In - Temporarily disabled pending Facebook app review -->
-                <!-- <button id="facebook-sign-in-btn"
+                <!-- Facebook Sign In -->
+                <button id="facebook-sign-in-btn"
                         class="w-full flex items-center justify-center gap-3 bg-[#1877F2] hover:bg-[#166FE5] text-white font-semibold py-3 px-4 rounded-lg transition">
                     <i class="fab fa-facebook text-xl"></i>
                     Continue with Facebook
-                </button> -->
+                </button>
             </div>
 
             <p class="text-xs text-gray-500 mt-6 text-center">
@@ -223,13 +223,12 @@ function showSignInModal() {
         }
     });
 
-    // Facebook login temporarily disabled pending Facebook app review
-    // document.getElementById('facebook-sign-in-btn').addEventListener('click', async () => {
-    //     const user = await signInWithFacebook();
-    //     if (user) {
-    //         modal.remove();
-    //     }
-    // });
+    document.getElementById('facebook-sign-in-btn').addEventListener('click', async () => {
+        const user = await signInWithFacebook();
+        if (user) {
+            modal.remove();
+        }
+    });
 }
 
 // Check if current user is the owner
