@@ -2,7 +2,48 @@
   "id": "577",
   "name": "The Last Waltz",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Theme From Last Waltz",
+      "times_played": 1
+    },
+    {
+      "name": "Up on Cripple Creek",
+      "times_played": 1
+    },
+    {
+      "name": "The Shape I'm In",
+      "times_played": 1
+    },
+    {
+      "name": "This Wheel's on Fire",
+      "times_played": 1
+    },
+    {
+      "name": "Georgia (on My Mind)",
+      "times_played": 1
+    },
+    {
+      "name": "It Makes No Difference",
+      "times_played": 1
+    },
+    {
+      "name": "Mystery Train",
+      "times_played": 1
+    },
+    {
+      "name": "Down South in New Orleans",
+      "times_played": 1
+    },
+    {
+      "name": "Long Black Veil",
+      "times_played": 1
+    },
+    {
+      "name": "Atlantic City",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1214",

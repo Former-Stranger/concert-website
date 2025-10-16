@@ -435,6 +435,13 @@
             return opener ? opener.artist_name : '';
         }
 
+        // Helper function to get headliner/primary artist name
+        function getHeadlinerName(artists) {
+            if (!artists || !Array.isArray(artists)) return '';
+            const headliner = artists.find(a => a.role === 'headliner' || a.role === 'festival_performer');
+            return headliner ? headliner.artist_name : '';
+        }
+
         // Function to show edit modal
         function showEditModal(concertId, concertData) {
             // Create modal
@@ -461,6 +468,12 @@
                         <div>
                             <label class="block text-[#2d1b1b] font-bold mb-2">Date</label>
                             <input type="date" id="edit-date" value="${concertData.date}"
+                                   class="w-full p-3 border-2 border-[#d4773e] rounded bg-white text-[#2d1b1b]" required>
+                        </div>
+
+                        <div>
+                            <label class="block text-[#2d1b1b] font-bold mb-2">Artist Name</label>
+                            <input type="text" id="edit-artist" value="${getHeadlinerName(concertData.artists)}"
                                    class="w-full p-3 border-2 border-[#d4773e] rounded bg-white text-[#2d1b1b]" required>
                         </div>
 
@@ -521,13 +534,14 @@
         // Function to save edited concert
         async function saveEditedConcert(concertId) {
             const date = document.getElementById('edit-date').value;
+            const artistName = document.getElementById('edit-artist').value.trim();
             const venueName = document.getElementById('edit-venue').value.trim();
             const city = document.getElementById('edit-city').value.trim();
             const state = document.getElementById('edit-state').value.trim();
             const supportingAct = document.getElementById('edit-support').value.trim();
             const festivalName = document.getElementById('edit-festival').value.trim();
 
-            if (!date || !venueName || !city || !state) {
+            if (!date || !artistName || !venueName || !city || !state) {
                 alert('Please fill in all required fields');
                 return;
             }
@@ -540,8 +554,11 @@
                 // Build updated artists array
                 let updatedArtists = currentData.artists || [];
 
-                // Find headliner (should always exist)
-                const headliner = updatedArtists.find(a => a.role === 'headliner');
+                // Find and update headliner/primary artist
+                const headliner = updatedArtists.find(a => a.role === 'headliner' || a.role === 'festival_performer');
+                if (headliner) {
+                    headliner.artist_name = artistName;
+                }
 
                 if (supportingAct) {
                     // Check if opener already exists
