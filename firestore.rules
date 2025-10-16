@@ -22,6 +22,30 @@ service cloud.firestore {
       allow update, delete: if isOwner();
     }
 
+    // Artists collection
+    match /artists/{artistId} {
+      // Everyone can read artists
+      allow read: if true;
+      // Only owner can create/update/delete artists
+      allow create, update, delete: if isOwner();
+    }
+
+    // Venues collection
+    match /venues/{venueId} {
+      // Everyone can read venues
+      allow read: if true;
+      // Only owner can create/update/delete venues
+      allow create, update, delete: if isOwner();
+    }
+
+    // Setlists collection
+    match /setlists/{setlistId} {
+      // Everyone can read setlists
+      allow read: if true;
+      // Only owner can create/update/delete setlists
+      allow create, update, delete: if isOwner();
+    }
+
     // Personal notes - only owner can read/write
     match /concert_notes/{concertId} {
       // Only owner can create, read, update, or delete notes
