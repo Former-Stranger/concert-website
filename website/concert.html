@@ -342,25 +342,24 @@
         import { db } from './js/firebase-config.js';
         import { doc, deleteDoc, getDoc, updateDoc, collection, query, where, getDocs } from 'https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js';
 
-        initAuth();
-        initNotesAndComments();
-        initSetlistSubmission();
-
         // Get concert ID from URL
         const urlParams = new URLSearchParams(window.location.search);
         const concertId = urlParams.get('id');
+
+        // Initialize auth with callback to show admin actions
+        initAuth(() => {
+            if (isOwner()) {
+                document.getElementById('admin-actions').classList.remove('hidden');
+            }
+        });
+
+        initNotesAndComments();
+        initSetlistSubmission();
 
         // Initialize photo upload
         if (concertId) {
             initPhotoUpload(concertId);
         }
-
-        // Show admin actions if owner
-        setTimeout(() => {
-            if (isOwner()) {
-                document.getElementById('admin-actions').classList.remove('hidden');
-            }
-        }, 500);
 
         // Edit concert button
         document.getElementById('edit-concert-btn').addEventListener('click', async () => {

@@ -11,8 +11,16 @@ let unsubscribePendingCount = null;
 // Owner UID - set to the owner's Firebase Auth UID
 const OWNER_UID = 'jBa71VgYp0Qz782bawa4SgjHu1l1';
 
+// Auth ready callbacks
+let authReadyCallbacks = [];
+
 // Initialize auth state listener
-function initAuth() {
+function initAuth(onAuthReady) {
+    // Add callback if provided
+    if (onAuthReady && typeof onAuthReady === 'function') {
+        authReadyCallbacks.push(onAuthReady);
+    }
+
     onAuthStateChanged(auth, (user) => {
         currentUser = user;
         updateAuthUI();
@@ -27,6 +35,12 @@ function initAuth() {
                 unsubscribePendingCount = null;
             }
             pendingSetlistsCount = 0;
+        }
+
+        // Call all registered callbacks when auth state is ready
+        if (authReadyCallbacks.length > 0) {
+            authReadyCallbacks.forEach(callback => callback(user));
+            authReadyCallbacks = []; // Clear callbacks after calling
         }
     });
 }
