@@ -35,6 +35,11 @@
     "concert_count": 22
   },
   {
+    "id": "131",
+    "name": "Dead and Company",
+    "concert_count": 20
+  },
+  {
     "id": "20",
     "name": "Allman Brothers Band",
     "concert_count": 19
@@ -43,16 +48,6 @@
     "id": "71",
     "name": "Bon Jovi",
     "concert_count": 19
-  },
-  {
-    "id": "131",
-    "name": "Company",
-    "concert_count": 19
-  },
-  {
-    "id": "162",
-    "name": "Dead",
-    "concert_count": 18
   },
   {
     "id": "293",
@@ -1035,6 +1030,11 @@
     "concert_count": 2
   },
   {
+    "id": "553",
+    "name": "Sturgill Simpson",
+    "concert_count": 2
+  },
+  {
     "id": "567",
     "name": "The Brothers",
     "concert_count": 2
@@ -1235,8 +1235,8 @@
     "concert_count": 1
   },
   {
-    "id": "40",
-    "name": "Beatles",
+    "id": "hI7ssMfAm6v3K5HAlX8Y",
+    "name": "Beatles Tribute",
     "concert_count": 1
   },
   {
@@ -1622,6 +1622,11 @@
   {
     "id": "161",
     "name": "Dawes",
+    "concert_count": 1
+  },
+  {
+    "id": "162",
+    "name": "Dead",
     "concert_count": 1
   },
   {
@@ -2720,16 +2725,6 @@
     "concert_count": 1
   },
   {
-    "id": "552",
-    "name": "Stugill Simpson",
-    "concert_count": 1
-  },
-  {
-    "id": "553",
-    "name": "Sturgill Simpson",
-    "concert_count": 1
-  },
-  {
     "id": "554",
     "name": "Sugar Ray",
     "concert_count": 1
@@ -3012,11 +3007,6 @@
   {
     "id": "654",
     "name": "Zac Brown Band with Drake White",
-    "concert_count": 1
-  },
-  {
-    "id": "656",
-    "name": "company",
     "concert_count": 1
   },
   {

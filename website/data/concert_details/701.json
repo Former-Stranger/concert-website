@@ -2,18 +2,14 @@
   "id": "701",
   "show_number": 700,
   "date": "2016-06-25",
-  "festival_name": "Multi-Artist Show",
+  "festival_name": null,
   "venue": "Citi Field",
   "city": "Queens",
   "state": "NY",
   "artists": [
     {
-      "name": "The Dead",
-      "role": "festival_performer"
-    },
-    {
-      "name": "Company",
-      "role": "festival_performer"
+      "name": "Dead and Company",
+      "role": "headliner"
     }
   ],
   "setlistfm_url": "https://www.setlist.fm/setlist/6bfe423a.html",

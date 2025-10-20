@@ -2,18 +2,14 @@
   "id": "1172",
   "show_number": 1171,
   "date": "2024-06-14",
-  "festival_name": "Multi-Artist Show",
+  "festival_name": null,
   "venue": "Sphere",
   "city": "Las Vegas",
   "state": "NV",
   "artists": [
     {
-      "name": "The Dead",
-      "role": "festival_performer"
-    },
-    {
-      "name": "Company",
-      "role": "festival_performer"
+      "name": "Dead and Company",
+      "role": "headliner"
     }
   ],
   "setlistfm_url": "https://www.setlist.fm/setlist/7bab86fc.html",

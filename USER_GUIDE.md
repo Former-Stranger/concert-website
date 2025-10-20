@@ -15,7 +15,10 @@ This guide will walk you through how to manage your concert archive website. Eve
 6. [Managing Setlist Submissions](#managing-setlist-submissions)
 7. [Deleting a Concert](#deleting-a-concert)
 8. [Adding Personal Notes](#adding-personal-notes)
-9. [Troubleshooting Common Issues](#troubleshooting-common-issues)
+9. [Managing Comments](#managing-comments)
+10. [Managing User Accounts](#managing-user-accounts)
+11. [Email Notifications](#email-notifications)
+12. [Troubleshooting Common Issues](#troubleshooting-common-issues)
 
 ---
 
@@ -323,6 +326,172 @@ Scroll down below the setlist and photos. You'll see a section called **"Persona
 
 ---
 
+## Managing Comments
+
+Users can post comments on concerts. As the owner, you can delete any comment (for moderation purposes), and users can edit/delete their own comments.
+
+### Viewing Comments
+
+Navigate to any concert detail page and scroll down to the **"Comments"** section.
+
+You'll see:
+- User's name and profile photo
+- When the comment was posted (e.g., "2 hours ago")
+- The comment text
+
+### What Users Can Do
+
+**Regular users:**
+- Post comments (must be signed in)
+- Edit their own comments
+- Delete their own comments
+
+**Owner (you):**
+- Delete ANY comment (for moderation/spam removal)
+
+### Deleting a Comment
+
+As the owner, you'll see a **red "Delete" button** on all comments.
+
+**To delete a comment:**
+1. Find the comment you want to remove
+2. Click the red **"Delete"** button
+3. Confirm deletion in the popup
+4. The comment is immediately removed
+
+**Use this for:**
+- Spam comments
+- Inappropriate content
+- Off-topic or abusive posts
+
+### Comment Persistence
+
+**Important:** Comments remain visible even if a user deletes their account. This is intentional so you can:
+- See comment history
+- Identify spam patterns
+- Keep legitimate comments from former users
+
+You can always delete individual comments as needed.
+
+---
+
+## Managing User Accounts
+
+You can view, disable, and delete user accounts through the Firebase Console.
+
+### Accessing User Management
+
+Go to: **https://console.firebase.google.com/project/earplugs-and-memories/authentication/users**
+
+Or:
+1. Go to https://console.firebase.google.com
+2. Click on "earplugs-and-memories" project
+3. Click "Authentication" in the left sidebar
+4. Click the "Users" tab
+
+### What You'll See
+
+A list of all registered users with:
+- Email address
+- How they signed up (Google, Facebook, Email/Password)
+- When they created their account
+- Last sign-in time
+- User ID (UID)
+
+### Common Actions
+
+**Search for a User:**
+- Use the search bar to find users by email
+
+**Disable a User:**
+1. Click on the user
+2. Click "Disable account"
+3. User can no longer sign in (but their data remains)
+4. You can re-enable them later
+
+**Delete a User:**
+1. Click on the user
+2. Click the trash icon (Delete account)
+3. Confirm deletion
+4. **Note:** Their comments and photos remain in the database
+5. To delete their content, you'll need to manually delete photos/comments
+
+**Export User List:**
+1. Click the "..." menu in top right
+2. Select "Export users"
+3. Download CSV or JSON
+
+### When to Disable/Delete Users
+
+**Disable for:**
+- Temporary spam/abuse issues
+- Testing
+- Suspicious activity
+
+**Delete for:**
+- User requested account deletion
+- Confirmed spam accounts
+- Inactive accounts you want to clean up
+
+For detailed instructions, see: **USER_ACCOUNT_MANAGEMENT.md**
+
+---
+
+## Email Notifications
+
+The website automatically sends email notifications for various activities.
+
+### What Emails Are Sent
+
+**1. Welcome Emails** (Automatic)
+- Sent to new users when they create an account
+- From: noreply@earplugsandmemories.com
+- Contains: Welcome message, feature overview, link to site
+
+**2. Photo Upload Notifications** (To You)
+- Sent to: akalbfell@gmail.com
+- When: Someone uploads a photo
+- Contains: Who uploaded, which concert, caption, link to view
+
+**3. Comment Notifications** (To You)
+- Sent to: akalbfell@gmail.com
+- When: Someone posts a comment
+- Contains: Who commented, which concert, comment text, link to view
+
+### Email Settings
+
+Emails are sent via **Resend** (free tier - 100 emails/day).
+
+**To change notification email:**
+```bash
+firebase functions:config:set notify.email="new-email@example.com"
+firebase deploy --only functions
+```
+
+**To disable notifications:**
+You would need to disable the Cloud Functions or modify them to not send emails.
+
+### Checking Email Logs
+
+View email delivery logs:
+```bash
+firebase functions:log --only sendWelcomeEmail
+firebase functions:log --only notifyPhotoUpload
+firebase functions:log --only notifyComment
+```
+
+Or check in Resend dashboard: https://resend.com/emails
+
+### Email Limits
+
+- **Free tier**: 100 emails/day (3,000/month)
+- **Sender**: noreply@earplugsandmemories.com
+- **Domain verified**: Yes
+
+This should be more than enough for your use case.
+
+---
+
 ## Troubleshooting Common Issues
 
 ### "I don't see the Edit/Delete buttons"
@@ -413,9 +582,12 @@ If you run into issues not covered in this guide:
 | Delete concert | Concert detail page | "Delete Concert" |
 | Upload photo | Concert detail page | "Upload Photo" |
 | Delete photo | Concert detail page | Trash icon on photo |
+| Delete comment | Concert detail page | Red "Delete" button |
 | Review setlists | Pending Setlists page | "Approve" or "Reject" |
 | Add personal note | Concert detail page | "Add Note" or "Edit" |
+| Manage users | Firebase Console | Authentication → Users |
+| Check email logs | Terminal | `firebase functions:log` |
 
 ---
 
-**Last Updated:** October 2025
+**Last Updated:** October 20, 2025

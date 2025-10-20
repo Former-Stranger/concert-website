@@ -2,18 +2,14 @@
   "id": "798",
   "show_number": 797,
   "date": "2017-11-14",
-  "festival_name": "Multi-Artist Show",
+  "festival_name": null,
   "venue": "Madison Square Garden",
   "city": "New York",
   "state": "NY",
   "artists": [
     {
-      "name": "The Dead",
-      "role": "festival_performer"
-    },
-    {
-      "name": "Company",
-      "role": "festival_performer"
+      "name": "Dead and Company",
+      "role": "headliner"
     }
   ],
   "setlistfm_url": "https://www.setlist.fm/setlist/13e08de1.html",

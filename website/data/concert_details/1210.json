@@ -1,112 +1,96 @@
 {
-  "id": "834",
-  "show_number": 833,
-  "date": "2018-06-16",
+  "id": "1210",
+  "show_number": 1209,
+  "date": "2024-10-26",
   "festival_name": null,
-  "venue": "Citi Field",
-  "city": "Queens",
+  "venue": "Garcia's at The Capitol Theatre",
+  "city": "Port Chester",
   "state": "NY",
   "artists": [
     {
-      "name": "Dead and Company",
+      "name": "Stella Blue's Band (acoustic)",
       "role": "headliner"
     }
   ],
-  "setlistfm_url": "https://www.setlist.fm/setlist/b53f926.html",
-  "song_count": 12,
+  "setlistfm_url": "https://www.setlist.fm/setlist/stella-blues-band/2024/garcias-at-the-capitol-theatre-port-chester-ny-5351f7ed.html",
+  "song_count": 10,
   "has_encore": false,
   "songs": [
     {
       "position": 1,
-      "name": "Hell in a Bucket",
+      "name": "Deep Elem Blues",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Grateful Dead"
+      "cover_artist": "[traditional]"
     },
     {
       "position": 2,
-      "name": "Money",
+      "name": "Unbroken Chain",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Pink Floyd"
+      "cover_artist": "Grateful Dead"
     },
     {
       "position": 3,
-      "name": "West L.A. Fadeaway",
+      "name": "Dark Hollow",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Grateful Dead"
+      "cover_artist": "Bill Browning and His Echo Valley Boys"
     },
     {
       "position": 4,
-      "name": "Dogs",
+      "name": "Deal",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Pink Floyd"
+      "cover_artist": "Jerry Garcia"
     },
     {
       "position": 5,
-      "name": "The Other One",
+      "name": "Broken Arrow",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Grateful Dead"
+      "cover_artist": "Robbie Robertson"
     },
     {
       "position": 6,
-      "name": "Scarlet Begonias",
+      "name": "Me and Bobby McGee",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Kris Kristofferson"
+    },
+    {
+      "position": 7,
+      "name": "Box of Rain",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Grateful Dead"
     },
     {
-      "position": 7,
-      "name": "Pigs (Three Different Ones)",
-      "set_name": "Main Set",
-      "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Pink Floyd"
-    },
-    {
       "position": 8,
-      "name": "Dancing in the Street",
+      "name": "Going Down the Road Feeling Bad",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Martha Reeves and the Vandellas"
+      "cover_artist": "[traditional]"
     },
     {
       "position": 9,
-      "name": "The Happiest Days of Our Lives",
+      "name": "And We Bid You Goodnight",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Pink Floyd"
+      "cover_artist": "Joseph Spence"
     },
     {
       "position": 10,
-      "name": "Morning Dew",
-      "set_name": "Main Set",
-      "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Bonnie Dobson"
-    },
-    {
-      "position": 11,
-      "name": "Run Like Hell",
-      "set_name": "Main Set",
-      "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Pink Floyd"
-    },
-    {
-      "position": 12,
-      "name": "Brokedown Palace",
+      "name": "Ripple",
       "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,

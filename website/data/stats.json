@@ -1,8 +1,8 @@
 {
   "total_concerts": 1273,
-  "concerts_with_setlists": 1261,
-  "total_songs": 18590,
-  "total_artists": 610,
+  "concerts_with_setlists": 1263,
+  "total_songs": 18633,
+  "total_artists": 608,
   "total_venues": 193,
   "top_artists": [
     {
@@ -34,15 +34,15 @@
       "count": 22
     },
     {
+      "name": "Dead and Company",
+      "count": 20
+    },
+    {
       "name": "Allman Brothers Band",
       "count": 19
     },
     {
       "name": "Bon Jovi",
-      "count": 19
-    },
-    {
-      "name": "Company",
       "count": 19
     }
   ],
@@ -218,5 +218,5 @@
       "count": 4
     }
   ],
-  "generated_at": "2025-10-16T14:36:16.438038"
+  "generated_at": "2025-10-20T18:24:06.045683"
 }

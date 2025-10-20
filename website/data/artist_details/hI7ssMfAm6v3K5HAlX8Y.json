@@ -1,16 +1,17 @@
 {
-  "id": "125",
-  "name": "Play Group Theatre",
-  "city": "White Plains",
-  "state": "NY",
+  "id": "hI7ssMfAm6v3K5HAlX8Y",
+  "name": "Beatles Tribute",
   "concert_count": 1,
+  "top_songs": [],
   "concerts": [
     {
       "id": "1217",
       "show_number": 1216,
       "date": "2024-11-16",
       "festival_name": "Candlelight Concerts",
-      "artists": "Beatles Tribute"
+      "venue": "Play Group Theatre",
+      "city": "White Plains",
+      "state": "NY"
     }
   ]
 }

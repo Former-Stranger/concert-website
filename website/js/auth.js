@@ -1,5 +1,5 @@
 // Authentication module
-import { auth, googleProvider, facebookProvider, signInWithPopup, signOut, onAuthStateChanged } from './firebase-config.js';
+import { auth, googleProvider, facebookProvider, signInWithPopup, signOut, onAuthStateChanged, createUserWithEmailAndPassword, signInWithEmailAndPassword, updateProfile } from './firebase-config.js';
 import { db } from './firebase-config.js';
 import { collection, query, where, onSnapshot } from 'https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js';
 
@@ -91,6 +91,57 @@ async function signInWithFacebook() {
     }
 }
 
+// Sign up with email and password
+async function signUpWithEmail(email, password, displayName) {
+    try {
+        const result = await createUserWithEmailAndPassword(auth, email, password);
+
+        // Update the user's profile with display name
+        if (displayName) {
+            await updateProfile(result.user, {
+                displayName: displayName
+            });
+        }
+
+        console.log('Signed up with email:', result.user.email);
+        return result.user;
+    } catch (error) {
+        console.error('Error signing up with email:', error);
+        let errorMessage = 'Failed to sign up. Please try again.';
+
+        if (error.code === 'auth/email-already-in-use') {
+            errorMessage = 'This email is already registered. Please sign in instead.';
+        } else if (error.code === 'auth/invalid-email') {
+            errorMessage = 'Invalid email address.';
+        } else if (error.code === 'auth/weak-password') {
+            errorMessage = 'Password should be at least 6 characters.';
+        }
+
+        alert(errorMessage);
+        return null;
+    }
+}
+
+// Sign in with email and password
+async function signInWithEmail(email, password) {
+    try {
+        const result = await signInWithEmailAndPassword(auth, email, password);
+        console.log('Signed in with email:', result.user.email);
+        return result.user;
+    } catch (error) {
+        console.error('Error signing in with email:', error);
+        let errorMessage = 'Failed to sign in. Please try again.';
+
+        if (error.code === 'auth/invalid-credential' || error.code === 'auth/wrong-password' || error.code === 'auth/user-not-found') {
+            errorMessage = 'Invalid email or password.';
+        } else if (error.code === 'auth/invalid-email') {
+            errorMessage = 'Invalid email address.';
+        }
+
+        alert(errorMessage);
+        return null;
+    }
+}
 
 // Sign out
 async function signOutUser() {
@@ -119,10 +170,15 @@ function updateAuthUI() {
         authButton.onclick = signOutUser;
 
         if (userInfo) {
+            const displayName = currentUser.displayName || currentUser.email.split('@')[0];
+            const userPhoto = currentUser.photoURL
+                ? `<img src="${currentUser.photoURL}" alt="${displayName}" class="w-8 h-8 rounded-full">`
+                : `<div class="w-8 h-8 rounded-full bg-[#2d1b1b] text-white flex items-center justify-center font-semibold">${displayName.charAt(0).toUpperCase()}</div>`;
+
             userInfo.innerHTML = `
                 <div class="flex items-center space-x-3">
-                    <img src="${currentUser.photoURL}" alt="${currentUser.displayName}" class="w-8 h-8 rounded-full">
-                    <span>${currentUser.displayName}</span>
+                    ${userPhoto}
+                    <span>${displayName}</span>
                 </div>
             `;
             userInfo.classList.remove('hidden');
@@ -177,7 +233,7 @@ function showSignInModal() {
     modal.innerHTML = `
         <div class="bg-white rounded-lg p-8 max-w-md w-full shadow-2xl" onclick="event.stopPropagation()">
             <div class="flex justify-between items-center mb-6">
-                <h2 class="text-2xl font-bold text-[#2d1b1b]">Sign In</h2>
+                <h2 id="modal-title" class="text-2xl font-bold text-[#2d1b1b]">Sign In</h2>
                 <button onclick="document.getElementById('sign-in-modal').remove()"
                         class="text-gray-500 hover:text-gray-700 text-2xl">
                     <i class="fas fa-times"></i>
@@ -207,6 +263,54 @@ function showSignInModal() {
                 </button>
             </div>
 
+            <!-- Divider -->
+            <div class="flex items-center my-6">
+                <div class="flex-1 border-t border-gray-300"></div>
+                <span class="px-4 text-gray-500 text-sm">OR</span>
+                <div class="flex-1 border-t border-gray-300"></div>
+            </div>
+
+            <!-- Email/Password Form -->
+            <form id="email-auth-form" class="space-y-4">
+                <!-- Display Name (only for sign up) -->
+                <div id="display-name-field" style="display: none;">
+                    <label for="display-name" class="block text-sm font-medium text-gray-700 mb-1">Display Name</label>
+                    <input type="text" id="display-name"
+                           class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#2d1b1b] text-gray-900"
+                           placeholder="Enter your name">
+                </div>
+
+                <!-- Email -->
+                <div>
+                    <label for="email" class="block text-sm font-medium text-gray-700 mb-1">Email</label>
+                    <input type="email" id="email" required
+                           class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#2d1b1b] text-gray-900"
+                           placeholder="Enter your email">
+                </div>
+
+                <!-- Password -->
+                <div>
+                    <label for="password" class="block text-sm font-medium text-gray-700 mb-1">Password</label>
+                    <input type="password" id="password" required
+                           class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#2d1b1b] text-gray-900"
+                           placeholder="Enter your password">
+                </div>
+
+                <!-- Submit Button -->
+                <button type="submit" id="email-auth-submit"
+                        class="w-full bg-[#2d1b1b] hover:bg-[#1a1010] text-white font-semibold py-3 px-4 rounded-lg transition">
+                    Sign In with Email
+                </button>
+            </form>
+
+            <!-- Toggle between Sign In / Sign Up -->
+            <p class="text-sm text-center mt-4">
+                <span id="toggle-text" class="text-gray-600">Don't have an account?</span>
+                <button id="toggle-mode" class="text-[#2d1b1b] font-semibold hover:underline ml-1">
+                    Sign Up
+                </button>
+            </p>
+
             <p class="text-xs text-gray-500 mt-6 text-center">
                 By signing in, you agree to our Terms of Service and Privacy Policy
             </p>
@@ -215,7 +319,10 @@ function showSignInModal() {
 
     document.body.appendChild(modal);
 
-    // Add event listeners to buttons
+    // Track mode (sign-in or sign-up)
+    let isSignUpMode = false;
+
+    // Add event listeners to social buttons
     document.getElementById('google-sign-in-btn').addEventListener('click', async () => {
         const user = await signInWithGoogle();
         if (user) {
@@ -225,6 +332,52 @@ function showSignInModal() {
 
     document.getElementById('facebook-sign-in-btn').addEventListener('click', async () => {
         const user = await signInWithFacebook();
+        if (user) {
+            modal.remove();
+        }
+    });
+
+    // Toggle between sign-in and sign-up
+    const toggleButton = document.getElementById('toggle-mode');
+    const toggleText = document.getElementById('toggle-text');
+    const modalTitle = document.getElementById('modal-title');
+    const submitButton = document.getElementById('email-auth-submit');
+    const displayNameField = document.getElementById('display-name-field');
+
+    toggleButton.addEventListener('click', () => {
+        isSignUpMode = !isSignUpMode;
+
+        if (isSignUpMode) {
+            modalTitle.textContent = 'Sign Up';
+            submitButton.textContent = 'Sign Up with Email';
+            toggleText.textContent = 'Already have an account?';
+            toggleButton.textContent = 'Sign In';
+            displayNameField.style.display = 'block';
+        } else {
+            modalTitle.textContent = 'Sign In';
+            submitButton.textContent = 'Sign In with Email';
+            toggleText.textContent = "Don't have an account?";
+            toggleButton.textContent = 'Sign Up';
+            displayNameField.style.display = 'none';
+        }
+    });
+
+    // Handle email/password form submission
+    const emailForm = document.getElementById('email-auth-form');
+    emailForm.addEventListener('submit', async (e) => {
+        e.preventDefault();
+
+        const email = document.getElementById('email').value;
+        const password = document.getElementById('password').value;
+        const displayName = document.getElementById('display-name').value;
+
+        let user;
+        if (isSignUpMode) {
+            user = await signUpWithEmail(email, password, displayName);
+        } else {
+            user = await signInWithEmail(email, password);
+        }
+
         if (user) {
             modal.remove();
         }
@@ -250,4 +403,4 @@ function isAuthenticated() {
 }
 
 // Export functions and auth instance
-export { initAuth, signInWithGoogle, signInWithFacebook, signOutUser, getCurrentUser, isAuthenticated, isOwner, auth };
+export { initAuth, signInWithGoogle, signInWithFacebook, signUpWithEmail, signInWithEmail, signOutUser, getCurrentUser, isAuthenticated, isOwner, auth };

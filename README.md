@@ -25,10 +25,11 @@ This is a full-featured concert archive website that allows tracking 35+ years o
 
 ### Backend & Database
 - **Firebase Firestore** - NoSQL database for all concert data
-- **Firebase Authentication** - User authentication (Google, Facebook)
+- **Firebase Authentication** - User authentication (Google, Facebook, Email/Password)
 - **Firebase Storage** - Photo storage with automatic resizing
 - **Firebase Hosting** - Static site hosting
 - **Firebase Cloud Functions** - Serverless functions for triggers
+- **Resend** - Email service for notifications (100 emails/day free)
 
 ### Deployment & CI/CD
 - **GitHub Actions** - Automated deployment on data changes
@@ -117,15 +118,30 @@ concert-website/
 
 ### 5. Authentication & Permissions
 - **Google Sign-In** - OAuth authentication
-- **Facebook Sign-In** - OAuth authentication (configured but not fully activated)
+- **Facebook Sign-In** - OAuth authentication
+- **Email/Password Authentication** - Standard email/password signup and login
 - **Owner privileges** - Special permissions for site owner
 - **User photos** - All authenticated users can upload photos
-- **Admin functions** - Edit/delete concerts, approve setlists
+- **Admin functions** - Edit/delete concerts, approve setlists, delete any comment/photo
 
-### 6. Personal Features
+### 6. Comments & Community
+- **User comments** - Authenticated users can comment on concerts
+- **Edit comments** - Users can edit their own comments
+- **Delete comments** - Users can delete their own comments, owner can delete any
+- **Comment moderation** - Admin can remove inappropriate comments
+- **Persistent history** - Comments remain visible even if user deletes account
+
+### 7. Email Notifications
+- **Welcome emails** - New users receive welcome email on signup
+- **Photo upload notifications** - Admin receives email when photos are uploaded
+- **Comment notifications** - Admin receives email when comments are posted
+- **Professional sender** - All emails from noreply@earplugsandmemories.com
+- **Powered by Resend** - Free tier (100 emails/day)
+
+### 8. Personal Features
 - **Personal notes** - Owner can add private notes to concerts
-- **Comments** - Users can comment on concerts (planned)
 - **"On This Date"** - Shows concerts from this date in history
+- **User account management** - Admin can disable/delete user accounts
 
 ## Data Architecture
 
@@ -233,6 +249,20 @@ concert-website/
   notes: "Personal notes about this concert",
   created_at: timestamp,
   updated_at: timestamp
+}
+```
+
+**concert_comments**
+```javascript
+{
+  id: "auto-generated",
+  concert_id: "1063",
+  user_id: "abc123",
+  user_name: "John Doe",
+  user_photo: "https://...",  // Optional
+  comment: "Great concert!",
+  created_at: timestamp,
+  updated_at: timestamp  // Only set when edited
 }
 ```
 
@@ -465,7 +495,7 @@ The database uses strict security rules:
 - **Setlists** - Read: all, Write: owner only
 - **Photos** - Read: all, Upload: authenticated users, Delete: uploader or owner
 - **Notes** - Read/Write: owner only
-- **Comments** - Read: all, Create: authenticated users, Delete: author or owner
+- **Comments** - Read: all, Create: authenticated users, Edit: author only, Delete: author or owner
 - **Pending Submissions** - Read: owner, Create: anyone
 
 ### Storage Security Rules
@@ -525,17 +555,31 @@ Statistics are automatically regenerated on each deployment when `export_to_web.
 
 **onPhotoUpload**
 - **Trigger:** Firestore onCreate on `concert_photos/{photoId}`
-- **Action:** Triggers automatic deployment
+- **Action:** Triggers automatic deployment and sends notification email
 
 **onPhotoDelete**
 - **Trigger:** Firestore onDelete on `concert_photos/{photoId}`
 - **Action:** Triggers automatic deployment
 
+**sendWelcomeEmail**
+- **Trigger:** Firebase Auth onCreate
+- **Action:** Sends welcome email to new users
+
+**notifyPhotoUpload**
+- **Trigger:** Firestore onCreate on `concert_photos/{photoId}`
+- **Action:** Sends notification email to admin
+
+**notifyComment**
+- **Trigger:** Firestore onCreate on `concert_comments/{commentId}`
+- **Action:** Sends notification email to admin
+
+**processApprovedSetlist**
+- **Trigger:** Firestore onWrite on `pending_setlist_submissions/{submissionId}`
+- **Action:** Auto-imports approved setlists from setlist.fm
+
 ## Future Enhancements
 
 Potential features to add:
-- [ ] Comment system (structure exists, needs UI)
-- [ ] Facebook authentication activation
 - [ ] Advanced search and filtering
 - [ ] Concert statistics charts/visualizations
 - [ ] Mobile app
@@ -543,6 +587,9 @@ Potential features to add:
 - [ ] Concert reminders for upcoming shows
 - [ ] Sharing concerts on social media
 - [ ] Venue maps integration
+- [ ] Comment reply/threading functionality
+- [ ] Email digest of recent activity
+- [ ] User profiles with concert history
 
 ## Credits
 

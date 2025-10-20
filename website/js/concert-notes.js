@@ -1,6 +1,6 @@
 // Concert notes and comments functionality
 import { isAuthenticated, isOwner, getCurrentUser } from './auth.js';
-import { db, collection, addDoc, getDocs, query, where, orderBy, serverTimestamp, doc, setDoc, getDoc } from './firebase-config.js';
+import { db, collection, addDoc, getDocs, query, where, orderBy, serverTimestamp, doc, setDoc, getDoc, deleteDoc, updateDoc } from './firebase-config.js';
 
 // Get concert ID from URL
 const urlParams = new URLSearchParams(window.location.search);
@@ -124,20 +124,58 @@ async function loadComments() {
             return bTime - aTime; // Descending order (newest first)
         });
 
-        commentsList.innerHTML = comments.map(comment => `
-            <div class="bg-white border-2 border-[#d4773e] rounded p-4">
-                <div class="flex items-center mb-2">
-                    <img src="${comment.user_photo || '/default-avatar.png'}"
-                         alt="${comment.user_name}"
-                         class="w-8 h-8 rounded-full mr-2">
-                    <div>
-                        <div class="font-bold">${escapeHtml(comment.user_name)}</div>
-                        <div class="text-xs opacity-50">${formatTimestamp(comment.created_at)}</div>
+        const user = getCurrentUser();
+        const userIsOwner = isOwner();
+
+        commentsList.innerHTML = comments.map(comment => {
+            const isAuthor = user && comment.user_id === user.uid;
+            const canEdit = isAuthor;
+            const canDelete = isAuthor || userIsOwner;
+
+            return `
+                <div class="bg-white border-2 border-[#d4773e] rounded p-4" data-comment-id="${comment.id}">
+                    <div class="flex items-center justify-between mb-2">
+                        <div class="flex items-center">
+                            <img src="${comment.user_photo || '/default-avatar.svg'}"
+                                 alt="${comment.user_name}"
+                                 class="w-8 h-8 rounded-full mr-2">
+                            <div>
+                                <div class="font-bold">${escapeHtml(comment.user_name)}</div>
+                                <div class="text-xs opacity-50">${formatTimestamp(comment.created_at)}</div>
+                            </div>
+                        </div>
+                        <div class="flex gap-2">
+                            ${canEdit ? `
+                                <button onclick="editComment('${comment.id}', \`${escapeHtml(comment.comment).replace(/`/g, '\\`')}\`)"
+                                        class="text-blue-600 hover:text-blue-800 text-sm">
+                                    <i class="fas fa-edit"></i> Edit
+                                </button>
+                            ` : ''}
+                            ${canDelete ? `
+                                <button onclick="deleteComment('${comment.id}')"
+                                        class="text-red-600 hover:text-red-800 text-sm">
+                                    <i class="fas fa-trash"></i> Delete
+                                </button>
+                            ` : ''}
+                        </div>
+                    </div>
+                    <div class="comment-text whitespace-pre-wrap">${escapeHtml(comment.comment)}</div>
+                    <div class="comment-editor hidden">
+                        <textarea class="w-full p-2 border-2 border-[#d4773e] rounded min-h-[100px] mb-2">${escapeHtml(comment.comment)}</textarea>
+                        <div class="flex gap-2">
+                            <button onclick="saveCommentEdit('${comment.id}')"
+                                    class="bg-[#d4773e] hover:bg-[#bf6535] text-white px-4 py-2 rounded">
+                                <i class="fas fa-save"></i> Save
+                            </button>
+                            <button onclick="cancelCommentEdit('${comment.id}')"
+                                    class="bg-gray-400 hover:bg-gray-500 text-white px-4 py-2 rounded">
+                                Cancel
+                            </button>
+                        </div>
                     </div>
                 </div>
-                <div class="whitespace-pre-wrap">${escapeHtml(comment.comment)}</div>
-            </div>
-        `).join('');
+            `;
+        }).join('');
     } catch (error) {
         console.error('Error loading comments:', error);
         commentsList.innerHTML = `
@@ -331,3 +369,86 @@ function formatTimestamp(timestamp) {
         day: 'numeric'
     });
 }
+
+// Edit comment
+window.editComment = function(commentId) {
+    const commentDiv = document.querySelector(`[data-comment-id="${commentId}"]`);
+    if (!commentDiv) return;
+
+    const commentText = commentDiv.querySelector('.comment-text');
+    const commentEditor = commentDiv.querySelector('.comment-editor');
+
+    if (commentText && commentEditor) {
+        commentText.classList.add('hidden');
+        commentEditor.classList.remove('hidden');
+    }
+};
+
+// Cancel comment edit
+window.cancelCommentEdit = function(commentId) {
+    const commentDiv = document.querySelector(`[data-comment-id="${commentId}"]`);
+    if (!commentDiv) return;
+
+    const commentText = commentDiv.querySelector('.comment-text');
+    const commentEditor = commentDiv.querySelector('.comment-editor');
+
+    if (commentText && commentEditor) {
+        commentText.classList.remove('hidden');
+        commentEditor.classList.add('hidden');
+    }
+};
+
+// Save comment edit
+window.saveCommentEdit = async function(commentId) {
+    if (!isAuthenticated()) {
+        alert('Please sign in to edit comments');
+        return;
+    }
+
+    const commentDiv = document.querySelector(`[data-comment-id="${commentId}"]`);
+    if (!commentDiv) return;
+
+    const textarea = commentDiv.querySelector('.comment-editor textarea');
+    if (!textarea) return;
+
+    const newComment = textarea.value.trim();
+    if (!newComment) {
+        alert('Comment cannot be empty');
+        return;
+    }
+
+    try {
+        await updateDoc(doc(db, 'concert_comments', commentId), {
+            comment: newComment,
+            updated_at: serverTimestamp()
+        });
+
+        // Reload comments
+        await loadComments();
+    } catch (error) {
+        console.error('Error updating comment:', error);
+        alert('Failed to update comment. Please try again.');
+    }
+};
+
+// Delete comment
+window.deleteComment = async function(commentId) {
+    if (!isAuthenticated()) {
+        alert('Please sign in to delete comments');
+        return;
+    }
+
+    if (!confirm('Are you sure you want to delete this comment?')) {
+        return;
+    }
+
+    try {
+        await deleteDoc(doc(db, 'concert_comments', commentId));
+
+        // Reload comments
+        await loadComments();
+    } catch (error) {
+        console.error('Error deleting comment:', error);
+        alert('Failed to delete comment. Please try again.');
+    }
+};

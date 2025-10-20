@@ -59,13 +59,16 @@ service cloud.firestore {
       // Authenticated users can create comments
       allow create: if isAuthenticated()
                     && request.resource.data.user_id == request.auth.uid
-                    && request.resource.data.user_name is string
-                    && request.resource.data.user_photo is string;
+                    && request.resource.data.user_name is string;
+                    // user_photo is optional (email/password users may not have one)
       // Users can only delete their own comments, or owner can delete any comment
       allow delete: if isAuthenticated()
                     && (resource.data.user_id == request.auth.uid || isOwner());
-      // Comments cannot be updated (no editing)
-      allow update: if false;
+      // Users can edit their own comments (only the comment text, not metadata)
+      allow update: if isAuthenticated()
+                    && resource.data.user_id == request.auth.uid
+                    && request.resource.data.user_id == resource.data.user_id
+                    && request.resource.data.concert_id == resource.data.concert_id;
     }
 
     // Pending setlist submissions - anyone can create, only owner can read/update/delete

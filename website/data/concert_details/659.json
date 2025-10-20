@@ -2,18 +2,14 @@
   "id": "659",
   "show_number": 658,
   "date": "2015-10-29",
-  "festival_name": "Multi-Artist Show",
+  "festival_name": null,
   "venue": "MVP Arena",
   "city": "Albany",
   "state": "NY",
   "artists": [
     {
-      "name": "The Dead",
-      "role": "festival_performer"
-    },
-    {
-      "name": "Company",
-      "role": "festival_performer"
+      "name": "Dead and Company",
+      "role": "headliner"
     }
   ],
   "setlistfm_url": "https://www.setlist.fm/setlist/53f5df5d.html",

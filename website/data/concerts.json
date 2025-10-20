@@ -656,7 +656,7 @@
     "venue": "Play Group Theatre",
     "city": "White Plains",
     "state": "NY",
-    "artists": "Beatles",
+    "artists": "Beatles Tribute",
     "hasSetlist": false
   },
   {
@@ -734,7 +734,7 @@
     "city": "Port Chester",
     "state": "NY",
     "artists": "Stella Blue's Band (acoustic)",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1209",
@@ -766,8 +766,8 @@
     "venue": "Forest Hills Stadium",
     "city": "Forest Hills",
     "state": "NY",
-    "artists": "Stugill Simpson",
-    "hasSetlist": false
+    "artists": "Sturgill Simpson",
+    "hasSetlist": true
   },
   {
     "id": "1206",
@@ -1136,33 +1136,33 @@
     "id": "1173",
     "show_number": 1172,
     "date": "2024-06-15",
-    "festival_name": "Multi-Artist Show",
+    "festival_name": null,
     "venue": "Sphere",
     "city": "Las Vegas",
     "state": "NV",
-    "artists": "The Dead, Company",
+    "artists": "Dead and Company",
     "hasSetlist": true
   },
   {
     "id": "1172",
     "show_number": 1171,
     "date": "2024-06-14",
-    "festival_name": "Multi-Artist Show",
+    "festival_name": null,
     "venue": "Sphere",
     "city": "Las Vegas",
     "state": "NV",
-    "artists": "The Dead, Company",
+    "artists": "Dead and Company",
     "hasSetlist": true
   },
   {
     "id": "1171",
     "show_number": 1170,
     "date": "2024-06-13",
-    "festival_name": "Multi-Artist Show",
+    "festival_name": null,
     "venue": "Sphere",
     "city": "Las Vegas",
     "state": "NV",
-    "artists": "The Dead, Company",
+    "artists": "Dead and Company",
     "hasSetlist": true
   },
   {
@@ -2005,22 +2005,22 @@
     "id": "1094",
     "show_number": 1093,
     "date": "2023-06-22",
-    "festival_name": "Multi-Artist Show",
+    "festival_name": null,
     "venue": "Citi Field",
     "city": "Queens",
     "state": "NY",
-    "artists": "The Dead, Company",
+    "artists": "Dead and Company",
     "hasSetlist": true
   },
   {
     "id": "1093",
     "show_number": 1092,
     "date": "2023-06-21",
-    "festival_name": "Multi-Artist Show",
+    "festival_name": null,
     "venue": "Citi Field",
     "city": "Queens",
     "state": "NY",
-    "artists": "The Dead, Company",
+    "artists": "Dead and Company",
     "hasSetlist": true
   },
   {
@@ -3237,11 +3237,11 @@
     "id": "982",
     "show_number": 981,
     "date": "2021-08-20",
-    "festival_name": "Multi-Artist Show",
+    "festival_name": null,
     "venue": "Citi Field",
     "city": "Queens",
     "state": "NY",
-    "artists": "The Dead, Company",
+    "artists": "Dead and Company",
     "hasSetlist": true
   },
   {
@@ -3523,11 +3523,11 @@
     "id": "957",
     "show_number": 956,
     "date": "2019-11-05",
-    "festival_name": "Multi-Artist Show",
+    "festival_name": null,
     "venue": "Nassau Coliseum",
     "city": "Uniondale",
     "state": "NY",
-    "artists": "The Dead, Company",
+    "artists": "Dead and Company",
     "hasSetlist": true
   },
   {
@@ -3567,11 +3567,11 @@
     "id": "953",
     "show_number": 952,
     "date": "2019-10-31",
-    "festival_name": "Multi-Artist Show",
+    "festival_name": null,
     "venue": "Madison Square Garden",
     "city": "New York",
     "state": "NY",
-    "artists": "The Dead, Company",
+    "artists": "Dead and Company",
     "hasSetlist": true
   },
   {
@@ -3952,11 +3952,11 @@
     "id": "918",
     "show_number": 917,
     "date": "2019-06-23",
-    "festival_name": "Multi-Artist Show",
+    "festival_name": null,
     "venue": "Citi Field",
     "city": "Queens",
     "state": "NY",
-    "artists": "The Dead, Company",
+    "artists": "Dead and Company",
     "hasSetlist": true
   },
   {
@@ -4876,22 +4876,22 @@
     "id": "834",
     "show_number": 833,
     "date": "2018-06-16",
-    "festival_name": "Multi-Artist Show",
+    "festival_name": null,
     "venue": "Citi Field",
     "city": "Queens",
     "state": "NY",
-    "artists": "The Dead, Company",
+    "artists": "Dead and Company",
     "hasSetlist": true
   },
   {
     "id": "833",
     "show_number": 832,
     "date": "2018-06-15",
-    "festival_name": "Multi-Artist Show",
+    "festival_name": null,
     "venue": "Citi Field",
     "city": "Queens",
     "state": "NY",
-    "artists": "The Dead, Company",
+    "artists": "Dead and Company",
     "hasSetlist": true
   },
   {
@@ -5272,11 +5272,11 @@
     "id": "798",
     "show_number": 797,
     "date": "2017-11-14",
-    "festival_name": "Multi-Artist Show",
+    "festival_name": null,
     "venue": "Madison Square Garden",
     "city": "New York",
     "state": "NY",
-    "artists": "The Dead, Company",
+    "artists": "Dead and Company",
     "hasSetlist": true
   },
   {
@@ -5668,11 +5668,11 @@
     "id": "762",
     "show_number": 761,
     "date": "2017-06-24",
-    "festival_name": "Multi-Artist Show",
+    "festival_name": null,
     "venue": "Citi Field",
     "city": "Queens",
     "state": "NY",
-    "artists": "The Dead, Company",
+    "artists": "Dead and Company",
     "hasSetlist": true
   },
   {
@@ -6328,22 +6328,22 @@
     "id": "702",
     "show_number": 701,
     "date": "2016-06-26",
-    "festival_name": "Multi-Artist Show",
+    "festival_name": null,
     "venue": "Citi Field",
     "city": "Queens",
     "state": "NY",
-    "artists": "The Dead, Company",
+    "artists": "Dead and Company",
     "hasSetlist": true
   },
   {
     "id": "701",
     "show_number": 700,
     "date": "2016-06-25",
-    "festival_name": "Multi-Artist Show",
+    "festival_name": null,
     "venue": "Citi Field",
     "city": "Queens",
     "state": "NY",
-    "artists": "The Dead, Company",
+    "artists": "Dead and Company",
     "hasSetlist": true
   },
   {
@@ -6801,22 +6801,22 @@
     "id": "660",
     "show_number": 659,
     "date": "2015-11-01",
-    "festival_name": "Multi-Artist Show",
+    "festival_name": null,
     "venue": "Madison Square Garden",
     "city": "New York",
     "state": "NY",
-    "artists": "The Dead, Company",
+    "artists": "Dead and Company",
     "hasSetlist": true
   },
   {
     "id": "659",
     "show_number": 658,
     "date": "2015-10-29",
-    "festival_name": "Multi-Artist Show",
+    "festival_name": null,
     "venue": "MVP Arena",
     "city": "Albany",
     "state": "NY",
-    "artists": "The Dead, Company",
+    "artists": "Dead and Company",
     "hasSetlist": true
   },
   {
@@ -8209,10 +8209,10 @@
     "id": "532",
     "show_number": 531,
     "date": "2013-01-20",
-    "festival_name": "Netwon Benefit",
-    "venue": "",
-    "city": "",
-    "state": "",
+    "festival_name": "Newtown Benefit",
+    "venue": "NA",
+    "city": "Newtown",
+    "state": "CT",
     "artists": "Bernie Williams, Ed Kawalczyk, Johhny Winter, Southside Johnny, Richie Scarlett",
     "hasSetlist": false
   },

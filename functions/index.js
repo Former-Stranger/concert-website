@@ -474,6 +474,199 @@ exports.onPhotoDelete = functions.firestore
     }
   });
 
+// Send welcome email when a new user signs up
+exports.sendWelcomeEmail = functions.auth.user().onCreate(async (user) => {
+  const email = user.email;
+  const displayName = user.displayName || 'Music Fan';
+
+  console.log(`New user created: ${email} (${user.uid})`);
+
+  if (!email) {
+    console.log('User has no email address, skipping welcome email');
+    return null;
+  }
+
+  try {
+    const resendKey = functions.config().resend?.key;
+    if (!resendKey) {
+      console.error('Resend not configured');
+      return null;
+    }
+
+    const { Resend } = require('resend');
+    const resend = new Resend(resendKey);
+
+    await resend.emails.send({
+      from: 'Earplugs & Memories <noreply@earplugsandmemories.com>',
+      to: email,
+      subject: 'Welcome to Earplugs & Memories! 🎵',
+      html: `
+        <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px;">
+          <h1 style="color: #d4773e; border-bottom: 3px solid #d4773e; padding-bottom: 10px;">
+            Welcome to Earplugs & Memories!
+          </h1>
+          <p>Hi ${displayName},</p>
+          <p>Thanks for joining our concert archive community! We're excited to have you here.</p>
+          <h2 style="color: #2d1b1b; margin-top: 30px;">What You Can Do:</h2>
+          <ul style="line-height: 1.8;">
+            <li>📸 <strong>Upload Photos</strong> - Share your concert photos with the community</li>
+            <li>🎼 <strong>Submit Setlists</strong> - Help complete the archive by submitting setlist.fm links</li>
+            <li>💬 <strong>Add Comments</strong> - Share your memories and experiences</li>
+            <li>📊 <strong>Explore Stats</strong> - Browse 35+ years of concert history</li>
+          </ul>
+          <div style="background-color: #f5f5f5; padding: 15px; border-left: 4px solid #d4773e; margin: 30px 0;">
+            <p style="margin: 0;"><strong>Ready to explore?</strong></p>
+            <p style="margin: 10px 0 0 0;">
+              <a href="https://earplugsandmemories.com"
+                 style="display: inline-block; background-color: #d4773e; color: white;
+                        padding: 12px 25px; text-decoration: none; border-radius: 5px;
+                        font-weight: bold; margin-top: 10px;">
+                Visit Earplugs & Memories
+              </a>
+            </p>
+          </div>
+          <p style="color: #666; font-size: 14px; margin-top: 40px; padding-top: 20px; border-top: 1px solid #ddd;">
+            Questions or feedback? Feel free to reach out anytime.<br>
+            <em>- The Earplugs & Memories Team</em>
+          </p>
+        </div>
+      `,
+      text: `Welcome to Earplugs & Memories!\n\nHi ${displayName},\n\nThanks for joining our concert archive community!\n\nWhat You Can Do:\n- Upload Photos\n- Submit Setlists\n- Add Comments\n- Explore Stats\n\nVisit us at: https://earplugsandmemories.com`
+    });
+
+    console.log(`Welcome email sent to ${email}`);
+    return null;
+  } catch (error) {
+    console.error(`Error sending welcome email:`, error);
+    return null;
+  }
+});
+
+// Notify when someone uploads a photo
+exports.notifyPhotoUpload = functions.firestore
+  .document('concert_photos/{photoId}')
+  .onCreate(async (snap, context) => {
+    const photoData = snap.data();
+    const photoId = context.params.photoId;
+
+    console.log(`New photo uploaded: ${photoId} by ${photoData.user_name}`);
+
+    try {
+      const resendKey = functions.config().resend?.key;
+      const notifyEmail = functions.config().notify?.email;
+
+      if (!resendKey || !notifyEmail) {
+        console.error('Resend or notification email not configured');
+        return null;
+      }
+
+      const { Resend } = require('resend');
+      const resend = new Resend(resendKey);
+
+      // Get concert details
+      const db = admin.firestore();
+      const concertRef = db.collection('concerts').doc(photoData.concert_id);
+      const concertSnap = await concertRef.get();
+      const concertData = concertSnap.data();
+
+      const concertTitle = concertData
+        ? `${concertData.artists?.[0]?.artist_name || 'Concert'} - ${concertData.date}`
+        : `Concert #${photoData.concert_id}`;
+
+      await resend.emails.send({
+        from: 'Earplugs & Memories <noreply@earplugsandmemories.com>',
+        to: notifyEmail,
+        subject: `📸 New Photo: ${concertTitle}`,
+        html: `
+          <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px;">
+            <h2 style="color: #d4773e;">📸 New Photo Uploaded!</h2>
+            <p><strong>${photoData.user_name}</strong> just uploaded a photo.</p>
+            <div style="background-color: #f5f5f5; padding: 15px; margin: 20px 0; border-left: 4px solid #d4773e;">
+              <p style="margin: 0;"><strong>Concert:</strong> ${concertTitle}</p>
+              ${photoData.caption ? `<p style="margin: 10px 0 0 0;"><strong>Caption:</strong> ${photoData.caption}</p>` : ''}
+            </div>
+            <p>
+              <a href="https://earplugsandmemories.com/concert.html?id=${photoData.concert_id}"
+                 style="display: inline-block; background-color: #d4773e; color: white;
+                        padding: 10px 20px; text-decoration: none; border-radius: 5px;">
+                View Photo
+              </a>
+            </p>
+          </div>
+        `,
+        text: `New Photo Uploaded!\n\n${photoData.user_name} uploaded a photo to ${concertTitle}.\n${photoData.caption ? `\nCaption: ${photoData.caption}` : ''}\n\nView at: https://earplugsandmemories.com/concert.html?id=${photoData.concert_id}`
+      });
+
+      console.log(`Photo notification sent to ${notifyEmail}`);
+      return null;
+    } catch (error) {
+      console.error(`Error sending photo notification:`, error);
+      return null;
+    }
+  });
+
+// Notify when someone adds a comment
+exports.notifyComment = functions.firestore
+  .document('concert_comments/{commentId}')
+  .onCreate(async (snap, context) => {
+    const commentData = snap.data();
+    const commentId = context.params.commentId;
+
+    console.log(`New comment by ${commentData.user_name}`);
+
+    try {
+      const resendKey = functions.config().resend?.key;
+      const notifyEmail = functions.config().notify?.email;
+
+      if (!resendKey || !notifyEmail) {
+        console.error('Resend or notification email not configured');
+        return null;
+      }
+
+      const { Resend } = require('resend');
+      const resend = new Resend(resendKey);
+
+      // Get concert details
+      const db = admin.firestore();
+      const concertRef = db.collection('concerts').doc(commentData.concert_id);
+      const concertSnap = await concertRef.get();
+      const concertData = concertSnap.data();
+
+      const concertTitle = concertData
+        ? `${concertData.artists?.[0]?.artist_name || 'Concert'} - ${concertData.date}`
+        : `Concert #${commentData.concert_id}`;
+
+      await resend.emails.send({
+        from: 'Earplugs & Memories <noreply@earplugsandmemories.com>',
+        to: notifyEmail,
+        subject: `💬 New Comment: ${concertTitle}`,
+        html: `
+          <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px;">
+            <h2 style="color: #d4773e;">💬 New Comment Posted!</h2>
+            <p><strong>${commentData.user_name}</strong> commented on ${concertTitle}.</p>
+            <div style="background-color: #f5f5f5; padding: 15px; margin: 20px 0; border-left: 4px solid #d4773e;">
+              <p style="margin: 0; font-style: italic;">"${commentData.comment}"</p>
+            </div>
+            <p>
+              <a href="https://earplugsandmemories.com/concert.html?id=${commentData.concert_id}"
+                 style="display: inline-block; background-color: #d4773e; color: white;
+                        padding: 10px 20px; text-decoration: none; border-radius: 5px;">
+                View Comment
+              </a>
+            </p>
+          </div>
+        `,
+        text: `New Comment Posted!\n\n${commentData.user_name} commented on ${concertTitle}:\n\n"${commentData.comment}"\n\nView at: https://earplugsandmemories.com/concert.html?id=${commentData.concert_id}`
+      });
+
+      console.log(`Comment notification sent to ${notifyEmail}`);
+      return null;
+    } catch (error) {
+      console.error(`Error sending comment notification:`, error);
+      return null;
+    }
+  });
+
 // Helper function to trigger GitHub Actions deployment
 async function triggerGitHubDeployment(entityId, eventType) {
   try {

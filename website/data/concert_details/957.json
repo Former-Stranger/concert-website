@@ -2,18 +2,14 @@
   "id": "957",
   "show_number": 956,
   "date": "2019-11-05",
-  "festival_name": "Multi-Artist Show",
+  "festival_name": null,
   "venue": "Nassau Coliseum",
   "city": "Uniondale",
   "state": "NY",
   "artists": [
     {
-      "name": "The Dead",
-      "role": "festival_performer"
-    },
-    {
-      "name": "Company",
-      "role": "festival_performer"
+      "name": "Dead and Company",
+      "role": "headliner"
     }
   ],
   "setlistfm_url": "https://www.setlist.fm/setlist/3b9d7804.html",

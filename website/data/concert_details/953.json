@@ -2,18 +2,14 @@
   "id": "953",
   "show_number": 952,
   "date": "2019-10-31",
-  "festival_name": "Multi-Artist Show",
+  "festival_name": null,
   "venue": "Madison Square Garden",
   "city": "New York",
   "state": "NY",
   "artists": [
     {
-      "name": "The Dead",
-      "role": "festival_performer"
-    },
-    {
-      "name": "Company",
-      "role": "festival_performer"
+      "name": "Dead and Company",
+      "role": "headliner"
     }
   ],
   "setlistfm_url": "https://www.setlist.fm/setlist/6b9d22d6.html",

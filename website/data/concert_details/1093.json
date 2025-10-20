@@ -2,18 +2,14 @@
   "id": "1093",
   "show_number": 1092,
   "date": "2023-06-21",
-  "festival_name": "Multi-Artist Show",
+  "festival_name": null,
   "venue": "Citi Field",
   "city": "Queens",
   "state": "NY",
   "artists": [
     {
-      "name": "The Dead",
-      "role": "festival_performer"
-    },
-    {
-      "name": "Company",
-      "role": "festival_performer"
+      "name": "Dead and Company",
+      "role": "headliner"
     }
   ],
   "setlistfm_url": "https://www.setlist.fm/setlist/33a67c49.html",

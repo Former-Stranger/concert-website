@@ -2,18 +2,14 @@
   "id": "982",
   "show_number": 981,
   "date": "2021-08-20",
-  "festival_name": "Multi-Artist Show",
+  "festival_name": null,
   "venue": "Citi Field",
   "city": "Queens",
   "state": "NY",
   "artists": [
     {
-      "name": "The Dead",
-      "role": "festival_performer"
-    },
-    {
-      "name": "Company",
-      "role": "festival_performer"
+      "name": "Dead and Company",
+      "role": "headliner"
     }
   ],
   "setlistfm_url": "https://www.setlist.fm/setlist/b8c91ea.html",

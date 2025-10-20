@@ -16,6 +16,8 @@ A complete photo upload feature has been implemented for the concert archive web
 - ✅ Optional photo captions
 - ✅ Upload progress indicator
 - ✅ Photo metadata export to static site
+- ✅ Email notifications to admin on upload
+- ✅ Automatic deployment on upload/delete
 
 ### Architecture
 
@@ -312,8 +314,8 @@ Use this checklist to verify the feature works correctly:
 ### Medium Priority
 1. **Photo tagging**: Tag people or moments in photos
 2. **Photo search**: Search photos by caption or tags
-3. **Automatic deployment**: Trigger deploy when photo uploaded
-4. **Photo moderation**: Review photos before public display
+3. **Photo moderation**: Review photos before public display
+4. **Photo editing**: Allow rotation, crop, filters after upload
 
 ### Low Priority
 1. **Photo albums**: Group related photos together

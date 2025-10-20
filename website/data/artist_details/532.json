@@ -2,7 +2,48 @@
   "id": "532",
   "name": "Stella Blue's Band (acoustic)",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Deep Elem Blues",
+      "times_played": 1
+    },
+    {
+      "name": "Unbroken Chain",
+      "times_played": 1
+    },
+    {
+      "name": "Dark Hollow",
+      "times_played": 1
+    },
+    {
+      "name": "Deal",
+      "times_played": 1
+    },
+    {
+      "name": "Broken Arrow",
+      "times_played": 1
+    },
+    {
+      "name": "Me and Bobby McGee",
+      "times_played": 1
+    },
+    {
+      "name": "Box of Rain",
+      "times_played": 1
+    },
+    {
+      "name": "Going Down the Road Feeling Bad",
+      "times_played": 1
+    },
+    {
+      "name": "And We Bid You Goodnight",
+      "times_played": 1
+    },
+    {
+      "name": "Ripple",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1210",

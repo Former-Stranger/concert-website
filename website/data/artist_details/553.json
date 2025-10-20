@@ -1,50 +1,59 @@
 {
   "id": "553",
   "name": "Sturgill Simpson",
-  "concert_count": 1,
+  "concert_count": 2,
   "top_songs": [
     {
-      "name": "Welcome to Earth (Pollywog)",
-      "times_played": 1
-    },
-    {
-      "name": "It Ain't All Flowers",
-      "times_played": 1
-    },
-    {
-      "name": "Breakers Roar",
-      "times_played": 1
-    },
-    {
-      "name": "I'd Have to Be Crazy",
-      "times_played": 1
-    },
-    {
-      "name": "Some Days",
-      "times_played": 1
-    },
-    {
-      "name": "Turtles All the Way Down",
-      "times_played": 1
-    },
-    {
-      "name": "Keep It Between the Lines",
-      "times_played": 1
+      "name": "Brace for Impact (Live a Little)",
+      "times_played": 2
     },
     {
       "name": "You Don't Miss Your Water",
-      "times_played": 1
+      "times_played": 2
     },
     {
-      "name": "Brace for Impact (Live a Little)",
-      "times_played": 1
+      "name": "Long White Line",
+      "times_played": 2
+    },
+    {
+      "name": "Some Days",
+      "times_played": 2
+    },
+    {
+      "name": "Turtles All the Way Down",
+      "times_played": 2
     },
     {
       "name": "All Around You",
-      "times_played": 1
+      "times_played": 2
+    },
+    {
+      "name": "Living the Dream",
+      "times_played": 2
+    },
+    {
+      "name": "Welcome to Earth (Pollywog)",
+      "times_played": 2
+    },
+    {
+      "name": "It Ain't All Flowers",
+      "times_played": 2
+    },
+    {
+      "name": "Life of Sin",
+      "times_played": 2
     }
   ],
   "concerts": [
+    {
+      "id": "1207",
+      "show_number": 1206,
+      "date": "2024-10-19",
+      "festival_name": null,
+      "venue": "Forest Hills Stadium",
+      "city": "Forest Hills",
+      "state": "NY"
+    },
     {
       "id": "784",
       "show_number": 783,
