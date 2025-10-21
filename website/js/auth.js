@@ -24,9 +24,17 @@ function initAuth(onAuthReady) {
     // Check for email link sign-in on page load
     completeEmailLinkSignIn();
 
-    onAuthStateChanged(auth, (user) => {
+    onAuthStateChanged(auth, async (user) => {
         currentUser = user;
         updateAuthUI();
+
+        // Check if authenticated user needs to set display name
+        if (user && !user.displayName) {
+            // Prompt for display name, but don't await here to avoid blocking auth state
+            promptForDisplayName(user).catch(error => {
+                console.error('Error prompting for display name:', error);
+            });
+        }
 
         // Subscribe to pending setlists count if user is owner
         if (user && isOwner()) {
@@ -87,10 +95,13 @@ async function signUpWithEmail(email, password, displayName) {
         const result = await createUserWithEmailAndPassword(auth, email, password);
 
         // Update the user's profile with display name
-        if (displayName) {
+        if (displayName && displayName.trim()) {
             await updateProfile(result.user, {
-                displayName: displayName
+                displayName: displayName.trim()
             });
+        } else {
+            // Prompt for display name if not provided
+            await promptForDisplayName(result.user);
         }
 
         console.log('Signed up with email:', result.user.email);
@@ -185,6 +196,11 @@ async function completeEmailLinkSignIn() {
             // Clean up the URL
             window.history.replaceState({}, document.title, window.location.pathname);
 
+            // Prompt for display name if not set
+            if (!result.user.displayName) {
+                await promptForDisplayName(result.user);
+            }
+
             return result.user;
         } catch (error) {
             console.error('Error signing in with email link:', error);
@@ -193,6 +209,58 @@ async function completeEmailLinkSignIn() {
         }
     }
     return null;
+}
+
+// Prompt user to set their display name
+async function promptForDisplayName(user) {
+    // Create modal
+    const modal = document.createElement('div');
+    modal.id = 'display-name-modal';
+    modal.className = 'fixed inset-0 bg-black bg-opacity-50 z-50 flex items-center justify-center p-4';
+
+    modal.innerHTML = `
+        <div class="bg-white rounded-lg p-8 max-w-md w-full shadow-2xl">
+            <h2 class="text-2xl font-bold text-[#2d1b1b] mb-4">Welcome!</h2>
+            <p class="text-gray-600 mb-6">Please tell us your name so others can identify you when you post photos or comments.</p>
+
+            <form id="display-name-form" class="space-y-4">
+                <div>
+                    <label for="user-display-name" class="block text-sm font-medium text-gray-700 mb-1">Your Name</label>
+                    <input type="text" id="user-display-name" required
+                           class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#d4773e] text-gray-900"
+                           placeholder="Enter your name">
+                </div>
+
+                <button type="submit"
+                        class="w-full bg-[#d4773e] hover:bg-[#bf6535] text-white font-semibold py-3 px-4 rounded-lg transition">
+                    Continue
+                </button>
+            </form>
+        </div>
+    `;
+
+    document.body.appendChild(modal);
+
+    // Handle form submission
+    return new Promise((resolve) => {
+        const form = document.getElementById('display-name-form');
+        form.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const displayName = document.getElementById('user-display-name').value.trim();
+
+            if (displayName) {
+                try {
+                    await updateProfile(user, { displayName: displayName });
+                    console.log('Display name set to:', displayName);
+                    modal.remove();
+                    resolve(displayName);
+                } catch (error) {
+                    console.error('Error setting display name:', error);
+                    alert('Failed to set display name. Please try again.');
+                }
+            }
+        });
+    });
 }
 
 // Sign out
@@ -319,7 +387,9 @@ function showSignInModal() {
             <form id="email-auth-form" class="space-y-4">
                 <!-- Display Name (only for sign up) -->
                 <div id="display-name-field" style="display: none;">
-                    <label for="display-name" class="block text-sm font-medium text-gray-700 mb-1">Display Name</label>
+                    <label for="display-name" class="block text-sm font-medium text-gray-700 mb-1">
+                        Display Name <span class="text-xs text-gray-500">(shown on photos & comments)</span>
+                    </label>
                     <input type="text" id="display-name"
                            class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#2d1b1b] text-gray-900"
                            placeholder="Enter your name">
