@@ -146,14 +146,17 @@ async function signInWithEmail(email, password) {
 // Send email sign-in link (passwordless)
 async function sendEmailSignInLink(email) {
     try {
+        // Encode email in URL so we can retrieve it even on different devices
+        const urlWithEmail = `${window.location.origin}${window.location.pathname}?email=${encodeURIComponent(email)}`;
+
         const actionCodeSettings = {
-            url: window.location.origin + window.location.pathname,
+            url: urlWithEmail,
             handleCodeInApp: true,
         };
 
         await sendSignInLinkToEmail(auth, email, actionCodeSettings);
 
-        // Save the email locally so we can complete sign-in
+        // Save the email locally as backup
         window.localStorage.setItem('emailForSignIn', email);
 
         console.log('Sign-in link sent to:', email);
@@ -176,14 +179,21 @@ async function sendEmailSignInLink(email) {
 // Complete email link sign-in
 async function completeEmailLinkSignIn() {
     if (isSignInWithEmailLink(auth, window.location.href)) {
-        let email = window.localStorage.getItem('emailForSignIn');
+        // Try to get email from multiple sources
+        let email = null;
 
+        // 1. Check URL parameters (works across devices)
+        const urlParams = new URLSearchParams(window.location.search);
+        email = urlParams.get('email');
+
+        // 2. Fallback to localStorage (same device)
         if (!email) {
-            // User opened link on different device, ask for email
-            email = window.prompt('Please provide your email for confirmation');
+            email = window.localStorage.getItem('emailForSignIn');
         }
 
         if (!email) {
+            console.error('Could not retrieve email for sign-in');
+            alert('Unable to complete sign-in. Please try requesting a new link.');
             return null;
         }
 
@@ -192,7 +202,7 @@ async function completeEmailLinkSignIn() {
             window.localStorage.removeItem('emailForSignIn');
             console.log('Successfully signed in with email link:', result.user.email);
 
-            // Clean up the URL
+            // Clean up the URL (remove email parameter and Firebase auth parameters)
             window.history.replaceState({}, document.title, window.location.pathname);
 
             // Note: Display name prompt will be handled by onAuthStateChanged listener
