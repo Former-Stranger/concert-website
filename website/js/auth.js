@@ -7,6 +7,7 @@ import { collection, query, where, onSnapshot } from 'https://www.gstatic.com/fi
 let currentUser = null;
 let pendingSetlistsCount = 0;
 let unsubscribePendingCount = null;
+let isPromptingForDisplayName = false;
 
 // Owner UID - set to the owner's Firebase Auth UID
 const OWNER_UID = 'jBa71VgYp0Qz782bawa4SgjHu1l1';
@@ -94,15 +95,13 @@ async function signUpWithEmail(email, password, displayName) {
     try {
         const result = await createUserWithEmailAndPassword(auth, email, password);
 
-        // Update the user's profile with display name
+        // Update the user's profile with display name if provided
         if (displayName && displayName.trim()) {
             await updateProfile(result.user, {
                 displayName: displayName.trim()
             });
-        } else {
-            // Prompt for display name if not provided
-            await promptForDisplayName(result.user);
         }
+        // Note: If no display name provided, onAuthStateChanged listener will prompt
 
         console.log('Signed up with email:', result.user.email);
         return result.user;
@@ -196,11 +195,7 @@ async function completeEmailLinkSignIn() {
             // Clean up the URL
             window.history.replaceState({}, document.title, window.location.pathname);
 
-            // Prompt for display name if not set
-            if (!result.user.displayName) {
-                await promptForDisplayName(result.user);
-            }
-
+            // Note: Display name prompt will be handled by onAuthStateChanged listener
             return result.user;
         } catch (error) {
             console.error('Error signing in with email link:', error);
@@ -213,6 +208,18 @@ async function completeEmailLinkSignIn() {
 
 // Prompt user to set their display name
 async function promptForDisplayName(user) {
+    // Prevent duplicate prompts
+    if (isPromptingForDisplayName) {
+        return null;
+    }
+
+    // Check if modal already exists
+    if (document.getElementById('display-name-modal')) {
+        return null;
+    }
+
+    isPromptingForDisplayName = true;
+
     // Create modal
     const modal = document.createElement('div');
     modal.id = 'display-name-modal';
@@ -253,10 +260,12 @@ async function promptForDisplayName(user) {
                     await updateProfile(user, { displayName: displayName });
                     console.log('Display name set to:', displayName);
                     modal.remove();
+                    isPromptingForDisplayName = false;
                     resolve(displayName);
                 } catch (error) {
                     console.error('Error setting display name:', error);
                     alert('Failed to set display name. Please try again.');
+                    isPromptingForDisplayName = false;
                 }
             }
         });
