@@ -393,7 +393,7 @@ Or:
 
 A list of all registered users with:
 - Email address
-- How they signed up (Google, Facebook, Email/Password)
+- How they signed up (Google, Email/Password)
 - When they created their account
 - Last sign-in time
 - User ID (UID)

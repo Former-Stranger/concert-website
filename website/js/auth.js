@@ -1,5 +1,5 @@
 // Authentication module
-import { auth, googleProvider, facebookProvider, signInWithPopup, signOut, onAuthStateChanged, createUserWithEmailAndPassword, signInWithEmailAndPassword, updateProfile } from './firebase-config.js';
+import { auth, googleProvider, signInWithPopup, signOut, onAuthStateChanged, createUserWithEmailAndPassword, signInWithEmailAndPassword, updateProfile } from './firebase-config.js';
 import { db } from './firebase-config.js';
 import { collection, query, where, onSnapshot } from 'https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js';
 
@@ -74,19 +74,6 @@ async function signInWithGoogle() {
     } catch (error) {
         console.error('Error signing in with Google:', error);
         alert('Failed to sign in with Google. Please try again.');
-        return null;
-    }
-}
-
-// Sign in with Facebook
-async function signInWithFacebook() {
-    try {
-        const result = await signInWithPopup(auth, facebookProvider);
-        console.log('Signed in with Facebook:', result.user.displayName);
-        return result.user;
-    } catch (error) {
-        console.error('Error signing in with Facebook:', error);
-        alert('Failed to sign in with Facebook. Please try again.');
         return null;
     }
 }
@@ -254,13 +241,6 @@ function showSignInModal() {
                     </svg>
                     Continue with Google
                 </button>
-
-                <!-- Facebook Sign In -->
-                <button id="facebook-sign-in-btn"
-                        class="w-full flex items-center justify-center gap-3 bg-[#1877F2] hover:bg-[#166FE5] text-white font-semibold py-3 px-4 rounded-lg transition">
-                    <i class="fab fa-facebook text-xl"></i>
-                    Continue with Facebook
-                </button>
             </div>
 
             <!-- Divider -->
@@ -325,13 +305,6 @@ function showSignInModal() {
     // Add event listeners to social buttons
     document.getElementById('google-sign-in-btn').addEventListener('click', async () => {
         const user = await signInWithGoogle();
-        if (user) {
-            modal.remove();
-        }
-    });
-
-    document.getElementById('facebook-sign-in-btn').addEventListener('click', async () => {
-        const user = await signInWithFacebook();
         if (user) {
             modal.remove();
         }
@@ -403,4 +376,4 @@ function isAuthenticated() {
 }
 
 // Export functions and auth instance
-export { initAuth, signInWithGoogle, signInWithFacebook, signUpWithEmail, signInWithEmail, signOutUser, getCurrentUser, isAuthenticated, isOwner, auth };
+export { initAuth, signInWithGoogle, signUpWithEmail, signInWithEmail, signOutUser, getCurrentUser, isAuthenticated, isOwner, auth };

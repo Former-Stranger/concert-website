@@ -29,7 +29,7 @@ Go directly to: https://console.firebase.google.com/project/earplugs-and-memorie
 
 In the Users tab, you'll see a list of all registered users with:
 - **Identifier**: Email address or phone number
-- **Providers**: How they signed up (Google, Facebook, Email/Password)
+- **Providers**: How they signed up (Google, Email/Password)
 - **Created**: When the account was created
 - **Signed In**: Last sign-in time
 - **User UID**: Unique identifier for each user
@@ -106,7 +106,7 @@ Use the search bar at the top to find users by:
    - **Phone number**: If provided
    - **Creation time**: When account was created
    - **Last sign-in**: Most recent login
-   - **Providers**: Sign-in methods linked (Google, Facebook, Email)
+   - **Providers**: Sign-in methods linked (Google, Email/Password)
 
 ---
 
