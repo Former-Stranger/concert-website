@@ -27,19 +27,29 @@ This guide will walk you through how to manage your concert archive website. Eve
 ### Step 1: Go to the Website
 Open your web browser and go to: **https://earplugsandmemories.com**
 
-### Step 2: Click "Sign In"
-Look in the top-right corner of the page. You'll see a "Sign In with Google" button.
+### Step 2: Choose Your Sign-In Method
+The site supports three ways to sign in:
 
-**What you'll see:**
-- An orange "Sign In with Google" button in the header
+**Option 1: Google Sign-In (Recommended for Owner)**
+- Click the "Sign In with Google" button in the header
+- Sign in with your Google account (the one that's been set up as the owner)
 
-### Step 3: Sign In with Google
-Click the button and sign in with your Google account (the one that's been set up as the owner).
+**Option 2: Email/Password**
+- Click "Sign In with Google" button, which opens authentication options
+- Enter your email address and password
+- Click "Sign In" or "Sign Up" to create a new account
+
+**Option 3: Email Link (Passwordless)**
+- Click "Sign In with Google" button to open authentication options
+- Enter your email address
+- Click "Or send me a magic link instead"
+- Check your email and click the link to sign in (no password needed!)
+- The link works on any device - just provide your email if opening on a different device
 
 **After signing in:**
 - The "Sign In" button will change to show your name and photo
-- You'll see new buttons appear throughout the site (like "Add Concert", "Edit", "Delete")
-- These buttons are only visible to you as the owner
+- As the owner, you'll see new buttons appear throughout the site (like "Add Concert", "Edit", "Delete")
+- These admin buttons are only visible to you as the owner
 
 ---
 
@@ -448,12 +458,18 @@ The website automatically sends email notifications for various activities.
 - From: noreply@earplugsandmemories.com
 - Contains: Welcome message, feature overview, link to site
 
-**2. Photo Upload Notifications** (To You)
+**2. Email Link Sign-In** (Automatic)
+- Sent when a user requests a "magic link" to sign in
+- From: Firebase Authentication (noreply@earplugs-and-memories.firebaseapp.com)
+- Contains: Sign-in link that works on any device
+- Note: These are sent by Firebase automatically, not through Resend
+
+**3. Photo Upload Notifications** (To You)
 - Sent to: akalbfell@gmail.com
 - When: Someone uploads a photo
 - Contains: Who uploaded, which concert, caption, link to view
 
-**3. Comment Notifications** (To You)
+**4. Comment Notifications** (To You)
 - Sent to: akalbfell@gmail.com
 - When: Someone posts a comment
 - Contains: Who commented, which concert, comment text, link to view

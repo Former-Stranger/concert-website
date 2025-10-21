@@ -7,7 +7,7 @@ A comprehensive web application for tracking and managing concert history, built
 This is a full-featured concert archive website that allows tracking 35+ years of concert history with features including:
 - Concert database with setlists, photos, and personal notes
 - Artist and venue tracking with statistics
-- User authentication with Google and Email/Password
+- User authentication with Google, Email/Password, and Email Link (passwordless)
 - Photo uploads with automatic deployment
 - Setlist submission workflow
 - Edit and delete functionality for concert data
@@ -25,7 +25,7 @@ This is a full-featured concert archive website that allows tracking 35+ years o
 
 ### Backend & Database
 - **Firebase Firestore** - NoSQL database for all concert data
-- **Firebase Authentication** - User authentication (Google, Email/Password)
+- **Firebase Authentication** - User authentication (Google, Email/Password, Email Link)
 - **Firebase Storage** - Photo storage with automatic resizing
 - **Firebase Hosting** - Static site hosting
 - **Firebase Cloud Functions** - Serverless functions for triggers

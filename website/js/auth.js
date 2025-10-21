@@ -1,5 +1,5 @@
 // Authentication module
-import { auth, googleProvider, signInWithPopup, signOut, onAuthStateChanged, createUserWithEmailAndPassword, signInWithEmailAndPassword, updateProfile } from './firebase-config.js';
+import { auth, googleProvider, signInWithPopup, signOut, onAuthStateChanged, createUserWithEmailAndPassword, signInWithEmailAndPassword, updateProfile, sendSignInLinkToEmail, isSignInWithEmailLink, signInWithEmailLink } from './firebase-config.js';
 import { db } from './firebase-config.js';
 import { collection, query, where, onSnapshot } from 'https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js';
 
@@ -20,6 +20,9 @@ function initAuth(onAuthReady) {
     if (onAuthReady && typeof onAuthReady === 'function') {
         authReadyCallbacks.push(onAuthReady);
     }
+
+    // Check for email link sign-in on page load
+    completeEmailLinkSignIn();
 
     onAuthStateChanged(auth, (user) => {
         currentUser = user;
@@ -128,6 +131,68 @@ async function signInWithEmail(email, password) {
         alert(errorMessage);
         return null;
     }
+}
+
+// Send email sign-in link (passwordless)
+async function sendEmailSignInLink(email) {
+    try {
+        const actionCodeSettings = {
+            url: window.location.origin + window.location.pathname,
+            handleCodeInApp: true,
+        };
+
+        await sendSignInLinkToEmail(auth, email, actionCodeSettings);
+
+        // Save the email locally so we can complete sign-in
+        window.localStorage.setItem('emailForSignIn', email);
+
+        console.log('Sign-in link sent to:', email);
+        return true;
+    } catch (error) {
+        console.error('Error sending sign-in link:', error);
+        let errorMessage = 'Failed to send sign-in link. Please try again.';
+
+        if (error.code === 'auth/invalid-email') {
+            errorMessage = 'Invalid email address.';
+        } else if (error.code === 'auth/quota-exceeded') {
+            errorMessage = 'Too many requests. Please try again later.';
+        }
+
+        alert(errorMessage);
+        return false;
+    }
+}
+
+// Complete email link sign-in
+async function completeEmailLinkSignIn() {
+    if (isSignInWithEmailLink(auth, window.location.href)) {
+        let email = window.localStorage.getItem('emailForSignIn');
+
+        if (!email) {
+            // User opened link on different device, ask for email
+            email = window.prompt('Please provide your email for confirmation');
+        }
+
+        if (!email) {
+            return null;
+        }
+
+        try {
+            const result = await signInWithEmailLink(auth, email, window.location.href);
+            window.localStorage.removeItem('emailForSignIn');
+            console.log('Successfully signed in with email link:', result.user.email);
+
+            // Clean up the URL
+            window.history.replaceState({}, document.title, window.location.pathname);
+
+            return result.user;
+        } catch (error) {
+            console.error('Error signing in with email link:', error);
+            alert('Failed to sign in with email link. Please try again.');
+            return null;
+        }
+    }
+    return null;
 }
 
 // Sign out
@@ -283,6 +348,13 @@ function showSignInModal() {
                 </button>
             </form>
 
+            <!-- Email Link Alternative -->
+            <div class="text-center mt-3">
+                <button id="email-link-sign-in-btn" class="text-sm text-[#d4773e] hover:text-[#bf6535] font-semibold">
+                    <i class="fas fa-magic mr-1"></i>Or send me a magic link instead
+                </button>
+            </div>
+
             <!-- Toggle between Sign In / Sign Up -->
             <p class="text-sm text-center mt-4">
                 <span id="toggle-text" class="text-gray-600">Don't have an account?</span>
@@ -307,6 +379,23 @@ function showSignInModal() {
         const user = await signInWithGoogle();
         if (user) {
             modal.remove();
+        }
+    });
+
+    // Email link sign-in
+    document.getElementById('email-link-sign-in-btn').addEventListener('click', async () => {
+        const email = document.getElementById('email').value;
+
+        if (!email) {
+            alert('Please enter your email address first');
+            document.getElementById('email').focus();
+            return;
+        }
+
+        const success = await sendEmailSignInLink(email);
+        if (success) {
+            modal.remove();
+            alert('Check your email! We sent you a magic link to sign in. Click the link in the email to complete sign-in.');
         }
     });
 
@@ -376,4 +465,4 @@ function isAuthenticated() {
 }
 
 // Export functions and auth instance
-export { initAuth, signInWithGoogle, signUpWithEmail, signInWithEmail, signOutUser, getCurrentUser, isAuthenticated, isOwner, auth };
+export { initAuth, signInWithGoogle, signUpWithEmail, signInWithEmail, sendEmailSignInLink, signOutUser, getCurrentUser, isAuthenticated, isOwner, auth };
