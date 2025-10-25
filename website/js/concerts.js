@@ -7,7 +7,8 @@ let concertDetails = new Map(); // Cache for concert details
 // Load concerts
 async function loadConcerts() {
     try {
-        const response = await fetch('data/concerts.json');
+        // Add cache-busting parameter to force fresh data
+        const response = await fetch(`data/concerts.json?v=${Date.now()}`);
         allConcerts = await response.json();
         filteredConcerts = [...allConcerts];
 

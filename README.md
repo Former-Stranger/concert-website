@@ -48,6 +48,9 @@ concert-website/
 │   └── package.json
 ├── scripts/
 │   ├── export_to_web.py           # Export Firestore → JSON
+│   ├── setup_admins.py            # Manage admin users
+│   ├── search_artists.py          # Search for artists in database
+│   ├── merge_phil_lesh_artists.py # Artist consolidation script
 │   ├── fix_*.py                    # Data correction scripts
 │   └── deploy.sh                   # Full deployment script
 ├── website/                        # Static website files
@@ -78,8 +81,11 @@ concert-website/
 │   ├── venues.html                 # Venues list
 │   ├── venue.html                  # Venue detail
 │   ├── songs.html                  # Songs list
+│   ├── help.html                   # Help & documentation
 │   ├── add-concert.html            # Add new concert
 │   ├── admin-setlists.html         # Pending setlists admin
+│   ├── privacy.html                # Privacy policy
+│   ├── data-deletion.html          # Data deletion requests
 │   └── favicon.svg                 # Site icon
 ├── firestore.rules                 # Firestore security rules
 ├── storage.rules                   # Storage security rules
@@ -119,9 +125,12 @@ concert-website/
 ### 5. Authentication & Permissions
 - **Google Sign-In** - OAuth authentication
 - **Email/Password Authentication** - Standard email/password signup and login
-- **Owner privileges** - Special permissions for site owner
+- **Email Link (Passwordless)** - Magic link authentication
+- **Multi-Admin System** - Flexible admin management via Firestore `admins` collection
+- **Automatic Admin Promotion** - Cloud Function automatically activates pending admins on signup
+- **Admin privileges** - Edit/delete concerts, approve setlists, delete any comment/photo, add personal notes
 - **User photos** - All authenticated users can upload photos
-- **Admin functions** - Edit/delete concerts, approve setlists, delete any comment/photo
+- **Help Page** - Comprehensive guide for users and admins at `/help.html`
 
 ### 6. Comments & Community
 - **User comments** - Authenticated users can comment on concerts
@@ -344,11 +353,16 @@ export GOOGLE_CLOUD_PROJECT=your-project-id
 
 **firebase.json** - Already configured
 
-**firestore.rules** - Update owner UID:
+**firestore.rules** - Uses multi-admin system (no hardcoded UIDs needed):
 ```javascript
 function isOwner() {
-  return isAuthenticated() && request.auth.uid == 'YOUR_UID_HERE';
+  return isAuthenticated() && exists(/databases/$(database)/documents/admins/$(request.auth.uid));
 }
+```
+
+To add admins, use the management script:
+```bash
+python3 scripts/setup_admins.py
 ```
 
 **website/js/firebase-config.js** - Add your Firebase config:
@@ -361,11 +375,6 @@ const firebaseConfig = {
   messagingSenderId: "123456789",
   appId: "1:123456789:web:abcdef"
 };
-```
-
-**website/js/auth.js** - Update owner UID:
-```javascript
-const OWNER_UID = 'YOUR_UID_HERE';
 ```
 
 ### 7. Deploy Firebase Rules & Functions
@@ -575,6 +584,42 @@ Statistics are automatically regenerated on each deployment when `export_to_web.
 **processApprovedSetlist**
 - **Trigger:** Firestore onWrite on `pending_setlist_submissions/{submissionId}`
 - **Action:** Auto-imports approved setlists from setlist.fm
+
+**promotePendingAdmin**
+- **Trigger:** Firebase Auth onCreate
+- **Action:** Automatically promotes users in `pending_admins` collection to active admins
+
+## Recent Updates (October 2025)
+
+### Multi-Admin System
+- Replaced hardcoded owner UID with flexible `admins` Firestore collection
+- Added `promotePendingAdmin` Cloud Function to auto-activate pending admins
+- Created `setup_admins.py` script for easy admin management
+- Both admins now have full access to all admin features
+
+### Help & Documentation
+- Added comprehensive help page at `/help.html`
+- User guide with browsing, contributing, and account management sections
+- Admin guide with concert management, setlist approval, and moderation instructions
+- Dynamic content - admin section only visible to authenticated admins
+- Added Help link to navigation on all pages
+
+### Performance Improvements
+- Added cache-busting to all JSON data fetches (`?v=${Date.now()}`)
+- Removed problematic catch-all rewrite rule from `firebase.json`
+- Added proper cache headers for data files (5min browser, 10min CDN)
+- Ensures users always get fresh data after database updates
+
+### UX Enhancements
+- Sign-in/sign-out now redirects to home page for cleaner experience
+- Page refreshes after auth state changes to show/hide admin features
+- Improved navigation consistency across all pages
+
+### Data Quality
+- Created artist consolidation tools (`search_artists.py`, merge scripts)
+- Fixed duplicate artist entries (Phil Lesh & Friends consolidation)
+- Removed guest artist misclassifications
+- Added data validation scripts for future use
 
 ## Future Enhancements
 

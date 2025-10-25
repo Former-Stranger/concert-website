@@ -1,26 +1,10 @@
 {
   "id": "216",
   "name": "Friends",
-  "concert_count": 5,
+  "concert_count": 3,
   "top_songs": [
     {
       "name": "Scarlet Begonias",
-      "times_played": 2
-    },
-    {
-      "name": "Jam",
-      "times_played": 2
-    },
-    {
-      "name": "Uncle John's Band",
-      "times_played": 2
-    },
-    {
-      "name": "Mississippi Half-Step Uptown Toodeloo",
-      "times_played": 2
-    },
-    {
-      "name": "Shakedown Street",
       "times_played": 2
     },
     {
@@ -42,6 +26,22 @@
     {
       "name": "My Old Friend the Blues",
       "times_played": 1
+    },
+    {
+      "name": "Someday",
+      "times_played": 1
+    },
+    {
+      "name": "Think It Over",
+      "times_played": 1
+    },
+    {
+      "name": "Fearless Heart",
+      "times_played": 1
+    },
+    {
+      "name": "Little Rock 'n' Roller",
+      "times_played": 1
     }
   ],
   "concerts": [
@@ -55,29 +55,11 @@
       "state": "NY"
     },
     {
-      "id": "1080",
-      "show_number": 1079,
-      "date": "2023-03-19",
-      "festival_name": "Multi-Artist Show",
-      "venue": "Capitol Theatre",
-      "city": "Port Chester",
-      "state": "NY"
-    },
-    {
       "id": "737",
       "show_number": 736,
       "date": "2016-12-05",
       "festival_name": "Multi-Artist Show",
       "venue": "The Town Hall",
-      "city": "New York",
-      "state": "NY"
-    },
-    {
-      "id": "253",
-      "show_number": 252,
-      "date": "2006-02-15",
-      "festival_name": "Multi-Artist Show",
-      "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY"
     },

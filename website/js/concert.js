@@ -12,7 +12,7 @@ async function loadConcertDetail() {
     }
 
     // Try to load detailed concert info first
-    const detailResponse = await fetch(`data/concert_details/${concertId}.json`);
+    const detailResponse = await fetch(`data/concert_details/${concertId}.json?v=${Date.now()}`);
 
     // Try to parse the response as JSON
     let concert = null;
@@ -39,7 +39,7 @@ async function loadConcertDetail() {
         console.log('No setlist found, loading basic concert info for ID:', concertId);
 
         try {
-            const concertsResponse = await fetch('data/concerts.json');
+            const concertsResponse = await fetch(`data/concerts.json?v=${Date.now()}`);
 
             if (!concertsResponse.ok) {
                 console.error('Failed to load concerts.json');

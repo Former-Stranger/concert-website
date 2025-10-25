@@ -7,11 +7,11 @@ let concerts = null;
 async function loadData() {
     try {
         // Load stats
-        const statsResponse = await fetch('data/stats.json');
+        const statsResponse = await fetch(`data/stats.json?v=${Date.now()}`);
         stats = await statsResponse.json();
 
         // Load concerts
-        const concertsResponse = await fetch('data/concerts.json');
+        const concertsResponse = await fetch(`data/concerts.json?v=${Date.now()}`);
         concerts = await concertsResponse.json();
 
         // Populate page

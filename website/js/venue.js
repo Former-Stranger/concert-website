@@ -12,7 +12,7 @@ async function loadVenueDetail() {
     }
 
     try {
-        const response = await fetch(`data/venue_details/${venueId}.json`);
+        const response = await fetch(`data/venue_details/${venueId}.json?v=${Date.now()}`);
 
         if (!response.ok) {
             showError('Venue not found');

@@ -1,8 +1,20 @@
 {
   "id": "429",
-  "name": "Phil Lesh",
-  "concert_count": 5,
+  "name": "Phil Lesh & Friends",
+  "concert_count": 9,
   "top_songs": [
+    {
+      "name": "Mason's Children",
+      "times_played": 3
+    },
+    {
+      "name": "Doin' That Rag",
+      "times_played": 3
+    },
+    {
+      "name": "Shakedown Street",
+      "times_played": 3
+    },
     {
       "name": "The Weight",
       "times_played": 2
@@ -16,32 +28,20 @@
       "times_played": 2
     },
     {
-      "name": "Mason's Children",
+      "name": "The Low Spark of High Heeled Boys",
       "times_played": 2
     },
     {
-      "name": "Mississippi Half-Step Uptown Toodeloo",
+      "name": "Viola Lee Blues",
       "times_played": 2
     },
     {
-      "name": "Doin' That Rag",
+      "name": "New Speedway Boogie",
       "times_played": 2
     },
     {
-      "name": "Jam",
+      "name": "The Real Thing",
       "times_played": 2
-    },
-    {
-      "name": "Cosmic Charlie",
-      "times_played": 2
-    },
-    {
-      "name": "Shakedown Street",
-      "times_played": 2
-    },
-    {
-      "name": "Franklin's Tower",
-      "times_played": 1
     }
   ],
   "concerts": [
@@ -64,6 +64,24 @@
       "state": "NY"
     },
     {
+      "id": "1034",
+      "show_number": 1033,
+      "date": "2022-07-01",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Hartford HealthCare Amphitheater",
+      "city": "Bridgeport",
+      "state": "CT"
+    },
+    {
+      "id": "994",
+      "show_number": 993,
+      "date": "2021-10-11",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY"
+    },
+    {
       "id": "924",
       "show_number": 923,
       "date": "2019-07-26",
@@ -71,6 +89,24 @@
       "venue": "Fort Adams State Park",
       "city": "Newport",
       "state": "RI"
+    },
+    {
+      "id": "817",
+      "show_number": 816,
+      "date": "2018-03-03",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "816",
+      "show_number": 815,
+      "date": "2018-03-02",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY"
     },
     {
       "id": "695",

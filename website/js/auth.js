@@ -1,7 +1,7 @@
 // Authentication module
 import { auth, googleProvider, signInWithPopup, signOut, onAuthStateChanged, createUserWithEmailAndPassword, signInWithEmailAndPassword, updateProfile, sendSignInLinkToEmail, isSignInWithEmailLink, signInWithEmailLink } from './firebase-config.js';
 import { db } from './firebase-config.js';
-import { collection, query, where, onSnapshot } from 'https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js';
+import { collection, query, where, onSnapshot, doc, getDoc } from 'https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js';
 
 // Current user state
 let currentUser = null;
@@ -9,11 +9,34 @@ let pendingSetlistsCount = 0;
 let unsubscribePendingCount = null;
 let isPromptingForDisplayName = false;
 
-// Owner UID - set to the owner's Firebase Auth UID
-const OWNER_UID = 'jBa71VgYp0Qz782bawa4SgjHu1l1';
+// Admin status cache - checked against Firestore admins collection
+let isAdminUser = false;
+let adminCheckComplete = false;
 
 // Auth ready callbacks
 let authReadyCallbacks = [];
+
+// Check if user is an admin by querying Firestore
+async function checkAdminStatus(user) {
+    if (!user) {
+        isAdminUser = false;
+        adminCheckComplete = true;
+        return false;
+    }
+
+    try {
+        const adminDoc = await getDoc(doc(db, 'admins', user.uid));
+        isAdminUser = adminDoc.exists();
+        adminCheckComplete = true;
+        console.log('Admin status checked:', isAdminUser ? 'Is admin' : 'Not admin');
+        return isAdminUser;
+    } catch (error) {
+        console.error('Error checking admin status:', error);
+        isAdminUser = false;
+        adminCheckComplete = true;
+        return false;
+    }
+}
 
 // Initialize auth state listener
 function initAuth(onAuthReady) {
@@ -27,6 +50,10 @@ function initAuth(onAuthReady) {
 
     onAuthStateChanged(auth, async (user) => {
         currentUser = user;
+
+        // Check admin status from Firestore
+        await checkAdminStatus(user);
+
         updateAuthUI();
 
         // Check if authenticated user needs to set display name
@@ -206,6 +233,12 @@ async function completeEmailLinkSignIn() {
             window.history.replaceState({}, document.title, window.location.pathname);
 
             // Note: Display name prompt will be handled by onAuthStateChanged listener
+            // If user has display name, redirect to home page
+            if (result.user.displayName) {
+                window.location.href = '/';
+            }
+            // Otherwise, wait for display name prompt which will redirect after submission
+
             return result.user;
         } catch (error) {
             console.error('Error signing in with email link:', error);
@@ -271,6 +304,8 @@ async function promptForDisplayName(user) {
                     console.log('Display name set to:', displayName);
                     modal.remove();
                     isPromptingForDisplayName = false;
+                    // Redirect to home page after setting display name
+                    window.location.href = '/';
                     resolve(displayName);
                 } catch (error) {
                     console.error('Error setting display name:', error);
@@ -287,6 +322,8 @@ async function signOutUser() {
     try {
         await signOut(auth);
         console.log('Signed out');
+        // Redirect to home page after sign out
+        window.location.href = '/';
     } catch (error) {
         console.error('Error signing out:', error);
     }
@@ -468,6 +505,8 @@ function showSignInModal() {
         const user = await signInWithGoogle();
         if (user) {
             modal.remove();
+            // Redirect to home page after sign in
+            window.location.href = '/';
         }
     });
 
@@ -531,16 +570,16 @@ function showSignInModal() {
 
         if (user) {
             modal.remove();
+            // Redirect to home page after sign in
+            window.location.href = '/';
         }
     });
 }
 
-// Check if current user is the owner
+// Check if current user is an admin/owner
 function isOwner() {
     if (!currentUser) return false;
-    // If no owner is set yet, first user is owner
-    if (!OWNER_UID || OWNER_UID === '') return true;
-    return currentUser.uid === OWNER_UID;
+    return isAdminUser;
 }
 
 // Get current user

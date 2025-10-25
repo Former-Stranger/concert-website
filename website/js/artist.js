@@ -12,7 +12,7 @@ async function loadArtistDetail() {
     }
 
     try {
-        const response = await fetch(`data/artist_details/${artistId}.json`);
+        const response = await fetch(`data/artist_details/${artistId}.json?v=${Date.now()}`);
 
         if (!response.ok) {
             showError('Artist not found');

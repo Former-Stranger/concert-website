@@ -7,7 +7,7 @@ let filteredSongs = [];
 // Load songs data
 async function loadSongs() {
     try {
-        const response = await fetch('data/songs.json');
+        const response = await fetch(`data/songs.json?v=${Date.now()}`);
         songsData = await response.json();
         allSongs = songsData.all_songs;
         filteredSongs = [...allSongs];

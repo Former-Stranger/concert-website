@@ -283,7 +283,7 @@ async function loadPhotos(concertId) {
     // Fallback: Try loading from static JSON if concert has setlist
     try {
       console.log('Attempting to load photos from static JSON...');
-      const response = await fetch(`data/concert_details/${concertId}.json`);
+      const response = await fetch(`data/concert_details/${concertId}.json?v=${Date.now()}`);
       if (response.ok) {
         const concertData = await response.json();
         if (concertData.photos && concertData.photos.length > 0) {

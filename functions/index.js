@@ -542,6 +542,58 @@ exports.sendWelcomeEmail = functions.auth.user().onCreate(async (user) => {
   }
 });
 
+// Automatically promote pending admins when they sign up
+exports.promotePendingAdmin = functions.auth.user().onCreate(async (user) => {
+  const email = user.email;
+  const uid = user.uid;
+
+  if (!email) {
+    console.log('User has no email address, skipping admin check');
+    return null;
+  }
+
+  console.log(`Checking if new user is a pending admin: ${email} (${uid})`);
+
+  try {
+    const db = admin.firestore();
+
+    // Check if this email is in the pending_admins collection
+    const emailDocId = email.replace('@', '_at_').replace(/\./g, '_dot_');
+    const pendingAdminRef = db.collection('pending_admins').doc(emailDocId);
+    const pendingAdminDoc = await pendingAdminRef.get();
+
+    if (!pendingAdminDoc.exists) {
+      console.log('User is not a pending admin');
+      return null;
+    }
+
+    // User is a pending admin! Promote them to active admin
+    const pendingData = pendingAdminDoc.data();
+    console.log(`Promoting pending admin: ${email}`);
+
+    const adminData = {
+      email: email,
+      uid: uid,
+      role: pendingData.role || 'owner',
+      notes: pendingData.notes || '',
+      added_at: pendingData.added_at,
+      promoted_at: admin.firestore.FieldValue.serverTimestamp()
+    };
+
+    // Create admin document with UID as the document ID (required for security rules)
+    await db.collection('admins').doc(uid).set(adminData);
+
+    // Delete the pending admin document
+    await pendingAdminRef.delete();
+
+    console.log(`✅ Successfully promoted ${email} to admin with UID ${uid}`);
+    return null;
+  } catch (error) {
+    console.error(`Error promoting pending admin:`, error);
+    return null;
+  }
+});
+
 // Notify when someone uploads a photo
 exports.notifyPhotoUpload = functions.firestore
   .document('concert_photos/{photoId}')
