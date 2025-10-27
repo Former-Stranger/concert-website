@@ -52,7 +52,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Giants Stadium",
       "city": "East Rutherford",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "238",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Giants Stadium",
       "city": "East Rutherford",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "169",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "Giants Stadium",
       "city": "East Rutherford",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "50",
@@ -79,7 +82,8 @@
       "festival_name": null,
       "venue": "Giants Stadium",
       "city": "East Rutherford",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "6",
@@ -88,7 +92,8 @@
       "festival_name": null,
       "venue": "Giants Stadium",
       "city": "East Rutherford",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     }
   ]
 }

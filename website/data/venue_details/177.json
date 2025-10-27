@@ -10,70 +10,80 @@
       "show_number": 1229,
       "date": "2024-12-31",
       "festival_name": null,
-      "artists": "Billy Joel"
+      "artists": "Billy Joel",
+      "has_setlist": true
     },
     {
       "id": "1152",
       "show_number": 1151,
       "date": "2024-03-30",
       "festival_name": null,
-      "artists": "Zach Bryan"
+      "artists": "Zach Bryan",
+      "has_setlist": true
     },
     {
       "id": "1139",
       "show_number": 1138,
       "date": "2023-12-31",
       "festival_name": null,
-      "artists": "Billy Joel"
+      "artists": "Billy Joel",
+      "has_setlist": true
     },
     {
       "id": "1122",
       "show_number": 1121,
       "date": "2023-10-07",
       "festival_name": null,
-      "artists": "Chris Stapleton w Margo Price"
+      "artists": "Chris Stapleton w Margo Price",
+      "has_setlist": true
     },
     {
       "id": "1113",
       "show_number": 1112,
       "date": "2023-09-09",
       "festival_name": "Multi-Artist Show",
-      "artists": "Aerosmith, Black Crowes"
+      "artists": "Aerosmith, Black Crowes",
+      "has_setlist": true
     },
     {
       "id": "1086",
       "show_number": 1085,
       "date": "2023-04-11",
       "festival_name": null,
-      "artists": "Bruce Springsteen & the E Street Band"
+      "artists": "Bruce Springsteen & the E Street Band",
+      "has_setlist": true
     },
     {
       "id": "1085",
       "show_number": 1084,
       "date": "2023-04-09",
       "festival_name": null,
-      "artists": "Bruce Springsteen & the E Street Band"
+      "artists": "Bruce Springsteen & the E Street Band",
+      "has_setlist": true
     },
     {
       "id": "1066",
       "show_number": 1065,
       "date": "2022-10-22",
       "festival_name": null,
-      "artists": "Keith Urban"
+      "artists": "Keith Urban",
+      "has_setlist": true
     },
     {
       "id": "1044",
       "show_number": 1043,
       "date": "2022-08-13",
       "festival_name": null,
-      "artists": "Roger Waters"
+      "artists": "Roger Waters",
+      "has_setlist": true
     },
     {
       "id": "1020",
       "show_number": 1019,
       "date": "2022-04-23",
       "festival_name": null,
-      "artists": "The Eagles"
+      "artists": "The Eagles",
+      "has_setlist": true
     }
   ]
 }

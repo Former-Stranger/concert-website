@@ -10,21 +10,24 @@
       "show_number": 1217,
       "date": "2024-11-18",
       "festival_name": null,
-      "artists": "Mac McAnally"
+      "artists": "Mac McAnally",
+      "has_setlist": true
     },
     {
       "id": "1119",
       "show_number": 1118,
       "date": "2023-09-28",
       "festival_name": null,
-      "artists": "Christopher Cross"
+      "artists": "Christopher Cross",
+      "has_setlist": true
     },
     {
       "id": "857",
       "show_number": 856,
       "date": "2018-08-29",
       "festival_name": null,
-      "artists": "Glenn Hughes"
+      "artists": "Glenn Hughes",
+      "has_setlist": true
     }
   ]
 }

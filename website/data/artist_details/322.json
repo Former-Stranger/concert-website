@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "420",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "139",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "Hilton Atlantic City",
       "city": "Atlantic City",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     }
   ]
 }

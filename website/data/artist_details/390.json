@@ -52,7 +52,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Forest Hills Stadium",
       "city": "Forest Hills",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1263",
@@ -61,7 +62,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Saratoga Performing Arts Center",
       "city": "Saratoga Springs",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "888",
@@ -70,7 +72,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "700",
@@ -79,7 +82,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Forest Hills Stadium",
       "city": "Forest Hills",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "615",
@@ -88,7 +92,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Le Poisson Rouge",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "533",
@@ -97,7 +102,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Barclays Center",
       "city": "Brooklyn",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "512",
@@ -106,7 +112,8 @@
       "festival_name": null,
       "venue": "Pier A Park",
       "city": "Hoboken",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "456",
@@ -115,7 +122,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Terminal 5",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

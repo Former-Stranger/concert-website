@@ -52,7 +52,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Caramoor Center for Music and the Arts",
       "city": "Katonah",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "925",
@@ -61,7 +62,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     },
     {
       "id": "896",
@@ -70,7 +72,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "818",
@@ -79,7 +82,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Paramount",
       "city": "Huntington",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "797",
@@ -88,7 +92,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Beacon Theatre",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "774",
@@ -97,7 +102,8 @@
       "festival_name": null,
       "venue": "Capitol Theatre",
       "city": "Port Chester",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "740",
@@ -106,7 +112,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     },
     {
       "id": "642",
@@ -115,7 +122,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Damrosch Park at Lincoln Center",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "620",
@@ -124,7 +132,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Capitol Theatre",
       "city": "Port Chester",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "593",
@@ -133,7 +142,8 @@
       "festival_name": null,
       "venue": "Beacon Theatre",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "561",
@@ -142,7 +152,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "545",
@@ -151,7 +162,8 @@
       "festival_name": null,
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "500",
@@ -160,7 +172,8 @@
       "festival_name": null,
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "404",
@@ -169,7 +182,8 @@
       "festival_name": null,
       "venue": "Beacon Theatre",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "370",
@@ -178,7 +192,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Morristown Theater",
       "city": "Morristown",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "164",
@@ -187,7 +202,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

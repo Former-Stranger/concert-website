@@ -10,63 +10,72 @@
       "show_number": 1273,
       "date": "2025-08-09",
       "festival_name": "Multi-Artist Show",
-      "artists": "Mumford & Sons"
+      "artists": "Mumford & Sons",
+      "has_setlist": true
     },
     {
       "id": "1207",
       "show_number": 1206,
       "date": "2024-10-19",
       "festival_name": null,
-      "artists": "Sturgill Simpson"
+      "artists": "Sturgill Simpson",
+      "has_setlist": true
     },
     {
       "id": "1163",
       "show_number": 1162,
       "date": "2024-05-14",
       "festival_name": "Multi-Artist Show",
-      "artists": "Neil Young, Crazy Horse"
+      "artists": "Neil Young, Crazy Horse",
+      "has_setlist": true
     },
     {
       "id": "1054",
       "show_number": 1053,
       "date": "2022-09-10",
       "festival_name": "Multi-Artist Show",
-      "artists": "Van Morrison, Tom Jones"
+      "artists": "Van Morrison, Tom Jones",
+      "has_setlist": true
     },
     {
       "id": "1026",
       "show_number": 1025,
       "date": "2022-06-04",
       "festival_name": null,
-      "artists": "Robert Plant + Alison Krauss"
+      "artists": "Robert Plant + Alison Krauss",
+      "has_setlist": true
     },
     {
       "id": "769",
       "show_number": 768,
       "date": "2017-07-27",
       "festival_name": "Multi-Artist Show",
-      "artists": "Tom Petty, Heartbreakers"
+      "artists": "Tom Petty, Heartbreakers",
+      "has_setlist": true
     },
     {
       "id": "768",
       "show_number": 767,
       "date": "2017-07-26",
       "festival_name": "Multi-Artist Show",
-      "artists": "Tom Petty, Heartbreakers"
+      "artists": "Tom Petty, Heartbreakers",
+      "has_setlist": true
     },
     {
       "id": "766",
       "show_number": 765,
       "date": "2017-07-11",
       "festival_name": null,
-      "artists": "John Mellencamp"
+      "artists": "John Mellencamp",
+      "has_setlist": true
     },
     {
       "id": "700",
       "show_number": 699,
       "date": "2016-06-17",
       "festival_name": "Multi-Artist Show",
-      "artists": "Mumford & Sons"
+      "artists": "Mumford & Sons",
+      "has_setlist": true
     }
   ]
 }

@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "Circle in the Square Theatre",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "907",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Capitol Theatre",
       "city": "Port Chester",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "543",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "306",
@@ -79,7 +82,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Giants Stadium",
       "city": "East Rutherford",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "145",
@@ -88,7 +92,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "29",
@@ -97,7 +102,8 @@
       "festival_name": null,
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

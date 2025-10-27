@@ -11,7 +11,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "136",
@@ -20,7 +21,8 @@
       "festival_name": null,
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "135",
@@ -29,7 +31,8 @@
       "festival_name": null,
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     }
   ]
 }

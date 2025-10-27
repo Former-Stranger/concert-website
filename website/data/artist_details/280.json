@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "Beacon Theatre",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1190",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Capitol Theatre",
       "city": "Port Chester",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1047",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1000",
@@ -79,7 +82,8 @@
       "festival_name": null,
       "venue": "Capitol Theatre",
       "city": "Port Chester",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "960",
@@ -88,7 +92,8 @@
       "festival_name": null,
       "venue": "Beacon Theatre",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "902",
@@ -97,7 +102,8 @@
       "festival_name": null,
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "790",
@@ -106,7 +112,8 @@
       "festival_name": null,
       "venue": "Beacon Theatre",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "733",
@@ -115,7 +122,8 @@
       "festival_name": null,
       "venue": "Bushnell Center for the Performing Arts",
       "city": "Hartford",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     },
     {
       "id": "668",
@@ -124,7 +132,8 @@
       "festival_name": null,
       "venue": "Carnegie Hall",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "538",
@@ -133,7 +142,8 @@
       "festival_name": null,
       "venue": "Beacon Theatre",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "492",
@@ -142,7 +152,8 @@
       "festival_name": null,
       "venue": "Beacon Theatre",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "472",
@@ -151,7 +162,8 @@
       "festival_name": null,
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "454",
@@ -160,7 +172,8 @@
       "festival_name": null,
       "venue": "Stamford Center for the Arts",
       "city": "Stamford",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     }
   ]
 }

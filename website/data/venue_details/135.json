@@ -10,14 +10,16 @@
       "show_number": 1032,
       "date": "2022-06-30",
       "festival_name": null,
-      "artists": "Keith Urban"
+      "artists": "Keith Urban",
+      "has_setlist": true
     },
     {
       "id": "510",
       "show_number": 509,
       "date": "2012-06-22",
       "festival_name": null,
-      "artists": "Kenny Chesney"
+      "artists": "Kenny Chesney",
+      "has_setlist": true
     }
   ]
 }

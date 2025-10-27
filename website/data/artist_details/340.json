@@ -11,7 +11,8 @@
       "festival_name": null,
       "venue": "SubCulture",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "569",
@@ -20,7 +21,8 @@
       "festival_name": null,
       "venue": "Iridium Jazz Club",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "568",
@@ -29,7 +31,8 @@
       "festival_name": null,
       "venue": "Iridium Jazz Club",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

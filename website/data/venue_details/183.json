@@ -10,14 +10,16 @@
       "show_number": 149,
       "date": "2002-02-01",
       "festival_name": "Multi-Artist Show",
-      "artists": "Southside Johnny, the Asbury Jukes"
+      "artists": "Southside Johnny, the Asbury Jukes",
+      "has_setlist": true
     },
     {
       "id": "117",
       "show_number": 116,
       "date": "2000-09-23",
       "festival_name": null,
-      "artists": "Dickey Betts Band"
+      "artists": "Dickey Betts Band",
+      "has_setlist": true
     }
   ]
 }

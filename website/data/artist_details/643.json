@@ -52,7 +52,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Capitol Theatre",
       "city": "Port Chester",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1137",
@@ -61,7 +62,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Capitol Theatre",
       "city": "Port Chester",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1136",
@@ -70,7 +72,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Capitol Theatre",
       "city": "Port Chester",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1135",
@@ -79,7 +82,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Capitol Theatre",
       "city": "Port Chester",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1062",
@@ -88,7 +92,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Westville Music Bowl",
       "city": "New Haven",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     },
     {
       "id": "1015",
@@ -97,7 +102,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Radio City Music Hall",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "898",
@@ -106,7 +112,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Oakdale Theatre",
       "city": "Wallingford",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     },
     {
       "id": "883",
@@ -115,7 +122,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Beacon Theatre",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "882",
@@ -124,7 +132,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Capitol Theatre",
       "city": "Port Chester",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

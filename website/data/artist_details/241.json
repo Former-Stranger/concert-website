@@ -52,7 +52,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Asbury Park Beach",
       "city": "Asbury Park",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "179",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Quinnipiac University",
       "city": "Hamden",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     },
     {
       "id": "122",
@@ -70,7 +72,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

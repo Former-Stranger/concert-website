@@ -11,7 +11,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "277",
@@ -20,7 +21,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "266",
@@ -29,7 +31,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "213",
@@ -38,7 +41,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "113",
@@ -47,7 +51,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Stony Brook Southampton",
       "city": "Southampton",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "78",
@@ -56,7 +61,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

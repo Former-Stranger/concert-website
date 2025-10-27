@@ -10,14 +10,16 @@
       "show_number": 43,
       "date": "1997-07-10",
       "festival_name": "Multi-Artist Show",
-      "artists": "Santana, Rusted root"
+      "artists": "Santana, Rusted root",
+      "has_setlist": true
     },
     {
       "id": "42",
       "show_number": 41,
       "date": "1997-06-28",
       "festival_name": "Multi-Artist Show",
-      "artists": "Crosby, Stills, Nash"
+      "artists": "Crosby, Stills, Nash",
+      "has_setlist": true
     }
   ]
 }

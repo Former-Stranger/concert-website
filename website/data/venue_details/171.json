@@ -10,56 +10,64 @@
       "show_number": 1210,
       "date": "2024-10-30",
       "festival_name": null,
-      "artists": "Keith Urban"
+      "artists": "Keith Urban",
+      "has_setlist": false
     },
     {
       "id": "1098",
       "show_number": 1097,
       "date": "2023-07-14",
       "festival_name": null,
-      "artists": "Brad Paisley"
+      "artists": "Brad Paisley",
+      "has_setlist": true
     },
     {
       "id": "851",
       "show_number": 850,
       "date": "2018-08-15",
       "festival_name": null,
-      "artists": "Aerosmith"
+      "artists": "Aerosmith",
+      "has_setlist": true
     },
     {
       "id": "779",
       "show_number": 778,
       "date": "2017-08-25",
       "festival_name": null,
-      "artists": "Jason Aldean"
+      "artists": "Jason Aldean",
+      "has_setlist": true
     },
     {
       "id": "641",
       "show_number": 640,
       "date": "2015-08-07",
       "festival_name": null,
-      "artists": "Keith Urban"
+      "artists": "Keith Urban",
+      "has_setlist": true
     },
     {
       "id": "603",
       "show_number": 602,
       "date": "2014-10-09",
       "festival_name": null,
-      "artists": "Fleetwood Mac"
+      "artists": "Fleetwood Mac",
+      "has_setlist": true
     },
     {
       "id": "551",
       "show_number": 550,
       "date": "2013-08-15",
       "festival_name": null,
-      "artists": "Jimmy Buffett"
+      "artists": "Jimmy Buffett",
+      "has_setlist": true
     },
     {
       "id": "315",
       "show_number": 314,
       "date": "2007-09-28",
       "festival_name": null,
-      "artists": "Bruce Springsteen & the E Street Band"
+      "artists": "Bruce Springsteen & the E Street Band",
+      "has_setlist": true
     }
   ]
 }

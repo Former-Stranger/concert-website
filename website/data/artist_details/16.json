@@ -52,7 +52,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Radio City Music Hall",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "799",
@@ -61,7 +62,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Beacon Theatre",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

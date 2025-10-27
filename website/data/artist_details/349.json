@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "Palladium Times Square",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "791",
@@ -61,7 +62,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Gramercy Theater",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

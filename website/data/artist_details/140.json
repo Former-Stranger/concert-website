@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "388",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "161",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "Izod Center",
       "city": "East Rutherford",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     }
   ]
 }

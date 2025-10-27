@@ -10,14 +10,16 @@
       "show_number": 489,
       "date": "2011-08-28",
       "festival_name": null,
-      "artists": "ZZ Top"
+      "artists": "ZZ Top",
+      "has_setlist": true
     },
     {
       "id": "346",
       "show_number": 345,
       "date": "2008-07-03",
       "festival_name": null,
-      "artists": "The Beach Boys"
+      "artists": "The Beach Boys",
+      "has_setlist": true
     }
   ]
 }

@@ -52,7 +52,8 @@
       "festival_name": "Outlaw Festival",
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1176",
@@ -61,7 +62,8 @@
       "festival_name": "Outlaw Festival",
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1130",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "Beacon Theatre",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1127",
@@ -79,7 +82,8 @@
       "festival_name": null,
       "venue": "Capitol Theatre",
       "city": "Port Chester",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1001",
@@ -88,7 +92,8 @@
       "festival_name": null,
       "venue": "Capitol Theatre",
       "city": "Port Chester",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "964",
@@ -97,7 +102,8 @@
       "festival_name": null,
       "venue": "Beacon Theatre",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "884",
@@ -106,7 +112,8 @@
       "festival_name": null,
       "venue": "Beacon Theatre",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "801",
@@ -115,7 +122,8 @@
       "festival_name": null,
       "venue": "Beacon Theatre",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "758",
@@ -124,7 +132,8 @@
       "festival_name": null,
       "venue": "Capitol Theatre",
       "city": "Port Chester",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "544",
@@ -133,7 +142,8 @@
       "festival_name": null,
       "venue": "Hartford HealthCare Amphitheater",
       "city": "Bridgeport",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     },
     {
       "id": "304",
@@ -142,7 +152,8 @@
       "festival_name": null,
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "172",
@@ -151,7 +162,8 @@
       "festival_name": null,
       "venue": "XL Center",
       "city": "Hartford",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     },
     {
       "id": "92",
@@ -160,7 +172,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "54",
@@ -169,7 +182,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Paramount Theater at MSG",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "18",
@@ -178,7 +192,8 @@
       "festival_name": null,
       "venue": "Mid-Hudson Civic Center",
       "city": "Poughkeepsie",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

@@ -11,7 +11,8 @@
       "festival_name": null,
       "venue": "Towne Crier",
       "city": "Beacon",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "301",
@@ -20,7 +21,8 @@
       "festival_name": null,
       "venue": "FDR State Park",
       "city": "Yorktown Heights",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "287",
@@ -29,7 +31,8 @@
       "festival_name": null,
       "venue": "Towne Crier Cafe",
       "city": "Beacon",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "246",
@@ -38,7 +41,8 @@
       "festival_name": null,
       "venue": "Towne Crier",
       "city": "Beacon",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "61",
@@ -47,7 +51,8 @@
       "festival_name": null,
       "venue": "Turning Point",
       "city": "Piermont",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

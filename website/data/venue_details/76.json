@@ -10,49 +10,56 @@
       "show_number": 1257,
       "date": "2025-06-06",
       "festival_name": null,
-      "artists": "The Doobie Brothers"
+      "artists": "The Doobie Brothers",
+      "has_setlist": true
     },
     {
       "id": "664",
       "show_number": 663,
       "date": "2015-11-20",
       "festival_name": null,
-      "artists": "Jeff Lynne's ELO"
+      "artists": "Jeff Lynne's ELO",
+      "has_setlist": true
     },
     {
       "id": "506",
       "show_number": 505,
       "date": "2012-04-18",
       "festival_name": null,
-      "artists": "Steel Panther"
+      "artists": "Steel Panther",
+      "has_setlist": true
     },
     {
       "id": "424",
       "show_number": 423,
       "date": "2010-06-15",
       "festival_name": null,
-      "artists": "Gaslight Anthem"
+      "artists": "Gaslight Anthem",
+      "has_setlist": true
     },
     {
       "id": "83",
       "show_number": 82,
       "date": "1999-04-15",
       "festival_name": null,
-      "artists": "Tom Petty & the Heartbreakers"
+      "artists": "Tom Petty & the Heartbreakers",
+      "has_setlist": true
     },
     {
       "id": "82",
       "show_number": 81,
       "date": "1999-04-11",
       "festival_name": null,
-      "artists": "Tom Petty & the Heartbreakers"
+      "artists": "Tom Petty & the Heartbreakers",
+      "has_setlist": true
     },
     {
       "id": "72",
       "show_number": 71,
       "date": "1998-09-12",
       "festival_name": null,
-      "artists": "Gov't Mule"
+      "artists": "Gov't Mule",
+      "has_setlist": true
     }
   ]
 }

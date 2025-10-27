@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "921",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Prudential Center",
       "city": "Newark",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "854",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "721",
@@ -79,7 +82,8 @@
       "festival_name": null,
       "venue": "Radio City Music Hall",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

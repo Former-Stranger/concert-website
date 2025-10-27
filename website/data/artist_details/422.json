@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "CFG Bank Arena",
       "city": "Baltimore",
-      "state": "MD"
+      "state": "MD",
+      "has_setlist": true
     },
     {
       "id": "1193",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1192",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1055",
@@ -79,7 +82,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "858",
@@ -88,7 +92,8 @@
       "festival_name": null,
       "venue": "Fenway Park",
       "city": "Boston",
-      "state": "MA"
+      "state": "MA",
+      "has_setlist": true
     },
     {
       "id": "691",
@@ -97,7 +102,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "690",
@@ -106,7 +112,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "554",
@@ -115,7 +122,8 @@
       "festival_name": null,
       "venue": "Barclays Center",
       "city": "Brooklyn",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "421",
@@ -124,7 +132,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "345",
@@ -133,7 +142,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "262",
@@ -142,7 +152,8 @@
       "festival_name": null,
       "venue": "Continental Airlines Arena",
       "city": "East Rutherford",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "180",
@@ -151,7 +162,8 @@
       "festival_name": null,
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "71",
@@ -160,7 +172,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

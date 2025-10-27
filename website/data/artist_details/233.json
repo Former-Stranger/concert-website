@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "Beacon Theatre",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1107",
@@ -61,7 +62,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "PNC Park",
       "city": "Pittsburgh",
-      "state": "PA"
+      "state": "PA",
+      "has_setlist": true
     },
     {
       "id": "932",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "Stubb's Bar-B-Q",
       "city": "Austin",
-      "state": "TX"
+      "state": "TX",
+      "has_setlist": true
     },
     {
       "id": "840",
@@ -79,7 +82,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "824",
@@ -88,7 +92,8 @@
       "festival_name": null,
       "venue": "Capitol Theatre",
       "city": "Port Chester",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

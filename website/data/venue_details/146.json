@@ -10,14 +10,16 @@
       "show_number": 974,
       "date": "2021-07-16",
       "festival_name": null,
-      "artists": "Bruce Springsteen"
+      "artists": "Bruce Springsteen",
+      "has_setlist": true
     },
     {
       "id": "973",
       "show_number": 972,
       "date": "2021-06-30",
       "festival_name": null,
-      "artists": "Bruce Springsteen"
+      "artists": "Bruce Springsteen",
+      "has_setlist": true
     }
   ]
 }

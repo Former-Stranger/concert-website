@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1262",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "MVP Arena",
       "city": "Albany",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1050",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "993",
@@ -79,7 +82,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "879",
@@ -88,7 +92,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "767",
@@ -97,7 +102,8 @@
       "festival_name": null,
       "venue": "Xfinity Theatre",
       "city": "Hartford",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     }
   ]
 }

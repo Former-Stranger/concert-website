@@ -10,49 +10,56 @@
       "show_number": 1190,
       "date": "2024-08-28",
       "festival_name": null,
-      "artists": "Walter Trout"
+      "artists": "Walter Trout",
+      "has_setlist": true
     },
     {
       "id": "1004",
       "show_number": 1003,
       "date": "2021-12-18",
       "festival_name": null,
-      "artists": "Wille Nile"
+      "artists": "Wille Nile",
+      "has_setlist": true
     },
     {
       "id": "995",
       "show_number": 994,
       "date": "2021-10-20",
       "festival_name": null,
-      "artists": "Will Hoge"
+      "artists": "Will Hoge",
+      "has_setlist": true
     },
     {
       "id": "951",
       "show_number": 950,
       "date": "2019-10-23",
       "festival_name": null,
-      "artists": "Will Hoge w. Elizabeth Cook"
+      "artists": "Will Hoge w. Elizabeth Cook",
+      "has_setlist": true
     },
     {
       "id": "807",
       "show_number": 806,
       "date": "2017-12-30",
       "festival_name": null,
-      "artists": "Willie Nile"
+      "artists": "Willie Nile",
+      "has_setlist": true
     },
     {
       "id": "754",
       "show_number": 753,
       "date": "2017-05-03",
       "festival_name": null,
-      "artists": "Garry Tallent"
+      "artists": "Garry Tallent",
+      "has_setlist": true
     },
     {
       "id": "742",
       "show_number": 741,
       "date": "2017-01-29",
       "festival_name": null,
-      "artists": "Will Hoge"
+      "artists": "Will Hoge",
+      "has_setlist": true
     }
   ]
 }

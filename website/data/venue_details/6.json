@@ -10,28 +10,32 @@
       "show_number": 329,
       "date": "2008-01-31",
       "festival_name": null,
-      "artists": "Eddie Money"
+      "artists": "Eddie Money",
+      "has_setlist": true
     },
     {
       "id": "237",
       "show_number": 236,
       "date": "2005-08-18",
       "festival_name": "Multi-Artist Show",
-      "artists": "Dickey Betts, Great Southern"
+      "artists": "Dickey Betts, Great Southern",
+      "has_setlist": true
     },
     {
       "id": "198",
       "show_number": 197,
       "date": "2004-01-18",
       "festival_name": "Multi-Artist Show",
-      "artists": "Southside Johnny, the Asbury Jukes"
+      "artists": "Southside Johnny, the Asbury Jukes",
+      "has_setlist": true
     },
     {
       "id": "156",
       "show_number": 155,
       "date": "2002-06-16",
       "festival_name": "Multi-Artist Show",
-      "artists": "Dickey Betts, Great Southern"
+      "artists": "Dickey Betts, Great Southern",
+      "has_setlist": true
     }
   ]
 }

@@ -10,21 +10,24 @@
       "show_number": 1262,
       "date": "2025-06-21",
       "festival_name": "Multi-Artist Show",
-      "artists": "Mumford & Sons"
+      "artists": "Mumford & Sons",
+      "has_setlist": true
     },
     {
       "id": "1199",
       "show_number": 1198,
       "date": "2024-09-21",
       "festival_name": "Multi-Artist Show",
-      "artists": "Farm Aid: Nelson, Young, Dave & Tim, Rateliffe, Mellencamp"
+      "artists": "Farm Aid: Nelson, Young, Dave & Tim, Rateliffe, Mellencamp",
+      "has_setlist": true
     },
     {
       "id": "650",
       "show_number": 649,
       "date": "2015-09-06",
       "festival_name": null,
-      "artists": "Zac Brown Band with Drake White"
+      "artists": "Zac Brown Band with Drake White",
+      "has_setlist": true
     }
   ]
 }

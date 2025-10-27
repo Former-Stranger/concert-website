@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "House of Blues",
       "city": "Las Vegas",
-      "state": "NV"
+      "state": "NV",
+      "has_setlist": true
     },
     {
       "id": "85",
@@ -61,7 +62,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Giants Stadium",
       "city": "East Rutherford",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "44",
@@ -70,7 +72,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Thunder Ridge Ski Area",
       "city": "Patterson",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

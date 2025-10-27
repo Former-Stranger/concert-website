@@ -10,14 +10,16 @@
       "show_number": 117,
       "date": "2000-08-19",
       "festival_name": "Multi-Artist Show",
-      "artists": "John Fogerty with Dr. John, Aaron neville"
+      "artists": "John Fogerty with Dr. John, Aaron neville",
+      "has_setlist": true
     },
     {
       "id": "115",
       "show_number": 114,
       "date": "2000-08-12",
       "festival_name": "Multi-Artist Show",
-      "artists": "Neil Young, The Pretenders"
+      "artists": "Neil Young, The Pretenders",
+      "has_setlist": true
     }
   ]
 }

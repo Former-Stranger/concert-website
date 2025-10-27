@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "Citi Field",
       "city": "Queens",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "987",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Hartford HealthCare Amphitheater",
       "city": "Bridgeport",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     },
     {
       "id": "842",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

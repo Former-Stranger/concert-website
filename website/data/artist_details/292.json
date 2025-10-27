@@ -11,7 +11,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Tappan Park",
       "city": "Staten Island",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "144",
@@ -20,7 +21,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Count Basie Center for the Arts",
       "city": "Red Bank",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     }
   ]
 }

@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "788",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Barclays Center",
       "city": "Brooklyn",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "787",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "785",
@@ -79,7 +82,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "709",
@@ -88,7 +92,8 @@
       "festival_name": null,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "585",
@@ -97,7 +102,8 @@
       "festival_name": null,
       "venue": "MVP Arena",
       "city": "Albany",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "536",
@@ -106,7 +112,8 @@
       "festival_name": null,
       "venue": "Barclays Center",
       "city": "Brooklyn",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "530",
@@ -115,7 +122,8 @@
       "festival_name": "12-12-12 Concert For Sandy Relief",
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "484",
@@ -124,7 +132,8 @@
       "festival_name": null,
       "venue": "Yankee Stadium",
       "city": "Bronx",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "483",
@@ -133,7 +142,8 @@
       "festival_name": null,
       "venue": "Yankee Stadium",
       "city": "Bronx",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "385",
@@ -142,7 +152,8 @@
       "festival_name": null,
       "venue": "Citi Field",
       "city": "Queens",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "240",
@@ -151,7 +162,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "239",
@@ -160,7 +172,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "155",
@@ -169,7 +182,8 @@
       "festival_name": null,
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "145",
@@ -178,7 +192,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

@@ -10,14 +10,16 @@
       "show_number": 453,
       "date": "2010-11-12",
       "festival_name": null,
-      "artists": "Joe Bonamassa"
+      "artists": "Joe Bonamassa",
+      "has_setlist": true
     },
     {
       "id": "284",
       "show_number": 283,
       "date": "2006-10-23",
       "festival_name": "Multi-Artist Show",
-      "artists": "Ian Anderson, Orchestra"
+      "artists": "Ian Anderson, Orchestra",
+      "has_setlist": true
     }
   ]
 }

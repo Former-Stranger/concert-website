@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "Dolby Live at Park MGM",
       "city": "Las Vegas",
-      "state": "NV"
+      "state": "NV",
+      "has_setlist": true
     },
     {
       "id": "781",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Citi Field",
       "city": "Queens",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "571",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "Roseland",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "429",
@@ -79,7 +82,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

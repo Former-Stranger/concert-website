@@ -10,42 +10,48 @@
       "show_number": 1196,
       "date": "2024-09-15",
       "festival_name": "Multi-Artist Show",
-      "artists": "SEA HEAR NOW: Bruce Springsteen, Trey Anastaio, Kool & Gang"
+      "artists": "SEA HEAR NOW: Bruce Springsteen, Trey Anastaio, Kool & Gang",
+      "has_setlist": true
     },
     {
       "id": "1196",
       "show_number": 1195,
       "date": "2024-09-14",
       "festival_name": "Multi-Artist Show",
-      "artists": "SEA HEAR NOW: Noah Kahan, Black Crowes, Guster, Revivalists, Randolph"
+      "artists": "SEA HEAR NOW: Noah Kahan, Black Crowes, Guster, Revivalists, Randolph",
+      "has_setlist": true
     },
     {
       "id": "1059",
       "show_number": 1058,
       "date": "2022-09-18",
       "festival_name": null,
-      "artists": "Sea Hear Now (Green Day)"
+      "artists": "Sea Hear Now (Green Day)",
+      "has_setlist": true
     },
     {
       "id": "1058",
       "show_number": 1057,
       "date": "2022-09-17",
       "festival_name": null,
-      "artists": "Sea Hear Now (Stevie Nicks)"
+      "artists": "Sea Hear Now (Stevie Nicks)",
+      "has_setlist": true
     },
     {
       "id": "989",
       "show_number": 988,
       "date": "2021-09-19",
       "festival_name": "Multi-Artist Show",
-      "artists": "Sea Hear Now (Smashing Pumpkins, Billy Idol, Orville Peck)"
+      "artists": "Sea Hear Now (Smashing Pumpkins, Billy Idol, Orville Peck)",
+      "has_setlist": true
     },
     {
       "id": "988",
       "show_number": 987,
       "date": "2021-09-18",
       "festival_name": "Multi-Artist Show",
-      "artists": "Sea Hear Now (Pearl Jam, Avetts, Patti Smith)"
+      "artists": "Sea Hear Now (Pearl Jam, Avetts, Patti Smith)",
+      "has_setlist": true
     }
   ]
 }

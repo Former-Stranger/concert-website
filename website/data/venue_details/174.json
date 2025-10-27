@@ -10,14 +10,16 @@
       "show_number": 436,
       "date": "2010-08-13",
       "festival_name": null,
-      "artists": "Christopher Robin Band"
+      "artists": "Christopher Robin Band",
+      "has_setlist": true
     },
     {
       "id": "287",
       "show_number": 286,
       "date": "2006-11-24",
       "festival_name": null,
-      "artists": "Richie Havens"
+      "artists": "Richie Havens",
+      "has_setlist": true
     }
   ]
 }

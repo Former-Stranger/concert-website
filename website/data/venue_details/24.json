@@ -10,14 +10,16 @@
       "show_number": 225,
       "date": "2005-05-15",
       "festival_name": null,
-      "artists": "Green Day"
+      "artists": "Green Day",
+      "has_setlist": true
     },
     {
       "id": "223",
       "show_number": 222,
       "date": "2005-04-01",
       "festival_name": null,
-      "artists": "John Mellencamp"
+      "artists": "John Mellencamp",
+      "has_setlist": true
     }
   ]
 }

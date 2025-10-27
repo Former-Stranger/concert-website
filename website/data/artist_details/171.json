@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "Arthur Ashe Stadium",
       "city": "Queens",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "927",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "859",
@@ -70,7 +72,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "832",
@@ -79,7 +82,8 @@
       "festival_name": null,
       "venue": "Today Show Plaza",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "402",
@@ -88,7 +92,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

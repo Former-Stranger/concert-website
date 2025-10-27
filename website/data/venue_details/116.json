@@ -10,28 +10,32 @@
       "show_number": 824,
       "date": "2018-05-02",
       "festival_name": null,
-      "artists": "Little Steven"
+      "artists": "Little Steven",
+      "has_setlist": true
     },
     {
       "id": "812",
       "show_number": 811,
       "date": "2018-02-13",
       "festival_name": "Multi-Artist Show",
-      "artists": "All for Hall: Vince Gill, Maren Morris, Emmylou, Kesha"
+      "artists": "All for Hall: Vince Gill, Maren Morris, Emmylou, Kesha",
+      "has_setlist": true
     },
     {
       "id": "607",
       "show_number": 606,
       "date": "2014-11-14",
       "festival_name": null,
-      "artists": "Chris Young"
+      "artists": "Chris Young",
+      "has_setlist": true
     },
     {
       "id": "600",
       "show_number": 599,
       "date": "2014-09-25",
       "festival_name": "Multi-Artist Show",
-      "artists": "Kip Moore, Sam Hunt, Charlie Worshem"
+      "artists": "Kip Moore, Sam Hunt, Charlie Worshem",
+      "has_setlist": true
     }
   ]
 }

@@ -10,21 +10,24 @@
       "show_number": 962,
       "date": "2019-11-23",
       "festival_name": null,
-      "artists": "Doobie Brothers (Peter Wolf)"
+      "artists": "Doobie Brothers (Peter Wolf)",
+      "has_setlist": true
     },
     {
       "id": "917",
       "show_number": 916,
       "date": "2019-06-20",
       "festival_name": "Multi-Artist Show",
-      "artists": "YES, Asia, John Lodge, Carl Palmer"
+      "artists": "YES, Asia, John Lodge, Carl Palmer",
+      "has_setlist": true
     },
     {
       "id": "2",
       "show_number": 1,
       "date": "1995-12-21",
       "festival_name": null,
-      "artists": "Kenny Rogers"
+      "artists": "Kenny Rogers",
+      "has_setlist": false
     }
   ]
 }

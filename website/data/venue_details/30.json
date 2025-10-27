@@ -10,21 +10,24 @@
       "show_number": 655,
       "date": "2015-09-26",
       "festival_name": "Pearl Jam",
-      "artists": "Global Citizen Festival with Beyonce, Sheeran"
+      "artists": "Global Citizen Festival with Beyonce, Sheeran",
+      "has_setlist": true
     },
     {
       "id": "310",
       "show_number": 309,
       "date": "2007-08-09",
       "festival_name": null,
-      "artists": "Black Crowes"
+      "artists": "Black Crowes",
+      "has_setlist": true
     },
     {
       "id": "193",
       "show_number": 192,
       "date": "2003-09-24",
       "festival_name": null,
-      "artists": "Dave Matthews Band"
+      "artists": "Dave Matthews Band",
+      "has_setlist": true
     }
   ]
 }

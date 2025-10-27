@@ -52,7 +52,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "357",
@@ -61,7 +62,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "187",
@@ -70,7 +72,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Foxwoods Resort Casino",
       "city": "Mashantucket",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     }
   ]
 }

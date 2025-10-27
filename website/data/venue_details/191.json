@@ -10,28 +10,32 @@
       "show_number": 703,
       "date": "2016-07-09",
       "festival_name": null,
-      "artists": "Garth Brooks"
+      "artists": "Garth Brooks",
+      "has_setlist": true
     },
     {
       "id": "703",
       "show_number": 702,
       "date": "2016-07-08",
       "festival_name": null,
-      "artists": "Garth Brooks"
+      "artists": "Garth Brooks",
+      "has_setlist": true
     },
     {
       "id": "484",
       "show_number": 483,
       "date": "2011-07-16",
       "festival_name": null,
-      "artists": "Paul McCartney"
+      "artists": "Paul McCartney",
+      "has_setlist": true
     },
     {
       "id": "483",
       "show_number": 482,
       "date": "2011-07-15",
       "festival_name": null,
-      "artists": "Paul McCartney"
+      "artists": "Paul McCartney",
+      "has_setlist": true
     }
   ]
 }

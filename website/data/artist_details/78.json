@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "Bridgeport",
       "city": "Bridgeport",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     },
     {
       "id": "1098",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Today Show Plaza at Rockefeller Center",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "848",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "773",
@@ -79,7 +82,8 @@
       "festival_name": null,
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "708",
@@ -88,7 +92,8 @@
       "festival_name": null,
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "540",
@@ -97,7 +102,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "The Meadowlands",
       "city": "East Rutherford",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "508",
@@ -106,7 +112,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "402",
@@ -115,7 +122,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

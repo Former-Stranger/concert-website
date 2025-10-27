@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "Webster Hall",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1071",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Terminal 5",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "949",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "Mayo Performing Arts Center",
       "city": "Morristown",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "912",
@@ -79,7 +82,8 @@
       "festival_name": null,
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     },
     {
       "id": "864",
@@ -88,7 +92,8 @@
       "festival_name": null,
       "venue": "Hammerstein Ballroom",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "736",
@@ -97,7 +102,8 @@
       "festival_name": null,
       "venue": "Terminal 5",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

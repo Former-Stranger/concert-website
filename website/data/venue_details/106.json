@@ -10,14 +10,16 @@
       "show_number": 1146,
       "date": "2024-03-10",
       "festival_name": null,
-      "artists": "John Mellencamp (Bruce appearance)"
+      "artists": "John Mellencamp (Bruce appearance)",
+      "has_setlist": true
     },
     {
       "id": "1005",
       "show_number": 1004,
       "date": "2022-02-06",
       "festival_name": "Multi-Artist Show",
-      "artists": "Eddie Vedder, The Earthlings"
+      "artists": "Eddie Vedder, The Earthlings",
+      "has_setlist": true
     }
   ]
 }

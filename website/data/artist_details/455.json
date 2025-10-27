@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "Emelin Theatre",
       "city": "Mamaroneck",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1102",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "City Winery Hudson Valley",
       "city": "Montgomery",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1075",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "Symphony Space",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "968",
@@ -79,7 +82,8 @@
       "festival_name": null,
       "venue": "Symphony Space",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "920",
@@ -88,7 +92,8 @@
       "festival_name": null,
       "venue": "City Winery",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "913",
@@ -97,7 +102,8 @@
       "festival_name": null,
       "venue": "Outpost in the Burbs",
       "city": "Montclair",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     }
   ]
 }

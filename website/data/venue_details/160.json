@@ -10,42 +10,48 @@
       "show_number": 1070,
       "date": "2022-11-10",
       "festival_name": null,
-      "artists": "Kip Moore"
+      "artists": "Kip Moore",
+      "has_setlist": true
     },
     {
       "id": "959",
       "show_number": 958,
       "date": "2019-11-09",
       "festival_name": null,
-      "artists": "Dwight Yoakam"
+      "artists": "Dwight Yoakam",
+      "has_setlist": true
     },
     {
       "id": "893",
       "show_number": 892,
       "date": "2019-01-23",
       "festival_name": null,
-      "artists": "Brothers Osbourne"
+      "artists": "Brothers Osbourne",
+      "has_setlist": true
     },
     {
       "id": "736",
       "show_number": 735,
       "date": "2016-12-01",
       "festival_name": null,
-      "artists": "Kip Moore"
+      "artists": "Kip Moore",
+      "has_setlist": true
     },
     {
       "id": "456",
       "show_number": 455,
       "date": "2010-11-15",
       "festival_name": "Multi-Artist Show",
-      "artists": "Mumford & Sons"
+      "artists": "Mumford & Sons",
+      "has_setlist": true
     },
     {
       "id": "401",
       "show_number": 400,
       "date": "2009-10-15",
       "festival_name": "Multi-Artist Show",
-      "artists": "Gaslight Anthem, Jesse Malin"
+      "artists": "Gaslight Anthem, Jesse Malin",
+      "has_setlist": true
     }
   ]
 }

@@ -10,70 +10,80 @@
       "show_number": 1261,
       "date": "2025-06-20",
       "festival_name": null,
-      "artists": "Chris Stapleton"
+      "artists": "Chris Stapleton",
+      "has_setlist": true
     },
     {
       "id": "1158",
       "show_number": 1157,
       "date": "2024-04-15",
       "festival_name": null,
-      "artists": "Bruce Springsteen & the E Street Band"
+      "artists": "Bruce Springsteen & the E Street Band",
+      "has_setlist": true
     },
     {
       "id": "747",
       "show_number": 746,
       "date": "2017-03-11",
       "festival_name": null,
-      "artists": "Garth Brooks"
+      "artists": "Garth Brooks",
+      "has_setlist": true
     },
     {
       "id": "671",
       "show_number": 670,
       "date": "2016-02-08",
       "festival_name": null,
-      "artists": "Bruce Springsteen & the E Street Band"
+      "artists": "Bruce Springsteen & the E Street Band",
+      "has_setlist": true
     },
     {
       "id": "659",
       "show_number": 658,
       "date": "2015-10-29",
       "festival_name": null,
-      "artists": "Dead and Company"
+      "artists": "Dead and Company",
+      "has_setlist": true
     },
     {
       "id": "585",
       "show_number": 584,
       "date": "2014-07-05",
       "festival_name": null,
-      "artists": "Paul McCartney"
+      "artists": "Paul McCartney",
+      "has_setlist": true
     },
     {
       "id": "574",
       "show_number": 573,
       "date": "2014-05-13",
       "festival_name": null,
-      "artists": "Bruce Springsteen & the E Street Band"
+      "artists": "Bruce Springsteen & the E Street Band",
+      "has_setlist": true
     },
     {
       "id": "505",
       "show_number": 504,
       "date": "2012-04-16",
       "festival_name": null,
-      "artists": "Bruce Springsteen"
+      "artists": "Bruce Springsteen",
+      "has_setlist": true
     },
     {
       "id": "325",
       "show_number": 324,
       "date": "2007-11-15",
       "festival_name": null,
-      "artists": "Bruce Springsteen & the E Street Band"
+      "artists": "Bruce Springsteen & the E Street Band",
+      "has_setlist": true
     },
     {
       "id": "297",
       "show_number": 296,
       "date": "2007-04-17",
       "festival_name": null,
-      "artists": "Billy Joel"
+      "artists": "Billy Joel",
+      "has_setlist": true
     }
   ]
 }

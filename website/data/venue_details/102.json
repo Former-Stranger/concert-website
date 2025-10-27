@@ -10,168 +10,192 @@
       "show_number": 1156,
       "date": "2024-04-14",
       "festival_name": null,
-      "artists": "Buddy Guy"
+      "artists": "Buddy Guy",
+      "has_setlist": true
     },
     {
       "id": "942",
       "show_number": 941,
       "date": "2019-09-15",
       "festival_name": null,
-      "artists": "Travis Tritt"
+      "artists": "Travis Tritt",
+      "has_setlist": true
     },
     {
       "id": "902",
       "show_number": 901,
       "date": "2019-03-23",
       "festival_name": null,
-      "artists": "Joe Bonamassa"
+      "artists": "Joe Bonamassa",
+      "has_setlist": true
     },
     {
       "id": "886",
       "show_number": 885,
       "date": "2018-12-05",
       "festival_name": null,
-      "artists": "Brian Wilson"
+      "artists": "Brian Wilson",
+      "has_setlist": true
     },
     {
       "id": "761",
       "show_number": 760,
       "date": "2017-06-21",
       "festival_name": null,
-      "artists": "Huey Lewis  The News"
+      "artists": "Huey Lewis  The News",
+      "has_setlist": true
     },
     {
       "id": "543",
       "show_number": 542,
       "date": "2013-07-12",
       "festival_name": null,
-      "artists": "Melissa Etheridge"
+      "artists": "Melissa Etheridge",
+      "has_setlist": true
     },
     {
       "id": "537",
       "show_number": 536,
       "date": "2013-05-15",
       "festival_name": null,
-      "artists": "ZZ Top"
+      "artists": "ZZ Top",
+      "has_setlist": true
     },
     {
       "id": "501",
       "show_number": 500,
       "date": "2012-02-16",
       "festival_name": null,
-      "artists": "Peter Frampton"
+      "artists": "Peter Frampton",
+      "has_setlist": true
     },
     {
       "id": "480",
       "show_number": 479,
       "date": "2011-06-18",
       "festival_name": null,
-      "artists": "Kenny Loggins"
+      "artists": "Kenny Loggins",
+      "has_setlist": true
     },
     {
       "id": "478",
       "show_number": 477,
       "date": "2011-05-19",
       "festival_name": null,
-      "artists": "Chicago"
+      "artists": "Chicago",
+      "has_setlist": true
     },
     {
       "id": "472",
       "show_number": 471,
       "date": "2011-03-25",
       "festival_name": null,
-      "artists": "Joe Bonamassa"
+      "artists": "Joe Bonamassa",
+      "has_setlist": true
     },
     {
       "id": "458",
       "show_number": 457,
       "date": "2010-11-19",
       "festival_name": null,
-      "artists": "The Doobie Brothers"
+      "artists": "The Doobie Brothers",
+      "has_setlist": true
     },
     {
       "id": "433",
       "show_number": 432,
       "date": "2010-07-15",
       "festival_name": "Multi-Artist Show",
-      "artists": "Huey Lewis, the News"
+      "artists": "Huey Lewis, the News",
+      "has_setlist": true
     },
     {
       "id": "428",
       "show_number": 427,
       "date": "2010-06-30",
       "festival_name": null,
-      "artists": "Ringo Starr"
+      "artists": "Ringo Starr",
+      "has_setlist": true
     },
     {
       "id": "427",
       "show_number": 426,
       "date": "2010-06-24",
       "festival_name": null,
-      "artists": "Weird Al"
+      "artists": "Weird Al",
+      "has_setlist": true
     },
     {
       "id": "423",
       "show_number": 422,
       "date": "2010-06-02",
       "festival_name": null,
-      "artists": "Black Crowes"
+      "artists": "Black Crowes",
+      "has_setlist": true
     },
     {
       "id": "420",
       "show_number": 419,
       "date": "2010-05-14",
       "festival_name": null,
-      "artists": "Kenny Loggins"
+      "artists": "Kenny Loggins",
+      "has_setlist": true
     },
     {
       "id": "416",
       "show_number": 415,
       "date": "2010-04-09",
       "festival_name": "Multi-Artist Show",
-      "artists": "Emerson, Lake"
+      "artists": "Emerson, Lake",
+      "has_setlist": true
     },
     {
       "id": "407",
       "show_number": 406,
       "date": "2009-11-11",
       "festival_name": null,
-      "artists": "Steve Miller Band"
+      "artists": "Steve Miller Band",
+      "has_setlist": true
     },
     {
       "id": "365",
       "show_number": 364,
       "date": "2008-12-04",
       "festival_name": null,
-      "artists": "Tony Bennett"
+      "artists": "Tony Bennett",
+      "has_setlist": true
     },
     {
       "id": "357",
       "show_number": 356,
       "date": "2008-08-25",
       "festival_name": "Multi-Artist Show",
-      "artists": "Huey Lewis, the News"
+      "artists": "Huey Lewis, the News",
+      "has_setlist": true
     },
     {
       "id": "303",
       "show_number": 302,
       "date": "2007-06-20",
       "festival_name": null,
-      "artists": "Lynyrd Skynyrd"
+      "artists": "Lynyrd Skynyrd",
+      "has_setlist": true
     },
     {
       "id": "254",
       "show_number": 253,
       "date": "2006-03-10",
       "festival_name": "Multi-Artist Show",
-      "artists": "Leon Russell, Dave Mason"
+      "artists": "Leon Russell, Dave Mason",
+      "has_setlist": true
     },
     {
       "id": "127",
       "show_number": 126,
       "date": "2001-06-07",
       "festival_name": "Multi-Artist Show",
-      "artists": "Charlie Daniels Band, Dickey Betts Band, .38 Special"
+      "artists": "Charlie Daniels Band, Dickey Betts Band, .38 Special",
+      "has_setlist": true
     }
   ]
 }

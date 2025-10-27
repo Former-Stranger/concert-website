@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "Capitol Theatre",
       "city": "Port Chester",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "490",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Ives Concert Park",
       "city": "Danbury",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     },
     {
       "id": "95",
@@ -70,7 +72,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Izod Center",
       "city": "East Rutherford",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     }
   ]
 }

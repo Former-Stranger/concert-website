@@ -421,7 +421,8 @@ def export_to_json(output_dir):
                     'show_number': concert_data.get('show_number'),
                     'date': concert_data.get('date', ''),
                     'festival_name': concert_data.get('festival_name'),
-                    'artists': artist_names
+                    'artists': artist_names,
+                    'has_setlist': concert_data.get('has_setlist', False)
                 })
 
         if not concerts_at_venue:
@@ -486,7 +487,8 @@ def export_to_json(output_dir):
                         'festival_name': concert_data.get('festival_name'),
                         'venue': concert_data.get('venue_name', ''),
                         'city': concert_data.get('city', ''),
-                        'state': concert_data.get('state', '')
+                        'state': concert_data.get('state', ''),
+                        'has_setlist': concert_data.get('has_setlist', False)
                     })
                     break
 

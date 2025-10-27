@@ -52,7 +52,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "The Town Hall",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1092",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Beacon Theatre",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "897",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "Beacon Theatre",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "766",
@@ -79,7 +82,8 @@
       "festival_name": null,
       "venue": "Forest Hills Stadium",
       "city": "Forest Hills",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "617",
@@ -88,7 +92,8 @@
       "festival_name": null,
       "venue": "Carnegie Hall",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "465",
@@ -97,7 +102,8 @@
       "festival_name": null,
       "venue": "Radio City Music Hall",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "451",
@@ -106,7 +112,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Beacon Theatre",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "233",
@@ -115,7 +122,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "223",
@@ -124,7 +132,8 @@
       "festival_name": null,
       "venue": "CHI Health Center",
       "city": "Omaha",
-      "state": "NE"
+      "state": "NE",
+      "has_setlist": true
     },
     {
       "id": "159",
@@ -133,7 +142,8 @@
       "festival_name": null,
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "142",
@@ -142,7 +152,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "35",
@@ -151,7 +162,8 @@
       "festival_name": null,
       "venue": "Paramount Theater at MSG",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

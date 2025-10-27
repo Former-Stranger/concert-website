@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "MVP Arena",
       "city": "Albany",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "704",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Yankee Stadium",
       "city": "Bronx",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "703",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "Yankee Stadium",
       "city": "Bronx",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "453",
@@ -79,7 +82,8 @@
       "festival_name": null,
       "venue": "Chelsea Piers",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

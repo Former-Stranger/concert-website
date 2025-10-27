@@ -10,14 +10,16 @@
       "show_number": 1208,
       "date": "2024-10-24",
       "festival_name": null,
-      "artists": "Will Hoge"
+      "artists": "Will Hoge",
+      "has_setlist": false
     },
     {
       "id": "644",
       "show_number": 643,
       "date": "2015-08-14",
       "festival_name": null,
-      "artists": "Will Hoge"
+      "artists": "Will Hoge",
+      "has_setlist": true
     }
   ]
 }

@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1067",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Carnegie Hall",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1021",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     },
     {
       "id": "725",
@@ -79,7 +82,8 @@
       "festival_name": null,
       "venue": "Radio City Music Hall",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "427",
@@ -88,7 +92,8 @@
       "festival_name": null,
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

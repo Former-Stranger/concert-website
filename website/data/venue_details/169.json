@@ -10,14 +10,16 @@
       "show_number": 124,
       "date": "2001-05-01",
       "festival_name": null,
-      "artists": "Riders on the Storm"
+      "artists": "Riders on the Storm",
+      "has_setlist": true
     },
     {
       "id": "100",
       "show_number": 99,
       "date": "2000-03-13",
       "festival_name": null,
-      "artists": "Clancy Brothers"
+      "artists": "Clancy Brothers",
+      "has_setlist": true
     }
   ]
 }

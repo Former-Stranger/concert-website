@@ -10,70 +10,80 @@
       "show_number": 1201,
       "date": "2024-10-05",
       "festival_name": null,
-      "artists": "Kings of Leon"
+      "artists": "Kings of Leon",
+      "has_setlist": true
     },
     {
       "id": "1095",
       "show_number": 1094,
       "date": "2023-06-24",
       "festival_name": null,
-      "artists": "Steve Miller Band with Dave Mason"
+      "artists": "Steve Miller Band with Dave Mason",
+      "has_setlist": true
     },
     {
       "id": "1045",
       "show_number": 1044,
       "date": "2022-08-14",
       "festival_name": null,
-      "artists": "Steve Miller Band"
+      "artists": "Steve Miller Band",
+      "has_setlist": true
     },
     {
       "id": "1037",
       "show_number": 1036,
       "date": "2022-07-13",
       "festival_name": null,
-      "artists": "Jackson Browne"
+      "artists": "Jackson Browne",
+      "has_setlist": true
     },
     {
       "id": "1035",
       "show_number": 1034,
       "date": "2022-07-02",
       "festival_name": null,
-      "artists": "Lynyrd Skynyrd"
+      "artists": "Lynyrd Skynyrd",
+      "has_setlist": true
     },
     {
       "id": "1034",
       "show_number": 1033,
       "date": "2022-07-01",
       "festival_name": "Multi-Artist Show",
-      "artists": "Phil Lesh & Friends"
+      "artists": "Phil Lesh & Friends",
+      "has_setlist": true
     },
     {
       "id": "1031",
       "show_number": 1030,
       "date": "2022-06-27",
       "festival_name": null,
-      "artists": "Black Crowes"
+      "artists": "Black Crowes",
+      "has_setlist": true
     },
     {
       "id": "987",
       "show_number": 986,
       "date": "2021-09-17",
       "festival_name": null,
-      "artists": "Foo Fighters"
+      "artists": "Foo Fighters",
+      "has_setlist": true
     },
     {
       "id": "981",
       "show_number": 980,
       "date": "2021-08-17",
       "festival_name": null,
-      "artists": "Kings of Leon"
+      "artists": "Kings of Leon",
+      "has_setlist": true
     },
     {
       "id": "544",
       "show_number": 543,
       "date": "2013-07-19",
       "festival_name": null,
-      "artists": "Bob Dylan"
+      "artists": "Bob Dylan",
+      "has_setlist": true
     }
   ]
 }

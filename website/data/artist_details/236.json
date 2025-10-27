@@ -52,7 +52,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Citi Field",
       "city": "Queens",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "748",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Barclays Center",
       "city": "Brooklyn",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "226",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "CHI Health Center",
       "city": "Omaha",
-      "state": "NE"
+      "state": "NE",
+      "has_setlist": true
     },
     {
       "id": "225",
@@ -79,7 +82,8 @@
       "festival_name": null,
       "venue": "SNHU Arena",
       "city": "Manchester",
-      "state": "NH"
+      "state": "NH",
+      "has_setlist": true
     },
     {
       "id": "7",
@@ -88,7 +92,8 @@
       "festival_name": null,
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

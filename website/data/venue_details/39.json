@@ -10,35 +10,40 @@
       "show_number": 497,
       "date": "2011-12-09",
       "festival_name": null,
-      "artists": "Gaslight Anthem (guest: Bruce Springsteen)"
+      "artists": "Gaslight Anthem (guest: Bruce Springsteen)",
+      "has_setlist": true
     },
     {
       "id": "372",
       "show_number": 371,
       "date": "2009-03-24",
       "festival_name": null,
-      "artists": "Bruce Springsteen & the E Street Band"
+      "artists": "Bruce Springsteen & the E Street Band",
+      "has_setlist": true
     },
     {
       "id": "259",
       "show_number": 258,
       "date": "2006-04-20",
       "festival_name": "Multi-Artist Show",
-      "artists": "Bruce Springsteen, the Seeger Sessions Band"
+      "artists": "Bruce Springsteen, the Seeger Sessions Band",
+      "has_setlist": true
     },
     {
       "id": "197",
       "show_number": 196,
       "date": "2003-12-08",
       "festival_name": null,
-      "artists": "Bruce Springsteen"
+      "artists": "Bruce Springsteen",
+      "has_setlist": true
     },
     {
       "id": "149",
       "show_number": 148,
       "date": "2001-12-04",
       "festival_name": null,
-      "artists": "Bruce Springsteen"
+      "artists": "Bruce Springsteen",
+      "has_setlist": true
     }
   ]
 }

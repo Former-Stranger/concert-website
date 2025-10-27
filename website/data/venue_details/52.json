@@ -10,14 +10,16 @@
       "show_number": 1095,
       "date": "2023-07-05",
       "festival_name": null,
-      "artists": "Neil Young"
+      "artists": "Neil Young",
+      "has_setlist": true
     },
     {
       "id": "852",
       "show_number": 851,
       "date": "2018-08-17",
       "festival_name": null,
-      "artists": "The Beach Boys"
+      "artists": "The Beach Boys",
+      "has_setlist": true
     }
   ]
 }

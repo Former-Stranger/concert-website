@@ -10,63 +10,72 @@
       "show_number": 1133,
       "date": "2023-12-03",
       "festival_name": "Multi-Artist Show",
-      "artists": "Steve Earle, John Mellencamp, Amy Helm, Dave Bromberg"
+      "artists": "Steve Earle, John Mellencamp, Amy Helm, Dave Bromberg",
+      "has_setlist": true
     },
     {
       "id": "1003",
       "show_number": 1002,
       "date": "2021-12-13",
       "festival_name": null,
-      "artists": "Bruce Springsteen + Earle + Nile + Cash (7th Annual J. Henry)"
+      "artists": "Bruce Springsteen + Earle + Nile + Cash (7th Annual J. Henry)",
+      "has_setlist": true
     },
     {
       "id": "991",
       "show_number": 990,
       "date": "2021-10-05",
       "festival_name": null,
-      "artists": "Foo Fighters:  Dave Grohl: Storyteller"
+      "artists": "Foo Fighters:  Dave Grohl: Storyteller",
+      "has_setlist": true
     },
     {
       "id": "986",
       "show_number": 985,
       "date": "2021-09-16",
       "festival_name": null,
-      "artists": "Lindsey Buckingham"
+      "artists": "Lindsey Buckingham",
+      "has_setlist": true
     },
     {
       "id": "805",
       "show_number": 804,
       "date": "2017-12-14",
       "festival_name": null,
-      "artists": "Kip Moore with Wade Bowen and Randy Rogers"
+      "artists": "Kip Moore with Wade Bowen and Randy Rogers",
+      "has_setlist": true
     },
     {
       "id": "737",
       "show_number": 736,
       "date": "2016-12-05",
       "festival_name": "Multi-Artist Show",
-      "artists": "Steve Earle, Friends"
+      "artists": "Steve Earle, Friends",
+      "has_setlist": true
     },
     {
       "id": "726",
       "show_number": 725,
       "date": "2016-10-07",
       "festival_name": null,
-      "artists": "Bruce Springsteen In Conversation"
+      "artists": "Bruce Springsteen In Conversation",
+      "has_setlist": true
     },
     {
       "id": "579",
       "show_number": 578,
       "date": "2014-06-19",
       "festival_name": null,
-      "artists": "Paul Rodgers Royal Sessions Live"
+      "artists": "Paul Rodgers Royal Sessions Live",
+      "has_setlist": true
     },
     {
       "id": "368",
       "show_number": 367,
       "date": "2009-01-14",
       "festival_name": null,
-      "artists": "Bon Jovi (Hillary Benefit)"
+      "artists": "Bon Jovi (Hillary Benefit)",
+      "has_setlist": true
     }
   ]
 }

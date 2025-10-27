@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1211",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Today Show Plaza at Rockefeller Center",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": false
     },
     {
       "id": "1125",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "Bakkt Theater at Planet Hollywood",
       "city": "Las Vegas",
-      "state": "NV"
+      "state": "NV",
+      "has_setlist": true
     },
     {
       "id": "1066",
@@ -79,7 +82,8 @@
       "festival_name": null,
       "venue": "UBS Arena",
       "city": "Elmont",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1065",
@@ -88,7 +92,8 @@
       "festival_name": null,
       "venue": "Mohegan Sun Arena",
       "city": "Uncasville",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     },
     {
       "id": "1033",
@@ -97,7 +102,8 @@
       "festival_name": null,
       "venue": "Rockefeller Plaza",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "962",
@@ -106,7 +112,8 @@
       "festival_name": null,
       "venue": "Mohegan Sun Arena",
       "city": "Uncasville",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     },
     {
       "id": "876",
@@ -115,7 +122,8 @@
       "festival_name": null,
       "venue": "Barclays Center",
       "city": "Brooklyn",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "845",
@@ -124,7 +132,8 @@
       "festival_name": null,
       "venue": "Today Show Plaza",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "732",
@@ -133,7 +142,8 @@
       "festival_name": null,
       "venue": "Barclays Center",
       "city": "Brooklyn",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "705",
@@ -142,7 +152,8 @@
       "festival_name": null,
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "692",
@@ -151,7 +162,8 @@
       "festival_name": null,
       "venue": "Stage 48",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "641",
@@ -160,7 +172,8 @@
       "festival_name": null,
       "venue": "Today Show Plaza at Rockefeller Center",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "591",
@@ -169,7 +182,8 @@
       "festival_name": null,
       "venue": "The Meadowlands",
       "city": "East Rutherford",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "588",
@@ -178,7 +192,8 @@
       "festival_name": null,
       "venue": "Highline Ballroom",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "563",
@@ -187,7 +202,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "482",
@@ -196,7 +212,8 @@
       "festival_name": null,
       "venue": "Mohegan Sun Arena",
       "city": "Uncasville",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     },
     {
       "id": "443",
@@ -205,7 +222,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Great South Bay Music Festival",
       "city": "Oakdale",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "Foxwoods Resort Casino",
       "city": "Mashantucket",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     },
     {
       "id": "819",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Paramount",
       "city": "Huntington",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "815",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "541",
@@ -79,7 +82,8 @@
       "festival_name": null,
       "venue": "Capitol Theatre",
       "city": "Port Chester",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

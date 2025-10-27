@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "Sphere",
       "city": "Las Vegas",
-      "state": "NV"
+      "state": "NV",
+      "has_setlist": true
     },
     {
       "id": "1172",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Sphere",
       "city": "Las Vegas",
-      "state": "NV"
+      "state": "NV",
+      "has_setlist": true
     },
     {
       "id": "1171",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "Sphere",
       "city": "Las Vegas",
-      "state": "NV"
+      "state": "NV",
+      "has_setlist": true
     },
     {
       "id": "1094",
@@ -79,7 +82,8 @@
       "festival_name": null,
       "venue": "Citi Field",
       "city": "Queens",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1093",
@@ -88,7 +92,8 @@
       "festival_name": null,
       "venue": "Citi Field",
       "city": "Queens",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1039",
@@ -97,7 +102,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Citi Field",
       "city": "Queens",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1038",
@@ -106,7 +112,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Citi Field",
       "city": "Queens",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1036",
@@ -115,7 +122,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Xfinity Center",
       "city": "Mansfield",
-      "state": "MA"
+      "state": "MA",
+      "has_setlist": true
     },
     {
       "id": "982",
@@ -124,7 +132,8 @@
       "festival_name": null,
       "venue": "Citi Field",
       "city": "Queens",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "957",
@@ -133,7 +142,8 @@
       "festival_name": null,
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "953",
@@ -142,7 +152,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "918",
@@ -151,7 +162,8 @@
       "festival_name": null,
       "venue": "Citi Field",
       "city": "Queens",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "834",
@@ -160,7 +172,8 @@
       "festival_name": null,
       "venue": "Citi Field",
       "city": "Queens",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "833",
@@ -169,7 +182,8 @@
       "festival_name": null,
       "venue": "Citi Field",
       "city": "Queens",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "798",
@@ -178,7 +192,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "762",
@@ -187,7 +202,8 @@
       "festival_name": null,
       "venue": "Citi Field",
       "city": "Queens",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "702",
@@ -196,7 +212,8 @@
       "festival_name": null,
       "venue": "Citi Field",
       "city": "Queens",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "701",
@@ -205,7 +222,8 @@
       "festival_name": null,
       "venue": "Citi Field",
       "city": "Queens",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "660",
@@ -214,7 +232,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "659",
@@ -223,7 +242,8 @@
       "festival_name": null,
       "venue": "MVP Arena",
       "city": "Albany",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

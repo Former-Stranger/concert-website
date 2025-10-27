@@ -10,28 +10,32 @@
       "show_number": 1066,
       "date": "2022-10-29",
       "festival_name": null,
-      "artists": "Weird Al"
+      "artists": "Weird Al",
+      "has_setlist": true
     },
     {
       "id": "668",
       "show_number": 667,
       "date": "2016-01-22",
       "festival_name": null,
-      "artists": "Joe Bonamassa"
+      "artists": "Joe Bonamassa",
+      "has_setlist": true
     },
     {
       "id": "617",
       "show_number": 616,
       "date": "2015-04-21",
       "festival_name": null,
-      "artists": "John Mellencamp"
+      "artists": "John Mellencamp",
+      "has_setlist": true
     },
     {
       "id": "364",
       "show_number": 363,
       "date": "2008-11-24",
       "festival_name": null,
-      "artists": "Family Guy Sings Live at Carnegie Hall (Seth MacFarlane)"
+      "artists": "Family Guy Sings Live at Carnegie Hall (Seth MacFarlane)",
+      "has_setlist": true
     }
   ]
 }

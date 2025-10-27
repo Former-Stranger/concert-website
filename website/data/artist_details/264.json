@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "Capitol Theatre",
       "city": "Port Chester",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1143",
@@ -61,7 +62,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Radio City Music Hall",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1103",
@@ -70,7 +72,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Capitol Theatre",
       "city": "Port Chester",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1016",
@@ -79,7 +82,8 @@
       "festival_name": null,
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

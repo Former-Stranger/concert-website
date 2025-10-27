@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "Palladium Times Square",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "540",
@@ -61,7 +62,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "The Meadowlands",
       "city": "East Rutherford",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     }
   ]
 }

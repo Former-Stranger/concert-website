@@ -52,7 +52,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     },
     {
       "id": "380",
@@ -61,7 +62,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     },
     {
       "id": "237",
@@ -70,7 +72,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "BB King Blues Club",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "162",
@@ -79,7 +82,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Mulcahy's Pub",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "156",
@@ -88,7 +92,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "BB King Blues Club",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

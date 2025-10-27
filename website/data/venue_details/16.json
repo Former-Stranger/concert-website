@@ -10,21 +10,24 @@
       "show_number": 1241,
       "date": "2025-03-11",
       "festival_name": null,
-      "artists": "Wilder Woods"
+      "artists": "Wilder Woods",
+      "has_setlist": true
     },
     {
       "id": "627",
       "show_number": 626,
       "date": "2015-06-06",
       "festival_name": null,
-      "artists": "Will Hoge"
+      "artists": "Will Hoge",
+      "has_setlist": true
     },
     {
       "id": "546",
       "show_number": 545,
       "date": "2013-07-25",
       "festival_name": null,
-      "artists": "Will Hoge"
+      "artists": "Will Hoge",
+      "has_setlist": true
     }
   ]
 }

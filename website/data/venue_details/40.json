@@ -10,35 +10,40 @@
       "show_number": 1232,
       "date": "2025-01-18",
       "festival_name": null,
-      "artists": "Bruce Springsteen:  Light of Day"
+      "artists": "Bruce Springsteen:  Light of Day",
+      "has_setlist": true
     },
     {
       "id": "1140",
       "show_number": 1139,
       "date": "2024-01-20",
       "festival_name": null,
-      "artists": "Light of Day"
+      "artists": "Light of Day",
+      "has_setlist": true
     },
     {
       "id": "1076",
       "show_number": 1075,
       "date": "2023-01-14",
       "festival_name": null,
-      "artists": "Light of Day"
+      "artists": "Light of Day",
+      "has_setlist": true
     },
     {
       "id": "1010",
       "show_number": 1009,
       "date": "2022-03-12",
       "festival_name": "Light of Day 22",
-      "artists": "Grushecky, Nile, Malin, Maddock etc."
+      "artists": "Grushecky, Nile, Malin, Maddock etc.",
+      "has_setlist": true
     },
     {
       "id": "144",
       "show_number": 143,
       "date": "2001-10-19",
       "festival_name": "Multi-Artist Show",
-      "artists": "Alliance for Neighbors concert (Bruce Springsteen, Bon Jovi, Joan Jett, John Eddie, Joe Ely, Sonny Burgess, Highway 9, Felix Cavaliere, Aztec Two Step, Phoebe Snow, DJ Fontana, Scotty Moore)"
+      "artists": "Alliance for Neighbors concert (Bruce Springsteen, Bon Jovi, Joan Jett, John Eddie, Joe Ely, Sonny Burgess, Highway 9, Felix Cavaliere, Aztec Two Step, Phoebe Snow, DJ Fontana, Scotty Moore)",
+      "has_setlist": true
     }
   ]
 }

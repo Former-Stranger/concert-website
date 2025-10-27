@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "Capitol Theatre",
       "city": "Port Chester",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1100",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Capitol Theatre",
       "city": "Port Chester",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "941",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "501",
@@ -79,7 +82,8 @@
       "festival_name": null,
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "329",
@@ -88,7 +92,8 @@
       "festival_name": null,
       "venue": "Gibson Guitar Tent (Vegas)",
       "city": "Las Vegas",
-      "state": "NV"
+      "state": "NV",
+      "has_setlist": true
     }
   ]
 }

@@ -32,7 +32,8 @@
       "festival_name": "Light of Day 22",
       "venue": "Count Basie Center for the Arts",
       "city": "Red Bank",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "531",
@@ -41,7 +42,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Paramount Theatre",
       "city": "Asbury Park",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     }
   ]
 }

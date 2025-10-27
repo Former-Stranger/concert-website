@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "Xfinity Center",
       "city": "Mansfield",
-      "state": "MA"
+      "state": "MA",
+      "has_setlist": true
     },
     {
       "id": "978",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "940",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "849",
@@ -79,7 +82,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "779",
@@ -88,7 +92,8 @@
       "festival_name": null,
       "venue": "Today Show Plaza at Rockefeller Center",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "645",
@@ -97,7 +102,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     }
   ]
 }

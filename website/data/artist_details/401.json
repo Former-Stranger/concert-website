@@ -52,7 +52,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Forest Hills Stadium",
       "city": "Forest Hills",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1096",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Ford Amphitheater at Coney Island",
       "city": "Brooklyn",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "366",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "115",
@@ -79,7 +82,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Freedom Mortgage Pavilion",
       "city": "Camden",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "30",
@@ -88,7 +92,8 @@
       "festival_name": null,
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

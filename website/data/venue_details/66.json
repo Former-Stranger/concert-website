@@ -10,14 +10,16 @@
       "show_number": 863,
       "date": "2018-09-21",
       "festival_name": null,
-      "artists": "Kip Moore"
+      "artists": "Kip Moore",
+      "has_setlist": true
     },
     {
       "id": "322",
       "show_number": 321,
       "date": "2007-11-02",
       "festival_name": null,
-      "artists": "John Fogerty"
+      "artists": "John Fogerty",
+      "has_setlist": true
     }
   ]
 }

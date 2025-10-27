@@ -11,7 +11,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     },
     {
       "id": "642",
@@ -20,7 +21,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Damrosch Park at Lincoln Center",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

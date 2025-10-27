@@ -52,7 +52,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "The Town Hall",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "821",
@@ -61,7 +62,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Paramount Hudson Valley Theater",
       "city": "Peekskill",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "737",
@@ -70,7 +72,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "The Town Hall",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "655",
@@ -79,7 +82,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "601",
@@ -88,7 +92,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Capitol Theatre",
       "city": "Port Chester",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "564",
@@ -97,7 +102,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Capitol Theatre",
       "city": "Port Chester",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

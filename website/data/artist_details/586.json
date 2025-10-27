@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     },
     {
       "id": "998",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     },
     {
       "id": "120",
@@ -70,7 +72,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "52",
@@ -79,7 +82,8 @@
       "festival_name": null,
       "venue": "O'Neill Theater Center",
       "city": "Waterford",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     }
   ]
 }

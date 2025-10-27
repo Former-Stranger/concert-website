@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "Sphere",
       "city": "Las Vegas",
-      "state": "NV"
+      "state": "NV",
+      "has_setlist": true
     },
     {
       "id": "839",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "838",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "Prudential Center",
       "city": "Newark",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "836",
@@ -79,7 +82,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "835",
@@ -88,7 +92,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "763",
@@ -97,7 +102,8 @@
       "festival_name": null,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "638",
@@ -106,7 +112,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "637",
@@ -115,7 +122,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "636",
@@ -124,7 +132,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "485",
@@ -133,7 +142,8 @@
       "festival_name": null,
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "394",
@@ -142,7 +152,8 @@
       "festival_name": null,
       "venue": "Giants Stadium",
       "city": "East Rutherford",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "393",
@@ -151,7 +162,8 @@
       "festival_name": null,
       "venue": "Giants Stadium",
       "city": "East Rutherford",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "245",
@@ -160,7 +172,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "229",
@@ -169,7 +182,8 @@
       "festival_name": null,
       "venue": "Wells Fargo Center",
       "city": "Philadelphia",
-      "state": "PA"
+      "state": "PA",
+      "has_setlist": true
     },
     {
       "id": "227",
@@ -178,7 +192,8 @@
       "festival_name": null,
       "venue": "Izod Center",
       "city": "East Rutherford",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "147",
@@ -187,7 +202,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "132",
@@ -196,7 +212,8 @@
       "festival_name": null,
       "venue": "Izod Center",
       "city": "East Rutherford",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "37",
@@ -205,7 +222,8 @@
       "festival_name": null,
       "venue": "Giants Stadium",
       "city": "East Rutherford",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     }
   ]
 }

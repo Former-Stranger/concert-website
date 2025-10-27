@@ -10,252 +10,288 @@
       "show_number": 1258,
       "date": "2025-06-13",
       "festival_name": null,
-      "artists": "Ringo Starr"
+      "artists": "Ringo Starr",
+      "has_setlist": true
     },
     {
       "id": "1236",
       "show_number": 1235,
       "date": "2025-02-14",
       "festival_name": null,
-      "artists": "SNL Concert"
+      "artists": "SNL Concert",
+      "has_setlist": false
     },
     {
       "id": "1178",
       "show_number": 1177,
       "date": "2024-07-16",
       "festival_name": "Multi-Artist Show",
-      "artists": "Daryl Hall, Elvis Costello"
+      "artists": "Daryl Hall, Elvis Costello",
+      "has_setlist": true
     },
     {
       "id": "1160",
       "show_number": 1159,
       "date": "2024-04-27",
       "festival_name": null,
-      "artists": "Black Crowes"
+      "artists": "Black Crowes",
+      "has_setlist": true
     },
     {
       "id": "1159",
       "show_number": 1158,
       "date": "2024-04-17",
       "festival_name": null,
-      "artists": "Barry Manilow"
+      "artists": "Barry Manilow",
+      "has_setlist": true
     },
     {
       "id": "1143",
       "show_number": 1142,
       "date": "2024-02-24",
       "festival_name": "Multi-Artist Show",
-      "artists": "Jason Isbell, 400 Unit (w. Aimee Mann)"
+      "artists": "Jason Isbell, 400 Unit (w. Aimee Mann)",
+      "has_setlist": true
     },
     {
       "id": "1105",
       "show_number": 1104,
       "date": "2023-08-02",
       "festival_name": null,
-      "artists": "Tyler Childers"
+      "artists": "Tyler Childers",
+      "has_setlist": true
     },
     {
       "id": "1090",
       "show_number": 1089,
       "date": "2023-04-28",
       "festival_name": null,
-      "artists": "John Fogerty"
+      "artists": "John Fogerty",
+      "has_setlist": true
     },
     {
       "id": "1015",
       "show_number": 1014,
       "date": "2022-04-03",
       "festival_name": "Multi-Artist Show",
-      "artists": "Bob Weir, Wolf Brothers"
+      "artists": "Bob Weir, Wolf Brothers",
+      "has_setlist": true
     },
     {
       "id": "933",
       "show_number": 932,
       "date": "2019-08-15",
       "festival_name": null,
-      "artists": "John Fogerty"
+      "artists": "John Fogerty",
+      "has_setlist": true
     },
     {
       "id": "922",
       "show_number": 921,
       "date": "2019-07-17",
       "festival_name": null,
-      "artists": "Lionel Richie"
+      "artists": "Lionel Richie",
+      "has_setlist": true
     },
     {
       "id": "860",
       "show_number": 859,
       "date": "2018-09-13",
       "festival_name": "Multi-Artist Show",
-      "artists": "Ringo Starr, All Starr Band"
+      "artists": "Ringo Starr, All Starr Band",
+      "has_setlist": true
     },
     {
       "id": "837",
       "show_number": 836,
       "date": "2018-06-27",
       "festival_name": null,
-      "artists": "Steve Miller Band/Peter Frampton"
+      "artists": "Steve Miller Band/Peter Frampton",
+      "has_setlist": true
     },
     {
       "id": "817",
       "show_number": 816,
       "date": "2018-03-03",
       "festival_name": "Multi-Artist Show",
-      "artists": "Phil Lesh & Friends"
+      "artists": "Phil Lesh & Friends",
+      "has_setlist": true
     },
     {
       "id": "816",
       "show_number": 815,
       "date": "2018-03-02",
       "festival_name": "Multi-Artist Show",
-      "artists": "Phil Lesh & Friends"
+      "artists": "Phil Lesh & Friends",
+      "has_setlist": true
     },
     {
       "id": "784",
       "show_number": 783,
       "date": "2017-09-14",
       "festival_name": null,
-      "artists": "Sturgill Simpson"
+      "artists": "Sturgill Simpson",
+      "has_setlist": true
     },
     {
       "id": "725",
       "show_number": 724,
       "date": "2016-09-24",
       "festival_name": null,
-      "artists": "Weird Al"
+      "artists": "Weird Al",
+      "has_setlist": true
     },
     {
       "id": "721",
       "show_number": 720,
       "date": "2016-09-16",
       "festival_name": null,
-      "artists": "ELO"
+      "artists": "ELO",
+      "has_setlist": true
     },
     {
       "id": "676",
       "show_number": 675,
       "date": "2016-03-02",
       "festival_name": "Multi-Artist Show",
-      "artists": "Elton John, Katy Perry, Andra Day"
+      "artists": "Elton John, Katy Perry, Andra Day",
+      "has_setlist": true
     },
     {
       "id": "631",
       "show_number": 630,
       "date": "2015-06-24",
       "festival_name": null,
-      "artists": "John Fogerty"
+      "artists": "John Fogerty",
+      "has_setlist": true
     },
     {
       "id": "628",
       "show_number": 627,
       "date": "2015-06-17",
       "festival_name": "Multi-Artist Show",
-      "artists": "Amos Lee, David Gray"
+      "artists": "Amos Lee, David Gray",
+      "has_setlist": true
     },
     {
       "id": "578",
       "show_number": 577,
       "date": "2014-06-10",
       "festival_name": "Multi-Artist Show",
-      "artists": "Willie Nelson, Alison Krauss, Kacey Musgraves"
+      "artists": "Willie Nelson, Alison Krauss, Kacey Musgraves",
+      "has_setlist": true
     },
     {
       "id": "474",
       "show_number": 473,
       "date": "2011-03-27",
       "festival_name": null,
-      "artists": "Further"
+      "artists": "Further",
+      "has_setlist": true
     },
     {
       "id": "465",
       "show_number": 464,
       "date": "2011-02-18",
       "festival_name": null,
-      "artists": "John Mellencamp"
+      "artists": "John Mellencamp",
+      "has_setlist": true
     },
     {
       "id": "447",
       "show_number": 446,
       "date": "2010-09-30",
       "festival_name": null,
-      "artists": "Gaslight Anthem"
+      "artists": "Gaslight Anthem",
+      "has_setlist": true
     },
     {
       "id": "446",
       "show_number": 445,
       "date": "2010-09-26",
       "festival_name": null,
-      "artists": "Sheryl Crow"
+      "artists": "Sheryl Crow",
+      "has_setlist": true
     },
     {
       "id": "419",
       "show_number": 418,
       "date": "2010-05-03",
       "festival_name": null,
-      "artists": "Peter Gabriel"
+      "artists": "Peter Gabriel",
+      "has_setlist": true
     },
     {
       "id": "374",
       "show_number": 373,
       "date": "2009-04-15",
       "festival_name": null,
-      "artists": "Flight of the Conchords"
+      "artists": "Flight of the Conchords",
+      "has_setlist": true
     },
     {
       "id": "335",
       "show_number": 334,
       "date": "2008-04-09",
       "festival_name": null,
-      "artists": "Elton John"
+      "artists": "Elton John",
+      "has_setlist": true
     },
     {
       "id": "291",
       "show_number": 290,
       "date": "2007-01-31",
       "festival_name": null,
-      "artists": "Rock Star Supernova"
+      "artists": "Rock Star Supernova",
+      "has_setlist": true
     },
     {
       "id": "283",
       "show_number": 282,
       "date": "2006-10-11",
       "festival_name": null,
-      "artists": "James Blunt"
+      "artists": "James Blunt",
+      "has_setlist": true
     },
     {
       "id": "269",
       "show_number": 268,
       "date": "2006-07-20",
       "festival_name": "Multi-Artist Show",
-      "artists": "Ringo Starr & His All Starr Band (Billy Squier, Richard Marx, Rod Argent, Sheila E. & Edgar Winter)"
+      "artists": "Ringo Starr & His All Starr Band (Billy Squier, Richard Marx, Rod Argent, Sheila E. & Edgar Winter)",
+      "has_setlist": true
     },
     {
       "id": "267",
       "show_number": 266,
       "date": "2006-07-14",
       "festival_name": null,
-      "artists": "Bob Weir & Ratdog & String Cheese Incident"
+      "artists": "Bob Weir & Ratdog & String Cheese Incident",
+      "has_setlist": true
     },
     {
       "id": "261",
       "show_number": 260,
       "date": "2006-05-05",
       "festival_name": null,
-      "artists": "INXS"
+      "artists": "INXS",
+      "has_setlist": true
     },
     {
       "id": "208",
       "show_number": 207,
       "date": "2004-07-18",
       "festival_name": "Multi-Artist Show",
-      "artists": "Elton John, Symphony"
+      "artists": "Elton John, Symphony",
+      "has_setlist": true
     },
     {
       "id": "128",
       "show_number": 127,
       "date": "2001-06-08",
       "festival_name": "Multi-Artist Show",
-      "artists": "Black Crowes, Oasis"
+      "artists": "Black Crowes, Oasis",
+      "has_setlist": true
     }
   ]
 }

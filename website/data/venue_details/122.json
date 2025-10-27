@@ -10,21 +10,24 @@
       "show_number": 886,
       "date": "2018-12-06",
       "festival_name": null,
-      "artists": "Lindsey Buckingham"
+      "artists": "Lindsey Buckingham",
+      "has_setlist": true
     },
     {
       "id": "722",
       "show_number": 721,
       "date": "2016-09-18",
       "festival_name": null,
-      "artists": "Donovan"
+      "artists": "Donovan",
+      "has_setlist": true
     },
     {
       "id": "689",
       "show_number": 688,
       "date": "2016-04-29",
       "festival_name": "Multi-Artist Show",
-      "artists": "John Hiatt, Rick Brantley"
+      "artists": "John Hiatt, Rick Brantley",
+      "has_setlist": true
     }
   ]
 }

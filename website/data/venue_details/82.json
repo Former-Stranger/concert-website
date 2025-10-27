@@ -10,14 +10,16 @@
       "show_number": 1234,
       "date": "2025-02-11",
       "festival_name": null,
-      "artists": "Jack White"
+      "artists": "Jack White",
+      "has_setlist": true
     },
     {
       "id": "1221",
       "show_number": 1220,
       "date": "2024-11-26",
       "festival_name": null,
-      "artists": "Empire of the Sun"
+      "artists": "Empire of the Sun",
+      "has_setlist": true
     }
   ]
 }

@@ -10,140 +10,160 @@
       "show_number": 704,
       "date": "2016-07-16",
       "festival_name": null,
-      "artists": "Keith Urban"
+      "artists": "Keith Urban",
+      "has_setlist": true
     },
     {
       "id": "697",
       "show_number": 696,
       "date": "2016-06-11",
       "festival_name": "Multi-Artist Show",
-      "artists": "Bad Company, Joe Walsh"
+      "artists": "Bad Company, Joe Walsh",
+      "has_setlist": true
     },
     {
       "id": "548",
       "show_number": 547,
       "date": "2013-08-03",
       "festival_name": null,
-      "artists": "OAR"
+      "artists": "OAR",
+      "has_setlist": true
     },
     {
       "id": "354",
       "show_number": 353,
       "date": "2008-07-03",
       "festival_name": null,
-      "artists": "The Police"
+      "artists": "The Police",
+      "has_setlist": true
     },
     {
       "id": "339",
       "show_number": 338,
       "date": "2008-05-31",
       "festival_name": null,
-      "artists": "Stone Temple Pilots"
+      "artists": "Stone Temple Pilots",
+      "has_setlist": true
     },
     {
       "id": "275",
       "show_number": 274,
       "date": "2006-08-20",
       "festival_name": "Multi-Artist Show",
-      "artists": "Crosby, Stills, Nash & Young"
+      "artists": "Crosby, Stills, Nash & Young",
+      "has_setlist": true
     },
     {
       "id": "265",
       "show_number": 264,
       "date": "2006-06-25",
       "festival_name": "Multi-Artist Show",
-      "artists": "Bruce Springsteen, the Seeger Sessions Band"
+      "artists": "Bruce Springsteen, the Seeger Sessions Band",
+      "has_setlist": true
     },
     {
       "id": "233",
       "show_number": 232,
       "date": "2005-07-16",
       "festival_name": "Multi-Artist Show",
-      "artists": "John Mellencamp, John Fogerty"
+      "artists": "John Mellencamp, John Fogerty",
+      "has_setlist": true
     },
     {
       "id": "190",
       "show_number": 189,
       "date": "2003-08-11",
       "festival_name": "Multi-Artist Show",
-      "artists": "KISS, Aerosmith"
+      "artists": "KISS, Aerosmith",
+      "has_setlist": true
     },
     {
       "id": "189",
       "show_number": 188,
       "date": "2003-08-09",
       "festival_name": null,
-      "artists": "Tom Petty & the Heartbreakers & Bob Dylan"
+      "artists": "Tom Petty & the Heartbreakers & Bob Dylan",
+      "has_setlist": true
     },
     {
       "id": "138",
       "show_number": 137,
       "date": "2001-07-21",
       "festival_name": null,
-      "artists": "Stevie Nicks"
+      "artists": "Stevie Nicks",
+      "has_setlist": true
     },
     {
       "id": "137",
       "show_number": 136,
       "date": "2001-07-20",
       "festival_name": "Multi-Artist Show",
-      "artists": "Paul Simon, Brian Wilson"
+      "artists": "Paul Simon, Brian Wilson",
+      "has_setlist": true
     },
     {
       "id": "135",
       "show_number": 134,
       "date": "2001-07-01",
       "festival_name": null,
-      "artists": "Tom Petty & the Heartbreakers & Jackson Browne"
+      "artists": "Tom Petty & the Heartbreakers & Jackson Browne",
+      "has_setlist": true
     },
     {
       "id": "106",
       "show_number": 105,
       "date": "2000-06-28",
       "festival_name": null,
-      "artists": "Phish"
+      "artists": "Phish",
+      "has_setlist": true
     },
     {
       "id": "86",
       "show_number": 85,
       "date": "1999-06-30",
       "festival_name": null,
-      "artists": "Tom Petty & the Heartbreakers"
+      "artists": "Tom Petty & the Heartbreakers",
+      "has_setlist": true
     },
     {
       "id": "70",
       "show_number": 69,
       "date": "1998-07-31",
       "festival_name": "Multi-Artist Show",
-      "artists": "HORDE (Blues Traveler, Barenaked Ladies & Gov't Mule, Paula Cole, Ben Harper)"
+      "artists": "HORDE (Blues Traveler, Barenaked Ladies & Gov't Mule, Paula Cole, Ben Harper)",
+      "has_setlist": true
     },
     {
       "id": "69",
       "show_number": 68,
       "date": "1998-07-22",
       "festival_name": "Multi-Artist Show",
-      "artists": "Lynyrd Skynyrd, .38 Special"
+      "artists": "Lynyrd Skynyrd, .38 Special",
+      "has_setlist": true
     },
     {
       "id": "67",
       "show_number": 66,
       "date": "1998-07-11",
       "festival_name": "Multi-Artist Show",
-      "artists": "Chicago and Hall, Oates"
+      "artists": "Chicago and Hall, Oates",
+      "has_setlist": true
     },
     {
       "id": "66",
       "show_number": 65,
       "date": "1998-06-27",
       "festival_name": null,
-      "artists": "John Fogerty"
+      "artists": "John Fogerty",
+      "has_setlist": true
     },
     {
       "id": "28",
       "show_number": 27,
       "date": "1996-08-10",
       "festival_name": "Multi-Artist Show",
-      "artists": "Lynyrd Skynyrd, The Doobie Brothers"
+      "artists": "Lynyrd Skynyrd, The Doobie Brothers",
+      "has_setlist": true
     }
   ]
 }

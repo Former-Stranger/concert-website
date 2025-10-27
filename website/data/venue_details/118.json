@@ -10,49 +10,56 @@
       "show_number": 1114,
       "date": "2023-09-15",
       "festival_name": "Multi-Artist Show",
-      "artists": "Tommy Emmanuel w. Larry Campbell, Teresa Williams"
+      "artists": "Tommy Emmanuel w. Larry Campbell, Teresa Williams",
+      "has_setlist": true
     },
     {
       "id": "821",
       "show_number": 820,
       "date": "2018-04-15",
       "festival_name": "Multi-Artist Show",
-      "artists": "Steve Earle, The Dukes with The Mastersons"
+      "artists": "Steve Earle, The Dukes with The Mastersons",
+      "has_setlist": true
     },
     {
       "id": "450",
       "show_number": 449,
       "date": "2010-10-19",
       "festival_name": null,
-      "artists": "Ian Anderson"
+      "artists": "Ian Anderson",
+      "has_setlist": true
     },
     {
       "id": "299",
       "show_number": 298,
       "date": "2007-05-16",
       "festival_name": null,
-      "artists": "Stephen Stills"
+      "artists": "Stephen Stills",
+      "has_setlist": true
     },
     {
       "id": "286",
       "show_number": 285,
       "date": "2006-11-08",
       "festival_name": null,
-      "artists": "Donovan"
+      "artists": "Donovan",
+      "has_setlist": true
     },
     {
       "id": "36",
       "show_number": 35,
       "date": "1997-04-25",
       "festival_name": null,
-      "artists": "Ray Davies"
+      "artists": "Ray Davies",
+      "has_setlist": true
     },
     {
       "id": "23",
       "show_number": 22,
       "date": "1996-07-13",
       "festival_name": null,
-      "artists": "Roger McGuinn"
+      "artists": "Roger McGuinn",
+      "has_setlist": true
     }
   ]
 }

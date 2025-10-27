@@ -11,7 +11,8 @@
       "festival_name": "Newtown Benefit",
       "venue": "NA",
       "city": "Newtown",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": false
     },
     {
       "id": "282",
@@ -20,7 +21,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Yonkers",
       "city": "Yonkers",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "198",
@@ -29,7 +31,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "BB King Blues Club",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "150",
@@ -38,7 +41,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Webster Theater",
       "city": "Hartford",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     }
   ]
 }

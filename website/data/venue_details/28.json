@@ -10,14 +10,16 @@
       "show_number": 1270,
       "date": "2025-08-02",
       "festival_name": "Multi-Artist Show",
-      "artists": "Lyle Lovett, His Large Band"
+      "artists": "Lyle Lovett, His Large Band",
+      "has_setlist": true
     },
     {
       "id": "965",
       "show_number": 964,
       "date": "2019-12-07",
       "festival_name": null,
-      "artists": "John Hiatt"
+      "artists": "John Hiatt",
+      "has_setlist": true
     }
   ]
 }

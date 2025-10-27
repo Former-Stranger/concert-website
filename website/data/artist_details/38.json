@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "Radio City Music Hall",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "934",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Broadway Theatre",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "804",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

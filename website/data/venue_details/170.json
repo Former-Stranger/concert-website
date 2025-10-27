@@ -10,14 +10,16 @@
       "show_number": 844,
       "date": "2018-08-02",
       "festival_name": null,
-      "artists": "Keith Urban"
+      "artists": "Keith Urban",
+      "has_setlist": true
     },
     {
       "id": "832",
       "show_number": 831,
       "date": "2018-06-12",
       "festival_name": null,
-      "artists": "Dierks Bentley"
+      "artists": "Dierks Bentley",
+      "has_setlist": true
     }
   ]
 }

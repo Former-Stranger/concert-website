@@ -52,7 +52,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Asbury Park Beach",
       "city": "Asbury Park",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "840",
@@ -61,7 +62,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

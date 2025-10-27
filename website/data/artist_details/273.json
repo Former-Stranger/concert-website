@@ -16,7 +16,8 @@
       "festival_name": null,
       "venue": "Stone Pony",
       "city": "Asbury Park",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "582",
@@ -25,7 +26,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Tappan Park",
       "city": "Staten Island",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "560",
@@ -34,7 +36,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Paramount Theatre",
       "city": "Asbury Park",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "499",
@@ -43,7 +46,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Stone Pony",
       "city": "Asbury Park",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "466",
@@ -52,7 +56,8 @@
       "festival_name": null,
       "venue": "City Winery",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "448",
@@ -61,7 +66,8 @@
       "festival_name": null,
       "venue": "Bowery Electric",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "413",
@@ -70,7 +76,8 @@
       "festival_name": null,
       "venue": "Bowery Electric",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "401",
@@ -79,7 +86,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Terminal 5",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

@@ -10,21 +10,24 @@
       "show_number": 1266,
       "date": "2025-07-18",
       "festival_name": null,
-      "artists": "Brad Paisley"
+      "artists": "Brad Paisley",
+      "has_setlist": true
     },
     {
       "id": "1181",
       "show_number": 1180,
       "date": "2024-07-24",
       "festival_name": null,
-      "artists": "Sammy Hagar"
+      "artists": "Sammy Hagar",
+      "has_setlist": true
     },
     {
       "id": "288",
       "show_number": 287,
       "date": "2006-11-28",
       "festival_name": "Multi-Artist Show",
-      "artists": "The Who, The Pretenders"
+      "artists": "The Who, The Pretenders",
+      "has_setlist": true
     }
   ]
 }

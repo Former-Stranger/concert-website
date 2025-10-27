@@ -10,14 +10,16 @@
       "show_number": 782,
       "date": "2017-09-09",
       "festival_name": null,
-      "artists": "Pete Townshend / Quadrophenia"
+      "artists": "Pete Townshend / Quadrophenia",
+      "has_setlist": true
     },
     {
       "id": "432",
       "show_number": 431,
       "date": "2010-07-13",
       "festival_name": null,
-      "artists": "Sting with Philharmonic"
+      "artists": "Sting with Philharmonic",
+      "has_setlist": true
     }
   ]
 }

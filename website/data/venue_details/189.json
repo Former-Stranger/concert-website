@@ -10,28 +10,32 @@
       "show_number": 1098,
       "date": "2023-07-15",
       "festival_name": null,
-      "artists": "Jason Aldean"
+      "artists": "Jason Aldean",
+      "has_setlist": true
     },
     {
       "id": "1036",
       "show_number": 1035,
       "date": "2022-07-05",
       "festival_name": "Multi-Artist Show",
-      "artists": "DEAD: Dead, Company"
+      "artists": "DEAD: Dead, Company",
+      "has_setlist": true
     },
     {
       "id": "976",
       "show_number": 975,
       "date": "2021-07-25",
       "festival_name": null,
-      "artists": "Black Crowes"
+      "artists": "Black Crowes",
+      "has_setlist": true
     },
     {
       "id": "938",
       "show_number": 937,
       "date": "2019-08-29",
       "festival_name": null,
-      "artists": "Brad Paisely"
+      "artists": "Brad Paisely",
+      "has_setlist": true
     }
   ]
 }

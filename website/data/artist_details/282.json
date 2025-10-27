@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "Stamford Center for Arts",
       "city": "Stamford",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     },
     {
       "id": "119",
@@ -61,7 +62,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "31",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "8",
@@ -79,7 +82,8 @@
       "festival_name": null,
       "venue": "Beacon Theatre",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

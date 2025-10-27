@@ -10,21 +10,24 @@
       "show_number": 349,
       "date": "2008-07-18",
       "festival_name": null,
-      "artists": "Billy Joel"
+      "artists": "Billy Joel",
+      "has_setlist": true
     },
     {
       "id": "349",
       "show_number": 348,
       "date": "2008-07-16",
       "festival_name": null,
-      "artists": "Billy Joel"
+      "artists": "Billy Joel",
+      "has_setlist": true
     },
     {
       "id": "195",
       "show_number": 194,
       "date": "2003-10-04",
       "festival_name": null,
-      "artists": "Bruce Springsteen & the E Street Band"
+      "artists": "Bruce Springsteen & the E Street Band",
+      "has_setlist": true
     }
   ]
 }

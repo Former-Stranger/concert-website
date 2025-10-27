@@ -52,7 +52,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "UBS Arena",
       "city": "Elmont",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "851",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Today Show Plaza at Rockefeller Center",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "586",
@@ -70,7 +72,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "289",
@@ -79,7 +82,8 @@
       "festival_name": null,
       "venue": "Beacon Theatre",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "196",
@@ -88,7 +92,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "190",
@@ -97,7 +102,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "131",
@@ -106,7 +112,8 @@
       "festival_name": null,
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "73",
@@ -115,7 +122,8 @@
       "festival_name": null,
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "48",
@@ -124,7 +132,8 @@
       "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

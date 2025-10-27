@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "Capitol Theatre",
       "city": "Port Chester",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "924",
@@ -61,7 +62,8 @@
       "festival_name": "Newport Folk Festival",
       "venue": "Fort Adams State Park",
       "city": "Newport",
-      "state": "RI"
+      "state": "RI",
+      "has_setlist": true
     },
     {
       "id": "446",
@@ -70,7 +72,8 @@
       "festival_name": null,
       "venue": "Radio City Music Hall",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

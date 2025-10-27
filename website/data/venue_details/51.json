@@ -10,14 +10,16 @@
       "show_number": 62,
       "date": "1998-05-16",
       "festival_name": null,
-      "artists": "Elton John"
+      "artists": "Elton John",
+      "has_setlist": true
     },
     {
       "id": "62",
       "show_number": 61,
       "date": "1998-05-15",
       "festival_name": null,
-      "artists": "Elton John"
+      "artists": "Elton John",
+      "has_setlist": true
     }
   ]
 }

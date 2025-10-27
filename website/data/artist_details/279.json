@@ -52,7 +52,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Madison Square Garden",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "624",
@@ -61,7 +62,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Barclays Center",
       "city": "Brooklyn",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "144",
@@ -70,7 +72,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Count Basie Center for the Arts",
       "city": "Red Bank",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "143",
@@ -79,7 +82,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

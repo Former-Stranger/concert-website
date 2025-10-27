@@ -10,28 +10,32 @@
       "show_number": 1224,
       "date": "2024-12-12",
       "festival_name": null,
-      "artists": "Kip Moore"
+      "artists": "Kip Moore",
+      "has_setlist": true
     },
     {
       "id": "696",
       "show_number": 695,
       "date": "2016-06-10",
       "festival_name": null,
-      "artists": "Mudcrutch"
+      "artists": "Mudcrutch",
+      "has_setlist": true
     },
     {
       "id": "525",
       "show_number": 524,
       "date": "2012-10-18",
       "festival_name": null,
-      "artists": "Ryan Bingham"
+      "artists": "Ryan Bingham",
+      "has_setlist": true
     },
     {
       "id": "293",
       "show_number": 292,
       "date": "2007-03-14",
       "festival_name": null,
-      "artists": "Fab Faux"
+      "artists": "Fab Faux",
+      "has_setlist": true
     }
   ]
 }

@@ -52,7 +52,8 @@
       "festival_name": null,
       "venue": "Wonder Bar",
       "city": "Asbury Park",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": false
     },
     {
       "id": "1208",
@@ -61,7 +62,8 @@
       "festival_name": null,
       "venue": "Le Poisson Rouge",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": false
     },
     {
       "id": "1081",
@@ -70,7 +72,8 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Gramercy Theater",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "1014",
@@ -79,7 +82,8 @@
       "festival_name": null,
       "venue": "Hill Country Live",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "995",
@@ -88,7 +92,8 @@
       "festival_name": null,
       "venue": "Daryl's House",
       "city": "Pawling",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "866",
@@ -97,7 +102,8 @@
       "festival_name": null,
       "venue": "City Winery",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "865",
@@ -106,7 +112,8 @@
       "festival_name": null,
       "venue": "Fairfield Stage One",
       "city": "Fairfield",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": true
     },
     {
       "id": "789",
@@ -115,7 +122,8 @@
       "festival_name": null,
       "venue": "Highline Ballroom",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "742",
@@ -124,7 +132,8 @@
       "festival_name": null,
       "venue": "Daryl's House",
       "city": "Pawling",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "712",
@@ -133,7 +142,8 @@
       "festival_name": null,
       "venue": "City Winery",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "711",
@@ -142,7 +152,8 @@
       "festival_name": null,
       "venue": "The Saint Asbury Park",
       "city": "Asbury Park",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "644",
@@ -151,7 +162,8 @@
       "festival_name": null,
       "venue": "Wonder Bar",
       "city": "Asbury Park",
-      "state": "NJ"
+      "state": "NJ",
+      "has_setlist": true
     },
     {
       "id": "627",
@@ -160,7 +172,8 @@
       "festival_name": null,
       "venue": "Bowery",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "553",
@@ -169,7 +182,8 @@
       "festival_name": null,
       "venue": "Bell House",
       "city": "Brooklyn",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     },
     {
       "id": "546",
@@ -178,7 +192,8 @@
       "festival_name": null,
       "venue": "Bowery",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": true
     }
   ]
 }

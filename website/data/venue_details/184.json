@@ -10,35 +10,40 @@
       "show_number": 1078,
       "date": "2023-03-16",
       "festival_name": null,
-      "artists": "Bruce Springsteen & the E Street Band"
+      "artists": "Bruce Springsteen & the E Street Band",
+      "has_setlist": true
     },
     {
       "id": "673",
       "show_number": 672,
       "date": "2016-02-12",
       "festival_name": null,
-      "artists": "Bruce Springsteen & the E Street Band"
+      "artists": "Bruce Springsteen & the E Street Band",
+      "has_setlist": true
     },
     {
       "id": "229",
       "show_number": 228,
       "date": "2005-05-22",
       "festival_name": null,
-      "artists": "U2"
+      "artists": "U2",
+      "has_setlist": true
     },
     {
       "id": "215",
       "show_number": 214,
       "date": "2004-10-01",
       "festival_name": null,
-      "artists": "Bruce Springsteen"
+      "artists": "Bruce Springsteen",
+      "has_setlist": true
     },
     {
       "id": "170",
       "show_number": 169,
       "date": "2002-10-06",
       "festival_name": null,
-      "artists": "Bruce Springsteen & the E Street Band"
+      "artists": "Bruce Springsteen & the E Street Band",
+      "has_setlist": true
     }
   ]
 }
