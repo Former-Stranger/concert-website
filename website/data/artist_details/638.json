@@ -83,7 +83,7 @@
       "venue": "Hill Country Live",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "995",
@@ -113,7 +113,7 @@
       "venue": "Fairfield Stage One",
       "city": "Fairfield",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "789",
@@ -123,7 +123,7 @@
       "venue": "Highline Ballroom",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "742",
@@ -133,7 +133,7 @@
       "venue": "Daryl's House",
       "city": "Pawling",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "712",
@@ -153,7 +153,7 @@
       "venue": "The Saint Asbury Park",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "644",
@@ -183,7 +183,7 @@
       "venue": "Bell House",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "546",
@@ -193,7 +193,7 @@
       "venue": "Bowery",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     }
   ]
 }

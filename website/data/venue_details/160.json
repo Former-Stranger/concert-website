@@ -11,7 +11,7 @@
       "date": "2022-11-10",
       "festival_name": null,
       "artists": "Kip Moore",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "959",
@@ -27,7 +27,7 @@
       "date": "2019-01-23",
       "festival_name": null,
       "artists": "Brothers Osbourne",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "736",
@@ -51,7 +51,7 @@
       "date": "2009-10-15",
       "festival_name": "Multi-Artist Show",
       "artists": "Gaslight Anthem, Jesse Malin",
-      "has_setlist": true
+      "has_setlist": false
     }
   ]
 }

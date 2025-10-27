@@ -63,7 +63,7 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "403",
@@ -73,7 +73,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "164",
@@ -83,7 +83,7 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     }
   ]
 }

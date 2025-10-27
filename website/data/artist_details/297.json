@@ -73,7 +73,7 @@
       "venue": "Caramoor Center for Music and the Arts",
       "city": "Katonah",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "911",
@@ -133,7 +133,7 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "694",
@@ -153,7 +153,7 @@
       "venue": "Peekskill Paramount",
       "city": "Peekskill",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "649",
@@ -163,7 +163,7 @@
       "venue": "Klein Memorial Auditorium",
       "city": "Bridgeport",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "620",
@@ -193,7 +193,7 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "584",
@@ -203,7 +203,7 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "561",
@@ -213,7 +213,7 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "549",
@@ -243,7 +243,7 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "486",
@@ -253,7 +253,7 @@
       "venue": "City Winery",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "414",
@@ -263,7 +263,7 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "370",
@@ -283,7 +283,7 @@
       "venue": "Rockin River Cruise",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     }
   ]
 }

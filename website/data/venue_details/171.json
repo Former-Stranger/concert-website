@@ -19,7 +19,7 @@
       "date": "2023-07-14",
       "festival_name": null,
       "artists": "Brad Paisley",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "851",
@@ -35,7 +35,7 @@
       "date": "2017-08-25",
       "festival_name": null,
       "artists": "Jason Aldean",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "641",
@@ -67,7 +67,7 @@
       "date": "2007-09-28",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": true
+      "has_setlist": false
     }
   ]
 }

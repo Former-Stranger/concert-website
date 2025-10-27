@@ -123,7 +123,7 @@
       "date": "2024-07-25",
       "festival_name": null,
       "artists": "Billy Joel (Final Franchise)",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "1170",
@@ -147,7 +147,7 @@
       "date": "2024-05-09",
       "festival_name": null,
       "artists": "Billy Joel (75th Birthday)",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "1151",
@@ -155,7 +155,7 @@
       "date": "2024-03-28",
       "festival_name": null,
       "artists": "Billy Joel (100th)",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "1142",
@@ -179,7 +179,7 @@
       "date": "2023-11-17",
       "festival_name": null,
       "artists": "Dave Matthews Band",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "1123",
@@ -211,7 +211,7 @@
       "date": "2023-09-07",
       "festival_name": null,
       "artists": "The Eagles + Steely Dan",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "1104",
@@ -243,7 +243,7 @@
       "date": "2023-04-01",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "1073",
@@ -259,7 +259,7 @@
       "date": "2022-09-30",
       "festival_name": null,
       "artists": "The Killers (w. Johnny Marr)",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "1060",
@@ -371,7 +371,7 @@
       "date": "2020-02-15",
       "festival_name": null,
       "artists": "The Eagles",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "967",
@@ -379,7 +379,7 @@
       "date": "2019-12-19",
       "festival_name": null,
       "artists": "Andrea Bocelli",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "890",
@@ -387,7 +387,7 @@
       "date": "2019-12-19",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "966",
@@ -619,7 +619,7 @@
       "date": "2018-08-07",
       "festival_name": null,
       "artists": "Rod Stewart/Cyndi Lauper",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "843",
@@ -747,7 +747,7 @@
       "date": "2017-09-08",
       "festival_name": null,
       "artists": "Eric Clapton",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "778",
@@ -899,7 +899,7 @@
       "date": "2016-03-28",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "677",
@@ -923,7 +923,7 @@
       "date": "2016-01-27",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "667",
@@ -947,7 +947,7 @@
       "date": "2015-11-01",
       "festival_name": null,
       "artists": "Dead and Company",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "638",
@@ -1235,7 +1235,7 @@
       "date": "2011-11-10",
       "festival_name": null,
       "artists": "Further",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "473",
@@ -1251,7 +1251,7 @@
       "date": "2011-03-20",
       "festival_name": "Multi-Artist Show",
       "artists": "Elton John, Leon Russell",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "468",
@@ -1259,7 +1259,7 @@
       "date": "2011-03-16",
       "festival_name": "Multi-Artist Show",
       "artists": "Elton John, Leon Russell",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "467",
@@ -1283,7 +1283,7 @@
       "date": "2010-11-28",
       "festival_name": null,
       "artists": "Michael Buble",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "459",
@@ -1291,7 +1291,7 @@
       "date": "2010-11-20",
       "festival_name": null,
       "artists": "Further",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "457",
@@ -1315,7 +1315,7 @@
       "date": "2010-07-28",
       "festival_name": null,
       "artists": "Tom Petty and the Heartbreakers with Buddy Guy",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "429",
@@ -1363,7 +1363,7 @@
       "date": "2009-11-08",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "405",
@@ -1371,7 +1371,7 @@
       "date": "2009-11-07",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "403",
@@ -1379,7 +1379,7 @@
       "date": "2009-10-29",
       "festival_name": "Multi-Artist Show",
       "artists": "Rock & Roll Hall of Fame 25th: Bruce Springsteen, Stevie Wonder, Paul Simon, Simon & Garfunkel, CSN, Jackson Browne, Bonnie Raitt, John Fogerty, James Taylor, Sam Moore, Darlene Love, Billy Joel",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "402",
@@ -1387,7 +1387,7 @@
       "date": "2009-10-21",
       "festival_name": "Multi-Artist Show",
       "artists": "Brad Paisley, Dierks Bentley",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "400",
@@ -1395,7 +1395,7 @@
       "date": "2009-10-10",
       "festival_name": null,
       "artists": "KISS",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "398",
@@ -1403,7 +1403,7 @@
       "date": "2009-10-08",
       "festival_name": null,
       "artists": "Keith Urban with Sugarland",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "384",
@@ -1531,7 +1531,7 @@
       "date": "2007-10-18",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "319",
@@ -1539,7 +1539,7 @@
       "date": "2007-10-17",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "317",
@@ -1611,7 +1611,7 @@
       "date": "2006-09-14",
       "festival_name": "Multi-Artist Show",
       "artists": "Jimmy Buffett, Coral Reefer Band",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "276",
@@ -1627,7 +1627,7 @@
       "date": "2006-06-22",
       "festival_name": "Multi-Artist Show",
       "artists": "Bruce Springsteen, the Seeger Sessions Band",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "263",
@@ -1763,7 +1763,7 @@
       "date": "2003-05-20",
       "festival_name": null,
       "artists": "Red Hot Chile Peppers",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "177",
@@ -1779,7 +1779,7 @@
       "date": "2002-12-13",
       "festival_name": null,
       "artists": "Tom Petty & the Heartbreakers & Jackson Browne",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "165",
@@ -1787,7 +1787,7 @@
       "date": "2002-08-12",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "148",
@@ -1867,7 +1867,7 @@
       "date": "2000-07-01",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "104",
@@ -1875,7 +1875,7 @@
       "date": "2000-06-26",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "97",
@@ -1899,7 +1899,7 @@
       "date": "1999-02-22",
       "festival_name": "Multi-Artist Show",
       "artists": "Jimmy Buffett, Coral Reefer Band",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "77",
@@ -1939,7 +1939,7 @@
       "date": "1998-05-22",
       "festival_name": null,
       "artists": "Van Halen 3 (Cherone) / Creed",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "60",
@@ -1963,7 +1963,7 @@
       "date": "1996-07-27",
       "festival_name": null,
       "artists": "KISS",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "25",
@@ -1971,7 +1971,7 @@
       "date": "1996-07-25",
       "festival_name": null,
       "artists": "KISS",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "24",

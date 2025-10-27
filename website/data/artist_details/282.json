@@ -53,7 +53,7 @@
       "venue": "Stamford Center for Arts",
       "city": "Stamford",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "119",
@@ -73,7 +73,7 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "8",
@@ -83,7 +83,7 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     }
   ]
 }

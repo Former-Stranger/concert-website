@@ -103,7 +103,7 @@
       "venue": "Rockefeller Plaza",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "962",
@@ -223,7 +223,7 @@
       "venue": "Great South Bay Music Festival",
       "city": "Oakdale",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     }
   ]
 }

@@ -22,7 +22,7 @@
       "venue": "Yonkers",
       "city": "Yonkers",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "198",
@@ -32,7 +32,7 @@
       "venue": "BB King Blues Club",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "150",
@@ -42,7 +42,7 @@
       "venue": "Webster Theater",
       "city": "Hartford",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": false
     }
   ]
 }

@@ -123,7 +123,7 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "592",
@@ -133,7 +133,7 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "552",
@@ -223,7 +223,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "266",
@@ -233,7 +233,7 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "213",
@@ -243,7 +243,7 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "113",
@@ -253,7 +253,7 @@
       "venue": "Stony Brook Southampton",
       "city": "Southampton",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "78",
@@ -263,7 +263,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     }
   ]
 }

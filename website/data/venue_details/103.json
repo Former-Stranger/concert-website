@@ -91,7 +91,7 @@
       "date": "2012-07-01",
       "festival_name": null,
       "artists": "Aerosmith with Cheap Trrick",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "476",
@@ -123,7 +123,7 @@
       "date": "2009-05-04",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "332",
@@ -131,7 +131,7 @@
       "date": "2008-03-10",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "285",
@@ -195,7 +195,7 @@
       "date": "2001-10-01",
       "festival_name": "Multi-Artist Show",
       "artists": "Joan Jett, the Blackhawks",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "119",
@@ -259,7 +259,7 @@
       "date": "1996-02-16",
       "festival_name": null,
       "artists": "Red Hot Chile Peppers",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "13",
@@ -267,7 +267,7 @@
       "date": "1995-12-01",
       "festival_name": null,
       "artists": "Primus",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "11",
@@ -291,7 +291,7 @@
       "date": "1994-06-20",
       "festival_name": null,
       "artists": "Whitney Houston",
-      "has_setlist": true
+      "has_setlist": false
     }
   ]
 }

@@ -11,7 +11,7 @@
       "date": "2024-08-28",
       "festival_name": null,
       "artists": "Walter Trout",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "1004",
@@ -19,7 +19,7 @@
       "date": "2021-12-18",
       "festival_name": null,
       "artists": "Wille Nile",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "995",
@@ -35,7 +35,7 @@
       "date": "2019-10-23",
       "festival_name": null,
       "artists": "Will Hoge w. Elizabeth Cook",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "807",
@@ -51,7 +51,7 @@
       "date": "2017-05-03",
       "festival_name": null,
       "artists": "Garry Tallent",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "742",
@@ -59,7 +59,7 @@
       "date": "2017-01-29",
       "festival_name": null,
       "artists": "Will Hoge",
-      "has_setlist": true
+      "has_setlist": false
     }
   ]
 }

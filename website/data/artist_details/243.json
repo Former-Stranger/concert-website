@@ -63,7 +63,7 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "219",
@@ -73,7 +73,7 @@
       "venue": "Stamford Center for Arts",
       "city": "Stamford",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": false
     }
   ]
 }

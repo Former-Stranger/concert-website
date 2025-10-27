@@ -251,7 +251,7 @@
       "date": "2022-11-04",
       "festival_name": null,
       "artists": "Last Waltz with Warren Haynes + Jamey Johnson",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "1064",
@@ -291,7 +291,7 @@
       "date": "2022-08-27",
       "festival_name": null,
       "artists": "Avett Brothers (w./ Clem Snide)",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "1042",
@@ -299,7 +299,7 @@
       "date": "2022-08-03",
       "festival_name": null,
       "artists": "Counting Crowes",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "1019",
@@ -315,7 +315,7 @@
       "date": "2022-03-23",
       "festival_name": null,
       "artists": "Brothers Osbourne",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "1001",
@@ -379,7 +379,7 @@
       "date": "2020-02-16",
       "festival_name": "BB King",
       "artists": "Thrill is Gone Concert",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "907",
@@ -387,7 +387,7 @@
       "date": "2019-04-11",
       "festival_name": null,
       "artists": "Melissa Etheridge",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "906",
@@ -539,7 +539,7 @@
       "date": "2016-02-15",
       "festival_name": null,
       "artists": "John Fogerty",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "661",
@@ -555,7 +555,7 @@
       "date": "2015-10-01",
       "festival_name": null,
       "artists": "Warren Haynes + Chris Stapleton",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "654",
@@ -603,7 +603,7 @@
       "date": "2014-09-26",
       "festival_name": "Multi-Artist Show",
       "artists": "Steve Earle, Shawn Colvin",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "564",
@@ -611,7 +611,7 @@
       "date": "2014-02-01",
       "festival_name": "Multi-Artist Show",
       "artists": "Steve Earle, Robert Earl Keen",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "541",
@@ -627,7 +627,7 @@
       "date": "2012-10-11",
       "festival_name": null,
       "artists": "Warren Haynes - Solo",
-      "has_setlist": true
+      "has_setlist": false
     }
   ]
 }

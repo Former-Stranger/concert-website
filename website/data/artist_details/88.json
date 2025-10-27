@@ -153,7 +153,7 @@
       "venue": "The Theater at Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "572",
@@ -163,7 +163,7 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "530",
@@ -283,7 +283,7 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "264",
@@ -293,7 +293,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "259",
@@ -303,7 +303,7 @@
       "venue": "Convention Hall",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "244",
@@ -383,7 +383,7 @@
       "venue": "Convention Hall",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": false
     }
   ]
 }

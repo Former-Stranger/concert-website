@@ -17,7 +17,7 @@
       "venue": "Stone Pony",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "582",
@@ -27,7 +27,7 @@
       "venue": "Tappan Park",
       "city": "Staten Island",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "560",
@@ -37,7 +37,7 @@
       "venue": "Paramount Theatre",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "499",
@@ -47,7 +47,7 @@
       "venue": "Stone Pony",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "466",
@@ -67,7 +67,7 @@
       "venue": "Bowery Electric",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "413",
@@ -77,7 +77,7 @@
       "venue": "Bowery Electric",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "401",
@@ -87,7 +87,7 @@
       "venue": "Terminal 5",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     }
   ]
 }

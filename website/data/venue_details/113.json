@@ -35,7 +35,7 @@
       "date": "2008-07-03",
       "festival_name": null,
       "artists": "The Police",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "339",
@@ -59,7 +59,7 @@
       "date": "2006-06-25",
       "festival_name": "Multi-Artist Show",
       "artists": "Bruce Springsteen, the Seeger Sessions Band",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "233",
@@ -83,7 +83,7 @@
       "date": "2003-08-09",
       "festival_name": null,
       "artists": "Tom Petty & the Heartbreakers & Bob Dylan",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "138",
@@ -107,7 +107,7 @@
       "date": "2001-07-01",
       "festival_name": null,
       "artists": "Tom Petty & the Heartbreakers & Jackson Browne",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "106",
@@ -131,7 +131,7 @@
       "date": "1998-07-31",
       "festival_name": "Multi-Artist Show",
       "artists": "HORDE (Blues Traveler, Barenaked Ladies & Gov't Mule, Paula Cole, Ben Harper)",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "69",
@@ -139,7 +139,7 @@
       "date": "1998-07-22",
       "festival_name": "Multi-Artist Show",
       "artists": "Lynyrd Skynyrd, .38 Special",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "67",
@@ -147,7 +147,7 @@
       "date": "1998-07-11",
       "festival_name": "Multi-Artist Show",
       "artists": "Chicago and Hall, Oates",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "66",
@@ -163,7 +163,7 @@
       "date": "1996-08-10",
       "festival_name": "Multi-Artist Show",
       "artists": "Lynyrd Skynyrd, The Doobie Brothers",
-      "has_setlist": true
+      "has_setlist": false
     }
   ]
 }

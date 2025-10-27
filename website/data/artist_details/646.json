@@ -63,7 +63,7 @@
       "venue": "Ives Concert Park",
       "city": "Danbury",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "95",
@@ -73,7 +73,7 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": false
     }
   ]
 }

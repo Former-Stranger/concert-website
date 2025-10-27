@@ -11,7 +11,7 @@
       "date": "2025-05-09",
       "festival_name": null,
       "artists": "Roger McGuinn",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "1222",
@@ -43,7 +43,7 @@
       "date": "2024-07-12",
       "festival_name": null,
       "artists": "Amos Lee",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "1169",
@@ -67,7 +67,7 @@
       "date": "2022-04-07",
       "festival_name": null,
       "artists": "Colin Hay",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "1016",
@@ -83,7 +83,7 @@
       "date": "2020-03-05",
       "festival_name": null,
       "artists": "Graham Nash",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "909",
@@ -115,7 +115,7 @@
       "date": "2016-11-25",
       "festival_name": null,
       "artists": "Michael Bolton",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "655",
@@ -131,7 +131,7 @@
       "date": "2014-09-21",
       "festival_name": "Multi-Artist Show",
       "artists": "John Hiatt, Rick Brantley",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "561",
@@ -139,7 +139,7 @@
       "date": "2014-01-19",
       "festival_name": "Multi-Artist Show",
       "artists": "Lyle Lovett, John Hiatt",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "545",
@@ -155,7 +155,7 @@
       "date": "2012-10-07",
       "festival_name": null,
       "artists": "John Hiatt",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "500",
@@ -163,7 +163,7 @@
       "date": "2011-12-16",
       "festival_name": null,
       "artists": "Lyle Lovett",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "418",
@@ -171,7 +171,7 @@
       "date": "2010-04-25",
       "festival_name": "Multi-Artist Show",
       "artists": "Roger McGuinn, John Sebastian",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "414",
@@ -179,7 +179,7 @@
       "date": "2010-03-07",
       "festival_name": null,
       "artists": "John Hiatt",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "312",
@@ -187,7 +187,7 @@
       "date": "2007-09-07",
       "festival_name": null,
       "artists": "Roger McGuinn",
-      "has_setlist": true
+      "has_setlist": false
     }
   ]
 }

@@ -11,7 +11,7 @@
       "date": "2015-06-27",
       "festival_name": null,
       "artists": "Jesse Malin",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "499",
@@ -19,7 +19,7 @@
       "date": "2011-12-10",
       "festival_name": "Multi-Artist Show",
       "artists": "Jesse Malin, St. Marks Social",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "221",
@@ -27,7 +27,7 @@
       "date": "2005-02-19",
       "festival_name": "Multi-Artist Show",
       "artists": "Joe Grushecky, the Houserockers",
-      "has_setlist": true
+      "has_setlist": false
     }
   ]
 }

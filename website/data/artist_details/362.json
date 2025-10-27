@@ -63,7 +63,7 @@
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "126",
@@ -73,7 +73,7 @@
       "venue": "Trump Marina",
       "city": "Atlantic City",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "95",
@@ -83,7 +83,7 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "69",
@@ -93,7 +93,7 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "41",
@@ -103,7 +103,7 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "28",
@@ -113,7 +113,7 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": false
     }
   ]
 }

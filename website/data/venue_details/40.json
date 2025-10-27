@@ -19,7 +19,7 @@
       "date": "2024-01-20",
       "festival_name": null,
       "artists": "Light of Day",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "1076",
@@ -27,7 +27,7 @@
       "date": "2023-01-14",
       "festival_name": null,
       "artists": "Light of Day",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "1010",
@@ -35,7 +35,7 @@
       "date": "2022-03-12",
       "festival_name": "Light of Day 22",
       "artists": "Grushecky, Nile, Malin, Maddock etc.",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "144",
@@ -43,7 +43,7 @@
       "date": "2001-10-19",
       "festival_name": "Multi-Artist Show",
       "artists": "Alliance for Neighbors concert (Bruce Springsteen, Bon Jovi, Joan Jett, John Eddie, Joe Ely, Sonny Burgess, Highway 9, Felix Cavaliere, Aztec Two Step, Phoebe Snow, DJ Fontana, Scotty Moore)",
-      "has_setlist": true
+      "has_setlist": false
     }
   ]
 }

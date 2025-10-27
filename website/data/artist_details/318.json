@@ -133,7 +133,7 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": false
     },
     {
       "id": "510",
@@ -143,7 +143,7 @@
       "venue": "Rockefeller Plaza",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": false
     }
   ]
 }
