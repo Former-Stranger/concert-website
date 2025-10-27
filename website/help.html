@@ -10,6 +10,20 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Slab:wght@400;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+
+    <!-- PWA Manifest -->
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#d4773e">
+
+    <!-- iOS PWA Support -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="E&M Concerts">
+    <link rel="apple-touch-icon" href="/icons/apple-touch-icon-180x180.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/icons/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="/icons/apple-touch-icon-167x167.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon-180x180.png">
+
     <style>
         body {
             font-family: 'Roboto Slab', serif;
@@ -71,6 +85,7 @@
             <h2 class="text-3xl text-[#d4773e] mb-4">Quick Navigation</h2>
             <ul class="space-y-2">
                 <li><a href="#getting-started" class="text-[#d4773e] hover:underline"><i class="fas fa-play-circle mr-2"></i>Getting Started</a></li>
+                <li><a href="#mobile-app" class="text-[#d4773e] hover:underline"><i class="fas fa-mobile-alt mr-2"></i>Install Mobile App</a></li>
                 <li><a href="#browsing" class="text-[#d4773e] hover:underline"><i class="fas fa-search mr-2"></i>Browsing & Search</a></li>
                 <li><a href="#contributing" class="text-[#d4773e] hover:underline"><i class="fas fa-upload mr-2"></i>Contributing</a></li>
                 <li><a href="#account" class="text-[#d4773e] hover:underline"><i class="fas fa-user mr-2"></i>Your Account</a></li>
@@ -105,6 +120,94 @@
                         <li><i class="fas fa-check text-[#d4773e] mr-2"></i><strong>Share Photos:</strong> Upload your concert photos (requires sign-in)</li>
                         <li><i class="fas fa-check text-[#d4773e] mr-2"></i><strong>Add Comments:</strong> Share your concert memories (requires sign-in)</li>
                         <li><i class="fas fa-check text-[#d4773e] mr-2"></i><strong>Submit Setlists:</strong> Help complete the archive by submitting setlist.fm links</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- Install Mobile App -->
+        <section id="mobile-app" class="mb-12">
+            <h2 class="text-4xl text-[#d4773e] border-b-2 border-[#d4773e] pb-2 mb-6">
+                <i class="fas fa-mobile-alt mr-3"></i>Install Mobile App
+            </h2>
+
+            <div class="space-y-6">
+                <div class="bg-[#2d1b1b] border-l-4 border-[#d4773e] p-6 rounded">
+                    <h3 class="text-2xl text-white mb-3">About the App</h3>
+                    <p class="text-gray-300 leading-relaxed mb-3">
+                        Earplugs & Memories is available as a <strong>Progressive Web App (PWA)</strong>, which means you can install it
+                        on your phone or computer for an app-like experience. Once installed, you'll get:
+                    </p>
+                    <ul class="space-y-2 text-gray-300">
+                        <li><i class="fas fa-check text-[#d4773e] mr-2"></i><strong>Home Screen Icon:</strong> Launch the app directly from your device</li>
+                        <li><i class="fas fa-check text-[#d4773e] mr-2"></i><strong>Full-Screen Mode:</strong> No browser bars, just the app</li>
+                        <li><i class="fas fa-check text-[#d4773e] mr-2"></i><strong>Offline Access:</strong> View cached concerts and data without internet</li>
+                        <li><i class="fas fa-check text-[#d4773e] mr-2"></i><strong>Faster Loading:</strong> Cached data loads instantly</li>
+                        <li><i class="fas fa-check text-[#d4773e] mr-2"></i><strong>Native Feel:</strong> Works just like a native iOS/Android app</li>
+                    </ul>
+                </div>
+
+                <div class="bg-[#2d1b1b] p-6 rounded">
+                    <h3 class="text-2xl text-[#d4773e] mb-4"><i class="fab fa-apple mr-2"></i>Install on iPhone/iPad</h3>
+                    <ol class="space-y-3 text-gray-300 ml-4 list-decimal">
+                        <li>Open <strong>Safari</strong> (must use Safari, not Chrome) and visit <span class="text-[#d4773e]">earplugsandmemories.com</span></li>
+                        <li>Tap the <strong>Share button</strong> <i class="fas fa-share text-blue-400"></i> at the bottom of the screen (square with arrow pointing up)</li>
+                        <li>Scroll down and tap <strong>"Add to Home Screen"</strong> <i class="fas fa-plus-square text-blue-400"></i></li>
+                        <li>Give it a name (or keep "E&M Concerts") and tap <strong>"Add"</strong></li>
+                        <li>The app icon will appear on your home screen</li>
+                        <li>Tap the icon to launch the app in full-screen mode!</li>
+                    </ol>
+                    <div class="mt-4 p-4 bg-blue-900/30 border border-blue-500 rounded">
+                        <p class="text-blue-200 text-sm">
+                            <i class="fas fa-info-circle mr-2"></i><strong>Tip:</strong> You can move the icon to your home screen or dock just like any other app!
+                        </p>
+                    </div>
+                </div>
+
+                <div class="bg-[#2d1b1b] p-6 rounded">
+                    <h3 class="text-2xl text-[#d4773e] mb-4"><i class="fab fa-android mr-2"></i>Install on Android</h3>
+                    <ol class="space-y-3 text-gray-300 ml-4 list-decimal">
+                        <li>Open <strong>Chrome</strong> and visit <span class="text-[#d4773e]">earplugsandmemories.com</span></li>
+                        <li>Tap the <strong>menu</strong> (three dots <i class="fas fa-ellipsis-v text-green-400"></i>) in the top-right corner</li>
+                        <li>Select <strong>"Install app"</strong> or <strong>"Add to Home Screen"</strong></li>
+                        <li>Confirm the installation when prompted</li>
+                        <li>The app will be added to your home screen and app drawer</li>
+                        <li>Tap to launch the full-screen app!</li>
+                    </ol>
+                    <div class="mt-4 p-4 bg-green-900/30 border border-green-500 rounded">
+                        <p class="text-green-200 text-sm">
+                            <i class="fas fa-info-circle mr-2"></i><strong>Note:</strong> You may also see an automatic install banner at the bottom of the page!
+                        </p>
+                    </div>
+                </div>
+
+                <div class="bg-[#2d1b1b] p-6 rounded">
+                    <h3 class="text-2xl text-[#d4773e] mb-4"><i class="fas fa-desktop mr-2"></i>Install on Desktop (Chrome/Edge)</h3>
+                    <ol class="space-y-3 text-gray-300 ml-4 list-decimal">
+                        <li>Open <strong>Chrome</strong> or <strong>Edge</strong> and visit <span class="text-[#d4773e]">earplugsandmemories.com</span></li>
+                        <li>Look for the <strong>install icon</strong> <i class="fas fa-plus-circle text-purple-400"></i> in the address bar (usually on the right side)</li>
+                        <li>Click the icon and select <strong>"Install"</strong></li>
+                        <li>The app will open in its own window without browser tabs</li>
+                        <li>Access it from your taskbar, Start menu, or desktop shortcut</li>
+                    </ol>
+                    <div class="mt-4 p-4 bg-purple-900/30 border border-purple-500 rounded">
+                        <p class="text-purple-200 text-sm">
+                            <i class="fas fa-info-circle mr-2"></i><strong>Alternative:</strong> Click the menu (⋮) → Settings → "Install Earplugs & Memories"
+                        </p>
+                    </div>
+                </div>
+
+                <div class="bg-gradient-to-r from-orange-900/40 to-red-900/40 border-2 border-[#d4773e] p-6 rounded-lg">
+                    <h3 class="text-2xl text-white mb-3"><i class="fas fa-star mr-2"></i>Why Install?</h3>
+                    <p class="text-gray-200 mb-3">
+                        Installing the app gives you the best possible experience:
+                    </p>
+                    <ul class="space-y-2 text-gray-200">
+                        <li><i class="fas fa-bolt text-yellow-400 mr-2"></i>Instant loading with cached data</li>
+                        <li><i class="fas fa-wifi-slash text-yellow-400 mr-2"></i>Browse concerts even when offline</li>
+                        <li><i class="fas fa-window-maximize text-yellow-400 mr-2"></i>Distraction-free full-screen interface</li>
+                        <li><i class="fas fa-rocket text-yellow-400 mr-2"></i>Quick access from your home screen or taskbar</li>
+                        <li><i class="fas fa-sync text-yellow-400 mr-2"></i>Automatic updates when new concerts are added</li>
                     </ul>
                 </div>
             </div>

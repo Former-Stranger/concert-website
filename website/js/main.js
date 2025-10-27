@@ -1,5 +1,28 @@
 // Main JavaScript for home page
 
+// Register Service Worker for PWA
+if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/service-worker.js')
+            .then((registration) => {
+                console.log('[PWA] Service Worker registered successfully:', registration.scope);
+
+                // Check for updates every hour
+                setInterval(() => {
+                    registration.update();
+                }, 60 * 60 * 1000);
+            })
+            .catch((error) => {
+                console.log('[PWA] Service Worker registration failed:', error);
+            });
+    });
+
+    // Listen for service worker updates
+    navigator.serviceWorker.addEventListener('controllerchange', () => {
+        console.log('[PWA] New service worker activated');
+    });
+}
+
 let stats = null;
 let concerts = null;
 
