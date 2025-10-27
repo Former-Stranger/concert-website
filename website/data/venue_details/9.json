@@ -11,7 +11,9 @@
       "date": "2024-12-19",
       "festival_name": null,
       "artists": "Zach Bryan",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Overtime",
+      "closing_song": "Revival"
     },
     {
       "id": "1165",
@@ -19,7 +21,9 @@
       "date": "2024-05-22",
       "festival_name": null,
       "artists": "Ed Sheeran",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "One",
+      "closing_song": "Hallelujah"
     },
     {
       "id": "1084",
@@ -27,7 +31,9 @@
       "date": "2023-04-03",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "No Surrender",
+      "closing_song": "I'll See You In My Dreams"
     },
     {
       "id": "1007",
@@ -35,7 +41,9 @@
       "date": "2022-03-01",
       "festival_name": null,
       "artists": "Elton John",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bennie and the Jets",
+      "closing_song": "Goodbye Yellow Brick Road"
     },
     {
       "id": "936",
@@ -43,7 +51,9 @@
       "date": "2019-08-20",
       "festival_name": null,
       "artists": "KISS",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Detroit Rock City",
+      "closing_song": "Rock and Roll All Nite"
     },
     {
       "id": "904",
@@ -51,7 +61,9 @@
       "date": "2019-03-29",
       "festival_name": "Multi-Artist Show",
       "artists": "Rock, Roll Hall Induction 2019",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Stevie Nicks Set",
+      "closing_song": "Def Leppard Set"
     },
     {
       "id": "899",
@@ -59,7 +71,9 @@
       "date": "2019-03-08",
       "festival_name": null,
       "artists": "Elton John",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bennie and the Jets",
+      "closing_song": "Goodbye Yellow Brick Road"
     },
     {
       "id": "876",
@@ -67,7 +81,9 @@
       "date": "2018-10-27",
       "festival_name": null,
       "artists": "Keith Urban",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Never Comin' Down",
+      "closing_song": "Horses"
     },
     {
       "id": "808",
@@ -75,7 +91,9 @@
       "date": "2018-01-09",
       "festival_name": null,
       "artists": "The Killers",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Wonderful Wonderful",
+      "closing_song": "Mr. Brightside"
     },
     {
       "id": "788",
@@ -83,7 +101,9 @@
       "date": "2017-09-19",
       "festival_name": null,
       "artists": "Paul McCartney",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Hard Day's Night",
+      "closing_song": "Carry That Weight"
     },
     {
       "id": "770",
@@ -91,7 +111,9 @@
       "date": "2017-07-28",
       "festival_name": "Multi-Artist Show",
       "artists": "Queen, Adam Lambert",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "We Will Rock You/Hammer to Fall",
+      "closing_song": "We Will Rock You/We Are the Champions"
     },
     {
       "id": "751",
@@ -99,7 +121,9 @@
       "date": "2017-04-07",
       "festival_name": null,
       "artists": "Rock Hall of Fame",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Various",
+      "closing_song": "Various"
     },
     {
       "id": "748",
@@ -107,7 +131,9 @@
       "date": "2017-03-15",
       "festival_name": null,
       "artists": "Green Day",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Know Your enemy",
+      "closing_song": "Good Riddance"
     },
     {
       "id": "741",
@@ -115,7 +141,9 @@
       "date": "2017-01-27",
       "festival_name": null,
       "artists": "Eric Church",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Mistress Named Music",
+      "closing_song": "Those I've Loved"
     },
     {
       "id": "732",
@@ -123,7 +151,9 @@
       "date": "2016-11-19",
       "festival_name": null,
       "artists": "Keith Urban",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Gone Tomorrow",
+      "closing_song": "Raise Em Up"
     },
     {
       "id": "688",
@@ -131,7 +161,9 @@
       "date": "2016-04-25",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Meet Me in the City",
+      "closing_song": "Bobby Jean"
     },
     {
       "id": "687",
@@ -139,7 +171,9 @@
       "date": "2016-04-23",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Purple Rain",
+      "closing_song": "Shout"
     },
     {
       "id": "680",
@@ -147,7 +181,9 @@
       "date": "2016-04-08",
       "festival_name": "Multi-Artist Show",
       "artists": "Rock Hall of Fame: Cheap Trick, Chicago, Steve Miller, Deep Purple",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "666",
@@ -155,7 +191,9 @@
       "date": "2015-12-31",
       "festival_name": "Multi-Artist Show",
       "artists": "Jimmy Buffett, the Coral Reefer Band with Huey Lewis",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "HL:  Heart of Rock $ Roll         JB: Changes in Latitudes",
+      "closing_song": "HL:  Working for a Living          JB: Fruitecakes/Lovely Cruise"
     },
     {
       "id": "624",
@@ -163,7 +201,9 @@
       "date": "2015-05-26",
       "festival_name": "Multi-Artist Show",
       "artists": "The Who, Joan Jett",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "I Can't Explain",
+      "closing_song": "Won't Get Fooled Again"
     },
     {
       "id": "613",
@@ -171,7 +211,9 @@
       "date": "2014-12-31",
       "festival_name": null,
       "artists": "Elton John",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Funeral for a Friend",
+      "closing_song": "Crocodile Rock"
     },
     {
       "id": "596",
@@ -179,7 +221,9 @@
       "date": "2014-09-14",
       "festival_name": null,
       "artists": "Luke Bryan",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "That's My Kind of Night",
+      "closing_song": "Country Girls"
     },
     {
       "id": "572",
@@ -187,7 +231,9 @@
       "date": "2014-04-10",
       "festival_name": "Multi-Artist Show",
       "artists": "Bruce Springsteen, Peter Gabriel, Hall & Oates, Nirvana, Cat Stevens, Stevie Nicks, Emmylou Harries, Bonnie Raitt, Carrie Underwood",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Various",
+      "closing_song": "Various"
     },
     {
       "id": "558",
@@ -195,7 +241,9 @@
       "date": "2013-12-31",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miami 2017",
+      "closing_song": "Only the Good Die Young"
     },
     {
       "id": "554",
@@ -203,7 +251,9 @@
       "date": "2013-10-19",
       "festival_name": null,
       "artists": "Pearl Jam",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Pendulum",
+      "closing_song": "Yellow Led Better"
     },
     {
       "id": "536",
@@ -211,7 +261,9 @@
       "date": "2013-06-08",
       "festival_name": null,
       "artists": "Paul McCartney",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Eight Days a Week",
+      "closing_song": "Carry that Weight"
     },
     {
       "id": "534",
@@ -219,7 +271,9 @@
       "date": "2013-04-16",
       "festival_name": null,
       "artists": "Bob Seger",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Detroit Made",
+      "closing_song": "Rock & Roll Never Forgets"
     },
     {
       "id": "533",
@@ -227,7 +281,9 @@
       "date": "2013-02-12",
       "festival_name": "Multi-Artist Show",
       "artists": "Mumford & Sons",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Babel",
+      "closing_song": "The Weight"
     }
   ]
 }

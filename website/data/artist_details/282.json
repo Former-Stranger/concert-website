@@ -53,7 +53,9 @@
       "venue": "Stamford Center for Arts",
       "city": "Stamford",
       "state": "CT",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Chain of Fools",
+      "closing_song": "You Are So Beautiful"
     },
     {
       "id": "119",
@@ -63,7 +65,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "TT: Higher\nJC: Feelin Alright",
+      "closing_song": "TT: Nutbush City Limits\nJC: Cry Me a River"
     },
     {
       "id": "31",
@@ -73,7 +77,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Hitchcock Railway",
+      "closing_song": "Cry Me A River"
     },
     {
       "id": "8",
@@ -83,7 +89,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Feelin Alright",
+      "closing_song": "Cry Me a River"
     }
   ]
 }

@@ -33,7 +33,9 @@
       "venue": "Times Square",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bruce: Where the Streets",
+      "closing_song": "Bruce: Still Haven't Found"
     },
     {
       "id": "572",
@@ -43,7 +45,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Various",
+      "closing_song": "Various"
     }
   ]
 }

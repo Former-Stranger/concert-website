@@ -11,7 +11,9 @@
       "date": "2024-11-18",
       "festival_name": null,
       "artists": "Mac McAnally",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Son of a Son of a Sailor",
+      "closing_song": "Pirate Looks at 40"
     },
     {
       "id": "1119",
@@ -19,7 +21,9 @@
       "date": "2023-09-28",
       "festival_name": null,
       "artists": "Christopher Cross",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Minstrel Gigolo",
+      "closing_song": "Think of Laura"
     },
     {
       "id": "857",
@@ -27,7 +31,9 @@
       "date": "2018-08-29",
       "festival_name": null,
       "artists": "Glenn Hughes",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Stormbringer",
+      "closing_song": "Highway Star / Burn"
     }
   ]
 }

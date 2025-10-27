@@ -17,7 +17,9 @@
       "venue": "Stone Pony",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Boots of Immigrants",
+      "closing_song": "TBD"
     },
     {
       "id": "582",
@@ -27,7 +29,9 @@
       "venue": "Tappan Park",
       "city": "Staten Island",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Various",
+      "closing_song": "Various"
     },
     {
       "id": "560",
@@ -37,7 +41,9 @@
       "venue": "Paramount Theatre",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Rock and Roll Radio, One Guitar, Adam Raised a Cain",
+      "closing_song": "Thunder Road"
     },
     {
       "id": "499",
@@ -47,7 +53,9 @@
       "venue": "Stone Pony",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Burning Down the Bowery",
+      "closing_song": "Winter (stones Cover)"
     },
     {
       "id": "466",
@@ -57,7 +65,9 @@
       "venue": "City Winery",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Queen of Underworld",
+      "closing_song": "D Generation (with BIllie Joe)"
     },
     {
       "id": "448",
@@ -67,7 +77,9 @@
       "venue": "Bowery Electric",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Burning on the Bowery",
+      "closing_song": "Instant Karma"
     },
     {
       "id": "413",
@@ -77,7 +89,9 @@
       "venue": "Bowery Electric",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Burning Down the Bowery",
+      "closing_song": "I Feel Alright (Stooges)"
     },
     {
       "id": "401",
@@ -87,7 +101,9 @@
       "venue": "Terminal 5",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "JM: Brooklyn",
+      "closing_song": "JM: Dgeneration"
     }
   ]
 }

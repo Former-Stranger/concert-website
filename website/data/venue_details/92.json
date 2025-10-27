@@ -11,7 +11,9 @@
       "date": "2025-07-19",
       "festival_name": null,
       "artists": "Zach Bryan",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Overtime",
+      "closing_song": "Revival"
     },
     {
       "id": "1186",
@@ -19,7 +21,9 @@
       "date": "2024-08-17",
       "festival_name": "Multi-Artist Show",
       "artists": "Kenny Chesney, Zac Brown",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "KC:  Living in Fast Forward  ZBB: Keep Me in Mind",
+      "closing_song": "KC: Don't Happen Twice   ZBB: Homegrown"
     },
     {
       "id": "1167",
@@ -27,7 +31,9 @@
       "date": "2024-05-26",
       "festival_name": null,
       "artists": "The Rolling Stones",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Start Me Up",
+      "closing_song": "Satisfaction"
     },
     {
       "id": "1166",
@@ -35,7 +41,9 @@
       "date": "2024-05-23",
       "festival_name": null,
       "artists": "The Rolling Stones",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Start Me Up",
+      "closing_song": "Satisfaction"
     },
     {
       "id": "1110",
@@ -43,7 +51,9 @@
       "date": "2023-09-03",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Lonesome Day",
+      "closing_song": "Jersey Girl"
     },
     {
       "id": "1109",
@@ -51,7 +61,9 @@
       "date": "2023-09-01",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Lonesome Day",
+      "closing_song": "I'll See You In My Dreams"
     },
     {
       "id": "1108",
@@ -59,7 +71,9 @@
       "date": "2023-08-30",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Lonesome Day",
+      "closing_song": "I'll See You In My Dreams"
     },
     {
       "id": "1040",
@@ -67,7 +81,9 @@
       "date": "2022-07-23",
       "festival_name": null,
       "artists": "Elton John",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bennie and the Jets",
+      "closing_song": "Goodbye Yellow Brick Road"
     },
     {
       "id": "1028",
@@ -75,7 +91,9 @@
       "date": "2022-06-16",
       "festival_name": null,
       "artists": "Paul McCartney",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Can't Buy Me Love",
+      "closing_song": "Carry That Weight"
     },
     {
       "id": "977",
@@ -83,7 +101,9 @@
       "date": "2021-08-05",
       "festival_name": "Multi-Artist Show",
       "artists": "Guns, Roses",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "It's So Easy",
+      "closing_song": "Paradise City"
     },
     {
       "id": "928",
@@ -91,7 +111,9 @@
       "date": "2019-08-05",
       "festival_name": null,
       "artists": "The Rolling Stones",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Jumpin' Jack Flash",
+      "closing_song": "Satisfaction"
     },
     {
       "id": "926",
@@ -99,7 +121,9 @@
       "date": "2019-08-01",
       "festival_name": null,
       "artists": "The Rolling Stones",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Street Fighting Man",
+      "closing_song": "Satisfaction"
     },
     {
       "id": "853",
@@ -107,7 +131,9 @@
       "date": "2018-08-18",
       "festival_name": "Multi-Artist Show",
       "artists": "Kenny Chesney, Thomas Rhett",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Beer in Mexico",
+      "closing_song": "She Thinks My Tractor's Sexy"
     },
     {
       "id": "830",
@@ -115,7 +141,9 @@
       "date": "2018-06-02",
       "festival_name": null,
       "artists": "Luke Bryan",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Country Girls",
+      "closing_song": "My Kinda Night"
     },
     {
       "id": "763",
@@ -123,7 +151,9 @@
       "date": "2017-06-28",
       "festival_name": null,
       "artists": "U2",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Sunday Bloody Sunday",
+      "closing_song": "Little Things That Give You Away"
     },
     {
       "id": "717",
@@ -131,7 +161,9 @@
       "date": "2016-08-30",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "NYC Serenade",
+      "closing_song": "Jersey Girl"
     },
     {
       "id": "715",
@@ -139,7 +171,9 @@
       "date": "2016-08-23",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "NYC Serenade",
+      "closing_song": "Jersey Girl"
     },
     {
       "id": "714",
@@ -147,7 +181,9 @@
       "date": "2016-08-20",
       "festival_name": "Multi-Artist Show",
       "artists": "Kenny Chesney, Miranda Lambert",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Beer in Mexico",
+      "closing_song": "It Don't Happen Twice"
     },
     {
       "id": "709",
@@ -155,7 +191,9 @@
       "date": "2016-08-07",
       "festival_name": null,
       "artists": "Paul McCartney",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Hard Day's Night",
+      "closing_song": "Carry That Weight"
     },
     {
       "id": "707",
@@ -163,7 +201,9 @@
       "date": "2016-07-23",
       "festival_name": "Multi-Artist Show",
       "artists": "Guns, Roses",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "It's So Easy",
+      "closing_song": "Paradise City"
     },
     {
       "id": "648",
@@ -171,7 +211,9 @@
       "date": "2015-08-26",
       "festival_name": null,
       "artists": "ACDC",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Rock or Bust",
+      "closing_song": "For Those About To Rock, We Salute You"
     },
     {
       "id": "645",
@@ -179,7 +221,9 @@
       "date": "2015-08-15",
       "festival_name": "Multi-Artist Show",
       "artists": "Kenny Chesney, Jason Aldean",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Hicktown/She's Country   &   Drink It Up/Boys of Fall",
+      "closing_song": "Summer of 69 (Together)"
     },
     {
       "id": "550",
@@ -187,7 +231,9 @@
       "date": "2013-08-10",
       "festival_name": "Multi-Artist Show",
       "artists": "Kenny Chesney, Eric Church",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Feel Like a Rock Star  /  Creepin'",
+      "closing_song": "She Thinks My Tractor's Sexy /  Springsteen"
     },
     {
       "id": "547",
@@ -195,7 +241,9 @@
       "date": "2013-07-27",
       "festival_name": "Multi-Artist Show",
       "artists": "Bon Jovi, J. Geils Band",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "That's What the Water Made Me",
+      "closing_song": "I Love this Town"
     },
     {
       "id": "519",
@@ -203,7 +251,9 @@
       "date": "2012-09-22",
       "festival_name": null,
       "artists": "Bruce Springsteen",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Out in the Street",
+      "closing_song": "Twist & Shout"
     },
     {
       "id": "518",
@@ -211,7 +261,9 @@
       "date": "2012-09-21",
       "festival_name": null,
       "artists": "Bruce Springsteen",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Livin on Edge of the World",
+      "closing_song": "Twist & Shout"
     },
     {
       "id": "517",
@@ -219,7 +271,9 @@
       "date": "2012-09-19",
       "festival_name": null,
       "artists": "Bruce Springsteen",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Shackled and Drawn",
+      "closing_song": "Twist & Shout"
     },
     {
       "id": "513",
@@ -227,7 +281,9 @@
       "date": "2012-08-13",
       "festival_name": "Multi-Artist Show",
       "artists": "Kenny Chesney, Tim McGraw",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Beer in Mexico  / Felt Good on My Lips",
+      "closing_song": "Running on Empty (Duo)"
     },
     {
       "id": "485",
@@ -235,7 +291,9 @@
       "date": "2011-07-20",
       "festival_name": null,
       "artists": "U2",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Evewn Better than Real Thing",
+      "closing_song": "Out of Control"
     },
     {
       "id": "430",
@@ -243,7 +301,9 @@
       "date": "2010-07-09",
       "festival_name": null,
       "artists": "Bon Jovi",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Raise Your Hands",
+      "closing_song": "Livin' on a Prayer"
     },
     {
       "id": "422",
@@ -251,7 +311,9 @@
       "date": "2010-05-29",
       "festival_name": null,
       "artists": "Bon Jovi",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Who Says You Can't Go Home",
+      "closing_song": "Livin' on a Prayer"
     }
   ]
 }

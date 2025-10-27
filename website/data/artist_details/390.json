@@ -53,7 +53,9 @@
       "venue": "Forest Hills Stadium",
       "city": "Forest Hills",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Little Lion Man",
+      "closing_song": "I Will Wait"
     },
     {
       "id": "1263",
@@ -63,7 +65,9 @@
       "venue": "Saratoga Performing Arts Center",
       "city": "Saratoga Springs",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Rushmere",
+      "closing_song": "The Cave"
     },
     {
       "id": "888",
@@ -73,7 +77,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Guiding Light",
+      "closing_song": "Delta"
     },
     {
       "id": "700",
@@ -83,7 +89,9 @@
       "venue": "Forest Hills Stadium",
       "city": "Forest Hills",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Tompkins Square",
+      "closing_song": "The Wolf"
     },
     {
       "id": "615",
@@ -93,7 +101,9 @@
       "venue": "Le Poisson Rouge",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Snake Eyes",
+      "closing_song": "Only Love"
     },
     {
       "id": "533",
@@ -103,7 +113,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Babel",
+      "closing_song": "The Weight"
     },
     {
       "id": "512",
@@ -113,7 +125,9 @@
       "venue": "Pier A Park",
       "city": "Hoboken",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Lover's Eyes",
+      "closing_song": "The Cave"
     },
     {
       "id": "456",
@@ -123,7 +137,9 @@
       "venue": "Terminal 5",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Sigh No More",
+      "closing_song": "The Cave"
     }
   ]
 }

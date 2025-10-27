@@ -12,7 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "The Last Dj",
+      "closing_song": "American Girl"
     },
     {
       "id": "136",
@@ -22,7 +24,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "TP: Running Down a Dream\nJB: Nobody Knows",
+      "closing_song": "TP: American Girl\nJB: Dr. My Eyes"
     },
     {
       "id": "135",
@@ -32,7 +36,9 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "TP: Running Down a Dream\nJB: Nobody Knows",
+      "closing_song": "TP: American Girl\nJB: Dr. My Eyes"
     }
   ]
 }

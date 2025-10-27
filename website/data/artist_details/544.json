@@ -53,7 +53,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Various",
+      "closing_song": "Various"
     },
     {
       "id": "473",
@@ -63,7 +65,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Love Train  /  Stand Back",
+      "closing_song": "Do Ya Think I'm Sexy /  Love Is"
     },
     {
       "id": "138",
@@ -73,7 +77,9 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Stop Draggin' My Heart Around",
+      "closing_song": "I Need to Know/Has Anyone"
     }
   ]
 }

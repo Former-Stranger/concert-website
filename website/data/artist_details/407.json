@@ -53,7 +53,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Turn Up the Sun",
+      "closing_song": "My Generation"
     },
     {
       "id": "128",
@@ -63,7 +65,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "BC: Midnight from Inside Out\nOasis: Go Let It Out",
+      "closing_song": "BC: I Dig Love\nOasis: I am the Walrus"
     }
   ]
 }

@@ -11,7 +11,9 @@
       "date": "2025-05-09",
       "festival_name": null,
       "artists": "Roger McGuinn",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "My Back Pages",
+      "closing_song": "May the Road Rise to Meet You"
     },
     {
       "id": "1222",
@@ -19,7 +21,9 @@
       "date": "2024-11-27",
       "festival_name": "Multi-Artist Show",
       "artists": "Soulshine, Stella Blues Band tributes to Allman, The Dead",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "SS:  Don't Want You   SBB: Viola Lee Blues",
+      "closing_song": "SS:  Whipping Post   SBB:  KC Moan/So Many Roads"
     },
     {
       "id": "1206",
@@ -27,7 +31,9 @@
       "date": "2024-10-17",
       "festival_name": null,
       "artists": "The Lone Bellow",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "It's a Long Walk Home and Short Life to Live",
+      "closing_song": "Tree To grow"
     },
     {
       "id": "1205",
@@ -35,7 +41,9 @@
       "date": "2024-10-16",
       "festival_name": null,
       "artists": "Richard Thompson (Band)",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Turnstile Casanova",
+      "closing_song": "Jealous Words"
     },
     {
       "id": "1177",
@@ -43,7 +51,9 @@
       "date": "2024-07-12",
       "festival_name": null,
       "artists": "Amos Lee",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Built to Fall",
+      "closing_song": "Windows Are Rolled Down"
     },
     {
       "id": "1169",
@@ -51,7 +61,9 @@
       "date": "2024-05-31",
       "festival_name": null,
       "artists": "John Hiatt",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "All the Lilacs in Ohio",
+      "closing_song": "Have a Little Faith"
     },
     {
       "id": "1027",
@@ -59,7 +71,9 @@
       "date": "2022-06-10",
       "festival_name": null,
       "artists": "Buddy Guy",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Damn Right I've Got the Blues",
+      "closing_song": null
     },
     {
       "id": "1017",
@@ -67,7 +81,9 @@
       "date": "2022-04-07",
       "festival_name": null,
       "artists": "Colin Hay",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "I Just Don't Know What To Do With Myself",
+      "closing_song": "Down Under"
     },
     {
       "id": "1016",
@@ -75,7 +91,9 @@
       "date": "2022-04-05",
       "festival_name": null,
       "artists": "Jason Isbell",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "24 Frames",
+      "closing_song": "Mutineer"
     },
     {
       "id": "971",
@@ -83,7 +101,9 @@
       "date": "2020-03-05",
       "festival_name": null,
       "artists": "Graham Nash",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Pre Road Downs",
+      "closing_song": "Teach Your Children"
     },
     {
       "id": "909",
@@ -91,7 +111,9 @@
       "date": "2019-04-13",
       "festival_name": null,
       "artists": "Roger McGuinn",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "My Back Pages",
+      "closing_song": "Chimes of Freedom"
     },
     {
       "id": "896",
@@ -99,7 +121,9 @@
       "date": "2019-02-22",
       "festival_name": "Multi-Artist Show",
       "artists": "John Hiatt, Lyle Lovett",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Real Fine Love / Once is Enough",
+      "closing_song": "Memphis / 12th of June"
     },
     {
       "id": "815",
@@ -107,7 +131,9 @@
       "date": "2018-03-01",
       "festival_name": null,
       "artists": "Weird Al Yankovic",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Jackson Park Express",
+      "closing_song": "The Saga Begins"
     },
     {
       "id": "734",
@@ -115,7 +141,9 @@
       "date": "2016-11-25",
       "festival_name": null,
       "artists": "Michael Bolton",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Stand By Me",
+      "closing_song": "Georgia on My Mind"
     },
     {
       "id": "655",
@@ -123,7 +151,9 @@
       "date": "2015-09-24",
       "festival_name": "Multi-Artist Show",
       "artists": "Steve Earle, The Dukes with The Mastersons",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Baby Baby Baby",
+      "closing_song": "Down the Road"
     },
     {
       "id": "599",
@@ -131,7 +161,9 @@
       "date": "2014-09-21",
       "festival_name": "Multi-Artist Show",
       "artists": "John Hiatt, Rick Brantley",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Marlene",
+      "closing_song": "Drive South"
     },
     {
       "id": "561",
@@ -139,7 +171,9 @@
       "date": "2014-01-19",
       "festival_name": "Multi-Artist Show",
       "artists": "Lyle Lovett, John Hiatt",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Buffalo River Home (Hiatt)",
+      "closing_song": "My Baby Don't Tolerate (Lyle)"
     },
     {
       "id": "545",
@@ -147,7 +181,9 @@
       "date": "2013-07-21",
       "festival_name": null,
       "artists": "Lyle Lovett",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Up in Indiana",
+      "closing_song": "Closing Time"
     },
     {
       "id": "521",
@@ -155,7 +191,9 @@
       "date": "2012-10-07",
       "festival_name": null,
       "artists": "John Hiatt",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Master of Disaster",
+      "closing_song": "Riding with the King"
     },
     {
       "id": "500",
@@ -163,7 +201,9 @@
       "date": "2011-12-16",
       "festival_name": null,
       "artists": "Lyle Lovett",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Babes in the Woods",
+      "closing_song": "You Can't Resist It"
     },
     {
       "id": "418",
@@ -171,7 +211,9 @@
       "date": "2010-04-25",
       "festival_name": "Multi-Artist Show",
       "artists": "Roger McGuinn, John Sebastian",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "RM: My Back Pages\nJS: Satisfied",
+      "closing_song": "Knockin on Heaven's Door\n (RM&JS)"
     },
     {
       "id": "414",
@@ -179,7 +221,9 @@
       "date": "2010-03-07",
       "festival_name": null,
       "artists": "John Hiatt",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Drive South",
+      "closing_song": "Have a Little Faith In Me"
     },
     {
       "id": "312",
@@ -187,7 +231,9 @@
       "date": "2007-09-07",
       "festival_name": null,
       "artists": "Roger McGuinn",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "So You Wanna Be a Rock and Roll Star",
+      "closing_song": "May the Road Rise to Meet You"
     }
   ]
 }

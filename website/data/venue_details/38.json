@@ -11,7 +11,9 @@
       "date": "2006-06-03",
       "festival_name": null,
       "artists": "Pearl Jam",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "(No Surrender - Eddie) Severed Hand",
+      "closing_song": "Yellow Led Better"
     },
     {
       "id": "249",
@@ -19,7 +21,9 @@
       "date": "2005-11-22",
       "festival_name": null,
       "artists": "Bon Jovi",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Last Man Standing",
+      "closing_song": "Wanted Dead or Alive"
     },
     {
       "id": "244",
@@ -27,7 +31,9 @@
       "date": "2005-11-17",
       "festival_name": null,
       "artists": "Bruce Springsteen",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Born in the USA",
+      "closing_song": "Dream Baby Dream"
     },
     {
       "id": "242",
@@ -35,7 +41,9 @@
       "date": "2005-10-16",
       "festival_name": null,
       "artists": "Queen + Paul Rodgers",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Reaching Out/Tie Your Mother Down",
+      "closing_song": "We Are The Champions"
     }
   ]
 }

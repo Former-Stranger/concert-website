@@ -11,7 +11,9 @@
       "date": "2025-07-25",
       "festival_name": null,
       "artists": "Chris Stapleton",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bad as I Used to Be",
+      "closing_song": "Outlaw State of Mind"
     },
     {
       "id": "1266",
@@ -19,7 +21,9 @@
       "date": "2025-07-12",
       "festival_name": null,
       "artists": "Weird Al",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Fun Zone/Tacky",
+      "closing_song": "Yoda"
     },
     {
       "id": "1247",
@@ -27,7 +31,9 @@
       "date": "2025-04-15",
       "festival_name": null,
       "artists": "The Brothers",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Statesboro Blues",
+      "closing_song": "Whipping Post"
     },
     {
       "id": "1228",
@@ -35,7 +41,9 @@
       "date": "2024-12-28",
       "festival_name": null,
       "artists": "Phish",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Simple",
+      "closing_song": "46 Days"
     },
     {
       "id": "1223",
@@ -43,7 +51,9 @@
       "date": "2024-11-29",
       "festival_name": null,
       "artists": "Creed",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bullets",
+      "closing_song": "My Sacrafice"
     },
     {
       "id": "1220",
@@ -51,7 +61,9 @@
       "date": "2024-11-24",
       "festival_name": "SOULSHINE",
       "artists": "Dave Matthews Band",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Soulshine",
+      "closing_song": "Come Together"
     },
     {
       "id": "1219",
@@ -59,7 +71,9 @@
       "date": "2024-11-22",
       "festival_name": null,
       "artists": "Dave Matthews Band",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Old Dirt Hill",
+      "closing_song": "Crush"
     },
     {
       "id": "1213",
@@ -67,7 +81,9 @@
       "date": "2024-11-05",
       "festival_name": null,
       "artists": "David Gilmour",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "5 a.m.",
+      "closing_song": "Comfortably Numb"
     },
     {
       "id": "1212",
@@ -75,7 +91,9 @@
       "date": "2024-11-04",
       "festival_name": null,
       "artists": "David Gilmour",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "5 a.m.",
+      "closing_song": "Comfortably Numb"
     },
     {
       "id": "1200",
@@ -83,7 +101,9 @@
       "date": "2024-09-27",
       "festival_name": null,
       "artists": "Jelly Roll",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "I'm Not Okay",
+      "closing_song": "Save Me"
     },
     {
       "id": "1198",
@@ -91,7 +111,9 @@
       "date": "2024-09-16",
       "festival_name": null,
       "artists": "ELO",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "One More Time",
+      "closing_song": "Mr. Blue Sky"
     },
     {
       "id": "1193",
@@ -99,7 +121,9 @@
       "date": "2024-09-04",
       "festival_name": null,
       "artists": "Pearl Jam",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Garden",
+      "closing_song": "Yellow Led Better"
     },
     {
       "id": "1192",
@@ -107,7 +131,9 @@
       "date": "2024-09-03",
       "festival_name": null,
       "artists": "Pearl Jam",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Pendulum",
+      "closing_song": "Indifference"
     },
     {
       "id": "1185",
@@ -115,7 +141,9 @@
       "date": "2024-08-07",
       "festival_name": "Multi-Artist Show",
       "artists": "The Doobie Brothers, Steve Winwood",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "DB:  Take Me In Your Arms    SW:  Glad",
+      "closing_song": "DB:  Listen to the Music   SW:  Gimme Some Lovin'"
     },
     {
       "id": "1182",
@@ -123,7 +151,9 @@
       "date": "2024-07-25",
       "festival_name": null,
       "artists": "Billy Joel (Final Franchise)",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Miami 2017",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "1170",
@@ -131,7 +161,9 @@
       "date": "2024-06-08",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miami 2017",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "1168",
@@ -139,7 +171,9 @@
       "date": "2024-05-28",
       "festival_name": null,
       "artists": "Tyler Childers",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Creeker",
+      "closing_song": "Heart You've Been Tending"
     },
     {
       "id": "1162",
@@ -147,7 +181,9 @@
       "date": "2024-05-09",
       "festival_name": null,
       "artists": "Billy Joel (75th Birthday)",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Movin' Out",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "1151",
@@ -155,7 +191,9 @@
       "date": "2024-03-28",
       "festival_name": null,
       "artists": "Billy Joel (100th)",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Miami 2017",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "1142",
@@ -163,7 +201,9 @@
       "date": "2024-01-23",
       "festival_name": null,
       "artists": "Madonna",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Nothing Really Matters",
+      "closing_song": "Bitch, I'm Madonna/Celebration"
     },
     {
       "id": "1133",
@@ -171,7 +211,9 @@
       "date": "2023-12-02",
       "festival_name": null,
       "artists": "KISS",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Detroit Rock City",
+      "closing_song": "Rock and Roll All Nite"
     },
     {
       "id": "1131",
@@ -179,7 +221,9 @@
       "date": "2023-11-17",
       "festival_name": null,
       "artists": "Dave Matthews Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Virginia in the Rain",
+      "closing_song": "Rapunzel"
     },
     {
       "id": "1123",
@@ -187,7 +231,9 @@
       "date": "2023-10-12",
       "festival_name": null,
       "artists": "Queen + Adam Lambert",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Radio Ga Ga",
+      "closing_song": "We are the Champions"
     },
     {
       "id": "1118",
@@ -195,7 +241,9 @@
       "date": "2023-09-18",
       "festival_name": null,
       "artists": "Peter Gabriel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Washing of the Water",
+      "closing_song": "Biko"
     },
     {
       "id": "1114",
@@ -203,7 +251,9 @@
       "date": "2023-09-10",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miami 2017",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "1111",
@@ -211,7 +261,9 @@
       "date": "2023-09-07",
       "festival_name": null,
       "artists": "The Eagles + Steely Dan",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "SD:  Josie   Eagles:  Seven Bridges Road",
+      "closing_song": "SD: Reeling in Years   Eagles:  Hotel California"
     },
     {
       "id": "1104",
@@ -219,7 +271,9 @@
       "date": "2023-07-30",
       "festival_name": null,
       "artists": "Phish",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "ACDC Bag",
+      "closing_song": "Izabelle"
     },
     {
       "id": "1101",
@@ -227,7 +281,9 @@
       "date": "2023-07-24",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miami 2017",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "1089",
@@ -235,7 +291,9 @@
       "date": "2023-04-25",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "My Life",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "1083",
@@ -243,7 +301,9 @@
       "date": "2023-04-01",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "No Surrender",
+      "closing_song": "I'll See You In My Dreams"
     },
     {
       "id": "1073",
@@ -251,7 +311,9 @@
       "date": "2022-11-18",
       "festival_name": null,
       "artists": "Dave Matthews Band",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "When the World Ends",
+      "closing_song": "Grey Street"
     },
     {
       "id": "1061",
@@ -259,7 +321,9 @@
       "date": "2022-09-30",
       "festival_name": null,
       "artists": "The Killers (w. Johnny Marr)",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "My Own Souls Warning",
+      "closing_song": "Mr. Brightside"
     },
     {
       "id": "1060",
@@ -267,7 +331,9 @@
       "date": "2022-09-19",
       "festival_name": null,
       "artists": "Eric Clapton",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "God Save the Queen/Tearin Us Apart",
+      "closing_song": "High Time We Went"
     },
     {
       "id": "1055",
@@ -275,7 +341,9 @@
       "date": "2022-09-11",
       "festival_name": null,
       "artists": "Pearl Jam",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Release",
+      "closing_song": "Rocking in the Free World"
     },
     {
       "id": "1053",
@@ -283,7 +351,9 @@
       "date": "2022-08-31",
       "festival_name": null,
       "artists": "Roger Waters",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Comfortably Numb",
+      "closing_song": "Outside the Wall"
     },
     {
       "id": "1049",
@@ -291,7 +361,9 @@
       "date": "2022-08-24",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Matter of Trust",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "1043",
@@ -299,7 +371,9 @@
       "date": "2022-08-09",
       "festival_name": null,
       "artists": "Rage Against the Machine",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bombtrack",
+      "closing_song": "Killing in the Name"
     },
     {
       "id": "1023",
@@ -307,7 +381,9 @@
       "date": "2022-05-26",
       "festival_name": null,
       "artists": "The Who",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Overture/1921",
+      "closing_song": "Baba O'Reilly"
     },
     {
       "id": "1022",
@@ -315,7 +391,9 @@
       "date": "2022-05-20",
       "festival_name": null,
       "artists": "Eric Church",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "NY State of Mind/The Outsiders",
+      "closing_song": "Old Songs, Old Whiskey, Old Friends"
     },
     {
       "id": "1018",
@@ -323,7 +401,9 @@
       "date": "2022-04-08",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Stormfront",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "1006",
@@ -331,7 +411,9 @@
       "date": "2022-02-23",
       "festival_name": null,
       "artists": "Elton John",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bennie and the Jets",
+      "closing_song": "Goodbye Yellow Brick Road"
     },
     {
       "id": "1002",
@@ -339,7 +421,9 @@
       "date": "2021-11-29",
       "festival_name": null,
       "artists": "Luke Combs",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Cold As You",
+      "closing_song": "Beer Never Broke My Heart"
     },
     {
       "id": "996",
@@ -347,7 +431,9 @@
       "date": "2021-11-05",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miami 2017",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "993",
@@ -355,7 +441,9 @@
       "date": "2021-10-08",
       "festival_name": null,
       "artists": "Chris Stapleton",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Nobody to Blame",
+      "closing_song": "Outlaw State of Mind"
     },
     {
       "id": "972",
@@ -363,7 +451,9 @@
       "date": "2020-03-10",
       "festival_name": null,
       "artists": "The Brothers",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Don't Want You No More/My Cross To Bear",
+      "closing_song": "Whipping Post"
     },
     {
       "id": "969",
@@ -371,7 +461,9 @@
       "date": "2020-02-15",
       "festival_name": null,
       "artists": "The Eagles",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Hotel California",
+      "closing_song": "Long Run/Hotel California (Reprise)"
     },
     {
       "id": "967",
@@ -379,7 +471,9 @@
       "date": "2019-12-19",
       "festival_name": null,
       "artists": "Andrea Bocelli",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": "Time to Say Goodbye/Nessun Dorma"
     },
     {
       "id": "890",
@@ -387,7 +481,9 @@
       "date": "2019-12-19",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Big Shot",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "966",
@@ -395,7 +491,9 @@
       "date": "2019-12-11",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "I Go to Extremes",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "953",
@@ -403,7 +501,9 @@
       "date": "2019-10-31",
       "festival_name": null,
       "artists": "Dead and Company",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Ripple",
+      "closing_song": "Werewolves of London"
     },
     {
       "id": "952",
@@ -411,7 +511,9 @@
       "date": "2019-10-30",
       "festival_name": null,
       "artists": "Bob Seger & the Silver Bullet Band",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Simplicity",
+      "closing_song": "Rock and Roll Never Forgets"
     },
     {
       "id": "948",
@@ -419,7 +521,9 @@
       "date": "2019-10-07",
       "festival_name": null,
       "artists": "Phil Collins",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Against All Odds",
+      "closing_song": "Take Me Home"
     },
     {
       "id": "947",
@@ -427,7 +531,9 @@
       "date": "2019-10-06",
       "festival_name": null,
       "artists": "Phil Collins",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Against All Odds",
+      "closing_song": "Take Me Home"
     },
     {
       "id": "945",
@@ -435,7 +541,9 @@
       "date": "2019-09-27",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Big Shot",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "944",
@@ -443,7 +551,9 @@
       "date": "2019-09-25",
       "festival_name": "Multi-Artist Show",
       "artists": "Mark Knopfler, Bonnie Raitt",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "MK: Why Aye Man",
+      "closing_song": "MK: Going Home"
     },
     {
       "id": "939",
@@ -451,7 +561,9 @@
       "date": "2019-09-01",
       "festival_name": null,
       "artists": "The Who (w. Orchestra)",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Overture/1921",
+      "closing_song": "Baba O'Reilly"
     },
     {
       "id": "931",
@@ -459,7 +571,9 @@
       "date": "2019-08-11",
       "festival_name": "Multi-Artist Show",
       "artists": "Hootie, Blowfish/BNL",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "I Go Blind",
+      "closing_song": "Only Wanna Be With You"
     },
     {
       "id": "929",
@@ -467,7 +581,9 @@
       "date": "2019-08-06",
       "festival_name": null,
       "artists": "Queen + Adam Lambert",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Now I'm Here",
+      "closing_song": "We are the Champions"
     },
     {
       "id": "914",
@@ -475,7 +591,9 @@
       "date": "2019-05-13",
       "festival_name": null,
       "artists": "The Who",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Overture",
+      "closing_song": "Baba O'Reilly"
     },
     {
       "id": "908",
@@ -483,7 +601,9 @@
       "date": "2019-04-12",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Big Shot",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "903",
@@ -491,7 +611,9 @@
       "date": "2019-03-27",
       "festival_name": null,
       "artists": "KISS",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Detroit Rock City",
+      "closing_song": "Rock and Roll All Nite"
     },
     {
       "id": "900",
@@ -499,7 +621,9 @@
       "date": "2019-03-11",
       "festival_name": null,
       "artists": "Fleetwood Mac",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "The Chain",
+      "closing_song": "All Over Again"
     },
     {
       "id": "895",
@@ -507,7 +631,9 @@
       "date": "2019-02-14",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Big Shot",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "892",
@@ -515,7 +641,9 @@
       "date": "2018-12-31",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Big Shot",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "888",
@@ -523,7 +651,9 @@
       "date": "2018-12-11",
       "festival_name": "Multi-Artist Show",
       "artists": "Mumford & Sons",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Guiding Light",
+      "closing_song": "Delta"
     },
     {
       "id": "885",
@@ -531,7 +661,9 @@
       "date": "2018-11-29",
       "festival_name": null,
       "artists": "Dave Matthews Band",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Seek Up",
+      "closing_song": "Ants Marching"
     },
     {
       "id": "881",
@@ -539,7 +671,9 @@
       "date": "2018-11-09",
       "festival_name": null,
       "artists": "Elton John",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bennie and the Jets",
+      "closing_song": "Goodbye Yellow Brick Road"
     },
     {
       "id": "879",
@@ -547,7 +681,9 @@
       "date": "2018-11-02",
       "festival_name": null,
       "artists": "Chris Stapleton",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Midnight Train to Memphis",
+      "closing_song": "Outlaw State of Mind"
     },
     {
       "id": "874",
@@ -555,7 +691,9 @@
       "date": "2018-10-19",
       "festival_name": null,
       "artists": "Elton John",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bennie and the Jets",
+      "closing_song": "Goodbye Yellow Brick Road"
     },
     {
       "id": "870",
@@ -563,7 +701,9 @@
       "date": "2018-10-07",
       "festival_name": null,
       "artists": "Eric Clapton",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Somebody's Knocking",
+      "closing_song": "High Time We Went"
     },
     {
       "id": "868",
@@ -571,7 +711,9 @@
       "date": "2018-09-30",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Big Shot",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "863",
@@ -579,7 +721,9 @@
       "date": "2018-09-20",
       "festival_name": null,
       "artists": "Paul Simon",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "America",
+      "closing_song": "Sound of Silence"
     },
     {
       "id": "859",
@@ -587,7 +731,9 @@
       "date": "2018-09-08",
       "festival_name": "Multi-Artist Show",
       "artists": "Dierks Bentley, Brothers Osborne",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "DB: The Mountain           BO: Shoot Me Straight",
+      "closing_song": "DB: Drunk on a Plane                          BO: Ain't My Fault"
     },
     {
       "id": "855",
@@ -595,7 +741,9 @@
       "date": "2018-08-23",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Big Shot",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "854",
@@ -603,7 +751,9 @@
       "date": "2018-08-21",
       "festival_name": null,
       "artists": "ELO",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Standing in the Rain",
+      "closing_song": "Roll Over Beethoven"
     },
     {
       "id": "849",
@@ -611,7 +761,9 @@
       "date": "2018-08-11",
       "festival_name": "Multi-Artist Show",
       "artists": "Jason Aldean, Luke Combs, Lauren Alaina",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "JA: Getting Warmed Up      LC: Beer Never Broke",
+      "closing_song": "JA: Crazy Town      LC: Hurricane"
     },
     {
       "id": "847",
@@ -619,7 +771,9 @@
       "date": "2018-08-07",
       "festival_name": null,
       "artists": "Rod Stewart/Cyndi Lauper",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Infatuation",
+      "closing_song": "Sailing"
     },
     {
       "id": "843",
@@ -627,7 +781,9 @@
       "date": "2018-07-18",
       "festival_name": null,
       "artists": "Billy Joel (with Bruce Springsteen)",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Big Shot",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "839",
@@ -635,7 +791,9 @@
       "date": "2018-07-01",
       "festival_name": null,
       "artists": "U2",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Love is All We Have Left",
+      "closing_song": "13 (There is a Light)"
     },
     {
       "id": "836",
@@ -643,7 +801,9 @@
       "date": "2018-06-26",
       "festival_name": null,
       "artists": "U2",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Love is All We Have Left",
+      "closing_song": "13 (There is a Light)"
     },
     {
       "id": "835",
@@ -651,7 +811,9 @@
       "date": "2018-06-25",
       "festival_name": null,
       "artists": "U2",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Love is All We Have Left",
+      "closing_song": "13 (There is a Light)"
     },
     {
       "id": "829",
@@ -659,7 +821,9 @@
       "date": "2018-05-23",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miami 2017",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "827",
@@ -667,7 +831,9 @@
       "date": "2018-05-10",
       "festival_name": null,
       "artists": "Bon Jovi",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "This House is Not For Sale",
+      "closing_song": "Livin on a Prayer"
     },
     {
       "id": "826",
@@ -675,7 +841,9 @@
       "date": "2018-05-09",
       "festival_name": null,
       "artists": "Bon Jovi",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "This House is Not For Sale",
+      "closing_song": "Livin on a Prayer"
     },
     {
       "id": "820",
@@ -683,7 +851,9 @@
       "date": "2018-04-13",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Movin' Out",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "813",
@@ -691,7 +861,9 @@
       "date": "2018-02-21",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miami 2017",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "806",
@@ -699,7 +871,9 @@
       "date": "2017-12-20",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miami 2017",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "798",
@@ -707,7 +881,9 @@
       "date": "2017-11-14",
       "festival_name": null,
       "artists": "Dead and Company",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Hell in a Bucket",
+      "closing_song": "US Blues"
     },
     {
       "id": "796",
@@ -715,7 +891,9 @@
       "date": "2017-10-20",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miami 2017",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "793",
@@ -723,7 +901,9 @@
       "date": "2017-10-11",
       "festival_name": "Multi-Artist Show",
       "artists": "Guns, Roses",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "It's So Easy",
+      "closing_song": "Paradise City"
     },
     {
       "id": "787",
@@ -731,7 +911,9 @@
       "date": "2017-09-17",
       "festival_name": null,
       "artists": "Paul McCartney",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Hard Day's Night",
+      "closing_song": "Carry That Weight"
     },
     {
       "id": "785",
@@ -739,7 +921,9 @@
       "date": "2017-09-15",
       "festival_name": null,
       "artists": "Paul McCartney",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Hard Day's Night",
+      "closing_song": "Carry That Weight"
     },
     {
       "id": "782",
@@ -747,7 +931,9 @@
       "date": "2017-09-08",
       "festival_name": null,
       "artists": "Eric Clapton",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Somebody's Knocking",
+      "closing_song": "Before You Accuse Me"
     },
     {
       "id": "778",
@@ -755,7 +941,9 @@
       "date": "2017-08-21",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "We Didn't Start the Fire",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "765",
@@ -763,7 +951,9 @@
       "date": "2017-07-05",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miami 2017",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "760",
@@ -771,7 +961,9 @@
       "date": "2017-06-17",
       "festival_name": null,
       "artists": "Neil Diamond",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Cherry, Cherry",
+      "closing_song": "America"
     },
     {
       "id": "752",
@@ -779,7 +971,9 @@
       "date": "2017-04-15",
       "festival_name": null,
       "artists": "Bon Jovi",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "This House is Not For Sale",
+      "closing_song": "Livin' on a Prayer"
     },
     {
       "id": "749",
@@ -787,7 +981,9 @@
       "date": "2017-03-19",
       "festival_name": null,
       "artists": "Eric Clapton",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Key to the Highway",
+      "closing_song": "Before You Accuse Me"
     },
     {
       "id": "746",
@@ -795,7 +991,9 @@
       "date": "2017-03-03",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miami 2017",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "745",
@@ -803,7 +1001,9 @@
       "date": "2017-02-22",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "My Life",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "739",
@@ -811,7 +1011,9 @@
       "date": "2017-01-20",
       "festival_name": null,
       "artists": "Kings of Leon",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "The End",
+      "closing_song": "Around the World"
     },
     {
       "id": "735",
@@ -819,7 +1021,9 @@
       "date": "2016-11-30",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miami 2017",
+      "closing_song": " You May Be Right"
     },
     {
       "id": "730",
@@ -827,7 +1031,9 @@
       "date": "2016-11-07",
       "festival_name": null,
       "artists": "Temple of the Dog",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Say Hello 2Heaven",
+      "closing_song": "All Night Thing"
     },
     {
       "id": "728",
@@ -835,7 +1041,9 @@
       "date": "2016-10-28",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "The Stranger",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "723",
@@ -843,7 +1051,9 @@
       "date": "2016-09-22",
       "festival_name": null,
       "artists": "Adele",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Hello",
+      "closing_song": "Rolling in the Deep"
     },
     {
       "id": "706",
@@ -851,7 +1061,9 @@
       "date": "2016-07-20",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miami 2017",
+      "closing_song": "Only the Good Die Young"
     },
     {
       "id": "691",
@@ -859,7 +1071,9 @@
       "date": "2016-05-02",
       "festival_name": null,
       "artists": "Pearl Jam",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Corduroy",
+      "closing_song": "Yellow Led Better"
     },
     {
       "id": "690",
@@ -867,7 +1081,9 @@
       "date": "2016-05-01",
       "festival_name": null,
       "artists": "Pearl Jam",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Go",
+      "closing_song": "Indifference"
     },
     {
       "id": "684",
@@ -875,7 +1091,9 @@
       "date": "2016-04-15",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "We Didn't Start the Fire",
+      "closing_song": "Only the Good Die Young"
     },
     {
       "id": "683",
@@ -883,7 +1101,9 @@
       "date": "2016-04-12",
       "festival_name": null,
       "artists": "David Gilmour",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "5 A.M. / Rattle that Lock",
+      "closing_song": "Comfortably Numb"
     },
     {
       "id": "682",
@@ -891,7 +1111,9 @@
       "date": "2016-04-11",
       "festival_name": null,
       "artists": "David Gilmour",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "5 A.M. / Rattle that Lock",
+      "closing_song": "Comfortably Numb"
     },
     {
       "id": "678",
@@ -899,7 +1121,9 @@
       "date": "2016-03-28",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Meet Me in the City",
+      "closing_song": "Shout"
     },
     {
       "id": "677",
@@ -907,7 +1131,9 @@
       "date": "2016-03-03",
       "festival_name": "Multi-Artist Show",
       "artists": "The Who, Joan Jett",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Who: Who Are You        JJ: Bad Reputation",
+      "closing_song": "Who: Won't Get Fooled Again      JJ: I Hate MySelf For Loving You"
     },
     {
       "id": "674",
@@ -915,7 +1141,9 @@
       "date": "2016-02-13",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miami 2017",
+      "closing_song": "Only the Good Die Young"
     },
     {
       "id": "669",
@@ -923,7 +1151,9 @@
       "date": "2016-01-27",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Meet Me in the City",
+      "closing_song": "Shout"
     },
     {
       "id": "667",
@@ -931,7 +1161,9 @@
       "date": "2016-01-07",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "We Didn't Start the Fire",
+      "closing_song": "Only the Good Die Young"
     },
     {
       "id": "663",
@@ -939,7 +1171,9 @@
       "date": "2015-11-19",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "My Life",
+      "closing_song": "Only the Good Die Young"
     },
     {
       "id": "660",
@@ -947,7 +1181,9 @@
       "date": "2015-11-01",
       "festival_name": null,
       "artists": "Dead and Company",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Samson & Delilah",
+      "closing_song": "Ripple"
     },
     {
       "id": "638",
@@ -955,7 +1191,9 @@
       "date": "2015-07-23",
       "festival_name": null,
       "artists": "U2",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miracle of Joey Ramone",
+      "closing_song": "I Still Haven't Goudn What I'm Looking For"
     },
     {
       "id": "637",
@@ -963,7 +1201,9 @@
       "date": "2015-07-22",
       "festival_name": null,
       "artists": "U2",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miracle of Joey Ramone",
+      "closing_song": "One"
     },
     {
       "id": "636",
@@ -971,7 +1211,9 @@
       "date": "2015-07-18",
       "festival_name": null,
       "artists": "U2",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miracle of Joey Ramone",
+      "closing_song": "One"
     },
     {
       "id": "635",
@@ -979,7 +1221,9 @@
       "date": "2015-07-01",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Big Shot",
+      "closing_song": "Only the Good Die Young"
     },
     {
       "id": "634",
@@ -987,7 +1231,9 @@
       "date": "2015-06-30",
       "festival_name": null,
       "artists": "Shania Twain",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Rock This Country",
+      "closing_song": "Man, I Feel Like a Woman"
     },
     {
       "id": "633",
@@ -995,7 +1241,9 @@
       "date": "2015-06-29",
       "festival_name": null,
       "artists": "Rush",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "The Anarchist",
+      "closing_song": "Working Man"
     },
     {
       "id": "629",
@@ -1003,7 +1251,9 @@
       "date": "2015-06-20",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miami 2017",
+      "closing_song": "You May Be Right"
     },
     {
       "id": "625",
@@ -1011,7 +1261,9 @@
       "date": "2015-05-28",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miami 2017",
+      "closing_song": "Only the Good Die Young"
     },
     {
       "id": "622",
@@ -1019,7 +1271,9 @@
       "date": "2015-05-03",
       "festival_name": null,
       "artists": "Eric Clapton (70th Birthday bash)",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Somebody's Knocking",
+      "closing_song": "High Time We Went"
     },
     {
       "id": "614",
@@ -1027,7 +1281,9 @@
       "date": "2015-04-03",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miami 2017",
+      "closing_song": "Only the Good Die Young"
     },
     {
       "id": "612",
@@ -1035,7 +1291,9 @@
       "date": "2014-12-19",
       "festival_name": null,
       "artists": "Bob Seger",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Roll Me Away",
+      "closing_song": "Rock & Roll Never Forgets"
     },
     {
       "id": "611",
@@ -1043,7 +1301,9 @@
       "date": "2014-12-18",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miami 2017",
+      "closing_song": "Only the Good Die Young"
     },
     {
       "id": "610",
@@ -1051,7 +1311,9 @@
       "date": "2014-12-05",
       "festival_name": null,
       "artists": "James Taylor",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Something in the Way She Moves",
+      "closing_song": "You've Got a Friend"
     },
     {
       "id": "608",
@@ -1059,7 +1321,9 @@
       "date": "2014-11-25",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miami 2017",
+      "closing_song": "Only the Good Die Young"
     },
     {
       "id": "605",
@@ -1067,7 +1331,9 @@
       "date": "2014-10-17",
       "festival_name": "Multi-Artist Show",
       "artists": "Eric Church, Dwight Yoakam",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "The Outsiders",
+      "closing_song": "Lightning"
     },
     {
       "id": "602",
@@ -1075,7 +1341,9 @@
       "date": "2014-10-07",
       "festival_name": null,
       "artists": "Fleetwood Mac",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "The Chain",
+      "closing_song": "Songbird"
     },
     {
       "id": "598",
@@ -1083,7 +1351,9 @@
       "date": "2014-09-18",
       "festival_name": null,
       "artists": "The Eagles",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Saturday Night",
+      "closing_song": "Desperado"
     },
     {
       "id": "597",
@@ -1091,7 +1361,9 @@
       "date": "2014-09-17",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miami 2017",
+      "closing_song": "Only the Good Die Young"
     },
     {
       "id": "594",
@@ -1099,7 +1371,9 @@
       "date": "2014-09-10",
       "festival_name": null,
       "artists": "Tom Petty & the Heartbreakers",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "TP: So You Wanna Be a Rock & Roll Star  SW: Im a Man",
+      "closing_song": "TP: American Girl    SW: Gimme Some Lovin"
     },
     {
       "id": "587",
@@ -1107,7 +1381,9 @@
       "date": "2014-07-17",
       "festival_name": null,
       "artists": "Queen + Adam Lambert",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Now I'm Here",
+      "closing_song": "We Are the Champions"
     },
     {
       "id": "583",
@@ -1115,7 +1391,9 @@
       "date": "2014-07-02",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miami 2017",
+      "closing_song": "Only the Good Die Young"
     },
     {
       "id": "580",
@@ -1123,7 +1401,9 @@
       "date": "2014-06-21",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Matter of Trust",
+      "closing_song": "Only the Good Die Young"
     },
     {
       "id": "573",
@@ -1131,7 +1411,9 @@
       "date": "2014-04-18",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miami 2017",
+      "closing_song": "Only the Good Die Young"
     },
     {
       "id": "570",
@@ -1139,7 +1421,9 @@
       "date": "2014-03-21",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miami 2017",
+      "closing_song": "Only the Good Die Young"
     },
     {
       "id": "567",
@@ -1147,7 +1431,9 @@
       "date": "2014-03-06",
       "festival_name": "Multi-Artist Show",
       "artists": "Sting, Paul Simon",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Brand New Day",
+      "closing_song": "When Will I Be Loved"
     },
     {
       "id": "566",
@@ -1155,7 +1441,9 @@
       "date": "2014-02-14",
       "festival_name": null,
       "artists": "Kings of Leon",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Charmer",
+      "closing_song": "Sex on Fire"
     },
     {
       "id": "565",
@@ -1163,7 +1451,9 @@
       "date": "2014-02-03",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miami 2017",
+      "closing_song": "Only the Good Die Young"
     },
     {
       "id": "563",
@@ -1171,7 +1461,9 @@
       "date": "2014-01-29",
       "festival_name": "Multi-Artist Show",
       "artists": "Keith Urban, Little Big Town",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Instrumental/Long Hit Summer",
+      "closing_song": "You Look Good in my Shirt"
     },
     {
       "id": "562",
@@ -1179,7 +1471,9 @@
       "date": "2014-01-27",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miami 2017",
+      "closing_song": "Only the Good Die Young"
     },
     {
       "id": "556",
@@ -1187,7 +1481,9 @@
       "date": "2013-12-09",
       "festival_name": "Multi-Artist Show",
       "artists": "Rod Stewart, Steve Winwood",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "RS: This Old Heart of Mine",
+      "closing_song": "Do Ya Think I'm Sexy"
     },
     {
       "id": "555",
@@ -1195,7 +1491,9 @@
       "date": "2013-12-04",
       "festival_name": null,
       "artists": "Elton John",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Funeral for a Friend",
+      "closing_song": "Crocodile Rock"
     },
     {
       "id": "530",
@@ -1203,7 +1501,9 @@
       "date": "2012-12-12",
       "festival_name": "12-12-12 Concert For Sandy Relief",
       "artists": "Bruce Springsteen, Paul McCartney, The Rolling Stones, The Who, Blly Joel, Roger Waters, Chris Martin, Bon Jovi, Eric Clapton",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bruce: Land of Hope and Dreams",
+      "closing_song": "McCartney: Live and Let Die and Alicia Keys New York"
     },
     {
       "id": "504",
@@ -1211,7 +1511,9 @@
       "date": "2012-04-09",
       "festival_name": null,
       "artists": "Bruce Springsteen",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Badlands",
+      "closing_song": "Tenth Ave Freeze Out"
     },
     {
       "id": "502",
@@ -1219,7 +1521,9 @@
       "date": "2012-02-28",
       "festival_name": null,
       "artists": "Van Halen",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "You Really Got Me",
+      "closing_song": "Jump"
     },
     {
       "id": "497",
@@ -1227,7 +1531,9 @@
       "date": "2011-12-01",
       "festival_name": null,
       "artists": "Bob Seger (guest: Bruce Springsteen)",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Roll Me Away",
+      "closing_song": "Rock & Roll Never Forgets"
     },
     {
       "id": "494",
@@ -1235,7 +1541,9 @@
       "date": "2011-11-10",
       "festival_name": null,
       "artists": "Further",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Sugar Magnolia",
+      "closing_song": "Attics of My Life"
     },
     {
       "id": "473",
@@ -1243,7 +1551,9 @@
       "date": "2011-03-26",
       "festival_name": "Multi-Artist Show",
       "artists": "Rod Stewart, Stevie Nicks",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Love Train  /  Stand Back",
+      "closing_song": "Do Ya Think I'm Sexy /  Love Is"
     },
     {
       "id": "470",
@@ -1251,7 +1561,9 @@
       "date": "2011-03-20",
       "festival_name": "Multi-Artist Show",
       "artists": "Elton John, Leon Russell",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Funeral for a Friend",
+      "closing_song": "Your Song"
     },
     {
       "id": "468",
@@ -1259,7 +1571,9 @@
       "date": "2011-03-16",
       "festival_name": "Multi-Artist Show",
       "artists": "Elton John, Leon Russell",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Funeral for a Friend",
+      "closing_song": "Your Song"
     },
     {
       "id": "467",
@@ -1267,7 +1581,9 @@
       "date": "2011-02-24",
       "festival_name": null,
       "artists": "Bon Jovi",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Last Man Standing",
+      "closing_song": "Living on a Prayer"
     },
     {
       "id": "462",
@@ -1275,7 +1591,9 @@
       "date": "2010-12-18",
       "festival_name": null,
       "artists": "Prince",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Welcome 2 America",
+      "closing_song": "A Love Bizarre"
     },
     {
       "id": "460",
@@ -1283,7 +1601,9 @@
       "date": "2010-11-28",
       "festival_name": null,
       "artists": "Michael Buble",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Cry Me a River",
+      "closing_song": "Song For You"
     },
     {
       "id": "459",
@@ -1291,7 +1611,9 @@
       "date": "2010-11-20",
       "festival_name": null,
       "artists": "Further",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Help On The Way",
+      "closing_song": "One More Saturday Night"
     },
     {
       "id": "457",
@@ -1299,7 +1621,9 @@
       "date": "2010-11-16",
       "festival_name": null,
       "artists": "Kings of Leon",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Mary",
+      "closing_song": "Black Thumbnail"
     },
     {
       "id": "455",
@@ -1307,7 +1631,9 @@
       "date": "2010-11-13",
       "festival_name": null,
       "artists": "Dave Matthews Band",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "#41",
+      "closing_song": "The Last Stop"
     },
     {
       "id": "436",
@@ -1315,7 +1641,9 @@
       "date": "2010-07-28",
       "festival_name": null,
       "artists": "Tom Petty and the Heartbreakers with Buddy Guy",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Listen to Her Heart",
+      "closing_song": "American Girl"
     },
     {
       "id": "429",
@@ -1323,7 +1651,9 @@
       "date": "2010-07-07",
       "festival_name": null,
       "artists": "Lady Gaga",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Dance in the Dark",
+      "closing_song": "Bad Romance"
     },
     {
       "id": "425",
@@ -1331,7 +1661,9 @@
       "date": "2010-06-16",
       "festival_name": "Multi-Artist Show",
       "artists": "James Taylor, Carole King",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Blossom",
+      "closing_song": "??"
     },
     {
       "id": "421",
@@ -1339,7 +1671,9 @@
       "date": "2010-05-21",
       "festival_name": null,
       "artists": "Pearl Jam",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Corduroy",
+      "closing_song": "Yellow Led Better"
     },
     {
       "id": "412",
@@ -1347,7 +1681,9 @@
       "date": "2010-02-26",
       "festival_name": null,
       "artists": "John Mayer",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Heartbreak ",
+      "closing_song": "Gravity"
     },
     {
       "id": "411",
@@ -1355,7 +1691,9 @@
       "date": "2010-02-19",
       "festival_name": "Multi-Artist Show",
       "artists": "Eric Clapton, Jeff Beck",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "JB: Freeway Jam\nEC: Driftin'",
+      "closing_song": "JB: Nessun Dorma\nEC: Cocaine\nTogether: Crossraods"
     },
     {
       "id": "406",
@@ -1363,7 +1701,9 @@
       "date": "2009-11-08",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Wrecking Ball",
+      "closing_song": "Higher & Higher"
     },
     {
       "id": "405",
@@ -1371,7 +1711,9 @@
       "date": "2009-11-07",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "ThunderCrack",
+      "closing_song": "Higher & higher"
     },
     {
       "id": "403",
@@ -1379,7 +1721,9 @@
       "date": "2009-10-29",
       "festival_name": "Multi-Artist Show",
       "artists": "Rock & Roll Hall of Fame 25th: Bruce Springsteen, Stevie Wonder, Paul Simon, Simon & Garfunkel, CSN, Jackson Browne, Bonnie Raitt, John Fogerty, James Taylor, Sam Moore, Darlene Love, Billy Joel",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "402",
@@ -1387,7 +1731,9 @@
       "date": "2009-10-21",
       "festival_name": "Multi-Artist Show",
       "artists": "Brad Paisley, Dierks Bentley",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Start a Band",
+      "closing_song": "Boys of Summer"
     },
     {
       "id": "400",
@@ -1395,7 +1741,9 @@
       "date": "2009-10-10",
       "festival_name": null,
       "artists": "KISS",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Deuce ",
+      "closing_song": "Detroit Rock City"
     },
     {
       "id": "398",
@@ -1403,7 +1751,9 @@
       "date": "2009-10-08",
       "festival_name": null,
       "artists": "Keith Urban with Sugarland",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Hit the Ground Running",
+      "closing_song": "Better Life"
     },
     {
       "id": "384",
@@ -1411,7 +1761,9 @@
       "date": "2009-06-11",
       "festival_name": null,
       "artists": "Fleetwood Mac",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Monday Morning",
+      "closing_song": "Silver Springs"
     },
     {
       "id": "377",
@@ -1419,7 +1771,9 @@
       "date": "2009-04-25",
       "festival_name": null,
       "artists": "The Dead",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Cosmic Charlie",
+      "closing_song": "Brokedown Palace"
     },
     {
       "id": "373",
@@ -1427,7 +1781,9 @@
       "date": "2009-04-14",
       "festival_name": null,
       "artists": "Dave Matthews Band",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Don't Drink the Water",
+      "closing_song": "Tripping Billies"
     },
     {
       "id": "369",
@@ -1435,7 +1791,9 @@
       "date": "2009-01-25",
       "festival_name": null,
       "artists": "The Killers",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Spaceman",
+      "closing_song": "When You Were Young"
     },
     {
       "id": "366",
@@ -1443,7 +1801,9 @@
       "date": "2008-12-16",
       "festival_name": null,
       "artists": "Neil Young",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Love and Only Love",
+      "closing_song": "Day in the Life"
     },
     {
       "id": "362",
@@ -1451,7 +1811,9 @@
       "date": "2008-11-13",
       "festival_name": null,
       "artists": "ACDC",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Rock and Roll Train",
+      "closing_song": "For Those About To Rock, We Salute You"
     },
     {
       "id": "356",
@@ -1459,7 +1821,9 @@
       "date": "2008-08-12",
       "festival_name": null,
       "artists": "Neil Diamond",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Solitary Man",
+      "closing_song": "Sweet Caroline"
     },
     {
       "id": "348",
@@ -1467,7 +1831,9 @@
       "date": "2008-07-14",
       "festival_name": null,
       "artists": "Bon Jovi",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Lost Highway",
+      "closing_song": "Living on a Prayer"
     },
     {
       "id": "345",
@@ -1475,7 +1841,9 @@
       "date": "2008-06-25",
       "festival_name": null,
       "artists": "Pearl Jam",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Release",
+      "closing_song": "Yellow Led Better"
     },
     {
       "id": "343",
@@ -1483,7 +1851,9 @@
       "date": "2008-06-17",
       "festival_name": null,
       "artists": "Tom Petty & the Heartbreakers",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "You Wreck Me",
+      "closing_song": "American Girl"
     },
     {
       "id": "342",
@@ -1491,7 +1861,9 @@
       "date": "2008-06-12",
       "festival_name": null,
       "artists": "Jimmy Buffett",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Homemade Music",
+      "closing_song": "Glory Days"
     },
     {
       "id": "338",
@@ -1499,7 +1871,9 @@
       "date": "2008-05-30",
       "festival_name": null,
       "artists": "The Eagles",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "How Long",
+      "closing_song": "Desperado"
     },
     {
       "id": "331",
@@ -1507,7 +1881,9 @@
       "date": "2008-02-28",
       "festival_name": "Multi-Artist Show",
       "artists": "Eric Clapton, Steve Winwood",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Had to Cry Today",
+      "closing_song": "Dear Mr. Fantasy"
     },
     {
       "id": "326",
@@ -1515,7 +1891,9 @@
       "date": "2007-11-17",
       "festival_name": null,
       "artists": "Stevie Wonder",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Love is Need of Love Today",
+      "closing_song": "As"
     },
     {
       "id": "324",
@@ -1523,7 +1901,9 @@
       "date": "2007-11-13",
       "festival_name": null,
       "artists": "Van Halen",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "You Really Got Me",
+      "closing_song": "Jump"
     },
     {
       "id": "320",
@@ -1531,7 +1911,9 @@
       "date": "2007-10-18",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Radio Nowhere",
+      "closing_song": "American Land"
     },
     {
       "id": "319",
@@ -1539,7 +1921,9 @@
       "date": "2007-10-17",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Radio Nowhere",
+      "closing_song": "American Land"
     },
     {
       "id": "317",
@@ -1547,7 +1931,9 @@
       "date": "2007-09-18",
       "festival_name": null,
       "artists": "Jimmy Buffett",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "On the Road Again",
+      "closing_song": "Glory Days"
     },
     {
       "id": "300",
@@ -1555,7 +1941,9 @@
       "date": "2007-05-30",
       "festival_name": null,
       "artists": "Roger Waters",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "In the Flesh",
+      "closing_song": "Comfortably Numb"
     },
     {
       "id": "298",
@@ -1563,7 +1951,9 @@
       "date": "2007-04-28",
       "festival_name": null,
       "artists": "The Killers",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Sam's Town",
+      "closing_song": "All the Things I've Done"
     },
     {
       "id": "295",
@@ -1571,7 +1961,9 @@
       "date": "2007-03-25",
       "festival_name": null,
       "artists": "Elton John",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "60 Years On",
+      "closing_song": "Your Song"
     },
     {
       "id": "292",
@@ -1579,7 +1971,9 @@
       "date": "2007-02-08",
       "festival_name": null,
       "artists": "Rod Stewart",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Tonight's the Night",
+      "closing_song": "Maggie May"
     },
     {
       "id": "290",
@@ -1587,7 +1981,9 @@
       "date": "2007-01-25",
       "festival_name": null,
       "artists": "Bob Seger & the Silver Bullet Band",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Roll Me Away",
+      "closing_song": "Rock and Roll Never Forgets"
     },
     {
       "id": "281",
@@ -1595,7 +1991,9 @@
       "date": "2006-09-28",
       "festival_name": null,
       "artists": "Eric Clapton",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Pretending",
+      "closing_song": "Crossroads"
     },
     {
       "id": "278",
@@ -1603,7 +2001,9 @@
       "date": "2006-09-18",
       "festival_name": null,
       "artists": "The Who",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Can't Explain",
+      "closing_song": "Tea for Two"
     },
     {
       "id": "277",
@@ -1611,7 +2011,9 @@
       "date": "2006-09-14",
       "festival_name": "Multi-Artist Show",
       "artists": "Jimmy Buffett, Coral Reefer Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Brown Eyed Girl",
+      "closing_song": "Pirate Looks at 40"
     },
     {
       "id": "276",
@@ -1619,7 +2021,9 @@
       "date": "2006-09-12",
       "festival_name": null,
       "artists": "Roger Waters",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "In the Flesh",
+      "closing_song": "Comfortably Numb"
     },
     {
       "id": "264",
@@ -1627,7 +2031,9 @@
       "date": "2006-06-22",
       "festival_name": "Multi-Artist Show",
       "artists": "Bruce Springsteen, the Seeger Sessions Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "American Land",
+      "closing_song": "When the Saints Go Marching In"
     },
     {
       "id": "263",
@@ -1635,7 +2041,9 @@
       "date": "2006-06-20",
       "festival_name": null,
       "artists": "Tom Petty & the Heartbreakers",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Listen To Her Heart",
+      "closing_song": "American Girl"
     },
     {
       "id": "258",
@@ -1643,7 +2051,9 @@
       "date": "2006-04-19",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Angry Young Man",
+      "closing_song": "Piano Man"
     },
     {
       "id": "252",
@@ -1651,7 +2061,9 @@
       "date": "2006-01-26",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Angry Young Man",
+      "closing_song": "Piano Man"
     },
     {
       "id": "251",
@@ -1659,7 +2071,9 @@
       "date": "2006-01-23",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Angry Young Man",
+      "closing_song": "Piano Man"
     },
     {
       "id": "247",
@@ -1667,7 +2081,9 @@
       "date": "2005-12-09",
       "festival_name": null,
       "artists": "Dave Matthews Band",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Recently",
+      "closing_song": "Two Step"
     },
     {
       "id": "245",
@@ -1675,7 +2091,9 @@
       "date": "2005-11-21",
       "festival_name": null,
       "artists": "U2",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "City of Blinding Lights",
+      "closing_song": "Bad"
     },
     {
       "id": "243",
@@ -1683,7 +2101,9 @@
       "date": "2005-10-25",
       "festival_name": null,
       "artists": "Cream",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "I'm So Glad",
+      "closing_song": "Sunshine Of Your Love"
     },
     {
       "id": "240",
@@ -1691,7 +2111,9 @@
       "date": "2005-10-01",
       "festival_name": null,
       "artists": "Paul McCartney",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Magical Mystery Tour",
+      "closing_song": "Sgt. Peppers/The End"
     },
     {
       "id": "239",
@@ -1699,7 +2121,9 @@
       "date": "2005-09-30",
       "festival_name": null,
       "artists": "Paul McCartney",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Magical Mystery Tour",
+      "closing_song": "Sgt. Peppers/The End"
     },
     {
       "id": "232",
@@ -1707,7 +2131,9 @@
       "date": "2005-06-22",
       "festival_name": null,
       "artists": "Oasis",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Turn Up the Sun",
+      "closing_song": "My Generation"
     },
     {
       "id": "217",
@@ -1715,7 +2141,9 @@
       "date": "2004-11-04",
       "festival_name": null,
       "artists": "REM",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "It's The End of the World",
+      "closing_song": "Man on the Moon"
     },
     {
       "id": "214",
@@ -1723,7 +2151,9 @@
       "date": "2004-09-18",
       "festival_name": null,
       "artists": "Phil Collins",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Something Happened on Way",
+      "closing_song": "Take Me Home"
     },
     {
       "id": "204",
@@ -1731,7 +2161,9 @@
       "date": "2004-06-28",
       "festival_name": null,
       "artists": "Eric Clapton",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Let it Rain",
+      "closing_song": "Mojo Workin'"
     },
     {
       "id": "202",
@@ -1739,7 +2171,9 @@
       "date": "2004-05-22",
       "festival_name": null,
       "artists": "The Who",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "I Can't Explain",
+      "closing_song": "Magic Bus"
     },
     {
       "id": "196",
@@ -1747,7 +2181,9 @@
       "date": "2003-11-16",
       "festival_name": "Multi-Artist Show",
       "artists": "KISS, Aerosmith",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "KISS: Detroit Rock City\nAerosmith: Mama Kin",
+      "closing_song": "KISS: Rock & Roll All Nite\nAerosmith: Sweet Emotion"
     },
     {
       "id": "194",
@@ -1755,7 +2191,9 @@
       "date": "2003-09-30",
       "festival_name": null,
       "artists": "Fleetwood Mac",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "The Chain",
+      "closing_song": "Goodbye Baby"
     },
     {
       "id": "181",
@@ -1763,7 +2201,9 @@
       "date": "2003-05-20",
       "festival_name": null,
       "artists": "Red Hot Chile Peppers",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "By Your Way",
+      "closing_song": "Zephyr Song"
     },
     {
       "id": "177",
@@ -1771,7 +2211,9 @@
       "date": "2002-12-20",
       "festival_name": null,
       "artists": "Dave Matthews Band",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Captain",
+      "closing_song": "What You Are"
     },
     {
       "id": "175",
@@ -1779,7 +2221,9 @@
       "date": "2002-12-13",
       "festival_name": null,
       "artists": "Tom Petty & the Heartbreakers & Jackson Browne",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "The Last Dj",
+      "closing_song": "American Girl"
     },
     {
       "id": "165",
@@ -1787,7 +2231,9 @@
       "date": "2002-08-12",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "The Rising",
+      "closing_song": "Land of Hope & Dreams"
     },
     {
       "id": "148",
@@ -1795,7 +2241,9 @@
       "date": "2001-11-27",
       "festival_name": null,
       "artists": "Elton John",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Funeral For a Friend",
+      "closing_song": "Don't Let the Sun Go Down on Me"
     },
     {
       "id": "147",
@@ -1803,7 +2251,9 @@
       "date": "2001-10-27",
       "festival_name": null,
       "artists": "U2",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Elevation ",
+      "closing_song": "Out of Control"
     },
     {
       "id": "145",
@@ -1811,7 +2261,9 @@
       "date": "2001-10-20",
       "festival_name": "Multi-Artist Show",
       "artists": "Concert for New York (David Bowie, Bon Jovi, Goo Goo Dolls, Eric Clapton, Destiny's Child, Backstreet Boys, Elton John, Billy Joel, James Taylor, Paul McCartney, Melissa Etheridge, The Who, Mick Jagger/Keith Richards, John Mellencamp)",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "David Bowie: America",
+      "closing_song": "Paul Mccartney: Freedom"
     },
     {
       "id": "134",
@@ -1819,7 +2271,9 @@
       "date": "2001-06-23",
       "festival_name": null,
       "artists": "Eric Clapton",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Driftin'",
+      "closing_song": "Somewhere Over the Rainbow"
     },
     {
       "id": "133",
@@ -1827,7 +2281,9 @@
       "date": "2001-06-22",
       "festival_name": null,
       "artists": "Eric Clapton",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Driftin'",
+      "closing_song": "Somewhere Over the Rainbow"
     },
     {
       "id": "124",
@@ -1835,7 +2291,9 @@
       "date": "2001-05-08",
       "festival_name": null,
       "artists": "ACDC",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "You Shook Me All Night Long",
+      "closing_song": "For Those About to Rock"
     },
     {
       "id": "122",
@@ -1843,7 +2301,9 @@
       "date": "2001-02-15",
       "festival_name": "Multi-Artist Show",
       "artists": "Barenaked Ladies, Guster",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Too Little To Late",
+      "closing_song": "Call and Answer"
     },
     {
       "id": "120",
@@ -1851,7 +2311,9 @@
       "date": "2000-10-03",
       "festival_name": "Multi-Artist Show",
       "artists": "The Who, The Wallflowers",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Who: Can't Explain\nWall: Sleepwalker",
+      "closing_song": "Who: My Generation\nWall: The Difference"
     },
     {
       "id": "111",
@@ -1859,7 +2321,9 @@
       "date": "2000-07-13",
       "festival_name": null,
       "artists": "Roger Waters",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "In the Flesh",
+      "closing_song": "Each Small Candle"
     },
     {
       "id": "107",
@@ -1867,7 +2331,9 @@
       "date": "2000-07-01",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Code of Silence",
+      "closing_song": "Blood Brothers"
     },
     {
       "id": "104",
@@ -1875,7 +2341,9 @@
       "date": "2000-06-26",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Another Thin Line",
+      "closing_song": "Land of Hope & Dreams"
     },
     {
       "id": "97",
@@ -1883,7 +2351,9 @@
       "date": "1999-12-31",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Big Shot",
+      "closing_song": "Piano Man"
     },
     {
       "id": "92",
@@ -1891,7 +2361,9 @@
       "date": "1999-07-27",
       "festival_name": "Multi-Artist Show",
       "artists": "Paul Simon, Bob Dylan",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "BD: Slow Train\nPS: Bridge Over Troubled Water",
+      "closing_song": "BD: Blowing in the Wind\nPS: The Boxer"
     },
     {
       "id": "78",
@@ -1899,7 +2371,9 @@
       "date": "1999-02-22",
       "festival_name": "Multi-Artist Show",
       "artists": "Jimmy Buffett, Coral Reefer Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Kinja",
+      "closing_song": "Time to Go Home"
     },
     {
       "id": "77",
@@ -1907,7 +2381,9 @@
       "date": "1998-12-05",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Miami 2017",
+      "closing_song": "Piano Man"
     },
     {
       "id": "75",
@@ -1915,7 +2391,9 @@
       "date": "1998-11-23",
       "festival_name": null,
       "artists": "KISS",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Psych Circus",
+      "closing_song": "Black Diamond"
     },
     {
       "id": "74",
@@ -1923,7 +2401,9 @@
       "date": "1998-10-17",
       "festival_name": null,
       "artists": "Elton John",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Circle of Life",
+      "closing_song": "Bennie and the Jets"
     },
     {
       "id": "71",
@@ -1931,7 +2411,9 @@
       "date": "1998-09-10",
       "festival_name": null,
       "artists": "Pearl Jam",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Long Road",
+      "closing_song": "Soldier of Love"
     },
     {
       "id": "64",
@@ -1939,7 +2421,9 @@
       "date": "1998-05-22",
       "festival_name": null,
       "artists": "Van Halen 3 (Cherone) / Creed",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Unchained",
+      "closing_song": "Show Your Love"
     },
     {
       "id": "60",
@@ -1947,7 +2431,9 @@
       "date": "1998-04-18",
       "festival_name": null,
       "artists": "Eric Clapton",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "My Father's Eyes",
+      "closing_song": "Sunshine of Your Love"
     },
     {
       "id": "48",
@@ -1955,7 +2441,9 @@
       "date": "1997-08-06",
       "festival_name": null,
       "artists": "Aerosmith",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Nine Lives",
+      "closing_song": "Walk this Way"
     },
     {
       "id": "26",
@@ -1963,7 +2451,9 @@
       "date": "1996-07-27",
       "festival_name": null,
       "artists": "KISS",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Deuce",
+      "closing_song": "Rock & Roll All Nite"
     },
     {
       "id": "25",
@@ -1971,7 +2461,9 @@
       "date": "1996-07-25",
       "festival_name": null,
       "artists": "KISS",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Deuce",
+      "closing_song": "Rock & Roll All Nite"
     },
     {
       "id": "24",
@@ -1979,7 +2471,9 @@
       "date": "1996-07-20",
       "festival_name": null,
       "artists": "The Who",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "The Real Me",
+      "closing_song": "Won't Get Fooled Again"
     },
     {
       "id": "12",
@@ -1987,7 +2481,9 @@
       "date": "1995-10-14",
       "festival_name": null,
       "artists": "Elton John",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "I'm Still Standing",
+      "closing_song": "The Last Song"
     },
     {
       "id": "9",
@@ -1995,7 +2491,9 @@
       "date": "1995-06-23",
       "festival_name": null,
       "artists": "REM",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "What's the Frequency",
+      "closing_song": "It's the End of the World"
     }
   ]
 }

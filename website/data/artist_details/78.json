@@ -53,7 +53,9 @@
       "venue": "Bridgeport",
       "city": "Bridgeport",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Truck Still Works",
+      "closing_song": "Alcohol"
     },
     {
       "id": "1098",
@@ -63,7 +65,9 @@
       "venue": "Today Show Plaza at Rockefeller Center",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Water",
+      "closing_song": "I'm Gonna Miss Her"
     },
     {
       "id": "848",
@@ -73,7 +77,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Mud on the Tires",
+      "closing_song": "Alcohol"
     },
     {
       "id": "773",
@@ -83,7 +89,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Last Time for Everything",
+      "closing_song": "Alcohol"
     },
     {
       "id": "708",
@@ -93,7 +101,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Crushin It",
+      "closing_song": "Alcohol"
     },
     {
       "id": "540",
@@ -103,7 +113,9 @@
       "venue": "The Meadowlands",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Southern Comfort Zone",
+      "closing_song": "Alcohol"
     },
     {
       "id": "508",
@@ -113,7 +125,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Camouflage",
+      "closing_song": "Alcohol"
     },
     {
       "id": "402",
@@ -123,7 +137,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Start a Band",
+      "closing_song": "Boys of Summer"
     }
   ]
 }

@@ -11,7 +11,9 @@
       "date": "2022-10-29",
       "festival_name": null,
       "artists": "Weird Al",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Fun Zone",
+      "closing_song": "Amish Paradise/Smells/White & nerdy/Word Crimes/Yoda"
     },
     {
       "id": "668",
@@ -19,7 +21,9 @@
       "date": "2016-01-22",
       "festival_name": null,
       "artists": "Joe Bonamassa",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "This Train",
+      "closing_song": "The Rose"
     },
     {
       "id": "617",
@@ -27,7 +31,9 @@
       "date": "2015-04-21",
       "festival_name": null,
       "artists": "John Mellencamp",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Lawless Times",
+      "closing_song": "Cherry Bomb"
     },
     {
       "id": "364",
@@ -35,7 +41,9 @@
       "date": "2008-11-24",
       "festival_name": null,
       "artists": "Family Guy Sings Live at Carnegie Hall (Seth MacFarlane)",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

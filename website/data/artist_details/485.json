@@ -53,7 +53,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Comfortably Numb",
+      "closing_song": "Outside the Wall"
     },
     {
       "id": "1044",
@@ -63,7 +65,9 @@
       "venue": "UBS Arena",
       "city": "Elmont",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Comfortably Numb",
+      "closing_song": "Outside the Wall"
     },
     {
       "id": "786",
@@ -73,7 +77,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Breathe",
+      "closing_song": "Comfortably Numb"
     },
     {
       "id": "530",
@@ -83,7 +89,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bruce: Land of Hope and Dreams",
+      "closing_song": "McCartney: Live and Let Die and Alicia Keys New York"
     },
     {
       "id": "449",
@@ -93,7 +101,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "In the Flesh",
+      "closing_song": "Outside the Wall"
     },
     {
       "id": "306",
@@ -103,7 +113,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "300",
@@ -113,7 +125,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "In the Flesh",
+      "closing_song": "Comfortably Numb"
     },
     {
       "id": "276",
@@ -123,7 +137,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "In the Flesh",
+      "closing_song": "Comfortably Numb"
     },
     {
       "id": "111",
@@ -133,7 +149,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "In the Flesh",
+      "closing_song": "Each Small Candle"
     },
     {
       "id": "93",
@@ -143,7 +161,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "In The Flesh",
+      "closing_song": "Comfortably Numb"
     }
   ]
 }

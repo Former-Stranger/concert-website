@@ -53,7 +53,9 @@
       "venue": "Forest Hills Stadium",
       "city": "Forest Hills",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Cortez the Killer",
+      "closing_song": "Rocking in the Free World"
     },
     {
       "id": "1096",
@@ -63,7 +65,9 @@
       "venue": "Ford Amphitheater at Coney Island",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "I'm the Ocean",
+      "closing_song": "Four Strong Winds"
     },
     {
       "id": "366",
@@ -73,7 +77,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Love and Only Love",
+      "closing_song": "Day in the Life"
     },
     {
       "id": "115",
@@ -83,7 +89,9 @@
       "venue": "Freedom Mortgage Pavilion",
       "city": "Camden",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "NY: Motorcylce Mama \nPre: The Loner",
+      "closing_song": "NY: Mellow My Mind\nPre: Needle & Damage Done"
     },
     {
       "id": "30",
@@ -93,7 +101,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Cowgirl in the Sand",
+      "closing_song": "Cortez the Killer"
     }
   ]
 }

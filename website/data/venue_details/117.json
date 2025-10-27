@@ -11,7 +11,9 @@
       "date": "2018-03-17",
       "festival_name": null,
       "artists": "Weird Al Yankovic",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Biggest Ball of Twine in Minnesota",
+      "closing_song": "The Saga Begins"
     },
     {
       "id": "818",
@@ -19,7 +21,9 @@
       "date": "2018-03-11",
       "festival_name": "Multi-Artist Show",
       "artists": "Lyle Lovett, Shawn Colvin",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Brown Eyed Handsome Man",
+      "closing_song": "Church"
     }
   ]
 }

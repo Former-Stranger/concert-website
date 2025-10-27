@@ -11,7 +11,9 @@
       "date": "2018-05-02",
       "festival_name": null,
       "artists": "Little Steven",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Soulfire",
+      "closing_song": "Out of the Darkness"
     },
     {
       "id": "812",
@@ -19,7 +21,9 @@
       "date": "2018-02-13",
       "festival_name": "Multi-Artist Show",
       "artists": "All for Hall: Vince Gill, Maren Morris, Emmylou, Kesha",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Various",
+      "closing_song": "Various"
     },
     {
       "id": "607",
@@ -27,7 +31,9 @@
       "date": "2014-11-14",
       "festival_name": null,
       "artists": "Chris Young",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "A.M.",
+      "closing_song": "China Grove"
     },
     {
       "id": "600",
@@ -35,7 +41,9 @@
       "date": "2014-09-25",
       "festival_name": "Multi-Artist Show",
       "artists": "Kip Moore, Sam Hunt, Charlie Worshem",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Wild Ones",
+      "closing_song": "Free Fallin'"
     }
   ]
 }

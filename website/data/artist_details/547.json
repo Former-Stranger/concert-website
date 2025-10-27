@@ -53,7 +53,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Message in a Bottle",
+      "closing_song": "Fragile"
     },
     {
       "id": "567",
@@ -63,7 +65,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Brand New Day",
+      "closing_song": "When Will I Be Loved"
     },
     {
       "id": "22",
@@ -73,7 +77,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Hounds of Winter",
+      "closing_song": "Fragile"
     }
   ]
 }

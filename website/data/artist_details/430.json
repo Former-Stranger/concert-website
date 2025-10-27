@@ -53,7 +53,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Simple",
+      "closing_song": "46 Days"
     },
     {
       "id": "1104",
@@ -63,7 +65,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "ACDC Bag",
+      "closing_song": "Izabelle"
     },
     {
       "id": "1041",
@@ -73,7 +77,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Mike's Song",
+      "closing_song": "Slave ot the Traffic Light"
     },
     {
       "id": "106",
@@ -83,7 +89,9 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Chalk Dust Torcher",
+      "closing_song": "Loving Cup"
     }
   ]
 }

@@ -12,7 +12,9 @@
       "venue": "Daryl's House",
       "city": "Pawling",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Daddy Was a Gamblin' Man",
+      "closing_song": "Jesus Came to Tennessee"
     },
     {
       "id": "950",
@@ -22,7 +24,9 @@
       "venue": "City Winery",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Home is Where the Heart Breaks",
+      "closing_song": "Jesus Came to Tennessee"
     }
   ]
 }

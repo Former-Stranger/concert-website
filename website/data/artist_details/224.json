@@ -53,7 +53,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "High Lonesome",
+      "closing_song": "Backseat"
     },
     {
       "id": "424",
@@ -63,7 +65,9 @@
       "venue": "Irving Plaza",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "American Slang",
+      "closing_song": "Back Seat"
     },
     {
       "id": "401",
@@ -73,7 +77,9 @@
       "venue": "Terminal 5",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "JM: Brooklyn",
+      "closing_song": "JM: Dgeneration"
     }
   ]
 }

@@ -53,7 +53,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Artificial Flowers (Acoustic)",
+      "closing_song": "Brokedown Palace"
     },
     {
       "id": "1137",
@@ -63,7 +65,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "KC Moan (Acoustic)",
+      "closing_song": "Ripple"
     },
     {
       "id": "1136",
@@ -73,7 +77,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Easy to Slip (Acoustic)",
+      "closing_song": "Liberty"
     },
     {
       "id": "1135",
@@ -83,7 +89,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Loose Lucy (Acoustic)",
+      "closing_song": "Black Muddy River"
     },
     {
       "id": "1062",
@@ -93,7 +101,9 @@
       "venue": "Westville Music Bowl",
       "city": "New Haven",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Shakedown Street",
+      "closing_song": "Ripple/Playing in the Band Reprise"
     },
     {
       "id": "1015",
@@ -103,7 +113,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "She Knows What I'm Thinking (Debut)",
+      "closing_song": "Not Fade Away"
     },
     {
       "id": "898",
@@ -113,7 +125,9 @@
       "venue": "Oakdale Theatre",
       "city": "Wallingford",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bertha",
+      "closing_song": "Brokedown Palace"
     },
     {
       "id": "883",
@@ -123,7 +137,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Jack Straw",
+      "closing_song": "Going Down the Road Feeling Bad"
     },
     {
       "id": "882",
@@ -133,7 +149,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bertha",
+      "closing_song": "Turn on Your Lovelight"
     }
   ]
 }

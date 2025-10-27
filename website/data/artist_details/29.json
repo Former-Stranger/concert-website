@@ -53,7 +53,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "D Bag Rag",
+      "closing_song": "Swept Away"
     },
     {
       "id": "1272",
@@ -63,7 +65,9 @@
       "venue": "Tilles Center",
       "city": "Brookville",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Head Full of Doubt",
+      "closing_song": "No Hard Feelings"
     },
     {
       "id": "1249",
@@ -73,7 +77,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "We Are Loved",
+      "closing_song": "2020 Regret"
     },
     {
       "id": "1248",
@@ -83,7 +89,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Paranoia in B Flat Major",
+      "closing_song": "Good to You"
     },
     {
       "id": "1164",
@@ -93,7 +101,9 @@
       "venue": "Westville Music Bowl",
       "city": "New Haven",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Never Apart",
+      "closing_song": "No Hard Feelings"
     },
     {
       "id": "1052",
@@ -103,7 +113,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "The D Bag Rag",
+      "closing_song": "No Hard Feelings"
     },
     {
       "id": "1024",
@@ -113,7 +125,9 @@
       "venue": "Westville Music Bowl",
       "city": "New Haven",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Don't Be Scared",
+      "closing_song": "No Hard Feelings"
     },
     {
       "id": "946",
@@ -123,7 +137,9 @@
       "venue": "Great South Bay Music Festival",
       "city": "Oakdale",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "We Americans",
+      "closing_song": "No Hard Feelings"
     },
     {
       "id": "875",
@@ -133,7 +149,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Old Joe Clark",
+      "closing_song": "No Hard Feelings"
     },
     {
       "id": "755",
@@ -143,7 +161,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "The Fall",
+      "closing_song": "Way Downtown"
     },
     {
       "id": "681",
@@ -153,7 +173,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Die Die Die",
+      "closing_song": "Life"
     }
   ]
 }

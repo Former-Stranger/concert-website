@@ -53,7 +53,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Hope You Realize It",
+      "closing_song": "Sloe Gin"
     },
     {
       "id": "1190",
@@ -63,7 +65,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Hope You Realize",
+      "closing_song": "Mountain Time"
     },
     {
       "id": "1047",
@@ -73,7 +77,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Evil Mama",
+      "closing_song": "House is Rockin'"
     },
     {
       "id": "1000",
@@ -83,7 +89,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Evil Mama",
+      "closing_song": "Crossroads Blues"
     },
     {
       "id": "960",
@@ -93,7 +101,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Evil Mama",
+      "closing_song": "Mountain Time"
     },
     {
       "id": "902",
@@ -103,7 +113,9 @@
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Tiger in Your Tank",
+      "closing_song": "Mountain Time"
     },
     {
       "id": "790",
@@ -113,7 +125,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Oh Beuatiful/Rice Pudding",
+      "closing_song": "Hummingbird"
     },
     {
       "id": "733",
@@ -123,7 +137,9 @@
       "venue": "Bushnell Center for the Performing Arts",
       "city": "Hartford",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "This Train",
+      "closing_song": "Hummingbird"
     },
     {
       "id": "668",
@@ -133,7 +149,9 @@
       "venue": "Carnegie Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "This Train",
+      "closing_song": "The Rose"
     },
     {
       "id": "538",
@@ -143,7 +161,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Seagull",
+      "closing_song": "Just Got Paid"
     },
     {
       "id": "492",
@@ -153,7 +173,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Slow Train",
+      "closing_song": "Just Got Paid"
     },
     {
       "id": "472",
@@ -163,7 +185,9 @@
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Cradle Rock",
+      "closing_song": "Just Got Paid"
     },
     {
       "id": "454",
@@ -173,7 +197,9 @@
       "venue": "Stamford Center for the Arts",
       "city": "Stamford",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Cradle Rock",
+      "closing_song": "Just Got Paid"
     }
   ]
 }

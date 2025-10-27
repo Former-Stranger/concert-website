@@ -53,7 +53,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "JB:  Pull It       PR: Little Bit of Love",
+      "closing_song": "JB: Going Down                  PR: Alright Now"
     },
     {
       "id": "41",
@@ -63,7 +65,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "LS: We Ain't Much Different\nPR: Can't Get Enough",
+      "closing_song": "LS: Freebird\nPR: Alright Now"
     }
   ]
 }

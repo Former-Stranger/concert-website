@@ -53,7 +53,9 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Flags of Freedom",
+      "closing_song": "Rockin in the Free World"
     },
     {
       "id": "152",
@@ -63,7 +65,9 @@
       "venue": "XL Center",
       "city": "Hartford",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Carry On",
+      "closing_song": "Long May You Run"
     }
   ]
 }

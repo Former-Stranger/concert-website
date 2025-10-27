@@ -11,7 +11,9 @@
       "date": "2000-08-19",
       "festival_name": "Multi-Artist Show",
       "artists": "John Fogerty with Dr. John, Aaron neville",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Born on the Bayou",
+      "closing_song": "Proud Mary"
     },
     {
       "id": "115",
@@ -19,7 +21,9 @@
       "date": "2000-08-12",
       "festival_name": "Multi-Artist Show",
       "artists": "Neil Young, The Pretenders",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "NY: Motorcylce Mama \nPre: The Loner",
+      "closing_song": "NY: Mellow My Mind\nPre: Needle & Damage Done"
     }
   ]
 }

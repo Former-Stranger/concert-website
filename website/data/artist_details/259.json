@@ -53,7 +53,9 @@
       "venue": "Hartford HealthCare Amphitheater",
       "city": "Bridgeport",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Somebody's Baby",
+      "closing_song": "The Load Out + Stay"
     },
     {
       "id": "919",
@@ -63,7 +65,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "I'm Alive",
+      "closing_song": "I am a Patriot"
     },
     {
       "id": "652",
@@ -73,7 +77,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Barricades of Heaven",
+      "closing_song": "Take It Easy/Lady of the Well"
     },
     {
       "id": "589",
@@ -83,7 +89,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Boulevard / Travelin Band",
+      "closing_song": "Somebody's Baby / Proud Mary"
     },
     {
       "id": "445",
@@ -93,7 +101,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bingo (WZevon Song)",
+      "closing_song": "I Am a Patriot"
     },
     {
       "id": "403",
@@ -103,7 +113,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "334",
@@ -113,7 +125,9 @@
       "venue": "Great South Bay Music Festival",
       "city": "Oakdale",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Barricades of Heaven",
+      "closing_song": "Load/Out + Stay"
     }
   ]
 }

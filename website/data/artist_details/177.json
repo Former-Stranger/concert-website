@@ -53,7 +53,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "CR: License to Chill  DB:  Take Me in Your Arms",
+      "closing_song": "CR: Margaritaville DB: Listen to the Music"
     },
     {
       "id": "1258",
@@ -63,7 +65,9 @@
       "venue": "Irving Plaza",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Take Me in Your Arms",
+      "closing_song": "Listen to the Music"
     },
     {
       "id": "1201",
@@ -73,7 +77,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Take Me in Your Arms",
+      "closing_song": "Listen to the Music"
     },
     {
       "id": "1185",
@@ -83,7 +89,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "DB:  Take Me In Your Arms    SW:  Glad",
+      "closing_song": "DB:  Listen to the Music   SW:  Gimme Some Lovin'"
     },
     {
       "id": "1030",
@@ -93,7 +101,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Nobody",
+      "closing_song": "Listen to the Music"
     },
     {
       "id": "654",
@@ -103,7 +113,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Jesus is Just Alright",
+      "closing_song": "Listen to the Music"
     },
     {
       "id": "458",
@@ -113,7 +125,9 @@
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Take Me in Your Arms",
+      "closing_song": "Listen to the Music"
     },
     {
       "id": "308",
@@ -123,7 +137,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "SMB: Fly Like an  Eagle   DB: Rocking Down Highway",
+      "closing_song": "SMB: Jet Airliner     DB: Listen to the Music"
     }
   ]
 }

@@ -53,7 +53,9 @@
       "venue": "Sony Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Son of a Son of a Sailor",
+      "closing_song": "Pirate Looks at 40"
     },
     {
       "id": "1132",
@@ -63,7 +65,9 @@
       "venue": "City Winery",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "City of New Orleans",
+      "closing_song": "Pirate Looks at 40"
     }
   ]
 }

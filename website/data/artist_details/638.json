@@ -53,7 +53,9 @@
       "venue": "Wonder Bar",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Birmingham",
+      "closing_song": "Deadbolt"
     },
     {
       "id": "1208",
@@ -63,7 +65,9 @@
       "venue": "Le Poisson Rouge",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Even the River Runs Though This Town",
+      "closing_song": "Deadbolt"
     },
     {
       "id": "1081",
@@ -73,7 +77,9 @@
       "venue": "Gramercy Theater",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Even the River Runs Though This Town",
+      "closing_song": "Long Gone"
     },
     {
       "id": "1014",
@@ -83,7 +89,9 @@
       "venue": "Hill Country Live",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "That's How You Lose Her",
+      "closing_song": "Til I Do it Again"
     },
     {
       "id": "995",
@@ -93,7 +101,9 @@
       "venue": "Daryl's House",
       "city": "Pawling",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Through Missing You",
+      "closing_song": "Even if It Breaks Your Heart"
     },
     {
       "id": "866",
@@ -103,7 +113,9 @@
       "venue": "City Winery",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Southern Man",
+      "closing_song": "Young As We Will Ever Be"
     },
     {
       "id": "865",
@@ -113,7 +125,9 @@
       "venue": "Fairfield Stage One",
       "city": "Fairfield",
       "state": "CT",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Gilded Walls",
+      "closing_song": "Seventeen"
     },
     {
       "id": "789",
@@ -123,7 +137,9 @@
       "venue": "Highline Ballroom",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "742",
@@ -133,7 +149,9 @@
       "venue": "Daryl's House",
       "city": "Pawling",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Daddy Was a Gamblin' Man",
+      "closing_song": "Damn Spotlight"
     },
     {
       "id": "712",
@@ -143,7 +161,9 @@
       "venue": "City Winery",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Home is Where the Heart Is",
+      "closing_song": "Damn Spotlight"
     },
     {
       "id": "711",
@@ -153,7 +173,9 @@
       "venue": "The Saint Asbury Park",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Secondhand Heart",
+      "closing_song": "Damn Spotlight"
     },
     {
       "id": "644",
@@ -163,7 +185,9 @@
       "venue": "Wonder Bar",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Growing Up Around Here",
+      "closing_song": "Pocket Full of Change"
     },
     {
       "id": "627",
@@ -173,7 +197,9 @@
       "venue": "Bowery",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Growing Up Around Here",
+      "closing_song": "Pocket Full of Change"
     },
     {
       "id": "553",
@@ -183,7 +209,9 @@
       "venue": "Bell House",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Different Man",
+      "closing_song": "Lover Tonight"
     },
     {
       "id": "546",
@@ -193,7 +221,9 @@
       "venue": "Bowery",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Afford to Lose",
+      "closing_song": "Someone Else's Baby"
     }
   ]
 }

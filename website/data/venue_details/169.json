@@ -11,7 +11,9 @@
       "date": "2001-05-01",
       "festival_name": null,
       "artists": "Riders on the Storm",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Roadhouse Blues",
+      "closing_song": "LA Women"
     },
     {
       "id": "100",
@@ -19,7 +21,9 @@
       "date": "2000-03-13",
       "festival_name": null,
       "artists": "Clancy Brothers",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Galway Races",
+      "closing_song": "All for Me Grog/Parting Glass"
     }
   ]
 }

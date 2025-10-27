@@ -12,7 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Sugar Magnolia",
+      "closing_song": "Attics of My Life"
     },
     {
       "id": "474",
@@ -22,7 +24,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Samson & Delilah",
+      "closing_song": "Attics of My Life"
     },
     {
       "id": "459",
@@ -32,7 +36,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Help On The Way",
+      "closing_song": "One More Saturday Night"
     }
   ]
 }

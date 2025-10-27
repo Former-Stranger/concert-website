@@ -21,7 +21,9 @@
       "venue": "Broad Street Ballroom",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Unknown",
+      "closing_song": "Unknown"
     }
   ]
 }

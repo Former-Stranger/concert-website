@@ -11,7 +11,9 @@
       "date": "2010-11-11",
       "festival_name": null,
       "artists": "Garth Brooks",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Much Too Young",
+      "closing_song": "The Dance"
     },
     {
       "id": "408",
@@ -19,7 +21,9 @@
       "date": "2009-11-13",
       "festival_name": null,
       "artists": "Paul Simon",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Me & Julio ",
+      "closing_song": "The Boxer"
     },
     {
       "id": "360",
@@ -27,7 +31,9 @@
       "date": "2008-11-07",
       "festival_name": null,
       "artists": "Bon Jovi",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "323",
@@ -35,7 +41,9 @@
       "date": "2007-11-09",
       "festival_name": null,
       "artists": "Bruce Springsteen",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "California Sun",
+      "closing_song": "Glory Days"
     }
   ]
 }

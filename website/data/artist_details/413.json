@@ -12,7 +12,9 @@
       "venue": "USA Upfront",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "N/a",
+      "closing_song": null
     }
   ]
 }

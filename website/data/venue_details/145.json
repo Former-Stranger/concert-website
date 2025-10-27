@@ -11,7 +11,9 @@
       "date": "2024-06-15",
       "festival_name": null,
       "artists": "Dead and Company",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "I Need a Miracle",
+      "closing_song": "One More Saturday Night"
     },
     {
       "id": "1172",
@@ -19,7 +21,9 @@
       "date": "2024-06-14",
       "festival_name": null,
       "artists": "Dead and Company",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Good Lovin'",
+      "closing_song": "Ripple"
     },
     {
       "id": "1171",
@@ -27,7 +31,9 @@
       "date": "2024-06-13",
       "festival_name": null,
       "artists": "Dead and Company",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Alabama Getaway",
+      "closing_song": "Not Fade Away"
     },
     {
       "id": "1121",
@@ -35,7 +41,9 @@
       "date": "2023-10-05",
       "festival_name": null,
       "artists": "U2",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Zoo Station",
+      "closing_song": "Beautiful Day"
     }
   ]
 }

@@ -53,7 +53,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Light up the Sky",
+      "closing_song": "Jump"
     },
     {
       "id": "502",
@@ -63,7 +65,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "You Really Got Me",
+      "closing_song": "Jump"
     },
     {
       "id": "324",
@@ -73,7 +77,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "You Really Got Me",
+      "closing_song": "Jump"
     }
   ]
 }

@@ -53,7 +53,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "KC:  Living in Fast Forward  ZBB: Keep Me in Mind",
+      "closing_song": "KC: Don't Happen Twice   ZBB: Homegrown"
     },
     {
       "id": "853",
@@ -63,7 +65,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Beer in Mexico",
+      "closing_song": "She Thinks My Tractor's Sexy"
     },
     {
       "id": "831",
@@ -73,7 +77,9 @@
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
       "state": "PA",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Beer in Mexico",
+      "closing_song": "She Thinks My Tractor's Sexy"
     },
     {
       "id": "780",
@@ -83,7 +89,9 @@
       "venue": "Gillette Stadium",
       "city": "Foxborough",
       "state": "MA",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Beer in Mexico",
+      "closing_song": "She Thinks My Tractor's Sexy"
     },
     {
       "id": "776",
@@ -93,7 +101,9 @@
       "venue": "Mohegan Sun Arena",
       "city": "Uncasville",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Beer in Mexico",
+      "closing_song": "She Thinks My Tractor's Sexy"
     },
     {
       "id": "714",
@@ -103,7 +113,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Beer in Mexico",
+      "closing_song": "It Don't Happen Twice"
     },
     {
       "id": "645",
@@ -113,7 +125,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Hicktown/She's Country   &   Drink It Up/Boys of Fall",
+      "closing_song": "Summer of 69 (Together)"
     },
     {
       "id": "550",
@@ -123,7 +137,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Feel Like a Rock Star  /  Creepin'",
+      "closing_song": "She Thinks My Tractor's Sexy /  Springsteen"
     },
     {
       "id": "513",
@@ -133,7 +149,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Beer in Mexico  / Felt Good on My Lips",
+      "closing_song": "Running on Empty (Duo)"
     },
     {
       "id": "510",
@@ -143,7 +161,9 @@
       "venue": "Rockefeller Plaza",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Summertime",
+      "closing_song": "Rock Star"
     }
   ]
 }

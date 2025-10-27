@@ -12,7 +12,9 @@
       "venue": "Peekskill Paramount",
       "city": "Peekskill",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Catch the Wind",
+      "closing_song": "Atlantis"
     },
     {
       "id": "286",
@@ -22,7 +24,9 @@
       "venue": "Paramount Hudson Valley Theater",
       "city": "Peekskill",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Sunshine Superman",
+      "closing_song": "Mellow Yellow"
     }
   ]
 }

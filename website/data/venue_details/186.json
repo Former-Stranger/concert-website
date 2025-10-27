@@ -11,7 +11,9 @@
       "date": "2024-05-21",
       "festival_name": null,
       "artists": "Avett Brothers",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Never Apart",
+      "closing_song": "No Hard Feelings"
     },
     {
       "id": "1062",
@@ -19,7 +21,9 @@
       "date": "2022-10-01",
       "festival_name": "Multi-Artist Show",
       "artists": "Bob Weir, Wolf Brothers",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Shakedown Street",
+      "closing_song": "Ripple/Playing in the Band Reprise"
     },
     {
       "id": "1024",
@@ -27,7 +31,9 @@
       "date": "2022-05-31",
       "festival_name": null,
       "artists": "Avett Brothers",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Don't Be Scared",
+      "closing_song": "No Hard Feelings"
     }
   ]
 }

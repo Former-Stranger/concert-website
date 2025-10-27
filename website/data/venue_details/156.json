@@ -11,7 +11,9 @@
       "date": "2022-12-15",
       "festival_name": null,
       "artists": "Richard Thompson",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Read About Love",
+      "closing_song": "Wall of Death"
     },
     {
       "id": "968",
@@ -19,7 +21,9 @@
       "date": "2020-02-08",
       "festival_name": null,
       "artists": "Richard Thompson",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Turning of the Tide",
+      "closing_song": "Vincent Black Lightning 1952/"
     }
   ]
 }

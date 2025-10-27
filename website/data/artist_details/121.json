@@ -53,7 +53,9 @@
       "venue": "Palladium Times Square",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "A.M.",
+      "closing_song": "China Grove"
     },
     {
       "id": "540",
@@ -63,7 +65,9 @@
       "venue": "The Meadowlands",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Southern Comfort Zone",
+      "closing_song": "Alcohol"
     }
   ]
 }

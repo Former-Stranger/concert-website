@@ -11,7 +11,9 @@
       "date": "1997-07-10",
       "festival_name": "Multi-Artist Show",
       "artists": "Santana, Rusted root",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Unknown ",
+      "closing_song": "Unknown"
     },
     {
       "id": "42",
@@ -19,7 +21,9 @@
       "date": "1997-06-28",
       "festival_name": "Multi-Artist Show",
       "artists": "Crosby, Stills, Nash",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Love the One Your With",
+      "closing_song": "Carry On"
     }
   ]
 }

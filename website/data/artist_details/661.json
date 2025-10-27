@@ -12,7 +12,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Summertime Blues",
+      "closing_song": "Lovely Cruise"
     },
     {
       "id": "277",
@@ -22,7 +24,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Brown Eyed Girl",
+      "closing_song": "Pirate Looks at 40"
     },
     {
       "id": "266",
@@ -32,7 +36,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Piece of Work",
+      "closing_song": "Brown Eyed Girl"
     },
     {
       "id": "213",
@@ -42,7 +48,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Changes in Latitudes",
+      "closing_song": "Back to the Island"
     },
     {
       "id": "113",
@@ -52,7 +60,9 @@
       "venue": "Stony Brook Southampton",
       "city": "Southampton",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Stars on the Water",
+      "closing_song": "Pirate Looks at 40"
     },
     {
       "id": "78",
@@ -62,7 +72,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Kinja",
+      "closing_song": "Time to Go Home"
     }
   ]
 }

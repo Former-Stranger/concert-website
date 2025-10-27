@@ -53,7 +53,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Washing of the Water",
+      "closing_song": "Biko"
     },
     {
       "id": "572",
@@ -63,7 +65,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Various",
+      "closing_song": "Various"
     },
     {
       "id": "419",
@@ -73,7 +77,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Heroes",
+      "closing_song": "Don't Give Up/The Mist?"
     }
   ]
 }

@@ -53,7 +53,9 @@
       "venue": "Prudential Center",
       "city": "Newark",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "You Wreck Me",
+      "closing_song": "American Girl"
     },
     {
       "id": "595",
@@ -63,7 +65,9 @@
       "venue": "XL Center",
       "city": "Hartford",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "TP: So You Wanna Be a Rock & Roll Star  SW: Im a Man",
+      "closing_song": "TP: American Girl    SW: Gimme Some Lovin"
     },
     {
       "id": "594",
@@ -73,7 +77,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "TP: So You Wanna Be a Rock & Roll Star  SW: Im a Man",
+      "closing_song": "TP: American Girl    SW: Gimme Some Lovin"
     },
     {
       "id": "343",
@@ -83,7 +89,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "You Wreck Me",
+      "closing_song": "American Girl"
     }
   ]
 }

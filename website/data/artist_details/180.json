@@ -53,7 +53,9 @@
       "venue": "Terminal 5",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Little Queenie",
+      "closing_song": "Suspicious Minds"
     },
     {
       "id": "605",
@@ -63,7 +65,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "The Outsiders",
+      "closing_song": "Lightning"
     }
   ]
 }

@@ -33,7 +33,9 @@
       "venue": "Count Basie Center for the Arts",
       "city": "Red Bank",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "531",
@@ -43,7 +45,9 @@
       "venue": "Paramount Theatre",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

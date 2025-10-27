@@ -53,7 +53,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Wicked Mind",
+      "closing_song": "Lay Down Your Weary Tune"
     },
     {
       "id": "1013",
@@ -63,7 +65,9 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Wicked Mind",
+      "closing_song": "Feel A Whole Lot Better"
     }
   ]
 }

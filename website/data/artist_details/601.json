@@ -53,7 +53,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Listen To Her Heart",
+      "closing_song": "American Girl"
     },
     {
       "id": "87",
@@ -63,7 +65,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Jammin Me",
+      "closing_song": "Learning to Fly"
     },
     {
       "id": "86",
@@ -73,7 +77,9 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Jammin Me",
+      "closing_song": "Learning to Fly"
     },
     {
       "id": "83",
@@ -83,7 +89,9 @@
       "venue": "Irving Plaza",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Around & Around",
+      "closing_song": "Gloria"
     },
     {
       "id": "82",
@@ -93,7 +101,9 @@
       "venue": "Irving Plaza",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Rip It Up",
+      "closing_song": "Gloria"
     },
     {
       "id": "10",
@@ -103,7 +113,9 @@
       "venue": "The Meadowlands",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Love is a Long Road",
+      "closing_song": "American Girl"
     }
   ]
 }

@@ -11,7 +11,9 @@
       "date": "2025-08-09",
       "festival_name": "Multi-Artist Show",
       "artists": "Mumford & Sons",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Little Lion Man",
+      "closing_song": "I Will Wait"
     },
     {
       "id": "1207",
@@ -19,7 +21,9 @@
       "date": "2024-10-19",
       "festival_name": null,
       "artists": "Sturgill Simpson",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "I Don't Mind",
+      "closing_song": "Call to Arms"
     },
     {
       "id": "1163",
@@ -27,7 +31,9 @@
       "date": "2024-05-14",
       "festival_name": "Multi-Artist Show",
       "artists": "Neil Young, Crazy Horse",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Cortez the Killer",
+      "closing_song": "Rocking in the Free World"
     },
     {
       "id": "1054",
@@ -35,7 +41,9 @@
       "date": "2022-09-10",
       "festival_name": "Multi-Artist Show",
       "artists": "Van Morrison, Tom Jones",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "TJ: I'm Growing Old   VM: Dangerous",
+      "closing_song": "TJ:  Strange Things Happening Everyday     VM:  Gloria"
     },
     {
       "id": "1026",
@@ -43,7 +51,9 @@
       "date": "2022-06-04",
       "festival_name": null,
       "artists": "Robert Plant + Alison Krauss",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Rich Woman",
+      "closing_song": "Somebody Was Watching Over Me"
     },
     {
       "id": "769",
@@ -51,7 +61,9 @@
       "date": "2017-07-27",
       "festival_name": "Multi-Artist Show",
       "artists": "Tom Petty, Heartbreakers",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Rockin' Around with You",
+      "closing_song": "American Girl"
     },
     {
       "id": "768",
@@ -59,7 +71,9 @@
       "date": "2017-07-26",
       "festival_name": "Multi-Artist Show",
       "artists": "Tom Petty, Heartbreakers",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Rockin' Around with You",
+      "closing_song": "American Girl"
     },
     {
       "id": "766",
@@ -67,7 +81,9 @@
       "date": "2017-07-11",
       "festival_name": null,
       "artists": "John Mellencamp",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Lawless Times",
+      "closing_song": "Cherry Bomb"
     },
     {
       "id": "700",
@@ -75,7 +91,9 @@
       "date": "2016-06-17",
       "festival_name": "Multi-Artist Show",
       "artists": "Mumford & Sons",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Tompkins Square",
+      "closing_song": "The Wolf"
     }
   ]
 }

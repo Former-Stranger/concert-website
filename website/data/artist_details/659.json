@@ -12,7 +12,9 @@
       "venue": "Yonkers",
       "city": "Yonkers",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Take it on the Inside",
+      "closing_song": "I Don't Wanna Go Home"
     },
     {
       "id": "198",
@@ -22,7 +24,9 @@
       "venue": "BB King Blues Club",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Got to Be a Better Way",
+      "closing_song": "Broke Down Piece of Man"
     },
     {
       "id": "150",
@@ -32,7 +36,9 @@
       "venue": "Webster Theater",
       "city": "Hartford",
       "state": "CT",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Unknown",
+      "closing_song": "Heart of Stone"
     }
   ]
 }

@@ -53,7 +53,9 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Jam/Statesboro Blues",
+      "closing_song": "Ramblin Man"
     },
     {
       "id": "380",
@@ -63,7 +65,9 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "High Falls",
+      "closing_song": "Ramblin' Man"
     },
     {
       "id": "237",
@@ -73,7 +77,9 @@
       "venue": "BB King Blues Club",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "High Falls",
+      "closing_song": "Ramblin Man"
     },
     {
       "id": "162",
@@ -83,7 +89,9 @@
       "venue": "Mulcahy's Pub",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Mountain Jam",
+      "closing_song": "Unknown"
     },
     {
       "id": "156",
@@ -93,7 +101,9 @@
       "venue": "BB King Blues Club",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Rave On",
+      "closing_song": "Nobody Left to Run With"
     }
   ]
 }

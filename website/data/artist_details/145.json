@@ -53,7 +53,9 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Playing in the Band",
+      "closing_song": "Deal ~ Playing in the Band"
     },
     {
       "id": "1038",
@@ -63,7 +65,9 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bertha",
+      "closing_song": "Sugar Magnolia"
     }
   ]
 }

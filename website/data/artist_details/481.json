@@ -53,7 +53,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Addicted to Love",
+      "closing_song": "Stay With Me"
     },
     {
       "id": "556",
@@ -63,7 +65,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "RS: This Old Heart of Mine",
+      "closing_song": "Do Ya Think I'm Sexy"
     },
     {
       "id": "473",
@@ -73,7 +77,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Love Train  /  Stand Back",
+      "closing_song": "Do Ya Think I'm Sexy /  Love Is"
     },
     {
       "id": "292",
@@ -83,7 +89,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Tonight's the Night",
+      "closing_song": "Maggie May"
     },
     {
       "id": "16",
@@ -93,7 +101,9 @@
       "venue": "XL Center",
       "city": "Hartford",
       "state": "CT",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Get Back",
+      "closing_song": "Sweet Little Rock & Roller"
     }
   ]
 }

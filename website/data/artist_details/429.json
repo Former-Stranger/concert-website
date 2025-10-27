@@ -53,7 +53,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Celebration",
+      "closing_song": "Midnight Hour"
     },
     {
       "id": "1080",
@@ -63,7 +65,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Tennessee Jed",
+      "closing_song": "Brown-Eyed Women"
     },
     {
       "id": "1034",
@@ -73,7 +77,9 @@
       "venue": "Hartford HealthCare Amphitheater",
       "city": "Bridgeport",
       "state": "CT",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Althea",
+      "closing_song": "Midnight Hour"
     },
     {
       "id": "994",
@@ -83,7 +89,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Mason's Children",
+      "closing_song": "The Real Thing"
     },
     {
       "id": "924",
@@ -93,7 +101,9 @@
       "venue": "Fort Adams State Park",
       "city": "Newport",
       "state": "RI",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "817",
@@ -103,7 +113,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "New Speedway Boogie",
+      "closing_song": "Ripple"
     },
     {
       "id": "816",
@@ -113,7 +125,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Uncle John's Band",
+      "closing_song": "Box of Rain"
     },
     {
       "id": "695",
@@ -123,7 +137,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Franklin's Tower",
+      "closing_song": "Going Down the Road"
     },
     {
       "id": "253",
@@ -133,7 +149,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Passenger",
+      "closing_song": "I Am The Walrus"
     }
   ]
 }

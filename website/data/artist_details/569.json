@@ -53,7 +53,9 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "US Blues",
+      "closing_song": "Franklin's Tower"
     },
     {
       "id": "377",
@@ -63,7 +65,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Cosmic Charlie",
+      "closing_song": "Brokedown Palace"
     }
   ]
 }

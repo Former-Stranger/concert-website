@@ -53,7 +53,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Plant: Rich Girl    Dylan: Highway 61",
+      "closing_song": "Plant:  Gone, Gone, Gone    Dylan:  I'll Be Your Baby Tonight"
     },
     {
       "id": "653",
@@ -63,7 +65,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Poor Tom",
+      "closing_song": "Rock & Roll"
     },
     {
       "id": "341",
@@ -73,7 +77,9 @@
       "venue": "The Theater at Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Rich Woman",
+      "closing_song": null
     },
     {
       "id": "167",
@@ -83,7 +89,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Who: Can't Explain\nRP: Dreamland",
+      "closing_song": "Who: See Me, Feel Me\nRP: Whole Lotta Love"
     }
   ]
 }

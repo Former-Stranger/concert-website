@@ -12,7 +12,9 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "American Land",
+      "closing_song": "Man on the Flying Trapeeze"
     },
     {
       "id": "264",
@@ -22,7 +24,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "American Land",
+      "closing_song": "When the Saints Go Marching In"
     },
     {
       "id": "259",
@@ -32,7 +36,9 @@
       "venue": "Convention Hall",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "O Mary Don't You Weep",
+      "closing_song": "When the Saints Go Marching In"
     }
   ]
 }

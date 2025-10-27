@@ -53,7 +53,9 @@
       "venue": "Hartford HealthCare Amphitheater",
       "city": "Bridgeport",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Stranger Blues",
+      "closing_song": "The Joker"
     },
     {
       "id": "407",
@@ -63,7 +65,9 @@
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Swingtown",
+      "closing_song": "Jet Airliner"
     },
     {
       "id": "347",
@@ -73,7 +77,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "SMB: Swingtown     JC: Hitchcock Railway",
+      "closing_song": "SMB: Jungle Love     JC: Cry me a River"
     },
     {
       "id": "308",
@@ -83,7 +89,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "SMB: Fly Like an  Eagle   DB: Rocking Down Highway",
+      "closing_song": "SMB: Jet Airliner     DB: Listen to the Music"
     },
     {
       "id": "47",
@@ -93,7 +101,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Swingtown",
+      "closing_song": "Jet Airliner"
     }
   ]
 }

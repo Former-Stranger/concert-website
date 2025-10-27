@@ -53,7 +53,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Make You Smile",
+      "closing_song": "Feeling Stronger Everyday"
     },
     {
       "id": "680",
@@ -63,7 +65,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "478",
@@ -73,7 +77,9 @@
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "XXX?Colour My World",
+      "closing_song": "25 or 6 to 5"
     }
   ]
 }

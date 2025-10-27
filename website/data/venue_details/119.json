@@ -11,7 +11,9 @@
       "date": "1998-01-16",
       "festival_name": "Multi-Artist Show",
       "artists": "Bob Dylan, Van Morrison",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "BD: Absolute Sweet Marie\nVM: ",
+      "closing_song": "BD: Rainey Day Women\nVM: Have I Told You Lately"
     },
     {
       "id": "35",
@@ -19,7 +21,9 @@
       "date": "1997-04-12",
       "festival_name": null,
       "artists": "John Mellencamp",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Small Town",
+      "closing_song": "Check it Out"
     }
   ]
 }

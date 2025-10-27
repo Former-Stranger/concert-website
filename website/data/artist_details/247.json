@@ -12,7 +12,9 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Blues Walk",
+      "closing_song": "Church"
     },
     {
       "id": "642",
@@ -22,7 +24,9 @@
       "venue": "Damrosch Park at Lincoln Center",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Band Jammed",
+      "closing_song": "Willisville Road"
     }
   ]
 }

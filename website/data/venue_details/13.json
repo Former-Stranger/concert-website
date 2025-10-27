@@ -11,7 +11,9 @@
       "date": "2025-05-24",
       "festival_name": null,
       "artists": "Dave Matthews Band",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Dancing Nancies",
+      "closing_song": "Grey Street"
     },
     {
       "id": "1106",
@@ -19,7 +21,9 @@
       "date": "2023-08-13",
       "festival_name": null,
       "artists": "Joe Bonamassa + Styx + Don Felder",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "JB:  Evil Mama  ST:  Too Close  DF: Already Gone",
+      "closing_song": "JB:  Just Got Paid  ST:  One Way Out  DF: Hotel California"
     }
   ]
 }

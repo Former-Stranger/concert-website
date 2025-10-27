@@ -53,7 +53,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Carry On",
+      "closing_song": "Teach Your Children"
     },
     {
       "id": "491",
@@ -63,7 +65,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Woodstock",
+      "closing_song": "Teach Your Children"
     },
     {
       "id": "440",
@@ -73,7 +77,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Woodstock",
+      "closing_song": "Chicago/We Can Change the World"
     }
   ]
 }

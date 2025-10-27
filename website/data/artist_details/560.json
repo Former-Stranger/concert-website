@@ -53,7 +53,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "BG:  Damn Right   TTB: Keep on Growing",
+      "closing_song": "BG:       TTB: Space Captain"
     },
     {
       "id": "1203",
@@ -63,7 +65,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "High & Mighty",
+      "closing_song": "Show Me"
     },
     {
       "id": "974",
@@ -73,7 +77,9 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Don't Let Me Slide",
+      "closing_song": "Get What You Deserve"
     }
   ]
 }

@@ -53,7 +53,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Kiss Tomorrow Goodbye",
+      "closing_song": "Country Girls"
     },
     {
       "id": "980",
@@ -63,7 +65,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "That's My kind of Night",
+      "closing_song": "I Don't Want This Night to End"
     },
     {
       "id": "830",
@@ -73,7 +77,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Country Girls",
+      "closing_song": "My Kinda Night"
     },
     {
       "id": "596",
@@ -83,7 +89,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "That's My Kind of Night",
+      "closing_song": "Country Girls"
     }
   ]
 }

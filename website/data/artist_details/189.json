@@ -53,7 +53,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bennie and the Jets",
+      "closing_song": "Goodbye Yellow Brick Road"
     },
     {
       "id": "1008",
@@ -63,7 +65,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bennie and the Jets",
+      "closing_song": "Goodbye Yellow Brick Road"
     },
     {
       "id": "1007",
@@ -73,7 +77,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bennie and the Jets",
+      "closing_song": "Goodbye Yellow Brick Road"
     },
     {
       "id": "1006",
@@ -83,7 +89,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bennie and the Jets",
+      "closing_song": "Goodbye Yellow Brick Road"
     },
     {
       "id": "961",
@@ -93,7 +101,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bennie and the Jets",
+      "closing_song": "Goodbye Yellow Brick Road"
     },
     {
       "id": "899",
@@ -103,7 +113,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bennie and the Jets",
+      "closing_song": "Goodbye Yellow Brick Road"
     },
     {
       "id": "881",
@@ -113,7 +125,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bennie and the Jets",
+      "closing_song": "Goodbye Yellow Brick Road"
     },
     {
       "id": "874",
@@ -123,7 +137,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bennie and the Jets",
+      "closing_song": "Goodbye Yellow Brick Road"
     },
     {
       "id": "871",
@@ -133,7 +149,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bennie and the Jets",
+      "closing_song": "Goodbye Yellow Brick Road"
     },
     {
       "id": "676",
@@ -143,7 +161,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Elton: Tiny Dancer",
+      "closing_song": "Elton: I'm Still Standing"
     },
     {
       "id": "613",
@@ -153,7 +173,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Funeral for a Friend",
+      "closing_song": "Crocodile Rock"
     },
     {
       "id": "555",
@@ -163,7 +185,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Funeral for a Friend",
+      "closing_song": "Crocodile Rock"
     },
     {
       "id": "470",
@@ -173,7 +197,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Funeral for a Friend",
+      "closing_song": "Your Song"
     },
     {
       "id": "468",
@@ -183,7 +209,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Funeral for a Friend",
+      "closing_song": "Your Song"
     },
     {
       "id": "387",
@@ -193,7 +221,9 @@
       "venue": "Citizens Bank Park",
       "city": "Philadelphia",
       "state": "PA",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Your Song",
+      "closing_song": "Piano Man"
     },
     {
       "id": "386",
@@ -203,7 +233,9 @@
       "venue": "Gillette Stadium",
       "city": "Foxborough",
       "state": "MA",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Your Song",
+      "closing_song": "Piano Man"
     },
     {
       "id": "363",
@@ -213,7 +245,9 @@
       "venue": "Mohegan Sun Arena",
       "city": "Uncasville",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Funeral for a Friend",
+      "closing_song": "Your Song"
     },
     {
       "id": "335",
@@ -223,7 +257,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Your Song",
+      "closing_song": "I'm Still Standing"
     },
     {
       "id": "295",
@@ -233,7 +269,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "60 Years On",
+      "closing_song": "Your Song"
     },
     {
       "id": "285",
@@ -243,7 +281,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Funeral for a Friend",
+      "closing_song": "Your Song"
     },
     {
       "id": "270",
@@ -253,7 +293,9 @@
       "venue": "Caesars Palace",
       "city": "Las Vegas",
       "state": "NV",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bennie and the Jets",
+      "closing_song": "Your Song"
     },
     {
       "id": "208",
@@ -263,7 +305,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "60 Years On",
+      "closing_song": "Your Song"
     },
     {
       "id": "201",
@@ -273,7 +317,9 @@
       "venue": "Total Mortgage Arena",
       "city": "Bridgeport",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bitch is BAck",
+      "closing_song": "Your Song"
     },
     {
       "id": "171",
@@ -283,7 +329,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Your Song",
+      "closing_song": "Piano Man"
     },
     {
       "id": "168",
@@ -293,7 +341,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Your Song",
+      "closing_song": "Piano Man"
     },
     {
       "id": "151",
@@ -303,7 +353,9 @@
       "venue": "XL Center",
       "city": "Hartford",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Your Song",
+      "closing_song": "Piano Man"
     },
     {
       "id": "148",
@@ -313,7 +365,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Funeral For a Friend",
+      "closing_song": "Don't Let the Sun Go Down on Me"
     },
     {
       "id": "145",
@@ -323,7 +377,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "David Bowie: America",
+      "closing_song": "Paul Mccartney: Freedom"
     },
     {
       "id": "74",
@@ -333,7 +389,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Circle of Life",
+      "closing_song": "Bennie and the Jets"
     },
     {
       "id": "63",
@@ -343,7 +401,9 @@
       "venue": "Fleet Center",
       "city": "Boston",
       "state": "MA",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Funeral For a Friend",
+      "closing_song": "Your Song"
     },
     {
       "id": "62",
@@ -353,7 +413,9 @@
       "venue": "Fleet Center",
       "city": "Boston",
       "state": "MA",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Funeral For a Friend",
+      "closing_song": "Your Song"
     },
     {
       "id": "12",
@@ -363,7 +425,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "I'm Still Standing",
+      "closing_song": "The Last Song"
     },
     {
       "id": "5",
@@ -373,7 +437,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Your Song Duet",
+      "closing_song": "Piano Man Duet"
     }
   ]
 }

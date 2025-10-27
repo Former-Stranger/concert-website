@@ -53,7 +53,9 @@
       "venue": "MVP Arena",
       "city": "Albany",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Baby, Let's Lay Down and Dance",
+      "closing_song": "Standing Outside the Fire"
     },
     {
       "id": "704",
@@ -63,7 +65,9 @@
       "venue": "Yankee Stadium",
       "city": "Bronx",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Rodeo",
+      "closing_song": "Standing Outside the Fire"
     },
     {
       "id": "703",
@@ -73,7 +77,9 @@
       "venue": "Yankee Stadium",
       "city": "Bronx",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Ain't Going Down Until the Sun Comes Up",
+      "closing_song": "Piano Man"
     },
     {
       "id": "453",
@@ -83,7 +89,9 @@
       "venue": "Chelsea Piers",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Much Too Young",
+      "closing_song": "The Dance"
     }
   ]
 }

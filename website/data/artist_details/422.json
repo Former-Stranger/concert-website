@@ -53,7 +53,9 @@
       "venue": "CFG Bank Arena",
       "city": "Baltimore",
       "state": "MD",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Can't Keep",
+      "closing_song": "Yellow Led Better"
     },
     {
       "id": "1193",
@@ -63,7 +65,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Garden",
+      "closing_song": "Yellow Led Better"
     },
     {
       "id": "1192",
@@ -73,7 +77,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Pendulum",
+      "closing_song": "Indifference"
     },
     {
       "id": "1055",
@@ -83,7 +89,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Release",
+      "closing_song": "Rocking in the Free World"
     },
     {
       "id": "858",
@@ -93,7 +101,9 @@
       "venue": "Fenway Park",
       "city": "Boston",
       "state": "MA",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Release",
+      "closing_song": "Rocking in the Free World"
     },
     {
       "id": "691",
@@ -103,7 +113,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Corduroy",
+      "closing_song": "Yellow Led Better"
     },
     {
       "id": "690",
@@ -113,7 +125,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Go",
+      "closing_song": "Indifference"
     },
     {
       "id": "554",
@@ -123,7 +137,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Pendulum",
+      "closing_song": "Yellow Led Better"
     },
     {
       "id": "421",
@@ -133,7 +149,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Corduroy",
+      "closing_song": "Yellow Led Better"
     },
     {
       "id": "345",
@@ -143,7 +161,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Release",
+      "closing_song": "Yellow Led Better"
     },
     {
       "id": "262",
@@ -153,7 +173,9 @@
       "venue": "Continental Airlines Arena",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "(No Surrender - Eddie) Severed Hand",
+      "closing_song": "Yellow Led Better"
     },
     {
       "id": "180",
@@ -163,7 +185,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Long Road",
+      "closing_song": "Rockin in the Free World"
     },
     {
       "id": "71",
@@ -173,7 +197,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Long Road",
+      "closing_song": "Soldier of Love"
     }
   ]
 }

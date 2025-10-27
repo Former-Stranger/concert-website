@@ -11,7 +11,9 @@
       "date": "2025-06-13",
       "festival_name": null,
       "artists": "Ringo Starr",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Honey Don't",
+      "closing_song": "With a Little Help from My Friends"
     },
     {
       "id": "1236",
@@ -19,7 +21,9 @@
       "date": "2025-02-14",
       "festival_name": null,
       "artists": "SNL Concert",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Crazy Little Thing Called Love (Miley)",
+      "closing_song": "Seven Nation Army (Jack White)"
     },
     {
       "id": "1178",
@@ -27,7 +31,9 @@
       "date": "2024-07-16",
       "festival_name": "Multi-Artist Show",
       "artists": "Daryl Hall, Elvis Costello",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "EC:  Pump It Up    DH:  Maneater",
+      "closing_song": "EC:  What's So Funny     DH:  You Make My Dreams"
     },
     {
       "id": "1160",
@@ -35,7 +41,9 @@
       "date": "2024-04-27",
       "festival_name": null,
       "artists": "Black Crowes",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bedside Manners",
+      "closing_song": "White Light/White Heat "
     },
     {
       "id": "1159",
@@ -43,7 +51,9 @@
       "date": "2024-04-17",
       "festival_name": null,
       "artists": "Barry Manilow",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "NYC City Rhythm",
+      "closing_song": "It's a Miracle"
     },
     {
       "id": "1143",
@@ -51,7 +61,9 @@
       "date": "2024-02-24",
       "festival_name": "Multi-Artist Show",
       "artists": "Jason Isbell, 400 Unit (w. Aimee Mann)",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "When We Were Close",
+      "closing_song": "This Ain't It"
     },
     {
       "id": "1105",
@@ -59,7 +71,9 @@
       "date": "2023-08-02",
       "festival_name": null,
       "artists": "Tyler Childers",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Lady May",
+      "closing_song": "Sour Mash "
     },
     {
       "id": "1090",
@@ -67,7 +81,9 @@
       "date": "2023-04-28",
       "festival_name": null,
       "artists": "John Fogerty",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bad Moon Rising",
+      "closing_song": "Proud Mary"
     },
     {
       "id": "1015",
@@ -75,7 +91,9 @@
       "date": "2022-04-03",
       "festival_name": "Multi-Artist Show",
       "artists": "Bob Weir, Wolf Brothers",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "She Knows What I'm Thinking (Debut)",
+      "closing_song": "Not Fade Away"
     },
     {
       "id": "933",
@@ -83,7 +101,9 @@
       "date": "2019-08-15",
       "festival_name": null,
       "artists": "John Fogerty",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Born on the Bayou",
+      "closing_song": "Proud Mary"
     },
     {
       "id": "922",
@@ -91,7 +111,9 @@
       "date": "2019-07-17",
       "festival_name": null,
       "artists": "Lionel Richie",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Running with the Night",
+      "closing_song": "All Night Long"
     },
     {
       "id": "860",
@@ -99,7 +121,9 @@
       "date": "2018-09-13",
       "festival_name": "Multi-Artist Show",
       "artists": "Ringo Starr, All Starr Band",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Matchbox",
+      "closing_song": "With a Little Help from My Friends"
     },
     {
       "id": "837",
@@ -107,7 +131,9 @@
       "date": "2018-06-27",
       "festival_name": null,
       "artists": "Steve Miller Band/Peter Frampton",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "PF: Something's Happening  SM: The Stake",
+      "closing_song": "PF: Do You Feel Like I Do  SM: Jet Airliner"
     },
     {
       "id": "817",
@@ -115,7 +141,9 @@
       "date": "2018-03-03",
       "festival_name": "Multi-Artist Show",
       "artists": "Phil Lesh & Friends",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "New Speedway Boogie",
+      "closing_song": "Ripple"
     },
     {
       "id": "816",
@@ -123,7 +151,9 @@
       "date": "2018-03-02",
       "festival_name": "Multi-Artist Show",
       "artists": "Phil Lesh & Friends",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Uncle John's Band",
+      "closing_song": "Box of Rain"
     },
     {
       "id": "784",
@@ -131,7 +161,9 @@
       "date": "2017-09-14",
       "festival_name": null,
       "artists": "Sturgill Simpson",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Pollywog",
+      "closing_song": "Call to Arms"
     },
     {
       "id": "725",
@@ -139,7 +171,9 @@
       "date": "2016-09-24",
       "festival_name": null,
       "artists": "Weird Al",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Tacky",
+      "closing_song": "Yoda"
     },
     {
       "id": "721",
@@ -147,7 +181,9 @@
       "date": "2016-09-16",
       "festival_name": null,
       "artists": "ELO",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Tightrope",
+      "closing_song": "Roll Over Beethoven"
     },
     {
       "id": "676",
@@ -155,7 +191,9 @@
       "date": "2016-03-02",
       "festival_name": "Multi-Artist Show",
       "artists": "Elton John, Katy Perry, Andra Day",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Elton: Tiny Dancer",
+      "closing_song": "Elton: I'm Still Standing"
     },
     {
       "id": "631",
@@ -163,7 +201,9 @@
       "date": "2015-06-24",
       "festival_name": null,
       "artists": "John Fogerty",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Born on the Bayou",
+      "closing_song": "Proud Mary"
     },
     {
       "id": "628",
@@ -171,7 +211,9 @@
       "date": "2015-06-17",
       "festival_name": "Multi-Artist Show",
       "artists": "Amos Lee, David Gray",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "AL: Windows       DG: Birds of High Arctic",
+      "closing_song": "AL:              DG:"
     },
     {
       "id": "578",
@@ -179,7 +221,9 @@
       "date": "2014-06-10",
       "festival_name": "Multi-Artist Show",
       "artists": "Willie Nelson, Alison Krauss, Kacey Musgraves",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Whiskey River  / Let Me Touch You",
+      "closing_song": "I Saw the Light  / Your Long Journey"
     },
     {
       "id": "474",
@@ -187,7 +231,9 @@
       "date": "2011-03-27",
       "festival_name": null,
       "artists": "Further",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Samson & Delilah",
+      "closing_song": "Attics of My Life"
     },
     {
       "id": "465",
@@ -195,7 +241,9 @@
       "date": "2011-02-18",
       "festival_name": null,
       "artists": "John Mellencamp",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Authority Song",
+      "closing_song": "R.o.c.k. in the USA"
     },
     {
       "id": "447",
@@ -203,7 +251,9 @@
       "date": "2010-09-30",
       "festival_name": null,
       "artists": "Gaslight Anthem",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "High Lonesome",
+      "closing_song": "Backseat"
     },
     {
       "id": "446",
@@ -211,7 +261,9 @@
       "date": "2010-09-26",
       "festival_name": null,
       "artists": "Sheryl Crow",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "419",
@@ -219,7 +271,9 @@
       "date": "2010-05-03",
       "festival_name": null,
       "artists": "Peter Gabriel",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Heroes",
+      "closing_song": "Don't Give Up/The Mist?"
     },
     {
       "id": "374",
@@ -227,7 +281,9 @@
       "date": "2009-04-15",
       "festival_name": null,
       "artists": "Flight of the Conchords",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Too Many Dicks",
+      "closing_song": "Brown Paper Bag"
     },
     {
       "id": "335",
@@ -235,7 +291,9 @@
       "date": "2008-04-09",
       "festival_name": null,
       "artists": "Elton John",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Your Song",
+      "closing_song": "I'm Still Standing"
     },
     {
       "id": "291",
@@ -243,7 +301,9 @@
       "date": "2007-01-31",
       "festival_name": null,
       "artists": "Rock Star Supernova",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": "Let's Spend Night"
     },
     {
       "id": "283",
@@ -251,7 +311,9 @@
       "date": "2006-10-11",
       "festival_name": null,
       "artists": "James Blunt",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": "You're Beautiful"
     },
     {
       "id": "269",
@@ -259,7 +321,9 @@
       "date": "2006-07-20",
       "festival_name": "Multi-Artist Show",
       "artists": "Ringo Starr & His All Starr Band (Billy Squier, Richard Marx, Rod Argent, Sheila E. & Edgar Winter)",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "It Don't Come Easy",
+      "closing_song": "With a Little Help From My Friends"
     },
     {
       "id": "267",
@@ -267,7 +331,9 @@
       "date": "2006-07-14",
       "festival_name": null,
       "artists": "Bob Weir & Ratdog & String Cheese Incident",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Casey Jones",
+      "closing_song": "Black Muddy River"
     },
     {
       "id": "261",
@@ -275,7 +341,9 @@
       "date": "2006-05-05",
       "festival_name": null,
       "artists": "INXS",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Suicide Blonde",
+      "closing_song": "Don't Change"
     },
     {
       "id": "208",
@@ -283,7 +351,9 @@
       "date": "2004-07-18",
       "festival_name": "Multi-Artist Show",
       "artists": "Elton John, Symphony",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "60 Years On",
+      "closing_song": "Your Song"
     },
     {
       "id": "128",
@@ -291,7 +361,9 @@
       "date": "2001-06-08",
       "festival_name": "Multi-Artist Show",
       "artists": "Black Crowes, Oasis",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "BC: Midnight from Inside Out\nOasis: Go Let It Out",
+      "closing_song": "BC: I Dig Love\nOasis: I am the Walrus"
     }
   ]
 }

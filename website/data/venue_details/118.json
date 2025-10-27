@@ -11,7 +11,9 @@
       "date": "2023-09-15",
       "festival_name": "Multi-Artist Show",
       "artists": "Tommy Emmanuel w. Larry Campbell, Teresa Williams",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Instrumental",
+      "closing_song": "What a Wonderful World"
     },
     {
       "id": "821",
@@ -19,7 +21,9 @@
       "date": "2018-04-15",
       "festival_name": "Multi-Artist Show",
       "artists": "Steve Earle, The Dukes with The Mastersons",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Copperhead Road",
+      "closing_song": "JB12old4k"
     },
     {
       "id": "450",
@@ -27,7 +31,9 @@
       "date": "2010-10-19",
       "festival_name": null,
       "artists": "Ian Anderson",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Life's a Long Song",
+      "closing_song": "Locomotive Breath"
     },
     {
       "id": "299",
@@ -35,7 +41,9 @@
       "date": "2007-05-16",
       "festival_name": null,
       "artists": "Stephen Stills",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Helplessly Hoping",
+      "closing_song": "Dark Star"
     },
     {
       "id": "286",
@@ -43,7 +51,9 @@
       "date": "2006-11-08",
       "festival_name": null,
       "artists": "Donovan",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Sunshine Superman",
+      "closing_song": "Mellow Yellow"
     },
     {
       "id": "36",
@@ -51,7 +61,9 @@
       "date": "1997-04-25",
       "festival_name": null,
       "artists": "Ray Davies",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Unknown",
+      "closing_song": "Unknown"
     },
     {
       "id": "23",
@@ -59,7 +71,9 @@
       "date": "1996-07-13",
       "festival_name": null,
       "artists": "Roger McGuinn",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Heartbreak Hotel",
+      "closing_song": "May the Road Rise to Meet You"
     }
   ]
 }

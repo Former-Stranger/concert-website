@@ -218,15 +218,46 @@ function renderBasicConcert(concert) {
         </div>
     `;
 
-    // No setlist message
+    // Check if we have partial setlist data (opening/closing songs)
     const setlistContainer = document.getElementById('setlist-container');
-    setlistContainer.innerHTML = `
-        <div class="text-center py-12 bg-[rgba(244,228,193,0.05)] rounded-lg border-2 border-[#d4773e]">
-            <i class="fas fa-info-circle text-6xl mb-6" style="color: #d4773e;"></i>
-            <p class="text-2xl font-bold mb-2">No Setlist Available</p>
-            <p class="opacity-70">We don't currently have a setlist for this show.</p>
-        </div>
-    `;
+    const hasPartialData = concert.openingSong || concert.closingSong;
+
+    if (hasPartialData) {
+        // Show partial setlist data
+        setlistContainer.innerHTML = `
+            <div class="marquee-header text-center text-3xl rounded mb-6">
+                <i class="fas fa-list-ul mr-3"></i>Partial Setlist Data
+            </div>
+            <div class="bg-[rgba(244,228,193,0.95)] rounded-lg border-3 border-[#d4773e] p-6 mb-6">
+                ${concert.openingSong ? `
+                    <div class="mb-4 pb-4 border-b-2 border-[#d4773e]">
+                        <div class="text-sm uppercase tracking-wider font-bold opacity-70 mb-2">Opening Song</div>
+                        <div class="text-2xl font-bold poster-title" style="color: #c1502e;">${concert.openingSong}</div>
+                    </div>
+                ` : ''}
+                ${concert.closingSong ? `
+                    <div>
+                        <div class="text-sm uppercase tracking-wider font-bold opacity-70 mb-2">Closing Song</div>
+                        <div class="text-2xl font-bold poster-title" style="color: #c1502e;">${concert.closingSong}</div>
+                    </div>
+                ` : ''}
+            </div>
+            <div class="text-center py-6 bg-[rgba(244,228,193,0.05)] rounded-lg border-2 border-[#d4773e]">
+                <i class="fas fa-info-circle text-4xl mb-4" style="color: #d4773e;"></i>
+                <p class="text-xl font-bold mb-2">Full Setlist Not Available</p>
+                <p class="opacity-70">We have the opening and closing songs, but the complete setlist hasn't been entered yet.</p>
+            </div>
+        `;
+    } else {
+        // No setlist data at all
+        setlistContainer.innerHTML = `
+            <div class="text-center py-12 bg-[rgba(244,228,193,0.05)] rounded-lg border-2 border-[#d4773e]">
+                <i class="fas fa-info-circle text-6xl mb-6" style="color: #d4773e;"></i>
+                <p class="text-2xl font-bold mb-2">No Setlist Available</p>
+                <p class="opacity-70">We don't currently have a setlist for this show.</p>
+            </div>
+        `;
+    }
 
     // Show the submit setlist section
     const submitSection = document.getElementById('submit-setlist-section');

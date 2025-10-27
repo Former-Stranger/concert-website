@@ -53,7 +53,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Maybe Angels",
+      "closing_song": "I Shall Believe"
     },
     {
       "id": "924",
@@ -63,7 +65,9 @@
       "venue": "Fort Adams State Park",
       "city": "Newport",
       "state": "RI",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "446",
@@ -73,7 +77,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

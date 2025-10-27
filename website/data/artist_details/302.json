@@ -53,7 +53,9 @@
       "venue": "The Town Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "JM: Small Town  SE:  ",
+      "closing_song": "JM:  Pink Houses   SE: Teach Your Children"
     },
     {
       "id": "1092",
@@ -63,7 +65,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "John Cockers",
+      "closing_song": "Hurts So Good"
     },
     {
       "id": "897",
@@ -73,7 +77,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Lawless Times",
+      "closing_song": "Cherry Bomb"
     },
     {
       "id": "766",
@@ -83,7 +89,9 @@
       "venue": "Forest Hills Stadium",
       "city": "Forest Hills",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Lawless Times",
+      "closing_song": "Cherry Bomb"
     },
     {
       "id": "617",
@@ -93,7 +101,9 @@
       "venue": "Carnegie Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Lawless Times",
+      "closing_song": "Cherry Bomb"
     },
     {
       "id": "465",
@@ -103,7 +113,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Authority Song",
+      "closing_song": "R.o.c.k. in the USA"
     },
     {
       "id": "451",
@@ -113,7 +125,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Elvis Costello TBD Song",
+      "closing_song": "Ain't No Tomorrow"
     },
     {
       "id": "233",
@@ -123,7 +137,9 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "JM: Small Town\nJF: Travelin Band",
+      "closing_song": "JM: Cherry bomb\nJF: Proud Mary"
     },
     {
       "id": "223",
@@ -133,7 +149,9 @@
       "venue": "CHI Health Center",
       "city": "Omaha",
       "state": "NE",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Small Town",
+      "closing_song": "Check It Out"
     },
     {
       "id": "159",
@@ -143,7 +161,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Love and Happiness",
+      "closing_song": "Check it Out"
     },
     {
       "id": "142",
@@ -153,7 +173,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "JM: Gimmer Shelter\nWall: Sleepwalker",
+      "closing_song": "JM: Your Life is Now\nWall: Won't Get Fooled Again"
     },
     {
       "id": "35",
@@ -163,7 +185,9 @@
       "venue": "Paramount Theater at MSG",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Small Town",
+      "closing_song": "Check it Out"
     }
   ]
 }

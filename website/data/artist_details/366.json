@@ -53,7 +53,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Nothing Really Matters",
+      "closing_song": "Bitch, I'm Madonna/Celebration"
     },
     {
       "id": "205",
@@ -63,7 +65,9 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Vogue",
+      "closing_song": "Holiday"
     }
   ]
 }

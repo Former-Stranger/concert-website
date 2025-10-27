@@ -53,7 +53,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Shakedown Street",
+      "closing_song": "Touch of Grey"
     },
     {
       "id": "311",
@@ -63,7 +65,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "ABB: Trouble No More   RD: N/A",
+      "closing_song": "ABB: Southbound      RD: Turn on your Lovelight"
     }
   ]
 }

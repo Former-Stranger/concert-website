@@ -53,7 +53,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bedside Manners",
+      "closing_song": "Run Run Rudolph"
     },
     {
       "id": "1196",
@@ -63,7 +65,9 @@
       "venue": "Asbury Park Beach",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "BC:  No Speak  NK:  Dial Drunk",
+      "closing_song": "BC:  Remedy   NK:  Stick Season"
     },
     {
       "id": "1160",
@@ -73,7 +77,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bedside Manners",
+      "closing_song": "White Light/White Heat "
     },
     {
       "id": "1113",
@@ -83,7 +89,9 @@
       "venue": "UBS Arena",
       "city": "Elmont",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "BC:  No Speak  Aerosmith:  Back in Saddle",
+      "closing_song": "BC:  Remedy   Aerosmith:  Walk this Way"
     },
     {
       "id": "1031",
@@ -93,7 +101,9 @@
       "venue": "Hartford HealthCare Amphitheater",
       "city": "Bridgeport",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Twice As Hard",
+      "closing_song": "Rocks Off"
     },
     {
       "id": "976",
@@ -103,7 +113,9 @@
       "venue": "Xfinity Center",
       "city": "Mansfield",
       "state": "MA",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Twice As Hard",
+      "closing_song": "It's Only Rock & Roll"
     },
     {
       "id": "423",
@@ -113,7 +125,9 @@
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Halfway to Happiness",
+      "closing_song": "Remedy"
     },
     {
       "id": "310",
@@ -123,7 +137,9 @@
       "venue": "Central Park",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Remedy",
+      "closing_song": "Oh Well"
     },
     {
       "id": "128",
@@ -133,7 +149,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "BC: Midnight from Inside Out\nOasis: Go Let It Out",
+      "closing_song": "BC: I Dig Love\nOasis: I am the Walrus"
     },
     {
       "id": "79",
@@ -143,7 +161,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Remedy",
+      "closing_song": "Virtue & Vice"
     }
   ]
 }

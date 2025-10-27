@@ -53,7 +53,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Radio Ga Ga",
+      "closing_song": "We are the Champions"
     },
     {
       "id": "929",
@@ -63,7 +65,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Now I'm Here",
+      "closing_song": "We are the Champions"
     },
     {
       "id": "587",
@@ -73,7 +77,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Now I'm Here",
+      "closing_song": "We Are the Champions"
     }
   ]
 }

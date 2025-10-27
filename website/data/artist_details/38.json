@@ -53,7 +53,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "NYC City Rhythm",
+      "closing_song": "It's a Miracle"
     },
     {
       "id": "934",
@@ -63,7 +65,9 @@
       "venue": "Broadway Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "NYC Rhythm",
+      "closing_song": "It\u2019s a Miracle"
     },
     {
       "id": "804",
@@ -73,7 +77,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "It's a Miracle",
+      "closing_song": "It's a Miracle Reprise"
     }
   ]
 }

@@ -53,7 +53,9 @@
       "venue": "Great South Bay Music Festival",
       "city": "Oakdale",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Summer",
+      "closing_song": "Locomotive Breathe"
     },
     {
       "id": "49",
@@ -63,7 +65,9 @@
       "venue": "Great South Bay Music Festival",
       "city": "Oakdale",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Song for Jeffrey",
+      "closing_song": "Locomotive Breath"
     }
   ]
 }

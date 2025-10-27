@@ -12,7 +12,9 @@
       "venue": "Count Basie Center for the Arts",
       "city": "Red Bank",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": "Light of Day"
     },
     {
       "id": "1076",
@@ -22,7 +24,9 @@
       "venue": "Count Basie Center for the Arts",
       "city": "Red Bank",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "738",
@@ -32,7 +36,9 @@
       "venue": "Paramount Theatre",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

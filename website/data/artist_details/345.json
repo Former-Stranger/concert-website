@@ -53,7 +53,9 @@
       "venue": "The Town Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Not Too Late",
+      "closing_song": "Time"
     },
     {
       "id": "887",
@@ -63,7 +65,9 @@
       "venue": "Peekskill Paramount",
       "city": "Peekskill",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Don't Look Down",
+      "closing_song": "Treason"
     }
   ]
 }

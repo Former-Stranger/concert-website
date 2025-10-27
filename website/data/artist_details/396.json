@@ -53,7 +53,9 @@
       "venue": "XL Center",
       "city": "Hartford",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Carry On",
+      "closing_song": "Long May You Run"
     },
     {
       "id": "98",
@@ -63,7 +65,9 @@
       "venue": "Ice Arena Tampa, FL",
       "city": "Tampa Bay",
       "state": "FL",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Carry On",
+      "closing_song": "Long May You Run"
     }
   ]
 }

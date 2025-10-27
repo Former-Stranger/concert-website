@@ -12,7 +12,9 @@
       "venue": "Paramount",
       "city": "Huntington",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Brown Eyed Handsome Man",
+      "closing_song": "Church"
     },
     {
       "id": "601",
@@ -22,7 +24,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Wake Up Little Suzy",
+      "closing_song": "Copperhead Road"
     }
   ]
 }

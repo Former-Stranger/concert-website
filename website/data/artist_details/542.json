@@ -53,7 +53,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "DB:  Take Me In Your Arms    SW:  Glad",
+      "closing_song": "DB:  Listen to the Music   SW:  Gimme Some Lovin'"
     },
     {
       "id": "618",
@@ -63,7 +65,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "I'm a Man",
+      "closing_song": "Gimme Some Lovin"
     },
     {
       "id": "556",
@@ -73,7 +77,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "RS: This Old Heart of Mine",
+      "closing_song": "Do Ya Think I'm Sexy"
     },
     {
       "id": "383",
@@ -83,7 +89,9 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Had to Cry Today",
+      "closing_song": "Dear Mr. Fantasy"
     },
     {
       "id": "331",
@@ -93,7 +101,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Had to Cry Today",
+      "closing_song": "Dear Mr. Fantasy"
     }
   ]
 }

@@ -53,7 +53,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Day in the Sun",
+      "closing_song": "While My Guitar Gently Weeps"
     },
     {
       "id": "1100",
@@ -63,7 +65,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Lying",
+      "closing_song": "While My Guitar Gently Weeps"
     },
     {
       "id": "941",
@@ -73,7 +77,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Something's Happening",
+      "closing_song": "While My Guitar Gently Weeps"
     },
     {
       "id": "501",
@@ -83,7 +89,9 @@
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "329",
@@ -93,7 +101,9 @@
       "venue": "Gibson Guitar Tent (Vegas)",
       "city": "Las Vegas",
       "state": "NV",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Singed,Sealed Delivered",
+      "closing_song": "While My Guitar Gently Weeps"
     }
   ]
 }

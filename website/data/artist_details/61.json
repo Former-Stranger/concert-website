@@ -53,7 +53,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "BD: Gotta Serve Somebody  WN: Whiskey River",
+      "closing_song": "BD: Don't Think Twice  WN: I Saw the Light"
     },
     {
       "id": "1176",
@@ -63,7 +65,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Plant: Rich Girl    Dylan: Highway 61",
+      "closing_song": "Plant:  Gone, Gone, Gone    Dylan:  I'll Be Your Baby Tonight"
     },
     {
       "id": "1130",
@@ -73,7 +77,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "New York State Of Mind/Watching River Flow",
+      "closing_song": "Every Grain of Sand"
     },
     {
       "id": "1127",
@@ -83,7 +89,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Watching the River Flow",
+      "closing_song": "Every Grain of Sand"
     },
     {
       "id": "1001",
@@ -93,7 +101,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Wathing The River Flow",
+      "closing_song": "Every Grain of Sand"
     },
     {
       "id": "964",
@@ -103,7 +113,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Things Have Changed",
+      "closing_song": "It Takes a Lot to Laugh, Takes  Train to Cry"
     },
     {
       "id": "884",
@@ -113,7 +125,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Things Have Changed",
+      "closing_song": "Blowin' in the Wind"
     },
     {
       "id": "801",
@@ -123,7 +137,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Things Have Changed",
+      "closing_song": "Ballad of a Thin Man"
     },
     {
       "id": "758",
@@ -133,7 +149,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Things Have Changed",
+      "closing_song": "Blowin' in the Wind/Ballad of a Thin Man"
     },
     {
       "id": "544",
@@ -143,7 +161,9 @@
       "venue": "Hartford HealthCare Amphitheater",
       "city": "Bridgeport",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Things Have Changed",
+      "closing_song": "Blowin' in the Wind"
     },
     {
       "id": "304",
@@ -153,7 +173,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Cats in the Well",
+      "closing_song": "All Along Watchtower"
     },
     {
       "id": "172",
@@ -163,7 +185,9 @@
       "venue": "XL Center",
       "city": "Hartford",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Tweedle Dum & Tweedle Dee",
+      "closing_song": "All Along Watchtower"
     },
     {
       "id": "92",
@@ -173,7 +197,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "BD: Slow Train\nPS: Bridge Over Troubled Water",
+      "closing_song": "BD: Blowing in the Wind\nPS: The Boxer"
     },
     {
       "id": "54",
@@ -183,7 +209,9 @@
       "venue": "Paramount Theater at MSG",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "BD: Absolute Sweet Marie\nVM: ",
+      "closing_song": "BD: Rainey Day Women\nVM: Have I Told You Lately"
     },
     {
       "id": "18",
@@ -193,7 +221,9 @@
       "venue": "Mid-Hudson Civic Center",
       "city": "Poughkeepsie",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Leopard Skin Pill Box Hat",
+      "closing_song": "Rainey Day Women"
     }
   ]
 }

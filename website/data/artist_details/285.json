@@ -12,7 +12,9 @@
       "venue": "Paramount Theatre",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Rock and Roll Radio, One Guitar, Adam Raised a Cain",
+      "closing_song": "Thunder Road"
     },
     {
       "id": "221",
@@ -22,7 +24,9 @@
       "venue": "Stone Pony",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "No Strings Attached",
+      "closing_song": "What's So Funny"
     }
   ]
 }

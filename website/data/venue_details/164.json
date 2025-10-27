@@ -11,7 +11,9 @@
       "date": "2019-11-04",
       "festival_name": null,
       "artists": "Bruce Springsteen/Crow: Stand Up for Heroes",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Redemption (With Sheryl Crow)",
+      "closing_song": "Dancing in the Dark/Land of Hope & Dreams"
     },
     {
       "id": "880",
@@ -19,7 +21,9 @@
       "date": "2018-11-05",
       "festival_name": null,
       "artists": "Springsteen: Stand Up for Heroes (with Eric Church)",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "This Hard Land",
+      "closing_song": "Dancing in the Dark"
     },
     {
       "id": "811",
@@ -27,7 +31,9 @@
       "date": "2018-01-30",
       "festival_name": null,
       "artists": "Elton John Tribute",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Various",
+      "closing_song": "Various"
     },
     {
       "id": "731",
@@ -35,7 +41,9 @@
       "date": "2016-11-14",
       "festival_name": null,
       "artists": "Rascal Flatts",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Summertime",
+      "closing_song": "Me and My Gang"
     },
     {
       "id": "729",
@@ -43,7 +51,9 @@
       "date": "2016-11-01",
       "festival_name": "Multi-Artist Show",
       "artists": "Bruce Springsteen: Stand Up For Heroes (Gaffigan, Seinfeld, CK & Stewart)",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Workin on Highway",
+      "closing_song": "Dancing in the Dark"
     },
     {
       "id": "665",
@@ -51,7 +61,9 @@
       "date": "2015-12-05",
       "festival_name": null,
       "artists": "John Lennon 75th Birthday: Steven Tyler, Fogerty",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Fogerty: Give Peace a Chance",
+      "closing_song": "All: All You Need Is Love"
     },
     {
       "id": "662",
@@ -59,7 +71,9 @@
       "date": "2015-11-07",
       "festival_name": null,
       "artists": "Bruce Springsteen",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "For You",
+      "closing_song": "Dancing in the Dark"
     },
     {
       "id": "606",
@@ -67,7 +81,9 @@
       "date": "2014-11-05",
       "festival_name": null,
       "artists": "Bruce Springsteen: Stand Up For Heroes",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Workin on Highway",
+      "closing_song": "Dancing in the Dark"
     },
     {
       "id": "341",
@@ -75,7 +91,9 @@
       "date": "2008-06-10",
       "festival_name": "Multi-Artist Show",
       "artists": "Robert Plant, Alison Krauss",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Rich Woman",
+      "closing_song": null
     },
     {
       "id": "260",
@@ -83,7 +101,9 @@
       "date": "2006-04-24",
       "festival_name": null,
       "artists": "Van Morrison",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Back on Top",
+      "closing_song": "Healing Game"
     }
   ]
 }

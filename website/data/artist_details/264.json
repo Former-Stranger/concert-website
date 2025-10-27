@@ -53,7 +53,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bury Me",
+      "closing_song": "True Believer"
     },
     {
       "id": "1143",
@@ -63,7 +65,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "When We Were Close",
+      "closing_song": "This Ain't It"
     },
     {
       "id": "1103",
@@ -73,7 +77,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "When We Were Close",
+      "closing_song": "This Ain't It"
     },
     {
       "id": "1016",
@@ -83,7 +89,9 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "24 Frames",
+      "closing_song": "Mutineer"
     }
   ]
 }

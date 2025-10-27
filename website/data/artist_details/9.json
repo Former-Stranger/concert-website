@@ -37,7 +37,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Hello",
+      "closing_song": "Rolling in the Deep"
     }
   ]
 }

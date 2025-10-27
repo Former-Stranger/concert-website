@@ -53,7 +53,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Proud Mary",
+      "closing_song": "Bad Moon Rising/Proud Mary Reprise"
     },
     {
       "id": "1090",
@@ -63,7 +65,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bad Moon Rising",
+      "closing_song": "Proud Mary"
     },
     {
       "id": "1019",
@@ -73,7 +77,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Up Around the Bend",
+      "closing_song": "Proud Mary"
     },
     {
       "id": "933",
@@ -83,7 +89,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Born on the Bayou",
+      "closing_song": "Proud Mary"
     },
     {
       "id": "743",
@@ -93,7 +101,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Travelin' Band",
+      "closing_song": "Proud Mary"
     },
     {
       "id": "631",
@@ -103,7 +113,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Born on the Bayou",
+      "closing_song": "Proud Mary"
     },
     {
       "id": "589",
@@ -113,7 +125,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Boulevard / Travelin Band",
+      "closing_song": "Somebody's Baby / Proud Mary"
     },
     {
       "id": "495",
@@ -123,7 +137,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Green River",
+      "closing_song": "Proud Mary"
     },
     {
       "id": "409",
@@ -133,7 +149,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Hey Tonight",
+      "closing_song": "Proud Mary"
     },
     {
       "id": "403",
@@ -143,7 +161,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "322",
@@ -153,7 +173,9 @@
       "venue": "Hammerstein Ballroom",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "River is Waiting",
+      "closing_song": "Proud Mary"
     },
     {
       "id": "272",
@@ -163,7 +185,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Travelin Band",
+      "closing_song": "Proud Mary"
     },
     {
       "id": "233",
@@ -173,7 +197,9 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "JM: Small Town\nJF: Travelin Band",
+      "closing_song": "JM: Cherry bomb\nJF: Proud Mary"
     },
     {
       "id": "230",
@@ -183,7 +209,9 @@
       "venue": "Stamford Center for Arts",
       "city": "Stamford",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Travelin band",
+      "closing_song": "Proud Mary"
     },
     {
       "id": "218",
@@ -193,7 +221,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Travelin' Band",
+      "closing_song": "Proud Mary"
     },
     {
       "id": "66",
@@ -203,7 +233,9 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Born on the Bayou",
+      "closing_song": "Travelin Band"
     },
     {
       "id": "46",
@@ -213,7 +245,9 @@
       "venue": "Great South Bay Music Festival",
       "city": "Oakdale",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Born on the Bayou",
+      "closing_song": "Travelin Band"
     },
     {
       "id": "38",
@@ -223,7 +257,9 @@
       "venue": "Hammerstein",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Born on the Bayou",
+      "closing_song": "Travelin Band"
     }
   ]
 }

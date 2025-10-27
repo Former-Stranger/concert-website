@@ -53,7 +53,9 @@
       "venue": "Emelin Theatre",
       "city": "Mamaroneck",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "I Misunderstood",
+      "closing_song": "Lost in the Crowd"
     },
     {
       "id": "1102",
@@ -63,7 +65,9 @@
       "venue": "City Winery Hudson Valley",
       "city": "Montgomery",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Gesthemene",
+      "closing_song": "Keep Your Distance"
     },
     {
       "id": "1075",
@@ -73,7 +77,9 @@
       "venue": "Symphony Space",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Read About Love",
+      "closing_song": "Wall of Death"
     },
     {
       "id": "968",
@@ -83,7 +89,9 @@
       "venue": "Symphony Space",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Turning of the Tide",
+      "closing_song": "Vincent Black Lightning 1952/"
     },
     {
       "id": "920",
@@ -93,7 +101,9 @@
       "venue": "City Winery",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Jesus",
+      "closing_song": "My Enemy"
     },
     {
       "id": "913",
@@ -103,7 +113,9 @@
       "venue": "Outpost in the Burbs",
       "city": "Montclair",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Gesthemene",
+      "closing_song": "My Enemy"
     }
   ]
 }

@@ -53,7 +53,9 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "GD:  American Dream   SP:  Everlastinhg Gaze",
+      "closing_song": "GD:  Good Riddance   SP:  Zero"
     },
     {
       "id": "748",
@@ -63,7 +65,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Know Your enemy",
+      "closing_song": "Good Riddance"
     },
     {
       "id": "226",
@@ -73,7 +77,9 @@
       "venue": "CHI Health Center",
       "city": "Omaha",
       "state": "NE",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "American idiot",
+      "closing_song": "Good Riddance"
     },
     {
       "id": "225",
@@ -83,7 +89,9 @@
       "venue": "SNHU Arena",
       "city": "Manchester",
       "state": "NH",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "American idiot",
+      "closing_song": "Good Riddance"
     },
     {
       "id": "7",
@@ -93,7 +101,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "TBD",
+      "closing_song": "TBD"
     }
   ]
 }

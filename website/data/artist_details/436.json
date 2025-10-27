@@ -53,7 +53,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Welcome 2 America",
+      "closing_song": "A Love Bizarre"
     },
     {
       "id": "206",
@@ -63,7 +65,9 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Musicology",
+      "closing_song": "Purple Rain"
     }
   ]
 }

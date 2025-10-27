@@ -11,7 +11,9 @@
       "date": "2008-01-31",
       "festival_name": null,
       "artists": "Eddie Money",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Two Tickets to Paradise",
+      "closing_song": "Shakin'"
     },
     {
       "id": "237",
@@ -19,7 +21,9 @@
       "date": "2005-08-18",
       "festival_name": "Multi-Artist Show",
       "artists": "Dickey Betts, Great Southern",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "High Falls",
+      "closing_song": "Ramblin Man"
     },
     {
       "id": "198",
@@ -27,7 +31,9 @@
       "date": "2004-01-18",
       "festival_name": "Multi-Artist Show",
       "artists": "Southside Johnny, the Asbury Jukes",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Got to Be a Better Way",
+      "closing_song": "Broke Down Piece of Man"
     },
     {
       "id": "156",
@@ -35,7 +41,9 @@
       "date": "2002-06-16",
       "festival_name": "Multi-Artist Show",
       "artists": "Dickey Betts, Great Southern",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Rave On",
+      "closing_song": "Nobody Left to Run With"
     }
   ]
 }

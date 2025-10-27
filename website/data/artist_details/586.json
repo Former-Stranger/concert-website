@@ -53,7 +53,9 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Maybe Your Hearts Not In It Anymore",
+      "closing_song": "The Difference"
     },
     {
       "id": "998",
@@ -63,7 +65,9 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Maybe Your Hearts Not In It Anymore",
+      "closing_song": "The Difference"
     },
     {
       "id": "120",
@@ -73,7 +77,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Who: Can't Explain\nWall: Sleepwalker",
+      "closing_song": "Who: My Generation\nWall: The Difference"
     },
     {
       "id": "52",
@@ -83,7 +89,9 @@
       "venue": "O'Neill Theater Center",
       "city": "Waterford",
       "state": "CT",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Tonights the Night",
+      "closing_song": "Ain't Ever Comin' Back"
     }
   ]
 }

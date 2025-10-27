@@ -53,7 +53,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Overture/1921",
+      "closing_song": "Baba O'Reilly"
     },
     {
       "id": "914",
@@ -63,7 +65,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Overture",
+      "closing_song": "Baba O'Reilly"
     },
     {
       "id": "677",
@@ -73,7 +77,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Who: Who Are You        JJ: Bad Reputation",
+      "closing_song": "Who: Won't Get Fooled Again      JJ: I Hate MySelf For Loving You"
     },
     {
       "id": "624",
@@ -83,7 +89,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "I Can't Explain",
+      "closing_song": "Won't Get Fooled Again"
     },
     {
       "id": "530",
@@ -93,7 +101,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bruce: Land of Hope and Dreams",
+      "closing_song": "McCartney: Live and Let Die and Alicia Keys New York"
     },
     {
       "id": "288",
@@ -103,7 +113,9 @@
       "venue": "Bridgeport",
       "city": "Bridgeport",
       "state": "CT",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Can't Explain",
+      "closing_song": "Tea for Two"
     },
     {
       "id": "278",
@@ -113,7 +125,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Can't Explain",
+      "closing_song": "Tea for Two"
     },
     {
       "id": "202",
@@ -123,7 +137,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "I Can't Explain",
+      "closing_song": "Magic Bus"
     },
     {
       "id": "167",
@@ -133,7 +149,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Who: Can't Explain\nRP: Dreamland",
+      "closing_song": "Who: See Me, Feel Me\nRP: Whole Lotta Love"
     },
     {
       "id": "145",
@@ -143,7 +161,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "David Bowie: America",
+      "closing_song": "Paul Mccartney: Freedom"
     },
     {
       "id": "120",
@@ -153,7 +173,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Who: Can't Explain\nWall: Sleepwalker",
+      "closing_song": "Who: My Generation\nWall: The Difference"
     },
     {
       "id": "24",
@@ -163,7 +185,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "The Real Me",
+      "closing_song": "Won't Get Fooled Again"
     }
   ]
 }

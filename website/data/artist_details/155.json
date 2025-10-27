@@ -53,7 +53,9 @@
       "venue": "Bethel Woods",
       "city": "Bethel",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Dancing Nancies",
+      "closing_song": "Grey Street"
     },
     {
       "id": "1220",
@@ -63,7 +65,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Soulshine",
+      "closing_song": "Come Together"
     },
     {
       "id": "1219",
@@ -73,7 +77,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Old Dirt Hill",
+      "closing_song": "Crush"
     },
     {
       "id": "1131",
@@ -83,7 +89,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Virginia in the Rain",
+      "closing_song": "Rapunzel"
     },
     {
       "id": "1073",
@@ -93,7 +101,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "When the World Ends",
+      "closing_song": "Grey Street"
     },
     {
       "id": "885",
@@ -103,7 +113,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Seek Up",
+      "closing_song": "Ants Marching"
     },
     {
       "id": "529",
@@ -113,7 +125,9 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Eh Hee",
+      "closing_song": "Rapunzel"
     },
     {
       "id": "509",
@@ -123,7 +137,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Seven",
+      "closing_song": "All Along the Watchtower"
     },
     {
       "id": "455",
@@ -133,7 +149,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "#41",
+      "closing_song": "The Last Stop"
     },
     {
       "id": "373",
@@ -143,7 +161,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Don't Drink the Water",
+      "closing_song": "Tripping Billies"
     },
     {
       "id": "247",
@@ -153,7 +173,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Recently",
+      "closing_song": "Two Step"
     },
     {
       "id": "235",
@@ -163,7 +185,9 @@
       "venue": "Randall's Island Park",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "DMB: #41\nBNL: Too Little Too Late",
+      "closing_song": "DMB: What you Are\nBNL: Million Dollars"
     },
     {
       "id": "207",
@@ -173,7 +197,9 @@
       "venue": "The Meadowlands",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "So Much to say",
+      "closing_song": "All Along Watchtower"
     },
     {
       "id": "193",
@@ -183,7 +209,9 @@
       "venue": "Central Park",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Don't Drink the Water",
+      "closing_song": "Stay"
     },
     {
       "id": "177",
@@ -193,7 +221,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Captain",
+      "closing_song": "What You Are"
     },
     {
       "id": "160",
@@ -203,7 +233,9 @@
       "venue": "The Meadowlands",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Don't Drink the Water",
+      "closing_song": "What You Are"
     },
     {
       "id": "130",
@@ -213,7 +245,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Don't Drink the Water",
+      "closing_song": "Tripping BIllies"
     },
     {
       "id": "129",
@@ -223,7 +257,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "When the World Ends",
+      "closing_song": "Two Step"
     },
     {
       "id": "110",
@@ -233,7 +269,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Warehouse",
+      "closing_song": "All Along Watchtower"
     },
     {
       "id": "109",
@@ -243,7 +281,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "#41",
+      "closing_song": "Rapunzel"
     },
     {
       "id": "94",
@@ -253,7 +293,9 @@
       "venue": "The Meadowlands",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Satellite",
+      "closing_song": "Don't Drink the Water"
     },
     {
       "id": "85",
@@ -263,7 +305,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "One Sweet Wordl",
+      "closing_song": "Ants Marching"
     },
     {
       "id": "65",
@@ -273,7 +317,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Best of What's Around",
+      "closing_song": "All Along Watchtower"
     }
   ]
 }

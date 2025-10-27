@@ -12,7 +12,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Skeletons",
+      "closing_song": "All Night"
     },
     {
       "id": "893",
@@ -22,7 +24,9 @@
       "venue": "Terminal 5",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Drank Like Hank",
+      "closing_song": "Take Me Home, Country Roads"
     }
   ]
 }

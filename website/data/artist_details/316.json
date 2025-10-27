@@ -53,7 +53,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Straight Line",
+      "closing_song": "You Get What You Give"
     },
     {
       "id": "1211",
@@ -63,7 +65,9 @@
       "venue": "Today Show Plaza at Rockefeller Center",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Somebody Like You",
+      "closing_song": "Somewhere in My Car"
     },
     {
       "id": "1125",
@@ -73,7 +77,9 @@
       "venue": "Bakkt Theater at Planet Hollywood",
       "city": "Las Vegas",
       "state": "NV",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Wild Hearts",
+      "closing_song": "Raise Em Up"
     },
     {
       "id": "1066",
@@ -83,7 +89,9 @@
       "venue": "UBS Arena",
       "city": "Elmont",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Tumbleweed",
+      "closing_song": "Stupid Boy"
     },
     {
       "id": "1065",
@@ -93,7 +101,9 @@
       "venue": "Mohegan Sun Arena",
       "city": "Uncasville",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Tumbleweed",
+      "closing_song": "Stupid Boy"
     },
     {
       "id": "1033",
@@ -103,7 +113,9 @@
       "venue": "Rockefeller Plaza",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Days Go By",
+      "closing_song": "One Too Many"
     },
     {
       "id": "962",
@@ -113,7 +125,9 @@
       "venue": "Mohegan Sun Arena",
       "city": "Uncasville",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Never Comin' Down",
+      "closing_song": "Wasted Time"
     },
     {
       "id": "876",
@@ -123,7 +137,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Never Comin' Down",
+      "closing_song": "Horses"
     },
     {
       "id": "845",
@@ -133,7 +149,9 @@
       "venue": "Today Show Plaza",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Blue Ain't Your Color",
+      "closing_song": "Wasted Time"
     },
     {
       "id": "732",
@@ -143,7 +161,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Gone Tomorrow",
+      "closing_song": "Raise Em Up"
     },
     {
       "id": "705",
@@ -153,7 +173,9 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Gone Tomorrow",
+      "closing_song": "Raise Em Up"
     },
     {
       "id": "692",
@@ -163,7 +185,9 @@
       "venue": "Stage 48",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Gone Tomorrow",
+      "closing_song": "Wasted Time"
     },
     {
       "id": "641",
@@ -173,7 +197,9 @@
       "venue": "Today Show Plaza at Rockefeller Center",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Raise Em Up",
+      "closing_song": "Good Thing"
     },
     {
       "id": "591",
@@ -183,7 +209,9 @@
       "venue": "The Meadowlands",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Love's Poster Child",
+      "closing_song": "Somebody Like You"
     },
     {
       "id": "588",
@@ -193,7 +221,9 @@
       "venue": "Highline Ballroom",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Good Thing",
+      "closing_song": "Sweet Thing"
     },
     {
       "id": "563",
@@ -203,7 +233,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Instrumental/Long Hit Summer",
+      "closing_song": "You Look Good in my Shirt"
     },
     {
       "id": "482",
@@ -213,7 +245,9 @@
       "venue": "Mohegan Sun Arena",
       "city": "Uncasville",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Put You in a Song",
+      "closing_song": "Better Life"
     },
     {
       "id": "443",
@@ -223,7 +257,9 @@
       "venue": "Great South Bay Music Festival",
       "city": "Oakdale",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "KA: TBD\nKU: Kiss a Girl",
+      "closing_song": "KA: Live Like We Were Dying\nKU: Sombody LIke You "
     }
   ]
 }

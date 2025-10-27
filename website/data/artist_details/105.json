@@ -53,7 +53,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "BG:  Damn Right   TTB: Keep on Growing",
+      "closing_song": "BG:       TTB: Space Captain"
     },
     {
       "id": "1157",
@@ -63,7 +65,9 @@
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Damn Right I've Got the Blues",
+      "closing_song": "The Same Thing"
     },
     {
       "id": "1027",
@@ -73,7 +77,9 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Damn Right I've Got the Blues",
+      "closing_song": null
     }
   ]
 }

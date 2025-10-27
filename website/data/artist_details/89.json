@@ -53,7 +53,9 @@
       "venue": "Citizens Bank Park",
       "city": "Philadelphia",
       "state": "PA",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Seeds",
+      "closing_song": "I'll See You In My Dreams"
     },
     {
       "id": "1188",
@@ -63,7 +65,9 @@
       "venue": "Citizens Bank Park",
       "city": "Philadelphia",
       "state": "PA",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Atlantic City ",
+      "closing_song": "I'll See You In My Dreams"
     },
     {
       "id": "1158",
@@ -73,7 +77,9 @@
       "venue": "MVP Arena",
       "city": "Albany",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Candy's Room",
+      "closing_song": "I'll See You In My Dreams"
     },
     {
       "id": "1155",
@@ -83,7 +89,9 @@
       "venue": "Mohegan Sun Arena",
       "city": "Uncasville",
       "state": "CT",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Roll of the Dice",
+      "closing_song": "I'll See You In My Dreams"
     },
     {
       "id": "1110",
@@ -93,7 +101,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Lonesome Day",
+      "closing_song": "Jersey Girl"
     },
     {
       "id": "1109",
@@ -103,7 +113,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Lonesome Day",
+      "closing_song": "I'll See You In My Dreams"
     },
     {
       "id": "1108",
@@ -113,7 +125,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Lonesome Day",
+      "closing_song": "I'll See You In My Dreams"
     },
     {
       "id": "1087",
@@ -123,7 +137,9 @@
       "venue": "Prudential Center",
       "city": "Newark",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Local Hero",
+      "closing_song": "I'll See You In My Dreams"
     },
     {
       "id": "1086",
@@ -133,7 +149,9 @@
       "venue": "UBS Arena",
       "city": "Elmont",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "No Surrender",
+      "closing_song": "I'll See You In My Dreams"
     },
     {
       "id": "1085",
@@ -143,7 +161,9 @@
       "venue": "UBS Arena",
       "city": "Elmont",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "No Surrender",
+      "closing_song": "I'll See You In My Dreams"
     },
     {
       "id": "1084",
@@ -153,7 +173,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "No Surrender",
+      "closing_song": "I'll See You In My Dreams"
     },
     {
       "id": "1083",
@@ -163,7 +185,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "No Surrender",
+      "closing_song": "I'll See You In My Dreams"
     },
     {
       "id": "1079",
@@ -173,7 +197,9 @@
       "venue": "Wells Fargo Center",
       "city": "Philadelphia",
       "state": "PA",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "No Surrender",
+      "closing_song": "I'll See You In My Dreams"
     },
     {
       "id": "1078",
@@ -183,7 +209,9 @@
       "venue": "Kia Center",
       "city": "Orlando",
       "state": "FL",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "No Surrender",
+      "closing_song": "I'll See You In My Dreams"
     },
     {
       "id": "1077",
@@ -193,7 +221,9 @@
       "venue": "Amalie Arena",
       "city": "Tampa",
       "state": "FL",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "No Surrender",
+      "closing_song": "I'll See You In My Dreams"
     },
     {
       "id": "720",
@@ -203,7 +233,9 @@
       "venue": "Gillette Stadium",
       "city": "Foxborough",
       "state": "MA",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "NYC Serenade",
+      "closing_song": "Bobby Jean"
     },
     {
       "id": "719",
@@ -213,7 +245,9 @@
       "venue": "Citizens Bank Park",
       "city": "Philadelphia",
       "state": "PA",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "NYC Serenade",
+      "closing_song": "Jersey Girl"
     },
     {
       "id": "718",
@@ -223,7 +257,9 @@
       "venue": "Citizens Bank Park",
       "city": "Philadelphia",
       "state": "PA",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "NYC Serenade",
+      "closing_song": "Bobby Jean"
     },
     {
       "id": "717",
@@ -233,7 +269,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "NYC Serenade",
+      "closing_song": "Jersey Girl"
     },
     {
       "id": "715",
@@ -243,7 +281,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "NYC Serenade",
+      "closing_song": "Jersey Girl"
     },
     {
       "id": "688",
@@ -253,7 +293,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Meet Me in the City",
+      "closing_song": "Bobby Jean"
     },
     {
       "id": "687",
@@ -263,7 +305,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Purple Rain",
+      "closing_song": "Shout"
     },
     {
       "id": "678",
@@ -273,7 +317,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Meet Me in the City",
+      "closing_song": "Shout"
     },
     {
       "id": "673",
@@ -283,7 +329,9 @@
       "venue": "Wells Fargo Center",
       "city": "Philadelphia",
       "state": "PA",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Meet Me in the City",
+      "closing_song": "Shout"
     },
     {
       "id": "672",
@@ -293,7 +341,9 @@
       "venue": "XL Center",
       "city": "Hartford",
       "state": "CT",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Meet Me in the City",
+      "closing_song": "Shout"
     },
     {
       "id": "671",
@@ -303,7 +353,9 @@
       "venue": "MVP Arena",
       "city": "Albany",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Meet Me in the City",
+      "closing_song": "Shout"
     },
     {
       "id": "670",
@@ -313,7 +365,9 @@
       "venue": "Prudential Center",
       "city": "Newark",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Meet Me in the City",
+      "closing_song": "Shout"
     },
     {
       "id": "669",
@@ -323,7 +377,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Meet Me in the City",
+      "closing_song": "Shout"
     },
     {
       "id": "576",
@@ -333,7 +389,9 @@
       "venue": "Mohegan Sun Arena",
       "city": "Uncasville",
       "state": "CT",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Roll of the Dice",
+      "closing_song": "Dream Baby Dream"
     },
     {
       "id": "575",
@@ -343,7 +401,9 @@
       "venue": "Mohegan Sun Arena",
       "city": "Uncasville",
       "state": "CT",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Racing in the Street ('78 Version)",
+      "closing_song": "Thunder Road (Acoustic)"
     },
     {
       "id": "574",
@@ -353,7 +413,9 @@
       "venue": "MVP Arena",
       "city": "Albany",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Don't Change",
+      "closing_song": "Thunder Road (Full Band)"
     },
     {
       "id": "559",
@@ -363,7 +425,9 @@
       "venue": "Studio 6H at 30 Rock",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Born Parody, High Hopes, Heavens Wall, Just Like Fire Would",
+      "closing_song": null
     },
     {
       "id": "406",
@@ -373,7 +437,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Wrecking Ball",
+      "closing_song": "Higher & Higher"
     },
     {
       "id": "405",
@@ -383,7 +449,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "ThunderCrack",
+      "closing_song": "Higher & higher"
     },
     {
       "id": "399",
@@ -393,7 +461,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Wrecking Ball",
+      "closing_song": "Jersey Girl"
     },
     {
       "id": "397",
@@ -403,7 +473,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Wrecking Ball",
+      "closing_song": "Thunder Road"
     },
     {
       "id": "396",
@@ -413,7 +485,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Wrecking Ball",
+      "closing_song": "Rosalita"
     },
     {
       "id": "395",
@@ -423,7 +497,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Wrecking Ball",
+      "closing_song": "Rosalita"
     },
     {
       "id": "389",
@@ -433,7 +509,9 @@
       "venue": "The Meadowlands",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Sherry Darling",
+      "closing_song": "Twist & Shout"
     },
     {
       "id": "382",
@@ -443,7 +521,9 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Badlands",
+      "closing_song": "Mony Mony"
     },
     {
       "id": "381",
@@ -453,7 +533,9 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Badlands",
+      "closing_song": "Rosalita"
     },
     {
       "id": "379",
@@ -463,7 +545,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Badlands",
+      "closing_song": "Rosalita"
     },
     {
       "id": "376",
@@ -473,7 +557,9 @@
       "venue": "XL Center",
       "city": "Hartford",
       "state": "CT",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Badlands",
+      "closing_song": "Rosalita"
     },
     {
       "id": "372",
@@ -483,7 +569,9 @@
       "venue": "Convention Hall",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Badlands",
+      "closing_song": "American Land"
     },
     {
       "id": "353",
@@ -493,7 +581,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Summertime Blues",
+      "closing_song": "Rosalita"
     },
     {
       "id": "352",
@@ -503,7 +593,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Out in the Street",
+      "closing_song": "Twist & Shout"
     },
     {
       "id": "351",
@@ -513,7 +605,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "10th Avenue Freeze-Out",
+      "closing_song": "Rosalita"
     },
     {
       "id": "336",
@@ -523,7 +617,9 @@
       "venue": "State Farm Arena",
       "city": "Atlanta",
       "state": "GA",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Reason to Believe",
+      "closing_song": "American Land"
     },
     {
       "id": "332",
@@ -533,7 +629,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Night ",
+      "closing_song": "American Land"
     },
     {
       "id": "325",
@@ -543,7 +641,9 @@
       "venue": "MVP Arena",
       "city": "Albany",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Radio Nowhere",
+      "closing_song": "American Land"
     },
     {
       "id": "320",
@@ -553,7 +653,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Radio Nowhere",
+      "closing_song": "American Land"
     },
     {
       "id": "319",
@@ -563,7 +665,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Radio Nowhere",
+      "closing_song": "American Land"
     },
     {
       "id": "318",
@@ -573,7 +677,9 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Radio Nowhere",
+      "closing_song": "American Land"
     },
     {
       "id": "316",
@@ -583,7 +689,9 @@
       "venue": "XL Center",
       "city": "Hartford",
       "state": "CT",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Radio Nowhere",
+      "closing_song": "American Land"
     },
     {
       "id": "315",
@@ -593,7 +701,9 @@
       "venue": "Today Show Plaza at Rockefeller Center",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Promised Land",
+      "closing_song": "Long Walk Home"
     },
     {
       "id": "314",
@@ -603,7 +713,9 @@
       "venue": "Paramount Theatre",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Radio Nowhere",
+      "closing_song": "American Land"
     },
     {
       "id": "195",
@@ -613,7 +725,9 @@
       "venue": "Shea Stadium",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Code of Silence",
+      "closing_song": "Blood Brothers"
     },
     {
       "id": "191",
@@ -623,7 +737,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "The Rising ",
+      "closing_song": "Dancing in the Dark"
     },
     {
       "id": "186",
@@ -633,7 +749,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Downbound Train",
+      "closing_song": "Seven Nights to Rock"
     },
     {
       "id": "185",
@@ -643,7 +761,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Promised Land",
+      "closing_song": "Dancing in the Dark"
     },
     {
       "id": "184",
@@ -653,7 +773,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "The Rising",
+      "closing_song": "Dancing in the Dark"
     },
     {
       "id": "183",
@@ -663,7 +785,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "The Rising",
+      "closing_song": "Dancing in the Dark"
     },
     {
       "id": "182",
@@ -673,7 +797,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Born in the USA (Acoustic)",
+      "closing_song": "Dancing in the Dark"
     },
     {
       "id": "176",
@@ -683,7 +809,9 @@
       "venue": "Schottenstein Center",
       "city": "Columbus",
       "state": "OH",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "The Rising ",
+      "closing_song": "Dancing In The Dark"
     },
     {
       "id": "170",
@@ -693,7 +821,9 @@
       "venue": "Wells Fargo Center",
       "city": "Philadelphia",
       "state": "PA",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "The Rising",
+      "closing_song": "Kitty's Back"
     },
     {
       "id": "165",
@@ -703,7 +833,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "The Rising",
+      "closing_song": "Land of Hope & Dreams"
     },
     {
       "id": "163",
@@ -713,7 +845,9 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "The Rising",
+      "closing_song": "Land of Hope & Dreams"
     },
     {
       "id": "107",
@@ -723,7 +857,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Code of Silence",
+      "closing_song": "Blood Brothers"
     },
     {
       "id": "104",
@@ -733,7 +869,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Another Thin Line",
+      "closing_song": "Land of Hope & Dreams"
     },
     {
       "id": "102",
@@ -743,7 +881,9 @@
       "venue": "XL Center",
       "city": "Hartford",
       "state": "CT",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Roulette",
+      "closing_song": "Ramrod"
     },
     {
       "id": "89",
@@ -753,7 +893,9 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "I Wanna Be With You",
+      "closing_song": "Land of Hope & Dreams"
     },
     {
       "id": "88",
@@ -763,7 +905,9 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "My Love Will Not Let You Down",
+      "closing_song": "Land of Hope & Dreams"
     }
   ]
 }

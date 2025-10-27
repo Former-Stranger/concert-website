@@ -11,7 +11,9 @@
       "date": "2023-07-15",
       "festival_name": null,
       "artists": "Jason Aldean",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Tough Crowd",
+      "closing_song": "Crazy Town (cut short for heat stroke)"
     },
     {
       "id": "1036",
@@ -19,7 +21,9 @@
       "date": "2022-07-05",
       "festival_name": "Multi-Artist Show",
       "artists": "DEAD: Dead, Company",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Music Never Stopped",
+      "closing_song": "Sugar Magnolia"
     },
     {
       "id": "976",
@@ -27,7 +31,9 @@
       "date": "2021-07-25",
       "festival_name": null,
       "artists": "Black Crowes",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Twice As Hard",
+      "closing_song": "It's Only Rock & Roll"
     },
     {
       "id": "938",
@@ -35,7 +41,9 @@
       "date": "2019-08-29",
       "festival_name": null,
       "artists": "Brad Paisely",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Beat This Summer",
+      "closing_song": "Alcohol"
     }
   ]
 }

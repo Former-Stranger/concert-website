@@ -53,7 +53,9 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "My Back Pages",
+      "closing_song": "May the Road Rise to Meet You"
     },
     {
       "id": "909",
@@ -63,7 +65,9 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "My Back Pages",
+      "closing_song": "Chimes of Freedom"
     },
     {
       "id": "418",
@@ -73,7 +77,9 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "RM: My Back Pages\nJS: Satisfied",
+      "closing_song": "Knockin on Heaven's Door\n (RM&JS)"
     },
     {
       "id": "375",
@@ -83,7 +89,9 @@
       "venue": "Irvington Theater",
       "city": "Irvington",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "My Back Pages",
+      "closing_song": "May the Road Rise to Meet You"
     },
     {
       "id": "312",
@@ -93,7 +101,9 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "So You Wanna Be a Rock and Roll Star",
+      "closing_song": "May the Road Rise to Meet You"
     },
     {
       "id": "23",
@@ -103,7 +113,9 @@
       "venue": "Paramount Hudson Valley Theater",
       "city": "Peekskill",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Heartbreak Hotel",
+      "closing_song": "May the Road Rise to Meet You"
     }
   ]
 }

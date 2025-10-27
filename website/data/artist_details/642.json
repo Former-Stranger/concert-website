@@ -53,7 +53,9 @@
       "venue": "City Winery",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Seeds of a Revolution",
+      "closing_song": "Sheena was a Rock Star"
     },
     {
       "id": "807",
@@ -63,7 +65,9 @@
       "venue": "Daryl's House",
       "city": "Pawling",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Vagabond Moon",
+      "closing_song": "Auld Lang Syne"
     },
     {
       "id": "792",
@@ -73,7 +77,9 @@
       "venue": "City Winery",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Running Down a Dream",
+      "closing_song": null
     },
     {
       "id": "623",
@@ -83,7 +89,9 @@
       "venue": "Ossining Public Library",
       "city": "Ossining",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Hear You Breathe",
+      "closing_song": "On the Way to Cavalry"
     },
     {
       "id": "410",
@@ -93,7 +101,9 @@
       "venue": "Paramount Theatre",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Heaven Help the Lonely\n w/Willie NIle\nAtlantic City",
+      "closing_song": "Twist & Shout"
     }
   ]
 }

@@ -53,7 +53,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Make This Day",
+      "closing_song": "Chicken Fried"
     },
     {
       "id": "1046",
@@ -63,7 +65,9 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Toes (Solo Acoustic)",
+      "closing_song": "Chicken Fried"
     },
     {
       "id": "984",
@@ -73,7 +77,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Keep Me In Mind",
+      "closing_song": "Chicken Fried"
     },
     {
       "id": "983",
@@ -83,7 +89,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Homegrown",
+      "closing_song": "Chicken Fried"
     },
     {
       "id": "937",
@@ -93,7 +101,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Homegrown",
+      "closing_song": "Bulls on Parade"
     },
     {
       "id": "844",
@@ -103,7 +113,9 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Homegrown",
+      "closing_song": "Killing in the Name"
     },
     {
       "id": "713",
@@ -113,7 +125,9 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Homegrown",
+      "closing_song": "Chicken Fried"
     },
     {
       "id": "647",
@@ -123,7 +137,9 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Homegrown",
+      "closing_song": "Chicken Fried"
     }
   ]
 }

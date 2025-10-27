@@ -53,7 +53,9 @@
       "venue": "Asbury Park Beach",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "PJ: Clairvoyants     Avett:  Satan Pulls",
+      "closing_song": "PJ: Clairvoyants     Avett:  No Hard Feelings"
     },
     {
       "id": "840",
@@ -63,7 +65,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Avett: Rock Cradle Lucy    Mule:  Mule",
+      "closing_song": "Avett: No Hard Feelings     Mule: Wish You Were Here"
     }
   ]
 }

@@ -53,7 +53,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Can't Buy Me Love",
+      "closing_song": "Carry That Weight"
     },
     {
       "id": "788",
@@ -63,7 +65,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Hard Day's Night",
+      "closing_song": "Carry That Weight"
     },
     {
       "id": "787",
@@ -73,7 +77,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Hard Day's Night",
+      "closing_song": "Carry That Weight"
     },
     {
       "id": "785",
@@ -83,7 +89,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Hard Day's Night",
+      "closing_song": "Carry That Weight"
     },
     {
       "id": "709",
@@ -93,7 +101,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Hard Day's Night",
+      "closing_song": "Carry That Weight"
     },
     {
       "id": "585",
@@ -103,7 +113,9 @@
       "venue": "MVP Arena",
       "city": "Albany",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Eight Days a Week",
+      "closing_song": "Golden Slumbers/Carry the Weight/The End"
     },
     {
       "id": "536",
@@ -113,7 +125,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Eight Days a Week",
+      "closing_song": "Carry that Weight"
     },
     {
       "id": "530",
@@ -123,7 +137,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bruce: Land of Hope and Dreams",
+      "closing_song": "McCartney: Live and Let Die and Alicia Keys New York"
     },
     {
       "id": "484",
@@ -133,7 +149,9 @@
       "venue": "Yankee Stadium",
       "city": "Bronx",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Magical Mystery Tour",
+      "closing_song": "Carry that Weight"
     },
     {
       "id": "483",
@@ -143,7 +161,9 @@
       "venue": "Yankee Stadium",
       "city": "Bronx",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Hello, Goodbye",
+      "closing_song": "Carry that Weight"
     },
     {
       "id": "385",
@@ -153,7 +173,9 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Drive My Car",
+      "closing_song": "Sgt. Peppers"
     },
     {
       "id": "240",
@@ -163,7 +185,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Magical Mystery Tour",
+      "closing_song": "Sgt. Peppers/The End"
     },
     {
       "id": "239",
@@ -173,7 +197,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Magical Mystery Tour",
+      "closing_song": "Sgt. Peppers/The End"
     },
     {
       "id": "155",
@@ -183,7 +209,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Hello Goodbye",
+      "closing_song": "Sgt. Pepper's/The End"
     },
     {
       "id": "145",
@@ -193,7 +221,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "David Bowie: America",
+      "closing_song": "Paul Mccartney: Freedom"
     }
   ]
 }

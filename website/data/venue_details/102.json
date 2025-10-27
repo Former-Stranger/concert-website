@@ -11,7 +11,9 @@
       "date": "2024-04-14",
       "festival_name": null,
       "artists": "Buddy Guy",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Damn Right I've Got the Blues",
+      "closing_song": "The Same Thing"
     },
     {
       "id": "942",
@@ -19,7 +21,9 @@
       "date": "2019-09-15",
       "festival_name": null,
       "artists": "Travis Tritt",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Put Some Drive in Your Country",
+      "closing_song": "Homesick"
     },
     {
       "id": "902",
@@ -27,7 +31,9 @@
       "date": "2019-03-23",
       "festival_name": null,
       "artists": "Joe Bonamassa",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Tiger in Your Tank",
+      "closing_song": "Mountain Time"
     },
     {
       "id": "886",
@@ -35,7 +41,9 @@
       "date": "2018-12-05",
       "festival_name": null,
       "artists": "Brian Wilson",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Little Saint Nick",
+      "closing_song": "Auld Lang Syne"
     },
     {
       "id": "761",
@@ -43,7 +51,9 @@
       "date": "2017-06-21",
       "festival_name": null,
       "artists": "Huey Lewis  The News",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Heart of Rock & Roll",
+      "closing_song": "Workin For a Livin'"
     },
     {
       "id": "543",
@@ -51,7 +61,9 @@
       "date": "2013-07-12",
       "festival_name": null,
       "artists": "Melissa Etheridge",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Shout Now",
+      "closing_song": "Rock and Roll Me"
     },
     {
       "id": "537",
@@ -59,7 +71,9 @@
       "date": "2013-05-15",
       "festival_name": null,
       "artists": "ZZ Top",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Precious & Grace",
+      "closing_song": "Tush"
     },
     {
       "id": "501",
@@ -67,7 +81,9 @@
       "date": "2012-02-16",
       "festival_name": null,
       "artists": "Peter Frampton",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "480",
@@ -75,7 +91,9 @@
       "date": "2011-06-18",
       "festival_name": null,
       "artists": "Kenny Loggins",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Danny's Song",
+      "closing_song": "Forever in My Heart"
     },
     {
       "id": "478",
@@ -83,7 +101,9 @@
       "date": "2011-05-19",
       "festival_name": null,
       "artists": "Chicago",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "XXX?Colour My World",
+      "closing_song": "25 or 6 to 5"
     },
     {
       "id": "472",
@@ -91,7 +111,9 @@
       "date": "2011-03-25",
       "festival_name": null,
       "artists": "Joe Bonamassa",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Cradle Rock",
+      "closing_song": "Just Got Paid"
     },
     {
       "id": "458",
@@ -99,7 +121,9 @@
       "date": "2010-11-19",
       "festival_name": null,
       "artists": "The Doobie Brothers",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Take Me in Your Arms",
+      "closing_song": "Listen to the Music"
     },
     {
       "id": "433",
@@ -107,7 +131,9 @@
       "date": "2010-07-15",
       "festival_name": "Multi-Artist Show",
       "artists": "Huey Lewis, the News",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": "Workin For a Livin'"
     },
     {
       "id": "428",
@@ -115,7 +141,9 @@
       "date": "2010-06-30",
       "festival_name": null,
       "artists": "Ringo Starr",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "It Don't Come Easy",
+      "closing_song": "With a Little Help from My Friends"
     },
     {
       "id": "427",
@@ -123,7 +151,9 @@
       "date": "2010-06-24",
       "festival_name": null,
       "artists": "Weird Al",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Poker Face Medley",
+      "closing_song": "Jedi"
     },
     {
       "id": "423",
@@ -131,7 +161,9 @@
       "date": "2010-06-02",
       "festival_name": null,
       "artists": "Black Crowes",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Halfway to Happiness",
+      "closing_song": "Remedy"
     },
     {
       "id": "420",
@@ -139,7 +171,9 @@
       "date": "2010-05-14",
       "festival_name": null,
       "artists": "Kenny Loggins",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Danny's Song",
+      "closing_song": "Forever in My Heart"
     },
     {
       "id": "416",
@@ -147,7 +181,9 @@
       "date": "2010-04-09",
       "festival_name": "Multi-Artist Show",
       "artists": "Emerson, Lake",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "In the Beginning",
+      "closing_song": "Lucky Man"
     },
     {
       "id": "407",
@@ -155,7 +191,9 @@
       "date": "2009-11-11",
       "festival_name": null,
       "artists": "Steve Miller Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Swingtown",
+      "closing_song": "Jet Airliner"
     },
     {
       "id": "365",
@@ -163,7 +201,9 @@
       "date": "2008-12-04",
       "festival_name": null,
       "artists": "Tony Bennett",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "357",
@@ -171,7 +211,9 @@
       "date": "2008-08-25",
       "festival_name": "Multi-Artist Show",
       "artists": "Huey Lewis, the News",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Heart of Rock & Roll",
+      "closing_song": "Workin for a Livin"
     },
     {
       "id": "303",
@@ -179,7 +221,9 @@
       "date": "2007-06-20",
       "festival_name": null,
       "artists": "Lynyrd Skynyrd",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Workin for MCA",
+      "closing_song": "Freebird"
     },
     {
       "id": "254",
@@ -187,7 +231,9 @@
       "date": "2006-03-10",
       "festival_name": "Multi-Artist Show",
       "artists": "Leon Russell, Dave Mason",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "LR: Delta Lady\nDM: Only You Know and I Know",
+      "closing_song": "LR: Kansas City\nDM: Feelin Alright"
     },
     {
       "id": "127",
@@ -195,7 +241,9 @@
       "date": "2001-06-07",
       "festival_name": "Multi-Artist Show",
       "artists": "Charlie Daniels Band, Dickey Betts Band, .38 Special",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "CD: Drinkin My Baby Goodbye\nDB: Rave On\n38: Rockin Into the Night",
+      "closing_song": "CD: Devil Went Down to GA\nDB: Dona Maria\n38: Travelin' Band"
     }
   ]
 }

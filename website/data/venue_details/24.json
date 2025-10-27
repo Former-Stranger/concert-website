@@ -11,7 +11,9 @@
       "date": "2005-05-15",
       "festival_name": null,
       "artists": "Green Day",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "American idiot",
+      "closing_song": "Good Riddance"
     },
     {
       "id": "223",
@@ -19,7 +21,9 @@
       "date": "2005-04-01",
       "festival_name": null,
       "artists": "John Mellencamp",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Small Town",
+      "closing_song": "Check It Out"
     }
   ]
 }

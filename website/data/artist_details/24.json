@@ -12,7 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": "Time to Say Goodbye/Nessun Dorma"
     }
   ]
 }

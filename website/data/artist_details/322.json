@@ -53,7 +53,9 @@
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Danny's Song",
+      "closing_song": "Forever in My Heart"
     },
     {
       "id": "420",
@@ -63,7 +65,9 @@
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Danny's Song",
+      "closing_song": "Forever in My Heart"
     },
     {
       "id": "139",
@@ -73,7 +77,9 @@
       "venue": "Hilton Atlantic City",
       "city": "Atlantic City",
       "state": "NJ",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Sweet reunion",
+      "closing_song": "Forever in my Heart"
     }
   ]
 }

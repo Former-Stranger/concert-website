@@ -12,7 +12,9 @@
       "venue": "SubCulture",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Fight",
+      "closing_song": "Frames"
     },
     {
       "id": "569",
@@ -22,7 +24,9 @@
       "venue": "Iridium Jazz Club",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Fight",
+      "closing_song": "Silver Lining"
     },
     {
       "id": "568",
@@ -32,7 +36,9 @@
       "venue": "Iridium Jazz Club",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Fight",
+      "closing_song": "Silver Lining"
     }
   ]
 }

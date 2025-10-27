@@ -11,7 +11,9 @@
       "date": "2025-03-06",
       "festival_name": "Multi-Artist Show",
       "artists": "Blake Shelton (Trace Adkins, Craig Morgan, Deana Carter, Emily Ann Roberts)",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Pour Me a Drink",
+      "closing_song": "God Gave Me You"
     },
     {
       "id": "1148",
@@ -19,7 +21,9 @@
       "date": "2024-03-16",
       "festival_name": null,
       "artists": "Bryan Adams (w. Dave Stewart)",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Kick Ass",
+      "closing_song": "All For Love"
     },
     {
       "id": "1087",
@@ -27,7 +31,9 @@
       "date": "2023-04-14",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Local Hero",
+      "closing_song": "I'll See You In My Dreams"
     },
     {
       "id": "921",
@@ -35,7 +41,9 @@
       "date": "2019-07-16",
       "festival_name": null,
       "artists": "ELO",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Standing in the Rain",
+      "closing_song": "Roll Over Beethoven"
     },
     {
       "id": "873",
@@ -43,7 +51,9 @@
       "date": "2018-10-13",
       "festival_name": null,
       "artists": "Phil Collins",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Against All Odds",
+      "closing_song": "Take Me Home"
     },
     {
       "id": "872",
@@ -51,7 +61,9 @@
       "date": "2018-10-12",
       "festival_name": null,
       "artists": "The Eagles",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Seven Bridges Road",
+      "closing_song": "Desperado"
     },
     {
       "id": "838",
@@ -59,7 +71,9 @@
       "date": "2018-06-29",
       "festival_name": null,
       "artists": "U2",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Love is All We Have Left",
+      "closing_song": "13 (There is a Light)"
     },
     {
       "id": "344",
@@ -67,7 +81,9 @@
       "date": "2018-06-18",
       "festival_name": null,
       "artists": "Tom Petty & the Heartbreakers",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "You Wreck Me",
+      "closing_song": "American Girl"
     },
     {
       "id": "803",
@@ -75,7 +91,9 @@
       "date": "2017-12-02",
       "festival_name": null,
       "artists": "Garth Brooks w. Trisha Yearwood",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Baby, Let's Lay Down and Dance",
+      "closing_song": "Standing Outside the Fire"
     },
     {
       "id": "802",
@@ -83,7 +101,9 @@
       "date": "2017-12-01",
       "festival_name": null,
       "artists": "Garth Brooks w. Trisha Yearwood",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Baby, Let's Lay Down and Dance",
+      "closing_song": "Standing Outside the Fire"
     },
     {
       "id": "794",
@@ -91,7 +111,9 @@
       "date": "2017-10-12",
       "festival_name": "Multi-Artist Show",
       "artists": "Guns, Roses",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "It's So Easy",
+      "closing_song": "Paradise City"
     },
     {
       "id": "759",
@@ -99,7 +121,9 @@
       "date": "2017-06-16",
       "festival_name": "Multi-Artist Show",
       "artists": "Tom Petty, Heartbreakers",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Rockin' Around with You",
+      "closing_song": "American Girl"
     },
     {
       "id": "670",
@@ -107,7 +131,9 @@
       "date": "2016-01-31",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Meet Me in the City",
+      "closing_song": "Shout"
     },
     {
       "id": "621",
@@ -115,7 +141,9 @@
       "date": "2015-05-02",
       "festival_name": null,
       "artists": "Eric Church",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "The Outsiders",
+      "closing_song": "Those I've Loved"
     },
     {
       "id": "507",
@@ -123,7 +151,9 @@
       "date": "2012-05-02",
       "festival_name": null,
       "artists": "Bruce Springsteen",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "No Surrender",
+      "closing_song": "Tenth Ave Freeze Out"
     },
     {
       "id": "321",
@@ -131,7 +161,9 @@
       "date": "2007-10-30",
       "festival_name": null,
       "artists": "Bon Jovi",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Lost Highway",
+      "closing_song": "Who Says You Cant Go Home"
     }
   ]
 }

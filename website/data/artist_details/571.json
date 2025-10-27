@@ -53,7 +53,9 @@
       "venue": "Paramount Hudson Valley Theater",
       "city": "Peekskill",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Copperhead Road",
+      "closing_song": "JB12old4k"
     },
     {
       "id": "655",
@@ -63,7 +65,9 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Baby Baby Baby",
+      "closing_song": "Down the Road"
     }
   ]
 }

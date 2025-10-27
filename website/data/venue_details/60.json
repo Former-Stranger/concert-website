@@ -11,7 +11,9 @@
       "date": "2017-08-26",
       "festival_name": "Multi-Artist Show",
       "artists": "Kenny Chesney, Thomas Rhett, Old Dominion",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Beer in Mexico",
+      "closing_song": "She Thinks My Tractor's Sexy"
     },
     {
       "id": "720",
@@ -19,7 +21,9 @@
       "date": "2016-09-14",
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "NYC Serenade",
+      "closing_song": "Bobby Jean"
     },
     {
       "id": "514",
@@ -27,7 +31,9 @@
       "date": "2012-08-18",
       "festival_name": null,
       "artists": "Bruce Springsteen",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "My Love Will Not Let You Down",
+      "closing_song": "Twist & Shout"
     },
     {
       "id": "386",
@@ -35,7 +41,9 @@
       "date": "2009-07-18",
       "festival_name": "Multi-Artist Show",
       "artists": "Billy Joel, Elton John",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Your Song",
+      "closing_song": "Piano Man"
     }
   ]
 }

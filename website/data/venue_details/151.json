@@ -11,7 +11,9 @@
       "date": "2015-06-27",
       "festival_name": null,
       "artists": "Jesse Malin",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Boots of Immigrants",
+      "closing_song": "TBD"
     },
     {
       "id": "499",
@@ -19,7 +21,9 @@
       "date": "2011-12-10",
       "festival_name": "Multi-Artist Show",
       "artists": "Jesse Malin, St. Marks Social",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Burning Down the Bowery",
+      "closing_song": "Winter (stones Cover)"
     },
     {
       "id": "221",
@@ -27,7 +31,9 @@
       "date": "2005-02-19",
       "festival_name": "Multi-Artist Show",
       "artists": "Joe Grushecky, the Houserockers",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "No Strings Attached",
+      "closing_song": "What's So Funny"
     }
   ]
 }

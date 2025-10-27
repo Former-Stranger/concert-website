@@ -12,7 +12,9 @@
       "venue": "Towne Crier",
       "city": "Beacon",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "All Along Watchtower",
+      "closing_song": "Lives in Balance"
     },
     {
       "id": "301",
@@ -22,7 +24,9 @@
       "venue": "FDR State Park",
       "city": "Yorktown Heights",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "All Along Watchtower",
+      "closing_song": "Freedom"
     },
     {
       "id": "287",
@@ -32,7 +36,9 @@
       "venue": "Towne Crier Cafe",
       "city": "Beacon",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "All Along Watchtower",
+      "closing_song": "Woodstock"
     },
     {
       "id": "246",
@@ -42,7 +48,9 @@
       "venue": "Towne Crier",
       "city": "Beacon",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Maggie's Farm",
+      "closing_song": "Just Like a Woman"
     },
     {
       "id": "61",
@@ -52,7 +60,9 @@
       "venue": "Turning Point",
       "city": "Piermont",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "All Along the Watchtower",
+      "closing_song": "Freedom/Vocal"
     }
   ]
 }

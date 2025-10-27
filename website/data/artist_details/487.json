@@ -53,7 +53,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Start Me Up",
+      "closing_song": "Satisfaction"
     },
     {
       "id": "1166",
@@ -63,7 +65,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Start Me Up",
+      "closing_song": "Satisfaction"
     },
     {
       "id": "928",
@@ -73,7 +77,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Jumpin' Jack Flash",
+      "closing_song": "Satisfaction"
     },
     {
       "id": "926",
@@ -83,7 +89,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Street Fighting Man",
+      "closing_song": "Satisfaction"
     },
     {
       "id": "530",
@@ -93,7 +101,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bruce: Land of Hope and Dreams",
+      "closing_song": "McCartney: Live and Let Die and Alicia Keys New York"
     }
   ]
 }

@@ -11,7 +11,9 @@
       "date": "2025-08-10",
       "festival_name": "Multi-Artist Show",
       "artists": "The Doobie Brothers, Coral Reefer Band",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "CR: License to Chill  DB:  Take Me in Your Arms",
+      "closing_song": "CR: Margaritaville DB: Listen to the Music"
     },
     {
       "id": "1270",
@@ -19,7 +21,9 @@
       "date": "2025-08-01",
       "festival_name": "Outlaw Festival",
       "artists": "Bob Dylan, Willie Nelson",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "BD: Gotta Serve Somebody  WN: Whiskey River",
+      "closing_song": "BD: Don't Think Twice  WN: I Saw the Light"
     },
     {
       "id": "1260",
@@ -27,7 +31,9 @@
       "date": "2025-06-14",
       "festival_name": null,
       "artists": "Keith Urban",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Straight Line",
+      "closing_song": "You Get What You Give"
     },
     {
       "id": "1256",
@@ -35,7 +41,9 @@
       "date": "2025-05-31",
       "festival_name": null,
       "artists": "Luke Bryan",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Kiss Tomorrow Goodbye",
+      "closing_song": "Country Girls"
     },
     {
       "id": "1176",
@@ -43,7 +51,9 @@
       "date": "2024-06-29",
       "festival_name": "Outlaw Festival",
       "artists": "Willie Nelson, Bob Dylan, Robert Plant",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Plant: Rich Girl    Dylan: Highway 61",
+      "closing_song": "Plant:  Gone, Gone, Gone    Dylan:  I'll Be Your Baby Tonight"
     },
     {
       "id": "1117",
@@ -51,7 +61,9 @@
       "date": "2023-09-17",
       "festival_name": null,
       "artists": "Zac Brown Band w. King Calaway",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Make This Day",
+      "closing_song": "Chicken Fried"
     },
     {
       "id": "1116",
@@ -59,7 +71,9 @@
       "date": "2023-09-16",
       "festival_name": null,
       "artists": "Zac Brown Band",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Make This Day",
+      "closing_song": "Chicken Fried"
     },
     {
       "id": "1112",
@@ -67,7 +81,9 @@
       "date": "2023-09-08",
       "festival_name": null,
       "artists": "Sting + Joe Sumner",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Message in a Bottle",
+      "closing_song": "Fragile"
     },
     {
       "id": "1050",
@@ -75,7 +91,9 @@
       "date": "2022-08-25",
       "festival_name": null,
       "artists": "Chris Stapleton",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Nobody to Blame",
+      "closing_song": "Outlaw State of Mind"
     },
     {
       "id": "1048",
@@ -83,7 +101,9 @@
       "date": "2022-08-23",
       "festival_name": null,
       "artists": "Rod Stewart",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Addicted to Love",
+      "closing_song": "Stay With Me"
     },
     {
       "id": "1047",
@@ -91,7 +111,9 @@
       "date": "2022-08-19",
       "festival_name": null,
       "artists": "Joe Bonamassa",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Evil Mama",
+      "closing_song": "House is Rockin'"
     },
     {
       "id": "1041",
@@ -99,7 +121,9 @@
       "date": "2022-07-27",
       "festival_name": null,
       "artists": "Phish",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Mike's Song",
+      "closing_song": "Slave ot the Traffic Light"
     },
     {
       "id": "1030",
@@ -107,7 +131,9 @@
       "date": "2022-06-21",
       "festival_name": null,
       "artists": "The Doobie Brothers",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Nobody",
+      "closing_song": "Listen to the Music"
     },
     {
       "id": "1025",
@@ -115,7 +141,9 @@
       "date": "2022-06-03",
       "festival_name": null,
       "artists": "Tim McGraw",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "How Bad Do you Want It",
+      "closing_song": "Humble and Kind"
     },
     {
       "id": "984",
@@ -123,7 +151,9 @@
       "date": "2021-09-03",
       "festival_name": null,
       "artists": "Zac Brown Band",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Keep Me In Mind",
+      "closing_song": "Chicken Fried"
     },
     {
       "id": "983",
@@ -131,7 +161,9 @@
       "date": "2021-09-02",
       "festival_name": null,
       "artists": "Zac Brown Band",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Homegrown",
+      "closing_song": "Chicken Fried"
     },
     {
       "id": "980",
@@ -139,7 +171,9 @@
       "date": "2021-08-13",
       "festival_name": null,
       "artists": "Luke Bryan",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "That's My kind of Night",
+      "closing_song": "I Don't Want This Night to End"
     },
     {
       "id": "979",
@@ -147,7 +181,9 @@
       "date": "2021-08-10",
       "festival_name": null,
       "artists": "Jimmy Buffett",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Down at the La Te Da",
+      "closing_song": "Book on the Shelf"
     },
     {
       "id": "978",
@@ -155,7 +191,9 @@
       "date": "2021-08-07",
       "festival_name": null,
       "artists": "Jason Aldean",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Crazy Town",
+      "closing_song": "She's Country"
     },
     {
       "id": "941",
@@ -163,7 +201,9 @@
       "date": "2019-09-13",
       "festival_name": null,
       "artists": "Peter Frampton",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Something's Happening",
+      "closing_song": "While My Guitar Gently Weeps"
     },
     {
       "id": "940",
@@ -171,7 +211,9 @@
       "date": "2019-09-06",
       "festival_name": null,
       "artists": "Jason Aldean",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Take a Little Ride",
+      "closing_song": "The Only Way I Know"
     },
     {
       "id": "937",
@@ -179,7 +221,9 @@
       "date": "2019-08-23",
       "festival_name": null,
       "artists": "Zac Brown Band",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Homegrown",
+      "closing_song": "Bulls on Parade"
     },
     {
       "id": "930",
@@ -187,7 +231,9 @@
       "date": "2019-08-08",
       "festival_name": null,
       "artists": "Jimmy Buffett",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "License to Chill",
+      "closing_song": "Tin Cup Chalice"
     },
     {
       "id": "927",
@@ -195,7 +241,9 @@
       "date": "2019-08-02",
       "festival_name": null,
       "artists": "Dierks Bentley",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Burning Man",
+      "closing_song": "Free and Easy"
     },
     {
       "id": "915",
@@ -203,7 +251,9 @@
       "date": "2019-05-30",
       "festival_name": null,
       "artists": "Bob Seger",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Shakedown",
+      "closing_song": "Rock and Roll Never Forgets"
     },
     {
       "id": "850",
@@ -211,7 +261,9 @@
       "date": "2018-08-14",
       "festival_name": "Multi-Artist Show",
       "artists": "Jeff Beck, Paul Rodgers, Ann Wilson",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "JB:  Pull It       PR: Little Bit of Love",
+      "closing_song": "JB: Going Down                  PR: Alright Now"
     },
     {
       "id": "848",
@@ -219,7 +271,9 @@
       "date": "2018-08-10",
       "festival_name": null,
       "artists": "Brad Paisley",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Mud on the Tires",
+      "closing_song": "Alcohol"
     },
     {
       "id": "846",
@@ -227,7 +281,9 @@
       "date": "2018-08-02",
       "festival_name": null,
       "artists": "Jimmy Buffett",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Livingston Saturday Night",
+      "closing_song": "Lovely Cruise"
     },
     {
       "id": "842",
@@ -235,7 +291,9 @@
       "date": "2018-07-14",
       "festival_name": null,
       "artists": "Foo Fighters",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "All My Life",
+      "closing_song": "Everlong"
     },
     {
       "id": "840",
@@ -243,7 +301,9 @@
       "date": "2018-07-12",
       "festival_name": "Multi-Artist Show",
       "artists": "Govt Mule, Avetts",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Avett: Rock Cradle Lucy    Mule:  Mule",
+      "closing_song": "Avett: No Hard Feelings     Mule: Wish You Were Here"
     },
     {
       "id": "777",
@@ -251,7 +311,9 @@
       "date": "2017-08-15",
       "festival_name": null,
       "artists": "Jimmy Buffett",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Changes in Latitudes",
+      "closing_song": "One Particular Harbour/Love and Luck/3 Little Birds"
     },
     {
       "id": "773",
@@ -259,7 +321,9 @@
       "date": "2017-08-03",
       "festival_name": null,
       "artists": "Brad Paisley",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Last Time for Everything",
+      "closing_song": "Alcohol"
     },
     {
       "id": "716",
@@ -267,7 +331,9 @@
       "date": "2016-08-25",
       "festival_name": null,
       "artists": "Jimmy Buffett",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Summerzcool",
+      "closing_song": "Brown Eyed Girl"
     },
     {
       "id": "708",
@@ -275,7 +341,9 @@
       "date": "2016-08-04",
       "festival_name": null,
       "artists": "Brad Paisley",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Crushin It",
+      "closing_song": "Alcohol"
     },
     {
       "id": "646",
@@ -283,7 +351,9 @@
       "date": "2015-08-18",
       "festival_name": "Multi-Artist Show",
       "artists": "Jimmy Buffett, the Coral Reefer Band with Huey Lewis",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Ragtop Day",
+      "closing_song": "Brown Eyed Girl"
     },
     {
       "id": "643",
@@ -291,7 +361,9 @@
       "date": "2015-08-13",
       "festival_name": null,
       "artists": "Van Halen",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Light up the Sky",
+      "closing_song": "Jump"
     },
     {
       "id": "626",
@@ -299,7 +371,9 @@
       "date": "2015-05-29",
       "festival_name": null,
       "artists": "Lady Antebellum with Hunter Hayes and Sam Hunt",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Long Stretch of Love",
+      "closing_song": "We Own the Night"
     },
     {
       "id": "391",
@@ -307,7 +381,9 @@
       "date": "2014-08-26",
       "festival_name": null,
       "artists": "Jimmy Buffett",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Lago Ai Noi",
+      "closing_song": "He Went to Paris"
     },
     {
       "id": "592",
@@ -315,7 +391,9 @@
       "date": "2014-08-21",
       "festival_name": "Multi-Artist Show",
       "artists": "Jimmy Buffett, Coral Reefer Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Summertime Blues",
+      "closing_song": "Lovely Cruise"
     },
     {
       "id": "590",
@@ -323,7 +401,9 @@
       "date": "2014-08-06",
       "festival_name": "Multi-Artist Show",
       "artists": "KISS, Def Leppard",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Psycho Circus  / Let it Go",
+      "closing_song": "Rock and Roll All Nite / Photograph"
     },
     {
       "id": "589",
@@ -331,7 +411,9 @@
       "date": "2014-08-05",
       "festival_name": "Multi-Artist Show",
       "artists": "John Fogerty, Jackson Browne",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Boulevard / Travelin Band",
+      "closing_song": "Somebody's Baby / Proud Mary"
     },
     {
       "id": "586",
@@ -339,7 +421,9 @@
       "date": "2014-07-10",
       "festival_name": "Multi-Artist Show",
       "artists": "Aerosmith, Slash",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Back in the Saddle",
+      "closing_song": "Sweet emotion"
     },
     {
       "id": "581",
@@ -347,7 +431,9 @@
       "date": "2014-06-25",
       "festival_name": null,
       "artists": "Lionel Richie",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "All Around the World ",
+      "closing_song": "We Are the World"
     },
     {
       "id": "577",
@@ -355,7 +441,9 @@
       "date": "2014-05-23",
       "festival_name": null,
       "artists": "Barry Gibb",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Jive Talkin'",
+      "closing_song": "Tragedy"
     },
     {
       "id": "552",
@@ -363,7 +451,9 @@
       "date": "2013-08-22",
       "festival_name": null,
       "artists": "Jimmy Buffett",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Brown Eyed Girl",
+      "closing_song": "Tin Cup Chalice"
     },
     {
       "id": "542",
@@ -371,7 +461,9 @@
       "date": "2013-06-23",
       "festival_name": null,
       "artists": "Rush",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Subdivisions",
+      "closing_song": "2112"
     },
     {
       "id": "515",
@@ -379,7 +471,9 @@
       "date": "2012-08-30",
       "festival_name": null,
       "artists": "Jimmy Buffett",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "One Particular Harbor",
+      "closing_song": "Lovely Cruise"
     },
     {
       "id": "509",
@@ -387,7 +481,9 @@
       "date": "2012-06-12",
       "festival_name": null,
       "artists": "Dave Matthews Band",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Seven",
+      "closing_song": "All Along the Watchtower"
     },
     {
       "id": "508",
@@ -395,7 +491,9 @@
       "date": "2012-06-01",
       "festival_name": "Multi-Artist Show",
       "artists": "Brad Paisley, The Band Perry, Easton Corbin",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Camouflage",
+      "closing_song": "Alcohol"
     },
     {
       "id": "489",
@@ -403,7 +501,9 @@
       "date": "2011-08-23",
       "festival_name": null,
       "artists": "Lynyrd Skynyrd/Doobie Brothers",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "L: Workin for MCA\nDB: Jesus is Just Alright",
+      "closing_song": "L: FreeBird\nDB: Listen to the Music"
     },
     {
       "id": "488",
@@ -411,7 +511,9 @@
       "date": "2011-08-19",
       "festival_name": null,
       "artists": "Jimmy Buffett",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Whino and I Know",
+      "closing_song": "Last Man Standing"
     },
     {
       "id": "442",
@@ -419,7 +521,9 @@
       "date": "2010-08-31",
       "festival_name": null,
       "artists": "Jimmy Buffett",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Nobody from Nowhere",
+      "closing_song": "Coast(Gulf) is Clear"
     },
     {
       "id": "440",
@@ -427,7 +531,9 @@
       "date": "2010-08-20",
       "festival_name": null,
       "artists": "Crosby, Stills and Nash",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Woodstock",
+      "closing_song": "Chicago/We Can Change the World"
     },
     {
       "id": "439",
@@ -435,7 +541,9 @@
       "date": "2010-08-14",
       "festival_name": null,
       "artists": "KISS",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Modern Day Delilah",
+      "closing_song": "Rock & Roll All Nite"
     },
     {
       "id": "388",
@@ -443,7 +551,9 @@
       "date": "2009-08-15",
       "festival_name": null,
       "artists": "Creed",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Ode",
+      "closing_song": "Higher"
     },
     {
       "id": "358",
@@ -451,7 +561,9 @@
       "date": "2008-08-27",
       "festival_name": null,
       "artists": "Jimmy Buffett",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Homemade Music",
+      "closing_song": "Oysters and Pearls"
     },
     {
       "id": "347",
@@ -459,7 +571,9 @@
       "date": "2008-07-11",
       "festival_name": null,
       "artists": "Steve Miller Band",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "SMB: Swingtown     JC: Hitchcock Railway",
+      "closing_song": "SMB: Jungle Love     JC: Cry me a River"
     },
     {
       "id": "340",
@@ -467,7 +581,9 @@
       "date": "2008-06-05",
       "festival_name": null,
       "artists": "Eric Clapton",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Tell the Truth",
+      "closing_song": "Mojo Workin"
     },
     {
       "id": "311",
@@ -475,7 +591,9 @@
       "date": "2007-08-21",
       "festival_name": "Multi-Artist Show",
       "artists": "Allman Brothers, Ratdog",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "ABB: Trouble No More   RD: N/A",
+      "closing_song": "ABB: Southbound      RD: Turn on your Lovelight"
     },
     {
       "id": "308",
@@ -483,7 +601,9 @@
       "date": "2007-07-28",
       "festival_name": "Multi-Artist Show",
       "artists": "Steve Miller Band, The Doobie Brothers",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "SMB: Fly Like an  Eagle   DB: Rocking Down Highway",
+      "closing_song": "SMB: Jet Airliner     DB: Listen to the Music"
     },
     {
       "id": "305",
@@ -491,7 +611,9 @@
       "date": "2007-07-02",
       "festival_name": null,
       "artists": "Rush",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Limelight",
+      "closing_song": "YYZ"
     },
     {
       "id": "304",
@@ -499,7 +621,9 @@
       "date": "2007-06-29",
       "festival_name": null,
       "artists": "Bob Dylan",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Cats in the Well",
+      "closing_song": "All Along Watchtower"
     },
     {
       "id": "274",
@@ -507,7 +631,9 @@
       "date": "2006-08-17",
       "festival_name": "Multi-Artist Show",
       "artists": "Steely Dan, Michael McDonald",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bodhisattva",
+      "closing_song": "My Old School"
     },
     {
       "id": "272",
@@ -515,7 +641,9 @@
       "date": "2006-08-11",
       "festival_name": "Multi-Artist Show",
       "artists": "John Fogerty, Willie Nelson",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Travelin Band",
+      "closing_song": "Proud Mary"
     },
     {
       "id": "271",
@@ -523,7 +651,9 @@
       "date": "2006-08-04",
       "festival_name": "Multi-Artist Show",
       "artists": "Counting Crows, Goo Goo Dolls",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "266",
@@ -531,7 +661,9 @@
       "date": "2006-07-01",
       "festival_name": "Multi-Artist Show",
       "artists": "Jimmy Buffett, Coral Reefer Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Piece of Work",
+      "closing_song": "Brown Eyed Girl"
     },
     {
       "id": "231",
@@ -539,7 +671,9 @@
       "date": "2005-06-21",
       "festival_name": null,
       "artists": "Tom Petty & The Heartbreakers & Black Crowes",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "BC: Half Way to Happiness\nTP: Listen to Her Heart",
+      "closing_song": "BC: Remedy\nTP: American Girl"
     },
     {
       "id": "213",
@@ -547,7 +681,9 @@
       "date": "2004-09-04",
       "festival_name": "Multi-Artist Show",
       "artists": "Jimmy Buffett, Coral Reefer Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Changes in Latitudes",
+      "closing_song": "Back to the Island"
     },
     {
       "id": "211",
@@ -555,7 +691,9 @@
       "date": "2004-08-24",
       "festival_name": null,
       "artists": "Allman Brothers Band",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Walk on Guilded Splinters",
+      "closing_song": "Layla"
     },
     {
       "id": "210",
@@ -563,7 +701,9 @@
       "date": "2004-08-12",
       "festival_name": "Multi-Artist Show",
       "artists": "Crosby, Stills, Nash",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Carry On/Questions",
+      "closing_song": "Teach Your Children"
     },
     {
       "id": "209",
@@ -571,7 +711,9 @@
       "date": "2004-07-21",
       "festival_name": null,
       "artists": "KISS",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "KISS: Love Gun\nPoison: Cat Dragged in",
+      "closing_song": "KISS: Rock & rol All Nite\nPoison: Talk Dirty to Me"
     },
     {
       "id": "167",
@@ -579,7 +721,9 @@
       "date": "2002-08-31",
       "festival_name": "Multi-Artist Show",
       "artists": "The Who, Robert Plant",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Who: Can't Explain\nRP: Dreamland",
+      "closing_song": "Who: See Me, Feel Me\nRP: Whole Lotta Love"
     },
     {
       "id": "166",
@@ -587,7 +731,9 @@
       "date": "2002-08-13",
       "festival_name": null,
       "artists": "Allman Brothers Band",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Ain't Wastin Time No More",
+      "closing_song": "Whipping Post"
     },
     {
       "id": "164",
@@ -595,7 +741,9 @@
       "date": "2002-08-11",
       "festival_name": "Multi-Artist Show",
       "artists": "Bonnie Raitt, Lyle Lovett",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "BR: Real Man\nLL: Unknown",
+      "closing_song": "BR: Thing Called Love\nLL: Unknown"
     },
     {
       "id": "159",
@@ -603,7 +751,9 @@
       "date": "2002-07-20",
       "festival_name": null,
       "artists": "John Mellencamp",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Love and Happiness",
+      "closing_song": "Check it Out"
     },
     {
       "id": "158",
@@ -611,7 +761,9 @@
       "date": "2002-07-15",
       "festival_name": null,
       "artists": "Rush",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Tom Sawyer",
+      "closing_song": "Working Man"
     },
     {
       "id": "142",
@@ -619,7 +771,9 @@
       "date": "2001-09-08",
       "festival_name": "Multi-Artist Show",
       "artists": "John Mellencamp, The Wallflowers",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "JM: Gimmer Shelter\nWall: Sleepwalker",
+      "closing_song": "JM: Your Life is Now\nWall: Won't Get Fooled Again"
     },
     {
       "id": "141",
@@ -627,7 +781,9 @@
       "date": "2001-08-21",
       "festival_name": null,
       "artists": "Allman Brothers Band",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Revival",
+      "closing_song": "Mountain Jam"
     },
     {
       "id": "136",
@@ -635,7 +791,9 @@
       "date": "2001-07-05",
       "festival_name": null,
       "artists": "Tom Petty & the Heartbreakers & Jackson Browne",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "TP: Running Down a Dream\nJB: Nobody Knows",
+      "closing_song": "TP: American Girl\nJB: Dr. My Eyes"
     },
     {
       "id": "131",
@@ -643,7 +801,9 @@
       "date": "2001-06-16",
       "festival_name": null,
       "artists": "Aerosmith",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Beyond Beautiful",
+      "closing_song": "I'm Down"
     },
     {
       "id": "114",
@@ -651,7 +811,9 @@
       "date": "2000-08-04",
       "festival_name": "Multi-Artist Show",
       "artists": "Allman Brothers Band, Hot Tuna",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Trouble No More",
+      "closing_song": "You Don't Love Me (w/Hot Tuna)"
     },
     {
       "id": "108",
@@ -659,7 +821,9 @@
       "date": "2000-07-08",
       "festival_name": null,
       "artists": "Steely Dan",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Unknown",
+      "closing_song": "FM"
     },
     {
       "id": "103",
@@ -667,7 +831,9 @@
       "date": "2000-06-09",
       "festival_name": null,
       "artists": "KISS",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Detroit Rock City",
+      "closing_song": "Rock & Roll All Nite"
     },
     {
       "id": "93",
@@ -675,7 +841,9 @@
       "date": "1999-08-07",
       "festival_name": null,
       "artists": "Roger Waters",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "In The Flesh",
+      "closing_song": "Comfortably Numb"
     },
     {
       "id": "87",
@@ -683,7 +851,9 @@
       "date": "1999-07-03",
       "festival_name": null,
       "artists": "Tom Petty & the Heartbreakers",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Jammin Me",
+      "closing_song": "Learning to Fly"
     },
     {
       "id": "73",
@@ -691,7 +861,9 @@
       "date": "1998-10-15",
       "festival_name": null,
       "artists": "Aerosmith",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Nine Lives",
+      "closing_song": "What it Takes/Heartbreaker"
     },
     {
       "id": "47",
@@ -699,7 +871,9 @@
       "date": "1997-07-31",
       "festival_name": null,
       "artists": "Steve Miller Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Swingtown",
+      "closing_song": "Jet Airliner"
     },
     {
       "id": "45",
@@ -707,7 +881,9 @@
       "date": "1997-07-13",
       "festival_name": "Multi-Artist Show",
       "artists": "ZZ Top, Kansas",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Got Me Under Pressure",
+      "closing_song": "Tush"
     },
     {
       "id": "43",
@@ -715,7 +891,9 @@
       "date": "1997-07-09",
       "festival_name": null,
       "artists": "Boston",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Rock & Roll Band",
+      "closing_song": "Smokin'"
     },
     {
       "id": "41",
@@ -723,7 +901,9 @@
       "date": "1997-06-26",
       "festival_name": "Multi-Artist Show",
       "artists": "Lynyrd Skynyrd, Paul Rodgers",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "LS: We Ain't Much Different\nPR: Can't Get Enough",
+      "closing_song": "LS: Freebird\nPR: Alright Now"
     },
     {
       "id": "40",
@@ -731,7 +911,9 @@
       "date": "1997-06-25",
       "festival_name": null,
       "artists": "Rush",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Dreamline",
+      "closing_song": "YYZ"
     },
     {
       "id": "39",
@@ -739,7 +921,9 @@
       "date": "1997-06-07",
       "festival_name": null,
       "artists": "Ringo Starr & His All-Starr Band (Kirke, Jack Bruce, Gary Brooker, Frampton, Rivera)",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Unknown",
+      "closing_song": "With a Little Help From My Friends"
     },
     {
       "id": "31",
@@ -747,7 +931,9 @@
       "date": "1996-08-31",
       "festival_name": null,
       "artists": "Joe Cocker",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Hitchcock Railway",
+      "closing_song": "Cry Me A River"
     },
     {
       "id": "30",
@@ -755,7 +941,9 @@
       "date": "1996-08-26",
       "festival_name": null,
       "artists": "Neil Young",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Cowgirl in the Sand",
+      "closing_song": "Cortez the Killer"
     },
     {
       "id": "29",
@@ -763,7 +951,9 @@
       "date": "1996-08-23",
       "festival_name": null,
       "artists": "Melissa Etheridge",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Unknown",
+      "closing_song": "All the Way to Heaven"
     },
     {
       "id": "27",
@@ -771,7 +961,9 @@
       "date": "1996-08-03",
       "festival_name": null,
       "artists": "Hootie & the Blowfish & John Hiatt",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Old Man & Me",
+      "closing_song": "Goodbye"
     },
     {
       "id": "22",
@@ -779,7 +971,9 @@
       "date": "1996-07-07",
       "festival_name": null,
       "artists": "Sting",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Hounds of Winter",
+      "closing_song": "Fragile"
     },
     {
       "id": "19",
@@ -787,7 +981,9 @@
       "date": "1996-06-08",
       "festival_name": null,
       "artists": "Bob Seger & the Silver Bullet Band",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Roll Me Away",
+      "closing_song": "Rock & Roll Never Fogets"
     },
     {
       "id": "3",
@@ -795,7 +991,9 @@
       "date": "1995-08-18",
       "festival_name": null,
       "artists": "Diana Ross",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "307",
@@ -803,7 +1001,9 @@
       "date": "",
       "festival_name": null,
       "artists": "ZZ Top",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Got Me Under Pressure",
+      "closing_song": "Tush"
     }
   ]
 }

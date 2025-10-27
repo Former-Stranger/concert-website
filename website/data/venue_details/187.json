@@ -11,7 +11,9 @@
       "date": "2024-10-24",
       "festival_name": null,
       "artists": "Will Hoge",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Birmingham",
+      "closing_song": "Deadbolt"
     },
     {
       "id": "644",
@@ -19,7 +21,9 @@
       "date": "2015-08-14",
       "festival_name": null,
       "artists": "Will Hoge",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Growing Up Around Here",
+      "closing_song": "Pocket Full of Change"
     }
   ]
 }

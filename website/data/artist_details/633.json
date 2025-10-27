@@ -53,7 +53,9 @@
       "venue": "Foxwoods Resort Casino",
       "city": "Mashantucket",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "I Lost on Jeopardy",
+      "closing_song": "Yoda"
     },
     {
       "id": "819",
@@ -63,7 +65,9 @@
       "venue": "Paramount",
       "city": "Huntington",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Biggest Ball of Twine in Minnesota",
+      "closing_song": "The Saga Begins"
     },
     {
       "id": "815",
@@ -73,7 +77,9 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Jackson Park Express",
+      "closing_song": "The Saga Begins"
     },
     {
       "id": "541",
@@ -83,7 +89,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Polka Face",
+      "closing_song": "Yoda"
     }
   ]
 }

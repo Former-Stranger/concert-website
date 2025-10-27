@@ -53,7 +53,9 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "All the Lilacs in Ohio",
+      "closing_song": "Have a Little Faith"
     },
     {
       "id": "1032",
@@ -63,7 +65,9 @@
       "venue": "City Winery",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Tenessee Plates",
+      "closing_song": "Riding with the King"
     },
     {
       "id": "965",
@@ -73,7 +77,9 @@
       "venue": "Caramoor Center for Music and the Arts",
       "city": "Katonah",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Real Fine Love",
+      "closing_song": "Have a Little Faith"
     },
     {
       "id": "911",
@@ -83,7 +89,9 @@
       "venue": "City Winery",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "It'll Come To You",
+      "closing_song": "Have a Little Faith"
     },
     {
       "id": "896",
@@ -93,7 +101,9 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Real Fine Love / Once is Enough",
+      "closing_song": "Memphis / 12th of June"
     },
     {
       "id": "878",
@@ -103,7 +113,9 @@
       "venue": "City Winery",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Through Your Hands",
+      "closing_song": "Have a Little Faith"
     },
     {
       "id": "877",
@@ -113,7 +125,9 @@
       "venue": "City Winery",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Real Fine Love",
+      "closing_song": "Have a Little Faith"
     },
     {
       "id": "797",
@@ -123,7 +137,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "JH: Master of Disaster     LL:  Once is Enough",
+      "closing_song": "JH:  Have a Little Faith     LL: She's No Lady"
     },
     {
       "id": "740",
@@ -133,7 +149,9 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "JH: Open Road  LL: White Man Lost in Blues",
+      "closing_song": "JH: Have a Little Faith    LL: Simple Song"
     },
     {
       "id": "694",
@@ -143,7 +161,9 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Lift Up Every Stone",
+      "closing_song": "Have a Little Faith"
     },
     {
       "id": "689",
@@ -153,7 +173,9 @@
       "venue": "Peekskill Paramount",
       "city": "Peekskill",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Through Your Hands",
+      "closing_song": "Have a Little Faith"
     },
     {
       "id": "649",
@@ -163,7 +185,9 @@
       "venue": "Klein Memorial Auditorium",
       "city": "Bridgeport",
       "state": "CT",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "JH: Your Dad Did  ",
+      "closing_song": "Cl: Memphis   E: Corrina with Taj Mahal"
     },
     {
       "id": "620",
@@ -173,7 +197,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Lift Up Every Stone/Church",
+      "closing_song": "Slow Turning/Step Inside This House"
     },
     {
       "id": "604",
@@ -183,7 +209,9 @@
       "venue": "City Winery",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Master of Disaster",
+      "closing_song": "Drive South"
     },
     {
       "id": "599",
@@ -193,7 +221,9 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Marlene",
+      "closing_song": "Drive South"
     },
     {
       "id": "584",
@@ -203,7 +233,9 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "TBD",
+      "closing_song": "Riding with the King"
     },
     {
       "id": "561",
@@ -213,7 +245,9 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Buffalo River Home (Hiatt)",
+      "closing_song": "My Baby Don't Tolerate (Lyle)"
     },
     {
       "id": "549",
@@ -223,7 +257,9 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Drive South",
+      "closing_song": "Memphis in the Meantime"
     },
     {
       "id": "528",
@@ -233,7 +269,9 @@
       "venue": "City Winery",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Master of Disaster",
+      "closing_song": "Memphis in the Meantime"
     },
     {
       "id": "521",
@@ -243,7 +281,9 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Master of Disaster",
+      "closing_song": "Riding with the King"
     },
     {
       "id": "486",
@@ -253,7 +293,9 @@
       "venue": "City Winery",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Perfectly Good Guitar",
+      "closing_song": "Have a Little Faith"
     },
     {
       "id": "414",
@@ -263,7 +305,9 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Drive South",
+      "closing_song": "Have a Little Faith In Me"
     },
     {
       "id": "370",
@@ -273,7 +317,9 @@
       "venue": "Morristown Theater",
       "city": "Morristown",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Wintertime Blues",
+      "closing_song": "This Old Porch"
     },
     {
       "id": "355",
@@ -283,7 +329,9 @@
       "venue": "Rockin River Cruise",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Tiki Bar is Open",
+      "closing_song": "Thing Called Love"
     }
   ]
 }

@@ -11,7 +11,9 @@
       "date": "2009-08-21",
       "festival_name": null,
       "artists": "Richie Havens",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "All Along Watchtower",
+      "closing_song": "Lives in Balance"
     },
     {
       "id": "246",
@@ -19,7 +21,9 @@
       "date": "2005-11-25",
       "festival_name": null,
       "artists": "Richie Havens",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Maggie's Farm",
+      "closing_song": "Just Like a Woman"
     },
     {
       "id": "55",
@@ -27,7 +31,9 @@
       "date": "1998-01-25",
       "festival_name": null,
       "artists": "Luther Guitar Johnson",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Uknown",
+      "closing_song": "Unknown"
     }
   ]
 }

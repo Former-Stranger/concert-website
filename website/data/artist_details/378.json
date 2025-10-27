@@ -53,7 +53,9 @@
       "venue": "Circle in the Square Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Like the Way I Do",
+      "closing_song": "Come to My Window"
     },
     {
       "id": "907",
@@ -63,7 +65,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "No Souvenirs",
+      "closing_song": "I'm The Only One"
     },
     {
       "id": "543",
@@ -73,7 +77,9 @@
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Shout Now",
+      "closing_song": "Rock and Roll Me"
     },
     {
       "id": "306",
@@ -83,7 +89,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "145",
@@ -93,7 +101,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "David Bowie: America",
+      "closing_song": "Paul Mccartney: Freedom"
     },
     {
       "id": "29",
@@ -103,7 +113,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Unknown",
+      "closing_song": "All the Way to Heaven"
     }
   ]
 }

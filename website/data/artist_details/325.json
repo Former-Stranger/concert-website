@@ -53,7 +53,9 @@
       "venue": "Hartford HealthCare Amphitheater",
       "city": "Bridgeport",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Ballerina Radio",
+      "closing_song": "Use Somebody"
     },
     {
       "id": "981",
@@ -63,7 +65,9 @@
       "venue": "Hartford HealthCare Amphitheater",
       "city": "Bridgeport",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "When You See Yourself",
+      "closing_song": "Use Somebody"
     },
     {
       "id": "739",
@@ -73,7 +77,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "The End",
+      "closing_song": "Around the World"
     },
     {
       "id": "566",
@@ -83,7 +89,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Charmer",
+      "closing_song": "Sex on Fire"
     },
     {
       "id": "457",
@@ -93,7 +101,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Mary",
+      "closing_song": "Black Thumbnail"
     },
     {
       "id": "392",
@@ -103,7 +113,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Closer",
+      "closing_song": "Black Thumbnail"
     }
   ]
 }

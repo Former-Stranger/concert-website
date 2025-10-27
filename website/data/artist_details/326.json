@@ -53,7 +53,9 @@
       "venue": "Webster Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Lipstick",
+      "closing_song": "Live Here to Work"
     },
     {
       "id": "1071",
@@ -63,7 +65,9 @@
       "venue": "Terminal 5",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Fire and Flame",
+      "closing_song": "Just Another Girl"
     },
     {
       "id": "949",
@@ -73,7 +77,9 @@
       "venue": "Mayo Performing Arts Center",
       "city": "Morristown",
       "state": "NJ",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bittersweet Company",
+      "closing_song": "Guitar Man"
     },
     {
       "id": "912",
@@ -83,7 +89,9 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Bittersweet Company",
+      "closing_song": "Guitar Man"
     },
     {
       "id": "864",
@@ -93,7 +101,9 @@
       "venue": "Hammerstein Ballroom",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Fast Women",
+      "closing_song": "New Song TBD"
     },
     {
       "id": "736",
@@ -103,7 +113,9 @@
       "venue": "Terminal 5",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Lipstick",
+      "closing_song": "Fly Again"
     }
   ]
 }

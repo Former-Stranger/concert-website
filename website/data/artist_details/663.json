@@ -53,7 +53,9 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
-      "has_setlist": false
+      "has_setlist": false,
+      "opening_song": "Rock Party",
+      "closing_song": "Born to Be Bad"
     },
     {
       "id": "53",
@@ -63,7 +65,9 @@
       "venue": "Hammerstein",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true
+      "has_setlist": true,
+      "opening_song": "Get Back into Rockin",
+      "closing_song": "Rockin My Life Away"
     }
   ]
 }

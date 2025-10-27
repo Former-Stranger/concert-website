@@ -68,7 +68,9 @@ def export_to_json(output_dir):
             'city': data.get('city', ''),
             'state': data.get('state', ''),
             'artists': artist_names,
-            'hasSetlist': data.get('has_setlist', False)
+            'hasSetlist': data.get('has_setlist', False),
+            'openingSong': data.get('opening_song'),
+            'closingSong': data.get('closing_song')
         })
 
     with open(output_dir / 'concerts.json', 'w') as f:
@@ -422,7 +424,9 @@ def export_to_json(output_dir):
                     'date': concert_data.get('date', ''),
                     'festival_name': concert_data.get('festival_name'),
                     'artists': artist_names,
-                    'has_setlist': concert_data.get('has_setlist', False)
+                    'has_setlist': concert_data.get('has_setlist', False),
+                    'opening_song': concert_data.get('opening_song'),
+                    'closing_song': concert_data.get('closing_song')
                 })
 
         if not concerts_at_venue:
@@ -488,7 +492,9 @@ def export_to_json(output_dir):
                         'venue': concert_data.get('venue_name', ''),
                         'city': concert_data.get('city', ''),
                         'state': concert_data.get('state', ''),
-                        'has_setlist': concert_data.get('has_setlist', False)
+                        'has_setlist': concert_data.get('has_setlist', False),
+                        'opening_song': concert_data.get('opening_song'),
+                        'closing_song': concert_data.get('closing_song')
                     })
                     break
 
