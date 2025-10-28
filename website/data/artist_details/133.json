@@ -2,48 +2,7 @@
   "id": "133",
   "name": "Coral Reefer Band",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Take Me in Your Arms (Rock Me a Little While)",
-      "times_played": 1
-    },
-    {
-      "name": "Here to Love You",
-      "times_played": 1
-    },
-    {
-      "name": "Dependin' on You",
-      "times_played": 1
-    },
-    {
-      "name": "Walk This Road",
-      "times_played": 1
-    },
-    {
-      "name": "Rockin' Down the Highway",
-      "times_played": 1
-    },
-    {
-      "name": "It Keeps You Runnin'",
-      "times_played": 1
-    },
-    {
-      "name": "Call Me",
-      "times_played": 1
-    },
-    {
-      "name": "Minute by Minute",
-      "times_played": 1
-    },
-    {
-      "name": "Learn to Let Go",
-      "times_played": 1
-    },
-    {
-      "name": "Angels & Mercy",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1275",
@@ -53,9 +12,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "CR: License to Chill  DB:  Take Me in Your Arms",
-      "closing_song": "CR: Margaritaville DB: Listen to the Music"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -2,48 +2,7 @@
   "id": "455",
   "name": "Richard Thompson",
   "concert_count": 6,
-  "top_songs": [
-    {
-      "name": "1952 Vincent Black Lightning",
-      "times_played": 6
-    },
-    {
-      "name": "Wall of Death",
-      "times_played": 6
-    },
-    {
-      "name": "Beeswing",
-      "times_played": 5
-    },
-    {
-      "name": "I Feel So Good",
-      "times_played": 4
-    },
-    {
-      "name": "The Ghost of You Walks",
-      "times_played": 4
-    },
-    {
-      "name": "Dimming of the Day",
-      "times_played": 3
-    },
-    {
-      "name": "Singapore Sadie",
-      "times_played": 3
-    },
-    {
-      "name": "Turning of the Tide",
-      "times_played": 3
-    },
-    {
-      "name": "If I Could Live My Life Again",
-      "times_played": 3
-    },
-    {
-      "name": "My Enemy",
-      "times_played": 3
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1145",
@@ -53,9 +12,9 @@
       "venue": "Emelin Theatre",
       "city": "Mamaroneck",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "I Misunderstood",
-      "closing_song": "Lost in the Crowd"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1102",
@@ -65,9 +24,9 @@
       "venue": "City Winery Hudson Valley",
       "city": "Montgomery",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Gesthemene",
-      "closing_song": "Keep Your Distance"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1075",
@@ -77,9 +36,9 @@
       "venue": "Symphony Space",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Read About Love",
-      "closing_song": "Wall of Death"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "968",
@@ -89,9 +48,9 @@
       "venue": "Symphony Space",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Turning of the Tide",
-      "closing_song": "Vincent Black Lightning 1952/"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "920",
@@ -101,9 +60,9 @@
       "venue": "City Winery",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Jesus",
-      "closing_song": "My Enemy"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "913",
@@ -113,9 +72,9 @@
       "venue": "Outpost in the Burbs",
       "city": "Montclair",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Gesthemene",
-      "closing_song": "My Enemy"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

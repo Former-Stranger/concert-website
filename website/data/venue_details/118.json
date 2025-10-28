@@ -12,8 +12,8 @@
       "festival_name": "Multi-Artist Show",
       "artists": "Tommy Emmanuel w. Larry Campbell, Teresa Williams",
       "has_setlist": false,
-      "opening_song": "Instrumental",
-      "closing_song": "What a Wonderful World"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "821",
@@ -21,9 +21,9 @@
       "date": "2018-04-15",
       "festival_name": "Multi-Artist Show",
       "artists": "Steve Earle, The Dukes with The Mastersons",
-      "has_setlist": true,
-      "opening_song": "Copperhead Road",
-      "closing_song": "JB12old4k"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "450",
@@ -32,8 +32,8 @@
       "festival_name": null,
       "artists": "Ian Anderson",
       "has_setlist": false,
-      "opening_song": "Life's a Long Song",
-      "closing_song": "Locomotive Breath"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "299",
@@ -42,8 +42,8 @@
       "festival_name": null,
       "artists": "Stephen Stills",
       "has_setlist": false,
-      "opening_song": "Helplessly Hoping",
-      "closing_song": "Dark Star"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "286",
@@ -52,8 +52,8 @@
       "festival_name": null,
       "artists": "Donovan",
       "has_setlist": false,
-      "opening_song": "Sunshine Superman",
-      "closing_song": "Mellow Yellow"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "36",
@@ -62,8 +62,8 @@
       "festival_name": null,
       "artists": "Ray Davies",
       "has_setlist": false,
-      "opening_song": "Unknown",
-      "closing_song": "Unknown"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "23",
@@ -72,8 +72,8 @@
       "festival_name": null,
       "artists": "Roger McGuinn",
       "has_setlist": false,
-      "opening_song": "Heartbreak Hotel",
-      "closing_song": "May the Road Rise to Meet You"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

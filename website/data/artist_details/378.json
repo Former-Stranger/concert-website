@@ -2,48 +2,7 @@
   "id": "378",
   "name": "Melissa Etheridge",
   "concert_count": 6,
-  "top_songs": [
-    {
-      "name": "Shout Now",
-      "times_played": 1
-    },
-    {
-      "name": "Brave and Crazy",
-      "times_played": 1
-    },
-    {
-      "name": "All American Girl",
-      "times_played": 1
-    },
-    {
-      "name": "I Want to Come Over",
-      "times_played": 1
-    },
-    {
-      "name": "4th Street Feeling",
-      "times_played": 1
-    },
-    {
-      "name": "You Used to Love to Dance",
-      "times_played": 1
-    },
-    {
-      "name": "The Shadow of a Black Crow",
-      "times_played": 1
-    },
-    {
-      "name": "Ruins",
-      "times_played": 1
-    },
-    {
-      "name": "Come to My Window",
-      "times_played": 1
-    },
-    {
-      "name": "An Unexpected Rain",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1129",
@@ -54,8 +13,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Like the Way I Do",
-      "closing_song": "Come to My Window"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "907",
@@ -66,8 +25,8 @@
       "city": "Port Chester",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "No Souvenirs",
-      "closing_song": "I'm The Only One"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "543",
@@ -77,9 +36,9 @@
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Shout Now",
-      "closing_song": "Rock and Roll Me"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "306",
@@ -89,7 +48,7 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
+      "has_setlist": false,
       "opening_song": null,
       "closing_song": null
     },
@@ -101,9 +60,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "David Bowie: America",
-      "closing_song": "Paul Mccartney: Freedom"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "29",
@@ -114,8 +73,8 @@
       "city": "Wantagh",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Unknown",
-      "closing_song": "All the Way to Heaven"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

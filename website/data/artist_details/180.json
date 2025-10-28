@@ -2,48 +2,7 @@
   "id": "180",
   "name": "Dwight Yoakam",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Suspicious Minds",
-      "times_played": 1
-    },
-    {
-      "name": "The Outsiders",
-      "times_played": 1
-    },
-    {
-      "name": "Creepin'",
-      "times_played": 1
-    },
-    {
-      "name": "Guys Like Me",
-      "times_played": 1
-    },
-    {
-      "name": "Carolina",
-      "times_played": 1
-    },
-    {
-      "name": "I'm Gettin' Stoned",
-      "times_played": 1
-    },
-    {
-      "name": "Talladega",
-      "times_played": 1
-    },
-    {
-      "name": "Pledge Allegiance to the Hag",
-      "times_played": 1
-    },
-    {
-      "name": "Drink in My Hand",
-      "times_played": 1
-    },
-    {
-      "name": "The Hard Way",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "959",
@@ -53,9 +12,9 @@
       "venue": "Terminal 5",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Little Queenie",
-      "closing_song": "Suspicious Minds"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "605",
@@ -65,9 +24,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "The Outsiders",
-      "closing_song": "Lightning"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

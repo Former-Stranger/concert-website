@@ -2,48 +2,7 @@
   "id": "658",
   "name": "the 400 Unit",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "When We Were Close",
-      "times_played": 1
-    },
-    {
-      "name": "Cumberland Gap",
-      "times_played": 1
-    },
-    {
-      "name": "Save the World",
-      "times_played": 1
-    },
-    {
-      "name": "Strawberry Woman",
-      "times_played": 1
-    },
-    {
-      "name": "Last of My Kind",
-      "times_played": 1
-    },
-    {
-      "name": "Death Wish",
-      "times_played": 1
-    },
-    {
-      "name": "Volunteer",
-      "times_played": 1
-    },
-    {
-      "name": "King of Oklahoma",
-      "times_played": 1
-    },
-    {
-      "name": "Middle of the Morning",
-      "times_played": 1
-    },
-    {
-      "name": "Overseas",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1103",
@@ -53,9 +12,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "When We Were Close",
-      "closing_song": "This Ain't It"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -2,48 +2,7 @@
   "id": "399",
   "name": "Neil Diamond",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Holly Holy",
-      "times_played": 2
-    },
-    {
-      "name": "Beautiful Noise",
-      "times_played": 2
-    },
-    {
-      "name": "Love on the Rocks",
-      "times_played": 2
-    },
-    {
-      "name": "Play Me",
-      "times_played": 2
-    },
-    {
-      "name": "Cherry, Cherry",
-      "times_played": 2
-    },
-    {
-      "name": "Pretty Amazing Grace",
-      "times_played": 2
-    },
-    {
-      "name": "Crunchy Granola Suite",
-      "times_played": 2
-    },
-    {
-      "name": "Done Too Soon",
-      "times_played": 2
-    },
-    {
-      "name": "Brooklyn Roads",
-      "times_played": 2
-    },
-    {
-      "name": "I Am ... I Said",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "760",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Cherry, Cherry",
-      "closing_song": "America"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "356",
@@ -65,9 +24,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Solitary Man",
-      "closing_song": "Sweet Caroline"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

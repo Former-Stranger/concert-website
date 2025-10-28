@@ -2,48 +2,7 @@
   "id": "199",
   "name": "Eric Clapton",
   "concert_count": 16,
-  "top_songs": [
-    {
-      "name": "Cocaine",
-      "times_played": 11
-    },
-    {
-      "name": "Layla",
-      "times_played": 9
-    },
-    {
-      "name": "Wonderful Tonight",
-      "times_played": 8
-    },
-    {
-      "name": "I'm Your Hoochie Coochie Man",
-      "times_played": 7
-    },
-    {
-      "name": "I Shot the Sheriff",
-      "times_played": 6
-    },
-    {
-      "name": "Cross Road Blues",
-      "times_played": 6
-    },
-    {
-      "name": "Nobody Knows You When You're Down and Out",
-      "times_played": 5
-    },
-    {
-      "name": "Little Queen of Spades",
-      "times_played": 5
-    },
-    {
-      "name": "Driftin' Blues",
-      "times_played": 5
-    },
-    {
-      "name": "Key to the Highway",
-      "times_played": 5
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1060",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "God Save the Queen/Tearin Us Apart",
-      "closing_song": "High Time We Went"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "870",
@@ -65,9 +24,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Somebody's Knocking",
-      "closing_song": "High Time We Went"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "782",
@@ -78,8 +37,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Somebody's Knocking",
-      "closing_song": "Before You Accuse Me"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "749",
@@ -89,9 +48,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Key to the Highway",
-      "closing_song": "Before You Accuse Me"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "530",
@@ -101,9 +60,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Bruce: Land of Hope and Dreams",
-      "closing_song": "McCartney: Live and Let Die and Alicia Keys New York"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "411",
@@ -113,9 +72,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "JB: Freeway Jam\nEC: Driftin'",
-      "closing_song": "JB: Nessun Dorma\nEC: Cocaine\nTogether: Crossraods"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "383",
@@ -125,9 +84,9 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Had to Cry Today",
-      "closing_song": "Dear Mr. Fantasy"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "340",
@@ -137,9 +96,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Tell the Truth",
-      "closing_song": "Mojo Workin"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "331",
@@ -149,9 +108,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Had to Cry Today",
-      "closing_song": "Dear Mr. Fantasy"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "281",
@@ -161,9 +120,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Pretending",
-      "closing_song": "Crossroads"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "204",
@@ -173,9 +132,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Let it Rain",
-      "closing_song": "Mojo Workin'"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "145",
@@ -185,9 +144,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "David Bowie: America",
-      "closing_song": "Paul Mccartney: Freedom"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "134",
@@ -197,9 +156,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Driftin'",
-      "closing_song": "Somewhere Over the Rainbow"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "133",
@@ -209,9 +168,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Driftin'",
-      "closing_song": "Somewhere Over the Rainbow"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "60",
@@ -221,9 +180,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "My Father's Eyes",
-      "closing_song": "Sunshine of Your Love"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "11",
@@ -233,9 +192,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Motherless Child",
-      "closing_song": "TBD"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

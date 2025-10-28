@@ -2,48 +2,7 @@
   "id": "618",
   "name": "U2",
   "concert_count": 18,
-  "top_songs": [
-    {
-      "name": "Beautiful Day",
-      "times_played": 17
-    },
-    {
-      "name": "One",
-      "times_played": 17
-    },
-    {
-      "name": "Sunday Bloody Sunday",
-      "times_played": 16
-    },
-    {
-      "name": "Elevation",
-      "times_played": 15
-    },
-    {
-      "name": "Vertigo",
-      "times_played": 15
-    },
-    {
-      "name": "Pride (In the Name of Love)",
-      "times_played": 15
-    },
-    {
-      "name": "Until the End of the World",
-      "times_played": 14
-    },
-    {
-      "name": "Where the Streets Have No Name",
-      "times_played": 14
-    },
-    {
-      "name": "City of Blinding Lights",
-      "times_played": 13
-    },
-    {
-      "name": "I Will Follow",
-      "times_played": 12
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1121",
@@ -53,9 +12,9 @@
       "venue": "Sphere",
       "city": "Las Vegas",
       "state": "NV",
-      "has_setlist": true,
-      "opening_song": "Zoo Station",
-      "closing_song": "Beautiful Day"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "839",
@@ -65,9 +24,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Love is All We Have Left",
-      "closing_song": "13 (There is a Light)"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "838",
@@ -77,9 +36,9 @@
       "venue": "Prudential Center",
       "city": "Newark",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Love is All We Have Left",
-      "closing_song": "13 (There is a Light)"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "836",
@@ -89,9 +48,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Love is All We Have Left",
-      "closing_song": "13 (There is a Light)"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "835",
@@ -101,9 +60,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Love is All We Have Left",
-      "closing_song": "13 (There is a Light)"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "763",
@@ -113,9 +72,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Sunday Bloody Sunday",
-      "closing_song": "Little Things That Give You Away"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "638",
@@ -125,9 +84,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miracle of Joey Ramone",
-      "closing_song": "I Still Haven't Goudn What I'm Looking For"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "637",
@@ -137,9 +96,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miracle of Joey Ramone",
-      "closing_song": "One"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "636",
@@ -149,9 +108,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miracle of Joey Ramone",
-      "closing_song": "One"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "485",
@@ -161,9 +120,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Evewn Better than Real Thing",
-      "closing_song": "Out of Control"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "394",
@@ -173,9 +132,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Breathe",
-      "closing_song": "Moment of Surrender"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "393",
@@ -185,9 +144,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Breathe",
-      "closing_song": "Moment of Surrender"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "245",
@@ -197,9 +156,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "City of Blinding Lights",
-      "closing_song": "Bad"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "229",
@@ -209,9 +168,9 @@
       "venue": "Wells Fargo Center",
       "city": "Philadelphia",
       "state": "PA",
-      "has_setlist": true,
-      "opening_song": "City of Blinding Lights",
-      "closing_song": "40"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "227",
@@ -221,9 +180,9 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "City of Blinding Lights",
-      "closing_song": "Bad"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "147",
@@ -233,9 +192,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Elevation ",
-      "closing_song": "Out of Control"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "132",
@@ -245,9 +204,9 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Elevation",
-      "closing_song": "Walk On"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "37",
@@ -257,9 +216,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "MoFo",
-      "closing_song": "One"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

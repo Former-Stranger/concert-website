@@ -2,32 +2,7 @@
   "id": "439",
   "name": "Queen",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Happy to See Me",
-      "times_played": 1
-    },
-    {
-      "name": "The Knock",
-      "times_played": 1
-    },
-    {
-      "name": "New Song (Untitled)",
-      "times_played": 1
-    },
-    {
-      "name": "Waitress",
-      "times_played": 1
-    },
-    {
-      "name": "Well-Dressed",
-      "times_played": 1
-    },
-    {
-      "name": "Tibetan Pop Stars",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "770",
@@ -37,9 +12,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "We Will Rock You/Hammer to Fall",
-      "closing_song": "We Will Rock You/We Are the Champions"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

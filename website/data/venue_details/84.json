@@ -12,8 +12,8 @@
       "festival_name": null,
       "artists": "Will Hoge",
       "has_setlist": false,
-      "opening_song": "Even the River Runs Though This Town",
-      "closing_song": "Deadbolt"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "615",
@@ -21,9 +21,9 @@
       "date": "2015-04-07",
       "festival_name": "Multi-Artist Show",
       "artists": "Mumford & Sons",
-      "has_setlist": true,
-      "opening_song": "Snake Eyes",
-      "closing_song": "Only Love"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

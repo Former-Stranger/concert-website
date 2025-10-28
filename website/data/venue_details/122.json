@@ -11,9 +11,9 @@
       "date": "2018-12-06",
       "festival_name": null,
       "artists": "Lindsey Buckingham",
-      "has_setlist": true,
-      "opening_song": "Don't Look Down",
-      "closing_song": "Treason"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "722",
@@ -22,8 +22,8 @@
       "festival_name": null,
       "artists": "Donovan",
       "has_setlist": false,
-      "opening_song": "Catch the Wind",
-      "closing_song": "Atlantis"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "689",
@@ -32,8 +32,8 @@
       "festival_name": "Multi-Artist Show",
       "artists": "John Hiatt, Rick Brantley",
       "has_setlist": false,
-      "opening_song": "Through Your Hands",
-      "closing_song": "Have a Little Faith"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

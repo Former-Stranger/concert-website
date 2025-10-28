@@ -2,24 +2,7 @@
   "id": "14",
   "name": "Alicia Keys",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Driven to Tears",
-      "times_played": 1
-    },
-    {
-      "name": "Roxanne",
-      "times_played": 1
-    },
-    {
-      "name": "Can't Stand Losing You / Reggatta de Blanc",
-      "times_played": 1
-    },
-    {
-      "name": "Message in a Bottle",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "306",
@@ -29,7 +12,7 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
+      "has_setlist": false,
       "opening_song": null,
       "closing_song": null
     }

@@ -2,48 +2,7 @@
   "id": "212",
   "name": "Fleetwood Mac",
   "concert_count": 5,
-  "top_songs": [
-    {
-      "name": "The Chain",
-      "times_played": 5
-    },
-    {
-      "name": "Gypsy",
-      "times_played": 5
-    },
-    {
-      "name": "Go Your Own Way",
-      "times_played": 5
-    },
-    {
-      "name": "Dreams",
-      "times_played": 4
-    },
-    {
-      "name": "Second Hand News",
-      "times_played": 4
-    },
-    {
-      "name": "Rhiannon",
-      "times_played": 4
-    },
-    {
-      "name": "Landslide",
-      "times_played": 4
-    },
-    {
-      "name": "Gold Dust Woman",
-      "times_played": 4
-    },
-    {
-      "name": "World Turning",
-      "times_played": 4
-    },
-    {
-      "name": "Don't Stop",
-      "times_played": 4
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "900",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "The Chain",
-      "closing_song": "All Over Again"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "603",
@@ -65,9 +24,9 @@
       "venue": "Today Show Plaza at Rockefeller Center",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "The Chain",
-      "closing_song": "Go Your Own Way"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "602",
@@ -77,9 +36,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "The Chain",
-      "closing_song": "Songbird"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "384",
@@ -89,9 +48,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Monday Morning",
-      "closing_song": "Silver Springs"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "194",
@@ -101,9 +60,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "The Chain",
-      "closing_song": "Goodbye Baby"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

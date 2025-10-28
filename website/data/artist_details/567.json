@@ -2,48 +2,7 @@
   "id": "567",
   "name": "The Brothers",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Statesboro Blues",
-      "times_played": 2
-    },
-    {
-      "name": "Trouble No More",
-      "times_played": 2
-    },
-    {
-      "name": "Black Hearted Woman",
-      "times_played": 2
-    },
-    {
-      "name": "Dreams",
-      "times_played": 2
-    },
-    {
-      "name": "Hot 'Lanta",
-      "times_played": 2
-    },
-    {
-      "name": "Come and Go Blues",
-      "times_played": 2
-    },
-    {
-      "name": "Jessica",
-      "times_played": 2
-    },
-    {
-      "name": "Mountain Jam",
-      "times_played": 2
-    },
-    {
-      "name": "Blue Sky",
-      "times_played": 2
-    },
-    {
-      "name": "Ain't Wastin' Time No More",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1247",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Statesboro Blues",
-      "closing_song": "Whipping Post"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "972",
@@ -65,9 +24,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Don't Want You No More/My Cross To Bear",
-      "closing_song": "Whipping Post"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

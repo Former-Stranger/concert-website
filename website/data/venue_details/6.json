@@ -12,8 +12,8 @@
       "festival_name": null,
       "artists": "Eddie Money",
       "has_setlist": false,
-      "opening_song": "Two Tickets to Paradise",
-      "closing_song": "Shakin'"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "237",
@@ -22,8 +22,8 @@
       "festival_name": "Multi-Artist Show",
       "artists": "Dickey Betts, Great Southern",
       "has_setlist": false,
-      "opening_song": "High Falls",
-      "closing_song": "Ramblin Man"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "198",
@@ -32,8 +32,8 @@
       "festival_name": "Multi-Artist Show",
       "artists": "Southside Johnny, the Asbury Jukes",
       "has_setlist": false,
-      "opening_song": "Got to Be a Better Way",
-      "closing_song": "Broke Down Piece of Man"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "156",
@@ -41,9 +41,9 @@
       "date": "2002-06-16",
       "festival_name": "Multi-Artist Show",
       "artists": "Dickey Betts, Great Southern",
-      "has_setlist": true,
-      "opening_song": "Rave On",
-      "closing_song": "Nobody Left to Run With"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -2,48 +2,7 @@
   "id": "54",
   "name": "Blackberry Smoke",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Payback's a Bitch",
-      "times_played": 1
-    },
-    {
-      "name": "Six Ways to Sunday",
-      "times_played": 1
-    },
-    {
-      "name": "Good One Comin' On",
-      "times_played": 1
-    },
-    {
-      "name": "Hammer and the Nail",
-      "times_played": 1
-    },
-    {
-      "name": "Hey Delilah",
-      "times_played": 1
-    },
-    {
-      "name": "Let It Burn",
-      "times_played": 1
-    },
-    {
-      "name": "Like It Was Yesterday",
-      "times_played": 1
-    },
-    {
-      "name": "Crimson Moon",
-      "times_played": 1
-    },
-    {
-      "name": "Sleeping Dogs",
-      "times_played": 1
-    },
-    {
-      "name": "Waiting for the Thunder",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1150",
@@ -53,9 +12,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Payback's a Bitch",
-      "closing_song": "Ain't Much Left of Me"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

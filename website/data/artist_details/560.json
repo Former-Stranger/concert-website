@@ -2,48 +2,7 @@
   "id": "560",
   "name": "Tedeschi Trucks Band",
   "concert_count": 3,
-  "top_songs": [
-    {
-      "name": "Don't Let Me Slide",
-      "times_played": 2
-    },
-    {
-      "name": "Shame",
-      "times_played": 2
-    },
-    {
-      "name": "Let Me Get By",
-      "times_played": 2
-    },
-    {
-      "name": "Get What You Deserve",
-      "times_played": 2
-    },
-    {
-      "name": "Keep On Growing",
-      "times_played": 2
-    },
-    {
-      "name": "La Di Da",
-      "times_played": 2
-    },
-    {
-      "name": "Gravity",
-      "times_played": 2
-    },
-    {
-      "name": "D.M.S.R.",
-      "times_played": 2
-    },
-    {
-      "name": "I Walk on Guilded Splinters",
-      "times_played": 2
-    },
-    {
-      "name": "Bound for Glory",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1252",
@@ -53,9 +12,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "BG:  Damn Right   TTB: Keep on Growing",
-      "closing_song": "BG:       TTB: Space Captain"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1203",
@@ -65,9 +24,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "High & Mighty",
-      "closing_song": "Show Me"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "974",
@@ -77,9 +36,9 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "Don't Let Me Slide",
-      "closing_song": "Get What You Deserve"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

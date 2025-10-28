@@ -2,48 +2,7 @@
   "id": "280",
   "name": "Joe Bonamassa",
   "concert_count": 13,
-  "top_songs": [
-    {
-      "name": "Mountain Time",
-      "times_played": 6
-    },
-    {
-      "name": "Woke Up Dreaming",
-      "times_played": 5
-    },
-    {
-      "name": "Dust Bowl",
-      "times_played": 5
-    },
-    {
-      "name": "Sloe Gin",
-      "times_played": 5
-    },
-    {
-      "name": "Slow Train",
-      "times_played": 4
-    },
-    {
-      "name": "Driving Towards the Daylight",
-      "times_played": 4
-    },
-    {
-      "name": "The Ballad of John Henry",
-      "times_played": 4
-    },
-    {
-      "name": "Evil Mama",
-      "times_played": 4
-    },
-    {
-      "name": "Hummingbird",
-      "times_played": 4
-    },
-    {
-      "name": "Just 'Cos You Can Don't Mean You Should",
-      "times_played": 3
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1239",
@@ -53,9 +12,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Hope You Realize It",
-      "closing_song": "Sloe Gin"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1190",
@@ -65,9 +24,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Hope You Realize",
-      "closing_song": "Mountain Time"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1047",
@@ -77,9 +36,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Evil Mama",
-      "closing_song": "House is Rockin'"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1000",
@@ -89,9 +48,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Evil Mama",
-      "closing_song": "Crossroads Blues"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "960",
@@ -101,9 +60,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Evil Mama",
-      "closing_song": "Mountain Time"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "902",
@@ -113,9 +72,9 @@
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Tiger in Your Tank",
-      "closing_song": "Mountain Time"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "790",
@@ -125,9 +84,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Oh Beuatiful/Rice Pudding",
-      "closing_song": "Hummingbird"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "733",
@@ -137,9 +96,9 @@
       "venue": "Bushnell Center for the Performing Arts",
       "city": "Hartford",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "This Train",
-      "closing_song": "Hummingbird"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "668",
@@ -149,9 +108,9 @@
       "venue": "Carnegie Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "This Train",
-      "closing_song": "The Rose"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "538",
@@ -161,9 +120,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Seagull",
-      "closing_song": "Just Got Paid"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "492",
@@ -173,9 +132,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Slow Train",
-      "closing_song": "Just Got Paid"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "472",
@@ -186,8 +145,8 @@
       "city": "Westbury",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Cradle Rock",
-      "closing_song": "Just Got Paid"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "454",
@@ -197,9 +156,9 @@
       "venue": "Stamford Center for the Arts",
       "city": "Stamford",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "Cradle Rock",
-      "closing_song": "Just Got Paid"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

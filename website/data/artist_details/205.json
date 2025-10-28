@@ -13,8 +13,8 @@
       "city": "Queens",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Magical Mystery Tour",
-      "closing_song": "Hey Bulldog"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "293",
@@ -25,8 +25,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "It Don't Come easy",
-      "closing_song": "I am the Walrus"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

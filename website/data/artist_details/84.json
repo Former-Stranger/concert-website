@@ -2,48 +2,7 @@
   "id": "84",
   "name": "Brian Fallon",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Atlantic City",
-      "times_played": 1
-    },
-    {
-      "name": "Top Shelf Drug",
-      "times_played": 1
-    },
-    {
-      "name": "Tell My Mother I Miss Her So",
-      "times_played": 1
-    },
-    {
-      "name": "Depression",
-      "times_played": 1
-    },
-    {
-      "name": "Bluebird",
-      "times_played": 1
-    },
-    {
-      "name": "The Poet",
-      "times_played": 1
-    },
-    {
-      "name": "Dublin Blues",
-      "times_played": 1
-    },
-    {
-      "name": "Nobody Knows My Trouble",
-      "times_played": 1
-    },
-    {
-      "name": "Whipping Post",
-      "times_played": 1
-    },
-    {
-      "name": "My Diamond Is Too Rough",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "724",
@@ -53,9 +12,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Atlantic City ",
-      "closing_song": "Handle with Care"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -2,48 +2,7 @@
   "id": "662",
   "name": "the Coral Reefer Band with Huey Lewis",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Workin' N' Playin'",
-      "times_played": 4
-    },
-    {
-      "name": "Changes in Latitudes, Changes in Attitudes",
-      "times_played": 2
-    },
-    {
-      "name": "License to Chill",
-      "times_played": 2
-    },
-    {
-      "name": "Son of a Son of a Sailor",
-      "times_played": 2
-    },
-    {
-      "name": "Come Monday",
-      "times_played": 2
-    },
-    {
-      "name": "It's Five O'Clock Somewhere",
-      "times_played": 2
-    },
-    {
-      "name": "Blue Guitar",
-      "times_played": 2
-    },
-    {
-      "name": "Volcano",
-      "times_played": 2
-    },
-    {
-      "name": "Why Don't We Get Drunk",
-      "times_played": 2
-    },
-    {
-      "name": "One Particular Harbour",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "666",
@@ -53,9 +12,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "HL:  Heart of Rock $ Roll         JB: Changes in Latitudes",
-      "closing_song": "HL:  Working for a Living          JB: Fruitecakes/Lovely Cruise"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "646",
@@ -65,9 +24,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Ragtop Day",
-      "closing_song": "Brown Eyed Girl"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

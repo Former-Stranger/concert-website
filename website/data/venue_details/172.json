@@ -11,9 +11,9 @@
       "date": "2016-06-16",
       "festival_name": null,
       "artists": "Hall & Oates",
-      "has_setlist": true,
-      "opening_song": "Maneater",
-      "closing_song": "Private Eyes"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "234",
@@ -21,9 +21,9 @@
       "date": "2005-07-20",
       "festival_name": null,
       "artists": "Bruce Springsteen",
-      "has_setlist": true,
-      "opening_song": "Into the Fire",
-      "closing_song": "Dream Baby Dream"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "201",
@@ -31,9 +31,9 @@
       "date": "2004-04-27",
       "festival_name": null,
       "artists": "Elton John",
-      "has_setlist": true,
-      "opening_song": "Bitch is BAck",
-      "closing_song": "Your Song"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -2,48 +2,7 @@
   "id": "441",
   "name": "Queen + Paul Rodgers",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Reaching Out",
-      "times_played": 2
-    },
-    {
-      "name": "Tie Your Mother Down",
-      "times_played": 2
-    },
-    {
-      "name": "Fat Bottomed Girls",
-      "times_played": 2
-    },
-    {
-      "name": "Another One Bites the Dust",
-      "times_played": 2
-    },
-    {
-      "name": "Crazy Little Thing Called Love",
-      "times_played": 2
-    },
-    {
-      "name": "Bad Company",
-      "times_played": 2
-    },
-    {
-      "name": "Love of My Life",
-      "times_played": 2
-    },
-    {
-      "name": "Hammer to Fall",
-      "times_played": 2
-    },
-    {
-      "name": "Feel Like Makin' Love",
-      "times_played": 2
-    },
-    {
-      "name": "Let There Be Drums",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "255",
@@ -53,9 +12,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Reaching Out/Tie Your Mother Down",
-      "closing_song": "We Are the Champions"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "242",
@@ -65,9 +24,9 @@
       "venue": "Continental Airlines Arena",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Reaching Out/Tie Your Mother Down",
-      "closing_song": "We Are The Champions"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

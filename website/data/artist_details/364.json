@@ -2,48 +2,7 @@
   "id": "364",
   "name": "Mac McAnally",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Son of a Son of a Sailor",
-      "times_played": 1
-    },
-    {
-      "name": "Blame It on New Orleans",
-      "times_played": 1
-    },
-    {
-      "name": "Somewhere Over the Rainbow/Grapefruit-Juicy Fruit",
-      "times_played": 1
-    },
-    {
-      "name": "Trying to Reason With Hurricane Season",
-      "times_played": 1
-    },
-    {
-      "name": "This Time",
-      "times_played": 1
-    },
-    {
-      "name": "Meanwhile",
-      "times_played": 1
-    },
-    {
-      "name": "Down the Road",
-      "times_played": 1
-    },
-    {
-      "name": "Pirates & Parrots",
-      "times_played": 1
-    },
-    {
-      "name": "The Opposite of Love",
-      "times_played": 1
-    },
-    {
-      "name": "Come Monday",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1218",
@@ -53,9 +12,9 @@
       "venue": "Sony Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Son of a Son of a Sailor",
-      "closing_song": "Pirate Looks at 40"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1132",
@@ -66,8 +25,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "City of New Orleans",
-      "closing_song": "Pirate Looks at 40"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

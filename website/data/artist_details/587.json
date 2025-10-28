@@ -2,48 +2,7 @@
   "id": "587",
   "name": "The Who",
   "concert_count": 12,
-  "top_songs": [
-    {
-      "name": "Who Are You",
-      "times_played": 10
-    },
-    {
-      "name": "Won't Get Fooled Again",
-      "times_played": 10
-    },
-    {
-      "name": "Behind Blue Eyes",
-      "times_played": 10
-    },
-    {
-      "name": "Baba O'Riley",
-      "times_played": 10
-    },
-    {
-      "name": "Pinball Wizard",
-      "times_played": 9
-    },
-    {
-      "name": "Love, Reign O'er Me",
-      "times_played": 8
-    },
-    {
-      "name": "Amazing Journey",
-      "times_played": 7
-    },
-    {
-      "name": "Sparks",
-      "times_played": 7
-    },
-    {
-      "name": "You Better You Bet",
-      "times_played": 7
-    },
-    {
-      "name": "Eminence Front",
-      "times_played": 6
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1023",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Overture/1921",
-      "closing_song": "Baba O'Reilly"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "914",
@@ -65,9 +24,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Overture",
-      "closing_song": "Baba O'Reilly"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "677",
@@ -77,9 +36,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Who: Who Are You        JJ: Bad Reputation",
-      "closing_song": "Who: Won't Get Fooled Again      JJ: I Hate MySelf For Loving You"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "624",
@@ -89,9 +48,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "I Can't Explain",
-      "closing_song": "Won't Get Fooled Again"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "530",
@@ -101,9 +60,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Bruce: Land of Hope and Dreams",
-      "closing_song": "McCartney: Live and Let Die and Alicia Keys New York"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "288",
@@ -114,8 +73,8 @@
       "city": "Bridgeport",
       "state": "CT",
       "has_setlist": false,
-      "opening_song": "Can't Explain",
-      "closing_song": "Tea for Two"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "278",
@@ -125,9 +84,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Can't Explain",
-      "closing_song": "Tea for Two"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "202",
@@ -137,9 +96,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "I Can't Explain",
-      "closing_song": "Magic Bus"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "167",
@@ -149,9 +108,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Who: Can't Explain\nRP: Dreamland",
-      "closing_song": "Who: See Me, Feel Me\nRP: Whole Lotta Love"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "145",
@@ -161,9 +120,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "David Bowie: America",
-      "closing_song": "Paul Mccartney: Freedom"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "120",
@@ -173,9 +132,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Who: Can't Explain\nWall: Sleepwalker",
-      "closing_song": "Who: My Generation\nWall: The Difference"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "24",
@@ -185,9 +144,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "The Real Me",
-      "closing_song": "Won't Get Fooled Again"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

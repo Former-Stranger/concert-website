@@ -2,48 +2,7 @@
   "id": "572",
   "name": "The Eagles",
   "concert_count": 5,
-  "top_songs": [
-    {
-      "name": "Hotel California",
-      "times_played": 5
-    },
-    {
-      "name": "Peaceful Easy Feeling",
-      "times_played": 5
-    },
-    {
-      "name": "I Can't Tell You Why",
-      "times_played": 5
-    },
-    {
-      "name": "Lyin' Eyes",
-      "times_played": 5
-    },
-    {
-      "name": "Funk #49",
-      "times_played": 5
-    },
-    {
-      "name": "Life's Been Good",
-      "times_played": 5
-    },
-    {
-      "name": "Heartache Tonight",
-      "times_played": 5
-    },
-    {
-      "name": "Life in the Fast Lane",
-      "times_played": 5
-    },
-    {
-      "name": "Rocky Mountain Way",
-      "times_played": 5
-    },
-    {
-      "name": "Desperado",
-      "times_played": 5
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1020",
@@ -53,9 +12,9 @@
       "venue": "UBS Arena",
       "city": "Elmont",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Hotel California",
-      "closing_song": "Best of My Love"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "598",
@@ -65,9 +24,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Saturday Night",
-      "closing_song": "Desperado"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "338",
@@ -77,9 +36,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "How Long",
-      "closing_song": "Desperado"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "224",
@@ -89,9 +48,9 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "The Long Run",
-      "closing_song": "Desperado"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "20",
@@ -101,9 +60,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Hotel California",
-      "closing_song": "Take it Easy"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

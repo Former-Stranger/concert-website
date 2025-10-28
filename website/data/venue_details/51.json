@@ -11,9 +11,9 @@
       "date": "1998-05-16",
       "festival_name": null,
       "artists": "Elton John",
-      "has_setlist": true,
-      "opening_song": "Funeral For a Friend",
-      "closing_song": "Your Song"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "62",
@@ -21,9 +21,9 @@
       "date": "1998-05-15",
       "festival_name": null,
       "artists": "Elton John",
-      "has_setlist": true,
-      "opening_song": "Funeral For a Friend",
-      "closing_song": "Your Song"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -2,48 +2,7 @@
   "id": "74",
   "name": "Bonnie Raitt",
   "concert_count": 4,
-  "top_songs": [
-    {
-      "name": "Why Aye Man",
-      "times_played": 1
-    },
-    {
-      "name": "Corned Beef City",
-      "times_played": 1
-    },
-    {
-      "name": "Sailing to Philadelphia",
-      "times_played": 1
-    },
-    {
-      "name": "Once Upon a Time in the West",
-      "times_played": 1
-    },
-    {
-      "name": "Romeo and Juliet",
-      "times_played": 1
-    },
-    {
-      "name": "My Bacon Roll",
-      "times_played": 1
-    },
-    {
-      "name": "Matchstick Man",
-      "times_played": 1
-    },
-    {
-      "name": "Done With Bonaparte",
-      "times_played": 1
-    },
-    {
-      "name": "Heart Full of Holes",
-      "times_played": 1
-    },
-    {
-      "name": "She's Gone",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "944",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "MK: Why Aye Man",
-      "closing_song": "MK: Going Home"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "572",
@@ -66,8 +25,8 @@
       "city": "Brooklyn",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Various",
-      "closing_song": "Various"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "403",
@@ -90,8 +49,8 @@
       "city": "Wantagh",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "BR: Real Man\nLL: Unknown",
-      "closing_song": "BR: Thing Called Love\nLL: Unknown"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -2,48 +2,7 @@
   "id": "5",
   "name": "ACDC",
   "concert_count": 3,
-  "top_songs": [
-    {
-      "name": "Hell Ain't a Bad Place to Be",
-      "times_played": 3
-    },
-    {
-      "name": "Back in Black",
-      "times_played": 3
-    },
-    {
-      "name": "Dirty Deeds Done Dirt Cheap",
-      "times_played": 3
-    },
-    {
-      "name": "Thunderstruck",
-      "times_played": 3
-    },
-    {
-      "name": "Hells Bells",
-      "times_played": 3
-    },
-    {
-      "name": "Shoot to Thrill",
-      "times_played": 3
-    },
-    {
-      "name": "You Shook Me All Night Long",
-      "times_played": 3
-    },
-    {
-      "name": "T.N.T.",
-      "times_played": 3
-    },
-    {
-      "name": "Whole Lotta Rosie",
-      "times_played": 3
-    },
-    {
-      "name": "Let There Be Rock",
-      "times_played": 3
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "648",
@@ -53,9 +12,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Rock or Bust",
-      "closing_song": "For Those About To Rock, We Salute You"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "362",
@@ -65,9 +24,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Rock and Roll Train",
-      "closing_song": "For Those About To Rock, We Salute You"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "124",
@@ -77,9 +36,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "You Shook Me All Night Long",
-      "closing_song": "For Those About to Rock"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

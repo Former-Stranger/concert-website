@@ -2,48 +2,7 @@
   "id": "430",
   "name": "Phish",
   "concert_count": 4,
-  "top_songs": [
-    {
-      "name": "Bathtub Gin",
-      "times_played": 2
-    },
-    {
-      "name": "Tube",
-      "times_played": 2
-    },
-    {
-      "name": "No Men in No Man's Land",
-      "times_played": 2
-    },
-    {
-      "name": "Gotta Jibboo",
-      "times_played": 2
-    },
-    {
-      "name": "Mike's Song",
-      "times_played": 2
-    },
-    {
-      "name": "46 Days",
-      "times_played": 2
-    },
-    {
-      "name": "Axilla, Part II",
-      "times_played": 2
-    },
-    {
-      "name": "When the Circus Comes",
-      "times_played": 2
-    },
-    {
-      "name": "Run Like an Antelope",
-      "times_played": 2
-    },
-    {
-      "name": "Down With Disease",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1228",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Simple",
-      "closing_song": "46 Days"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1104",
@@ -65,9 +24,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "ACDC Bag",
-      "closing_song": "Izabelle"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1041",
@@ -77,9 +36,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Mike's Song",
-      "closing_song": "Slave ot the Traffic Light"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "106",
@@ -89,9 +48,9 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Chalk Dust Torcher",
-      "closing_song": "Loving Cup"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

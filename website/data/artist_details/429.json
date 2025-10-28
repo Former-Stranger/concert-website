@@ -1,49 +1,8 @@
 {
   "id": "429",
-  "name": "Phil Lesh & Friends",
-  "concert_count": 9,
-  "top_songs": [
-    {
-      "name": "Mason's Children",
-      "times_played": 3
-    },
-    {
-      "name": "Doin' That Rag",
-      "times_played": 3
-    },
-    {
-      "name": "Shakedown Street",
-      "times_played": 3
-    },
-    {
-      "name": "The Weight",
-      "times_played": 2
-    },
-    {
-      "name": "Bird Song",
-      "times_played": 2
-    },
-    {
-      "name": "All Along the Watchtower",
-      "times_played": 2
-    },
-    {
-      "name": "The Low Spark of High Heeled Boys",
-      "times_played": 2
-    },
-    {
-      "name": "Viola Lee Blues",
-      "times_played": 2
-    },
-    {
-      "name": "New Speedway Boogie",
-      "times_played": 2
-    },
-    {
-      "name": "The Real Thing",
-      "times_played": 2
-    }
-  ],
+  "name": "Phil Lesh",
+  "concert_count": 5,
+  "top_songs": [],
   "concerts": [
     {
       "id": "1146",
@@ -53,9 +12,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Celebration",
-      "closing_song": "Midnight Hour"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1080",
@@ -65,33 +24,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Tennessee Jed",
-      "closing_song": "Brown-Eyed Women"
-    },
-    {
-      "id": "1034",
-      "show_number": 1033,
-      "date": "2022-07-01",
-      "festival_name": "Multi-Artist Show",
-      "venue": "Hartford HealthCare Amphitheater",
-      "city": "Bridgeport",
-      "state": "CT",
       "has_setlist": false,
-      "opening_song": "Althea",
-      "closing_song": "Midnight Hour"
-    },
-    {
-      "id": "994",
-      "show_number": 993,
-      "date": "2021-10-11",
-      "festival_name": "Multi-Artist Show",
-      "venue": "Capitol Theatre",
-      "city": "Port Chester",
-      "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Mason's Children",
-      "closing_song": "The Real Thing"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "924",
@@ -101,33 +36,9 @@
       "venue": "Fort Adams State Park",
       "city": "Newport",
       "state": "RI",
-      "has_setlist": true,
+      "has_setlist": false,
       "opening_song": null,
       "closing_song": null
-    },
-    {
-      "id": "817",
-      "show_number": 816,
-      "date": "2018-03-03",
-      "festival_name": "Multi-Artist Show",
-      "venue": "Radio City Music Hall",
-      "city": "New York",
-      "state": "NY",
-      "has_setlist": true,
-      "opening_song": "New Speedway Boogie",
-      "closing_song": "Ripple"
-    },
-    {
-      "id": "816",
-      "show_number": 815,
-      "date": "2018-03-02",
-      "festival_name": "Multi-Artist Show",
-      "venue": "Radio City Music Hall",
-      "city": "New York",
-      "state": "NY",
-      "has_setlist": false,
-      "opening_song": "Uncle John's Band",
-      "closing_song": "Box of Rain"
     },
     {
       "id": "695",
@@ -137,9 +48,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Franklin's Tower",
-      "closing_song": "Going Down the Road"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "253",
@@ -149,9 +60,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Passenger",
-      "closing_song": "I Am The Walrus"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -2,48 +2,7 @@
   "id": "372",
   "name": "Mark Knopfler",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Why Aye Man",
-      "times_played": 1
-    },
-    {
-      "name": "Corned Beef City",
-      "times_played": 1
-    },
-    {
-      "name": "Sailing to Philadelphia",
-      "times_played": 1
-    },
-    {
-      "name": "Once Upon a Time in the West",
-      "times_played": 1
-    },
-    {
-      "name": "Romeo and Juliet",
-      "times_played": 1
-    },
-    {
-      "name": "My Bacon Roll",
-      "times_played": 1
-    },
-    {
-      "name": "Matchstick Man",
-      "times_played": 1
-    },
-    {
-      "name": "Done With Bonaparte",
-      "times_played": 1
-    },
-    {
-      "name": "Heart Full of Holes",
-      "times_played": 1
-    },
-    {
-      "name": "She's Gone",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "944",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "MK: Why Aye Man",
-      "closing_song": "MK: Going Home"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

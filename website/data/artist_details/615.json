@@ -2,48 +2,7 @@
   "id": "615",
   "name": "Tyler Childers",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "I Swear (to God)",
-      "times_played": 2
-    },
-    {
-      "name": "Country Squire",
-      "times_played": 2
-    },
-    {
-      "name": "All Your'n",
-      "times_played": 2
-    },
-    {
-      "name": "Purgatory",
-      "times_played": 2
-    },
-    {
-      "name": "Cluck Old Hen",
-      "times_played": 2
-    },
-    {
-      "name": "Nose on the Grindstone",
-      "times_played": 2
-    },
-    {
-      "name": "Follow You to Virgie",
-      "times_played": 2
-    },
-    {
-      "name": "Lady May",
-      "times_played": 2
-    },
-    {
-      "name": "In Your Love",
-      "times_played": 2
-    },
-    {
-      "name": "The Old Country Church",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1168",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Creeker",
-      "closing_song": "Heart You've Been Tending"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1105",
@@ -65,9 +24,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Lady May",
-      "closing_song": "Sour Mash "
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -2,48 +2,7 @@
   "id": "196",
   "name": "Emmylou Harris",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Here I Am",
-      "times_played": 1
-    },
-    {
-      "name": "Orphan Girl",
-      "times_played": 1
-    },
-    {
-      "name": "Love and Happiness",
-      "times_played": 1
-    },
-    {
-      "name": "Red Dirt Girl",
-      "times_played": 1
-    },
-    {
-      "name": "Get Up John",
-      "times_played": 1
-    },
-    {
-      "name": "Green Pastures",
-      "times_played": 1
-    },
-    {
-      "name": "Pancho & Lefty",
-      "times_played": 1
-    },
-    {
-      "name": "Wheels",
-      "times_played": 1
-    },
-    {
-      "name": "Luxury Liner",
-      "times_played": 1
-    },
-    {
-      "name": "Michelangelo",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1149",
@@ -53,9 +12,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Here I Am",
-      "closing_song": "Boulder to Birmingham"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -11,9 +11,9 @@
       "date": "2016-07-09",
       "festival_name": null,
       "artists": "Garth Brooks",
-      "has_setlist": true,
-      "opening_song": "Rodeo",
-      "closing_song": "Standing Outside the Fire"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "703",
@@ -21,9 +21,9 @@
       "date": "2016-07-08",
       "festival_name": null,
       "artists": "Garth Brooks",
-      "has_setlist": true,
-      "opening_song": "Ain't Going Down Until the Sun Comes Up",
-      "closing_song": "Piano Man"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "484",
@@ -31,9 +31,9 @@
       "date": "2011-07-16",
       "festival_name": null,
       "artists": "Paul McCartney",
-      "has_setlist": true,
-      "opening_song": "Magical Mystery Tour",
-      "closing_song": "Carry that Weight"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "483",
@@ -41,9 +41,9 @@
       "date": "2011-07-15",
       "festival_name": null,
       "artists": "Paul McCartney",
-      "has_setlist": true,
-      "opening_song": "Hello, Goodbye",
-      "closing_song": "Carry that Weight"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

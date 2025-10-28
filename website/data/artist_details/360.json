@@ -2,48 +2,7 @@
   "id": "360",
   "name": "Lyle Lovett",
   "concert_count": 16,
-  "top_songs": [
-    {
-      "name": "If I Had a Boat",
-      "times_played": 7
-    },
-    {
-      "name": "She's No Lady",
-      "times_played": 6
-    },
-    {
-      "name": "My Baby Don't Tolerate",
-      "times_played": 5
-    },
-    {
-      "name": "Here I Am",
-      "times_played": 4
-    },
-    {
-      "name": "Church",
-      "times_played": 4
-    },
-    {
-      "name": "White Boy Lost in the Blues",
-      "times_played": 4
-    },
-    {
-      "name": "Thing Called Love",
-      "times_played": 4
-    },
-    {
-      "name": "Cowboy Man",
-      "times_played": 3
-    },
-    {
-      "name": "That's Right (You're Not From Texas)",
-      "times_played": 3
-    },
-    {
-      "name": "North Dakota",
-      "times_played": 3
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1271",
@@ -53,9 +12,9 @@
       "venue": "Caramoor Center for Music and the Arts",
       "city": "Katonah",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Blues Walk/Pass Me No, O Gentle Savior",
-      "closing_song": "That's Right (You're Not from Texas)"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "925",
@@ -66,8 +25,8 @@
       "city": "Ridgefield",
       "state": "CT",
       "has_setlist": false,
-      "opening_song": "Blues Walk",
-      "closing_song": "Church"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "896",
@@ -77,9 +36,9 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Real Fine Love / Once is Enough",
-      "closing_song": "Memphis / 12th of June"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "818",
@@ -90,8 +49,8 @@
       "city": "Huntington",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Brown Eyed Handsome Man",
-      "closing_song": "Church"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "797",
@@ -101,9 +60,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "JH: Master of Disaster     LL:  Once is Enough",
-      "closing_song": "JH:  Have a Little Faith     LL: She's No Lady"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "774",
@@ -113,9 +72,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Walkin' Blues",
-      "closing_song": "Pass Me O' Saviour"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "740",
@@ -126,8 +85,8 @@
       "city": "Ridgefield",
       "state": "CT",
       "has_setlist": false,
-      "opening_song": "JH: Open Road  LL: White Man Lost in Blues",
-      "closing_song": "JH: Have a Little Faith    LL: Simple Song"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "642",
@@ -138,8 +97,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Band Jammed",
-      "closing_song": "Willisville Road"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "620",
@@ -149,9 +108,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Lift Up Every Stone/Church",
-      "closing_song": "Slow Turning/Step Inside This House"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "593",
@@ -174,8 +133,8 @@
       "city": "Tarrytown",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Buffalo River Home (Hiatt)",
-      "closing_song": "My Baby Don't Tolerate (Lyle)"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "545",
@@ -185,9 +144,9 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Up in Indiana",
-      "closing_song": "Closing Time"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "500",
@@ -198,8 +157,8 @@
       "city": "Tarrytown",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Babes in the Woods",
-      "closing_song": "You Can't Resist It"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "404",
@@ -210,8 +169,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Sun, Moon and Stars",
-      "closing_song": "Nobody Knows Me"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "370",
@@ -221,9 +180,9 @@
       "venue": "Morristown Theater",
       "city": "Morristown",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Wintertime Blues",
-      "closing_song": "This Old Porch"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "164",
@@ -234,8 +193,8 @@
       "city": "Wantagh",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "BR: Real Man\nLL: Unknown",
-      "closing_song": "BR: Thing Called Love\nLL: Unknown"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -11,9 +11,9 @@
       "date": "2023-07-05",
       "festival_name": null,
       "artists": "Neil Young",
-      "has_setlist": true,
-      "opening_song": "I'm the Ocean",
-      "closing_song": "Four Strong Winds"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "852",
@@ -21,9 +21,9 @@
       "date": "2018-08-17",
       "festival_name": null,
       "artists": "The Beach Boys",
-      "has_setlist": true,
-      "opening_song": "Do it Again",
-      "closing_song": "Fun, Fun, Fun"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

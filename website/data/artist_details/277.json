@@ -2,48 +2,7 @@
   "id": "277",
   "name": "Jimmy Buffett",
   "concert_count": 22,
-  "top_songs": [
-    {
-      "name": "Volcano",
-      "times_played": 15
-    },
-    {
-      "name": "Margaritaville",
-      "times_played": 15
-    },
-    {
-      "name": "Fins",
-      "times_played": 15
-    },
-    {
-      "name": "It's Five O'Clock Somewhere",
-      "times_played": 14
-    },
-    {
-      "name": "Changes in Latitudes, Changes in Attitudes",
-      "times_played": 14
-    },
-    {
-      "name": "One Particular Harbour",
-      "times_played": 14
-    },
-    {
-      "name": "Brown Eyed Girl",
-      "times_played": 14
-    },
-    {
-      "name": "Cheeseburger in Paradise",
-      "times_played": 14
-    },
-    {
-      "name": "Come Monday",
-      "times_played": 14
-    },
-    {
-      "name": "Son of a Son of a Sailor",
-      "times_played": 14
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "979",
@@ -53,9 +12,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Down at the La Te Da",
-      "closing_song": "Book on the Shelf"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "930",
@@ -65,9 +24,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "License to Chill",
-      "closing_song": "Tin Cup Chalice"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "846",
@@ -77,9 +36,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Livingston Saturday Night",
-      "closing_song": "Lovely Cruise"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "777",
@@ -89,9 +48,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Changes in Latitudes",
-      "closing_song": "One Particular Harbour/Love and Luck/3 Little Birds"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "716",
@@ -101,9 +60,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Summerzcool",
-      "closing_song": "Brown Eyed Girl"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "666",
@@ -113,9 +72,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "HL:  Heart of Rock $ Roll         JB: Changes in Latitudes",
-      "closing_song": "HL:  Working for a Living          JB: Fruitecakes/Lovely Cruise"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "646",
@@ -125,9 +84,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Ragtop Day",
-      "closing_song": "Brown Eyed Girl"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "391",
@@ -138,8 +97,8 @@
       "city": "Wantagh",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Lago Ai Noi",
-      "closing_song": "He Went to Paris"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "592",
@@ -150,8 +109,8 @@
       "city": "Wantagh",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Summertime Blues",
-      "closing_song": "Lovely Cruise"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "552",
@@ -161,9 +120,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Brown Eyed Girl",
-      "closing_song": "Tin Cup Chalice"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "551",
@@ -173,9 +132,9 @@
       "venue": "Today Show Plaza at Rockefeller Center",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Margaritaville",
-      "closing_song": "Too Drunk to Karaoke"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "515",
@@ -185,9 +144,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "One Particular Harbor",
-      "closing_song": "Lovely Cruise"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "488",
@@ -197,9 +156,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Whino and I Know",
-      "closing_song": "Last Man Standing"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "442",
@@ -209,9 +168,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Nobody from Nowhere",
-      "closing_song": "Coast(Gulf) is Clear"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "358",
@@ -221,9 +180,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Homemade Music",
-      "closing_song": "Oysters and Pearls"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "342",
@@ -233,9 +192,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Homemade Music",
-      "closing_song": "Glory Days"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "317",
@@ -245,9 +204,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "On the Road Again",
-      "closing_song": "Glory Days"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "277",
@@ -258,8 +217,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Brown Eyed Girl",
-      "closing_song": "Pirate Looks at 40"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "266",
@@ -270,8 +229,8 @@
       "city": "Wantagh",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Piece of Work",
-      "closing_song": "Brown Eyed Girl"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "213",
@@ -282,8 +241,8 @@
       "city": "Wantagh",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Changes in Latitudes",
-      "closing_song": "Back to the Island"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "113",
@@ -294,8 +253,8 @@
       "city": "Southampton",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Stars on the Water",
-      "closing_song": "Pirate Looks at 40"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "78",
@@ -306,8 +265,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Kinja",
-      "closing_song": "Time to Go Home"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

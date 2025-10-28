@@ -2,24 +2,7 @@
   "id": "529",
   "name": "Stand Up for Heroes:  Bruce Springsteen, Norah Jones",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "The Power of Prayer",
-      "times_played": 1
-    },
-    {
-      "name": "Land of Hope and Dreams",
-      "times_played": 1
-    },
-    {
-      "name": "Dancing in the Dark",
-      "times_played": 1
-    },
-    {
-      "name": "Long Walk Home",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1215",
@@ -29,9 +12,9 @@
       "venue": "Lincoln Center",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Power of Prayer",
-      "closing_song": "Long Walk Home"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

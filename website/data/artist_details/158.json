@@ -2,48 +2,7 @@
   "id": "158",
   "name": "David Gray",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Birds of the High Arctic",
-      "times_played": 1
-    },
-    {
-      "name": "Back in the World",
-      "times_played": 1
-    },
-    {
-      "name": "Mutineers",
-      "times_played": 1
-    },
-    {
-      "name": "My Oh My",
-      "times_played": 1
-    },
-    {
-      "name": "Slow Motion",
-      "times_played": 1
-    },
-    {
-      "name": "Nightblindness",
-      "times_played": 1
-    },
-    {
-      "name": "Snow in Vegas",
-      "times_played": 1
-    },
-    {
-      "name": "Dancing With Both Feet off the Ground",
-      "times_played": 1
-    },
-    {
-      "name": "Babylon",
-      "times_played": 1
-    },
-    {
-      "name": "Fugitive",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "628",
@@ -53,9 +12,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "AL: Windows       DG: Birds of High Arctic",
-      "closing_song": "AL:              DG:"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

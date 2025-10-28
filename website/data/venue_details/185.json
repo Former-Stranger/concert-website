@@ -12,8 +12,8 @@
       "festival_name": null,
       "artists": "Doobie Brothers (Peter Wolf)",
       "has_setlist": false,
-      "opening_song": "Rockin' Down the Highway",
-      "closing_song": "Listen to the Music"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "917",
@@ -21,9 +21,9 @@
       "date": "2019-06-20",
       "festival_name": "Multi-Artist Show",
       "artists": "YES, Asia, John Lodge, Carl Palmer",
-      "has_setlist": true,
-      "opening_song": "No Opportunity Necessary",
-      "closing_song": "Roundabout"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "2",

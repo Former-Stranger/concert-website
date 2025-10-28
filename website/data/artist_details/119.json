@@ -2,48 +2,7 @@
   "id": "119",
   "name": "Chris Stapleton",
   "concert_count": 6,
-  "top_songs": [
-    {
-      "name": "Midnight Train to Memphis",
-      "times_played": 6
-    },
-    {
-      "name": "Nobody to Blame",
-      "times_played": 6
-    },
-    {
-      "name": "Parachute",
-      "times_played": 6
-    },
-    {
-      "name": "Second One to Know",
-      "times_played": 6
-    },
-    {
-      "name": "Hard Livin'",
-      "times_played": 6
-    },
-    {
-      "name": "Might as Well Get Stoned",
-      "times_played": 6
-    },
-    {
-      "name": "Fire Away",
-      "times_played": 6
-    },
-    {
-      "name": "Broken Halos",
-      "times_played": 6
-    },
-    {
-      "name": "Tennessee Whiskey",
-      "times_played": 6
-    },
-    {
-      "name": "Traveller",
-      "times_played": 6
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1269",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Bad as I Used to Be",
-      "closing_song": "Outlaw State of Mind"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1262",
@@ -65,9 +24,9 @@
       "venue": "MVP Arena",
       "city": "Albany",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Bad as I Used to Be",
-      "closing_song": "Outlaw State of Mind"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1050",
@@ -77,9 +36,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Nobody to Blame",
-      "closing_song": "Outlaw State of Mind"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "993",
@@ -89,9 +48,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Nobody to Blame",
-      "closing_song": "Outlaw State of Mind"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "879",
@@ -101,9 +60,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Midnight Train to Memphis",
-      "closing_song": "Outlaw State of Mind"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "767",
@@ -113,9 +72,9 @@
       "venue": "Xfinity Theatre",
       "city": "Hartford",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "Might As Well Get Stoned",
-      "closing_song": "Without Your Love"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -12,8 +12,8 @@
       "festival_name": null,
       "artists": "Garth Brooks",
       "has_setlist": false,
-      "opening_song": "Much Too Young",
-      "closing_song": "The Dance"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "408",
@@ -22,8 +22,8 @@
       "festival_name": null,
       "artists": "Paul Simon",
       "has_setlist": false,
-      "opening_song": "Me & Julio ",
-      "closing_song": "The Boxer"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "360",
@@ -41,9 +41,9 @@
       "date": "2007-11-09",
       "festival_name": null,
       "artists": "Bruce Springsteen",
-      "has_setlist": true,
-      "opening_song": "California Sun",
-      "closing_song": "Glory Days"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

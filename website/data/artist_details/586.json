@@ -2,48 +2,7 @@
   "id": "586",
   "name": "The Wallflowers",
   "concert_count": 4,
-  "top_songs": [
-    {
-      "name": "Maybe Your Heart's Not in It No More",
-      "times_played": 2
-    },
-    {
-      "name": "Move the River",
-      "times_played": 2
-    },
-    {
-      "name": "6th Avenue Heartache",
-      "times_played": 2
-    },
-    {
-      "name": "Roots and Wings",
-      "times_played": 2
-    },
-    {
-      "name": "I've Been Delivered",
-      "times_played": 2
-    },
-    {
-      "name": "I'll Let You Down (But Will Not Give You Up)",
-      "times_played": 2
-    },
-    {
-      "name": "One Headlight",
-      "times_played": 2
-    },
-    {
-      "name": "Who's That Man Walking 'Round My Garden",
-      "times_played": 2
-    },
-    {
-      "name": "The Difference",
-      "times_played": 2
-    },
-    {
-      "name": "The Passenger",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1091",
@@ -53,9 +12,9 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "Maybe Your Hearts Not In It Anymore",
-      "closing_song": "The Difference"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "998",
@@ -65,9 +24,9 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "Maybe Your Hearts Not In It Anymore",
-      "closing_song": "The Difference"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "120",
@@ -77,9 +36,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Who: Can't Explain\nWall: Sleepwalker",
-      "closing_song": "Who: My Generation\nWall: The Difference"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "52",
@@ -90,8 +49,8 @@
       "city": "Waterford",
       "state": "CT",
       "has_setlist": false,
-      "opening_song": "Tonights the Night",
-      "closing_song": "Ain't Ever Comin' Back"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

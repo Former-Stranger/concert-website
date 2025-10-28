@@ -2,48 +2,7 @@
   "id": "142",
   "name": "Crosby",
   "concert_count": 5,
-  "top_songs": [
-    {
-      "name": "Carry On",
-      "times_played": 4
-    },
-    {
-      "name": "Almost Cut My Hair",
-      "times_played": 4
-    },
-    {
-      "name": "Helplessly Hoping",
-      "times_played": 4
-    },
-    {
-      "name": "Our House",
-      "times_played": 4
-    },
-    {
-      "name": "Guinnevere",
-      "times_played": 4
-    },
-    {
-      "name": "Rockin' in the Free World",
-      "times_played": 4
-    },
-    {
-      "name": "Southern Man",
-      "times_played": 3
-    },
-    {
-      "name": "Cinnamon Girl",
-      "times_played": 3
-    },
-    {
-      "name": "Old Man",
-      "times_played": 3
-    },
-    {
-      "name": "Teach Your Children",
-      "times_played": 3
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "359",
@@ -53,9 +12,9 @@
       "venue": "SUNY Purchase",
       "city": "Purchase",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Used to Be King",
-      "closing_song": "Teach Your Children"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "275",
@@ -65,9 +24,9 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Flags of Freedom",
-      "closing_song": "Rockin in the Free World"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "152",
@@ -77,9 +36,9 @@
       "venue": "XL Center",
       "city": "Hartford",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "Carry On",
-      "closing_song": "Long May You Run"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "101",
@@ -89,9 +48,9 @@
       "venue": "XL Center",
       "city": "Hartford",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "Carry On",
-      "closing_song": "Long May You Run"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "98",
@@ -101,9 +60,9 @@
       "venue": "Ice Arena Tampa, FL",
       "city": "Tampa Bay",
       "state": "FL",
-      "has_setlist": true,
-      "opening_song": "Carry On",
-      "closing_song": "Long May You Run"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

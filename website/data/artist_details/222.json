@@ -2,48 +2,7 @@
   "id": "222",
   "name": "Garth Brooks",
   "concert_count": 4,
-  "top_songs": [
-    {
-      "name": "Rodeo",
-      "times_played": 2
-    },
-    {
-      "name": "Two Pi\u00f1a Coladas",
-      "times_played": 2
-    },
-    {
-      "name": "That Summer",
-      "times_played": 2
-    },
-    {
-      "name": "The River",
-      "times_played": 2
-    },
-    {
-      "name": "The Thunder Rolls",
-      "times_played": 2
-    },
-    {
-      "name": "Papa Loved Mama",
-      "times_played": 2
-    },
-    {
-      "name": "In Another's Eyes",
-      "times_played": 2
-    },
-    {
-      "name": "When Will I Be Loved",
-      "times_played": 2
-    },
-    {
-      "name": "How Do I Live",
-      "times_played": 2
-    },
-    {
-      "name": "She's in Love With the Boy",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "747",
@@ -54,8 +13,8 @@
       "city": "Albany",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Baby, Let's Lay Down and Dance",
-      "closing_song": "Standing Outside the Fire"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "704",
@@ -65,9 +24,9 @@
       "venue": "Yankee Stadium",
       "city": "Bronx",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Rodeo",
-      "closing_song": "Standing Outside the Fire"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "703",
@@ -77,9 +36,9 @@
       "venue": "Yankee Stadium",
       "city": "Bronx",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Ain't Going Down Until the Sun Comes Up",
-      "closing_song": "Piano Man"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "453",
@@ -90,8 +49,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Much Too Young",
-      "closing_song": "The Dance"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

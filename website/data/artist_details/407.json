@@ -2,48 +2,7 @@
   "id": "407",
   "name": "Oasis",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Morning Glory",
-      "times_played": 2
-    },
-    {
-      "name": "Cigarettes & Alcohol",
-      "times_played": 2
-    },
-    {
-      "name": "Champagne Supernova",
-      "times_played": 2
-    },
-    {
-      "name": "Don't Look Back in Anger",
-      "times_played": 2
-    },
-    {
-      "name": "Go Let It Out",
-      "times_played": 1
-    },
-    {
-      "name": "Columbia",
-      "times_played": 1
-    },
-    {
-      "name": "Fade Away",
-      "times_played": 1
-    },
-    {
-      "name": "Acquiesce",
-      "times_played": 1
-    },
-    {
-      "name": "Gas Panic!",
-      "times_played": 1
-    },
-    {
-      "name": "Step Out",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "232",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Turn Up the Sun",
-      "closing_song": "My Generation"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "128",
@@ -65,9 +24,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "BC: Midnight from Inside Out\nOasis: Go Let It Out",
-      "closing_song": "BC: I Dig Love\nOasis: I am the Walrus"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -2,48 +2,7 @@
   "id": "424",
   "name": "Peter Frampton",
   "concert_count": 5,
-  "top_songs": [
-    {
-      "name": "Lines on My Face",
-      "times_played": 4
-    },
-    {
-      "name": "Show Me the Way",
-      "times_played": 4
-    },
-    {
-      "name": "Baby, I Love Your Way",
-      "times_played": 4
-    },
-    {
-      "name": "All I Wanna Be (Is by Your Side)",
-      "times_played": 4
-    },
-    {
-      "name": "Black Hole Sun",
-      "times_played": 4
-    },
-    {
-      "name": "(I'll Give You) Money",
-      "times_played": 4
-    },
-    {
-      "name": "Do You Feel Like We Do",
-      "times_played": 4
-    },
-    {
-      "name": "Four Day Creep",
-      "times_played": 4
-    },
-    {
-      "name": "While My Guitar Gently Weeps",
-      "times_played": 4
-    },
-    {
-      "name": "Lying",
-      "times_played": 3
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1246",
@@ -53,9 +12,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Day in the Sun",
-      "closing_song": "While My Guitar Gently Weeps"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1100",
@@ -65,9 +24,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Lying",
-      "closing_song": "While My Guitar Gently Weeps"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "941",
@@ -77,9 +36,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Something's Happening",
-      "closing_song": "While My Guitar Gently Weeps"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "501",
@@ -89,7 +48,7 @@
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
       "state": "NY",
-      "has_setlist": true,
+      "has_setlist": false,
       "opening_song": null,
       "closing_song": null
     },
@@ -102,8 +61,8 @@
       "city": "Las Vegas",
       "state": "NV",
       "has_setlist": false,
-      "opening_song": "Singed,Sealed Delivered",
-      "closing_song": "While My Guitar Gently Weeps"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

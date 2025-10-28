@@ -2,48 +2,7 @@
   "id": "357",
   "name": "Luke Combs",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Honky Tonk Highway",
-      "times_played": 2
-    },
-    {
-      "name": "When It Rains It Pours",
-      "times_played": 2
-    },
-    {
-      "name": "Houston, We Got a Problem",
-      "times_played": 2
-    },
-    {
-      "name": "One Number Away",
-      "times_played": 2
-    },
-    {
-      "name": "Beautiful Crazy",
-      "times_played": 2
-    },
-    {
-      "name": "She Got the Best of Me",
-      "times_played": 2
-    },
-    {
-      "name": "Hurricane",
-      "times_played": 2
-    },
-    {
-      "name": "Beer Never Broke My Heart",
-      "times_played": 2
-    },
-    {
-      "name": "Cold as You",
-      "times_played": 1
-    },
-    {
-      "name": "1, 2 Many",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1002",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Cold As You",
-      "closing_song": "Beer Never Broke My Heart"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "849",
@@ -65,9 +24,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "JA: Getting Warmed Up      LC: Beer Never Broke",
-      "closing_song": "JA: Crazy Town      LC: Hurricane"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

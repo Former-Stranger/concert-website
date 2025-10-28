@@ -2,48 +2,7 @@
   "id": "10",
   "name": "Aerosmith",
   "concert_count": 9,
-  "top_songs": [
-    {
-      "name": "Sweet Emotion",
-      "times_played": 5
-    },
-    {
-      "name": "Cryin'",
-      "times_played": 4
-    },
-    {
-      "name": "Dream On",
-      "times_played": 4
-    },
-    {
-      "name": "Livin' on the Edge",
-      "times_played": 4
-    },
-    {
-      "name": "Walk This Way",
-      "times_played": 4
-    },
-    {
-      "name": "Love in an Elevator",
-      "times_played": 4
-    },
-    {
-      "name": "I Don't Want to Miss a Thing",
-      "times_played": 3
-    },
-    {
-      "name": "Last Child",
-      "times_played": 3
-    },
-    {
-      "name": "The Train Kept A-Rollin'",
-      "times_played": 3
-    },
-    {
-      "name": "Janie's Got a Gun",
-      "times_played": 3
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1113",
@@ -53,9 +12,9 @@
       "venue": "UBS Arena",
       "city": "Elmont",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "BC:  No Speak  Aerosmith:  Back in Saddle",
-      "closing_song": "BC:  Remedy   Aerosmith:  Walk this Way"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "851",
@@ -65,9 +24,9 @@
       "venue": "Today Show Plaza at Rockefeller Center",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Love in a Elevator",
-      "closing_song": "Sweet Emotion"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "586",
@@ -77,9 +36,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Back in the Saddle",
-      "closing_song": "Sweet emotion"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "289",
@@ -89,9 +48,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Toys in the Attic",
-      "closing_song": "Walk This Way"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "196",
@@ -101,9 +60,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "KISS: Detroit Rock City\nAerosmith: Mama Kin",
-      "closing_song": "KISS: Rock & Roll All Nite\nAerosmith: Sweet Emotion"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "190",
@@ -113,9 +72,9 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "KISS: Detroit Rock City\nAerosmith: Mama Kin",
-      "closing_song": "KISS: Rock & Roll All Nite\nAerosmith: Train Kept Rollin'"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "131",
@@ -125,9 +84,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Beyond Beautiful",
-      "closing_song": "I'm Down"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "73",
@@ -137,9 +96,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Nine Lives",
-      "closing_song": "What it Takes/Heartbreaker"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "48",
@@ -149,9 +108,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Nine Lives",
-      "closing_song": "Walk this Way"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

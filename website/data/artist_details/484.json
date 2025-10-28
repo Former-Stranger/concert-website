@@ -2,48 +2,7 @@
   "id": "484",
   "name": "Roger McGuinn",
   "concert_count": 6,
-  "top_songs": [
-    {
-      "name": "My Back Pages",
-      "times_played": 1
-    },
-    {
-      "name": "Nothing Was Delivered",
-      "times_played": 1
-    },
-    {
-      "name": "Pretty Boy Floyd",
-      "times_played": 1
-    },
-    {
-      "name": "You Ain't Goin' Nowhere",
-      "times_played": 1
-    },
-    {
-      "name": "I'm In Love",
-      "times_played": 1
-    },
-    {
-      "name": "Daddy Roll 'em",
-      "times_played": 1
-    },
-    {
-      "name": "They Hung Him on a Cross",
-      "times_played": 1
-    },
-    {
-      "name": "St. James Infirmary Blues",
-      "times_played": 1
-    },
-    {
-      "name": "Turn! Turn! Turn! (To Everything There Is a Season)",
-      "times_played": 1
-    },
-    {
-      "name": "The Water Is Wide",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1251",
@@ -54,8 +13,8 @@
       "city": "Tarrytown",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "My Back Pages",
-      "closing_song": "May the Road Rise to Meet You"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "909",
@@ -65,9 +24,9 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "My Back Pages",
-      "closing_song": "Chimes of Freedom"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "418",
@@ -78,8 +37,8 @@
       "city": "Tarrytown",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "RM: My Back Pages\nJS: Satisfied",
-      "closing_song": "Knockin on Heaven's Door\n (RM&JS)"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "375",
@@ -90,8 +49,8 @@
       "city": "Irvington",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "My Back Pages",
-      "closing_song": "May the Road Rise to Meet You"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "312",
@@ -102,8 +61,8 @@
       "city": "Tarrytown",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "So You Wanna Be a Rock and Roll Star",
-      "closing_song": "May the Road Rise to Meet You"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "23",
@@ -114,8 +73,8 @@
       "city": "Peekskill",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Heartbreak Hotel",
-      "closing_song": "May the Road Rise to Meet You"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

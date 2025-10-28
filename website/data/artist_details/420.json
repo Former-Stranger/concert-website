@@ -2,48 +2,7 @@
   "id": "420",
   "name": "Paul Simon",
   "concert_count": 7,
-  "top_songs": [
-    {
-      "name": "Graceland",
-      "times_played": 5
-    },
-    {
-      "name": "Me and Julio Down by the Schoolyard",
-      "times_played": 5
-    },
-    {
-      "name": "The Boxer",
-      "times_played": 5
-    },
-    {
-      "name": "50 Ways to Leave Your Lover",
-      "times_played": 4
-    },
-    {
-      "name": "Diamonds on the Soles of Her Shoes",
-      "times_played": 4
-    },
-    {
-      "name": "You Can Call Me Al",
-      "times_played": 4
-    },
-    {
-      "name": "The Boy in the Bubble",
-      "times_played": 4
-    },
-    {
-      "name": "Late in the Evening",
-      "times_played": 4
-    },
-    {
-      "name": "Still Crazy After All These Years",
-      "times_played": 4
-    },
-    {
-      "name": "Bridge Over Troubled Water",
-      "times_played": 4
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1261",
@@ -53,9 +12,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Seven Psalms Album",
-      "closing_song": "Sounds of Silence/Wartime Prayers"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "863",
@@ -65,9 +24,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "America",
-      "closing_song": "Sound of Silence"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "567",
@@ -77,9 +36,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Brand New Day",
-      "closing_song": "When Will I Be Loved"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "408",
@@ -90,8 +49,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Me & Julio ",
-      "closing_song": "The Boxer"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "403",
@@ -113,9 +72,9 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "PS: Graceland\nBW: Unknown",
-      "closing_song": "PS: Bridge Over Troubled Water\nBW: Love and Mercy"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "92",
@@ -125,9 +84,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "BD: Slow Train\nPS: Bridge Over Troubled Water",
-      "closing_song": "BD: Blowing in the Wind\nPS: The Boxer"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

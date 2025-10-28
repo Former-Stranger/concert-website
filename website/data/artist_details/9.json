@@ -2,32 +2,7 @@
   "id": "9",
   "name": "Adele",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Queen of Swords",
-      "times_played": 2
-    },
-    {
-      "name": "Small World",
-      "times_played": 1
-    },
-    {
-      "name": "Everybody Knows",
-      "times_played": 1
-    },
-    {
-      "name": "I See You",
-      "times_played": 1
-    },
-    {
-      "name": "Perfect Story",
-      "times_played": 1
-    },
-    {
-      "name": "Like Lightning",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "723",
@@ -37,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Hello",
-      "closing_song": "Rolling in the Deep"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

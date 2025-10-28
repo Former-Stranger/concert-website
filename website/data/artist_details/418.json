@@ -2,48 +2,7 @@
   "id": "418",
   "name": "Paul Rodgers",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Little Bit of Love",
-      "times_played": 1
-    },
-    {
-      "name": "Can't Get Enough",
-      "times_played": 1
-    },
-    {
-      "name": "Wishing Well",
-      "times_played": 1
-    },
-    {
-      "name": "Feel Like Makin' Love",
-      "times_played": 1
-    },
-    {
-      "name": "The Stealer",
-      "times_played": 1
-    },
-    {
-      "name": "Ready for Love",
-      "times_played": 1
-    },
-    {
-      "name": "Movin' On",
-      "times_played": 1
-    },
-    {
-      "name": "Mr. Big",
-      "times_played": 1
-    },
-    {
-      "name": "Woman",
-      "times_played": 1
-    },
-    {
-      "name": "Fire and Water",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "850",
@@ -53,9 +12,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "JB:  Pull It       PR: Little Bit of Love",
-      "closing_song": "JB: Going Down                  PR: Alright Now"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "41",
@@ -66,8 +25,8 @@
       "city": "Wantagh",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "LS: We Ain't Much Different\nPR: Can't Get Enough",
-      "closing_song": "LS: Freebird\nPR: Alright Now"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -2,24 +2,7 @@
   "id": "371",
   "name": "Maren Morris",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "I Could Use a Love Song",
-      "times_played": 1
-    },
-    {
-      "name": "Greener Pastures",
-      "times_played": 1
-    },
-    {
-      "name": "Dear Hate",
-      "times_played": 1
-    },
-    {
-      "name": "My Church",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "812",
@@ -29,9 +12,9 @@
       "venue": "Palladium Times Square",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Various",
-      "closing_song": "Various"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

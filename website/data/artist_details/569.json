@@ -2,48 +2,7 @@
   "id": "569",
   "name": "The Dead",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Drums",
-      "times_played": 2
-    },
-    {
-      "name": "U.S. Blues",
-      "times_played": 1
-    },
-    {
-      "name": "Scarlet Begonias",
-      "times_played": 1
-    },
-    {
-      "name": "Fire on the Mountain",
-      "times_played": 1
-    },
-    {
-      "name": "Bird Song",
-      "times_played": 1
-    },
-    {
-      "name": "Feel Like a Stranger",
-      "times_played": 1
-    },
-    {
-      "name": "High Time",
-      "times_played": 1
-    },
-    {
-      "name": "Turn On Your Love Light",
-      "times_played": 1
-    },
-    {
-      "name": "New Potato Caboose",
-      "times_played": 1
-    },
-    {
-      "name": "Estimated Prophet",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "378",
@@ -53,9 +12,9 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "US Blues",
-      "closing_song": "Franklin's Tower"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "377",
@@ -65,9 +24,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Cosmic Charlie",
-      "closing_song": "Brokedown Palace"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

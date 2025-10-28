@@ -2,48 +2,7 @@
   "id": "QtGPgOlZ0Qi0O5nK0Dwy",
   "name": "Third Eye Blind",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Thanks a Lot",
-      "times_played": 1
-    },
-    {
-      "name": "Dust Storm",
-      "times_played": 1
-    },
-    {
-      "name": "Never Let You Go",
-      "times_played": 1
-    },
-    {
-      "name": "Narcolepsy",
-      "times_played": 1
-    },
-    {
-      "name": "Kids/wolf/company of",
-      "times_played": 1
-    },
-    {
-      "name": "Graduate",
-      "times_played": 1
-    },
-    {
-      "name": "Crystal Baller",
-      "times_played": 1
-    },
-    {
-      "name": "Wounded",
-      "times_played": 1
-    },
-    {
-      "name": "Losing a Whole Year",
-      "times_played": 1
-    },
-    {
-      "name": "Like A Lullaby",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1276",
@@ -53,7 +12,7 @@
       "venue": "Highlands Concert Series",
       "city": "Amenia",
       "state": "NY",
-      "has_setlist": true,
+      "has_setlist": false,
       "opening_song": null,
       "closing_song": null
     }

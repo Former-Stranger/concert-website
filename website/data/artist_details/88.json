@@ -1,49 +1,8 @@
 {
   "id": "88",
   "name": "Bruce Springsteen",
-  "concert_count": 34,
-  "top_songs": [
-    {
-      "name": "The Rising",
-      "times_played": 23
-    },
-    {
-      "name": "Born to Run",
-      "times_played": 20
-    },
-    {
-      "name": "Dancing in the Dark",
-      "times_played": 20
-    },
-    {
-      "name": "The Promised Land",
-      "times_played": 20
-    },
-    {
-      "name": "Tenth Avenue Freeze-Out",
-      "times_played": 19
-    },
-    {
-      "name": "Land of Hope and Dreams",
-      "times_played": 17
-    },
-    {
-      "name": "Thunder Road",
-      "times_played": 15
-    },
-    {
-      "name": "Born in the U.S.A.",
-      "times_played": 12
-    },
-    {
-      "name": "Badlands",
-      "times_played": 11
-    },
-    {
-      "name": "The Wish",
-      "times_played": 11
-    }
-  ],
+  "concert_count": 35,
+  "top_songs": [],
   "concerts": [
     {
       "id": "1195",
@@ -53,9 +12,21 @@
       "venue": "Oriole Park at Camden Yards",
       "city": "Baltimore",
       "state": "MD",
-      "has_setlist": true,
-      "opening_song": "Hungry Heart",
-      "closing_song": "I'll See You In My Dreams"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "1003",
+      "show_number": 1002,
+      "date": "2021-12-13",
+      "festival_name": "John Henry's Friends",
+      "venue": "The Town Hall",
+      "city": "New York",
+      "state": "NY",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "975",
@@ -65,9 +36,9 @@
       "venue": "St. James Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Growin' Up",
-      "closing_song": "I'll See You In My Dreams"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "973",
@@ -77,9 +48,9 @@
       "venue": "St. James Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Growin' Up",
-      "closing_song": "I'll See You In My Dreams"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "889",
@@ -89,9 +60,9 @@
       "venue": "Walter Kerr Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Growin' Up",
-      "closing_song": "Born to Run"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "867",
@@ -101,9 +72,9 @@
       "venue": "Walter Kerr Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Growin' Up",
-      "closing_song": "This Hard Land"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "856",
@@ -113,9 +84,9 @@
       "venue": "Walter Kerr Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Growin' Up",
-      "closing_song": "This Hard Land"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "828",
@@ -125,9 +96,9 @@
       "venue": "Walter Kerr Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Growin' Up",
-      "closing_song": "Born to Run"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "809",
@@ -137,9 +108,9 @@
       "venue": "Walter Kerr Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Growin' Up",
-      "closing_song": "Born to Run/This Hard Land"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "800",
@@ -149,9 +120,9 @@
       "venue": "Walter Kerr Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Growin' Up",
-      "closing_song": "Born to Run"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "795",
@@ -161,9 +132,9 @@
       "venue": "Walter Kerr Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Growin' Up",
-      "closing_song": "Born to Run"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "662",
@@ -174,8 +145,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "For You",
-      "closing_song": "Dancing in the Dark"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "572",
@@ -186,8 +157,8 @@
       "city": "Brooklyn",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Various",
-      "closing_song": "Various"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "530",
@@ -197,9 +168,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Bruce: Land of Hope and Dreams",
-      "closing_song": "McCartney: Live and Let Die and Alicia Keys New York"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "526",
@@ -209,9 +180,9 @@
       "venue": "XL Center",
       "city": "Hartford",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "Held Up Without a Gun",
-      "closing_song": "Tenth Avenue Freeze-Out"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "519",
@@ -221,9 +192,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Out in the Street",
-      "closing_song": "Twist & Shout"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "518",
@@ -233,9 +204,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Livin on Edge of the World",
-      "closing_song": "Twist & Shout"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "517",
@@ -245,9 +216,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Shackled and Drawn",
-      "closing_song": "Twist & Shout"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "516",
@@ -257,9 +228,9 @@
       "venue": "Citizens Bank Park",
       "city": "Philadelphia",
       "state": "PA",
-      "has_setlist": true,
-      "opening_song": "Summertime Blues",
-      "closing_song": "Twist & Shout"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "514",
@@ -269,9 +240,9 @@
       "venue": "Gillette Stadium",
       "city": "Foxborough",
       "state": "MA",
-      "has_setlist": true,
-      "opening_song": "My Love Will Not Let You Down",
-      "closing_song": "Twist & Shout"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "507",
@@ -281,9 +252,9 @@
       "venue": "Prudential Center",
       "city": "Newark",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "No Surrender",
-      "closing_song": "Tenth Ave Freeze Out"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "505",
@@ -293,9 +264,9 @@
       "venue": "MVP Arena",
       "city": "Albany",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Badlands",
-      "closing_song": "Tenth Ave Freeze Out"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "504",
@@ -305,9 +276,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Badlands",
-      "closing_song": "Tenth Ave Freeze Out"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "323",
@@ -317,9 +288,9 @@
       "venue": "Chelsea Piers",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "California Sun",
-      "closing_song": "Glory Days"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "265",
@@ -330,8 +301,8 @@
       "city": "Holmdel",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "American Land",
-      "closing_song": "Man on the Flying Trapeeze"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "264",
@@ -342,8 +313,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "American Land",
-      "closing_song": "When the Saints Go Marching In"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "259",
@@ -354,8 +325,8 @@
       "city": "Asbury Park",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "O Mary Don't You Weep",
-      "closing_song": "When the Saints Go Marching In"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "244",
@@ -365,9 +336,9 @@
       "venue": "Continental Airlines Arena",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Born in the USA",
-      "closing_song": "Dream Baby Dream"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "241",
@@ -377,9 +348,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Stolen Car",
-      "closing_song": "Dream Baby Dream"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "234",
@@ -389,9 +360,9 @@
       "venue": "Total Mortgage Arena",
       "city": "Bridgeport",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "Into the Fire",
-      "closing_song": "Dream Baby Dream"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "228",
@@ -401,9 +372,9 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "My Beautiful Reward",
-      "closing_song": "Dream baby Dream"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "216",
@@ -413,9 +384,9 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "JB: Unknown\nBS: Star Spangled Banner/Born in the USA",
-      "closing_song": "JB: Runing on Empty (w/ BS)\nBS: People Have the Power"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "215",
@@ -425,9 +396,9 @@
       "venue": "Wells Fargo Center",
       "city": "Philadelphia",
       "state": "PA",
-      "has_setlist": true,
-      "opening_song": "REM: The One I Love\nBS: Star Spangled Banner/Born in USA",
-      "closing_song": "REM: Man on the Moon\nBS: People Have the Power"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "197",
@@ -437,9 +408,9 @@
       "venue": "Convention Hall",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "So Young & In Love",
-      "closing_song": "Santa Clause is Coming to Town"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "149",
@@ -450,8 +421,8 @@
       "city": "Asbury Park",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Wild Billy Circus Story",
-      "closing_song": "Santa Claus Is Coming to Town"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

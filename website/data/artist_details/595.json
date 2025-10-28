@@ -2,48 +2,7 @@
   "id": "595",
   "name": "Todd Rundgren",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "I Believe I'll Dust My Broom",
-      "times_played": 1
-    },
-    {
-      "name": "Stop Breakin' Down Blues",
-      "times_played": 1
-    },
-    {
-      "name": "Kiddie Boy",
-      "times_played": 1
-    },
-    {
-      "name": "Soul Brother",
-      "times_played": 1
-    },
-    {
-      "name": "Walkin' Blues",
-      "times_played": 1
-    },
-    {
-      "name": "Kind Hearted Woman Blues",
-      "times_played": 1
-    },
-    {
-      "name": "Bleeding",
-      "times_played": 1
-    },
-    {
-      "name": "Black Maria",
-      "times_played": 1
-    },
-    {
-      "name": "Last Fair Deal Gone Down",
-      "times_played": 1
-    },
-    {
-      "name": "Love in Vain Blues",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "522",
@@ -65,9 +24,9 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "Dust My Broom",
-      "closing_song": "Boogies"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

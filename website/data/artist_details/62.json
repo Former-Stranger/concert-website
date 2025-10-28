@@ -2,36 +2,7 @@
   "id": "62",
   "name": "Bob Dylan and Phil Lesh",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Jam",
-      "times_played": 1
-    },
-    {
-      "name": "Uncle John's Band",
-      "times_played": 1
-    },
-    {
-      "name": "Mississippi Half-Step Uptown Toodeloo",
-      "times_played": 1
-    },
-    {
-      "name": "Pride of Cucamonga",
-      "times_played": 1
-    },
-    {
-      "name": "Patchwork Quilt",
-      "times_played": 1
-    },
-    {
-      "name": "Scarlet Begonias",
-      "times_played": 1
-    },
-    {
-      "name": "Fire on the Mountain",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "96",
@@ -41,9 +12,9 @@
       "venue": "New Haven Coliseum",
       "city": "New Haven",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "BD: I am the Man, Thomas\nPL: Uncle John's Band",
-      "closing_song": "BD: It Ain't Me Babe\nPL: Fire on the Mountain"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

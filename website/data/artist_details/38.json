@@ -2,48 +2,7 @@
   "id": "38",
   "name": "Barry Manilow",
   "concert_count": 3,
-  "top_songs": [
-    {
-      "name": "Looks Like We Made It",
-      "times_played": 2
-    },
-    {
-      "name": "Daybreak",
-      "times_played": 2
-    },
-    {
-      "name": "This One's for You",
-      "times_played": 2
-    },
-    {
-      "name": "Even Now",
-      "times_played": 2
-    },
-    {
-      "name": "Can't Smile Without You",
-      "times_played": 2
-    },
-    {
-      "name": "A Weekend in New England",
-      "times_played": 2
-    },
-    {
-      "name": "I Made It Through the Rain",
-      "times_played": 2
-    },
-    {
-      "name": "I Write the Songs",
-      "times_played": 2
-    },
-    {
-      "name": "Copacabana (At the Copa)",
-      "times_played": 2
-    },
-    {
-      "name": "It's a Miracle",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1159",
@@ -53,9 +12,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "NYC City Rhythm",
-      "closing_song": "It's a Miracle"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "934",
@@ -66,8 +25,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "NYC Rhythm",
-      "closing_song": "It\u2019s a Miracle"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "804",
@@ -77,9 +36,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "It's a Miracle",
-      "closing_song": "It's a Miracle Reprise"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

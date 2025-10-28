@@ -2,48 +2,7 @@
   "id": "19",
   "name": "Allman Brothers",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Jam",
-      "times_played": 1
-    },
-    {
-      "name": "Feel Like a Stranger",
-      "times_played": 1
-    },
-    {
-      "name": "Easy Answers",
-      "times_played": 1
-    },
-    {
-      "name": "She Belongs to Me",
-      "times_played": 1
-    },
-    {
-      "name": "Brown-Eyed Women",
-      "times_played": 1
-    },
-    {
-      "name": "Eyes of the World",
-      "times_played": 1
-    },
-    {
-      "name": "Me and My Uncle",
-      "times_played": 1
-    },
-    {
-      "name": "Friend of the Devil",
-      "times_played": 1
-    },
-    {
-      "name": "Liberty",
-      "times_played": 1
-    },
-    {
-      "name": "Two Djinn",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "311",
@@ -53,9 +12,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "ABB: Trouble No More   RD: N/A",
-      "closing_song": "ABB: Southbound      RD: Turn on your Lovelight"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

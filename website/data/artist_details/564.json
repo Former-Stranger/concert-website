@@ -2,16 +2,7 @@
   "id": "564",
   "name": "The Band",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Theme From 'The Dukes of Hazzard' (Good Ol' Boys)",
-      "times_played": 1
-    },
-    {
-      "name": "Luckenbach, Texas (Back to the Basics of Love)",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "21",
@@ -21,9 +12,9 @@
       "venue": "Broad Street Ballroom",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Unknown",
-      "closing_song": "Unknown"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

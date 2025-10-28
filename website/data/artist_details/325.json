@@ -2,48 +2,7 @@
   "id": "325",
   "name": "Kings of Leon",
   "concert_count": 6,
-  "top_songs": [
-    {
-      "name": "Molly's Chambers",
-      "times_played": 6
-    },
-    {
-      "name": "The Bucket",
-      "times_played": 6
-    },
-    {
-      "name": "Sex on Fire",
-      "times_played": 6
-    },
-    {
-      "name": "On Call",
-      "times_played": 6
-    },
-    {
-      "name": "Closer",
-      "times_played": 6
-    },
-    {
-      "name": "Use Somebody",
-      "times_played": 6
-    },
-    {
-      "name": "Crawl",
-      "times_played": 5
-    },
-    {
-      "name": "Pyro",
-      "times_played": 5
-    },
-    {
-      "name": "Four Kicks",
-      "times_played": 4
-    },
-    {
-      "name": "Radioactive",
-      "times_played": 4
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1202",
@@ -53,9 +12,9 @@
       "venue": "Hartford HealthCare Amphitheater",
       "city": "Bridgeport",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "Ballerina Radio",
-      "closing_song": "Use Somebody"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "981",
@@ -65,9 +24,9 @@
       "venue": "Hartford HealthCare Amphitheater",
       "city": "Bridgeport",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "When You See Yourself",
-      "closing_song": "Use Somebody"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "739",
@@ -77,9 +36,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "The End",
-      "closing_song": "Around the World"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "566",
@@ -89,9 +48,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Charmer",
-      "closing_song": "Sex on Fire"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "457",
@@ -101,9 +60,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Mary",
-      "closing_song": "Black Thumbnail"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "392",
@@ -113,9 +72,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Closer",
-      "closing_song": "Black Thumbnail"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -2,48 +2,7 @@
   "id": "646",
   "name": "ZZ Top",
   "concert_count": 3,
-  "top_songs": [
-    {
-      "name": "Got Me Under Pressure",
-      "times_played": 1
-    },
-    {
-      "name": "I Thank You",
-      "times_played": 1
-    },
-    {
-      "name": "Waitin' for the Bus",
-      "times_played": 1
-    },
-    {
-      "name": "Jesus Just Left Chicago",
-      "times_played": 1
-    },
-    {
-      "name": "Gimme All Your Lovin'",
-      "times_played": 1
-    },
-    {
-      "name": "Pearl Necklace",
-      "times_played": 1
-    },
-    {
-      "name": "I'm Bad, I'm Nationwide",
-      "times_played": 1
-    },
-    {
-      "name": "I Gotsta Get Paid",
-      "times_played": 1
-    },
-    {
-      "name": "My Head's in Mississippi",
-      "times_played": 1
-    },
-    {
-      "name": "Sixteen Tons",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1064",
@@ -53,9 +12,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Got Me Under Pressure",
-      "closing_song": "La Grange"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "490",
@@ -66,8 +25,8 @@
       "city": "Danbury",
       "state": "CT",
       "has_setlist": false,
-      "opening_song": "Got Me Under Pressure",
-      "closing_song": "Tush"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "95",
@@ -78,8 +37,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "LS: Edge of Foever\nZZ: Got Me Under Pressure",
-      "closing_song": "LS: Freebird\nZZ: Tush"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

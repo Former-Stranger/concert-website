@@ -2,48 +2,7 @@
   "id": "233",
   "name": "Govt Mule",
   "concert_count": 5,
-  "top_songs": [
-    {
-      "name": "Revolution Come, Revolution Go",
-      "times_played": 4
-    },
-    {
-      "name": "Time to Confess",
-      "times_played": 3
-    },
-    {
-      "name": "Mule",
-      "times_played": 2
-    },
-    {
-      "name": "Shine On You Crazy Diamond (Parts I-V)",
-      "times_played": 2
-    },
-    {
-      "name": "Have a Cigar",
-      "times_played": 2
-    },
-    {
-      "name": "Speak to Me",
-      "times_played": 2
-    },
-    {
-      "name": "Breathe (In the Air)",
-      "times_played": 2
-    },
-    {
-      "name": "On the Run",
-      "times_played": 2
-    },
-    {
-      "name": "Time",
-      "times_played": 2
-    },
-    {
-      "name": "Breathe (Reprise)",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1229",
@@ -53,9 +12,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Revolution Come, Revolution Go",
-      "closing_song": "Make It Rain"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1107",
@@ -65,9 +24,9 @@
       "venue": "PNC Park",
       "city": "Pittsburgh",
       "state": "PA",
-      "has_setlist": true,
-      "opening_song": "Mule",
-      "closing_song": "Wish You Were Here"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "932",
@@ -77,9 +36,9 @@
       "venue": "Stubb's Bar-B-Q",
       "city": "Austin",
       "state": "TX",
-      "has_setlist": true,
-      "opening_song": "Railroad Boy",
-      "closing_song": "Mountain Jam"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "840",
@@ -89,9 +48,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Avett: Rock Cradle Lucy    Mule:  Mule",
-      "closing_song": "Avett: No Hard Feelings     Mule: Wish You Were Here"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "824",
@@ -101,9 +60,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Hammer and Nails",
-      "closing_song": "Dark Was the Night, Cold was the Ground"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

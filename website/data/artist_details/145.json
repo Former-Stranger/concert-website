@@ -2,48 +2,7 @@
   "id": "145",
   "name": "DEAD:  Dead",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Bertha",
-      "times_played": 1
-    },
-    {
-      "name": "Mississippi Half-Step Uptown Toodeloo",
-      "times_played": 1
-    },
-    {
-      "name": "Shakedown Street",
-      "times_played": 1
-    },
-    {
-      "name": "Sugaree",
-      "times_played": 1
-    },
-    {
-      "name": "Tennessee Jed",
-      "times_played": 1
-    },
-    {
-      "name": "Bird Song",
-      "times_played": 1
-    },
-    {
-      "name": "Don't Ease Me In",
-      "times_played": 1
-    },
-    {
-      "name": "Althea",
-      "times_played": 1
-    },
-    {
-      "name": "Viola Lee Blues",
-      "times_played": 1
-    },
-    {
-      "name": "Terrapin Station",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1039",
@@ -53,9 +12,9 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Playing in the Band",
-      "closing_song": "Deal ~ Playing in the Band"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1038",
@@ -65,9 +24,9 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Bertha",
-      "closing_song": "Sugar Magnolia"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -11,9 +11,9 @@
       "date": "2019-11-02",
       "festival_name": null,
       "artists": "Eric Church",
-      "has_setlist": true,
-      "opening_song": "That's Damn Rock & Roll",
-      "closing_song": "Chevy Van"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "672",
@@ -22,8 +22,8 @@
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
       "has_setlist": false,
-      "opening_song": "Meet Me in the City",
-      "closing_song": "Shout"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "658",
@@ -31,9 +31,9 @@
       "date": "2015-10-11",
       "festival_name": null,
       "artists": "Stevie Wonder",
-      "has_setlist": true,
-      "opening_song": "Love's in Need of Love Today",
-      "closing_song": "Superstition"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "595",
@@ -41,9 +41,9 @@
       "date": "2014-09-13",
       "festival_name": null,
       "artists": "Tom Petty & the Heartbreakers",
-      "has_setlist": true,
-      "opening_song": "TP: So You Wanna Be a Rock & Roll Star  SW: Im a Man",
-      "closing_song": "TP: American Girl    SW: Gimme Some Lovin"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "526",
@@ -51,9 +51,9 @@
       "date": "2012-10-25",
       "festival_name": null,
       "artists": "Bruce Springsteen",
-      "has_setlist": true,
-      "opening_song": "Held Up Without a Gun",
-      "closing_song": "Tenth Avenue Freeze-Out"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "376",
@@ -62,8 +62,8 @@
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
       "has_setlist": false,
-      "opening_song": "Badlands",
-      "closing_song": "Rosalita"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "316",
@@ -72,8 +72,8 @@
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
       "has_setlist": false,
-      "opening_song": "Radio Nowhere",
-      "closing_song": "American Land"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "313",
@@ -81,9 +81,9 @@
       "date": "2007-09-16",
       "festival_name": null,
       "artists": "Genesis",
-      "has_setlist": true,
-      "opening_song": "Turn it on Again",
-      "closing_song": "Carpet Crawlers"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "174",
@@ -91,9 +91,9 @@
       "date": "2002-12-03",
       "festival_name": "Multi-Artist Show",
       "artists": "Guns, Roses",
-      "has_setlist": true,
-      "opening_song": "Welcome to the Jungle",
-      "closing_song": "Paradise City"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "173",
@@ -101,9 +101,9 @@
       "date": "2002-11-22",
       "festival_name": null,
       "artists": "The Other Ones",
-      "has_setlist": true,
-      "opening_song": "Feel Like a Stranger",
-      "closing_song": "Truckin'"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "172",
@@ -111,9 +111,9 @@
       "date": "2002-11-17",
       "festival_name": null,
       "artists": "Bob Dylan",
-      "has_setlist": true,
-      "opening_song": "Tweedle Dum & Tweedle Dee",
-      "closing_song": "All Along Watchtower"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "152",
@@ -121,9 +121,9 @@
       "date": "2002-02-28",
       "festival_name": "Multi-Artist Show",
       "artists": "Crosby, Stills, Nash & Young",
-      "has_setlist": true,
-      "opening_song": "Carry On",
-      "closing_song": "Long May You Run"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "151",
@@ -131,9 +131,9 @@
       "date": "2002-02-04",
       "festival_name": "Multi-Artist Show",
       "artists": "Elton John, Billy Joel",
-      "has_setlist": true,
-      "opening_song": "Your Song",
-      "closing_song": "Piano Man"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "146",
@@ -141,9 +141,9 @@
       "date": "2001-10-26",
       "festival_name": null,
       "artists": "Stone Temple Pilots",
-      "has_setlist": true,
-      "opening_song": "Crackerman",
-      "closing_song": "Sex Type Thing"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "102",
@@ -152,8 +152,8 @@
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
       "has_setlist": false,
-      "opening_song": "Roulette",
-      "closing_song": "Ramrod"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "101",
@@ -161,9 +161,9 @@
       "date": "2000-04-12",
       "festival_name": "Multi-Artist Show",
       "artists": "Crosby, Stills, Nash & Young",
-      "has_setlist": true,
-      "opening_song": "Carry On",
-      "closing_song": "Long May You Run"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "16",
@@ -172,8 +172,8 @@
       "festival_name": null,
       "artists": "Rod Stewart",
       "has_setlist": false,
-      "opening_song": "Get Back",
-      "closing_song": "Sweet Little Rock & Roller"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

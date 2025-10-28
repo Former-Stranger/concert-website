@@ -2,48 +2,7 @@
   "id": "370",
   "name": "Marcus Mumford",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Awake My Soul",
-      "times_played": 1
-    },
-    {
-      "name": "The Cave",
-      "times_played": 1
-    },
-    {
-      "name": "Dink's Song (Fare Thee Well)",
-      "times_played": 1
-    },
-    {
-      "name": "Hang Me, Oh Hang Me",
-      "times_played": 1
-    },
-    {
-      "name": "Cannibal",
-      "times_played": 1
-    },
-    {
-      "name": "Grace",
-      "times_played": 1
-    },
-    {
-      "name": "Prior Warning",
-      "times_played": 1
-    },
-    {
-      "name": "Better Off High",
-      "times_played": 1
-    },
-    {
-      "name": "Only Child",
-      "times_played": 1
-    },
-    {
-      "name": "Dangerous Game",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1070",
@@ -53,9 +12,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Awake My Soul",
-      "closing_song": "When I Get My Hands On You"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

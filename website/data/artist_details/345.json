@@ -2,48 +2,7 @@
   "id": "345",
   "name": "Lindsey Buckingham",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Not Too Late",
-      "times_played": 2
-    },
-    {
-      "name": "Soul Drifter",
-      "times_played": 2
-    },
-    {
-      "name": "I Must Go",
-      "times_played": 2
-    },
-    {
-      "name": "Doing What I Can",
-      "times_played": 2
-    },
-    {
-      "name": "Shut Us Down",
-      "times_played": 2
-    },
-    {
-      "name": "Trouble",
-      "times_played": 2
-    },
-    {
-      "name": "Never Going Back Again",
-      "times_played": 2
-    },
-    {
-      "name": "Big Love",
-      "times_played": 2
-    },
-    {
-      "name": "Tusk",
-      "times_played": 2
-    },
-    {
-      "name": "I'm So Afraid",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "986",
@@ -53,9 +12,9 @@
       "venue": "The Town Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Not Too Late",
-      "closing_song": "Time"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "887",
@@ -65,9 +24,9 @@
       "venue": "Peekskill Paramount",
       "city": "Peekskill",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Don't Look Down",
-      "closing_song": "Treason"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

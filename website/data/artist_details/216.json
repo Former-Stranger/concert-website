@@ -1,49 +1,8 @@
 {
   "id": "216",
   "name": "Friends",
-  "concert_count": 3,
-  "top_songs": [
-    {
-      "name": "Scarlet Begonias",
-      "times_played": 2
-    },
-    {
-      "name": "Guitar Town",
-      "times_played": 1
-    },
-    {
-      "name": "Goodbye's All We've Got Left",
-      "times_played": 1
-    },
-    {
-      "name": "Hillbilly Highway",
-      "times_played": 1
-    },
-    {
-      "name": "Good Ol' Boy (Gettin' Tough)",
-      "times_played": 1
-    },
-    {
-      "name": "My Old Friend the Blues",
-      "times_played": 1
-    },
-    {
-      "name": "Someday",
-      "times_played": 1
-    },
-    {
-      "name": "Think It Over",
-      "times_played": 1
-    },
-    {
-      "name": "Fearless Heart",
-      "times_played": 1
-    },
-    {
-      "name": "Little Rock 'n' Roller",
-      "times_played": 1
-    }
-  ],
+  "concert_count": 5,
+  "top_songs": [],
   "concerts": [
     {
       "id": "1243",
@@ -53,9 +12,21 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Friend of the Devil",
-      "closing_song": "Not Fade Away"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "1080",
+      "show_number": 1079,
+      "date": "2023-03-19",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "737",
@@ -65,9 +36,21 @@
       "venue": "The Town Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Guitar Town",
-      "closing_song": "Teach Your Children"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "253",
+      "show_number": 252,
+      "date": "2006-02-15",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "96",
@@ -77,9 +60,9 @@
       "venue": "New Haven Coliseum",
       "city": "New Haven",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "BD: I am the Man, Thomas\nPL: Uncle John's Band",
-      "closing_song": "BD: It Ain't Me Babe\nPL: Fire on the Mountain"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -11,9 +11,9 @@
       "date": "2025-07-18",
       "festival_name": null,
       "artists": "Brad Paisley",
-      "has_setlist": true,
-      "opening_song": "Truck Still Works",
-      "closing_song": "Alcohol"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1181",
@@ -21,9 +21,9 @@
       "date": "2024-07-24",
       "festival_name": null,
       "artists": "Sammy Hagar",
-      "has_setlist": true,
-      "opening_song": "Good Enough",
-      "closing_song": "When It's Love"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "288",
@@ -32,8 +32,8 @@
       "festival_name": "Multi-Artist Show",
       "artists": "The Who, The Pretenders",
       "has_setlist": false,
-      "opening_song": "Can't Explain",
-      "closing_song": "Tea for Two"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

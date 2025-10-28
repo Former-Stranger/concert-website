@@ -1,49 +1,8 @@
 {
   "id": "481",
   "name": "Rod Stewart",
-  "concert_count": 5,
-  "top_songs": [
-    {
-      "name": "You Wear It Well",
-      "times_played": 2
-    },
-    {
-      "name": "Hot Legs",
-      "times_played": 2
-    },
-    {
-      "name": "Every Picture Tells a Story",
-      "times_played": 2
-    },
-    {
-      "name": "The First Cut Is the Deepest",
-      "times_played": 2
-    },
-    {
-      "name": "Tonight's the Night (Gonna Be Alright)",
-      "times_played": 2
-    },
-    {
-      "name": "You're in My Heart (The Final Acclaim)",
-      "times_played": 2
-    },
-    {
-      "name": "Have You Ever Seen the Rain?",
-      "times_played": 2
-    },
-    {
-      "name": "Forever Young",
-      "times_played": 2
-    },
-    {
-      "name": "Da Ya Think I'm Sexy?",
-      "times_played": 2
-    },
-    {
-      "name": "Young Turks",
-      "times_played": 2
-    }
-  ],
+  "concert_count": 6,
+  "top_songs": [],
   "concerts": [
     {
       "id": "1048",
@@ -53,9 +12,21 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Addicted to Love",
-      "closing_song": "Stay With Me"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "847",
+      "show_number": 846,
+      "date": "2018-08-07",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "556",
@@ -65,9 +36,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "RS: This Old Heart of Mine",
-      "closing_song": "Do Ya Think I'm Sexy"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "473",
@@ -77,9 +48,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Love Train  /  Stand Back",
-      "closing_song": "Do Ya Think I'm Sexy /  Love Is"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "292",
@@ -89,9 +60,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Tonight's the Night",
-      "closing_song": "Maggie May"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "16",
@@ -102,8 +73,8 @@
       "city": "Hartford",
       "state": "CT",
       "has_setlist": false,
-      "opening_song": "Get Back",
-      "closing_song": "Sweet Little Rock & Roller"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -2,48 +2,7 @@
   "id": "425",
   "name": "Peter Gabriel",
   "concert_count": 3,
-  "top_songs": [
-    {
-      "name": "Digging in the Dirt",
-      "times_played": 2
-    },
-    {
-      "name": "Red Rain",
-      "times_played": 2
-    },
-    {
-      "name": "Darkness",
-      "times_played": 2
-    },
-    {
-      "name": "Solsbury Hill",
-      "times_played": 2
-    },
-    {
-      "name": "In Your Eyes",
-      "times_played": 2
-    },
-    {
-      "name": "Don't Give Up",
-      "times_played": 2
-    },
-    {
-      "name": "\"Heroes\"",
-      "times_played": 1
-    },
-    {
-      "name": "The Boy in the Bubble",
-      "times_played": 1
-    },
-    {
-      "name": "Mirrorball",
-      "times_played": 1
-    },
-    {
-      "name": "Flume",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1118",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Washing of the Water",
-      "closing_song": "Biko"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "572",
@@ -66,8 +25,8 @@
       "city": "Brooklyn",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Various",
-      "closing_song": "Various"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "419",
@@ -77,9 +36,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Heroes",
-      "closing_song": "Don't Give Up/The Mist?"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

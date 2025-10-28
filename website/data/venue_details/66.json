@@ -11,9 +11,9 @@
       "date": "2018-09-21",
       "festival_name": null,
       "artists": "Kip Moore",
-      "has_setlist": true,
-      "opening_song": "Fast Women",
-      "closing_song": "New Song TBD"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "322",
@@ -21,9 +21,9 @@
       "date": "2007-11-02",
       "festival_name": null,
       "artists": "John Fogerty",
-      "has_setlist": true,
-      "opening_song": "River is Waiting",
-      "closing_song": "Proud Mary"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

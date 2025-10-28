@@ -2,48 +2,7 @@
   "id": "562",
   "name": "Temple of the Dog",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Man of Golden Words",
-      "times_played": 2
-    },
-    {
-      "name": "Say Hello 2 Heaven",
-      "times_played": 1
-    },
-    {
-      "name": "Wooden Jesus",
-      "times_played": 1
-    },
-    {
-      "name": "Call Me a Dog",
-      "times_played": 1
-    },
-    {
-      "name": "Your Saviour",
-      "times_played": 1
-    },
-    {
-      "name": "Stardog Champion",
-      "times_played": 1
-    },
-    {
-      "name": "Stargazer",
-      "times_played": 1
-    },
-    {
-      "name": "Seasons",
-      "times_played": 1
-    },
-    {
-      "name": "Jump Into the Fire",
-      "times_played": 1
-    },
-    {
-      "name": "Four Walled World",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "730",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Say Hello 2Heaven",
-      "closing_song": "All Night Thing"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

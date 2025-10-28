@@ -11,9 +11,9 @@
       "date": "2025-06-21",
       "festival_name": "Multi-Artist Show",
       "artists": "Mumford & Sons",
-      "has_setlist": true,
-      "opening_song": "Rushmere",
-      "closing_song": "The Cave"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1199",
@@ -21,7 +21,7 @@
       "date": "2024-09-21",
       "festival_name": "Multi-Artist Show",
       "artists": "Farm Aid: Nelson, Young, Dave & Tim, Rateliffe, Mellencamp",
-      "has_setlist": true,
+      "has_setlist": false,
       "opening_song": null,
       "closing_song": null
     },
@@ -32,8 +32,8 @@
       "festival_name": null,
       "artists": "Zac Brown Band with Drake White",
       "has_setlist": false,
-      "opening_song": "Homegrown",
-      "closing_song": "Chicken Fried"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -2,48 +2,7 @@
   "id": "157",
   "name": "David Gilmour",
   "concert_count": 4,
-  "top_songs": [
-    {
-      "name": "5 A.M.",
-      "times_played": 4
-    },
-    {
-      "name": "Wish You Were Here",
-      "times_played": 4
-    },
-    {
-      "name": "A Boat Lies Waiting",
-      "times_played": 4
-    },
-    {
-      "name": "In Any Tongue",
-      "times_played": 4
-    },
-    {
-      "name": "High Hopes",
-      "times_played": 4
-    },
-    {
-      "name": "Fat Old Sun",
-      "times_played": 4
-    },
-    {
-      "name": "Coming Back to Life",
-      "times_played": 4
-    },
-    {
-      "name": "Sorrow",
-      "times_played": 4
-    },
-    {
-      "name": "Time",
-      "times_played": 4
-    },
-    {
-      "name": "Breathe (Reprise)",
-      "times_played": 4
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1213",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "5 a.m.",
-      "closing_song": "Comfortably Numb"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1212",
@@ -65,9 +24,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "5 a.m.",
-      "closing_song": "Comfortably Numb"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "683",
@@ -77,9 +36,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "5 A.M. / Rattle that Lock",
-      "closing_song": "Comfortably Numb"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "682",
@@ -89,9 +48,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "5 A.M. / Rattle that Lock",
-      "closing_song": "Comfortably Numb"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

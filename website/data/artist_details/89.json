@@ -2,48 +2,7 @@
   "id": "89",
   "name": "Bruce Springsteen & the E Street Band",
   "concert_count": 72,
-  "top_songs": [
-    {
-      "name": "The Ghost of Tom Joad",
-      "times_played": 1
-    },
-    {
-      "name": "Thunder Road",
-      "times_played": 1
-    },
-    {
-      "name": "Prove It All Night",
-      "times_played": 1
-    },
-    {
-      "name": "Darkness on the Edge of Town",
-      "times_played": 1
-    },
-    {
-      "name": "Cover Me",
-      "times_played": 1
-    },
-    {
-      "name": "Candy's Room",
-      "times_played": 1
-    },
-    {
-      "name": "The Promised Land",
-      "times_played": 1
-    },
-    {
-      "name": "I'm Goin' Down",
-      "times_played": 1
-    },
-    {
-      "name": "She's the One",
-      "times_played": 1
-    },
-    {
-      "name": "I'm on Fire",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1189",
@@ -53,9 +12,9 @@
       "venue": "Citizens Bank Park",
       "city": "Philadelphia",
       "state": "PA",
-      "has_setlist": true,
-      "opening_song": "Seeds",
-      "closing_song": "I'll See You In My Dreams"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1188",
@@ -66,8 +25,8 @@
       "city": "Philadelphia",
       "state": "PA",
       "has_setlist": false,
-      "opening_song": "Atlantic City ",
-      "closing_song": "I'll See You In My Dreams"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1158",
@@ -78,8 +37,8 @@
       "city": "Albany",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Candy's Room",
-      "closing_song": "I'll See You In My Dreams"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1155",
@@ -90,8 +49,8 @@
       "city": "Uncasville",
       "state": "CT",
       "has_setlist": false,
-      "opening_song": "Roll of the Dice",
-      "closing_song": "I'll See You In My Dreams"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1110",
@@ -102,8 +61,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Lonesome Day",
-      "closing_song": "Jersey Girl"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1109",
@@ -114,8 +73,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Lonesome Day",
-      "closing_song": "I'll See You In My Dreams"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1108",
@@ -126,8 +85,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Lonesome Day",
-      "closing_song": "I'll See You In My Dreams"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1087",
@@ -138,8 +97,8 @@
       "city": "Newark",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Local Hero",
-      "closing_song": "I'll See You In My Dreams"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1086",
@@ -150,8 +109,8 @@
       "city": "Elmont",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "No Surrender",
-      "closing_song": "I'll See You In My Dreams"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1085",
@@ -162,8 +121,8 @@
       "city": "Elmont",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "No Surrender",
-      "closing_song": "I'll See You In My Dreams"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1084",
@@ -174,8 +133,8 @@
       "city": "Brooklyn",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "No Surrender",
-      "closing_song": "I'll See You In My Dreams"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1083",
@@ -186,8 +145,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "No Surrender",
-      "closing_song": "I'll See You In My Dreams"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1079",
@@ -198,8 +157,8 @@
       "city": "Philadelphia",
       "state": "PA",
       "has_setlist": false,
-      "opening_song": "No Surrender",
-      "closing_song": "I'll See You In My Dreams"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1078",
@@ -210,8 +169,8 @@
       "city": "Orlando",
       "state": "FL",
       "has_setlist": false,
-      "opening_song": "No Surrender",
-      "closing_song": "I'll See You In My Dreams"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1077",
@@ -222,8 +181,8 @@
       "city": "Tampa",
       "state": "FL",
       "has_setlist": false,
-      "opening_song": "No Surrender",
-      "closing_song": "I'll See You In My Dreams"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "720",
@@ -234,8 +193,8 @@
       "city": "Foxborough",
       "state": "MA",
       "has_setlist": false,
-      "opening_song": "NYC Serenade",
-      "closing_song": "Bobby Jean"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "719",
@@ -246,8 +205,8 @@
       "city": "Philadelphia",
       "state": "PA",
       "has_setlist": false,
-      "opening_song": "NYC Serenade",
-      "closing_song": "Jersey Girl"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "718",
@@ -258,8 +217,8 @@
       "city": "Philadelphia",
       "state": "PA",
       "has_setlist": false,
-      "opening_song": "NYC Serenade",
-      "closing_song": "Bobby Jean"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "717",
@@ -270,8 +229,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "NYC Serenade",
-      "closing_song": "Jersey Girl"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "715",
@@ -282,8 +241,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "NYC Serenade",
-      "closing_song": "Jersey Girl"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "688",
@@ -294,8 +253,8 @@
       "city": "Brooklyn",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Meet Me in the City",
-      "closing_song": "Bobby Jean"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "687",
@@ -306,8 +265,8 @@
       "city": "Brooklyn",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Purple Rain",
-      "closing_song": "Shout"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "678",
@@ -318,8 +277,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Meet Me in the City",
-      "closing_song": "Shout"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "673",
@@ -330,8 +289,8 @@
       "city": "Philadelphia",
       "state": "PA",
       "has_setlist": false,
-      "opening_song": "Meet Me in the City",
-      "closing_song": "Shout"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "672",
@@ -342,8 +301,8 @@
       "city": "Hartford",
       "state": "CT",
       "has_setlist": false,
-      "opening_song": "Meet Me in the City",
-      "closing_song": "Shout"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "671",
@@ -354,8 +313,8 @@
       "city": "Albany",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Meet Me in the City",
-      "closing_song": "Shout"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "670",
@@ -366,8 +325,8 @@
       "city": "Newark",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Meet Me in the City",
-      "closing_song": "Shout"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "669",
@@ -378,8 +337,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Meet Me in the City",
-      "closing_song": "Shout"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "576",
@@ -390,8 +349,8 @@
       "city": "Uncasville",
       "state": "CT",
       "has_setlist": false,
-      "opening_song": "Roll of the Dice",
-      "closing_song": "Dream Baby Dream"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "575",
@@ -402,8 +361,8 @@
       "city": "Uncasville",
       "state": "CT",
       "has_setlist": false,
-      "opening_song": "Racing in the Street ('78 Version)",
-      "closing_song": "Thunder Road (Acoustic)"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "574",
@@ -414,8 +373,8 @@
       "city": "Albany",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Don't Change",
-      "closing_song": "Thunder Road (Full Band)"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "559",
@@ -426,7 +385,7 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Born Parody, High Hopes, Heavens Wall, Just Like Fire Would",
+      "opening_song": null,
       "closing_song": null
     },
     {
@@ -438,8 +397,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Wrecking Ball",
-      "closing_song": "Higher & Higher"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "405",
@@ -450,8 +409,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "ThunderCrack",
-      "closing_song": "Higher & higher"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "399",
@@ -462,8 +421,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Wrecking Ball",
-      "closing_song": "Jersey Girl"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "397",
@@ -474,8 +433,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Wrecking Ball",
-      "closing_song": "Thunder Road"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "396",
@@ -486,8 +445,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Wrecking Ball",
-      "closing_song": "Rosalita"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "395",
@@ -498,8 +457,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Wrecking Ball",
-      "closing_song": "Rosalita"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "389",
@@ -510,8 +469,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Sherry Darling",
-      "closing_song": "Twist & Shout"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "382",
@@ -522,8 +481,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Badlands",
-      "closing_song": "Mony Mony"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "381",
@@ -534,8 +493,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Badlands",
-      "closing_song": "Rosalita"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "379",
@@ -546,8 +505,8 @@
       "city": "Uniondale",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Badlands",
-      "closing_song": "Rosalita"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "376",
@@ -558,8 +517,8 @@
       "city": "Hartford",
       "state": "CT",
       "has_setlist": false,
-      "opening_song": "Badlands",
-      "closing_song": "Rosalita"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "372",
@@ -570,8 +529,8 @@
       "city": "Asbury Park",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Badlands",
-      "closing_song": "American Land"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "353",
@@ -582,8 +541,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Summertime Blues",
-      "closing_song": "Rosalita"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "352",
@@ -594,8 +553,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Out in the Street",
-      "closing_song": "Twist & Shout"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "351",
@@ -606,8 +565,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "10th Avenue Freeze-Out",
-      "closing_song": "Rosalita"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "336",
@@ -618,8 +577,8 @@
       "city": "Atlanta",
       "state": "GA",
       "has_setlist": false,
-      "opening_song": "Reason to Believe",
-      "closing_song": "American Land"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "332",
@@ -630,8 +589,8 @@
       "city": "Uniondale",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Night ",
-      "closing_song": "American Land"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "325",
@@ -642,8 +601,8 @@
       "city": "Albany",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Radio Nowhere",
-      "closing_song": "American Land"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "320",
@@ -654,8 +613,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Radio Nowhere",
-      "closing_song": "American Land"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "319",
@@ -666,8 +625,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Radio Nowhere",
-      "closing_song": "American Land"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "318",
@@ -678,8 +637,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Radio Nowhere",
-      "closing_song": "American Land"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "316",
@@ -690,8 +649,8 @@
       "city": "Hartford",
       "state": "CT",
       "has_setlist": false,
-      "opening_song": "Radio Nowhere",
-      "closing_song": "American Land"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "315",
@@ -702,8 +661,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Promised Land",
-      "closing_song": "Long Walk Home"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "314",
@@ -714,8 +673,8 @@
       "city": "Asbury Park",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Radio Nowhere",
-      "closing_song": "American Land"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "195",
@@ -726,8 +685,8 @@
       "city": "Queens",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Code of Silence",
-      "closing_song": "Blood Brothers"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "191",
@@ -738,8 +697,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "The Rising ",
-      "closing_song": "Dancing in the Dark"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "186",
@@ -750,8 +709,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Downbound Train",
-      "closing_song": "Seven Nights to Rock"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "185",
@@ -762,8 +721,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Promised Land",
-      "closing_song": "Dancing in the Dark"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "184",
@@ -774,8 +733,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "The Rising",
-      "closing_song": "Dancing in the Dark"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "183",
@@ -786,8 +745,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "The Rising",
-      "closing_song": "Dancing in the Dark"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "182",
@@ -798,8 +757,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Born in the USA (Acoustic)",
-      "closing_song": "Dancing in the Dark"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "176",
@@ -810,8 +769,8 @@
       "city": "Columbus",
       "state": "OH",
       "has_setlist": false,
-      "opening_song": "The Rising ",
-      "closing_song": "Dancing In The Dark"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "170",
@@ -822,8 +781,8 @@
       "city": "Philadelphia",
       "state": "PA",
       "has_setlist": false,
-      "opening_song": "The Rising",
-      "closing_song": "Kitty's Back"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "165",
@@ -834,8 +793,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "The Rising",
-      "closing_song": "Land of Hope & Dreams"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "163",
@@ -846,8 +805,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "The Rising",
-      "closing_song": "Land of Hope & Dreams"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "107",
@@ -858,8 +817,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Code of Silence",
-      "closing_song": "Blood Brothers"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "104",
@@ -870,8 +829,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Another Thin Line",
-      "closing_song": "Land of Hope & Dreams"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "102",
@@ -882,8 +841,8 @@
       "city": "Hartford",
       "state": "CT",
       "has_setlist": false,
-      "opening_song": "Roulette",
-      "closing_song": "Ramrod"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "89",
@@ -894,8 +853,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "I Wanna Be With You",
-      "closing_song": "Land of Hope & Dreams"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "88",
@@ -906,8 +865,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "My Love Will Not Let You Down",
-      "closing_song": "Land of Hope & Dreams"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

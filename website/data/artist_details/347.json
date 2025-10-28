@@ -2,48 +2,7 @@
   "id": "347",
   "name": "Little Big Town",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Little White Church",
-      "times_played": 1
-    },
-    {
-      "name": "On Fire Tonight",
-      "times_played": 1
-    },
-    {
-      "name": "Bring It on Home",
-      "times_played": 1
-    },
-    {
-      "name": "Pavement Ends",
-      "times_played": 1
-    },
-    {
-      "name": "Sober",
-      "times_played": 1
-    },
-    {
-      "name": "Front Porch Thing",
-      "times_played": 1
-    },
-    {
-      "name": "Your Side of the Bed",
-      "times_played": 1
-    },
-    {
-      "name": "The Chain",
-      "times_played": 1
-    },
-    {
-      "name": "Can't Go Back",
-      "times_played": 1
-    },
-    {
-      "name": "Tornado",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "563",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Instrumental/Long Hit Summer",
-      "closing_song": "You Look Good in my Shirt"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -2,48 +2,7 @@
   "id": "651",
   "name": "Zac Brown Band",
   "concert_count": 8,
-  "top_songs": [
-    {
-      "name": "Toes",
-      "times_played": 8
-    },
-    {
-      "name": "Homegrown",
-      "times_played": 8
-    },
-    {
-      "name": "Colder Weather",
-      "times_played": 8
-    },
-    {
-      "name": "Chicken Fried",
-      "times_played": 8
-    },
-    {
-      "name": "Keep Me in Mind",
-      "times_played": 7
-    },
-    {
-      "name": "As She's Walking Away",
-      "times_played": 7
-    },
-    {
-      "name": "Knee Deep",
-      "times_played": 7
-    },
-    {
-      "name": "Beautiful Drug",
-      "times_played": 7
-    },
-    {
-      "name": "Free / Into the Mystic",
-      "times_played": 6
-    },
-    {
-      "name": "Sweet Annie",
-      "times_played": 5
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1116",
@@ -53,9 +12,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Make This Day",
-      "closing_song": "Chicken Fried"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1046",
@@ -65,9 +24,9 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Toes (Solo Acoustic)",
-      "closing_song": "Chicken Fried"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "984",
@@ -77,9 +36,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Keep Me In Mind",
-      "closing_song": "Chicken Fried"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "983",
@@ -89,9 +48,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Homegrown",
-      "closing_song": "Chicken Fried"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "937",
@@ -101,9 +60,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Homegrown",
-      "closing_song": "Bulls on Parade"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "844",
@@ -113,9 +72,9 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Homegrown",
-      "closing_song": "Killing in the Name"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "713",
@@ -125,9 +84,9 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Homegrown",
-      "closing_song": "Chicken Fried"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "647",
@@ -137,9 +96,9 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Homegrown",
-      "closing_song": "Chicken Fried"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

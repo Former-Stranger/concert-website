@@ -2,48 +2,7 @@
   "id": "224",
   "name": "Gaslight Anthem",
   "concert_count": 3,
-  "top_songs": [
-    {
-      "name": "Boxer",
-      "times_played": 2
-    },
-    {
-      "name": "We Came to Dance",
-      "times_played": 2
-    },
-    {
-      "name": "The Diamond Church Street Choir",
-      "times_played": 2
-    },
-    {
-      "name": "Old White Lincoln",
-      "times_played": 2
-    },
-    {
-      "name": "Even Cowgirls Get the Blues",
-      "times_played": 2
-    },
-    {
-      "name": "Old Haunts",
-      "times_played": 2
-    },
-    {
-      "name": "The '59 Sound",
-      "times_played": 2
-    },
-    {
-      "name": "Bring It On",
-      "times_played": 2
-    },
-    {
-      "name": "Miles Davis and the Cool",
-      "times_played": 2
-    },
-    {
-      "name": "The Spirit of Jazz",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "447",
@@ -53,9 +12,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "High Lonesome",
-      "closing_song": "Backseat"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "424",
@@ -65,9 +24,9 @@
       "venue": "Irving Plaza",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "American Slang",
-      "closing_song": "Back Seat"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "401",
@@ -78,8 +37,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "JM: Brooklyn",
-      "closing_song": "JM: Dgeneration"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

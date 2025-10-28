@@ -2,48 +2,7 @@
   "id": "500",
   "name": "Santana",
   "concert_count": 3,
-  "top_songs": [
-    {
-      "name": "Black Magic Woman / Gypsy Queen",
-      "times_played": 3
-    },
-    {
-      "name": "Oye c\u00f3mo va",
-      "times_played": 3
-    },
-    {
-      "name": "Jin-go-lo-ba",
-      "times_played": 3
-    },
-    {
-      "name": "Day of Celebration",
-      "times_played": 2
-    },
-    {
-      "name": "Bacalao con pan",
-      "times_played": 2
-    },
-    {
-      "name": "Europa (Earth's Cry, Heaven's Smile)",
-      "times_played": 2
-    },
-    {
-      "name": "Put Your Lights On",
-      "times_played": 2
-    },
-    {
-      "name": "Spiritual / (Da le) Yaleo",
-      "times_played": 1
-    },
-    {
-      "name": "Everybody's Everything",
-      "times_played": 1
-    },
-    {
-      "name": "Serpents and Doves",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1126",
@@ -53,9 +12,9 @@
       "venue": "House of Blues",
       "city": "Las Vegas",
       "state": "NV",
-      "has_setlist": true,
-      "opening_song": "Soul Sacrafice",
-      "closing_song": "Smooth"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "85",
@@ -65,9 +24,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "One Sweet Wordl",
-      "closing_song": "Ants Marching"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "44",
@@ -77,9 +36,9 @@
       "venue": "Thunder Ridge Ski Area",
       "city": "Patterson",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Unknown ",
-      "closing_song": "Unknown"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

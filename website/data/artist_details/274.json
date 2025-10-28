@@ -2,12 +2,7 @@
   "id": "274",
   "name": "Jesse Malin Benefit",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Wild Horses",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1224",
@@ -17,9 +12,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "I Woud Do it For You",
-      "closing_song": "Rudie Can't Fail"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

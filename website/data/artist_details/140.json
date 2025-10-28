@@ -2,48 +2,7 @@
   "id": "140",
   "name": "Creed",
   "concert_count": 3,
-  "top_songs": [
-    {
-      "name": "Bullets",
-      "times_played": 3
-    },
-    {
-      "name": "What If",
-      "times_played": 3
-    },
-    {
-      "name": "Say I",
-      "times_played": 3
-    },
-    {
-      "name": "Torn",
-      "times_played": 3
-    },
-    {
-      "name": "One Last Breath",
-      "times_played": 3
-    },
-    {
-      "name": "My Own Prison",
-      "times_played": 3
-    },
-    {
-      "name": "With Arms Wide Open",
-      "times_played": 3
-    },
-    {
-      "name": "One",
-      "times_played": 3
-    },
-    {
-      "name": "What's This Life For",
-      "times_played": 3
-    },
-    {
-      "name": "Higher",
-      "times_played": 3
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1223",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Bullets",
-      "closing_song": "My Sacrafice"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "388",
@@ -65,9 +24,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Ode",
-      "closing_song": "Higher"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "161",
@@ -77,9 +36,9 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Bullets",
-      "closing_song": "My Sacrafice"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

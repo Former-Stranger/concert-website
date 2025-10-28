@@ -2,48 +2,7 @@
   "id": "101",
   "name": "Bryan Adams",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Reckless",
-      "times_played": 1
-    },
-    {
-      "name": "One Night Love Affair",
-      "times_played": 1
-    },
-    {
-      "name": "She's Only Happy When She's Dancin'",
-      "times_played": 1
-    },
-    {
-      "name": "Run to You",
-      "times_played": 1
-    },
-    {
-      "name": "Boys Nite Out",
-      "times_played": 1
-    },
-    {
-      "name": "Heaven",
-      "times_played": 1
-    },
-    {
-      "name": "Kids Wanna Rock",
-      "times_played": 1
-    },
-    {
-      "name": "It's Only Love",
-      "times_played": 1
-    },
-    {
-      "name": "Long Gone",
-      "times_played": 1
-    },
-    {
-      "name": "Somebody",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "630",
@@ -53,9 +12,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Reckless",
-      "closing_song": "All for Love"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "557",
@@ -66,8 +25,8 @@
       "city": "Brookville",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Run to You",
-      "closing_song": "Straight for the Heart"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

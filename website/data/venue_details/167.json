@@ -11,9 +11,9 @@
       "date": "2025-08-03",
       "festival_name": null,
       "artists": "Avett Brothers",
-      "has_setlist": true,
-      "opening_song": "Head Full of Doubt",
-      "closing_song": "No Hard Feelings"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "557",
@@ -22,8 +22,8 @@
       "festival_name": null,
       "artists": "Bryan Adams",
       "has_setlist": false,
-      "opening_song": "Run to You",
-      "closing_song": "Straight for the Heart"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

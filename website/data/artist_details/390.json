@@ -2,48 +2,7 @@
   "id": "390",
   "name": "Mumford & Sons",
   "concert_count": 8,
-  "top_songs": [
-    {
-      "name": "Little Lion Man",
-      "times_played": 7
-    },
-    {
-      "name": "Lover of the Light",
-      "times_played": 7
-    },
-    {
-      "name": "Awake My Soul",
-      "times_played": 7
-    },
-    {
-      "name": "The Cave",
-      "times_played": 7
-    },
-    {
-      "name": "I Will Wait",
-      "times_played": 6
-    },
-    {
-      "name": "Ghosts That We Knew",
-      "times_played": 6
-    },
-    {
-      "name": "Dust Bowl Dance",
-      "times_played": 6
-    },
-    {
-      "name": "Roll Away Your Stone",
-      "times_played": 5
-    },
-    {
-      "name": "White Blank Page",
-      "times_played": 5
-    },
-    {
-      "name": "Timshel",
-      "times_played": 5
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1274",
@@ -53,9 +12,9 @@
       "venue": "Forest Hills Stadium",
       "city": "Forest Hills",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Little Lion Man",
-      "closing_song": "I Will Wait"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1263",
@@ -65,9 +24,9 @@
       "venue": "Saratoga Performing Arts Center",
       "city": "Saratoga Springs",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Rushmere",
-      "closing_song": "The Cave"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "888",
@@ -77,9 +36,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Guiding Light",
-      "closing_song": "Delta"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "700",
@@ -89,9 +48,9 @@
       "venue": "Forest Hills Stadium",
       "city": "Forest Hills",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Tompkins Square",
-      "closing_song": "The Wolf"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "615",
@@ -101,9 +60,9 @@
       "venue": "Le Poisson Rouge",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Snake Eyes",
-      "closing_song": "Only Love"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "533",
@@ -113,9 +72,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Babel",
-      "closing_song": "The Weight"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "512",
@@ -125,9 +84,9 @@
       "venue": "Pier A Park",
       "city": "Hoboken",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Lover's Eyes",
-      "closing_song": "The Cave"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "456",
@@ -137,9 +96,9 @@
       "venue": "Terminal 5",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Sigh No More",
-      "closing_song": "The Cave"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

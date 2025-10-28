@@ -11,9 +11,9 @@
       "date": "2025-06-04",
       "festival_name": "Multi-Artist Show",
       "artists": "Post Malone, Jelly Roll",
-      "has_setlist": true,
-      "opening_song": "JR: Heart of Stone   PM: Texas Tea",
-      "closing_song": "JR:  Save Me    PM:  Congratulations"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1184",
@@ -21,9 +21,9 @@
       "date": "2024-08-05",
       "festival_name": "Multi-Artist Show",
       "artists": "Green Day, Smashing Pumpkins",
-      "has_setlist": true,
-      "opening_song": "GD:  American Dream   SP:  Everlastinhg Gaze",
-      "closing_song": "GD:  Good Riddance   SP:  Zero"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1179",
@@ -31,9 +31,9 @@
       "date": "2024-07-17",
       "festival_name": null,
       "artists": "Foo Fighters",
-      "has_setlist": true,
-      "opening_song": "All My Life",
-      "closing_song": "Learn to Fly"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1094",
@@ -41,9 +41,9 @@
       "date": "2023-06-22",
       "festival_name": null,
       "artists": "Dead and Company",
-      "has_setlist": true,
-      "opening_song": "Feel Like a Stranger",
-      "closing_song": "Brokedown Palace"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1093",
@@ -51,9 +51,9 @@
       "date": "2023-06-21",
       "festival_name": null,
       "artists": "Dead and Company",
-      "has_setlist": true,
-      "opening_song": "Shakedown Street",
-      "closing_song": "Black Muddy River"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1046",
@@ -61,9 +61,9 @@
       "date": "2022-08-18",
       "festival_name": null,
       "artists": "Zac Brown Band",
-      "has_setlist": true,
-      "opening_song": "Toes (Solo Acoustic)",
-      "closing_song": "Chicken Fried"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1039",
@@ -71,9 +71,9 @@
       "date": "2022-07-16",
       "festival_name": "Multi-Artist Show",
       "artists": "DEAD:  Dead, Company",
-      "has_setlist": true,
-      "opening_song": "Playing in the Band",
-      "closing_song": "Deal ~ Playing in the Band"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1038",
@@ -81,9 +81,9 @@
       "date": "2022-07-15",
       "festival_name": "Multi-Artist Show",
       "artists": "DEAD:  Dead, Company",
-      "has_setlist": true,
-      "opening_song": "Bertha",
-      "closing_song": "Sugar Magnolia"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "982",
@@ -91,9 +91,9 @@
       "date": "2021-08-20",
       "festival_name": null,
       "artists": "Dead and Company",
-      "has_setlist": true,
-      "opening_song": "Let the Good Times Roll",
-      "closing_song": "The Weight"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "918",
@@ -101,9 +101,9 @@
       "date": "2019-06-23",
       "festival_name": null,
       "artists": "Dead and Company",
-      "has_setlist": true,
-      "opening_song": "St. Stephen",
-      "closing_song": "Brokedown Palace"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "844",
@@ -111,9 +111,9 @@
       "date": "2018-07-29",
       "festival_name": null,
       "artists": "Zac Brown Band",
-      "has_setlist": true,
-      "opening_song": "Homegrown",
-      "closing_song": "Killing in the Name"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "834",
@@ -121,9 +121,9 @@
       "date": "2018-06-16",
       "festival_name": null,
       "artists": "Dead and Company",
-      "has_setlist": true,
-      "opening_song": "Sugar Magnolia",
-      "closing_song": "One More Saturday Night"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "833",
@@ -132,8 +132,8 @@
       "festival_name": null,
       "artists": "Dead and Company",
       "has_setlist": false,
-      "opening_song": "Shakedown Street",
-      "closing_song": "Going Down the Road"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "781",
@@ -141,9 +141,9 @@
       "date": "2017-08-28",
       "festival_name": null,
       "artists": "Lady Gaga",
-      "has_setlist": true,
-      "opening_song": "Diamond Heart",
-      "closing_song": "Million Reasons"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "772",
@@ -151,9 +151,9 @@
       "date": "2017-07-30",
       "festival_name": "Multi-Artist Show",
       "artists": "Classic East: Fleetwood Mac, EWF, Journey",
-      "has_setlist": true,
-      "opening_song": "Various",
-      "closing_song": "Various"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "771",
@@ -161,9 +161,9 @@
       "date": "2017-07-29",
       "festival_name": "Multi-Artist Show",
       "artists": "Classic East: Eagles, Steely Dan, Doobies",
-      "has_setlist": true,
-      "opening_song": "Various",
-      "closing_song": "Various"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "762",
@@ -172,8 +172,8 @@
       "festival_name": null,
       "artists": "Dead and Company",
       "has_setlist": false,
-      "opening_song": "Dancing in the Streets",
-      "closing_song": "Touch Of Grey / Johnny B. Goode"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "713",
@@ -181,9 +181,9 @@
       "date": "2016-08-19",
       "festival_name": null,
       "artists": "Zac Brown Band",
-      "has_setlist": true,
-      "opening_song": "Homegrown",
-      "closing_song": "Chicken Fried"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "702",
@@ -191,9 +191,9 @@
       "date": "2016-06-26",
       "festival_name": null,
       "artists": "Dead and Company",
-      "has_setlist": true,
-      "opening_song": "St. Stephen",
-      "closing_song": "Samson & Delilah"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "701",
@@ -201,9 +201,9 @@
       "date": "2016-06-25",
       "festival_name": null,
       "artists": "Dead and Company",
-      "has_setlist": true,
-      "opening_song": "Shakedown Street",
-      "closing_song": "Ripple / One More Saturday night"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "647",
@@ -211,9 +211,9 @@
       "date": "2015-08-22",
       "festival_name": null,
       "artists": "Zac Brown Band",
-      "has_setlist": true,
-      "opening_song": "Homegrown",
-      "closing_song": "Chicken Fried"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "434",
@@ -222,8 +222,8 @@
       "festival_name": null,
       "artists": "Dave Matthews Band with Zach Brown Band",
       "has_setlist": false,
-      "opening_song": "ZBB: Toes       \nDMB: Big Eyed Fish",
-      "closing_song": "ZBB: Killing in the Name Of\nDMB: "
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "385",
@@ -231,9 +231,9 @@
       "date": "2009-07-17",
       "festival_name": null,
       "artists": "Paul McCartney",
-      "has_setlist": true,
-      "opening_song": "Drive My Car",
-      "closing_song": "Sgt. Peppers"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

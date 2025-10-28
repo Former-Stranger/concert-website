@@ -2,48 +2,7 @@
   "id": "392",
   "name": "My Morning Jacket",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Cobra",
-      "times_played": 1
-    },
-    {
-      "name": "Gideon",
-      "times_played": 1
-    },
-    {
-      "name": "The Way That He Sings",
-      "times_played": 1
-    },
-    {
-      "name": "Lay Low",
-      "times_played": 1
-    },
-    {
-      "name": "Slow Slow Tune",
-      "times_played": 1
-    },
-    {
-      "name": "Run It",
-      "times_played": 1
-    },
-    {
-      "name": "I'm Amazed",
-      "times_played": 1
-    },
-    {
-      "name": "Least Expected",
-      "times_played": 1
-    },
-    {
-      "name": "Lucky to Be Alive",
-      "times_played": 1
-    },
-    {
-      "name": "War Begun",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1124",
@@ -53,9 +12,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Cobra",
-      "closing_song": "Touch Me, I'm Gonna Scream Pt. 2"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

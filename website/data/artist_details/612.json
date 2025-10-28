@@ -2,44 +2,7 @@
   "id": "612",
   "name": "Trey Anastaio",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Open Sesame",
-      "times_played": 1
-    },
-    {
-      "name": "Fresh",
-      "times_played": 1
-    },
-    {
-      "name": "Misled",
-      "times_played": 1
-    },
-    {
-      "name": "Too Hot",
-      "times_played": 1
-    },
-    {
-      "name": "Jungle Boogie",
-      "times_played": 1
-    },
-    {
-      "name": "Hollywood Swingin'",
-      "times_played": 1
-    },
-    {
-      "name": "Ladies' Night",
-      "times_played": 1
-    },
-    {
-      "name": "Get Down on It",
-      "times_played": 1
-    },
-    {
-      "name": "Celebration",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1197",
@@ -49,9 +12,9 @@
       "venue": "Asbury Park Beach",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Pre: Kitty's Back  Op:  Lonesome Day",
-      "closing_song": "Jersey Girl"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

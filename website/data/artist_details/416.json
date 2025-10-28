@@ -2,48 +2,7 @@
   "id": "416",
   "name": "Patti Smith)",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Redondo Beach",
-      "times_played": 1
-    },
-    {
-      "name": "Grateful",
-      "times_played": 1
-    },
-    {
-      "name": "Ghost Dance",
-      "times_played": 1
-    },
-    {
-      "name": "Dancing Barefoot",
-      "times_played": 1
-    },
-    {
-      "name": "Free Money",
-      "times_played": 1
-    },
-    {
-      "name": "One Too Many Mornings",
-      "times_played": 1
-    },
-    {
-      "name": "Beneath the Southern Cross",
-      "times_played": 1
-    },
-    {
-      "name": "Because the Night",
-      "times_played": 1
-    },
-    {
-      "name": "Pissing in a River",
-      "times_played": 1
-    },
-    {
-      "name": "Gloria",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "988",
@@ -53,9 +12,9 @@
       "venue": "Asbury Park Beach",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "PJ: Clairvoyants     Avett:  Satan Pulls",
-      "closing_song": "PJ: Clairvoyants     Avett:  No Hard Feelings"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

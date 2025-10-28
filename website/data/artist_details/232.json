@@ -2,48 +2,7 @@
   "id": "232",
   "name": "Gov't Mule",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Blind Man in the Dark",
-      "times_played": 2
-    },
-    {
-      "name": "Rocking Horse",
-      "times_played": 1
-    },
-    {
-      "name": "Temporary Saint",
-      "times_played": 1
-    },
-    {
-      "name": "Thorazine Shuffle",
-      "times_played": 1
-    },
-    {
-      "name": "No Need to Suffer",
-      "times_played": 1
-    },
-    {
-      "name": "Larger Than Life",
-      "times_played": 1
-    },
-    {
-      "name": "She Said She Said",
-      "times_played": 1
-    },
-    {
-      "name": "Tomorrow Never Knows",
-      "times_played": 1
-    },
-    {
-      "name": "Wandering Child",
-      "times_played": 1
-    },
-    {
-      "name": "Kind of Bird",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "72",
@@ -53,9 +12,9 @@
       "venue": "Irving Plaza",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Whore",
-      "closing_song": "Bad Sign"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

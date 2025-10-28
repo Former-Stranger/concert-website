@@ -12,7 +12,7 @@
   {
     "id": "88",
     "name": "Bruce Springsteen",
-    "concert_count": 34
+    "concert_count": 35
   },
   {
     "id": "189",
@@ -145,11 +145,6 @@
     "concert_count": 9
   },
   {
-    "id": "429",
-    "name": "Phil Lesh & Friends",
-    "concert_count": 9
-  },
-  {
     "id": "643",
     "name": "Wolf Brothers",
     "concert_count": 9
@@ -195,6 +190,11 @@
     "concert_count": 7
   },
   {
+    "id": "536",
+    "name": "Steve Earle",
+    "concert_count": 7
+  },
+  {
     "id": "119",
     "name": "Chris Stapleton",
     "concert_count": 6
@@ -230,6 +230,11 @@
     "concert_count": 6
   },
   {
+    "id": "481",
+    "name": "Rod Stewart",
+    "concert_count": 6
+  },
+  {
     "id": "484",
     "name": "Roger McGuinn",
     "concert_count": 6
@@ -240,13 +245,13 @@
     "concert_count": 6
   },
   {
-    "id": "536",
-    "name": "Steve Earle",
+    "id": "601",
+    "name": "Tom Petty & the Heartbreakers",
     "concert_count": 6
   },
   {
-    "id": "601",
-    "name": "Tom Petty & the Heartbreakers",
+    "id": "642",
+    "name": "Willie Nile",
     "concert_count": 6
   },
   {
@@ -272,6 +277,11 @@
   {
     "id": "212",
     "name": "Fleetwood Mac",
+    "concert_count": 5
+  },
+  {
+    "id": "216",
+    "name": "Friends",
     "concert_count": 5
   },
   {
@@ -315,13 +325,13 @@
     "concert_count": 5
   },
   {
-    "id": "457",
-    "name": "Richie Havens",
+    "id": "429",
+    "name": "Phil Lesh",
     "concert_count": 5
   },
   {
-    "id": "481",
-    "name": "Rod Stewart",
+    "id": "457",
+    "name": "Richie Havens",
     "concert_count": 5
   },
   {
@@ -372,11 +382,6 @@
   {
     "id": "641",
     "name": "Willie Nelson",
-    "concert_count": 5
-  },
-  {
-    "id": "642",
-    "name": "Willie Nile",
     "concert_count": 5
   },
   {
@@ -532,11 +537,6 @@
   {
     "id": "214",
     "name": "Foo Fighters",
-    "concert_count": 3
-  },
-  {
-    "id": "216",
-    "name": "Friends",
     "concert_count": 3
   },
   {
@@ -740,6 +740,11 @@
     "concert_count": 2
   },
   {
+    "id": "70",
+    "name": "Bobby",
+    "concert_count": 2
+  },
+  {
     "id": "87",
     "name": "Brothers Osbourne",
     "concert_count": 2
@@ -780,6 +785,11 @@
     "concert_count": 2
   },
   {
+    "id": "147",
+    "name": "DEAD: Phil Lesh + Friends (w. Warren Haynes",
+    "concert_count": 2
+  },
+  {
     "id": "173",
     "name": "Dirty Knobs",
     "concert_count": 2
@@ -807,6 +817,11 @@
   {
     "id": "205",
     "name": "Fab Faux",
+    "concert_count": 2
+  },
+  {
+    "id": "218",
+    "name": "Friends (W. Warren Haynes)",
     "concert_count": 2
   },
   {
@@ -970,8 +985,18 @@
     "concert_count": 2
   },
   {
+    "id": "427",
+    "name": "Phil",
+    "concert_count": 2
+  },
+  {
     "id": "436",
     "name": "Prince",
+    "concert_count": 2
+  },
+  {
+    "id": "438",
+    "name": "Q)",
     "concert_count": 2
   },
   {
@@ -1365,11 +1390,6 @@
     "concert_count": 1
   },
   {
-    "id": "91",
-    "name": "Bruce Springsteen + Earle + Nile + Cash (7th Annual J. Henry)",
-    "concert_count": 1
-  },
-  {
     "id": "92",
     "name": "Bruce Springsteen / Jann Wenner",
     "concert_count": 1
@@ -1542,6 +1562,11 @@
   {
     "id": "141",
     "name": "Creedence Clearwater Revisited (Doug Clifford",
+    "concert_count": 1
+  },
+  {
+    "id": "Ts7IBnCtQNORftKRdruR",
+    "name": "Cyndi Lauper",
     "concert_count": 1
   },
   {
@@ -2475,11 +2500,6 @@
     "concert_count": 1
   },
   {
-    "id": "482",
-    "name": "Rod Stewart/Cyndi Lauper",
-    "concert_count": 1
-  },
-  {
     "id": "483",
     "name": "Roger Daltrey",
     "concert_count": 1
@@ -2487,6 +2507,11 @@
   {
     "id": "486",
     "name": "Roll Hall Induction 2019",
+    "concert_count": 1
+  },
+  {
+    "id": "Mot4G3p6nLaSA8zGwjNb",
+    "name": "Rosanne Cash",
     "concert_count": 1
   },
   {

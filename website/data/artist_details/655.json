@@ -2,48 +2,7 @@
   "id": "655",
   "name": "Zach Bryan",
   "concert_count": 3,
-  "top_songs": [
-    {
-      "name": "Overtime",
-      "times_played": 3
-    },
-    {
-      "name": "Open the Gate",
-      "times_played": 3
-    },
-    {
-      "name": "God Speed",
-      "times_played": 3
-    },
-    {
-      "name": "Fifth of May",
-      "times_played": 3
-    },
-    {
-      "name": "Nine Ball",
-      "times_played": 3
-    },
-    {
-      "name": "East Side of Sorrow",
-      "times_played": 3
-    },
-    {
-      "name": "Oklahoma Smokeshow",
-      "times_played": 3
-    },
-    {
-      "name": "Dawns",
-      "times_played": 3
-    },
-    {
-      "name": "Heading South",
-      "times_played": 3
-    },
-    {
-      "name": "Hey Driver",
-      "times_played": 3
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1268",
@@ -53,9 +12,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Overtime",
-      "closing_song": "Revival"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1226",
@@ -65,9 +24,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Overtime",
-      "closing_song": "Revival"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1152",
@@ -77,9 +36,9 @@
       "venue": "UBS Arena",
       "city": "Elmont",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Overtime",
-      "closing_song": "Revival"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

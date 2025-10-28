@@ -12,8 +12,8 @@
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
       "has_setlist": false,
-      "opening_song": "No Surrender",
-      "closing_song": "I'll See You In My Dreams"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "673",
@@ -22,8 +22,8 @@
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
       "has_setlist": false,
-      "opening_song": "Meet Me in the City",
-      "closing_song": "Shout"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "229",
@@ -31,9 +31,9 @@
       "date": "2005-05-22",
       "festival_name": null,
       "artists": "U2",
-      "has_setlist": true,
-      "opening_song": "City of Blinding Lights",
-      "closing_song": "40"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "215",
@@ -41,9 +41,9 @@
       "date": "2004-10-01",
       "festival_name": null,
       "artists": "Bruce Springsteen",
-      "has_setlist": true,
-      "opening_song": "REM: The One I Love\nBS: Star Spangled Banner/Born in USA",
-      "closing_song": "REM: Man on the Moon\nBS: People Have the Power"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "170",
@@ -52,8 +52,8 @@
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
       "has_setlist": false,
-      "opening_song": "The Rising",
-      "closing_song": "Kitty's Back"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

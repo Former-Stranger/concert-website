@@ -2,48 +2,7 @@
   "id": "264",
   "name": "Jason Isbell",
   "concert_count": 4,
-  "top_songs": [
-    {
-      "name": "Alabama Pines",
-      "times_played": 4
-    },
-    {
-      "name": "Cover Me Up",
-      "times_played": 4
-    },
-    {
-      "name": "Strawberry Woman",
-      "times_played": 3
-    },
-    {
-      "name": "Last of My Kind",
-      "times_played": 3
-    },
-    {
-      "name": "Overseas",
-      "times_played": 3
-    },
-    {
-      "name": "Cast Iron Skillet",
-      "times_played": 3
-    },
-    {
-      "name": "24 Frames",
-      "times_played": 3
-    },
-    {
-      "name": "If We Were Vampires",
-      "times_played": 3
-    },
-    {
-      "name": "Speed Trap Town",
-      "times_played": 3
-    },
-    {
-      "name": "When We Were Close",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1237",
@@ -53,9 +12,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Bury Me",
-      "closing_song": "True Believer"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1143",
@@ -65,9 +24,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "When We Were Close",
-      "closing_song": "This Ain't It"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1103",
@@ -77,9 +36,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "When We Were Close",
-      "closing_song": "This Ain't It"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1016",
@@ -89,9 +48,9 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "24 Frames",
-      "closing_song": "Mutineer"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

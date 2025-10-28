@@ -2,48 +2,7 @@
   "id": "16",
   "name": "All Starr Band",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Matchbox",
-      "times_played": 2
-    },
-    {
-      "name": "It Don't Come Easy",
-      "times_played": 2
-    },
-    {
-      "name": "What Goes On",
-      "times_played": 2
-    },
-    {
-      "name": "Evil Ways",
-      "times_played": 2
-    },
-    {
-      "name": "Rosanna",
-      "times_played": 2
-    },
-    {
-      "name": "Boys",
-      "times_played": 2
-    },
-    {
-      "name": "Don't Pass Me By",
-      "times_played": 2
-    },
-    {
-      "name": "Yellow Submarine",
-      "times_played": 2
-    },
-    {
-      "name": "Black Magic Woman / Gypsy Queen",
-      "times_played": 2
-    },
-    {
-      "name": "You're Sixteen",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "860",
@@ -53,9 +12,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Matchbox",
-      "closing_song": "With a Little Help from My Friends"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "799",
@@ -65,9 +24,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Matchbox",
-      "closing_song": "With a Little Help from My Friends"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

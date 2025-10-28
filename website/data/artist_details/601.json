@@ -2,48 +2,7 @@
   "id": "601",
   "name": "Tom Petty & the Heartbreakers",
   "concert_count": 6,
-  "top_songs": [
-    {
-      "name": "Runnin' Down a Dream",
-      "times_played": 5
-    },
-    {
-      "name": "Mary Jane's Last Dance",
-      "times_played": 5
-    },
-    {
-      "name": "I Won't Back Down",
-      "times_played": 5
-    },
-    {
-      "name": "Listen to Her Heart",
-      "times_played": 5
-    },
-    {
-      "name": "You Don't Know How It Feels",
-      "times_played": 5
-    },
-    {
-      "name": "You Wreck Me",
-      "times_played": 5
-    },
-    {
-      "name": "Jammin' Me",
-      "times_played": 4
-    },
-    {
-      "name": "Swingin'",
-      "times_played": 4
-    },
-    {
-      "name": "I Don't Wanna Fight",
-      "times_played": 4
-    },
-    {
-      "name": "It's Good to Be King",
-      "times_played": 4
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "263",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Listen To Her Heart",
-      "closing_song": "American Girl"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "87",
@@ -65,9 +24,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Jammin Me",
-      "closing_song": "Learning to Fly"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "86",
@@ -77,9 +36,9 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Jammin Me",
-      "closing_song": "Learning to Fly"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "83",
@@ -89,9 +48,9 @@
       "venue": "Irving Plaza",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Around & Around",
-      "closing_song": "Gloria"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "82",
@@ -101,9 +60,9 @@
       "venue": "Irving Plaza",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Rip It Up",
-      "closing_song": "Gloria"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "10",
@@ -114,8 +73,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Love is a Long Road",
-      "closing_song": "American Girl"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

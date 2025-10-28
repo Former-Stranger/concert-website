@@ -2,48 +2,7 @@
   "id": "116",
   "name": "Chicago",
   "concert_count": 3,
-  "top_songs": [
-    {
-      "name": "Make Me Smile",
-      "times_played": 2
-    },
-    {
-      "name": "So Much to Say, So Much to Give",
-      "times_played": 2
-    },
-    {
-      "name": "Anxiety's Moment",
-      "times_played": 2
-    },
-    {
-      "name": "West Virginia Fantasies",
-      "times_played": 2
-    },
-    {
-      "name": "Colour My World",
-      "times_played": 2
-    },
-    {
-      "name": "To Be Free",
-      "times_played": 2
-    },
-    {
-      "name": "Now More Than Ever",
-      "times_played": 2
-    },
-    {
-      "name": "Does Anybody Really Know What Time It Is?",
-      "times_played": 2
-    },
-    {
-      "name": "Dialogue (Part I & II)",
-      "times_played": 2
-    },
-    {
-      "name": "Call on Me",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "862",
@@ -53,9 +12,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Make You Smile",
-      "closing_song": "Feeling Stronger Everyday"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "680",
@@ -65,7 +24,7 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true,
+      "has_setlist": false,
       "opening_song": null,
       "closing_song": null
     },
@@ -77,9 +36,9 @@
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "XXX?Colour My World",
-      "closing_song": "25 or 6 to 5"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

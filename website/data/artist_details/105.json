@@ -2,48 +2,7 @@
   "id": "105",
   "name": "Buddy Guy",
   "concert_count": 3,
-  "top_songs": [
-    {
-      "name": "Damn Right, I've Got the Blues",
-      "times_played": 2
-    },
-    {
-      "name": "Keep On Growing",
-      "times_played": 1
-    },
-    {
-      "name": "Get What You Deserve",
-      "times_played": 1
-    },
-    {
-      "name": "Don't Let Me Slide",
-      "times_played": 1
-    },
-    {
-      "name": "I Am the Moon",
-      "times_played": 1
-    },
-    {
-      "name": "Learn How to Love",
-      "times_played": 1
-    },
-    {
-      "name": "La Di Da",
-      "times_played": 1
-    },
-    {
-      "name": "Gravity",
-      "times_played": 1
-    },
-    {
-      "name": "Had to Cry Today",
-      "times_played": 1
-    },
-    {
-      "name": "Just Won't Burn",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1252",
@@ -53,9 +12,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "BG:  Damn Right   TTB: Keep on Growing",
-      "closing_song": "BG:       TTB: Space Captain"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1157",
@@ -65,9 +24,9 @@
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Damn Right I've Got the Blues",
-      "closing_song": "The Same Thing"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1027",
@@ -77,8 +36,8 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Damn Right I've Got the Blues",
+      "has_setlist": false,
+      "opening_song": null,
       "closing_song": null
     }
   ]

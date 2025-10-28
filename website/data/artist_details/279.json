@@ -2,48 +2,7 @@
   "id": "279",
   "name": "Joan Jett",
   "concert_count": 4,
-  "top_songs": [
-    {
-      "name": "Who Are You",
-      "times_played": 2
-    },
-    {
-      "name": "The Seeker",
-      "times_played": 2
-    },
-    {
-      "name": "The Kids Are Alright",
-      "times_played": 2
-    },
-    {
-      "name": "I Can See for Miles",
-      "times_played": 2
-    },
-    {
-      "name": "My Generation",
-      "times_played": 2
-    },
-    {
-      "name": "Behind Blue Eyes",
-      "times_played": 2
-    },
-    {
-      "name": "Bargain",
-      "times_played": 2
-    },
-    {
-      "name": "Join Together",
-      "times_played": 2
-    },
-    {
-      "name": "You Better You Bet",
-      "times_played": 2
-    },
-    {
-      "name": "I'm One",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "677",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Who: Who Are You        JJ: Bad Reputation",
-      "closing_song": "Who: Won't Get Fooled Again      JJ: I Hate MySelf For Loving You"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "624",
@@ -65,9 +24,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "I Can't Explain",
-      "closing_song": "Won't Get Fooled Again"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "144",
@@ -78,8 +37,8 @@
       "city": "Red Bank",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "JBJ: Keep the Faith\nBS: Tiger Rose ",
-      "closing_song": "JBJ: Abraham, Martin & John\nBS: Stand By Me"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "143",
@@ -90,8 +49,8 @@
       "city": "Uniondale",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Bad Reputation",
-      "closing_song": "I Love Rock & Roll"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -2,48 +2,7 @@
   "id": "334",
   "name": "Lady Gaga",
   "concert_count": 4,
-  "top_songs": [
-    {
-      "name": "Poker Face",
-      "times_played": 4
-    },
-    {
-      "name": "Bad Romance",
-      "times_played": 4
-    },
-    {
-      "name": "Born This Way",
-      "times_played": 3
-    },
-    {
-      "name": "Paparazzi",
-      "times_played": 3
-    },
-    {
-      "name": "Just Dance",
-      "times_played": 3
-    },
-    {
-      "name": "LoveGame",
-      "times_played": 2
-    },
-    {
-      "name": "Telephone",
-      "times_played": 2
-    },
-    {
-      "name": "Yo\u00fc and I",
-      "times_played": 2
-    },
-    {
-      "name": "Monster",
-      "times_played": 2
-    },
-    {
-      "name": "Alejandro",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1120",
@@ -53,9 +12,9 @@
       "venue": "Dolby Live at Park MGM",
       "city": "Las Vegas",
       "state": "NV",
-      "has_setlist": true,
-      "opening_song": "Orange Colored Sky",
-      "closing_song": "Theme from New York, New York"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "781",
@@ -65,9 +24,9 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Diamond Heart",
-      "closing_song": "Million Reasons"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "571",
@@ -77,9 +36,9 @@
       "venue": "Roseland",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Born this Way",
-      "closing_song": "G.U.Y"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "429",
@@ -89,9 +48,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Dance in the Dark",
-      "closing_song": "Bad Romance"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

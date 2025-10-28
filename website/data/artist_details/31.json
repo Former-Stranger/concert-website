@@ -2,48 +2,7 @@
   "id": "31",
   "name": "Avetts",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Mule",
-      "times_played": 1
-    },
-    {
-      "name": "Revolution Come, Revolution Go",
-      "times_played": 1
-    },
-    {
-      "name": "Shine On You Crazy Diamond (Parts I-V)",
-      "times_played": 1
-    },
-    {
-      "name": "Have a Cigar",
-      "times_played": 1
-    },
-    {
-      "name": "Speak to Me",
-      "times_played": 1
-    },
-    {
-      "name": "Breathe (In the Air)",
-      "times_played": 1
-    },
-    {
-      "name": "On the Run",
-      "times_played": 1
-    },
-    {
-      "name": "Time",
-      "times_played": 1
-    },
-    {
-      "name": "Breathe (Reprise)",
-      "times_played": 1
-    },
-    {
-      "name": "The Great Gig in the Sky",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "988",
@@ -53,9 +12,9 @@
       "venue": "Asbury Park Beach",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "PJ: Clairvoyants     Avett:  Satan Pulls",
-      "closing_song": "PJ: Clairvoyants     Avett:  No Hard Feelings"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "840",
@@ -65,9 +24,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Avett: Rock Cradle Lucy    Mule:  Mule",
-      "closing_song": "Avett: No Hard Feelings     Mule: Wish You Were Here"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

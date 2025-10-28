@@ -2,48 +2,7 @@
   "id": "263",
   "name": "Jason Aldean",
   "concert_count": 6,
-  "top_songs": [
-    {
-      "name": "Tattoos on This Town",
-      "times_played": 3
-    },
-    {
-      "name": "When She Says Baby",
-      "times_played": 3
-    },
-    {
-      "name": "Fly Over States",
-      "times_played": 3
-    },
-    {
-      "name": "Rearview Town",
-      "times_played": 3
-    },
-    {
-      "name": "Amarillo Sky",
-      "times_played": 3
-    },
-    {
-      "name": "We Back",
-      "times_played": 3
-    },
-    {
-      "name": "Take a Little Ride",
-      "times_played": 3
-    },
-    {
-      "name": "Dirt Road Anthem",
-      "times_played": 3
-    },
-    {
-      "name": "Crazy Town",
-      "times_played": 3
-    },
-    {
-      "name": "The Only Way I Know",
-      "times_played": 3
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1099",
@@ -53,9 +12,9 @@
       "venue": "Xfinity Center",
       "city": "Mansfield",
       "state": "MA",
-      "has_setlist": true,
-      "opening_song": "Tough Crowd",
-      "closing_song": "Crazy Town (cut short for heat stroke)"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "978",
@@ -65,9 +24,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Crazy Town",
-      "closing_song": "She's Country"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "940",
@@ -77,9 +36,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Take a Little Ride",
-      "closing_song": "The Only Way I Know"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "849",
@@ -89,9 +48,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "JA: Getting Warmed Up      LC: Beer Never Broke",
-      "closing_song": "JA: Crazy Town      LC: Hurricane"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "779",
@@ -113,9 +72,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Hicktown/She's Country   &   Drink It Up/Boys of Fall",
-      "closing_song": "Summer of 69 (Together)"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

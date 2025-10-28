@@ -2,48 +2,7 @@
   "id": "198",
   "name": "Eric Church",
   "concert_count": 6,
-  "top_songs": [
-    {
-      "name": "Cold One",
-      "times_played": 5
-    },
-    {
-      "name": "Creepin'",
-      "times_played": 5
-    },
-    {
-      "name": "Drink in My Hand",
-      "times_played": 5
-    },
-    {
-      "name": "Homeboy",
-      "times_played": 5
-    },
-    {
-      "name": "Talladega",
-      "times_played": 5
-    },
-    {
-      "name": "The Outsiders",
-      "times_played": 5
-    },
-    {
-      "name": "Pledge Allegiance to the Hag",
-      "times_played": 5
-    },
-    {
-      "name": "Smoke a Little Smoke",
-      "times_played": 5
-    },
-    {
-      "name": "Give Me Back My Hometown",
-      "times_played": 5
-    },
-    {
-      "name": "These Boots",
-      "times_played": 5
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1022",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "NY State of Mind/The Outsiders",
-      "closing_song": "Old Songs, Old Whiskey, Old Friends"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "955",
@@ -65,9 +24,9 @@
       "venue": "XL Center",
       "city": "Hartford",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "That's Damn Rock & Roll",
-      "closing_song": "Chevy Van"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "741",
@@ -77,9 +36,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Mistress Named Music",
-      "closing_song": "Those I've Loved"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "621",
@@ -89,9 +48,9 @@
       "venue": "Prudential Center",
       "city": "Newark",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "The Outsiders",
-      "closing_song": "Those I've Loved"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "605",
@@ -101,9 +60,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "The Outsiders",
-      "closing_song": "Lightning"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "550",
@@ -113,9 +72,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Feel Like a Rock Star  /  Creepin'",
-      "closing_song": "She Thinks My Tractor's Sexy /  Springsteen"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

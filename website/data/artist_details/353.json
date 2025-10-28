@@ -2,48 +2,7 @@
   "id": "353",
   "name": "The Lone Bellow",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Homesick",
-      "times_played": 1
-    },
-    {
-      "name": "To the Woods",
-      "times_played": 1
-    },
-    {
-      "name": "You Never Need Nobody",
-      "times_played": 1
-    },
-    {
-      "name": "Cost of Living",
-      "times_played": 1
-    },
-    {
-      "name": "You Don't Love Me Like You Used To",
-      "times_played": 1
-    },
-    {
-      "name": "When You Were Young",
-      "times_played": 1
-    },
-    {
-      "name": "Common Folk",
-      "times_played": 1
-    },
-    {
-      "name": "Bleeding Out",
-      "times_played": 1
-    },
-    {
-      "name": "I'll Be",
-      "times_played": 1
-    },
-    {
-      "name": "Watch Over Us",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1244",
@@ -53,9 +12,9 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "Homesick",
-      "closing_song": "Honey"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1206",
@@ -66,8 +25,8 @@
       "city": "Tarrytown",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "It's a Long Walk Home and Short Life to Live",
-      "closing_song": "Tree To grow"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

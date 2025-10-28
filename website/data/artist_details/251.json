@@ -2,44 +2,7 @@
   "id": "251",
   "name": "Hot Tuna",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "I Know You Rider",
-      "times_played": 1
-    },
-    {
-      "name": "I See the Light",
-      "times_played": 1
-    },
-    {
-      "name": "Bankrobber",
-      "times_played": 1
-    },
-    {
-      "name": "99 Year Blues",
-      "times_played": 1
-    },
-    {
-      "name": "Parchman Farm",
-      "times_played": 1
-    },
-    {
-      "name": "Hit Single #1",
-      "times_played": 1
-    },
-    {
-      "name": "I Can't Be Satisfied",
-      "times_played": 1
-    },
-    {
-      "name": "Ode for Billy Dean",
-      "times_played": 1
-    },
-    {
-      "name": "Going Down the Road Feeling Bad",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "114",
@@ -49,9 +12,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Trouble No More",
-      "closing_song": "You Don't Love Me (w/Hot Tuna)"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

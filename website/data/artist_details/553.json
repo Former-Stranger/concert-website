@@ -2,48 +2,7 @@
   "id": "553",
   "name": "Sturgill Simpson",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Brace for Impact (Live a Little)",
-      "times_played": 2
-    },
-    {
-      "name": "You Don't Miss Your Water",
-      "times_played": 2
-    },
-    {
-      "name": "Long White Line",
-      "times_played": 2
-    },
-    {
-      "name": "Some Days",
-      "times_played": 2
-    },
-    {
-      "name": "Turtles All the Way Down",
-      "times_played": 2
-    },
-    {
-      "name": "All Around You",
-      "times_played": 2
-    },
-    {
-      "name": "Living the Dream",
-      "times_played": 2
-    },
-    {
-      "name": "Welcome to Earth (Pollywog)",
-      "times_played": 2
-    },
-    {
-      "name": "It Ain't All Flowers",
-      "times_played": 2
-    },
-    {
-      "name": "Life of Sin",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1207",
@@ -53,9 +12,9 @@
       "venue": "Forest Hills Stadium",
       "city": "Forest Hills",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "I Don't Mind",
-      "closing_song": "Call to Arms"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "784",
@@ -65,9 +24,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Pollywog",
-      "closing_song": "Call to Arms"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

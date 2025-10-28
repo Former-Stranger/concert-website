@@ -2,48 +2,7 @@
   "id": "411",
   "name": "Orville Peck)",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Winds Change",
-      "times_played": 1
-    },
-    {
-      "name": "Roses Are Falling",
-      "times_played": 1
-    },
-    {
-      "name": "Turn to Hate",
-      "times_played": 1
-    },
-    {
-      "name": "No Glory in the West",
-      "times_played": 1
-    },
-    {
-      "name": "Drive Me, Crazy",
-      "times_played": 1
-    },
-    {
-      "name": "Buffalo Run",
-      "times_played": 1
-    },
-    {
-      "name": "Nothing Fades Like the Light",
-      "times_played": 1
-    },
-    {
-      "name": "Queen of the Rodeo",
-      "times_played": 1
-    },
-    {
-      "name": "Legends Never Die",
-      "times_played": 1
-    },
-    {
-      "name": "Dead of Night",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "989",
@@ -53,9 +12,9 @@
       "venue": "Asbury Park Beach",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Pumpkins: ",
-      "closing_song": "Pumpkins:  "
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

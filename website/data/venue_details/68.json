@@ -11,9 +11,9 @@
       "date": "2024-10-05",
       "festival_name": null,
       "artists": "Kings of Leon",
-      "has_setlist": true,
-      "opening_song": "Ballerina Radio",
-      "closing_song": "Use Somebody"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1095",
@@ -22,8 +22,8 @@
       "festival_name": null,
       "artists": "Steve Miller Band with Dave Mason",
       "has_setlist": false,
-      "opening_song": "SM:  Swingtown  DM:  Only You Know and I Know",
-      "closing_song": "SM:  Rock'n Me   DM:  Feelin' Alright"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1045",
@@ -31,9 +31,9 @@
       "date": "2022-08-14",
       "festival_name": null,
       "artists": "Steve Miller Band",
-      "has_setlist": true,
-      "opening_song": "Stranger Blues",
-      "closing_song": "The Joker"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1037",
@@ -41,9 +41,9 @@
       "date": "2022-07-13",
       "festival_name": null,
       "artists": "Jackson Browne",
-      "has_setlist": true,
-      "opening_song": "Somebody's Baby",
-      "closing_song": "The Load Out + Stay"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1035",
@@ -51,19 +51,19 @@
       "date": "2022-07-02",
       "festival_name": null,
       "artists": "Lynyrd Skynyrd",
-      "has_setlist": true,
-      "opening_song": "Workin for MCA",
-      "closing_song": "Freebird"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1034",
       "show_number": 1033,
       "date": "2022-07-01",
       "festival_name": "Multi-Artist Show",
-      "artists": "Phil Lesh & Friends",
+      "artists": "DEAD: Phil Lesh + Friends (w. Warren Haynes, Q)",
       "has_setlist": false,
-      "opening_song": "Althea",
-      "closing_song": "Midnight Hour"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1031",
@@ -71,9 +71,9 @@
       "date": "2022-06-27",
       "festival_name": null,
       "artists": "Black Crowes",
-      "has_setlist": true,
-      "opening_song": "Twice As Hard",
-      "closing_song": "Rocks Off"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "987",
@@ -81,9 +81,9 @@
       "date": "2021-09-17",
       "festival_name": null,
       "artists": "Foo Fighters",
-      "has_setlist": true,
-      "opening_song": "Times Like These",
-      "closing_song": "Everlong"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "981",
@@ -91,9 +91,9 @@
       "date": "2021-08-17",
       "festival_name": null,
       "artists": "Kings of Leon",
-      "has_setlist": true,
-      "opening_song": "When You See Yourself",
-      "closing_song": "Use Somebody"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "544",
@@ -101,9 +101,9 @@
       "date": "2013-07-19",
       "festival_name": null,
       "artists": "Bob Dylan",
-      "has_setlist": true,
-      "opening_song": "Things Have Changed",
-      "closing_song": "Blowin' in the Wind"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

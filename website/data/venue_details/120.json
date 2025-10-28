@@ -22,8 +22,8 @@
       "festival_name": "Multi-Artist Show",
       "artists": "Light of Day: 14 Bruce Springsteen, Joe Grushecky, Jesse Malin, Joe D'Urso, Johnny Reznik",
       "has_setlist": false,
-      "opening_song": "Rock and Roll Radio, One Guitar, Adam Raised a Cain",
-      "closing_song": "Thunder Road"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "531",
@@ -31,7 +31,7 @@
       "date": "2013-01-19",
       "festival_name": "Multi-Artist Show",
       "artists": "Light of Day 13: D'Urso, Grushecky, Malin, Nile, Love",
-      "has_setlist": true,
+      "has_setlist": false,
       "opening_song": null,
       "closing_song": null
     },
@@ -42,8 +42,8 @@
       "festival_name": null,
       "artists": "Bruce Springsteen: Light of Day 11",
       "has_setlist": false,
-      "opening_song": "Various",
-      "closing_song": "Various"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "410",
@@ -52,8 +52,8 @@
       "festival_name": "Multi-Artist Show",
       "artists": "Bruce Springsteen: Light of Day with Jesse Malin, Willie Nile, Joe Grushecky & Joe D'Urso",
       "has_setlist": false,
-      "opening_song": "Heaven Help the Lonely\n w/Willie NIle\nAtlantic City",
-      "closing_song": "Twist & Shout"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "314",
@@ -62,8 +62,8 @@
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
       "has_setlist": false,
-      "opening_song": "Radio Nowhere",
-      "closing_song": "American Land"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

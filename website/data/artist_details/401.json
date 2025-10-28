@@ -2,48 +2,7 @@
   "id": "401",
   "name": "Neil Young",
   "concert_count": 5,
-  "top_songs": [
-    {
-      "name": "Heart of Gold",
-      "times_played": 4
-    },
-    {
-      "name": "The Needle and the Damage Done",
-      "times_played": 3
-    },
-    {
-      "name": "Cortez the Killer",
-      "times_played": 3
-    },
-    {
-      "name": "Cinnamon Girl",
-      "times_played": 3
-    },
-    {
-      "name": "Mother Earth (Natural Anthem)",
-      "times_played": 2
-    },
-    {
-      "name": "Love and Only Love",
-      "times_played": 2
-    },
-    {
-      "name": "Hey Hey, My My (Into the Black)",
-      "times_played": 2
-    },
-    {
-      "name": "Everybody Knows This Is Nowhere",
-      "times_played": 2
-    },
-    {
-      "name": "Powderfinger",
-      "times_played": 2
-    },
-    {
-      "name": "Cowgirl in the Sand",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1163",
@@ -53,9 +12,9 @@
       "venue": "Forest Hills Stadium",
       "city": "Forest Hills",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Cortez the Killer",
-      "closing_song": "Rocking in the Free World"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1096",
@@ -65,9 +24,9 @@
       "venue": "Ford Amphitheater at Coney Island",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "I'm the Ocean",
-      "closing_song": "Four Strong Winds"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "366",
@@ -77,9 +36,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Love and Only Love",
-      "closing_song": "Day in the Life"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "115",
@@ -89,9 +48,9 @@
       "venue": "Freedom Mortgage Pavilion",
       "city": "Camden",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "NY: Motorcylce Mama \nPre: The Loner",
-      "closing_song": "NY: Mellow My Mind\nPre: Needle & Damage Done"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "30",
@@ -101,9 +60,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Cowgirl in the Sand",
-      "closing_song": "Cortez the Killer"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

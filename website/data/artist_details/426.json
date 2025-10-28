@@ -2,48 +2,7 @@
   "id": "426",
   "name": "Peter Wolf",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Show Biz",
-      "times_played": 1
-    },
-    {
-      "name": "Nothin' but the Wheel",
-      "times_played": 1
-    },
-    {
-      "name": "Long Line",
-      "times_played": 1
-    },
-    {
-      "name": "Long Way Back Again",
-      "times_played": 1
-    },
-    {
-      "name": "Always Asking for You",
-      "times_played": 1
-    },
-    {
-      "name": "I Don't Wanna Know",
-      "times_played": 1
-    },
-    {
-      "name": "Waiting on the Moon",
-      "times_played": 1
-    },
-    {
-      "name": "Homework",
-      "times_played": 1
-    },
-    {
-      "name": "Cry One More Time",
-      "times_played": 1
-    },
-    {
-      "name": "The Green Fields of Summer",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "471",
@@ -53,9 +12,9 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "Nothing But the Wheel",
-      "closing_song": "Somewhere Down the Line"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

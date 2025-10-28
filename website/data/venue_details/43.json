@@ -12,8 +12,8 @@
       "festival_name": null,
       "artists": "Walter Trout",
       "has_setlist": false,
-      "opening_song": "I Can Tell",
-      "closing_song": "Going Down"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1004",
@@ -22,7 +22,7 @@
       "festival_name": null,
       "artists": "Wille Nile",
       "has_setlist": false,
-      "opening_song": "Streets of New York",
+      "opening_song": null,
       "closing_song": null
     },
     {
@@ -31,9 +31,9 @@
       "date": "2021-10-20",
       "festival_name": null,
       "artists": "Will Hoge",
-      "has_setlist": true,
-      "opening_song": "Through Missing You",
-      "closing_song": "Even if It Breaks Your Heart"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "951",
@@ -42,8 +42,8 @@
       "festival_name": null,
       "artists": "Will Hoge w. Elizabeth Cook",
       "has_setlist": false,
-      "opening_song": "Daddy Was a Gamblin' Man",
-      "closing_song": "Jesus Came to Tennessee"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "807",
@@ -51,9 +51,9 @@
       "date": "2017-12-30",
       "festival_name": null,
       "artists": "Willie Nile",
-      "has_setlist": true,
-      "opening_song": "Vagabond Moon",
-      "closing_song": "Auld Lang Syne"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "754",
@@ -72,8 +72,8 @@
       "festival_name": null,
       "artists": "Will Hoge",
       "has_setlist": false,
-      "opening_song": "Daddy Was a Gamblin' Man",
-      "closing_song": "Damn Spotlight"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

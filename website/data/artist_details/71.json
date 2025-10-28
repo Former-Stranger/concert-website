@@ -2,48 +2,7 @@
   "id": "71",
   "name": "Bon Jovi",
   "concert_count": 19,
-  "top_songs": [
-    {
-      "name": "You Give Love a Bad Name",
-      "times_played": 12
-    },
-    {
-      "name": "Born to Be My Baby",
-      "times_played": 12
-    },
-    {
-      "name": "It's My Life",
-      "times_played": 12
-    },
-    {
-      "name": "Bad Medicine",
-      "times_played": 12
-    },
-    {
-      "name": "Livin' on a Prayer",
-      "times_played": 12
-    },
-    {
-      "name": "Wanted Dead or Alive",
-      "times_played": 12
-    },
-    {
-      "name": "Keep the Faith",
-      "times_played": 11
-    },
-    {
-      "name": "I'll Sleep When I'm Dead",
-      "times_played": 11
-    },
-    {
-      "name": "Who Says You Can't Go Home",
-      "times_played": 10
-    },
-    {
-      "name": "Raise Your Hands",
-      "times_played": 9
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "827",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "This House is Not For Sale",
-      "closing_song": "Livin on a Prayer"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "826",
@@ -65,9 +24,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "This House is Not For Sale",
-      "closing_song": "Livin on a Prayer"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "752",
@@ -77,9 +36,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "This House is Not For Sale",
-      "closing_song": "Livin' on a Prayer"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "547",
@@ -89,9 +48,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "That's What the Water Made Me",
-      "closing_song": "I Love this Town"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "530",
@@ -101,9 +60,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Bruce: Land of Hope and Dreams",
-      "closing_song": "McCartney: Live and Let Die and Alicia Keys New York"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "476",
@@ -113,9 +72,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Lost Highway",
-      "closing_song": "Livin on a Prayer"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "467",
@@ -125,9 +84,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Last Man Standing",
-      "closing_song": "Living on a Prayer"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "430",
@@ -137,9 +96,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Raise Your Hands",
-      "closing_song": "Livin' on a Prayer"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "422",
@@ -149,9 +108,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Who Says You Can't Go Home",
-      "closing_song": "Livin' on a Prayer"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "360",
@@ -173,9 +132,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Lost Highway",
-      "closing_song": "Living on a Prayer"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "321",
@@ -185,9 +144,9 @@
       "venue": "Prudential Center",
       "city": "Newark",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Lost Highway",
-      "closing_song": "Who Says You Cant Go Home"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "306",
@@ -197,7 +156,7 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
+      "has_setlist": false,
       "opening_song": null,
       "closing_song": null
     },
@@ -209,9 +168,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Rockin in the Free World",
-      "closing_song": "Livin' on a Prayer"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "249",
@@ -222,8 +181,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Last Man Standing",
-      "closing_song": "Wanted Dead or Alive"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "188",
@@ -233,9 +192,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Twist & Shout",
-      "closing_song": "Shout"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "145",
@@ -245,9 +204,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "David Bowie: America",
-      "closing_song": "Paul Mccartney: Freedom"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "144",
@@ -258,8 +217,8 @@
       "city": "Red Bank",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "JBJ: Keep the Faith\nBS: Tiger Rose ",
-      "closing_song": "JBJ: Abraham, Martin & John\nBS: Stand By Me"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "140",
@@ -269,9 +228,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "One Wild Night",
-      "closing_song": "Never Say Goodbye"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -2,48 +2,7 @@
   "id": "542",
   "name": "Steve Winwood",
   "concert_count": 5,
-  "top_songs": [
-    {
-      "name": "Can't Find My Way Home",
-      "times_played": 5
-    },
-    {
-      "name": "Dear Mr. Fantasy",
-      "times_played": 5
-    },
-    {
-      "name": "Glad",
-      "times_played": 4
-    },
-    {
-      "name": "I'm a Man",
-      "times_played": 3
-    },
-    {
-      "name": "Higher Love",
-      "times_played": 3
-    },
-    {
-      "name": "Gimme Some Lovin'",
-      "times_played": 3
-    },
-    {
-      "name": "Pearly Queen",
-      "times_played": 3
-    },
-    {
-      "name": "Had to Cry Today",
-      "times_played": 2
-    },
-    {
-      "name": "Low Down",
-      "times_played": 2
-    },
-    {
-      "name": "Forever Man",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1185",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "DB:  Take Me In Your Arms    SW:  Glad",
-      "closing_song": "DB:  Listen to the Music   SW:  Gimme Some Lovin'"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "618",
@@ -65,9 +24,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "I'm a Man",
-      "closing_song": "Gimme Some Lovin"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "556",
@@ -77,9 +36,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "RS: This Old Heart of Mine",
-      "closing_song": "Do Ya Think I'm Sexy"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "383",
@@ -89,9 +48,9 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Had to Cry Today",
-      "closing_song": "Dear Mr. Fantasy"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "331",
@@ -101,9 +60,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Had to Cry Today",
-      "closing_song": "Dear Mr. Fantasy"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -2,48 +2,7 @@
   "id": "348",
   "name": "Little Feat",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Fat Man in the Bathtub",
-      "times_played": 1
-    },
-    {
-      "name": "Hate to Lose Your Lovin'",
-      "times_played": 1
-    },
-    {
-      "name": "Oh Atlanta",
-      "times_played": 1
-    },
-    {
-      "name": "4 Days of Heaven 3 Days of Work",
-      "times_played": 1
-    },
-    {
-      "name": "Too High to Cut My Hair",
-      "times_played": 1
-    },
-    {
-      "name": "Time Loves a Hero",
-      "times_played": 1
-    },
-    {
-      "name": "Day or Night",
-      "times_played": 1
-    },
-    {
-      "name": "Midnight Flight",
-      "times_played": 1
-    },
-    {
-      "name": "Spanish Moon",
-      "times_played": 1
-    },
-    {
-      "name": "Baby Don't You Do It",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1250",
@@ -53,9 +12,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Fat Man in a Bathtub",
-      "closing_song": "Skin It Back"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

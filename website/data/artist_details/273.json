@@ -2,12 +2,7 @@
   "id": "273",
   "name": "Jesse Malin",
   "concert_count": 8,
-  "top_songs": [
-    {
-      "name": "You Can't Put Your Arms Around a Memory",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "632",
@@ -18,8 +13,8 @@
       "city": "Asbury Park",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Boots of Immigrants",
-      "closing_song": "TBD"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "582",
@@ -30,8 +25,8 @@
       "city": "Staten Island",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Various",
-      "closing_song": "Various"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "560",
@@ -42,8 +37,8 @@
       "city": "Asbury Park",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Rock and Roll Radio, One Guitar, Adam Raised a Cain",
-      "closing_song": "Thunder Road"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "499",
@@ -54,8 +49,8 @@
       "city": "Asbury Park",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Burning Down the Bowery",
-      "closing_song": "Winter (stones Cover)"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "466",
@@ -65,9 +60,9 @@
       "venue": "City Winery",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Queen of Underworld",
-      "closing_song": "D Generation (with BIllie Joe)"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "448",
@@ -78,8 +73,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Burning on the Bowery",
-      "closing_song": "Instant Karma"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "413",
@@ -90,8 +85,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Burning Down the Bowery",
-      "closing_song": "I Feel Alright (Stooges)"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "401",
@@ -102,8 +97,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "JM: Brooklyn",
-      "closing_song": "JM: Dgeneration"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

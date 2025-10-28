@@ -2,48 +2,7 @@
   "id": "29",
   "name": "Avett Brothers",
   "concert_count": 11,
-  "top_songs": [
-    {
-      "name": "Ain't No Man",
-      "times_played": 11
-    },
-    {
-      "name": "Head Full of Doubt/Road Full of Promise",
-      "times_played": 10
-    },
-    {
-      "name": "No Hard Feelings",
-      "times_played": 9
-    },
-    {
-      "name": "I Wish I Was",
-      "times_played": 8
-    },
-    {
-      "name": "Laundry Room",
-      "times_played": 7
-    },
-    {
-      "name": "I and Love and You",
-      "times_played": 7
-    },
-    {
-      "name": "Live and Die",
-      "times_played": 6
-    },
-    {
-      "name": "Murder in the City",
-      "times_played": 6
-    },
-    {
-      "name": "Vanity",
-      "times_played": 6
-    },
-    {
-      "name": "Kick Drum Heart",
-      "times_played": 6
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1273",
@@ -53,9 +12,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "D Bag Rag",
-      "closing_song": "Swept Away"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1272",
@@ -65,9 +24,9 @@
       "venue": "Tilles Center",
       "city": "Brookville",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Head Full of Doubt",
-      "closing_song": "No Hard Feelings"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1249",
@@ -77,9 +36,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "We Are Loved",
-      "closing_song": "2020 Regret"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1248",
@@ -89,9 +48,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Paranoia in B Flat Major",
-      "closing_song": "Good to You"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1164",
@@ -101,9 +60,9 @@
       "venue": "Westville Music Bowl",
       "city": "New Haven",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "Never Apart",
-      "closing_song": "No Hard Feelings"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1052",
@@ -113,9 +72,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "The D Bag Rag",
-      "closing_song": "No Hard Feelings"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1024",
@@ -125,9 +84,9 @@
       "venue": "Westville Music Bowl",
       "city": "New Haven",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "Don't Be Scared",
-      "closing_song": "No Hard Feelings"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "946",
@@ -137,9 +96,9 @@
       "venue": "Great South Bay Music Festival",
       "city": "Oakdale",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "We Americans",
-      "closing_song": "No Hard Feelings"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "875",
@@ -149,9 +108,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Old Joe Clark",
-      "closing_song": "No Hard Feelings"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "755",
@@ -161,9 +120,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "The Fall",
-      "closing_song": "Way Downtown"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "681",
@@ -173,9 +132,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Die Die Die",
-      "closing_song": "Life"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

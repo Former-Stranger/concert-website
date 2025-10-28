@@ -2,48 +2,7 @@
   "id": "417",
   "name": "Paul McCartney",
   "concert_count": 15,
-  "top_songs": [
-    {
-      "name": "Lady Madonna",
-      "times_played": 11
-    },
-    {
-      "name": "Yesterday",
-      "times_played": 9
-    },
-    {
-      "name": "Let Me Roll It",
-      "times_played": 7
-    },
-    {
-      "name": "Blackbird",
-      "times_played": 7
-    },
-    {
-      "name": "Eleanor Rigby",
-      "times_played": 7
-    },
-    {
-      "name": "Band on the Run",
-      "times_played": 7
-    },
-    {
-      "name": "Back in the U.S.S.R.",
-      "times_played": 7
-    },
-    {
-      "name": "Let It Be",
-      "times_played": 7
-    },
-    {
-      "name": "Live and Let Die",
-      "times_played": 7
-    },
-    {
-      "name": "Hey Jude",
-      "times_played": 7
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1028",
@@ -53,9 +12,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Can't Buy Me Love",
-      "closing_song": "Carry That Weight"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "788",
@@ -65,9 +24,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Hard Day's Night",
-      "closing_song": "Carry That Weight"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "787",
@@ -77,9 +36,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Hard Day's Night",
-      "closing_song": "Carry That Weight"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "785",
@@ -89,9 +48,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Hard Day's Night",
-      "closing_song": "Carry That Weight"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "709",
@@ -101,9 +60,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Hard Day's Night",
-      "closing_song": "Carry That Weight"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "585",
@@ -113,9 +72,9 @@
       "venue": "MVP Arena",
       "city": "Albany",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Eight Days a Week",
-      "closing_song": "Golden Slumbers/Carry the Weight/The End"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "536",
@@ -125,9 +84,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Eight Days a Week",
-      "closing_song": "Carry that Weight"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "530",
@@ -137,9 +96,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Bruce: Land of Hope and Dreams",
-      "closing_song": "McCartney: Live and Let Die and Alicia Keys New York"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "484",
@@ -149,9 +108,9 @@
       "venue": "Yankee Stadium",
       "city": "Bronx",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Magical Mystery Tour",
-      "closing_song": "Carry that Weight"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "483",
@@ -161,9 +120,9 @@
       "venue": "Yankee Stadium",
       "city": "Bronx",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Hello, Goodbye",
-      "closing_song": "Carry that Weight"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "385",
@@ -173,9 +132,9 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Drive My Car",
-      "closing_song": "Sgt. Peppers"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "240",
@@ -185,9 +144,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Magical Mystery Tour",
-      "closing_song": "Sgt. Peppers/The End"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "239",
@@ -197,9 +156,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Magical Mystery Tour",
-      "closing_song": "Sgt. Peppers/The End"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "155",
@@ -209,9 +168,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Hello Goodbye",
-      "closing_song": "Sgt. Pepper's/The End"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "145",
@@ -221,9 +180,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "David Bowie: America",
-      "closing_song": "Paul Mccartney: Freedom"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

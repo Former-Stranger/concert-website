@@ -2,48 +2,7 @@
   "id": "293",
   "name": "John Fogerty",
   "concert_count": 18,
-  "top_songs": [
-    {
-      "name": "Green River",
-      "times_played": 14
-    },
-    {
-      "name": "Born on the Bayou",
-      "times_played": 13
-    },
-    {
-      "name": "Down on the Corner",
-      "times_played": 13
-    },
-    {
-      "name": "Centerfield",
-      "times_played": 13
-    },
-    {
-      "name": "The Old Man Down the Road",
-      "times_played": 13
-    },
-    {
-      "name": "Fortunate Son",
-      "times_played": 13
-    },
-    {
-      "name": "Bad Moon Rising",
-      "times_played": 13
-    },
-    {
-      "name": "Proud Mary",
-      "times_played": 13
-    },
-    {
-      "name": "Who'll Stop the Rain",
-      "times_played": 12
-    },
-    {
-      "name": "Lookin' Out My Back Door",
-      "times_played": 12
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1254",
@@ -53,9 +12,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Proud Mary",
-      "closing_song": "Bad Moon Rising/Proud Mary Reprise"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1090",
@@ -65,9 +24,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Bad Moon Rising",
-      "closing_song": "Proud Mary"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1019",
@@ -77,9 +36,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Up Around the Bend",
-      "closing_song": "Proud Mary"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "933",
@@ -89,9 +48,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Born on the Bayou",
-      "closing_song": "Proud Mary"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "743",
@@ -102,8 +61,8 @@
       "city": "Port Chester",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Travelin' Band",
-      "closing_song": "Proud Mary"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "631",
@@ -113,9 +72,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Born on the Bayou",
-      "closing_song": "Proud Mary"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "589",
@@ -125,9 +84,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Boulevard / Travelin Band",
-      "closing_song": "Somebody's Baby / Proud Mary"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "495",
@@ -138,8 +97,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Green River",
-      "closing_song": "Proud Mary"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "409",
@@ -149,9 +108,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Hey Tonight",
-      "closing_song": "Proud Mary"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "403",
@@ -173,9 +132,9 @@
       "venue": "Hammerstein Ballroom",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "River is Waiting",
-      "closing_song": "Proud Mary"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "272",
@@ -185,9 +144,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Travelin Band",
-      "closing_song": "Proud Mary"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "233",
@@ -197,9 +156,9 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "JM: Small Town\nJF: Travelin Band",
-      "closing_song": "JM: Cherry bomb\nJF: Proud Mary"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "230",
@@ -209,9 +168,9 @@
       "venue": "Stamford Center for Arts",
       "city": "Stamford",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "Travelin band",
-      "closing_song": "Proud Mary"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "218",
@@ -221,9 +180,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Travelin' Band",
-      "closing_song": "Proud Mary"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "66",
@@ -233,9 +192,9 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Born on the Bayou",
-      "closing_song": "Travelin Band"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "46",
@@ -245,9 +204,9 @@
       "venue": "Great South Bay Music Festival",
       "city": "Oakdale",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Born on the Bayou",
-      "closing_song": "Travelin Band"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "38",
@@ -257,9 +216,9 @@
       "venue": "Hammerstein",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Born on the Bayou",
-      "closing_song": "Travelin Band"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

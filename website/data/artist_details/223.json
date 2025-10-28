@@ -2,48 +2,7 @@
   "id": "223",
   "name": "Garth Brooks w. Trisha Yearwood",
   "concert_count": 3,
-  "top_songs": [
-    {
-      "name": "Rodeo",
-      "times_played": 3
-    },
-    {
-      "name": "Two of a Kind, Workin' on a Full House",
-      "times_played": 3
-    },
-    {
-      "name": "The River",
-      "times_played": 3
-    },
-    {
-      "name": "Two Pi\u00f1a Coladas",
-      "times_played": 3
-    },
-    {
-      "name": "Papa Loved Mama",
-      "times_played": 3
-    },
-    {
-      "name": "Unanswered Prayers",
-      "times_played": 3
-    },
-    {
-      "name": "That Summer",
-      "times_played": 3
-    },
-    {
-      "name": "The Thunder Rolls",
-      "times_played": 3
-    },
-    {
-      "name": "In Another's Eyes",
-      "times_played": 3
-    },
-    {
-      "name": "She's in Love With the Boy",
-      "times_played": 3
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "803",
@@ -53,9 +12,9 @@
       "venue": "Prudential Center",
       "city": "Newark",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Baby, Let's Lay Down and Dance",
-      "closing_song": "Standing Outside the Fire"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "802",
@@ -65,9 +24,9 @@
       "venue": "Prudential Center",
       "city": "Newark",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Baby, Let's Lay Down and Dance",
-      "closing_song": "Standing Outside the Fire"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "675",
@@ -77,9 +36,9 @@
       "venue": "DCU Center",
       "city": "Worcester",
       "state": "MA",
-      "has_setlist": true,
-      "opening_song": "Man Against Machine",
-      "closing_song": "American Pie"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

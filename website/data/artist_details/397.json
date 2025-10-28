@@ -2,24 +2,7 @@
   "id": "397",
   "name": "Nathaniel Rateliffe",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "You Worry Me",
-      "times_played": 1
-    },
-    {
-      "name": "Look It Here",
-      "times_played": 1
-    },
-    {
-      "name": "I Need Never Get Old",
-      "times_played": 1
-    },
-    {
-      "name": "S.O.B.",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "997",
@@ -29,9 +12,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "You Worry Me",
-      "closing_song": "S.O.B"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

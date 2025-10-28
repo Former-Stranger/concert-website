@@ -2,48 +2,7 @@
   "id": "181",
   "name": "ELO",
   "concert_count": 4,
-  "top_songs": [
-    {
-      "name": "Evil Woman",
-      "times_played": 4
-    },
-    {
-      "name": "Showdown",
-      "times_played": 4
-    },
-    {
-      "name": "Rockaria!",
-      "times_played": 4
-    },
-    {
-      "name": "10538 Overture",
-      "times_played": 4
-    },
-    {
-      "name": "Sweet Talkin' Woman",
-      "times_played": 4
-    },
-    {
-      "name": "Can't Get It Out of My Head",
-      "times_played": 4
-    },
-    {
-      "name": "Livin' Thing",
-      "times_played": 4
-    },
-    {
-      "name": "Telephone Line",
-      "times_played": 4
-    },
-    {
-      "name": "All Over the World",
-      "times_played": 4
-    },
-    {
-      "name": "Turn to Stone",
-      "times_played": 4
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1198",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "One More Time",
-      "closing_song": "Mr. Blue Sky"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "921",
@@ -65,9 +24,9 @@
       "venue": "Prudential Center",
       "city": "Newark",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Standing in the Rain",
-      "closing_song": "Roll Over Beethoven"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "854",
@@ -77,9 +36,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Standing in the Rain",
-      "closing_song": "Roll Over Beethoven"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "721",
@@ -89,9 +48,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Tightrope",
-      "closing_song": "Roll Over Beethoven"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -2,48 +2,7 @@
   "id": "531",
   "name": "Steely Dan",
   "concert_count": 5,
-  "top_songs": [
-    {
-      "name": "Josie",
-      "times_played": 5
-    },
-    {
-      "name": "Hey Nineteen",
-      "times_played": 5
-    },
-    {
-      "name": "Peg",
-      "times_played": 5
-    },
-    {
-      "name": "Kid Charlemagne",
-      "times_played": 5
-    },
-    {
-      "name": "Bodhisattva",
-      "times_played": 4
-    },
-    {
-      "name": "Black Friday",
-      "times_played": 4
-    },
-    {
-      "name": "Dirty Work",
-      "times_played": 4
-    },
-    {
-      "name": "My Old School",
-      "times_played": 4
-    },
-    {
-      "name": "Time Out of Mind",
-      "times_played": 4
-    },
-    {
-      "name": "Aja",
-      "times_played": 4
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "771",
@@ -53,9 +12,9 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Various",
-      "closing_song": "Various"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "686",
@@ -65,9 +24,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Jazz Intro / Back Cow",
-      "closing_song": "Kid Charlamagne"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "302",
@@ -77,9 +36,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Jam",
-      "closing_song": "My Old School"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "274",
@@ -89,9 +48,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Bodhisattva",
-      "closing_song": "My Old School"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "108",
@@ -101,9 +60,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Unknown",
-      "closing_song": "FM"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

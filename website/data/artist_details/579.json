@@ -2,48 +2,7 @@
   "id": "579",
   "name": "The Other Ones",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Slipknot!",
-      "times_played": 2
-    },
-    {
-      "name": "Feel Like a Stranger",
-      "times_played": 1
-    },
-    {
-      "name": "Dire Wolf",
-      "times_played": 1
-    },
-    {
-      "name": "Only the Strange Remain",
-      "times_played": 1
-    },
-    {
-      "name": "Black-Throated Wind",
-      "times_played": 1
-    },
-    {
-      "name": "Eyes of the World",
-      "times_played": 1
-    },
-    {
-      "name": "New Speedway Boogie",
-      "times_played": 1
-    },
-    {
-      "name": "Mason's Children",
-      "times_played": 1
-    },
-    {
-      "name": "Unbroken Chain",
-      "times_played": 1
-    },
-    {
-      "name": "Big Boss Man",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "173",
@@ -53,9 +12,9 @@
       "venue": "XL Center",
       "city": "Hartford",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "Feel Like a Stranger",
-      "closing_song": "Truckin'"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

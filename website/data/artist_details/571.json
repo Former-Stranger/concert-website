@@ -2,48 +2,7 @@
   "id": "571",
   "name": "The Dukes with The Mastersons",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Copperhead Road",
-      "times_played": 2
-    },
-    {
-      "name": "My Old Friend the Blues",
-      "times_played": 2
-    },
-    {
-      "name": "Someday",
-      "times_played": 2
-    },
-    {
-      "name": "Guitar Town",
-      "times_played": 2
-    },
-    {
-      "name": "The Galway Girl",
-      "times_played": 2
-    },
-    {
-      "name": "Hey Joe",
-      "times_played": 2
-    },
-    {
-      "name": "Snake Oil",
-      "times_played": 1
-    },
-    {
-      "name": "Back to the Wall",
-      "times_played": 1
-    },
-    {
-      "name": "The Devil's Right Hand",
-      "times_played": 1
-    },
-    {
-      "name": "Johnny Come Lately",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "821",
@@ -53,9 +12,9 @@
       "venue": "Paramount Hudson Valley Theater",
       "city": "Peekskill",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Copperhead Road",
-      "closing_song": "JB12old4k"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "655",
@@ -65,9 +24,9 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Baby Baby Baby",
-      "closing_song": "Down the Road"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

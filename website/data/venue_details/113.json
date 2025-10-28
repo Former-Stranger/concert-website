@@ -11,9 +11,9 @@
       "date": "2016-07-16",
       "festival_name": null,
       "artists": "Keith Urban",
-      "has_setlist": true,
-      "opening_song": "Gone Tomorrow",
-      "closing_song": "Raise Em Up"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "697",
@@ -21,8 +21,8 @@
       "date": "2016-06-11",
       "festival_name": "Multi-Artist Show",
       "artists": "Bad Company, Joe Walsh",
-      "has_setlist": true,
-      "opening_song": "Bad Co: ",
+      "has_setlist": false,
+      "opening_song": null,
       "closing_song": null
     },
     {
@@ -31,9 +31,9 @@
       "date": "2013-08-03",
       "festival_name": null,
       "artists": "OAR",
-      "has_setlist": true,
-      "opening_song": "The Wanderer",
-      "closing_song": "Born to Run"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "354",
@@ -42,8 +42,8 @@
       "festival_name": null,
       "artists": "The Police",
       "has_setlist": false,
-      "opening_song": "Message in a Bottle",
-      "closing_song": "Next to You"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "339",
@@ -51,9 +51,9 @@
       "date": "2008-05-31",
       "festival_name": null,
       "artists": "Stone Temple Pilots",
-      "has_setlist": true,
-      "opening_song": "Big Empty",
-      "closing_song": "Dead and Bloated"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "275",
@@ -61,9 +61,9 @@
       "date": "2006-08-20",
       "festival_name": "Multi-Artist Show",
       "artists": "Crosby, Stills, Nash & Young",
-      "has_setlist": true,
-      "opening_song": "Flags of Freedom",
-      "closing_song": "Rockin in the Free World"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "265",
@@ -72,8 +72,8 @@
       "festival_name": "Multi-Artist Show",
       "artists": "Bruce Springsteen, the Seeger Sessions Band",
       "has_setlist": false,
-      "opening_song": "American Land",
-      "closing_song": "Man on the Flying Trapeeze"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "233",
@@ -81,9 +81,9 @@
       "date": "2005-07-16",
       "festival_name": "Multi-Artist Show",
       "artists": "John Mellencamp, John Fogerty",
-      "has_setlist": true,
-      "opening_song": "JM: Small Town\nJF: Travelin Band",
-      "closing_song": "JM: Cherry bomb\nJF: Proud Mary"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "190",
@@ -91,9 +91,9 @@
       "date": "2003-08-11",
       "festival_name": "Multi-Artist Show",
       "artists": "KISS, Aerosmith",
-      "has_setlist": true,
-      "opening_song": "KISS: Detroit Rock City\nAerosmith: Mama Kin",
-      "closing_song": "KISS: Rock & Roll All Nite\nAerosmith: Train Kept Rollin'"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "189",
@@ -102,8 +102,8 @@
       "festival_name": null,
       "artists": "Tom Petty & the Heartbreakers & Bob Dylan",
       "has_setlist": false,
-      "opening_song": "BD: Silvio\nTP: American Girl",
-      "closing_song": "BD: Rainey Day/Watchtower (w/TP)\nTP: Baby, Please Don't Go\n"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "138",
@@ -111,9 +111,9 @@
       "date": "2001-07-21",
       "festival_name": null,
       "artists": "Stevie Nicks",
-      "has_setlist": true,
-      "opening_song": "Stop Draggin' My Heart Around",
-      "closing_song": "I Need to Know/Has Anyone"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "137",
@@ -121,9 +121,9 @@
       "date": "2001-07-20",
       "festival_name": "Multi-Artist Show",
       "artists": "Paul Simon, Brian Wilson",
-      "has_setlist": true,
-      "opening_song": "PS: Graceland\nBW: Unknown",
-      "closing_song": "PS: Bridge Over Troubled Water\nBW: Love and Mercy"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "135",
@@ -132,8 +132,8 @@
       "festival_name": null,
       "artists": "Tom Petty & the Heartbreakers & Jackson Browne",
       "has_setlist": false,
-      "opening_song": "TP: Running Down a Dream\nJB: Nobody Knows",
-      "closing_song": "TP: American Girl\nJB: Dr. My Eyes"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "106",
@@ -141,9 +141,9 @@
       "date": "2000-06-28",
       "festival_name": null,
       "artists": "Phish",
-      "has_setlist": true,
-      "opening_song": "Chalk Dust Torcher",
-      "closing_song": "Loving Cup"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "86",
@@ -151,9 +151,9 @@
       "date": "1999-06-30",
       "festival_name": null,
       "artists": "Tom Petty & the Heartbreakers",
-      "has_setlist": true,
-      "opening_song": "Jammin Me",
-      "closing_song": "Learning to Fly"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "70",
@@ -162,8 +162,8 @@
       "festival_name": "Multi-Artist Show",
       "artists": "HORDE (Blues Traveler, Barenaked Ladies & Gov't Mule, Paula Cole, Ben Harper)",
       "has_setlist": false,
-      "opening_song": "Unknown",
-      "closing_song": "Unknown"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "69",
@@ -172,8 +172,8 @@
       "festival_name": "Multi-Artist Show",
       "artists": "Lynyrd Skynyrd, .38 Special",
       "has_setlist": false,
-      "opening_song": "We Ain't Much Different",
-      "closing_song": "Freebird"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "67",
@@ -182,8 +182,8 @@
       "festival_name": "Multi-Artist Show",
       "artists": "Chicago and Hall, Oates",
       "has_setlist": false,
-      "opening_song": "Unknown",
-      "closing_song": "C: 25 or 6 to 4\nH: You Don't Love Me"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "66",
@@ -191,9 +191,9 @@
       "date": "1998-06-27",
       "festival_name": null,
       "artists": "John Fogerty",
-      "has_setlist": true,
-      "opening_song": "Born on the Bayou",
-      "closing_song": "Travelin Band"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "28",
@@ -202,8 +202,8 @@
       "festival_name": "Multi-Artist Show",
       "artists": "Lynyrd Skynyrd, The Doobie Brothers",
       "has_setlist": false,
-      "opening_song": "LS: Workin for MCA  \nDB: Dangerous",
-      "closing_song": "LS: Freebird\nDB: Listen to the Music"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

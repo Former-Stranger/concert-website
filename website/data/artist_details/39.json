@@ -2,48 +2,7 @@
   "id": "39",
   "name": "Beach Boys",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Do It Again",
-      "times_played": 1
-    },
-    {
-      "name": "Surfin' Safari",
-      "times_played": 1
-    },
-    {
-      "name": "Catch a Wave",
-      "times_played": 1
-    },
-    {
-      "name": "Hawaii",
-      "times_played": 1
-    },
-    {
-      "name": "Surfin' U.S.A.",
-      "times_played": 1
-    },
-    {
-      "name": "Surfer Girl",
-      "times_played": 1
-    },
-    {
-      "name": "Getcha Back",
-      "times_played": 1
-    },
-    {
-      "name": "Good to My Baby",
-      "times_played": 1
-    },
-    {
-      "name": "Darlin'",
-      "times_played": 1
-    },
-    {
-      "name": "Why Do Fools Fall in Love",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "852",
@@ -53,9 +12,9 @@
       "venue": "Ford Amphitheater at Coney Island",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Do it Again",
-      "closing_song": "Fun, Fun, Fun"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

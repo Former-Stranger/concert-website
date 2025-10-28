@@ -2,48 +2,7 @@
   "id": "254",
   "name": "INXS",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Suicide Blonde",
-      "times_played": 1
-    },
-    {
-      "name": "Devil's Party",
-      "times_played": 1
-    },
-    {
-      "name": "Mystify",
-      "times_played": 1
-    },
-    {
-      "name": "Hot Girls",
-      "times_played": 1
-    },
-    {
-      "name": "By My Side",
-      "times_played": 1
-    },
-    {
-      "name": "Afterglow",
-      "times_played": 1
-    },
-    {
-      "name": "Taste It",
-      "times_played": 1
-    },
-    {
-      "name": "Original Sin",
-      "times_played": 1
-    },
-    {
-      "name": "Hungry",
-      "times_played": 1
-    },
-    {
-      "name": "Never Let You Go",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "261",
@@ -53,9 +12,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Suicide Blonde",
-      "closing_song": "Don't Change"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

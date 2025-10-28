@@ -2,48 +2,7 @@
   "id": "173",
   "name": "Dirty Knobs",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Wicked Mind",
-      "times_played": 2
-    },
-    {
-      "name": "Lightning Boogie",
-      "times_played": 2
-    },
-    {
-      "name": "State of Mind",
-      "times_played": 2
-    },
-    {
-      "name": "Dirty Job",
-      "times_played": 2
-    },
-    {
-      "name": "Fuck That Guy",
-      "times_played": 2
-    },
-    {
-      "name": "Wreckless Abandon",
-      "times_played": 2
-    },
-    {
-      "name": "I Still Love You",
-      "times_played": 2
-    },
-    {
-      "name": "In This Lifetime",
-      "times_played": 2
-    },
-    {
-      "name": "Refugee",
-      "times_played": 2
-    },
-    {
-      "name": "Southern Boy",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1057",
@@ -53,9 +12,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Wicked Mind",
-      "closing_song": "Lay Down Your Weary Tune"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1013",
@@ -65,9 +24,9 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "Wicked Mind",
-      "closing_song": "Feel A Whole Lot Better"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

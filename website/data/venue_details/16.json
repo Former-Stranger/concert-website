@@ -11,9 +11,9 @@
       "date": "2025-03-11",
       "festival_name": null,
       "artists": "Wilder Woods",
-      "has_setlist": true,
-      "opening_song": "Time on Our Hands",
-      "closing_song": "Sink Our Love Now"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "627",
@@ -21,9 +21,9 @@
       "date": "2015-06-06",
       "festival_name": null,
       "artists": "Will Hoge",
-      "has_setlist": true,
-      "opening_song": "Growing Up Around Here",
-      "closing_song": "Pocket Full of Change"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "546",
@@ -32,8 +32,8 @@
       "festival_name": null,
       "artists": "Will Hoge",
       "has_setlist": false,
-      "opening_song": "Afford to Lose",
-      "closing_song": "Someone Else's Baby"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -11,9 +11,9 @@
       "date": "2025-07-11",
       "festival_name": null,
       "artists": "Vince Gill",
-      "has_setlist": true,
-      "opening_song": "One More Last Chance",
-      "closing_song": "Liza Jane"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1261",
@@ -21,9 +21,9 @@
       "date": "2025-06-18",
       "festival_name": null,
       "artists": "Paul Simon",
-      "has_setlist": true,
-      "opening_song": "Seven Psalms Album",
-      "closing_song": "Sounds of Silence/Wartime Prayers"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1254",
@@ -31,9 +31,9 @@
       "date": "2025-05-28",
       "festival_name": null,
       "artists": "John Fogerty",
-      "has_setlist": true,
-      "opening_song": "Proud Mary",
-      "closing_song": "Bad Moon Rising/Proud Mary Reprise"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1252",
@@ -41,9 +41,9 @@
       "date": "2025-05-20",
       "festival_name": "Multi-Artist Show",
       "artists": "Tedeschi Trucks Band, Buddy Guy",
-      "has_setlist": true,
-      "opening_song": "BG:  Damn Right   TTB: Keep on Growing",
-      "closing_song": "BG:       TTB: Space Captain"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1239",
@@ -51,9 +51,9 @@
       "date": "2025-02-27",
       "festival_name": null,
       "artists": "Joe Bonamassa",
-      "has_setlist": true,
-      "opening_song": "Hope You Realize It",
-      "closing_song": "Sloe Gin"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1229",
@@ -61,9 +61,9 @@
       "date": "2024-12-30",
       "festival_name": null,
       "artists": "Govt Mule",
-      "has_setlist": true,
-      "opening_song": "Revolution Come, Revolution Go",
-      "closing_song": "Make It Rain"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1224",
@@ -71,9 +71,9 @@
       "date": "2024-12-01",
       "festival_name": null,
       "artists": "Jesse Malin Benefit",
-      "has_setlist": true,
-      "opening_song": "I Woud Do it For You",
-      "closing_song": "Rudie Can't Fail"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1180",
@@ -81,9 +81,9 @@
       "date": "2024-07-23",
       "festival_name": "Multi-Artist Show",
       "artists": "Pat Benetar, Neil Giraldo",
-      "has_setlist": true,
-      "opening_song": "All Fired Up",
-      "closing_song": "Heartbreaker/Ring of Fire"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1130",
@@ -91,9 +91,9 @@
       "date": "2023-11-16",
       "festival_name": null,
       "artists": "Bob Dylan",
-      "has_setlist": true,
-      "opening_song": "New York State Of Mind/Watching River Flow",
-      "closing_song": "Every Grain of Sand"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1128",
@@ -111,9 +111,9 @@
       "date": "2023-10-20",
       "festival_name": null,
       "artists": "My Morning Jacket",
-      "has_setlist": true,
-      "opening_song": "Cobra",
-      "closing_song": "Touch Me, I'm Gonna Scream Pt. 2"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1092",
@@ -121,9 +121,9 @@
       "date": "2023-06-06",
       "festival_name": null,
       "artists": "John Mellencamp",
-      "has_setlist": true,
-      "opening_song": "John Cockers",
-      "closing_song": "Hurts So Good"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1088",
@@ -131,9 +131,9 @@
       "date": "2023-04-21",
       "festival_name": null,
       "artists": "Bono",
-      "has_setlist": true,
-      "opening_song": "City of Blinding Lights",
-      "closing_song": "Torna a Surriento"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1074",
@@ -151,9 +151,9 @@
       "date": "2022-11-07",
       "festival_name": null,
       "artists": "Marcus Mumford",
-      "has_setlist": true,
-      "opening_song": "Awake My Soul",
-      "closing_song": "When I Get My Hands On You"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1068",
@@ -162,8 +162,8 @@
       "festival_name": null,
       "artists": "U2:  Bono",
       "has_setlist": false,
-      "opening_song": "City of Blinding Lights",
-      "closing_song": "City of Blinding Lights"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "964",
@@ -171,9 +171,9 @@
       "date": "2019-12-03",
       "festival_name": null,
       "artists": "Bob Dylan",
-      "has_setlist": true,
-      "opening_song": "Things Have Changed",
-      "closing_song": "It Takes a Lot to Laugh, Takes  Train to Cry"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "960",
@@ -181,9 +181,9 @@
       "date": "2019-11-15",
       "festival_name": null,
       "artists": "Joe Bonamassa",
-      "has_setlist": true,
-      "opening_song": "Evil Mama",
-      "closing_song": "Mountain Time"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "958",
@@ -192,8 +192,8 @@
       "festival_name": null,
       "artists": "Little Steven (Peter Wolf)",
       "has_setlist": false,
-      "opening_song": "Communion",
-      "closing_song": "Out of Darkness"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "954",
@@ -201,9 +201,9 @@
       "date": "2019-11-01",
       "festival_name": null,
       "artists": "Blues Traveler",
-      "has_setlist": true,
-      "opening_song": "Just Wait",
-      "closing_song": "Hook"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "919",
@@ -211,9 +211,9 @@
       "date": "2019-06-26",
       "festival_name": null,
       "artists": "Jackson Browne",
-      "has_setlist": true,
-      "opening_song": "I'm Alive",
-      "closing_song": "I am a Patriot"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "916",
@@ -222,8 +222,8 @@
       "festival_name": null,
       "artists": "Tim McGraw (w. John Meachum)",
       "has_setlist": false,
-      "opening_song": "Liberty",
-      "closing_song": "Humble and Kind"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "897",
@@ -231,9 +231,9 @@
       "date": "2019-02-26",
       "festival_name": null,
       "artists": "John Mellencamp",
-      "has_setlist": true,
-      "opening_song": "Lawless Times",
-      "closing_song": "Cherry Bomb"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "884",
@@ -241,9 +241,9 @@
       "date": "2018-11-26",
       "festival_name": null,
       "artists": "Bob Dylan",
-      "has_setlist": true,
-      "opening_song": "Things Have Changed",
-      "closing_song": "Blowin' in the Wind"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "883",
@@ -251,9 +251,9 @@
       "date": "2018-11-18",
       "festival_name": "Multi-Artist Show",
       "artists": "Bob Weir, Wolf Brothers",
-      "has_setlist": true,
-      "opening_song": "Jack Straw",
-      "closing_song": "Going Down the Road Feeling Bad"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "801",
@@ -261,9 +261,9 @@
       "date": "2017-11-21",
       "festival_name": null,
       "artists": "Bob Dylan",
-      "has_setlist": true,
-      "opening_song": "Things Have Changed",
-      "closing_song": "Ballad of a Thin Man"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "799",
@@ -271,9 +271,9 @@
       "date": "2017-11-15",
       "festival_name": "Multi-Artist Show",
       "artists": "Ringo Starr, All Starr Band",
-      "has_setlist": true,
-      "opening_song": "Matchbox",
-      "closing_song": "With a Little Help from My Friends"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "797",
@@ -281,9 +281,9 @@
       "date": "2017-11-12",
       "festival_name": "Multi-Artist Show",
       "artists": "John Hiatt, Lyle Lovett",
-      "has_setlist": true,
-      "opening_song": "JH: Master of Disaster     LL:  Once is Enough",
-      "closing_song": "JH:  Have a Little Faith     LL: She's No Lady"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "790",
@@ -291,9 +291,9 @@
       "date": "2017-09-23",
       "festival_name": null,
       "artists": "Joe Bonamassa",
-      "has_setlist": true,
-      "opening_song": "Oh Beuatiful/Rice Pudding",
-      "closing_song": "Hummingbird"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "775",
@@ -301,9 +301,9 @@
       "date": "2017-08-10",
       "festival_name": null,
       "artists": "Buckingham/McVie",
-      "has_setlist": true,
-      "opening_song": "Trouble",
-      "closing_song": "Game of Pretend"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "757",
@@ -341,9 +341,9 @@
       "date": "2015-06-22",
       "festival_name": null,
       "artists": "Bryan Adams",
-      "has_setlist": true,
-      "opening_song": "Reckless",
-      "closing_song": "All for Love"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "593",
@@ -361,9 +361,9 @@
       "date": "2013-05-26",
       "festival_name": "Multi-Artist Show",
       "artists": "Tom Petty, Heartbreakers",
-      "has_setlist": true,
-      "opening_song": "So You Wanna Be a Rock and Roll Star",
-      "closing_song": "American Girl"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "538",
@@ -371,9 +371,9 @@
       "date": "2013-05-17",
       "festival_name": null,
       "artists": "Joe Bonamassa",
-      "has_setlist": true,
-      "opening_song": "Seagull",
-      "closing_song": "Just Got Paid"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "524",
@@ -381,9 +381,9 @@
       "date": "2012-10-17",
       "festival_name": null,
       "artists": "Crosby, Stills and Nash",
-      "has_setlist": true,
-      "opening_song": "Carry On",
-      "closing_song": "Teach Your Children"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "495",
@@ -392,8 +392,8 @@
       "festival_name": null,
       "artists": "John Fogerty",
       "has_setlist": false,
-      "opening_song": "Green River",
-      "closing_song": "Proud Mary"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "493",
@@ -402,8 +402,8 @@
       "festival_name": "Multi-Artist Show",
       "artists": "Joan Baez, Kris Kristofferson",
       "has_setlist": false,
-      "opening_song": "KK:\nJB: God is God",
-      "closing_song": "Me & Bobby McGee; Night they \nDrove Old Dixie Down"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "492",
@@ -411,9 +411,9 @@
       "date": "2011-11-04",
       "festival_name": null,
       "artists": "Joe Bonamassa",
-      "has_setlist": true,
-      "opening_song": "Slow Train",
-      "closing_song": "Just Got Paid"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "491",
@@ -421,9 +421,9 @@
       "date": "2011-08-31",
       "festival_name": null,
       "artists": "Crosby, Stills and Nash",
-      "has_setlist": true,
-      "opening_song": "Woodstock",
-      "closing_song": "Teach Your Children"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "477",
@@ -431,9 +431,9 @@
       "date": "2011-05-12",
       "festival_name": null,
       "artists": "Warren Haynes Band",
-      "has_setlist": true,
-      "opening_song": "Man in Motion",
-      "closing_song": "Feel Like Breaking Up Somebody's Home *with Bradley Whitford"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "469",
@@ -441,9 +441,9 @@
       "date": "2011-03-18",
       "festival_name": null,
       "artists": "Allman Brothers Band",
-      "has_setlist": true,
-      "opening_song": "Don\u2019t Want You No More/Cross To Bear",
-      "closing_song": "One Way Out"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "451",
@@ -452,8 +452,8 @@
       "festival_name": "Multi-Artist Show",
       "artists": "T-Bone Burnett's Speaking Clock Revue: Elton John & Leon Russell, John Mellencamp, Jeff Bridges, Elvis Costello, Punch Brothers, Secret Sisters, Gregg Allman",
       "has_setlist": false,
-      "opening_song": "Elvis Costello TBD Song",
-      "closing_song": "Ain't No Tomorrow"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "445",
@@ -461,9 +461,9 @@
       "date": "2010-09-14",
       "festival_name": null,
       "artists": "Jackson Browne",
-      "has_setlist": true,
-      "opening_song": "Bingo (WZevon Song)",
-      "closing_song": "I Am a Patriot"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "409",
@@ -471,9 +471,9 @@
       "date": "2009-11-24",
       "festival_name": null,
       "artists": "John Fogerty",
-      "has_setlist": true,
-      "opening_song": "Hey Tonight",
-      "closing_song": "Proud Mary"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "404",
@@ -482,8 +482,8 @@
       "festival_name": null,
       "artists": "Lyle Lovett",
       "has_setlist": false,
-      "opening_song": "Sun, Moon and Stars",
-      "closing_song": "Nobody Knows Me"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "371",
@@ -491,9 +491,9 @@
       "date": "2009-03-09",
       "festival_name": null,
       "artists": "Allman Brothers Band",
-      "has_setlist": true,
-      "opening_song": "Little Martha",
-      "closing_song": "Southbound"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "333",
@@ -501,9 +501,9 @@
       "date": "2008-04-03",
       "festival_name": null,
       "artists": "Ratdog",
-      "has_setlist": true,
-      "opening_song": "Shakedown Street",
-      "closing_song": "Touch of Grey"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "302",
@@ -511,9 +511,9 @@
       "date": "2007-06-11",
       "festival_name": null,
       "artists": "Steely Dan",
-      "has_setlist": true,
-      "opening_song": "Jam",
-      "closing_song": "My Old School"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "296",
@@ -521,9 +521,9 @@
       "date": "2007-04-05",
       "festival_name": null,
       "artists": "Allman Brothers Band",
-      "has_setlist": true,
-      "opening_song": "Jessica",
-      "closing_song": "Nobody Left to Run With"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "294",
@@ -531,9 +531,9 @@
       "date": "2007-03-24",
       "festival_name": null,
       "artists": "Allman Brothers Band",
-      "has_setlist": true,
-      "opening_song": "Statesboro Blues",
-      "closing_song": "Whipping Post"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "289",
@@ -541,9 +541,9 @@
       "date": "2006-12-03",
       "festival_name": null,
       "artists": "Aerosmith",
-      "has_setlist": true,
-      "opening_song": "Toys in the Attic",
-      "closing_song": "Walk This Way"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "257",
@@ -551,9 +551,9 @@
       "date": "2006-04-06",
       "festival_name": null,
       "artists": "Bob Weir & Ratdog",
-      "has_setlist": true,
-      "opening_song": "Golden Road to Unlimited Devotion",
-      "closing_song": "Foolish heart"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "256",
@@ -561,19 +561,19 @@
       "date": "2006-03-25",
       "festival_name": null,
       "artists": "Allman Brothers Band",
-      "has_setlist": true,
-      "opening_song": "Mountain Jam",
-      "closing_song": "Southbound"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "253",
       "show_number": 252,
       "date": "2006-02-15",
       "festival_name": "Multi-Artist Show",
-      "artists": "Phil Lesh & Friends",
-      "has_setlist": true,
-      "opening_song": "Passenger",
-      "closing_song": "I Am The Walrus"
+      "artists": "Phil Lesh, Friends",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "236",
@@ -581,9 +581,9 @@
       "date": "2005-08-02",
       "festival_name": "Multi-Artist Show",
       "artists": "Crosby, Stills, Nash",
-      "has_setlist": true,
-      "opening_song": "Carry on",
-      "closing_song": "Teach Your Children"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "222",
@@ -591,9 +591,9 @@
       "date": "2005-03-10",
       "festival_name": null,
       "artists": "Allman Brothers Band",
-      "has_setlist": true,
-      "opening_song": "Sailin' Across the Devils Sea",
-      "closing_song": "Southbound"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "218",
@@ -601,9 +601,9 @@
       "date": "2004-11-14",
       "festival_name": null,
       "artists": "John Fogerty",
-      "has_setlist": true,
-      "opening_song": "Travelin' Band",
-      "closing_song": "Proud Mary"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "200",
@@ -611,9 +611,9 @@
       "date": "2004-03-28",
       "festival_name": null,
       "artists": "Allman Brothers Band",
-      "has_setlist": true,
-      "opening_song": "Nobody Left to Run With",
-      "closing_song": "Mountain Jam"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "153",
@@ -621,9 +621,9 @@
       "date": "2002-03-14",
       "festival_name": null,
       "artists": "Allman Brothers Band",
-      "has_setlist": true,
-      "opening_song": "Midnight Rider",
-      "closing_song": "Statesboro Blues"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "123",
@@ -631,9 +631,9 @@
       "date": "2001-03-22",
       "festival_name": null,
       "artists": "Allman Brothers Band",
-      "has_setlist": true,
-      "opening_song": "Midnight Rider",
-      "closing_song": "One Way Out"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "81",
@@ -641,9 +641,9 @@
       "date": "1999-03-19",
       "festival_name": null,
       "artists": "Allman Brothers Band",
-      "has_setlist": true,
+      "has_setlist": false,
       "opening_song": null,
-      "closing_song": "Whipping Post"
+      "closing_song": null
     },
     {
       "id": "79",
@@ -651,9 +651,9 @@
       "date": "1999-02-28",
       "festival_name": null,
       "artists": "Black Crowes",
-      "has_setlist": true,
-      "opening_song": "Remedy",
-      "closing_song": "Virtue & Vice"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "59",
@@ -661,9 +661,9 @@
       "date": "1998-03-21",
       "festival_name": null,
       "artists": "Allman Brothers Band",
-      "has_setlist": true,
+      "has_setlist": false,
       "opening_song": null,
-      "closing_song": "Nobody Left to Run With"
+      "closing_song": null
     },
     {
       "id": "34",
@@ -671,9 +671,9 @@
       "date": "1997-03-12",
       "festival_name": null,
       "artists": "Allman Brothers Band",
-      "has_setlist": true,
-      "opening_song": "Mountain Jam",
-      "closing_song": "One Way Out"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "15",
@@ -681,9 +681,9 @@
       "date": "1996-03-12",
       "festival_name": null,
       "artists": "Allman Brothers Band",
-      "has_setlist": true,
-      "opening_song": "Statesboro Blues",
-      "closing_song": "One Way Out"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "8",
@@ -692,8 +692,8 @@
       "festival_name": null,
       "artists": "Joe Cocker",
       "has_setlist": false,
-      "opening_song": "Feelin Alright",
-      "closing_song": "Cry Me a River"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "99",
@@ -701,9 +701,9 @@
       "date": "",
       "festival_name": null,
       "artists": "Allman Brothers Band",
-      "has_setlist": true,
-      "opening_song": "Trouble No More",
-      "closing_song": "Whipping Post"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

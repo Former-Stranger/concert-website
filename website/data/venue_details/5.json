@@ -11,9 +11,9 @@
       "date": "2024-09-15",
       "festival_name": "Multi-Artist Show",
       "artists": "SEA HEAR NOW: Bruce Springsteen, Trey Anastaio, Kool & Gang",
-      "has_setlist": true,
-      "opening_song": "Pre: Kitty's Back  Op:  Lonesome Day",
-      "closing_song": "Jersey Girl"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1196",
@@ -21,9 +21,9 @@
       "date": "2024-09-14",
       "festival_name": "Multi-Artist Show",
       "artists": "SEA HEAR NOW: Noah Kahan, Black Crowes, Guster, Revivalists, Randolph",
-      "has_setlist": true,
-      "opening_song": "BC:  No Speak  NK:  Dial Drunk",
-      "closing_song": "BC:  Remedy   NK:  Stick Season"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1059",
@@ -32,8 +32,8 @@
       "festival_name": null,
       "artists": "Sea Hear Now (Green Day)",
       "has_setlist": false,
-      "opening_song": "SN: Outside the Rain   GD: American Idiot",
-      "closing_song": "SN: Rock & Roll   GD: Good Riddance"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1058",
@@ -42,8 +42,8 @@
       "festival_name": null,
       "artists": "Sea Hear Now (Stevie Nicks)",
       "has_setlist": false,
-      "opening_song": "SN: Outside the Rain   GD: American Idiot",
-      "closing_song": "SN: Rock & Roll   GD: Good Riddance"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "989",
@@ -51,9 +51,9 @@
       "date": "2021-09-19",
       "festival_name": "Multi-Artist Show",
       "artists": "Sea Hear Now (Smashing Pumpkins, Billy Idol, Orville Peck)",
-      "has_setlist": true,
-      "opening_song": "Pumpkins: ",
-      "closing_song": "Pumpkins:  "
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "988",
@@ -61,9 +61,9 @@
       "date": "2021-09-18",
       "festival_name": "Multi-Artist Show",
       "artists": "Sea Hear Now (Pearl Jam, Avetts, Patti Smith)",
-      "has_setlist": true,
-      "opening_song": "PJ: Clairvoyants     Avett:  Satan Pulls",
-      "closing_song": "PJ: Clairvoyants     Avett:  No Hard Feelings"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

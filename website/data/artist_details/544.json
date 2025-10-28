@@ -2,48 +2,7 @@
   "id": "544",
   "name": "Stevie Nicks",
   "concert_count": 3,
-  "top_songs": [
-    {
-      "name": "Dreams",
-      "times_played": 2
-    },
-    {
-      "name": "Gold Dust Woman",
-      "times_played": 2
-    },
-    {
-      "name": "Sorcerer",
-      "times_played": 2
-    },
-    {
-      "name": "Rhiannon",
-      "times_played": 2
-    },
-    {
-      "name": "Stand Back",
-      "times_played": 2
-    },
-    {
-      "name": "Edge of Seventeen",
-      "times_played": 2
-    },
-    {
-      "name": "Stop Draggin' My Heart Around",
-      "times_played": 1
-    },
-    {
-      "name": "Enchanted",
-      "times_played": 1
-    },
-    {
-      "name": "Outside the Rain",
-      "times_played": 1
-    },
-    {
-      "name": "Every Day",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "572",
@@ -54,8 +13,8 @@
       "city": "Brooklyn",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Various",
-      "closing_song": "Various"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "473",
@@ -65,9 +24,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Love Train  /  Stand Back",
-      "closing_song": "Do Ya Think I'm Sexy /  Love Is"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "138",
@@ -77,9 +36,9 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Stop Draggin' My Heart Around",
-      "closing_song": "I Need to Know/Has Anyone"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

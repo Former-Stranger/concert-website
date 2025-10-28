@@ -2,48 +2,7 @@
   "id": "366",
   "name": "Madonna",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "The Beast Within",
-      "times_played": 2
-    },
-    {
-      "name": "Vogue",
-      "times_played": 2
-    },
-    {
-      "name": "Express Yourself",
-      "times_played": 2
-    },
-    {
-      "name": "Die Another Day",
-      "times_played": 2
-    },
-    {
-      "name": "Bedtime Story",
-      "times_played": 2
-    },
-    {
-      "name": "Don't Tell Me",
-      "times_played": 2
-    },
-    {
-      "name": "Like a Prayer",
-      "times_played": 2
-    },
-    {
-      "name": "Mother and Father",
-      "times_played": 2
-    },
-    {
-      "name": "Into the Groove",
-      "times_played": 2
-    },
-    {
-      "name": "Crazy for You",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1142",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Nothing Really Matters",
-      "closing_song": "Bitch, I'm Madonna/Celebration"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "205",
@@ -65,9 +24,9 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Vogue",
-      "closing_song": "Holiday"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

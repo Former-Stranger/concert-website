@@ -2,48 +2,7 @@
   "id": "545",
   "name": "Stevie Wonder",
   "concert_count": 3,
-  "top_songs": [
-    {
-      "name": "Love's in Need of Love Today",
-      "times_played": 2
-    },
-    {
-      "name": "Living for the City",
-      "times_played": 2
-    },
-    {
-      "name": "If It's Magic",
-      "times_played": 2
-    },
-    {
-      "name": "Sir Duke",
-      "times_played": 2
-    },
-    {
-      "name": "I Wish",
-      "times_played": 2
-    },
-    {
-      "name": "Superstition",
-      "times_played": 2
-    },
-    {
-      "name": "As",
-      "times_played": 2
-    },
-    {
-      "name": "Too High",
-      "times_played": 1
-    },
-    {
-      "name": "Visions",
-      "times_played": 1
-    },
-    {
-      "name": "Master Blaster (Jammin')",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "658",
@@ -53,9 +12,9 @@
       "venue": "XL Center",
       "city": "Hartford",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "Love's in Need of Love Today",
-      "closing_song": "Superstition"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "403",
@@ -77,9 +36,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Love is Need of Love Today",
-      "closing_song": "As"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

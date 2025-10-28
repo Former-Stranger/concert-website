@@ -2,48 +2,7 @@
   "id": "470",
   "name": "Robert Plant",
   "concert_count": 4,
-  "top_songs": [
-    {
-      "name": "Black Dog",
-      "times_played": 2
-    },
-    {
-      "name": "Rock and Roll",
-      "times_played": 2
-    },
-    {
-      "name": "Rich Woman",
-      "times_played": 2
-    },
-    {
-      "name": "Fortune Teller",
-      "times_played": 2
-    },
-    {
-      "name": "Please Read the Letter",
-      "times_played": 2
-    },
-    {
-      "name": "The Battle of Evermore",
-      "times_played": 2
-    },
-    {
-      "name": "Gone Gone Gone",
-      "times_played": 2
-    },
-    {
-      "name": "Poor Howard",
-      "times_played": 1
-    },
-    {
-      "name": "Tin Pan Valley",
-      "times_played": 1
-    },
-    {
-      "name": "Trampled Under Foot",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1176",
@@ -53,9 +12,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Plant: Rich Girl    Dylan: Highway 61",
-      "closing_song": "Plant:  Gone, Gone, Gone    Dylan:  I'll Be Your Baby Tonight"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "653",
@@ -65,9 +24,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Poor Tom",
-      "closing_song": "Rock & Roll"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "341",
@@ -77,8 +36,8 @@
       "venue": "The Theater at Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Rich Woman",
+      "has_setlist": false,
+      "opening_song": null,
       "closing_song": null
     },
     {
@@ -89,9 +48,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Who: Can't Explain\nRP: Dreamland",
-      "closing_song": "Who: See Me, Feel Me\nRP: Whole Lotta Love"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

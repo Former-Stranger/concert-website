@@ -2,48 +2,7 @@
   "id": "386",
   "name": "Miranda Lambert",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Fastest Girl in Town",
-      "times_played": 1
-    },
-    {
-      "name": "Baggage Claim",
-      "times_played": 1
-    },
-    {
-      "name": "Kerosene",
-      "times_played": 1
-    },
-    {
-      "name": "Heart Like Mine",
-      "times_played": 1
-    },
-    {
-      "name": "Bathroom Sink",
-      "times_played": 1
-    },
-    {
-      "name": "All Kinds of Kinds",
-      "times_played": 1
-    },
-    {
-      "name": "Over You",
-      "times_played": 1
-    },
-    {
-      "name": "Rock and Roll, Hoochie Koo",
-      "times_played": 1
-    },
-    {
-      "name": "That's the Way That the World Goes 'Round",
-      "times_played": 1
-    },
-    {
-      "name": "Mississippi Queen",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "714",
@@ -53,9 +12,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Beer in Mexico",
-      "closing_song": "It Don't Happen Twice"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

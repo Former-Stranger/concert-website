@@ -2,48 +2,7 @@
   "id": "282",
   "name": "Joe Cocker",
   "concert_count": 4,
-  "top_songs": [
-    {
-      "name": "I Want to Take You Higher",
-      "times_played": 1
-    },
-    {
-      "name": "Absolutely Nothing's Changed",
-      "times_played": 1
-    },
-    {
-      "name": "A Fool in Love",
-      "times_played": 1
-    },
-    {
-      "name": "The Acid Queen",
-      "times_played": 1
-    },
-    {
-      "name": "River Deep, Mountain High",
-      "times_played": 1
-    },
-    {
-      "name": "We Don't Need Another Hero (Thunderdome)",
-      "times_played": 1
-    },
-    {
-      "name": "Better Be Good to Me",
-      "times_played": 1
-    },
-    {
-      "name": "Private Dancer",
-      "times_played": 1
-    },
-    {
-      "name": "Let's Stay Together",
-      "times_played": 1
-    },
-    {
-      "name": "What's Love Got to Do With It",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "220",
@@ -54,8 +13,8 @@
       "city": "Stamford",
       "state": "CT",
       "has_setlist": false,
-      "opening_song": "Chain of Fools",
-      "closing_song": "You Are So Beautiful"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "119",
@@ -65,9 +24,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "TT: Higher\nJC: Feelin Alright",
-      "closing_song": "TT: Nutbush City Limits\nJC: Cry Me a River"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "31",
@@ -78,8 +37,8 @@
       "city": "Wantagh",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Hitchcock Railway",
-      "closing_song": "Cry Me A River"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "8",
@@ -90,8 +49,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Feelin Alright",
-      "closing_song": "Cry Me a River"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

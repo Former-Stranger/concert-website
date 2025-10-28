@@ -2,48 +2,7 @@
   "id": "20",
   "name": "Allman Brothers Band",
   "concert_count": 19,
-  "top_songs": [
-    {
-      "name": "Statesboro Blues",
-      "times_played": 12
-    },
-    {
-      "name": "Mountain Jam",
-      "times_played": 12
-    },
-    {
-      "name": "Southbound",
-      "times_played": 10
-    },
-    {
-      "name": "One Way Out",
-      "times_played": 9
-    },
-    {
-      "name": "Midnight Rider",
-      "times_played": 8
-    },
-    {
-      "name": "Rocking Horse",
-      "times_played": 8
-    },
-    {
-      "name": "Dreams",
-      "times_played": 8
-    },
-    {
-      "name": "Don't Want You No More",
-      "times_played": 7
-    },
-    {
-      "name": "It's Not My Cross to Bear",
-      "times_played": 7
-    },
-    {
-      "name": "Black Hearted Woman",
-      "times_played": 7
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "469",
@@ -53,9 +12,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Don\u2019t Want You No More/Cross To Bear",
-      "closing_song": "One Way Out"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "415",
@@ -65,9 +24,9 @@
       "venue": "United Palace Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Don't Want You No More",
-      "closing_song": "Southbound"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "371",
@@ -77,9 +36,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Little Martha",
-      "closing_song": "Southbound"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "296",
@@ -89,9 +48,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Jessica",
-      "closing_song": "Nobody Left to Run With"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "294",
@@ -101,9 +60,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Statesboro Blues",
-      "closing_song": "Whipping Post"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "256",
@@ -113,9 +72,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Mountain Jam",
-      "closing_song": "Southbound"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "222",
@@ -125,9 +84,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Sailin' Across the Devils Sea",
-      "closing_song": "Southbound"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "211",
@@ -137,9 +96,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Walk on Guilded Splinters",
-      "closing_song": "Layla"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "200",
@@ -149,9 +108,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Nobody Left to Run With",
-      "closing_song": "Mountain Jam"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "166",
@@ -161,9 +120,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Ain't Wastin Time No More",
-      "closing_song": "Whipping Post"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "153",
@@ -173,9 +132,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Midnight Rider",
-      "closing_song": "Statesboro Blues"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "141",
@@ -185,9 +144,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Revival",
-      "closing_song": "Mountain Jam"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "123",
@@ -197,9 +156,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Midnight Rider",
-      "closing_song": "One Way Out"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "114",
@@ -209,9 +168,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Trouble No More",
-      "closing_song": "You Don't Love Me (w/Hot Tuna)"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "81",
@@ -221,9 +180,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
+      "has_setlist": false,
       "opening_song": null,
-      "closing_song": "Whipping Post"
+      "closing_song": null
     },
     {
       "id": "59",
@@ -233,9 +192,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
+      "has_setlist": false,
       "opening_song": null,
-      "closing_song": "Nobody Left to Run With"
+      "closing_song": null
     },
     {
       "id": "34",
@@ -245,9 +204,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Mountain Jam",
-      "closing_song": "One Way Out"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "15",
@@ -257,9 +216,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Statesboro Blues",
-      "closing_song": "One Way Out"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "99",
@@ -269,9 +228,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Trouble No More",
-      "closing_song": "Whipping Post"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

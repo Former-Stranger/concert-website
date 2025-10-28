@@ -2,48 +2,7 @@
   "id": "362",
   "name": "Lynyrd Skynyrd",
   "concert_count": 7,
-  "top_songs": [
-    {
-      "name": "Thunderstruck",
-      "times_played": 1
-    },
-    {
-      "name": "Workin' for MCA",
-      "times_played": 1
-    },
-    {
-      "name": "What's Your Name",
-      "times_played": 1
-    },
-    {
-      "name": "You Got That Right",
-      "times_played": 1
-    },
-    {
-      "name": "Double Trouble",
-      "times_played": 1
-    },
-    {
-      "name": "Whiskey Rock-a-Roller",
-      "times_played": 1
-    },
-    {
-      "name": "That Smell",
-      "times_played": 1
-    },
-    {
-      "name": "Cry for the Bad Man",
-      "times_played": 1
-    },
-    {
-      "name": "Saturday Night Special",
-      "times_played": 1
-    },
-    {
-      "name": "Tuesday's Gone",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1035",
@@ -53,9 +12,9 @@
       "venue": "Hartford HealthCare Amphitheater",
       "city": "Bridgeport",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "Workin for MCA",
-      "closing_song": "Freebird"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "303",
@@ -66,8 +25,8 @@
       "city": "Westbury",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Workin for MCA",
-      "closing_song": "Freebird"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "126",
@@ -78,8 +37,8 @@
       "city": "Atlantic City",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Workin for MCA",
-      "closing_song": "Freebird"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "95",
@@ -90,8 +49,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "LS: Edge of Foever\nZZ: Got Me Under Pressure",
-      "closing_song": "LS: Freebird\nZZ: Tush"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "69",
@@ -102,8 +61,8 @@
       "city": "Holmdel",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "We Ain't Much Different",
-      "closing_song": "Freebird"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "41",
@@ -114,8 +73,8 @@
       "city": "Wantagh",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "LS: We Ain't Much Different\nPR: Can't Get Enough",
-      "closing_song": "LS: Freebird\nPR: Alright Now"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "28",
@@ -126,8 +85,8 @@
       "city": "Holmdel",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "LS: Workin for MCA  \nDB: Dangerous",
-      "closing_song": "LS: Freebird\nDB: Listen to the Music"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -2,48 +2,7 @@
   "id": "349",
   "name": "Little Steven",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Soulfire",
-      "times_played": 2
-    },
-    {
-      "name": "Coming Back",
-      "times_played": 2
-    },
-    {
-      "name": "Blues Is My Business",
-      "times_played": 2
-    },
-    {
-      "name": "Love on the Wrong Side of Town",
-      "times_played": 2
-    },
-    {
-      "name": "Until the Good Is Gone",
-      "times_played": 2
-    },
-    {
-      "name": "Angel Eyes",
-      "times_played": 2
-    },
-    {
-      "name": "Saint Valentine's Day",
-      "times_played": 2
-    },
-    {
-      "name": "Standing in the Line of Fire",
-      "times_played": 2
-    },
-    {
-      "name": "I Saw the Light",
-      "times_played": 2
-    },
-    {
-      "name": "Salvation",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "825",
@@ -53,9 +12,9 @@
       "venue": "Palladium Times Square",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Soulfire",
-      "closing_song": "Out of the Darkness"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "791",
@@ -65,9 +24,9 @@
       "venue": "Gramercy Theater",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Soulfire",
-      "closing_song": "Out of the Darkness"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

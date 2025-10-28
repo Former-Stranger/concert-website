@@ -2,48 +2,7 @@
   "id": "269",
   "name": "Jelly Roll",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Losers",
-      "times_played": 2
-    },
-    {
-      "name": "I Had Some Help",
-      "times_played": 2
-    },
-    {
-      "name": "I Am Not Okay",
-      "times_played": 1
-    },
-    {
-      "name": "Halfway to Hell",
-      "times_played": 1
-    },
-    {
-      "name": "Get By",
-      "times_played": 1
-    },
-    {
-      "name": "Burning",
-      "times_played": 1
-    },
-    {
-      "name": "Son of a Sinner",
-      "times_played": 1
-    },
-    {
-      "name": "Should've Been a Cowboy",
-      "times_played": 1
-    },
-    {
-      "name": "Man! I Feel Like a Woman!",
-      "times_played": 1
-    },
-    {
-      "name": "Friends in Low Places",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1257",
@@ -53,9 +12,9 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "JR: Heart of Stone   PM: Texas Tea",
-      "closing_song": "JR:  Save Me    PM:  Congratulations"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1200",
@@ -65,9 +24,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "I'm Not Okay",
-      "closing_song": "Save Me"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

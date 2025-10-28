@@ -2,48 +2,7 @@
   "id": "471",
   "name": "Robert Plant + Alison Krauss",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Rich Woman",
-      "times_played": 1
-    },
-    {
-      "name": "Quattro - World Drifts In",
-      "times_played": 1
-    },
-    {
-      "name": "Fortune Teller",
-      "times_played": 1
-    },
-    {
-      "name": "The Price of Love",
-      "times_played": 1
-    },
-    {
-      "name": "Rock and Roll",
-      "times_played": 1
-    },
-    {
-      "name": "Please Read the Letter",
-      "times_played": 1
-    },
-    {
-      "name": "Let Your Loss Be Your Lesson",
-      "times_played": 1
-    },
-    {
-      "name": "High and Lonesome",
-      "times_played": 1
-    },
-    {
-      "name": "Last Kind Words Blues",
-      "times_played": 1
-    },
-    {
-      "name": "You Led Me to the Wrong",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1026",
@@ -53,9 +12,9 @@
       "venue": "Forest Hills Stadium",
       "city": "Forest Hills",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Rich Woman",
-      "closing_song": "Somebody Was Watching Over Me"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

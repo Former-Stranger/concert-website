@@ -1,0 +1,85 @@
+concert_id,date,venue,city,state,artist_id,artist_name,artist_name_corrected,festival_name,current_festival_name,artist_position,artist_role,special_chars_found,has_setlist,notes
+1011,2022-03-22,Cherry Lane Theatre,New York,NY,537,Steve Earle (Coal Country Play),Steve Earle,,,1,headliner,(),False,NOTE: Coal Country Play
+1026,2022-06-04,Forest Hills Stadium,Forest Hills,NY,471,Robert Plant + Alison Krauss,,,,1,headliner,+,True,
+1029,2022-06-18,Citizens Bank Park,Philadelphia,PA,319,Kenny Chesney / Dan + Shay / Old Dominion,,,,1,headliner,/+/,False,
+1051,2022-08-27,Capitol Theatre,Port Chester,NY,30,Avett Brothers (w./ Clem Snide),Avett Brothers,,,1,headliner,(/),False,GUEST: w./ Clem Snide
+1056,2022-09-13,92nd Street Y,New York,NY,92,Bruce Springsteen / Jann Wenner,,,,1,headliner,/,False,
+1058,2022-09-17,Asbury Park Beach,Asbury Park,NJ,505,Sea Hear Now (Stevie Nicks),Stevie Nicks,Sea Hear Now,,1,headliner,(),False,FESTIVAL
+1059,2022-09-18,Asbury Park Beach,Asbury Park,NJ,502,Sea Hear Now (Green Day),Green Day,Sea Hear Now,,1,headliner,(),False,FESTIVAL
+1061,2022-09-30,Madison Square Garden,New York,NY,576,The Killers (w. Johnny Marr),The Killers,,,1,headliner,(),False,GUEST: w. Johnny Marr
+1068,2022-11-02,Beacon Theatre,New York,NY,619,U2:  Bono,,,,1,headliner,2:,False,
+1069,2022-11-04,Capitol Theatre,Port Chester,NY,337,Last Waltz with Warren Haynes + Jamey Johnson,,,,1,headliner,+,False,
+1072,2022-11-14,NBC Studios,New York,NY,90,Bruce Springsteen (Late Night,,,,1,headliner,(,False,
+1074,2022-12-08,Beacon Theatre,New York,NY,238,Gregg Allman Beacon 75,,,,1,headliner,75,False,
+1106,2023-08-13,Bethel Woods,Bethel,NY,281,Joe Bonamassa + Styx + Don Felder,,,,1,headliner,++,False,
+1111,2023-09-07,Madison Square Garden,New York,NY,573,The Eagles + Steely Dan,,,,1,headliner,+,False,
+1112,2023-09-08,Jones Beach Theater,Wantagh,NY,548,Sting + Joe Sumner,,,,1,headliner,+,False,
+1121,2023-10-05,Sphere,Las Vegas,NV,618,U2,,,,1,headliner,2,True,
+1123,2023-10-12,Madison Square Garden,New York,NY,440,Queen + Adam Lambert,,,,1,headliner,+,True,
+1128,2023-11-13,Beacon Theatre,New York,NY,226,Geddy Lee (In Conversation),Geddy Lee,,,1,headliner,(),False,NOTE: In Conversation
+1147,2024-03-10,New Jersey Performing Arts Center,Newark,NJ,303,John Mellencamp (Bruce appearance),John Mellencamp,,,1,headliner,(),False,NOTE: Bruce appearance
+1148,2024-03-16,Prudential Center,Newark,NJ,102,Bryan Adams (w. Dave Stewart),Bryan Adams,,,1,headliner,(),False,GUEST: w. Dave Stewart
+1151,2024-03-28,Madison Square Garden,New York,NY,49,Billy Joel (100th),Billy Joel,,,1,headliner,(100),False,NOTE: 100th
+1153,2024-04-04,Mercury Lounge,New York,NY,4,53 Thieves,,,,1,headliner,53,False,
+1161,2024-05-01,Ridgefield Playhouse,Ridgefield,CT,361,Lyle Lovett (with Lisa Loeb),Lyle Lovett,,,1,headliner,(),False,GUEST: with Lisa Loeb
+1162,2024-05-09,Madison Square Garden,New York,NY,50,Billy Joel (75th Birthday),Billy Joel,,,1,headliner,(75),False,NOTE: 75th Birthday
+1182,2024-07-25,Madison Square Garden,New York,NY,51,Billy Joel (Final Franchise),Billy Joel,,,1,headliner,(),False,NOTE: Final Franchise
+1205,2024-10-16,Tarrytown Music Hall,Tarrytown,NY,456,Richard Thompson (Band),Richard Thompson,,,1,headliner,(),False,NOTE: Band
+1210,2024-10-26,Garcia's at The Capitol Theatre,Port Chester,NY,532,Stella Blue's Band (acoustic),Stella Blue's Band,,,1,headliner,(),True,NOTE: acoustic
+1215,2024-11-11,Lincoln Center,New York,NY,529,"Stand Up for Heroes:  Bruce Springsteen, Norah Jones",,,,1,headliner,:,True,
+1231,2025-01-16,Blue Note Jazz Club,New York,NY,369,"Marcus King Trio (MonoNeon, Chris Dave)",Marcus King Trio,,,1,headliner,(),False,"NOTE: MonoNeon, Chris Dave"
+1233,2025-01-18,Count Basie Center for the Arts,Red Bank,NJ,96,Bruce Springsteen:  Light of Day,,,,1,headliner,:,True,
+132,2001-06-21,Izod Center,East Rutherford,NJ,618,U2,,,,1,headliner,2,True,
+147,2001-10-27,Madison Square Garden,New York,NY,618,U2,,,,1,headliner,2,True,
+203,2004-06-22,Izod Center,East Rutherford,NJ,621,Van Halen (Hagar),Van Halen,,,1,headliner,(),True,NOTE: Hagar
+227,2005-05-18,Izod Center,East Rutherford,NJ,618,U2,,,,1,headliner,2,True,
+229,2005-05-22,Wells Fargo Center,Philadelphia,PA,618,U2,,,,1,headliner,2,True,
+242,2005-10-16,Continental Airlines Arena,East Rutherford,NJ,441,Queen + Paul Rodgers,,,,1,headliner,+,True,
+245,2005-11-21,Madison Square Garden,New York,NY,618,U2,,,,1,headliner,2,True,
+255,2006-03-12,Nassau Coliseum,Uniondale,NY,441,Queen + Paul Rodgers,,,,1,headliner,+,True,
+364,2008-11-24,Carnegie Hall,New York,NY,209,Family Guy Sings Live at Carnegie Hall (Seth MacFarlane),Family Guy Sings Live at Carnegie Hall,,,1,headliner,(),False,NOTE: Seth MacFarlane
+368,2009-01-14,The Town Hall,New York,NY,72,Bon Jovi (Hillary Benefit),Bon Jovi,,,1,headliner,(),False,NOTE: Hillary Benefit
+37,1997-05-31,Giants Stadium,East Rutherford,NJ,618,U2,,,,1,headliner,2,True,
+39,1997-06-07,Jones Beach Theater,Wantagh,NY,465,"Ringo Starr & His All-Starr Band (Kirke, Jack Bruce, Gary Brooker, Frampton, Rivera)",Ringo Starr & His All-Starr Band,,,1,headliner,(),True,"NOTE: Kirke, Jack Bruce, Gary Brooker, Frampton, Rivera"
+393,2009-09-23,Giants Stadium,East Rutherford,NJ,618,U2,,,,1,headliner,2,True,
+394,2009-09-24,Giants Stadium,East Rutherford,NJ,618,U2,,,,1,headliner,2,True,
+444,2010-09-13,The Meadowlands,East Rutherford,NJ,518,Slash (4 Songs),Slash,,,1,headliner,(4),False,NOTE: 4 Songs
+463,2011-01-15,Paramount Theatre,Asbury Park,NJ,97,Bruce Springsteen: Light of Day 11,,,,1,headliner,:11,False,
+485,2011-07-20,MetLife Stadium,East Rutherford,NJ,618,U2,,,,1,headliner,2,True,
+487,2011-08-13,The Meadowlands,East Rutherford,NJ,321,Kenny Chesney/Zac Brown Band,,,,1,headliner,/,False,
+489,2011-08-23,Jones Beach Theater,Wantagh,NY,363,Lynyrd Skynyrd/Doobie Brothers,,,,1,headliner,/,False,
+497,2011-12-01,Madison Square Garden,New York,NY,66,Bob Seger (guest: Bruce Springsteen),Bob Seger,,,1,headliner,(:),True,NOTE: guest: Bruce Springsteen
+498,2011-12-09,Convention Hall,Asbury Park,NJ,225,Gaslight Anthem (guest: Bruce Springsteen),Gaslight Anthem,,,1,headliner,(:),True,NOTE: guest: Bruce Springsteen
+587,2014-07-17,Madison Square Garden,New York,NY,440,Queen + Adam Lambert,,,,1,headliner,+,True,
+606,2014-11-05,The Theater at Madison Square Garden,New York,NY,99,Bruce Springsteen: Stand Up For Heroes,,,,1,headliner,:,False,
+622,2015-05-03,Madison Square Garden,New York,NY,200,Eric Clapton (70th Birthday bash),Eric Clapton,,,1,headliner,(70),True,NOTE: 70th Birthday bash
+636,2015-07-18,Madison Square Garden,New York,NY,618,U2,,,,1,headliner,2,True,
+637,2015-07-22,Madison Square Garden,New York,NY,618,U2,,,,1,headliner,2,True,
+638,2015-07-23,Madison Square Garden,New York,NY,618,U2,,,,1,headliner,2,True,
+64,1998-05-22,Madison Square Garden,New York,NY,622,Van Halen 3 (Cherone) / Creed,,,,1,headliner,3()/,False,
+657,2015-10-01,Capitol Theatre,Port Chester,NY,628,Warren Haynes + Chris Stapleton,,,,1,headliner,+,False,
+661,2015-11-03,Capitol Theatre,Port Chester,NY,175,Don Henley (w. Shawn Colvin),Don Henley,,,1,headliner,(),True,GUEST: w. Shawn Colvin
+665,2015-12-05,The Theater at Madison Square Garden,New York,NY,299,"John Lennon 75th Birthday: Steven Tyler, Fogerty",,,,1,headliner,75:,False,
+763,2017-06-28,MetLife Stadium,East Rutherford,NJ,618,U2,,,,1,headliner,2,True,
+775,2017-08-10,Beacon Theatre,New York,NY,104,Buckingham/McVie,,,,1,headliner,/,True,
+783,2017-09-09,Metropolitan Opera House,New York,NY,423,Pete Townshend / Quadrophenia,,,,1,headliner,/,False,
+822,2018-04-16,City Winery,New York,NY,493,Ryan Bingham (Acoustic),Ryan Bingham,,,1,headliner,(),False,NOTE: Acoustic
+823,2018-04-17,Capitol Theatre,Port Chester,NY,26,As the Crow Flies (Chris Robinson),As the Crow Flies,,,1,headliner,(),True,BAND NAME (not festival)
+835,2018-06-25,Madison Square Garden,New York,NY,618,U2,,,,1,headliner,2,True,
+836,2018-06-26,Madison Square Garden,New York,NY,618,U2,,,,1,headliner,2,True,
+837,2018-06-27,Radio City Music Hall,New York,NY,541,Steve Miller Band/Peter Frampton,,,,1,headliner,/,False,
+838,2018-06-29,Prudential Center,Newark,NJ,618,U2,,,,1,headliner,2,True,
+839,2018-07-01,Madison Square Garden,New York,NY,618,U2,,,,1,headliner,2,True,
+843,2018-07-18,Madison Square Garden,New York,NY,52,Billy Joel (with Bruce Springsteen),Billy Joel,,,1,headliner,(),True,GUEST: with Bruce Springsteen
+847,2018-08-07,Madison Square Garden,New York,NY,482,Rod Stewart/Cyndi Lauper,,,,1,headliner,/,False,
+880,2018-11-05,The Theater at Madison Square Garden,New York,NY,526,Springsteen: Stand Up for Heroes (with Eric Church),Eric Church,Stand Up for Heroes,,1,headliner,:(),False,FESTIVAL
+891,2018-12-30,Capitol Theatre,Port Chester,NY,26,As the Crow Flies (Chris Robinson),As the Crow Flies,,,1,headliner,(),True,BAND NAME (not festival)
+916,2019-06-11,Beacon Theatre,New York,NY,592,Tim McGraw (w. John Meachum),Tim McGraw,,,1,headliner,(),False,GUEST: w. John Meachum
+929,2019-08-06,Madison Square Garden,New York,NY,440,Queen + Adam Lambert,,,,1,headliner,+,True,
+939,2019-09-01,Madison Square Garden,New York,NY,588,The Who (w. Orchestra),The Who,,,1,headliner,(),True,GUEST: w. Orchestra
+956,2019-11-04,The Theater at Madison Square Garden,New York,NY,95,Bruce Springsteen/Crow: Stand Up for Heroes,,,,1,headliner,/:,False,
+958,2019-11-06,Beacon Theatre,New York,NY,350,Little Steven (Peter Wolf),Little Steven,,,1,headliner,(),False,NOTE: Peter Wolf
+963,2019-11-23,Westchester County Center,White Plains,NY,178,Doobie Brothers (Peter Wolf),Doobie Brothers,,,1,headliner,(),False,NOTE: Peter Wolf
+990,2021-09-21,Ridgefield Playhouse,Ridgefield,CT,298,John Hiatt + Jerry Douglas Band,,,,1,headliner,+,False,
+991,2021-10-05,The Town Hall,New York,NY,215,Foo Fighters:  Dave Grohl: Storyteller,,,,1,headliner,::,False,
+999,2021-11-19,Capitol Theatre,Port Chester,NY,265,Jason Isbell + 400 Unit,,,,1,headliner,+400,True,

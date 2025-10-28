@@ -2,48 +2,7 @@
   "id": "48",
   "name": "Billy Joel",
   "concert_count": 73,
-  "top_songs": [
-    {
-      "name": "The River of Dreams",
-      "times_played": 67
-    },
-    {
-      "name": "Scenes From an Italian Restaurant",
-      "times_played": 67
-    },
-    {
-      "name": "Piano Man",
-      "times_played": 67
-    },
-    {
-      "name": "You May Be Right",
-      "times_played": 67
-    },
-    {
-      "name": "Movin' Out (Anthony's Song)",
-      "times_played": 66
-    },
-    {
-      "name": "Allentown",
-      "times_played": 66
-    },
-    {
-      "name": "It's Still Rock and Roll to Me",
-      "times_played": 65
-    },
-    {
-      "name": "New York State of Mind",
-      "times_played": 64
-    },
-    {
-      "name": "Only the Good Die Young",
-      "times_played": 61
-    },
-    {
-      "name": "My Life",
-      "times_played": 60
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1238",
@@ -53,9 +12,9 @@
       "venue": "Mohegan Sun Arena",
       "city": "Uncasville",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "Movin Out",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1230",
@@ -65,9 +24,9 @@
       "venue": "UBS Arena",
       "city": "Elmont",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Movin Out",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1170",
@@ -77,9 +36,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1139",
@@ -89,9 +48,9 @@
       "venue": "UBS Arena",
       "city": "Elmont",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "My Life",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1114",
@@ -101,9 +60,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1101",
@@ -113,9 +72,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1089",
@@ -125,9 +84,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "My Life",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1049",
@@ -137,9 +96,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Matter of Trust",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1018",
@@ -149,9 +108,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Stormfront",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "996",
@@ -161,9 +120,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "890",
@@ -174,8 +133,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Big Shot",
-      "closing_song": "You May Be Right"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "966",
@@ -185,9 +144,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "I Go to Extremes",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "945",
@@ -197,9 +156,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Big Shot",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "908",
@@ -209,9 +168,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Big Shot",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "895",
@@ -221,9 +180,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Big Shot",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "892",
@@ -233,9 +192,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Big Shot",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "868",
@@ -245,9 +204,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Big Shot",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "855",
@@ -257,9 +216,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Big Shot",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "829",
@@ -269,9 +228,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "820",
@@ -281,9 +240,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Movin' Out",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "813",
@@ -293,9 +252,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "806",
@@ -305,9 +264,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "796",
@@ -317,9 +276,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "778",
@@ -329,9 +288,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "We Didn't Start the Fire",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "765",
@@ -341,9 +300,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "750",
@@ -353,9 +312,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "746",
@@ -365,9 +324,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "745",
@@ -377,9 +336,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "My Life",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "735",
@@ -389,9 +348,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": " You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "728",
@@ -401,9 +360,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "The Stranger",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "706",
@@ -413,9 +372,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": "Only the Good Die Young"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "684",
@@ -425,9 +384,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "We Didn't Start the Fire",
-      "closing_song": "Only the Good Die Young"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "674",
@@ -437,9 +396,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": "Only the Good Die Young"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "667",
@@ -449,9 +408,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "We Didn't Start the Fire",
-      "closing_song": "Only the Good Die Young"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "663",
@@ -461,9 +420,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "My Life",
-      "closing_song": "Only the Good Die Young"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "640",
@@ -473,9 +432,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Movin' Out",
-      "closing_song": "Only the Good Die Young"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "635",
@@ -485,9 +444,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Big Shot",
-      "closing_song": "Only the Good Die Young"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "629",
@@ -497,9 +456,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "625",
@@ -509,9 +468,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": "Only the Good Die Young"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "614",
@@ -521,9 +480,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": "Only the Good Die Young"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "611",
@@ -533,9 +492,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": "Only the Good Die Young"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "608",
@@ -545,9 +504,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": "Only the Good Die Young"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "597",
@@ -557,9 +516,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": "Only the Good Die Young"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "583",
@@ -569,9 +528,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": "Only the Good Die Young"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "580",
@@ -581,9 +540,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Matter of Trust",
-      "closing_song": "Only the Good Die Young"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "573",
@@ -593,9 +552,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": "Only the Good Die Young"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "570",
@@ -605,9 +564,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": "Only the Good Die Young"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "565",
@@ -617,9 +576,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": "Only the Good Die Young"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "562",
@@ -629,9 +588,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": "Only the Good Die Young"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "558",
@@ -641,9 +600,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": "Only the Good Die Young"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "403",
@@ -665,9 +624,9 @@
       "venue": "Citizens Bank Park",
       "city": "Philadelphia",
       "state": "PA",
-      "has_setlist": true,
-      "opening_song": "Your Song",
-      "closing_song": "Piano Man"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "386",
@@ -677,9 +636,9 @@
       "venue": "Gillette Stadium",
       "city": "Foxborough",
       "state": "MA",
-      "has_setlist": true,
-      "opening_song": "Your Song",
-      "closing_song": "Piano Man"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "350",
@@ -689,9 +648,9 @@
       "venue": "Shea Stadium",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": "Let it Be (w/Paul McCartney)"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "349",
@@ -701,9 +660,9 @@
       "venue": "Shea Stadium",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": "Souvenir"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "337",
@@ -713,9 +672,9 @@
       "venue": "Mohegan Sun Arena",
       "city": "Uncasville",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "Angry Young Man",
-      "closing_song": "Piano Man"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "297",
@@ -725,9 +684,9 @@
       "venue": "MVP Arena",
       "city": "Albany",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Angry Young Man",
-      "closing_song": "Piano Man"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "258",
@@ -737,9 +696,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Angry Young Man",
-      "closing_song": "Piano Man"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "252",
@@ -749,9 +708,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Angry Young Man",
-      "closing_song": "Piano Man"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "251",
@@ -761,9 +720,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Angry Young Man",
-      "closing_song": "Piano Man"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "248",
@@ -774,8 +733,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "No Opener",
-      "closing_song": "Summer Highland Falls"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "171",
@@ -785,9 +744,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Your Song",
-      "closing_song": "Piano Man"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "168",
@@ -797,9 +756,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Your Song",
-      "closing_song": "Piano Man"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "151",
@@ -809,9 +768,9 @@
       "venue": "XL Center",
       "city": "Hartford",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "Your Song",
-      "closing_song": "Piano Man"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "145",
@@ -821,9 +780,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "David Bowie: America",
-      "closing_song": "Paul Mccartney: Freedom"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "97",
@@ -833,9 +792,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Big Shot",
-      "closing_song": "Piano Man"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "84",
@@ -845,9 +804,9 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Angry young Man",
-      "closing_song": "Piano Man"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "77",
@@ -857,9 +816,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Miami 2017",
-      "closing_song": "Piano Man"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "58",
@@ -869,9 +828,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Angry Young Man",
-      "closing_song": "Piano Man"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "57",
@@ -881,9 +840,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Angry Young Man",
-      "closing_song": "Piano Man"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "56",
@@ -893,9 +852,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Angry Young Man",
-      "closing_song": "Piano Man"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "17",
@@ -906,8 +865,8 @@
       "city": "West Point",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "NY State of Mind",
-      "closing_song": "Piano Man"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "5",
@@ -917,9 +876,9 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Your Song Duet",
-      "closing_song": "Piano Man Duet"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

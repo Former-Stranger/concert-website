@@ -11,9 +11,9 @@
       "date": "2024-12-31",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true,
-      "opening_song": "Movin Out",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1152",
@@ -21,9 +21,9 @@
       "date": "2024-03-30",
       "festival_name": null,
       "artists": "Zach Bryan",
-      "has_setlist": true,
-      "opening_song": "Overtime",
-      "closing_song": "Revival"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1139",
@@ -31,9 +31,9 @@
       "date": "2023-12-31",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true,
-      "opening_song": "My Life",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1122",
@@ -42,8 +42,8 @@
       "festival_name": null,
       "artists": "Chris Stapleton w Margo Price",
       "has_setlist": false,
-      "opening_song": "White Horse",
-      "closing_song": "Outlaw State of Mind"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1113",
@@ -51,9 +51,9 @@
       "date": "2023-09-09",
       "festival_name": "Multi-Artist Show",
       "artists": "Aerosmith, Black Crowes",
-      "has_setlist": true,
-      "opening_song": "BC:  No Speak  Aerosmith:  Back in Saddle",
-      "closing_song": "BC:  Remedy   Aerosmith:  Walk this Way"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1086",
@@ -62,8 +62,8 @@
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
       "has_setlist": false,
-      "opening_song": "No Surrender",
-      "closing_song": "I'll See You In My Dreams"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1085",
@@ -72,8 +72,8 @@
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
       "has_setlist": false,
-      "opening_song": "No Surrender",
-      "closing_song": "I'll See You In My Dreams"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1066",
@@ -81,9 +81,9 @@
       "date": "2022-10-22",
       "festival_name": null,
       "artists": "Keith Urban",
-      "has_setlist": true,
-      "opening_song": "Tumbleweed",
-      "closing_song": "Stupid Boy"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1044",
@@ -91,9 +91,9 @@
       "date": "2022-08-13",
       "festival_name": null,
       "artists": "Roger Waters",
-      "has_setlist": true,
-      "opening_song": "Comfortably Numb",
-      "closing_song": "Outside the Wall"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1020",
@@ -101,9 +101,9 @@
       "date": "2022-04-23",
       "festival_name": null,
       "artists": "The Eagles",
-      "has_setlist": true,
-      "opening_song": "Hotel California",
-      "closing_song": "Best of My Love"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

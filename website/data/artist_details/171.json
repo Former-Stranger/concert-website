@@ -2,48 +2,7 @@
   "id": "171",
   "name": "Dierks Bentley",
   "concert_count": 5,
-  "top_songs": [
-    {
-      "name": "Burning Man",
-      "times_played": 4
-    },
-    {
-      "name": "I Hold On",
-      "times_played": 3
-    },
-    {
-      "name": "Free and Easy (Down the Road I Go)",
-      "times_played": 3
-    },
-    {
-      "name": "Black",
-      "times_played": 3
-    },
-    {
-      "name": "5-1-5-0",
-      "times_played": 3
-    },
-    {
-      "name": "Am I the Only One",
-      "times_played": 3
-    },
-    {
-      "name": "Say You Do",
-      "times_played": 3
-    },
-    {
-      "name": "Living",
-      "times_played": 3
-    },
-    {
-      "name": "What Was I Thinkin'",
-      "times_played": 3
-    },
-    {
-      "name": "Drunk on a Plane",
-      "times_played": 3
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1187",
@@ -53,9 +12,9 @@
       "venue": "Arthur Ashe Stadium",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Gold",
-      "closing_song": "Drunk on a Plane / 90's Country Medley"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "927",
@@ -65,9 +24,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Burning Man",
-      "closing_song": "Free and Easy"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "859",
@@ -77,9 +36,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "DB: The Mountain           BO: Shoot Me Straight",
-      "closing_song": "DB: Drunk on a Plane                          BO: Ain't My Fault"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "832",
@@ -90,8 +49,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Living",
-      "closing_song": "Somewhere on a Beach"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "402",
@@ -102,8 +61,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Start a Band",
-      "closing_song": "Boys of Summer"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -2,24 +2,7 @@
   "id": "520",
   "name": "Smashing Pumpkins",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Cenotaph",
-      "times_played": 1
-    },
-    {
-      "name": "Ziggy Stardust",
-      "times_played": 1
-    },
-    {
-      "name": "To Forgive",
-      "times_played": 1
-    },
-    {
-      "name": "Perfect",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1184",
@@ -29,9 +12,9 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "GD:  American Dream   SP:  Everlastinhg Gaze",
-      "closing_song": "GD:  Good Riddance   SP:  Zero"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

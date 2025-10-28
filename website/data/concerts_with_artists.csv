@@ -1,0 +1,1276 @@
+Concert ID,Date,Venue,City,State,Artists,Has Setlist
+10,1995-08-18,The Meadowlands,East Rutherford,NJ,Tom Petty & the Heartbreakers (headliner),False
+100,2000-03-13,Toad's Place,New Haven,CT,Clancy Brothers (headliner),False
+1000,2021-11-22,Capitol Theatre,Port Chester,NY,Joe Bonamassa (headliner),True
+1001,2021-11-23,Capitol Theatre,Port Chester,NY,Bob Dylan (headliner),True
+1002,2021-11-29,Madison Square Garden,New York,NY,"Luke Combs (headliner), Ashely McBryde (opener)",True
+1003,2021-12-13,The Town Hall,New York,NY,Bruce Springsteen + Earle + Nile + Cash (7th Annual J. Henry) (headliner),False
+1004,2021-12-18,Daryl's House,Pawling,NY,Wille Nile (headliner),False
+1005,2022-02-06,New Jersey Performing Arts Center,Newark,NJ,"Eddie Vedder (festival_performer), The Earthlings (festival_performer)",True
+1006,2022-02-23,Madison Square Garden,New York,NY,Elton John (headliner),True
+1007,2022-03-01,Barclays Center,Brooklyn,NY,Elton John (headliner),True
+1008,2022-03-06,Nassau Coliseum,Uniondale,NY,Elton John (headliner),True
+1009,2022-03-11,Ridgefield Playhouse,Ridgefield,CT,Warren Haynes (headliner),True
+101,2000-04-12,XL Center,Hartford,CT,"Crosby (festival_performer), Stills (festival_performer), Nash & Young (festival_performer)",True
+1010,2022-03-12,Count Basie Center for the Arts,Red Bank,NJ,"Grushecky (festival_performer), Nile (festival_performer), Malin (festival_performer), Maddock etc. (festival_performer)",False
+1011,2022-03-22,Cherry Lane Theatre,New York,NY,Steve Earle (Coal Country Play) (headliner),False
+1012,2022-03-23,Capitol Theatre,Port Chester,NY,Brothers Osbourne (headliner),False
+1013,2022-03-26,Ridgefield Playhouse,Ridgefield,CT,"Mike Campbell (festival_performer), Dirty Knobs (festival_performer)",True
+1014,2022-04-01,Hill Country Live,New York,NY,Will Hoge (headliner),False
+1015,2022-04-03,Radio City Music Hall,New York,NY,"Bob Weir (festival_performer), Wolf Brothers (festival_performer)",True
+1016,2022-04-05,Tarrytown Music Hall,Tarrytown,NY,Jason Isbell (headliner),True
+1017,2022-04-07,Tarrytown Music Hall,Tarrytown,NY,Colin Hay (headliner),False
+1018,2022-04-08,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+1019,2022-04-15,Capitol Theatre,Port Chester,NY,John Fogerty (headliner),True
+102,2000-05-08,XL Center,Hartford,CT,Bruce Springsteen & the E Street Band (headliner),False
+1020,2022-04-23,UBS Arena,Elmont,NY,The Eagles (headliner),True
+1021,2022-05-10,Ridgefield Playhouse,Ridgefield,CT,Weird Al (headliner),True
+1022,2022-05-20,Madison Square Garden,New York,NY,Eric Church (headliner),True
+1023,2022-05-26,Madison Square Garden,New York,NY,The Who (headliner),True
+1024,2022-05-31,Westville Music Bowl,New Haven,CT,Avett Brothers (headliner),True
+1025,2022-06-03,Jones Beach Theater,Wantagh,NY,Tim McGraw (headliner),True
+1026,2022-06-04,Forest Hills Stadium,Forest Hills,NY,Robert Plant + Alison Krauss (headliner),True
+1027,2022-06-10,Tarrytown Music Hall,Tarrytown,NY,Buddy Guy (headliner),True
+1028,2022-06-16,MetLife Stadium,East Rutherford,NJ,Paul McCartney (headliner),True
+1029,2022-06-18,Citizens Bank Park,Philadelphia,PA,Kenny Chesney / Dan + Shay / Old Dominion (headliner),False
+103,2000-06-09,Jones Beach Theater,Wantagh,NY,"KISS (headliner), Ted Nugent (opener)",True
+1030,2022-06-21,Jones Beach Theater,Wantagh,NY,The Doobie Brothers (headliner),True
+1031,2022-06-27,Hartford HealthCare Amphitheater,Bridgeport,CT,Black Crowes (headliner),True
+1032,2022-06-30,City Winery,New York,NY,John Hiatt (headliner),True
+1033,2022-06-30,Rockefeller Plaza,New York,NY,Keith Urban (headliner),False
+1034,2022-07-01,Hartford HealthCare Amphitheater,Bridgeport,CT,"DEAD: Phil Lesh + Friends (w. Warren Haynes (festival_performer), Q) (festival_performer)",False
+1035,2022-07-02,Hartford HealthCare Amphitheater,Bridgeport,CT,Lynyrd Skynyrd (headliner),True
+1036,2022-07-05,Xfinity Center,Mansfield,MA,"DEAD: Dead (festival_performer), Company (festival_performer)",True
+1037,2022-07-13,Hartford HealthCare Amphitheater,Bridgeport,CT,Jackson Browne (headliner),True
+1038,2022-07-15,Citi Field,Queens,NY,"DEAD:  Dead (festival_performer), Company (festival_performer)",True
+1039,2022-07-16,Citi Field,Queens,NY,"DEAD:  Dead (festival_performer), Company (festival_performer)",True
+104,2000-06-26,Madison Square Garden,New York,NY,Bruce Springsteen & the E Street Band (headliner),False
+1040,2022-07-23,MetLife Stadium,East Rutherford,NJ,Elton John (headliner),True
+1041,2022-07-27,Jones Beach Theater,Wantagh,NY,Phish (headliner),True
+1042,2022-08-03,Capitol Theatre,Port Chester,NY,Counting Crowes (headliner),False
+1043,2022-08-09,Madison Square Garden,New York,NY,Rage Against the Machine (headliner),True
+1044,2022-08-13,UBS Arena,Elmont,NY,Roger Waters (headliner),True
+1045,2022-08-14,Hartford HealthCare Amphitheater,Bridgeport,CT,Steve Miller Band (headliner),True
+1046,2022-08-18,Citi Field,Queens,NY,Zac Brown Band (headliner),True
+1047,2022-08-19,Jones Beach Theater,Wantagh,NY,Joe Bonamassa (headliner),True
+1048,2022-08-23,Jones Beach Theater,Wantagh,NY,Rod Stewart (headliner),True
+1049,2022-08-24,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+105,2000-06-27,Izod Center,East Rutherford,NJ,"KISS (headliner), Ted Nugent (opener)",True
+1050,2022-08-25,Jones Beach Theater,Wantagh,NY,Chris Stapleton (headliner),True
+1051,2022-08-27,Capitol Theatre,Port Chester,NY,Avett Brothers (w./ Clem Snide) (headliner),False
+1052,2022-08-28,Capitol Theatre,Port Chester,NY,Avett Brothers (headliner),True
+1053,2022-08-31,Madison Square Garden,New York,NY,Roger Waters (headliner),True
+1054,2022-09-10,Forest Hills Stadium,Forest Hills,NY,"Van Morrison (festival_performer), Tom Jones (festival_performer)",True
+1055,2022-09-11,Madison Square Garden,New York,NY,Pearl Jam (headliner),True
+1056,2022-09-13,92nd Street Y,New York,NY,Bruce Springsteen / Jann Wenner (headliner),False
+1057,2022-09-16,Capitol Theatre,Port Chester,NY,"Mike Campbell (festival_performer), Dirty Knobs (festival_performer)",True
+1058,2022-09-17,Asbury Park Beach,Asbury Park,NJ,Sea Hear Now (Stevie Nicks) (headliner),False
+1059,2022-09-18,Asbury Park Beach,Asbury Park,NJ,Sea Hear Now (Green Day) (headliner),False
+106,2000-06-28,PNC Bank Arts Center,Holmdel,NJ,Phish (headliner),True
+1060,2022-09-19,Madison Square Garden,New York,NY,Eric Clapton (headliner),True
+1061,2022-09-30,Madison Square Garden,New York,NY,The Killers (w. Johnny Marr) (headliner),False
+1062,2022-10-01,Westville Music Bowl,New Haven,CT,"Bob Weir (festival_performer), Wolf Brothers (festival_performer)",True
+1063,2022-10-07,Capitol Theatre,Port Chester,NY,"Jeff Beck (festival_performer), Johnny Depp (festival_performer)",True
+1064,2022-10-18,Capitol Theatre,Port Chester,NY,ZZ Top (headliner),True
+1065,2022-10-21,Mohegan Sun Arena,Uncasville,CT,Keith Urban (headliner),True
+1066,2022-10-22,UBS Arena,Elmont,NY,Keith Urban (headliner),True
+1067,2022-10-29,Carnegie Hall,New York,NY,Weird Al (headliner),True
+1068,2022-11-02,Beacon Theatre,New York,NY,U2:  Bono (headliner),False
+1069,2022-11-04,Capitol Theatre,Port Chester,NY,Last Waltz with Warren Haynes + Jamey Johnson (headliner),False
+107,2000-07-01,Madison Square Garden,New York,NY,Bruce Springsteen & the E Street Band (headliner),False
+1070,2022-11-07,Beacon Theatre,New York,NY,Marcus Mumford (headliner),True
+1071,2022-11-10,Terminal 5,New York,NY,Kip Moore (headliner),False
+1072,2022-11-14,NBC Studios,New York,NY,"Bruce Springsteen (Late Night (headliner), Fallon) (opener)",False
+1073,2022-11-18,Madison Square Garden,New York,NY,Dave Matthews Band (headliner),True
+1074,2022-12-08,Beacon Theatre,New York,NY,Gregg Allman Beacon 75 (headliner),False
+1075,2022-12-15,Symphony Space,New York,NY,Richard Thompson (headliner),True
+1076,2023-01-14,Count Basie Center for the Arts,Red Bank,NJ,Light of Day (headliner),False
+1077,2023-02-01,Amalie Arena,Tampa,FL,Bruce Springsteen & the E Street Band (headliner),False
+1078,2023-02-05,Kia Center,Orlando,FL,Bruce Springsteen & the E Street Band (headliner),False
+1079,2023-03-16,Wells Fargo Center,Philadelphia,PA,Bruce Springsteen & the E Street Band (headliner),False
+108,2000-07-08,Jones Beach Theater,Wantagh,NY,Steely Dan (headliner),True
+1080,2023-03-19,Capitol Theatre,Port Chester,NY,"Phil Lesh (festival_performer), Friends (festival_performer)",True
+1081,2023-03-21,Gramercy Theater,New York,NY,"Will Hoge (festival_performer), Wild Feathers (festival_performer)",True
+1082,2023-03-23,Ridgefield Playhouse,Ridgefield,CT,Live (headliner),True
+1083,2023-04-01,Madison Square Garden,New York,NY,Bruce Springsteen & the E Street Band (headliner),False
+1084,2023-04-03,Barclays Center,Brooklyn,NY,Bruce Springsteen & the E Street Band (headliner),False
+1085,2023-04-09,UBS Arena,Elmont,NY,Bruce Springsteen & the E Street Band (headliner),False
+1086,2023-04-11,UBS Arena,Elmont,NY,Bruce Springsteen & the E Street Band (headliner),False
+1087,2023-04-14,Prudential Center,Newark,NJ,Bruce Springsteen & the E Street Band (headliner),False
+1088,2023-04-21,Beacon Theatre,New York,NY,Bono (headliner),True
+1089,2023-04-25,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+109,2000-07-11,Giants Stadium,East Rutherford,NJ,Dave Matthews Band (headliner),True
+1090,2023-04-28,Radio City Music Hall,New York,NY,John Fogerty (headliner),True
+1091,2023-05-09,Ridgefield Playhouse,Ridgefield,CT,The Wallflowers (headliner),True
+1092,2023-06-06,Beacon Theatre,New York,NY,John Mellencamp (headliner),True
+1093,2023-06-21,Citi Field,Queens,NY,Dead and Company (headliner),True
+1094,2023-06-22,Citi Field,Queens,NY,Dead and Company (headliner),True
+1095,2023-06-24,Hartford HealthCare Amphitheater,Bridgeport,CT,Steve Miller Band with Dave Mason (headliner),False
+1096,2023-07-05,Ford Amphitheater at Coney Island,Brooklyn,NY,Neil Young (headliner),True
+1097,2023-07-09,Ridgefield Playhouse,Ridgefield,CT,Ace Frehley (headliner),True
+1098,2023-07-14,Today Show Plaza at Rockefeller Center,New York,NY,Brad Paisley (headliner),False
+1099,2023-07-15,Xfinity Center,Mansfield,MA,Jason Aldean (headliner),True
+11,1995-09-19,Nassau Coliseum,Uniondale,NY,"Eric Clapton (headliner), Clarence ""Gatemouth "" Brown (opener)",True
+110,2000-07-12,Giants Stadium,East Rutherford,NJ,Dave Matthews Band (headliner),True
+1100,2023-07-23,Capitol Theatre,Port Chester,NY,Peter Frampton (headliner),True
+1101,2023-07-24,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+1102,2023-07-27,City Winery Hudson Valley,Montgomery,NY,Richard Thompson (headliner),True
+1103,2023-07-28,Capitol Theatre,Port Chester,NY,"Jason Isbell (festival_performer), the 400 Unit (festival_performer)",True
+1104,2023-07-30,Madison Square Garden,New York,NY,Phish (headliner),True
+1105,2023-08-02,Radio City Music Hall,New York,NY,Tyler Childers (headliner),True
+1106,2023-08-13,Bethel Woods,Bethel,NY,Joe Bonamassa + Styx + Don Felder (headliner),False
+1107,2023-08-19,PNC Park,Pittsburgh,PA,"Govt Mule (festival_performer), JBLZE (festival_performer)",True
+1108,2023-08-30,MetLife Stadium,East Rutherford,NJ,Bruce Springsteen & the E Street Band (headliner),False
+1109,2023-09-01,MetLife Stadium,East Rutherford,NJ,Bruce Springsteen & the E Street Band (headliner),False
+111,2000-07-13,Madison Square Garden,New York,NY,Roger Waters (headliner),True
+1110,2023-09-03,MetLife Stadium,East Rutherford,NJ,Bruce Springsteen & the E Street Band (headliner),False
+1111,2023-09-07,Madison Square Garden,New York,NY,The Eagles + Steely Dan (headliner),False
+1112,2023-09-08,Jones Beach Theater,Wantagh,NY,Sting + Joe Sumner (headliner),False
+1113,2023-09-09,UBS Arena,Elmont,NY,"Aerosmith (festival_performer), Black Crowes (festival_performer)",True
+1114,2023-09-10,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+1115,2023-09-15,Paramount Hudson Valley Theater,Peekskill,NY,"Tommy Emmanuel w. Larry Campbell (festival_performer), Teresa Williams (festival_performer)",False
+1116,2023-09-16,Jones Beach Theater,Wantagh,NY,Zac Brown Band (headliner),True
+1117,2023-09-17,Jones Beach Theater,Wantagh,NY,Zac Brown Band w. King Calaway (headliner),False
+1118,2023-09-18,Madison Square Garden,New York,NY,Peter Gabriel (headliner),True
+1119,2023-09-28,Sony Hall,New York,NY,Christopher Cross (headliner),True
+112,2000-07-20,Giants Stadium,East Rutherford,NJ,"Metallica (headliner), Slayer, Sevendust and Slipknot! (opener)",True
+1120,2023-10-04,Dolby Live at Park MGM,Las Vegas,NV,Lady Gaga (headliner),True
+1121,2023-10-05,Sphere,Las Vegas,NV,U2 (headliner),True
+1122,2023-10-07,UBS Arena,Elmont,NY,Chris Stapleton w Margo Price (headliner),False
+1123,2023-10-12,Madison Square Garden,New York,NY,Queen + Adam Lambert (headliner),True
+1124,2023-10-20,Beacon Theatre,New York,NY,My Morning Jacket (headliner),True
+1125,2023-11-01,Bakkt Theater at Planet Hollywood,Las Vegas,NV,Keith Urban (headliner),True
+1126,2023-11-05,House of Blues,Las Vegas,NV,Santana (headliner),True
+1127,2023-11-07,Capitol Theatre,Port Chester,NY,Bob Dylan (headliner),True
+1128,2023-11-13,Beacon Theatre,New York,NY,Geddy Lee (In Conversation) (headliner),False
+1129,2023-11-14,Circle in the Square Theatre,New York,NY,Melissa Etheridge (headliner),False
+113,2000-07-31,Stony Brook Southampton,Southampton,NY,"Jimmy Buffett (festival_performer), Coral Reefer Band (festival_performer)",False
+1130,2023-11-16,Beacon Theatre,New York,NY,Bob Dylan (headliner),True
+1131,2023-11-17,Madison Square Garden,New York,NY,Dave Matthews Band (headliner),False
+1132,2023-11-21,City Winery,New York,NY,Mac McAnally (headliner),False
+1133,2023-12-02,Madison Square Garden,New York,NY,KISS (headliner),True
+1134,2023-12-03,The Town Hall,New York,NY,"Steve Earle (festival_performer), John Mellencamp (festival_performer), Amy Helm (festival_performer), Dave Bromberg (festival_performer)",True
+1135,2023-12-12,Capitol Theatre,Port Chester,NY,"Bob Weir (festival_performer), Wolf Brothers (festival_performer)",True
+1136,2023-12-13,Capitol Theatre,Port Chester,NY,"Bob Weir (festival_performer), Wolf Brothers (festival_performer)",True
+1137,2023-12-16,Capitol Theatre,Port Chester,NY,"Bob Weir (festival_performer), Wolf Brothers (festival_performer)",True
+1138,2023-12-17,Capitol Theatre,Port Chester,NY,"Bob Weir (festival_performer), Wolf Brothers (festival_performer)",True
+1139,2023-12-31,UBS Arena,Elmont,NY,Billy Joel (headliner),True
+114,2000-08-04,Jones Beach Theater,Wantagh,NY,"Allman Brothers Band (festival_performer), Hot Tuna (festival_performer)",True
+1140,2024-01-20,Count Basie Center for the Arts,Red Bank,NJ,Light of Day (headliner),False
+1141,2024-01-21,Capitol Theatre,Port Chester,NY,"Richard Marx (festival_performer), Rick Springfield (festival_performer)",True
+1142,2024-01-23,Madison Square Garden,New York,NY,Madonna (headliner),True
+1143,2024-02-24,Radio City Music Hall,New York,NY,"Jason Isbell (festival_performer), 400 Unit (w. Aimee Mann) (festival_performer)",True
+1144,2024-02-28,Ridgefield Playhouse,Ridgefield,CT,Live (headliner),True
+1145,2024-03-01,Emelin Theatre,Mamaroneck,NY,Richard Thompson (headliner),True
+1146,2024-03-04,Capitol Theatre,Port Chester,NY,"Phil Lesh (festival_performer), Friends (W. Warren Haynes) (festival_performer)",True
+1147,2024-03-10,New Jersey Performing Arts Center,Newark,NJ,John Mellencamp (Bruce appearance) (headliner),False
+1148,2024-03-16,Prudential Center,Newark,NJ,Bryan Adams (w. Dave Stewart) (headliner),False
+1149,2024-03-21,Capitol Theatre,Port Chester,NY,Emmylou Harris (headliner),True
+115,2000-08-12,Freedom Mortgage Pavilion,Camden,NJ,"Neil Young (festival_performer), The Pretenders (festival_performer)",True
+1150,2024-03-22,Capitol Theatre,Port Chester,NY,Blackberry Smoke (headliner),True
+1151,2024-03-28,Madison Square Garden,New York,NY,Billy Joel (100th) (headliner),False
+1152,2024-03-30,UBS Arena,Elmont,NY,Zach Bryan (headliner),True
+1153,2024-04-04,Mercury Lounge,New York,NY,53 Thieves (headliner),False
+1154,2024-04-05,Palace Theatre,Stamford,CT,Lady A (headliner),False
+1155,2024-04-12,Mohegan Sun Arena,Uncasville,CT,Bruce Springsteen & the E Street Band (headliner),False
+1156,2024-04-13,Patchogue Theatre,Patchogue,NY,Colin Hay (headliner),True
+1157,2024-04-14,NYCB Theatre at Westbury,Westbury,NY,Buddy Guy (headliner),True
+1158,2024-04-15,MVP Arena,Albany,NY,Bruce Springsteen & the E Street Band (headliner),False
+1159,2024-04-17,Radio City Music Hall,New York,NY,Barry Manilow (headliner),True
+116,2000-08-16,Irish Pub,Cape Cod,MA,"Clancy, OConnell (festival_performer), Clancy (festival_performer)",False
+1160,2024-04-27,Radio City Music Hall,New York,NY,Black Crowes (headliner),True
+1161,2024-05-01,Ridgefield Playhouse,Ridgefield,CT,Lyle Lovett (with Lisa Loeb) (headliner),False
+1162,2024-05-09,Madison Square Garden,New York,NY,Billy Joel (75th Birthday) (headliner),False
+1163,2024-05-14,Forest Hills Stadium,Forest Hills,NY,"Neil Young (festival_performer), Crazy Horse (festival_performer)",True
+1164,2024-05-21,Westville Music Bowl,New Haven,CT,Avett Brothers (headliner),True
+1165,2024-05-22,Barclays Center,Brooklyn,NY,Ed Sheeran (headliner),True
+1166,2024-05-23,MetLife Stadium,East Rutherford,NJ,The Rolling Stones (headliner),True
+1167,2024-05-26,MetLife Stadium,East Rutherford,NJ,The Rolling Stones (headliner),True
+1168,2024-05-28,Madison Square Garden,New York,NY,Tyler Childers (headliner),True
+1169,2024-05-31,Tarrytown Music Hall,Tarrytown,NY,John Hiatt (headliner),True
+117,2000-09-23,Webster Theater,Hartford,CT,"Dickey Betts Band (headliner), Larry McCray (opener)",True
+1170,2024-06-08,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+1171,2024-06-13,Sphere,Las Vegas,NV,Dead and Company (headliner),True
+1172,2024-06-14,Sphere,Las Vegas,NV,Dead and Company (headliner),True
+1173,2024-06-15,Sphere,Las Vegas,NV,Dead and Company (headliner),True
+1174,2024-06-18,Capitol Theatre,Port Chester,NY,Roger Daltrey (headliner),True
+1175,2024-06-22,The Rooftop at Pier 17,New York,NY,Billy Currington (headliner),False
+1176,2024-06-29,Jones Beach Theater,Wantagh,NY,"Willie Nelson (festival_performer), Bob Dylan (festival_performer), Robert Plant (festival_performer)",True
+1177,2024-07-12,Tarrytown Music Hall,Tarrytown,NY,Amos Lee (headliner),False
+1178,2024-07-16,Radio City Music Hall,New York,NY,"Daryl Hall (festival_performer), Elvis Costello (festival_performer)",True
+1179,2024-07-17,Citi Field,Queens,NY,Foo Fighters (headliner),True
+118,2000-08-19,Freedom Mortgage Pavilion,Camden,NJ,"John Fogerty with Dr. John (festival_performer), Aaron neville (festival_performer)",False
+1180,2024-07-23,Beacon Theatre,New York,NY,"Pat Benetar (festival_performer), Neil Giraldo (festival_performer)",True
+1181,2024-07-24,Bridgeport,Bridgeport,CT,Sammy Hagar (headliner),True
+1182,2024-07-25,Madison Square Garden,New York,NY,Billy Joel (Final Franchise) (headliner),False
+1183,2024-07-26,Great South Bay Music Festival,Oakdale,NY,NeedtoBreathe (headliner),True
+1184,2024-08-05,Citi Field,Queens,NY,"Green Day (festival_performer), Smashing Pumpkins (festival_performer)",True
+1185,2024-08-07,Madison Square Garden,New York,NY,"The Doobie Brothers (festival_performer), Steve Winwood (festival_performer)",True
+1186,2024-08-17,MetLife Stadium,East Rutherford,NJ,"Kenny Chesney (festival_performer), Zac Brown (festival_performer)",True
+1187,2024-08-18,Arthur Ashe Stadium,Queens,NY,"Dierks Bentley (headliner), Chase Rice (opener)",True
+1188,2024-08-21,Citizens Bank Park,Philadelphia,PA,Bruce Springsteen & the E Street Band (headliner),False
+1189,2024-08-23,Citizens Bank Park,Philadelphia,PA,Bruce Springsteen & the E Street Band (headliner),True
+119,2000-10-01,Nassau Coliseum,Uniondale,NY,"Tina Turner (festival_performer), Joe Cocker (festival_performer)",True
+1190,2024-08-24,Capitol Theatre,Port Chester,NY,Joe Bonamassa (headliner),True
+1191,2024-08-28,Daryl's House,Pawling,NY,Walter Trout (headliner),False
+1192,2024-09-03,Madison Square Garden,New York,NY,Pearl Jam (headliner),True
+1193,2024-09-04,Madison Square Garden,New York,NY,Pearl Jam (headliner),True
+1194,2024-09-12,CFG Bank Arena,Baltimore,MD,Pearl Jam (headliner),True
+1195,2024-09-13,Oriole Park at Camden Yards,Baltimore,MD,Bruce Springsteen (headliner),True
+1196,2024-09-14,Asbury Park Beach,Asbury Park,NJ,"SEA HEAR NOW: Noah Kahan (festival_performer), Black Crowes (festival_performer), Guster (festival_performer), Revivalists (festival_performer), Randolph (festival_performer)",True
+1197,2024-09-15,Asbury Park Beach,Asbury Park,NJ,"SEA HEAR NOW: Bruce Springsteen (festival_performer), Trey Anastaio (festival_performer), Kool & Gang (festival_performer)",True
+1198,2024-09-16,Madison Square Garden,New York,NY,ELO (headliner),True
+1199,2024-09-21,Saratoga Performing Arts Center,Saratoga Springs,NY,"Farm Aid: Nelson (festival_performer), Young (festival_performer), Dave & Tim (festival_performer), Rateliffe (festival_performer), Mellencamp (festival_performer)",True
+12,1995-10-14,Madison Square Garden,New York,NY,Elton John (headliner),True
+120,2000-10-03,Madison Square Garden,New York,NY,"The Who (festival_performer), The Wallflowers (festival_performer)",True
+1200,2024-09-27,Madison Square Garden,New York,NY,Jelly Roll (headliner),True
+1201,2024-09-30,Capitol Theatre,Port Chester,NY,The Doobie Brothers (headliner),True
+1202,2024-10-05,Hartford HealthCare Amphitheater,Bridgeport,CT,Kings of Leon (headliner),True
+1203,2024-10-08,Capitol Theatre,Port Chester,NY,Tedeschi Trucks Band (headliner),True
+1204,2024-10-13,Capitol Theatre,Port Chester,NY,Sting (headliner),True
+1205,2024-10-16,Tarrytown Music Hall,Tarrytown,NY,Richard Thompson (Band) (headliner),False
+1206,2024-10-17,Tarrytown Music Hall,Tarrytown,NY,The Lone Bellow (headliner),False
+1207,2024-10-19,Forest Hills Stadium,Forest Hills,NY,Sturgill Simpson (headliner),True
+1208,2024-10-23,Le Poisson Rouge,New York,NY,Will Hoge (headliner),False
+1209,2024-10-24,Wonder Bar,Asbury Park,NJ,Will Hoge (headliner),False
+121,2000-10-19,Great South Bay Music Festival,Oakdale,NY,Alice Cooper (headliner),True
+1210,2024-10-26,Garcia's at The Capitol Theatre,Port Chester,NY,Stella Blue's Band (acoustic) (headliner),True
+1211,2024-10-30,Today Show Plaza at Rockefeller Center,New York,NY,Keith Urban (headliner),False
+1212,2024-11-04,Madison Square Garden,New York,NY,David Gilmour (headliner),True
+1213,2024-11-05,Madison Square Garden,New York,NY,David Gilmour (headliner),True
+1214,2024-11-08,Capitol Theatre,Port Chester,NY,The Last Waltz (headliner),True
+1215,2024-11-11,Lincoln Center,New York,NY,"Stand Up for Heroes:  Bruce Springsteen, Norah Jones (headliner)",True
+1216,2024-11-12,Capitol Theatre,Port Chester,NY,The Wallflowers (headliner),True
+1217,2024-11-16,Play Group Theatre,White Plains,NY,Beatles Tribute (festival_performer),False
+1218,2024-11-18,Sony Hall,New York,NY,Mac McAnally (headliner),True
+1219,2024-11-22,Madison Square Garden,New York,NY,Dave Matthews Band (headliner),True
+122,2001-02-15,Madison Square Garden,New York,NY,"Barenaked Ladies (festival_performer), Guster (festival_performer)",True
+1220,2024-11-24,Madison Square Garden,New York,NY,Dave Matthews Band (headliner),True
+1221,2024-11-26,Kings Theatre,Brooklyn,NY,Empire of the Sun (headliner),True
+1222,2024-11-27,Tarrytown Music Hall,Tarrytown,NY,"Soulshine (festival_performer), Stella Blues Band tributes to Allman (festival_performer), The Dead (festival_performer)",False
+1223,2024-11-29,Madison Square Garden,New York,NY,Creed (headliner),True
+1224,2024-12-01,Beacon Theatre,New York,NY,Jesse Malin Benefit (headliner),True
+1225,2024-12-12,Webster Hall,New York,NY,Kip Moore (headliner),True
+1226,2024-12-19,Barclays Center,Brooklyn,NY,Zach Bryan (headliner),True
+1227,2024-12-22,Capitol Theatre,Port Chester,NY,Black Crowes (headliner),True
+1228,2024-12-28,Madison Square Garden,New York,NY,Phish (headliner),True
+1229,2024-12-30,Beacon Theatre,New York,NY,Govt Mule (headliner),True
+123,2001-03-22,Beacon Theatre,New York,NY,Allman Brothers Band (headliner),True
+1230,2024-12-31,UBS Arena,Elmont,NY,Billy Joel (headliner),True
+1231,2025-01-16,Blue Note Jazz Club,New York,NY,"Marcus King Trio (MonoNeon, Chris Dave) (headliner)",False
+1232,2025-01-17,Capitol Theatre,Port Chester,NY,Joe Russo's Almost Dead (headliner),False
+1233,2025-01-18,Count Basie Center for the Arts,Red Bank,NJ,Bruce Springsteen:  Light of Day (headliner),True
+1234,2025-02-10,Bardavon Opera House,Poughkeepsie,NY,Billy Gibbons (headliner),True
+1235,2025-02-11,Kings Theatre,Brooklyn,NY,Jack White (headliner),True
+1236,2025-02-14,Radio City Music Hall,New York,NY,SNL Concert (headliner),False
+1237,2025-02-20,Capitol Theatre,Port Chester,NY,Jason Isbell (headliner),True
+1238,2025-02-22,Mohegan Sun Arena,Uncasville,CT,Billy Joel (headliner),True
+1239,2025-02-27,Beacon Theatre,New York,NY,Joe Bonamassa (headliner),True
+124,2001-05-08,Madison Square Garden,New York,NY,"ACDC (headliner), Buckcherry (opener)",True
+1240,2025-03-03,Ridgefield Playhouse,Ridgefield,CT,"George Thorogood (festival_performer), the Destroyers (festival_performer)",False
+1241,2025-03-06,Prudential Center,Newark,NJ,"Blake Shelton (Trace Adkins (festival_performer), Craig Morgan (festival_performer), Deana Carter (festival_performer), Emily Ann Roberts) (festival_performer)",True
+1242,2025-03-11,Bowery,New York,NY,Wilder Woods (headliner),True
+1243,2025-03-15,Capitol Theatre,Port Chester,NY,"Tribute to Phil Lesh / Graham Lesh (festival_performer), Friends (festival_performer)",True
+1244,2025-03-16,Ridgefield Playhouse,Ridgefield,CT,The Lone Bellow (headliner),True
+1245,2025-03-17,Capitol Theatre,Port Chester,NY,"Tribute to Phil Lesh / Graham Lesh (festival_performer), Friends (Q) (festival_performer)",True
+1246,2025-04-01,Capitol Theatre,Port Chester,NY,Peter Frampton (headliner),True
+1247,2025-04-15,Madison Square Garden,New York,NY,The Brothers (headliner),True
+1248,2025-05-02,Capitol Theatre,Port Chester,NY,Avett Brothers (headliner),True
+1249,2025-05-03,Capitol Theatre,Port Chester,NY,Avett Brothers (headliner),True
+125,2001-05-01,Toad's Place,New Haven,CT,Riders on the Storm (headliner),False
+1250,2025-05-08,Capitol Theatre,Port Chester,NY,Little Feat (headliner),True
+1251,2025-05-09,Tarrytown Music Hall,Tarrytown,NY,Roger McGuinn (headliner),False
+1252,2025-05-20,Beacon Theatre,New York,NY,"Tedeschi Trucks Band (festival_performer), Buddy Guy (festival_performer)",True
+1253,2025-05-24,Bethel Woods,Bethel,NY,Dave Matthews Band (headliner),True
+1254,2025-05-28,Beacon Theatre,New York,NY,John Fogerty (headliner),True
+1255,2025-05-29,Capitol Theatre,Port Chester,NY,Blues Traveler (headliner),True
+1256,2025-05-31,Jones Beach Theater,Wantagh,NY,Luke Bryan (headliner),True
+1257,2025-06-04,Citi Field,Queens,NY,"Post Malone (festival_performer), Jelly Roll (festival_performer)",True
+1258,2025-06-06,Irving Plaza,New York,NY,The Doobie Brothers (headliner),True
+1259,2025-06-13,Radio City Music Hall,New York,NY,Ringo Starr (headliner),True
+126,2001-05-26,Trump Marina,Atlantic City,NJ,Lynyrd Skynyrd (headliner),False
+1260,2025-06-14,Jones Beach Theater,Wantagh,NY,Keith Urban (headliner),True
+1261,2025-06-18,Beacon Theatre,New York,NY,Paul Simon (headliner),True
+1262,2025-06-20,MVP Arena,Albany,NY,Chris Stapleton (headliner),True
+1263,2025-06-21,Saratoga Performing Arts Center,Saratoga Springs,NY,Mumford & Sons (festival_performer),True
+1264,2025-06-25,City Winery,New York,NY,Benmont Tench (headliner),True
+1265,2025-07-11,Beacon Theatre,New York,NY,Vince Gill (headliner),True
+1266,2025-07-12,Madison Square Garden,New York,NY,Weird Al (headliner),True
+1267,2025-07-18,Bridgeport,Bridgeport,CT,Brad Paisley (headliner),True
+1268,2025-07-19,MetLife Stadium,East Rutherford,NJ,Zach Bryan (headliner),True
+1269,2025-07-25,Madison Square Garden,New York,NY,Chris Stapleton (headliner),True
+127,2001-06-07,NYCB Theatre at Westbury,Westbury,NY,"Charlie Daniels Band, Dickey Betts Band (festival_performer), .38 Special (festival_performer)",False
+1270,2025-08-01,Jones Beach Theater,Wantagh,NY,"Bob Dylan (festival_performer), Willie Nelson (festival_performer)",True
+1271,2025-08-02,Caramoor Center for Music and the Arts,Katonah,NY,"Lyle Lovett (festival_performer), His Large Band (festival_performer)",True
+1272,2025-08-03,Tilles Center,Brookville,NY,Avett Brothers (headliner),True
+1273,2025-08-08,Capitol Theatre,Port Chester,NY,Avett Brothers (headliner),True
+1274,2025-08-09,Forest Hills Stadium,Forest Hills,NY,Mumford & Sons (festival_performer),True
+1275,2025-08-10,Jones Beach Theater,Wantagh,NY,"The Doobie Brothers (festival_performer), Coral Reefer Band (festival_performer)",True
+1276,2025-10-10,Highlands Concert Series,Amenia,NY,"Third Eye Blind (headliner), Dinosaur Jr. (opener)",True
+128,2001-06-08,Radio City Music Hall,New York,NY,"Black Crowes (festival_performer), Oasis (festival_performer)",True
+129,2001-06-11,Giants Stadium,East Rutherford,NJ,Dave Matthews Band (headliner),True
+13,1995-12-01,Nassau Coliseum,Uniondale,NY,"Primus (headliner), Meat Puppets (opener)",False
+130,2001-06-12,Giants Stadium,East Rutherford,NJ,Dave Matthews Band (headliner),True
+131,2001-06-16,Jones Beach Theater,Wantagh,NY,"Aerosmith (headliner), Fuel (opener)",True
+132,2001-06-21,Izod Center,East Rutherford,NJ,U2 (headliner),True
+133,2001-06-22,Madison Square Garden,New York,NY,Eric Clapton (headliner),True
+134,2001-06-23,Madison Square Garden,New York,NY,Eric Clapton (headliner),True
+135,2001-07-01,PNC Bank Arts Center,Holmdel,NJ,Tom Petty & the Heartbreakers & Jackson Browne (headliner),False
+136,2001-07-05,Jones Beach Theater,Wantagh,NY,Tom Petty & the Heartbreakers & Jackson Browne (headliner),False
+137,2001-07-20,PNC Bank Arts Center,Holmdel,NJ,"Paul Simon (festival_performer), Brian Wilson (festival_performer)",True
+138,2001-07-21,PNC Bank Arts Center,Holmdel,NJ,Stevie Nicks (headliner),True
+139,2001-07-22,Hilton Atlantic City,Atlantic City,NJ,Kenny Loggins (headliner),False
+14,1996-02-16,Nassau Coliseum,Uniondale,NY,"Red Hot Chile Peppers (headliner), Silverchair (opener)",False
+140,2001-07-28,Giants Stadium,East Rutherford,NJ,"Bon Jovi (headliner), Eve6 and Sugar Ray (opener)",True
+141,2001-08-21,Jones Beach Theater,Wantagh,NY,"Allman Brothers Band (headliner), Susan Tedeschi (opener)",True
+142,2001-09-08,Jones Beach Theater,Wantagh,NY,"John Mellencamp (festival_performer), The Wallflowers (festival_performer)",True
+143,2001-10-01,Nassau Coliseum,Uniondale,NY,"Joan Jett (festival_performer), the Blackhawks (festival_performer)",False
+144,2001-10-19,Count Basie Center for the Arts,Red Bank,NJ,"Alliance for Neighbors concert (Bruce Springsteen (festival_performer), Bon Jovi (festival_performer), Joan Jett (festival_performer), John Eddie (festival_performer), Joe Ely (festival_performer), Sonny Burgess (festival_performer), Highway 9 (festival_performer), Felix Cavaliere (festival_performer), Aztec Two Step (festival_performer), Phoebe Snow (festival_performer), DJ Fontana (festival_performer), Scotty Moore) (festival_performer)",False
+145,2001-10-20,Madison Square Garden,New York,NY,"Concert for New York (David Bowie (festival_performer), Bon Jovi (festival_performer), Goo Goo Dolls (festival_performer), Eric Clapton (festival_performer), Destiny's Child (festival_performer), Backstreet Boys (festival_performer), Elton John (festival_performer), Billy Joel (festival_performer), James Taylor (festival_performer), Paul McCartney (festival_performer), Melissa Etheridge (festival_performer), The Who (festival_performer), Mick Jagger/Keith Richards (festival_performer), John Mellencamp) (festival_performer)",True
+146,2001-10-26,XL Center,Hartford,CT,"Stone Temple Pilots (headliner), Staind, Linkin Park, Deadsy, Static X (opener)",True
+147,2001-10-27,Madison Square Garden,New York,NY,"U2 (headliner), Stereophonics (opener)",True
+148,2001-11-27,Madison Square Garden,New York,NY,Elton John (headliner),True
+149,2001-12-04,Convention Hall,Asbury Park,NJ,"Bruce Springsteen (headliner), Max Weinberg 7 & Friends (opener)",False
+15,1996-03-12,Beacon Theatre,New York,NY,Allman Brothers Band (headliner),True
+150,2002-02-01,Webster Theater,Hartford,CT,"Southside Johnny (festival_performer), the Asbury Jukes (festival_performer)",False
+151,2002-02-04,XL Center,Hartford,CT,"Elton John (festival_performer), Billy Joel (festival_performer)",True
+152,2002-02-28,XL Center,Hartford,CT,"Crosby (festival_performer), Stills (festival_performer), Nash & Young (festival_performer)",True
+153,2002-03-14,Beacon Theatre,New York,NY,Allman Brothers Band (headliner),True
+154,2002-04-20,Great South Bay Music Festival,Oakdale,NY,Stone Temple Pilots (headliner),True
+155,2002-04-21,Nassau Coliseum,Uniondale,NY,Paul McCartney (headliner),True
+156,2002-06-16,BB King Blues Club,New York,NY,"Dickey Betts (festival_performer), Great Southern (festival_performer)",True
+157,2002-07-13,Montage Mountain Amphitheater,Scranton,PA,Tom Petty & the Heartbreakers & Brian Setzer Trio (headliner),False
+158,2002-07-15,Jones Beach Theater,Wantagh,NY,Rush (headliner),True
+159,2002-07-20,Jones Beach Theater,Wantagh,NY,John Mellencamp (headliner),False
+16,1996-02-01,XL Center,Hartford,CT,Rod Stewart (headliner),False
+160,2002-07-26,The Meadowlands,East Rutherford,NJ,Dave Matthews Band (headliner),False
+161,2002-07-27,Izod Center,East Rutherford,NJ,Creed (headliner),True
+162,2002-08-03,Mulcahy's Pub,Wantagh,NY,"Dickey Betts (festival_performer), Great Southern (festival_performer)",False
+163,2002-08-05,Izod Center,East Rutherford,NJ,Bruce Springsteen & the E Street Band (headliner),False
+164,2002-08-11,Jones Beach Theater,Wantagh,NY,"Bonnie Raitt (festival_performer), Lyle Lovett (festival_performer)",False
+165,2002-08-12,Madison Square Garden,New York,NY,Bruce Springsteen & the E Street Band (headliner),False
+166,2002-08-13,Jones Beach Theater,Wantagh,NY,Allman Brothers Band (headliner),True
+167,2002-08-31,Jones Beach Theater,Wantagh,NY,"The Who (festival_performer), Robert Plant (festival_performer)",True
+168,2002-09-27,Nassau Coliseum,Uniondale,NY,"Elton John (festival_performer), Billy Joel (festival_performer)",True
+169,2002-09-28,Giants Stadium,East Rutherford,NJ,"The Rolling Stones (headliner), The Pretenders (opener)",True
+17,1996-03-16,Eisenhower Hall Theatre,West Point,NY,Billy Joel (headliner),False
+170,2002-10-06,Wells Fargo Center,Philadelphia,PA,Bruce Springsteen & the E Street Band (headliner),False
+171,2002-10-11,Nassau Coliseum,Uniondale,NY,"Elton John (festival_performer), Billy Joel (festival_performer)",True
+172,2002-11-17,XL Center,Hartford,CT,Bob Dylan (headliner),True
+173,2002-11-22,XL Center,Hartford,CT,"The Other Ones (headliner), Robert Hunter (opener)",True
+174,2002-12-03,XL Center,Hartford,CT,"Guns (festival_performer), Roses (festival_performer)",True
+175,2002-12-13,Madison Square Garden,New York,NY,Tom Petty & the Heartbreakers & Jackson Browne (headliner),False
+176,2002-12-16,Schottenstein Center,Columbus,OH,Bruce Springsteen & the E Street Band (headliner),False
+177,2002-12-20,Madison Square Garden,New York,NY,Dave Matthews Band (headliner),True
+178,2003-03-17,Great South Bay Music Festival,Oakdale,NY,"Dave Matthews (festival_performer), Tim Reynolds (festival_performer)",False
+179,2003-04-25,Quinnipiac University,Hamden,CT,Guster (headliner),True
+18,1996-05-01,Mid-Hudson Civic Center,Poughkeepsie,NY,Bob Dylan (headliner),True
+180,2003-04-30,Nassau Coliseum,Uniondale,NY,Pearl Jam (headliner),True
+181,2003-05-20,Madison Square Garden,New York,NY,"Red Hot Chile Peppers (headliner), Queens of the Stone Age (opener)",False
+182,2003-07-15,Giants Stadium,East Rutherford,NJ,Bruce Springsteen & the E Street Band (headliner),False
+183,2003-07-17,Giants Stadium,East Rutherford,NJ,Bruce Springsteen & the E Street Band (headliner),False
+184,2003-07-21,Giants Stadium,East Rutherford,NJ,Bruce Springsteen & the E Street Band (headliner),False
+185,2003-07-24,Giants Stadium,East Rutherford,NJ,Bruce Springsteen & the E Street Band (headliner),False
+186,2003-07-27,Giants Stadium,East Rutherford,NJ,Bruce Springsteen & the E Street Band (headliner),False
+187,2003-03-02,Foxwoods Resort Casino,Mashantucket,CT,"Huey Lewis (festival_performer), the News (festival_performer)",False
+188,2003-08-08,Giants Stadium,East Rutherford,NJ,Bon Jovi (headliner),True
+189,2003-08-09,PNC Bank Arts Center,Holmdel,NJ,Tom Petty & the Heartbreakers & Bob Dylan (headliner),False
+19,1996-06-08,Jones Beach Theater,Wantagh,NY,"Bob Seger & the Silver Bullet Band (headliner), Bone Pony (opener)",False
+190,2003-08-11,PNC Bank Arts Center,Holmdel,NJ,"KISS (festival_performer), Aerosmith (festival_performer)",True
+191,2003-08-28,Giants Stadium,East Rutherford,NJ,Bruce Springsteen & the E Street Band (headliner),False
+192,2003-09-06,Grange Fair,Yorktown Heights,NY,Mountain (headliner),False
+193,2003-09-24,Central Park,New York,NY,Dave Matthews Band (headliner),True
+194,2003-09-30,Madison Square Garden,New York,NY,Fleetwood Mac (headliner),True
+195,2003-10-04,Shea Stadium,Queens,NY,Bruce Springsteen & the E Street Band (headliner),False
+196,2003-11-16,Madison Square Garden,New York,NY,"KISS (festival_performer), Aerosmith (festival_performer)",True
+197,2003-12-08,Convention Hall,Asbury Park,NJ,"Bruce Springsteen (headliner), Max Weinberg 7 & Friends (opener)",True
+198,2004-01-18,BB King Blues Club,New York,NY,"Southside Johnny (festival_performer), the Asbury Jukes (festival_performer)",False
+199,2004-02-22,Izod Center,East Rutherford,NJ,Barenaked Ladies (headliner),True
+2,1995-12-21,Westchester County Center,White Plains,NY,Kenny Rogers (headliner),False
+20,1996-06-24,Nassau Coliseum,Uniondale,NY,The Eagles (headliner),True
+200,2004-03-28,Beacon Theatre,New York,NY,Allman Brothers Band (headliner),True
+201,2004-04-27,Total Mortgage Arena,Bridgeport,CT,Elton John (headliner),True
+202,2004-05-22,Madison Square Garden,New York,NY,"The Who (headliner), David Johanssen (opener)",True
+203,2004-06-22,Izod Center,East Rutherford,NJ,Van Halen (Hagar) (headliner),True
+204,2004-06-28,Madison Square Garden,New York,NY,"Eric Clapton (headliner), Robert Randolph band (opener)",True
+205,2004-07-07,Izod Center,East Rutherford,NJ,Madonna (headliner),True
+206,2004-07-16,Izod Center,East Rutherford,NJ,Prince (headliner),True
+207,2004-07-17,The Meadowlands,East Rutherford,NJ,Dave Matthews Band (headliner),True
+208,2004-07-18,Radio City Music Hall,New York,NY,"Elton John (festival_performer), Symphony (festival_performer)",False
+209,2004-07-21,Jones Beach Theater,Wantagh,NY,"KISS (headliner), Poison (opener)",True
+21,1996-07-04,Broad Street Ballroom,New York,NY,The Band (headliner),True
+210,2004-08-12,Jones Beach Theater,Wantagh,NY,"Crosby, Stills (festival_performer), Nash (festival_performer)",False
+211,2004-08-24,Jones Beach Theater,Wantagh,NY,Allman Brothers Band (headliner),True
+212,2004-08-28,Mohegan Sun Arena,Uncasville,CT,Cher (headliner),True
+213,2004-09-04,Jones Beach Theater,Wantagh,NY,"Jimmy Buffett (festival_performer), Coral Reefer Band (festival_performer)",False
+214,2004-09-18,Madison Square Garden,New York,NY,Phil Collins (headliner),True
+215,2004-10-01,Wells Fargo Center,Philadelphia,PA,"Bruce Springsteen (headliner), John Fogerty, REM, Bright Eyes (opener)",True
+216,2004-10-13,Izod Center,East Rutherford,NJ,"Bruce Springsteen (headliner), John Fogerty, Patti Scialfa, Jackson Browne, Eddie Vedder (opener)",True
+217,2004-11-04,Madison Square Garden,New York,NY,REM (headliner),True
+218,2004-11-14,Beacon Theatre,New York,NY,John Fogerty (headliner),True
+219,2004-11-30,Stamford Center for Arts,Stamford,CT,Hall & Oates (headliner),False
+22,1996-07-07,Jones Beach Theater,Wantagh,NY,"Sting (headliner), Cowboy Junkies (opener)",True
+220,2005-02-11,Stamford Center for Arts,Stamford,CT,Joe Cocker (headliner),False
+221,2005-02-19,Stone Pony,Asbury Park,NJ,"Joe Grushecky (festival_performer), the Houserockers (festival_performer)",False
+222,2005-03-10,Beacon Theatre,New York,NY,Allman Brothers Band (headliner),True
+223,2005-04-01,CHI Health Center,Omaha,NE,"John Mellencamp (headliner), Donovan (opener)",True
+224,2005-04-08,Izod Center,East Rutherford,NJ,The Eagles (headliner),True
+225,2005-04-29,SNHU Arena,Manchester,NH,Green Day (headliner),True
+226,2005-05-15,CHI Health Center,Omaha,NE,Green Day (headliner),True
+227,2005-05-18,Izod Center,East Rutherford,NJ,U2 (headliner),True
+228,2005-05-19,Izod Center,East Rutherford,NJ,Bruce Springsteen (headliner),True
+229,2005-05-22,Wells Fargo Center,Philadelphia,PA,U2 (headliner),True
+23,1996-07-13,Paramount Hudson Valley Theater,Peekskill,NY,Roger McGuinn (headliner),False
+230,2005-06-07,Stamford Center for Arts,Stamford,CT,John Fogerty (headliner),True
+231,2005-06-21,Jones Beach Theater,Wantagh,NY,Tom Petty & The Heartbreakers & Black Crowes (headliner),False
+232,2005-06-22,Madison Square Garden,New York,NY,Oasis (headliner),True
+233,2005-07-16,PNC Bank Arts Center,Holmdel,NJ,"John Mellencamp (festival_performer), John Fogerty (festival_performer)",True
+234,2005-07-20,Total Mortgage Arena,Bridgeport,CT,Bruce Springsteen (headliner),True
+235,2005-07-30,Randall's Island Park,New York,NY,"Dave Matthews Band (festival_performer), Barenaked Ladies (festival_performer)",True
+236,2005-08-02,Beacon Theatre,New York,NY,"Crosby, Stills (festival_performer), Nash (festival_performer)",True
+237,2005-08-18,BB King Blues Club,New York,NY,"Dickey Betts (festival_performer), Great Southern (festival_performer)",False
+238,2005-09-15,Giants Stadium,East Rutherford,NJ,"The Rolling Stones (headliner), Alanis Morrisette (opener)",True
+239,2005-09-30,Madison Square Garden,New York,NY,Paul McCartney (headliner),True
+24,1996-07-20,Madison Square Garden,New York,NY,"The Who (headliner), Me'shell N'dge'Ocello (opener)",True
+240,2005-10-01,Madison Square Garden,New York,NY,Paul McCartney (headliner),True
+241,2005-10-09,Nassau Coliseum,Uniondale,NY,Bruce Springsteen (headliner),True
+242,2005-10-16,Continental Airlines Arena,East Rutherford,NJ,Queen + Paul Rodgers (headliner),True
+243,2005-10-25,Madison Square Garden,New York,NY,Cream (headliner),True
+244,2005-11-17,Continental Airlines Arena,East Rutherford,NJ,Bruce Springsteen (headliner),True
+245,2005-11-21,Madison Square Garden,New York,NY,"U2 (headliner), Patti Smith (opener)",True
+246,2005-11-25,Towne Crier,Beacon,NY,Richie Havens (headliner),False
+247,2005-12-09,Madison Square Garden,New York,NY,Dave Matthews Band (headliner),True
+248,2005-11-29,92nd Street Y,New York,NY,Billy Joel (headliner),False
+249,2005-11-22,Continental Airlines Arena,East Rutherford,NJ,Bon Jovi (headliner),False
+25,1996-07-25,Madison Square Garden,New York,NY,"KISS (headliner), Dgeneration (opener)",False
+250,2006-01-20,Mohegan Sun Arena,Uncasville,CT,Esteban (headliner),False
+251,2006-01-23,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+252,2006-01-26,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+253,2006-02-15,Beacon Theatre,New York,NY,"Phil Lesh (festival_performer), Friends (festival_performer)",True
+254,2006-03-10,NYCB Theatre at Westbury,Westbury,NY,"Leon Russell (festival_performer), Dave Mason (festival_performer)",False
+255,2006-03-12,Nassau Coliseum,Uniondale,NY,Queen + Paul Rodgers (headliner),True
+256,2006-03-25,Beacon Theatre,New York,NY,Allman Brothers Band (headliner),True
+257,2006-04-06,Beacon Theatre,New York,NY,Bob Weir & Ratdog (headliner),True
+258,2006-04-19,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+259,2006-04-20,Convention Hall,Asbury Park,NJ,"Bruce Springsteen (festival_performer), the Seeger Sessions Band (festival_performer)",False
+26,1996-07-27,Madison Square Garden,New York,NY,"KISS (headliner), Dgeneration (opener)",False
+260,2006-04-24,The Theater at Madison Square Garden,New York,NY,Van Morrison (headliner),True
+261,2006-05-05,Radio City Music Hall,New York,NY,INXS (headliner),True
+262,2006-06-03,Continental Airlines Arena,East Rutherford,NJ,"Pearl Jam (headliner), My Morning Jacket (opener)",True
+263,2006-06-20,Madison Square Garden,New York,NY,"Tom Petty & the Heartbreakers (headliner), Trey Anastasio & Stevie Nicks (opener)",True
+264,2006-06-22,Madison Square Garden,New York,NY,"Bruce Springsteen (festival_performer), the Seeger Sessions Band (festival_performer)",False
+265,2006-06-25,PNC Bank Arts Center,Holmdel,NJ,"Bruce Springsteen (festival_performer), the Seeger Sessions Band (festival_performer)",False
+266,2006-07-01,Jones Beach Theater,Wantagh,NY,"Jimmy Buffett (festival_performer), Coral Reefer Band (festival_performer)",False
+267,2006-07-14,Radio City Music Hall,New York,NY,Bob Weir & Ratdog & String Cheese Incident (headliner),False
+268,2006-07-18,Giants Stadium,East Rutherford,NJ,Bon Jovi (headliner),True
+269,2006-07-20,Radio City Music Hall,New York,NY,"Ringo Starr & His All Starr Band (Billy Squier (festival_performer), Richard Marx (festival_performer), Rod Argent (festival_performer), Sheila E. & Edgar Winter) (festival_performer)",False
+27,1996-08-03,Jones Beach Theater,Wantagh,NY,Hootie & the Blowfish & John Hiatt (headliner),False
+270,2006-07-29,Caesars Palace,Las Vegas,NV,Elton John (headliner),True
+271,2006-08-04,Jones Beach Theater,Wantagh,NY,"Counting Crows (festival_performer), Goo Goo Dolls (festival_performer)",True
+272,2006-08-11,Jones Beach Theater,Wantagh,NY,"John Fogerty (festival_performer), Willie Nelson (festival_performer)",True
+273,2006-08-12,The Meadowlands,East Rutherford,NJ,Tom Petty & the Heartbreakers & Allman Brothers Band (headliner),False
+274,2006-08-17,Jones Beach Theater,Wantagh,NY,"Steely Dan (festival_performer), Michael McDonald (festival_performer)",True
+275,2006-08-20,PNC Bank Arts Center,Holmdel,NJ,"Crosby (festival_performer), Stills (festival_performer), Nash & Young (festival_performer)",True
+276,2006-09-12,Madison Square Garden,New York,NY,Roger Waters (headliner),True
+277,2006-09-14,Madison Square Garden,New York,NY,"Jimmy Buffett (festival_performer), Coral Reefer Band (festival_performer)",False
+278,2006-09-18,Madison Square Garden,New York,NY,The Who (headliner),True
+279,2006-09-26,FYE,New York,NY,Jerry Lee Lewis (headliner),False
+28,1996-08-10,PNC Bank Arts Center,Holmdel,NJ,"Lynyrd Skynyrd (festival_performer), The Doobie Brothers (festival_performer)",False
+280,2006-09-27,Giants Stadium,East Rutherford,NJ,"The Rolling Stones (festival_performer), Kanye West (festival_performer)",True
+281,2006-09-28,Madison Square Garden,New York,NY,"Eric Clapton (headliner), Robert Cray (opener)",True
+282,2006-09-30,Yonkers,Yonkers,NY,"Southside Johnny (festival_performer), the Asbury Jukes (festival_performer)",False
+283,2006-10-11,Radio City Music Hall,New York,NY,James Blunt (headliner),True
+284,2006-10-23,Stamford Center for the Arts,Stamford,CT,"Ian Anderson (festival_performer), Orchestra (festival_performer)",False
+285,2006-11-01,Nassau Coliseum,Uniondale,NY,Elton John (headliner),True
+286,2006-11-08,Paramount Hudson Valley Theater,Peekskill,NY,Donovan (headliner),False
+287,2006-11-24,Towne Crier Cafe,Beacon,NY,Richie Havens (headliner),False
+288,2006-11-28,Bridgeport,Bridgeport,CT,"The Who (festival_performer), The Pretenders (festival_performer)",False
+289,2006-12-03,Beacon Theatre,New York,NY,Aerosmith (headliner),True
+29,1996-08-23,Jones Beach Theater,Wantagh,NY,Melissa Etheridge (headliner),False
+290,2007-01-25,Madison Square Garden,New York,NY,Bob Seger & the Silver Bullet Band (headliner),True
+291,2007-01-31,Radio City Music Hall,New York,NY,"Rock Star Supernova (headliner), Dilana, Toby Rand and Dave Navarro (opener)",False
+292,2007-02-08,Madison Square Garden,New York,NY,Rod Stewart (headliner),True
+293,2007-03-14,Webster Hall,New York,NY,Fab Faux (headliner),False
+294,2007-03-24,Beacon Theatre,New York,NY,Allman Brothers Band (headliner),True
+295,2007-03-25,Madison Square Garden,New York,NY,Elton John (headliner),True
+296,2007-04-05,Beacon Theatre,New York,NY,Allman Brothers Band (headliner),True
+297,2007-04-17,MVP Arena,Albany,NY,Billy Joel (headliner),True
+298,2007-04-28,Madison Square Garden,New York,NY,The Killers (headliner),True
+299,2007-05-16,Paramount Hudson Valley Theater,Peekskill,NY,Stephen Stills (headliner),False
+3,1995-08-18,Jones Beach Theater,Wantagh,NY,Diana Ross (headliner),False
+30,1996-08-26,Jones Beach Theater,Wantagh,NY,"Neil Young (headliner), Jewel (opener)",True
+300,2007-05-30,Madison Square Garden,New York,NY,Roger Waters (headliner),True
+301,2007-06-03,FDR State Park,Yorktown Heights,NY,Richie Havens (headliner),False
+302,2007-06-11,Beacon Theatre,New York,NY,Steely Dan (headliner),True
+303,2007-06-20,NYCB Theatre at Westbury,Westbury,NY,Lynyrd Skynyrd (headliner),False
+304,2007-06-29,Jones Beach Theater,Wantagh,NY,Bob Dylan (headliner),True
+305,2007-07-02,Jones Beach Theater,Wantagh,NY,Rush (headliner),True
+306,2007-07-07,Giants Stadium,East Rutherford,NJ,"Live Earth (Dave Matthews Band (festival_performer), Roger Waters (festival_performer), The Police (festival_performer), Bon Jovi (festival_performer), Alicia Keys (festival_performer), John Mayer (festival_performer), Melissa Etheridge (festival_performer), Kanye West (festival_performer), Fall Out Boy) (festival_performer)",True
+307,,Jones Beach Theater,Wantagh,NY,"ZZ Top (headliner), The Pretenders and Stray Cats (opener)",False
+308,2007-07-28,Jones Beach Theater,Wantagh,NY,"Steve Miller Band (festival_performer), The Doobie Brothers (festival_performer)",True
+309,2007-08-05,Giants Stadium,East Rutherford,NJ,The Police (headliner),True
+31,1996-08-31,Jones Beach Theater,Wantagh,NY,"Joe Cocker (headliner), The Radiators, Thunderbirds and Buddy Guy (opener)",False
+310,2007-08-09,Central Park,New York,NY,Black Crowes (headliner),True
+311,2007-08-21,Jones Beach Theater,Wantagh,NY,"Allman Brothers (festival_performer), Ratdog (festival_performer)",True
+312,2007-09-07,Tarrytown Music Hall,Tarrytown,NY,Roger McGuinn (headliner),False
+313,2007-09-16,XL Center,Hartford,CT,Genesis (headliner),True
+314,2007-09-24,Paramount Theatre,Asbury Park,NJ,Bruce Springsteen & the E Street Band (headliner),False
+315,2007-09-28,Today Show Plaza at Rockefeller Center,New York,NY,Bruce Springsteen & the E Street Band (headliner),False
+316,2007-10-02,XL Center,Hartford,CT,Bruce Springsteen & the E Street Band (headliner),False
+317,2007-09-18,Madison Square Garden,New York,NY,Jimmy Buffett (headliner),True
+318,2007-10-10,Izod Center,East Rutherford,NJ,Bruce Springsteen & the E Street Band (headliner),False
+319,2007-10-17,Madison Square Garden,New York,NY,Bruce Springsteen & the E Street Band (headliner),False
+32,1996-12-15,Izod Center,East Rutherford,NJ,Rush (headliner),True
+320,2007-10-18,Madison Square Garden,New York,NY,Bruce Springsteen & the E Street Band (headliner),False
+321,2007-10-30,Prudential Center,Newark,NJ,Bon Jovi (headliner),True
+322,2007-11-02,Hammerstein Ballroom,New York,NY,John Fogerty (headliner),True
+323,2007-11-09,Chelsea Piers,New York,NY,Bruce Springsteen (headliner),True
+324,2007-11-13,Madison Square Garden,New York,NY,Van Halen (headliner),True
+325,2007-11-15,MVP Arena,Albany,NY,Bruce Springsteen & the E Street Band (headliner),False
+326,2007-11-17,Madison Square Garden,New York,NY,Stevie Wonder (headliner),True
+327,2007-12-01,Great South Bay Music Festival,Oakdale,NY,Jethro Tull (headliner),True
+328,2007-12-02,Ridgefield Playhouse,Ridgefield,CT,"Sha Na Na (festival_performer), Retrotones (festival_performer)",False
+329,2008-01-08,Gibson Guitar Tent (Vegas),Las Vegas,NV,Peter Frampton (headliner),False
+33,1996-12-29,Nassau Coliseum,Uniondale,NY,KISS (headliner),True
+330,2008-01-31,BB King Blues Club,New York,NY,Eddie Money (headliner),False
+331,2008-02-28,Madison Square Garden,New York,NY,"Eric Clapton (festival_performer), Steve Winwood (festival_performer)",True
+332,2008-03-10,Nassau Coliseum,Uniondale,NY,Bruce Springsteen & the E Street Band (headliner),False
+333,2008-04-03,Beacon Theatre,New York,NY,Ratdog (headliner),True
+334,2008-04-06,Great South Bay Music Festival,Oakdale,NY,Jackson Browne (headliner),False
+335,2008-04-09,Radio City Music Hall,New York,NY,Elton John (headliner),True
+336,2008-04-25,State Farm Arena,Atlanta,GA,Bruce Springsteen & the E Street Band (headliner),False
+337,2008-05-23,Mohegan Sun Arena,Uncasville,CT,Billy Joel (headliner),True
+338,2008-05-30,Madison Square Garden,New York,NY,The Eagles (headliner),True
+339,2008-05-31,PNC Bank Arts Center,Holmdel,NJ,Stone Temple Pilots (headliner),True
+34,1997-03-12,Beacon Theatre,New York,NY,Allman Brothers Band (headliner),True
+340,2008-06-05,Jones Beach Theater,Wantagh,NY,Eric Clapton (headliner),True
+341,2008-06-10,The Theater at Madison Square Garden,New York,NY,"Robert Plant (festival_performer), Alison Krauss (festival_performer)",True
+342,2008-06-12,Madison Square Garden,New York,NY,Jimmy Buffett (headliner),True
+343,2008-06-17,Madison Square Garden,New York,NY,"Tom Petty & the Heartbreakers (headliner), Steve Winwood (opener)",True
+344,2018-06-18,Prudential Center,Newark,NJ,"Tom Petty & the Heartbreakers (headliner), Steve Winwood (opener)",False
+345,2008-06-25,Madison Square Garden,New York,NY,Pearl Jam (headliner),True
+346,2008-07-03,Ives Concert Park,Danbury,CT,The Beach Boys (headliner),True
+347,2008-07-11,Jones Beach Theater,Wantagh,NY,"Steve Miller Band (headliner), Joe Cocker (opener)",True
+348,2008-07-14,Madison Square Garden,New York,NY,Bon Jovi (headliner),True
+349,2008-07-16,Shea Stadium,Queens,NY,Billy Joel (headliner),True
+35,1997-04-12,Paramount Theater at MSG,New York,NY,John Mellencamp (headliner),True
+350,2008-07-18,Shea Stadium,Queens,NY,Billy Joel (headliner),True
+351,2008-07-27,Giants Stadium,East Rutherford,NJ,Bruce Springsteen & the E Street Band (headliner),False
+352,2008-07-28,Giants Stadium,East Rutherford,NJ,Bruce Springsteen & the E Street Band (headliner),False
+353,2008-07-31,Giants Stadium,East Rutherford,NJ,Bruce Springsteen & the E Street Band (headliner),False
+354,2008-07-03,PNC Bank Arts Center,Holmdel,NJ,"The Police (headliner), Elvis Costello (opener)",False
+355,2008-08-07,Rockin River Cruise,New York,NY,John Hiatt (headliner),False
+356,2008-08-12,Madison Square Garden,New York,NY,Neil Diamond (headliner),True
+357,2008-08-25,NYCB Theatre at Westbury,Westbury,NY,"Huey Lewis (festival_performer), the News (festival_performer)",True
+358,2008-08-27,Jones Beach Theater,Wantagh,NY,Jimmy Buffett (headliner),True
+359,2008-10-16,SUNY Purchase,Purchase,NY,"Crosby (festival_performer), Nash (festival_performer)",True
+36,1997-04-25,Paramount Hudson Valley Theater,Peekskill,NY,Ray Davies (headliner),False
+360,2008-11-07,Chelsea Piers,New York,NY,Bon Jovi (headliner),False
+361,2008-11-08,Queens College,Queens,NY,Fab Faux (headliner),False
+362,2008-11-13,Madison Square Garden,New York,NY,ACDC (headliner),True
+363,2008-11-15,Mohegan Sun Arena,Uncasville,CT,Elton John (headliner),True
+364,2008-11-24,Carnegie Hall,New York,NY,Family Guy Sings Live at Carnegie Hall (Seth MacFarlane) (headliner),False
+365,2008-12-04,NYCB Theatre at Westbury,Westbury,NY,Tony Bennett (headliner),False
+366,2008-12-16,Madison Square Garden,New York,NY,"Neil Young (headliner), Wilco & Everest (opener)",True
+367,2008-12-18,Ridgefield Playhouse,Ridgefield,CT,"Rockapella (headliner), Retrotones (opener)",False
+368,2009-01-14,The Town Hall,New York,NY,Bon Jovi (Hillary Benefit) (headliner),False
+369,2009-01-25,Madison Square Garden,New York,NY,The Killers (headliner),True
+37,1997-05-31,Giants Stadium,East Rutherford,NJ,U2 (headliner),True
+370,2009-02-08,Morristown Theater,Morristown,NJ,"John Hiatt (festival_performer), Lyle Lovett (festival_performer)",True
+371,2009-03-09,Beacon Theatre,New York,NY,Allman Brothers Band (headliner),True
+372,2009-03-24,Convention Hall,Asbury Park,NJ,Bruce Springsteen & the E Street Band (headliner),False
+373,2009-04-14,Madison Square Garden,New York,NY,Dave Matthews Band (headliner),True
+374,2009-04-15,Radio City Music Hall,New York,NY,Flight of the Conchords (headliner),True
+375,2009-04-17,Irvington Theater,Irvington,NY,Roger McGuinn (headliner),False
+376,2009-04-24,XL Center,Hartford,CT,Bruce Springsteen & the E Street Band (headliner),False
+377,2009-04-25,Madison Square Garden,New York,NY,The Dead (headliner),True
+378,2009-04-28,Izod Center,East Rutherford,NJ,The Dead (headliner),True
+379,2009-05-04,Nassau Coliseum,Uniondale,NY,Bruce Springsteen & the E Street Band (headliner),False
+38,1997-06-03,Hammerstein,New York,NY,"John Fogerty (headliner), Fairfield Four (opener)",True
+380,2009-05-17,Ridgefield Playhouse,Ridgefield,CT,"Dickey Betts (festival_performer), Great Southern (festival_performer)",True
+381,2009-05-21,Izod Center,East Rutherford,NJ,Bruce Springsteen & the E Street Band (headliner),False
+382,2009-05-23,Izod Center,East Rutherford,NJ,Bruce Springsteen & the E Street Band (headliner),False
+383,2009-06-10,Izod Center,East Rutherford,NJ,"Eric Clapton (festival_performer), Steve Winwood (festival_performer)",True
+384,2009-06-11,Madison Square Garden,New York,NY,Fleetwood Mac (headliner),True
+385,2009-07-17,Citi Field,Queens,NY,Paul McCartney (headliner),True
+386,2009-07-18,Gillette Stadium,Foxborough,MA,"Billy Joel (festival_performer), Elton John (festival_performer)",True
+387,2009-08-01,Citizens Bank Park,Philadelphia,PA,"Billy Joel (festival_performer), Elton John (festival_performer)",True
+388,2009-08-15,Jones Beach Theater,Wantagh,NY,Creed (headliner),True
+389,2009-08-19,The Meadowlands,East Rutherford,NJ,Bruce Springsteen & the E Street Band (headliner),False
+39,1997-06-07,Jones Beach Theater,Wantagh,NY,"Ringo Starr & His All-Starr Band (Kirke, Jack Bruce, Gary Brooker, Frampton, Rivera) (headliner)",True
+390,2009-08-21,Towne Crier,Beacon,NY,Richie Havens (headliner),False
+391,2014-08-26,Jones Beach Theater,Wantagh,NY,Jimmy Buffett (headliner),False
+392,2009-09-14,Nassau Coliseum,Uniondale,NY,Kings of Leon (headliner),True
+393,2009-09-23,Giants Stadium,East Rutherford,NJ,U2 (headliner),True
+394,2009-09-24,Giants Stadium,East Rutherford,NJ,U2 (headliner),True
+395,2009-09-30,Giants Stadium,East Rutherford,NJ,Bruce Springsteen & the E Street Band (headliner),False
+396,2009-10-02,Giants Stadium,East Rutherford,NJ,Bruce Springsteen & the E Street Band (headliner),False
+397,2009-10-03,Giants Stadium,East Rutherford,NJ,Bruce Springsteen & the E Street Band (headliner),False
+398,2009-10-08,Madison Square Garden,New York,NY,Keith Urban with Sugarland (headliner),False
+399,2009-10-09,Giants Stadium,East Rutherford,NJ,Bruce Springsteen & the E Street Band (headliner),False
+4,1994-06-20,Nassau Coliseum,Uniondale,NY,Whitney Houston (headliner),False
+40,1997-06-25,Jones Beach Theater,Wantagh,NY,Rush (headliner),True
+400,2009-10-10,Madison Square Garden,New York,NY,KISS (headliner),False
+401,2009-10-15,Terminal 5,New York,NY,"Gaslight Anthem (festival_performer), Jesse Malin (festival_performer)",False
+402,2009-10-21,Madison Square Garden,New York,NY,"Brad Paisley (festival_performer), Dierks Bentley (festival_performer)",False
+403,2009-10-29,Madison Square Garden,New York,NY,"Rock & Roll Hall of Fame 25th: Bruce Springsteen (festival_performer), Stevie Wonder (festival_performer), Paul Simon (festival_performer), Simon & Garfunkel (festival_performer), CSN (festival_performer), Jackson Browne (festival_performer), Bonnie Raitt (festival_performer), John Fogerty (festival_performer), James Taylor (festival_performer), Sam Moore (festival_performer), Darlene Love (festival_performer), Billy Joel (festival_performer)",False
+404,2009-11-04,Beacon Theatre,New York,NY,Lyle Lovett (headliner),False
+405,2009-11-07,Madison Square Garden,New York,NY,Bruce Springsteen & the E Street Band (headliner),False
+406,2009-11-08,Madison Square Garden,New York,NY,Bruce Springsteen & the E Street Band (headliner),False
+407,2009-11-11,NYCB Theatre at Westbury,Westbury,NY,Steve Miller Band (headliner),False
+408,2009-11-13,Chelsea Piers,New York,NY,Paul Simon (headliner),False
+409,2009-11-24,Beacon Theatre,New York,NY,John Fogerty (headliner),True
+41,1997-06-26,Jones Beach Theater,Wantagh,NY,"Lynyrd Skynyrd (festival_performer), Paul Rodgers (festival_performer)",False
+410,2010-01-16,Paramount Theatre,Asbury Park,NJ,"Bruce Springsteen: Light of Day with Jesse Malin (festival_performer), Willie Nile (festival_performer), Joe Grushecky & Joe D'Urso (festival_performer)",False
+411,2010-02-19,Madison Square Garden,New York,NY,"Eric Clapton (festival_performer), Jeff Beck (festival_performer)",True
+412,2010-02-26,Madison Square Garden,New York,NY,John Mayer (headliner),True
+413,2010-03-04,Bowery Electric,New York,NY,Jesse Malin (headliner),False
+414,2010-03-07,Tarrytown Music Hall,Tarrytown,NY,John Hiatt (headliner),False
+415,2010-03-12,United Palace Theatre,New York,NY,Allman Brothers Band (headliner),True
+416,2010-04-09,NYCB Theatre at Westbury,Westbury,NY,"Emerson (festival_performer), Lake (festival_performer)",True
+417,2010-04-11,Ridgefield Playhouse,Ridgefield,CT,Todd Rundgren (headliner),True
+418,2010-04-25,Tarrytown Music Hall,Tarrytown,NY,"Roger McGuinn (festival_performer), John Sebastian (festival_performer)",False
+419,2010-05-03,Radio City Music Hall,New York,NY,Peter Gabriel (headliner),True
+42,1997-06-28,Thunder Ridge Ski Area,Patterson,NY,"Crosby, Stills (festival_performer), Nash (festival_performer)",True
+420,2010-05-14,NYCB Theatre at Westbury,Westbury,NY,Kenny Loggins (headliner),True
+421,2010-05-21,Madison Square Garden,New York,NY,Pearl Jam (headliner),True
+422,2010-05-29,MetLife Stadium,East Rutherford,NJ,Bon Jovi (headliner),True
+423,2010-06-02,NYCB Theatre at Westbury,Westbury,NY,Black Crowes (headliner),True
+424,2010-06-15,Irving Plaza,New York,NY,Gaslight Anthem (headliner),True
+425,2010-06-16,Madison Square Garden,New York,NY,"James Taylor (festival_performer), Carole King (festival_performer)",True
+426,2010-06-23,Roseland,New York,NY,Phil Collins (headliner),True
+427,2010-06-24,NYCB Theatre at Westbury,Westbury,NY,Weird Al (headliner),True
+428,2010-06-30,NYCB Theatre at Westbury,Westbury,NY,Ringo Starr (headliner),True
+429,2010-07-07,Madison Square Garden,New York,NY,Lady Gaga (headliner),True
+43,1997-07-09,Jones Beach Theater,Wantagh,NY,Boston (headliner),True
+430,2010-07-09,MetLife Stadium,East Rutherford,NJ,Bon Jovi (headliner),True
+431,2010-07-10,Pleasantville Park,Pleasantville,NY,Jakob Dylan (headliner),False
+432,2010-07-13,Metropolitan Opera House,New York,NY,Sting with Philharmonic (headliner),False
+433,2010-07-15,NYCB Theatre at Westbury,Westbury,NY,"Huey Lewis (festival_performer), the News (festival_performer)",False
+434,2010-07-16,Citi Field,Queens,NY,Dave Matthews Band with Zach Brown Band (headliner),False
+435,2010-07-25,Neil Simon Theatre,New York,NY,Harry Connick Jr. (headliner),False
+436,2010-07-28,Madison Square Garden,New York,NY,Tom Petty and the Heartbreakers with Buddy Guy (headliner),False
+437,2010-08-13,Towne Crier Cafe,Beacon,NY,Christopher Robin Band (headliner),False
+438,2010-07-28,The Meadowlands,East Rutherford,NJ,Tom Petty and the Heartbreakers with Crosby Stills and Nash (headliner),False
+439,2010-08-14,Jones Beach Theater,Wantagh,NY,KISS (headliner),True
+44,1997-07-10,Thunder Ridge Ski Area,Patterson,NY,"Santana (festival_performer), Rusted root (festival_performer)",True
+440,2010-08-20,Jones Beach Theater,Wantagh,NY,"Crosby, Stills and Nash (headliner)",True
+441,2010-08-24,Izod Center,East Rutherford,NJ,Tom Petty and the Heartbreakers with My Morning Jacket (headliner),False
+442,2010-08-31,Jones Beach Theater,Wantagh,NY,Jimmy Buffett (headliner),True
+443,2010-09-05,Great South Bay Music Festival,Oakdale,NY,"Keith Urban (festival_performer), Kris Allen (festival_performer)",False
+444,2010-09-13,The Meadowlands,East Rutherford,NJ,Slash (4 Songs) (headliner),False
+445,2010-09-14,Beacon Theatre,New York,NY,"Jackson Browne (headliner), David Lindley (opener)",True
+446,2010-09-26,Radio City Music Hall,New York,NY,Sheryl Crow (headliner),False
+447,2010-09-30,Radio City Music Hall,New York,NY,Gaslight Anthem (headliner),True
+448,2010-10-09,Bowery Electric,New York,NY,Jesse Malin (headliner),False
+449,2010-10-13,Nassau Coliseum,Uniondale,NY,Roger Waters (headliner),True
+45,1997-07-13,Jones Beach Theater,Wantagh,NY,"ZZ Top (festival_performer), Kansas (festival_performer)",True
+450,2010-10-19,Paramount Hudson Valley Theater,Peekskill,NY,Ian Anderson (headliner),False
+451,2010-10-20,Beacon Theatre,New York,NY,"T-Bone Burnett's Speaking Clock Revue: Elton John & Leon Russell (festival_performer), John Mellencamp (festival_performer), Jeff Bridges (festival_performer), Elvis Costello (festival_performer), Punch Brothers (festival_performer), Secret Sisters (festival_performer), Gregg Allman (festival_performer)",False
+452,2010-10-25,Neil Simon Theatre,New York,NY,RAIN - Tribute to the Beatles (headliner),False
+453,2010-11-11,Chelsea Piers,New York,NY,Garth Brooks (headliner),False
+454,2010-11-12,Stamford Center for the Arts,Stamford,CT,Joe Bonamassa (headliner),True
+455,2010-11-13,Madison Square Garden,New York,NY,Dave Matthews Band (headliner),True
+456,2010-11-15,Terminal 5,New York,NY,Mumford & Sons (festival_performer),True
+457,2010-11-16,Madison Square Garden,New York,NY,Kings of Leon (headliner),True
+458,2010-11-19,NYCB Theatre at Westbury,Westbury,NY,The Doobie Brothers (headliner),False
+459,2010-11-20,Madison Square Garden,New York,NY,Further (headliner),False
+46,1997-07-19,Great South Bay Music Festival,Oakdale,NY,"John Fogerty (headliner), Fairfield Four (opener)",True
+460,2010-11-28,Madison Square Garden,New York,NY,Michael Buble (headliner),False
+461,2010-12-02,Hammerstein,New York,NY,Brandon Flowers (headliner),True
+462,2010-12-18,Madison Square Garden,New York,NY,Prince (headliner),True
+463,2011-01-15,Paramount Theatre,Asbury Park,NJ,Bruce Springsteen: Light of Day 11 (headliner),False
+464,2011-01-28,Ridgefield Playhouse,Ridgefield,CT,"Dickey Betts (festival_performer), Great Southern (festival_performer)",True
+465,2011-02-18,Radio City Music Hall,New York,NY,John Mellencamp (headliner),True
+466,2011-02-19,City Winery,New York,NY,Jesse Malin (headliner),True
+467,2011-02-24,Madison Square Garden,New York,NY,Bon Jovi (headliner),True
+468,2011-03-16,Madison Square Garden,New York,NY,"Elton John (festival_performer), Leon Russell (festival_performer)",False
+469,2011-03-18,Beacon Theatre,New York,NY,Allman Brothers Band (headliner),True
+47,1997-07-31,Jones Beach Theater,Wantagh,NY,"Steve Miller Band (headliner), Eric Johnson (opener)",False
+470,2011-03-20,Madison Square Garden,New York,NY,"Elton John (festival_performer), Leon Russell (festival_performer)",False
+471,2011-03-24,Ridgefield Playhouse,Ridgefield,CT,Peter Wolf (headliner),True
+472,2011-03-25,NYCB Theatre at Westbury,Westbury,NY,Joe Bonamassa (headliner),False
+473,2011-03-26,Madison Square Garden,New York,NY,"Rod Stewart (festival_performer), Stevie Nicks (festival_performer)",True
+474,2011-03-27,Radio City Music Hall,New York,NY,Further (headliner),False
+475,2011-04-19,City Winery,New York,NY,"Ryan Bingham, Terry Allen (festival_performer), Joe Ely (festival_performer)",False
+476,2011-05-06,Nassau Coliseum,Uniondale,NY,Bon Jovi (headliner),True
+477,2011-05-12,Beacon Theatre,New York,NY,Warren Haynes Band (headliner),True
+478,2011-05-19,NYCB Theatre at Westbury,Westbury,NY,Chicago (headliner),True
+479,2011-06-04,The Meadowlands,East Rutherford,NJ,"Brad Paisley with Blake Shelton (festival_performer), Jerrod Neimann (festival_performer)",False
+48,1997-08-06,Madison Square Garden,New York,NY,Aerosmith (headliner),True
+480,2011-06-18,NYCB Theatre at Westbury,Westbury,NY,Kenny Loggins (headliner),True
+481,2011-06-29,Gramercy Theatre,New York,NY,Lee DeWyze (headliner),False
+482,2011-07-09,Mohegan Sun Arena,Uncasville,CT,Keith Urban (headliner),True
+483,2011-07-15,Yankee Stadium,Bronx,NY,Paul McCartney (headliner),True
+484,2011-07-16,Yankee Stadium,Bronx,NY,Paul McCartney (headliner),True
+485,2011-07-20,MetLife Stadium,East Rutherford,NJ,U2 (headliner),True
+486,2011-08-12,City Winery,New York,NY,John Hiatt (headliner),False
+487,2011-08-13,The Meadowlands,East Rutherford,NJ,Kenny Chesney/Zac Brown Band (headliner),False
+488,2011-08-19,Jones Beach Theater,Wantagh,NY,Jimmy Buffett (headliner),True
+489,2011-08-23,Jones Beach Theater,Wantagh,NY,Lynyrd Skynyrd/Doobie Brothers (headliner),False
+49,1997-08-08,Great South Bay Music Festival,Oakdale,NY,Jethro Tull (headliner),True
+490,2011-08-28,Ives Concert Park,Danbury,CT,ZZ Top (headliner),False
+491,2011-08-31,Beacon Theatre,New York,NY,"Crosby, Stills and Nash (headliner)",True
+492,2011-11-04,Beacon Theatre,New York,NY,Joe Bonamassa (headliner),True
+493,2011-11-08,Beacon Theatre,New York,NY,"Joan Baez (festival_performer), Kris Kristofferson (festival_performer)",False
+494,2011-11-10,Madison Square Garden,New York,NY,Further (headliner),False
+495,2011-11-19,Beacon Theatre,New York,NY,John Fogerty (headliner),False
+496,2011-11-26,Mohegan Sun Arena,Uncasville,CT,Bob Seger (headliner),True
+497,2011-12-01,Madison Square Garden,New York,NY,Bob Seger (guest: Bruce Springsteen) (headliner),True
+498,2011-12-09,Convention Hall,Asbury Park,NJ,Gaslight Anthem (guest: Bruce Springsteen) (headliner),True
+499,2011-12-10,Stone Pony,Asbury Park,NJ,"Jesse Malin (festival_performer), St. Marks Social (festival_performer)",False
+5,1994-07-24,Giants Stadium,East Rutherford,NJ,"Elton John (festival_performer), Billy Joel (festival_performer)",True
+50,1997-10-16,Giants Stadium,East Rutherford,NJ,"The Rolling Stones (headliner), Foo Fighters (opener)",True
+500,2011-12-16,Tarrytown Music Hall,Tarrytown,NY,Lyle Lovett (headliner),False
+501,2012-02-16,NYCB Theatre at Westbury,Westbury,NY,Peter Frampton (headliner),True
+502,2012-02-28,Madison Square Garden,New York,NY,Van Halen (headliner),True
+503,2012-04-03,Riviera Theatre,Chicago,IL,Noel Gallagher's High Flying Birds (headliner),True
+504,2012-04-09,Madison Square Garden,New York,NY,Bruce Springsteen (headliner),True
+505,2012-04-16,MVP Arena,Albany,NY,Bruce Springsteen (headliner),True
+506,2012-04-18,Irving Plaza,New York,NY,Steel Panther (headliner),True
+507,2012-05-02,Prudential Center,Newark,NJ,Bruce Springsteen (headliner),True
+508,2012-06-01,Jones Beach Theater,Wantagh,NY,"Brad Paisley (festival_performer), The Band Perry (festival_performer), Easton Corbin (festival_performer)",False
+509,2012-06-12,Jones Beach Theater,Wantagh,NY,Dave Matthews Band (headliner),True
+51,1997-11-21,Roseland,New York,NY,"311 (festival_performer), Sugar Ray (festival_performer)",False
+510,2012-06-22,Rockefeller Plaza,New York,NY,Kenny Chesney (headliner),False
+511,2012-07-01,Nassau Coliseum,Uniondale,NY,Aerosmith with Cheap Trrick (headliner),False
+512,2012-08-01,Pier A Park,Hoboken,NJ,"Mumford & Sons (headliner), Dawes (opener)",True
+513,2012-08-13,MetLife Stadium,East Rutherford,NJ,"Kenny Chesney (festival_performer), Tim McGraw (festival_performer)",False
+514,2012-08-18,Gillette Stadium,Foxborough,MA,Bruce Springsteen (headliner),True
+515,2012-08-30,Jones Beach Theater,Wantagh,NY,Jimmy Buffett (headliner),True
+516,2012-09-02,Citizens Bank Park,Philadelphia,PA,Bruce Springsteen (headliner),True
+517,2012-09-19,MetLife Stadium,East Rutherford,NJ,Bruce Springsteen (headliner),True
+518,2012-09-21,MetLife Stadium,East Rutherford,NJ,Bruce Springsteen (headliner),True
+519,2012-09-22,MetLife Stadium,East Rutherford,NJ,Bruce Springsteen (headliner),True
+52,1997-11-23,O'Neill Theater Center,Waterford,CT,The Wallflowers (headliner),False
+520,2012-10-03,Izod Center,East Rutherford,NJ,Love for Levon (headliner),False
+521,2012-10-07,Tarrytown Music Hall,Tarrytown,NY,John Hiatt (headliner),False
+522,2012-10-09,Ridgefield Playhouse,Ridgefield,CT,Todd Rundgren (headliner),False
+523,2012-10-11,Capitol Theatre,Port Chester,NY,Warren Haynes - Solo (headliner),False
+524,2012-10-17,Beacon Theatre,New York,NY,"Crosby, Stills and Nash (headliner)",True
+525,2012-10-18,Webster Hall,New York,NY,Ryan Bingham (headliner),True
+526,2012-10-25,XL Center,Hartford,CT,Bruce Springsteen (headliner),True
+527,2012-11-18,Izod Center,East Rutherford,NJ,Zac Brown Band with Blackberry Smoke (headliner),False
+528,2012-11-21,City Winery,New York,NY,John Hiatt (headliner),True
+529,2012-12-01,Izod Center,East Rutherford,NJ,Dave Matthews Band (headliner),True
+53,1997-12-12,Hammerstein,New York,NY,"George Thorogood (festival_performer), the Destroyers (festival_performer)",True
+530,2012-12-12,Madison Square Garden,New York,NY,"Bruce Springsteen (festival_performer), Paul McCartney (festival_performer), The Rolling Stones (festival_performer), The Who (festival_performer), Blly Joel (festival_performer), Roger Waters (festival_performer), Chris Martin (festival_performer), Bon Jovi (festival_performer), Eric Clapton (festival_performer)",True
+531,2013-01-19,Paramount Theatre,Asbury Park,NJ,"Light of Day 13: D'Urso (festival_performer), Grushecky (festival_performer), Malin (festival_performer), Nile (festival_performer), Love (festival_performer)",True
+532,2013-01-20,NA,Newtown,CT,"Bernie Williams (festival_performer), Ed Kawalczyk (festival_performer), Johhny Winter (festival_performer), Southside Johnny (festival_performer), Richie Scarlett (festival_performer)",False
+533,2013-02-12,Barclays Center,Brooklyn,NY,Mumford & Sons (festival_performer),True
+534,2013-04-16,Barclays Center,Brooklyn,NY,Bob Seger (headliner),True
+535,2013-05-26,Beacon Theatre,New York,NY,"Tom Petty (festival_performer), Heartbreakers (festival_performer)",True
+536,2013-06-08,Barclays Center,Brooklyn,NY,Paul McCartney (headliner),True
+537,2013-05-15,NYCB Theatre at Westbury,Westbury,NY,ZZ Top (headliner),True
+538,2013-05-17,Beacon Theatre,New York,NY,Joe Bonamassa (headliner),True
+539,2013-05-16,USA Upfront,New York,NY,Passion Pit (headliner),False
+54,1998-01-16,Paramount Theater at MSG,New York,NY,"Bob Dylan (festival_performer), Van Morrison (festival_performer)",True
+540,2013-05-18,The Meadowlands,East Rutherford,NJ,"Brad Paisley (festival_performer), Chris Young (festival_performer)",True
+541,2013-06-02,Capitol Theatre,Port Chester,NY,Weird Al Yankovic (headliner),True
+542,2013-06-23,Jones Beach Theater,Wantagh,NY,Rush (headliner),True
+543,2013-07-12,NYCB Theatre at Westbury,Westbury,NY,Melissa Etheridge (headliner),True
+544,2013-07-19,Hartford HealthCare Amphitheater,Bridgeport,CT,"Bob Dylan (headliner), My Morning Jacket & Wilco (opener)",True
+545,2013-07-21,Tarrytown Music Hall,Tarrytown,NY,Lyle Lovett (headliner),True
+546,2013-07-25,Bowery,New York,NY,Will Hoge (headliner),False
+547,2013-07-27,MetLife Stadium,East Rutherford,NJ,"Bon Jovi (festival_performer), J. Geils Band (festival_performer)",True
+548,2013-08-03,PNC Bank Arts Center,Holmdel,NJ,OAR (headliner),True
+549,2013-08-09,Ridgefield Playhouse,Ridgefield,CT,John Hiatt (headliner),True
+55,1998-01-25,Towne Crier,Beacon,NY,Luther Guitar Johnson (headliner),False
+550,2013-08-10,MetLife Stadium,East Rutherford,NJ,"Kenny Chesney (festival_performer), Eric Church (festival_performer)",True
+551,2013-08-15,Today Show Plaza at Rockefeller Center,New York,NY,Jimmy Buffett (headliner),True
+552,2013-08-22,Jones Beach Theater,Wantagh,NY,Jimmy Buffett (headliner),True
+553,2013-10-16,Bell House,Brooklyn,NY,Will Hoge (headliner),False
+554,2013-10-19,Barclays Center,Brooklyn,NY,Pearl Jam (headliner),True
+555,2013-12-04,Madison Square Garden,New York,NY,Elton John (headliner),True
+556,2013-12-09,Madison Square Garden,New York,NY,"Rod Stewart (festival_performer), Steve Winwood (festival_performer)",True
+557,2013-12-12,Tilles Center,Brookville,NY,Bryan Adams (headliner),False
+558,2013-12-31,Barclays Center,Brooklyn,NY,Billy Joel (headliner),True
+559,2014-01-14,Studio 6H at 30 Rock,New York,NY,Bruce Springsteen & the E Street Band (headliner),False
+56,1998-01-29,Nassau Coliseum,Uniondale,NY,Billy Joel (headliner),True
+560,2014-01-18,Paramount Theatre,Asbury Park,NJ,"Light of Day: 14 Bruce Springsteen (festival_performer), Joe Grushecky (festival_performer), Jesse Malin (festival_performer), Joe D'Urso (festival_performer), Johnny Reznik (festival_performer)",False
+561,2014-01-19,Tarrytown Music Hall,Tarrytown,NY,"Lyle Lovett (festival_performer), John Hiatt (festival_performer)",False
+562,2014-01-27,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+563,2014-01-29,Madison Square Garden,New York,NY,"Keith Urban (festival_performer), Little Big Town (festival_performer)",True
+564,2014-02-01,Capitol Theatre,Port Chester,NY,"Steve Earle (festival_performer), Robert Earl Keen (festival_performer)",False
+565,2014-02-03,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+566,2014-02-14,Madison Square Garden,New York,NY,Kings of Leon (headliner),True
+567,2014-03-06,Madison Square Garden,New York,NY,"Sting (festival_performer), Paul Simon (festival_performer)",True
+568,2014-03-19,Iridium Jazz Club,New York,NY,Lee DeWyze (headliner),False
+569,2014-03-19,Iridium Jazz Club,New York,NY,Lee DeWyze (headliner),False
+57,1998-02-02,Nassau Coliseum,Uniondale,NY,Billy Joel (headliner),True
+570,2014-03-21,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+571,2014-04-02,Roseland,New York,NY,Lady Gaga (headliner),True
+572,2014-04-10,Barclays Center,Brooklyn,NY,"Bruce Springsteen (festival_performer), Peter Gabriel (festival_performer), Hall & Oates (festival_performer), Nirvana (festival_performer), Cat Stevens (festival_performer), Stevie Nicks (festival_performer), Emmylou Harries (festival_performer), Bonnie Raitt (festival_performer), Carrie Underwood (festival_performer)",False
+573,2014-04-18,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+574,2014-05-13,MVP Arena,Albany,NY,Bruce Springsteen & the E Street Band (headliner),False
+575,2014-05-17,Mohegan Sun Arena,Uncasville,CT,Bruce Springsteen & the E Street Band (headliner),False
+576,2014-05-18,Mohegan Sun Arena,Uncasville,CT,Bruce Springsteen & the E Street Band (headliner),False
+577,2014-05-23,Jones Beach Theater,Wantagh,NY,Barry Gibb (headliner),True
+578,2014-06-10,Radio City Music Hall,New York,NY,"Willie Nelson (festival_performer), Alison Krauss (festival_performer), Kacey Musgraves (festival_performer)",True
+579,2014-06-19,The Town Hall,New York,NY,Paul Rodgers Royal Sessions Live (headliner),False
+58,1998-02-16,Nassau Coliseum,Uniondale,NY,Billy Joel (headliner),True
+580,2014-06-21,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+581,2014-06-25,Jones Beach Theater,Wantagh,NY,Lionel Richie (headliner),True
+582,2014-06-29,Tappan Park,Staten Island,NY,"Rockland Bergen: Willie Nile (festival_performer), Joe D'Urso (festival_performer), Jesse Malin (festival_performer), John Eddie (festival_performer)",False
+583,2014-07-02,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+584,2014-07-03,Ridgefield Playhouse,Ridgefield,CT,"John Hiatt (festival_performer), Robert Cray Band (festival_performer)",False
+585,2014-07-05,MVP Arena,Albany,NY,Paul McCartney (headliner),True
+586,2014-07-10,Jones Beach Theater,Wantagh,NY,"Aerosmith (festival_performer), Slash (festival_performer)",True
+587,2014-07-17,Madison Square Garden,New York,NY,Queen + Adam Lambert (headliner),True
+588,2014-07-21,Highline Ballroom,New York,NY,Keith Urban (headliner),True
+589,2014-08-05,Jones Beach Theater,Wantagh,NY,"John Fogerty (festival_performer), Jackson Browne (festival_performer)",True
+59,1998-03-21,Beacon Theatre,New York,NY,Allman Brothers Band (headliner),True
+590,2014-08-06,Jones Beach Theater,Wantagh,NY,"KISS (festival_performer), Def Leppard (festival_performer)",True
+591,2014-08-16,The Meadowlands,East Rutherford,NJ,Keith Urban (headliner),True
+592,2014-08-21,Jones Beach Theater,Wantagh,NY,"Jimmy Buffett (festival_performer), Coral Reefer Band (festival_performer)",False
+593,2014-08-23,Beacon Theatre,New York,NY,Lyle Lovett (headliner),False
+594,2014-09-10,Madison Square Garden,New York,NY,"Tom Petty & the Heartbreakers (headliner), Steve Winwood (opener)",True
+595,2014-09-13,XL Center,Hartford,CT,"Tom Petty & the Heartbreakers (headliner), Steve Winwood (opener)",True
+596,2014-09-14,Barclays Center,Brooklyn,NY,Luke Bryan (headliner),True
+597,2014-09-17,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+598,2014-09-18,Madison Square Garden,New York,NY,The Eagles (headliner),True
+599,2014-09-21,Tarrytown Music Hall,Tarrytown,NY,"John Hiatt (festival_performer), Rick Brantley (festival_performer)",False
+6,1994-08-14,Giants Stadium,East Rutherford,NJ,"The Rolling Stones (headliner), Counting Crows (opener)",True
+60,1998-04-18,Madison Square Garden,New York,NY,Eric Clapton (headliner),True
+600,2014-09-25,Palladium Times Square,New York,NY,"Kip Moore, Sam Hunt (festival_performer), Charlie Worshem (festival_performer)",False
+601,2014-09-26,Capitol Theatre,Port Chester,NY,"Steve Earle (festival_performer), Shawn Colvin (festival_performer)",False
+602,2014-10-07,Madison Square Garden,New York,NY,Fleetwood Mac (headliner),True
+603,2014-10-09,Today Show Plaza at Rockefeller Center,New York,NY,Fleetwood Mac (headliner),True
+604,2014-10-13,City Winery,New York,NY,John Hiatt (headliner),True
+605,2014-10-17,Madison Square Garden,New York,NY,"Eric Church (festival_performer), Dwight Yoakam (festival_performer)",True
+606,2014-11-05,The Theater at Madison Square Garden,New York,NY,Bruce Springsteen: Stand Up For Heroes (headliner),False
+607,2014-11-14,Palladium Times Square,New York,NY,Chris Young (headliner),True
+608,2014-11-25,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+609,2014-12-01,Times Square,New York,NY,"Bruce Springsteen with U2 (festival_performer), Carrie Underwood (festival_performer), Chris Martin (festival_performer), Kanye West (festival_performer)",True
+61,1998-05-13,Turning Point,Piermont,NY,Richie Havens (headliner),False
+610,2014-12-05,Madison Square Garden,New York,NY,James Taylor (headliner),True
+611,2014-12-18,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+612,2014-12-19,Madison Square Garden,New York,NY,Bob Seger (headliner),True
+613,2014-12-31,Barclays Center,Brooklyn,NY,Elton John (headliner),True
+614,2015-04-03,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+615,2015-04-07,Le Poisson Rouge,New York,NY,Mumford & Sons (festival_performer),True
+616,2015-04-10,SubCulture,New York,NY,Lee DeWyze (headliner),False
+617,2015-04-21,Carnegie Hall,New York,NY,John Mellencamp (headliner),True
+618,2015-04-24,Capitol Theatre,Port Chester,NY,Steve Winwood (headliner),True
+619,2015-04-25,Mohegan Sun Arena,Uncasville,CT,Kenny Chesney with Chase Rice (headliner),False
+62,1998-05-15,Fleet Center,Boston,MA,Elton John (headliner),True
+620,2015-04-30,Capitol Theatre,Port Chester,NY,"John Hiatt (festival_performer), Lyle Lovett (festival_performer)",True
+621,2015-05-02,Prudential Center,Newark,NJ,Eric Church (headliner),True
+622,2015-05-03,Madison Square Garden,New York,NY,Eric Clapton (70th Birthday bash) (headliner),True
+623,2015-05-17,Ossining Public Library,Ossining,NY,Willie Nile (headliner),False
+624,2015-05-26,Barclays Center,Brooklyn,NY,"The Who (festival_performer), Joan Jett (festival_performer)",True
+625,2015-05-28,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+626,2015-05-29,Jones Beach Theater,Wantagh,NY,Lady Antebellum with Hunter Hayes and Sam Hunt (headliner),False
+627,2015-06-06,Bowery,New York,NY,Will Hoge (headliner),True
+628,2015-06-17,Radio City Music Hall,New York,NY,"Amos Lee (festival_performer), David Gray (festival_performer)",True
+629,2015-06-20,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+63,1998-05-16,Fleet Center,Boston,MA,Elton John (headliner),True
+630,2015-06-22,Beacon Theatre,New York,NY,Bryan Adams (headliner),True
+631,2015-06-24,Radio City Music Hall,New York,NY,John Fogerty (headliner),True
+632,2015-06-27,Stone Pony,Asbury Park,NJ,Jesse Malin (headliner),False
+633,2015-06-29,Madison Square Garden,New York,NY,Rush (headliner),True
+634,2015-06-30,Madison Square Garden,New York,NY,Shania Twain (headliner),True
+635,2015-07-01,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+636,2015-07-18,Madison Square Garden,New York,NY,U2 (headliner),True
+637,2015-07-22,Madison Square Garden,New York,NY,U2 (headliner),True
+638,2015-07-23,Madison Square Garden,New York,NY,U2 (headliner),True
+639,2016-07-25,The Meadowlands,East Rutherford,NJ,Brad Paisley with Justin Moore (headliner),False
+64,1998-05-22,Madison Square Garden,New York,NY,Van Halen 3 (Cherone) / Creed (headliner),False
+640,2015-08-04,Nassau Coliseum,Uniondale,NY,Billy Joel (headliner),True
+641,2015-08-07,Today Show Plaza at Rockefeller Center,New York,NY,Keith Urban (headliner),True
+642,2015-08-09,Damrosch Park at Lincoln Center,New York,NY,"Lyle Lovett (festival_performer), His Big Band (festival_performer)",False
+643,2015-08-13,Jones Beach Theater,Wantagh,NY,Van Halen (headliner),True
+644,2015-08-14,Wonder Bar,Asbury Park,NJ,Will Hoge (headliner),True
+645,2015-08-15,MetLife Stadium,East Rutherford,NJ,"Kenny Chesney (festival_performer), Jason Aldean (festival_performer)",True
+646,2015-08-18,Jones Beach Theater,Wantagh,NY,"Jimmy Buffett (festival_performer), the Coral Reefer Band with Huey Lewis (festival_performer)",True
+647,2015-08-22,Citi Field,Queens,NY,Zac Brown Band (headliner),True
+648,2015-08-26,MetLife Stadium,East Rutherford,NJ,ACDC (headliner),True
+649,2015-08-29,Klein Memorial Auditorium,Bridgeport,CT,"John Hiatt (festival_performer), Taj Mahal (festival_performer)",False
+65,1998-06-07,Giants Stadium,East Rutherford,NJ,"Dave Matthews Band (headliner), Ben Folds Five & Beck (opener)",True
+650,2015-09-06,Saratoga Performing Arts Center,Saratoga Springs,NY,Zac Brown Band with Drake White (headliner),False
+651,2015-09-10,Melrose Ballroom,Long Island City,NY,Steven Tyler (headliner),True
+652,2015-09-15,Capitol Theatre,Port Chester,NY,Jackson Browne (headliner),True
+653,2015-09-17,Capitol Theatre,Port Chester,NY,"Robert Plant (festival_performer), Sensational Space Shifters (festival_performer)",True
+654,2015-09-18,Capitol Theatre,Port Chester,NY,The Doobie Brothers (headliner),True
+655,2015-09-24,Tarrytown Music Hall,Tarrytown,NY,"Steve Earle (festival_performer), The Dukes with The Mastersons (festival_performer)",True
+656,2015-09-26,Central Park,New York,NY,"Global Citizen Festival with Beyonce (festival_performer), Sheeran (festival_performer)",True
+657,2015-10-01,Capitol Theatre,Port Chester,NY,Warren Haynes + Chris Stapleton (headliner),False
+658,2015-10-11,XL Center,Hartford,CT,Stevie Wonder (headliner),True
+659,2015-10-29,MVP Arena,Albany,NY,Dead and Company (headliner),True
+66,1998-06-27,PNC Bank Arts Center,Holmdel,NJ,John Fogerty (headliner),True
+660,2015-11-01,Madison Square Garden,New York,NY,Dead and Company (headliner),False
+661,2015-11-03,Capitol Theatre,Port Chester,NY,Don Henley (w. Shawn Colvin) (headliner),True
+662,2015-11-07,The Theater at Madison Square Garden,New York,NY,Bruce Springsteen (headliner),False
+663,2015-11-19,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+664,2015-11-20,Irving Plaza,New York,NY,Jeff Lynne's ELO (headliner),True
+665,2015-12-05,The Theater at Madison Square Garden,New York,NY,"John Lennon 75th Birthday: Steven Tyler, Fogerty (headliner)",False
+666,2015-12-31,Barclays Center,Brooklyn,NY,"Jimmy Buffett (festival_performer), the Coral Reefer Band with Huey Lewis (festival_performer)",True
+667,2016-01-07,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+668,2016-01-22,Carnegie Hall,New York,NY,Joe Bonamassa (headliner),True
+669,2016-01-27,Madison Square Garden,New York,NY,Bruce Springsteen & the E Street Band (headliner),False
+67,1998-07-11,PNC Bank Arts Center,Holmdel,NJ,"Chicago and Hall (festival_performer), Oates (festival_performer)",False
+670,2016-01-31,Prudential Center,Newark,NJ,Bruce Springsteen & the E Street Band (headliner),False
+671,2016-02-08,MVP Arena,Albany,NY,Bruce Springsteen & the E Street Band (headliner),False
+672,2016-02-10,XL Center,Hartford,CT,Bruce Springsteen & the E Street Band (headliner),False
+673,2016-02-12,Wells Fargo Center,Philadelphia,PA,Bruce Springsteen & the E Street Band (headliner),False
+674,2016-02-13,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+675,2016-02-27,DCU Center,Worcester,MA,Garth Brooks w. Trisha Yearwood (headliner),True
+676,2016-03-02,Radio City Music Hall,New York,NY,"Elton John (festival_performer), Katy Perry (festival_performer), Andra Day (festival_performer)",True
+677,2016-03-03,Madison Square Garden,New York,NY,"The Who (festival_performer), Joan Jett (festival_performer)",True
+678,2016-03-28,Madison Square Garden,New York,NY,Bruce Springsteen & the E Street Band (headliner),False
+679,2016-04-02,Billy Bob's Texas,Fort Worth,TX,Montgomery gentry (headliner),False
+68,1998-07-18,Izod Center,East Rutherford,NJ,"Page (festival_performer), Plant (festival_performer)",True
+680,2016-04-08,Barclays Center,Brooklyn,NY,"Rock Hall of Fame: Cheap Trick (festival_performer), Chicago (festival_performer), Steve Miller (festival_performer), Deep Purple (festival_performer)",True
+681,2016-04-09,Capitol Theatre,Port Chester,NY,Avett Brothers (headliner),True
+682,2016-04-11,Madison Square Garden,New York,NY,David Gilmour (headliner),True
+683,2016-04-12,Madison Square Garden,New York,NY,David Gilmour (headliner),True
+684,2016-04-15,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+685,2016-04-16,Oakdale Theatre,Wallingford,CT,Huey Lewis  The News (headliner),True
+686,2016-04-19,Capitol Theatre,Port Chester,NY,Steely Dan (headliner),True
+687,2016-04-23,Barclays Center,Brooklyn,NY,Bruce Springsteen & the E Street Band (headliner),False
+688,2016-04-25,Barclays Center,Brooklyn,NY,Bruce Springsteen & the E Street Band (headliner),False
+689,2016-04-29,Peekskill Paramount,Peekskill,NY,"John Hiatt (festival_performer), Rick Brantley (festival_performer)",False
+69,1998-07-22,PNC Bank Arts Center,Holmdel,NJ,"Lynyrd Skynyrd (festival_performer), .38 Special (festival_performer)",False
+690,2016-05-01,Madison Square Garden,New York,NY,Pearl Jam (headliner),True
+691,2016-05-02,Madison Square Garden,New York,NY,Pearl Jam (headliner),True
+692,2016-05-04,Stage 48,New York,NY,Keith Urban (headliner),True
+693,2016-05-05,Beacon Theatre,New York,NY,Jerry Seinfeld (headliner),False
+694,2016-05-10,Ridgefield Playhouse,Ridgefield,CT,"John Hiatt (festival_performer), Rick Brantley (festival_performer)",True
+695,2016-05-27,Capitol Theatre,Port Chester,NY,"Phil Lesh (festival_performer), Friends (W. Warren Haynes) (festival_performer)",True
+696,2016-06-10,Webster Hall,New York,NY,Mudcrutch (headliner),True
+697,2016-06-11,PNC Bank Arts Center,Holmdel,NJ,"Bad Company (festival_performer), Joe Walsh (festival_performer)",True
+698,2016-06-14,Capitol Theatre,Port Chester,NY,Mudcrutch (headliner),True
+699,2016-06-16,Total Mortgage Arena,Bridgeport,CT,Hall & Oates (headliner),True
+7,1994-12-02,Nassau Coliseum,Uniondale,NY,Green Day (headliner),True
+70,1998-07-31,PNC Bank Arts Center,Holmdel,NJ,"HORDE (Blues Traveler (festival_performer), Barenaked Ladies & Gov't Mule (festival_performer), Paula Cole (festival_performer), Ben Harper) (festival_performer)",False
+700,2016-06-17,Forest Hills Stadium,Forest Hills,NY,Mumford & Sons (festival_performer),True
+701,2016-06-25,Citi Field,Queens,NY,Dead and Company (headliner),True
+702,2016-06-26,Citi Field,Queens,NY,Dead and Company (headliner),True
+703,2016-07-08,Yankee Stadium,Bronx,NY,Garth Brooks (headliner),True
+704,2016-07-09,Yankee Stadium,Bronx,NY,Garth Brooks (headliner),True
+705,2016-07-16,PNC Bank Arts Center,Holmdel,NJ,Keith Urban (headliner),True
+706,2016-07-20,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+707,2016-07-23,MetLife Stadium,East Rutherford,NJ,"Guns (festival_performer), Roses (festival_performer)",True
+708,2016-08-04,Jones Beach Theater,Wantagh,NY,"Brad Paisley (headliner), Tyler Farr (opener)",True
+709,2016-08-07,MetLife Stadium,East Rutherford,NJ,Paul McCartney (headliner),True
+71,1998-09-10,Madison Square Garden,New York,NY,Pearl Jam (headliner),True
+710,2016-08-08,Rumsey Playfield,New York,NY,Warren Haynes Jerry Symphonny (headliner),False
+711,2016-08-12,The Saint Asbury Park,Asbury Park,NJ,Will Hoge (headliner),False
+712,2016-08-13,City Winery,New York,NY,"Will Hoge (headliner), Brian Dunne (opener)",True
+713,2016-08-19,Citi Field,Queens,NY,Zac Brown Band (headliner),True
+714,2016-08-20,MetLife Stadium,East Rutherford,NJ,"Kenny Chesney (festival_performer), Miranda Lambert (festival_performer)",True
+715,2016-08-23,MetLife Stadium,East Rutherford,NJ,Bruce Springsteen & the E Street Band (headliner),False
+716,2016-08-25,Jones Beach Theater,Wantagh,NY,Jimmy Buffett (headliner),True
+717,2016-08-30,MetLife Stadium,East Rutherford,NJ,Bruce Springsteen & the E Street Band (headliner),False
+718,2016-09-07,Citizens Bank Park,Philadelphia,PA,Bruce Springsteen & the E Street Band (headliner),False
+719,2016-09-09,Citizens Bank Park,Philadelphia,PA,Bruce Springsteen & the E Street Band (headliner),False
+72,1998-09-12,Irving Plaza,New York,NY,Gov't Mule (headliner),True
+720,2016-09-14,Gillette Stadium,Foxborough,MA,Bruce Springsteen & the E Street Band (headliner),False
+721,2016-09-16,Radio City Music Hall,New York,NY,ELO (headliner),True
+722,2016-09-18,Peekskill Paramount,Peekskill,NY,Donovan (headliner),False
+723,2016-09-22,Madison Square Garden,New York,NY,Adele (headliner),True
+724,2016-09-23,Capitol Theatre,Port Chester,NY,"Brian Fallon (festival_performer), Ryan Bingham (festival_performer)",True
+725,2016-09-24,Radio City Music Hall,New York,NY,Weird Al (headliner),True
+726,2016-10-07,The Town Hall,New York,NY,Bruce Springsteen In Conversation (headliner),False
+727,2016-10-14,Red Rocks Amphitheatre,Morrison,CO,Brantley Gilbert with Justin Moore and Colt Ford (headliner),False
+728,2016-10-28,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+729,2016-11-01,The Theater at Madison Square Garden,New York,NY,"Bruce Springsteen: Stand Up For Heroes (Gaffigan (festival_performer), Seinfeld (festival_performer), CK & Stewart) (festival_performer)",False
+73,1998-10-15,Jones Beach Theater,Wantagh,NY,Aerosmith (headliner),True
+730,2016-11-07,Madison Square Garden,New York,NY,Temple of the Dog (headliner),True
+731,2016-11-14,The Theater at Madison Square Garden,New York,NY,Rascal Flatts (headliner),True
+732,2016-11-19,Barclays Center,Brooklyn,NY,Keith Urban (headliner),True
+733,2016-11-21,Bushnell Center for the Performing Arts,Hartford,CT,Joe Bonamassa (headliner),True
+734,2016-11-25,Tarrytown Music Hall,Tarrytown,NY,Michael Bolton (headliner),False
+735,2016-11-30,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+736,2016-12-01,Terminal 5,New York,NY,Kip Moore (headliner),True
+737,2016-12-05,The Town Hall,New York,NY,"Steve Earle (festival_performer), Friends (festival_performer)",True
+738,2017-01-14,Paramount Theatre,Asbury Park,NJ,Light of Day (headliner),False
+739,2017-01-20,Madison Square Garden,New York,NY,Kings of Leon (headliner),True
+74,1998-10-17,Madison Square Garden,New York,NY,Elton John (headliner),True
+740,2017-01-25,Ridgefield Playhouse,Ridgefield,CT,"John Hiatt (festival_performer), Lyle Lovett (festival_performer)",False
+741,2017-01-27,Barclays Center,Brooklyn,NY,Eric Church (headliner),True
+742,2017-01-29,Daryl's House,Pawling,NY,Will Hoge (headliner),False
+743,2016-02-15,Capitol Theatre,Port Chester,NY,John Fogerty (headliner),False
+744,2017-02-16,Apollo Theater,New York,NY,Ryan Adams (headliner),True
+745,2017-02-22,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+746,2017-03-03,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+747,2017-03-11,MVP Arena,Albany,NY,Garth Brooks (headliner),False
+748,2017-03-15,Barclays Center,Brooklyn,NY,Green Day (headliner),True
+749,2017-03-19,Madison Square Garden,New York,NY,Eric Clapton (headliner),True
+75,1998-11-23,Madison Square Garden,New York,NY,KISS (headliner),True
+750,2017-04-05,Nassau Coliseum,Uniondale,NY,Billy Joel (headliner),True
+751,2017-04-07,Barclays Center,Brooklyn,NY,Rock Hall of Fame (headliner),False
+752,2017-04-15,Madison Square Garden,New York,NY,Bon Jovi (headliner),True
+753,2017-04-28,Beacon Theatre,New York,NY,Bruce Springsteen In Conversation (headliner),False
+754,2017-05-03,Daryl's House,Pawling,NY,Garry Tallent (headliner),False
+755,2017-05-12,Capitol Theatre,Port Chester,NY,Avett Brothers (headliner),True
+756,2017-05-17,Nassau Coliseum,Uniondale,NY,Metallica (headliner),True
+757,2017-06-08,Beacon Theatre,New York,NY,Jerry Seinfeld (headliner),False
+758,2017-06-15,Capitol Theatre,Port Chester,NY,Bob Dylan (headliner),True
+759,2017-06-16,Prudential Center,Newark,NJ,"Tom Petty (festival_performer), Heartbreakers (festival_performer)",True
+76,1998-11-27,Nassau Coliseum,Uniondale,NY,KISS (headliner),True
+760,2017-06-17,Madison Square Garden,New York,NY,Neil Diamond (headliner),True
+761,2017-06-21,NYCB Theatre at Westbury,Westbury,NY,Huey Lewis  The News (headliner),True
+762,2017-06-24,Citi Field,Queens,NY,Dead and Company (headliner),False
+763,2017-06-28,MetLife Stadium,East Rutherford,NJ,U2 (headliner),True
+764,2017-07-01,Phildelphia,Philadelphia,PA,"Tom Petty (festival_performer), Heartbreakers (festival_performer)",True
+765,2017-07-05,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+766,2017-07-11,Forest Hills Stadium,Forest Hills,NY,John Mellencamp (headliner),True
+767,2017-07-15,Xfinity Theatre,Hartford,CT,Chris Stapleton (headliner),True
+768,2017-07-26,Forest Hills Stadium,Forest Hills,NY,"Tom Petty (festival_performer), Heartbreakers (festival_performer)",True
+769,2017-07-27,Forest Hills Stadium,Forest Hills,NY,"Tom Petty (festival_performer), Heartbreakers (festival_performer)",True
+77,1998-12-05,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+770,2017-07-28,Barclays Center,Brooklyn,NY,"Queen (festival_performer), Adam Lambert (festival_performer)",True
+771,2017-07-29,Citi Field,Queens,NY,"Classic East: Eagles (festival_performer), Steely Dan (festival_performer), Doobies (festival_performer)",True
+772,2017-07-30,Citi Field,Queens,NY,"Classic East: Fleetwood Mac (festival_performer), EWF (festival_performer), Journey (festival_performer)",True
+773,2017-08-03,Jones Beach Theater,Wantagh,NY,Brad Paisley (headliner),True
+774,2017-08-09,Capitol Theatre,Port Chester,NY,Lyle Lovett (headliner),True
+775,2017-08-10,Beacon Theatre,New York,NY,Buckingham/McVie (headliner),True
+776,2017-08-11,Mohegan Sun Arena,Uncasville,CT,Kenny Chesney (headliner),True
+777,2017-08-15,Jones Beach Theater,Wantagh,NY,Jimmy Buffett (headliner),True
+778,2017-08-21,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+779,2017-08-25,Today Show Plaza at Rockefeller Center,New York,NY,Jason Aldean (headliner),False
+78,1999-02-22,Madison Square Garden,New York,NY,"Jimmy Buffett (festival_performer), Coral Reefer Band (festival_performer)",False
+780,2017-08-26,Gillette Stadium,Foxborough,MA,"Kenny Chesney (festival_performer), Thomas Rhett (festival_performer), Old Dominion (festival_performer)",True
+781,2017-08-28,Citi Field,Queens,NY,Lady Gaga (headliner),True
+782,2017-09-08,Madison Square Garden,New York,NY,Eric Clapton (headliner),False
+783,2017-09-09,Metropolitan Opera House,New York,NY,Pete Townshend / Quadrophenia (headliner),False
+784,2017-09-14,Radio City Music Hall,New York,NY,Sturgill Simpson (headliner),True
+785,2017-09-15,Madison Square Garden,New York,NY,Paul McCartney (headliner),True
+786,2017-09-16,Nassau Coliseum,Uniondale,NY,Roger Waters (headliner),True
+787,2017-09-17,Madison Square Garden,New York,NY,Paul McCartney (headliner),True
+788,2017-09-19,Barclays Center,Brooklyn,NY,Paul McCartney (headliner),True
+789,2017-09-22,Highline Ballroom,New York,NY,Will Hoge (headliner),False
+79,1999-02-28,Beacon Theatre,New York,NY,Black Crowes (headliner),True
+790,2017-09-23,Beacon Theatre,New York,NY,Joe Bonamassa (headliner),True
+791,2017-09-25,Gramercy Theater,New York,NY,"Little Steven (festival_performer), Disciples of Soul (festival_performer)",True
+792,2017-10-10,City Winery,New York,NY,Willie Nile (headliner),False
+793,2017-10-11,Madison Square Garden,New York,NY,"Guns (festival_performer), Roses (festival_performer)",True
+794,2017-10-12,Prudential Center,Newark,NJ,"Guns (festival_performer), Roses (festival_performer)",True
+795,2017-10-13,Walter Kerr Theatre,New York,NY,Bruce Springsteen (headliner),True
+796,2017-10-20,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+797,2017-11-12,Beacon Theatre,New York,NY,"John Hiatt (festival_performer), Lyle Lovett (festival_performer)",True
+798,2017-11-14,Madison Square Garden,New York,NY,Dead and Company (headliner),True
+799,2017-11-15,Beacon Theatre,New York,NY,"Ringo Starr (festival_performer), All Starr Band (festival_performer)",True
+8,1995-03-16,Beacon Theatre,New York,NY,"Joe Cocker (headliner), Keb' Mo (opener)",False
+80,1999-03-14,Universal Studios Florida,Orlando,FL,"Creedence Clearwater Revisited (Doug Clifford (festival_performer), Stu Cook) (festival_performer)",False
+800,2017-11-16,Walter Kerr Theatre,New York,NY,Bruce Springsteen (headliner),True
+801,2017-11-21,Beacon Theatre,New York,NY,"Bob Dylan (headliner), Mavis Staples (opener)",True
+802,2017-12-01,Prudential Center,Newark,NJ,Garth Brooks w. Trisha Yearwood (headliner),True
+803,2017-12-02,Prudential Center,Newark,NJ,Garth Brooks w. Trisha Yearwood (headliner),True
+804,2017-12-07,Nassau Coliseum,Uniondale,NY,Barry Manilow (headliner),True
+805,2017-12-14,The Town Hall,New York,NY,Kip Moore with Wade Bowen and Randy Rogers (headliner),False
+806,2017-12-20,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+807,2017-12-30,Daryl's House,Pawling,NY,Willie Nile (headliner),True
+808,2018-01-09,Barclays Center,Brooklyn,NY,The Killers (headliner),True
+809,2018-01-18,Walter Kerr Theatre,New York,NY,Bruce Springsteen (headliner),True
+81,1999-03-19,Beacon Theatre,New York,NY,Allman Brothers Band (headliner),True
+810,2018-01-26,Opry City Stage,New York,NY,Vince Gill (headliner),False
+811,2018-01-30,The Theater at Madison Square Garden,New York,NY,Elton John Tribute (headliner),False
+812,2018-02-13,Palladium Times Square,New York,NY,"All for Hall: Vince Gill (festival_performer), Maren Morris (festival_performer), Emmylou (festival_performer), Kesha (festival_performer)",True
+813,2018-02-21,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+814,2018-02-25,Capitol Theatre,Port Chester,NY,Blues Traveler (headliner),True
+815,2018-03-01,Tarrytown Music Hall,Tarrytown,NY,Weird Al Yankovic (headliner),True
+816,2018-03-02,Radio City Music Hall,New York,NY,"Bobby (festival_performer), Phil (festival_performer)",False
+817,2018-03-03,Radio City Music Hall,New York,NY,"Bobby (festival_performer), Phil (festival_performer)",True
+818,2018-03-11,Paramount,Huntington,NY,"Lyle Lovett (festival_performer), Shawn Colvin (festival_performer)",False
+819,2018-03-17,Paramount,Huntington,NY,Weird Al Yankovic (headliner),True
+82,1999-04-11,Irving Plaza,New York,NY,"Tom Petty & the Heartbreakers (headliner), Blind Boys from Alabama (opener)",True
+820,2018-04-13,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+821,2018-04-15,Paramount Hudson Valley Theater,Peekskill,NY,"Steve Earle (festival_performer), The Dukes with The Mastersons (festival_performer)",True
+822,2018-04-16,City Winery,New York,NY,Ryan Bingham (Acoustic) (headliner),False
+823,2018-04-17,Capitol Theatre,Port Chester,NY,As the Crow Flies (Chris Robinson) (headliner),True
+824,2018-04-27,Capitol Theatre,Port Chester,NY,Govt Mule (headliner),True
+825,2018-05-02,Palladium Times Square,New York,NY,Little Steven (headliner),True
+826,2018-05-09,Madison Square Garden,New York,NY,Bon Jovi (headliner),True
+827,2018-05-10,Madison Square Garden,New York,NY,Bon Jovi (headliner),True
+828,2018-05-18,Walter Kerr Theatre,New York,NY,Bruce Springsteen (headliner),True
+829,2018-05-23,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+83,1999-04-15,Irving Plaza,New York,NY,"Tom Petty & the Heartbreakers (headliner), Bo Diddley (opener)",True
+830,2018-06-02,MetLife Stadium,East Rutherford,NJ,Luke Bryan (headliner),True
+831,2018-06-09,Lincoln Financial Field,Philadelphia,PA,"Kenny Chesney (festival_performer), Thomas Rhett (festival_performer), Old Dominion (festival_performer)",True
+832,2018-06-12,Today Show Plaza,New York,NY,Dierks Bentley (headliner),False
+833,2018-06-15,Citi Field,Queens,NY,Dead and Company (headliner),False
+834,2018-06-16,Citi Field,Queens,NY,Dead and Company (headliner),True
+835,2018-06-25,Madison Square Garden,New York,NY,U2 (headliner),True
+836,2018-06-26,Madison Square Garden,New York,NY,U2 (headliner),True
+837,2018-06-27,Radio City Music Hall,New York,NY,Steve Miller Band/Peter Frampton (headliner),False
+838,2018-06-29,Prudential Center,Newark,NJ,U2 (headliner),True
+839,2018-07-01,Madison Square Garden,New York,NY,U2 (headliner),True
+84,1999-04-20,Izod Center,East Rutherford,NJ,Billy Joel (headliner),True
+840,2018-07-12,Jones Beach Theater,Wantagh,NY,"Govt Mule (festival_performer), Avetts (festival_performer)",True
+841,2018-07-13,Tanner Park,Copiague,NY,Max Weinberg (headliner),False
+842,2018-07-14,Jones Beach Theater,Wantagh,NY,Foo Fighters (headliner),True
+843,2018-07-18,Madison Square Garden,New York,NY,Billy Joel (with Bruce Springsteen) (headliner),True
+844,2018-07-29,Citi Field,Queens,NY,Zac Brown Band (headliner),True
+845,2018-08-02,Today Show Plaza,New York,NY,Keith Urban (headliner),True
+846,2018-08-02,Jones Beach Theater,Wantagh,NY,Jimmy Buffett (headliner),True
+847,2018-08-07,Madison Square Garden,New York,NY,Rod Stewart/Cyndi Lauper (headliner),False
+848,2018-08-10,Jones Beach Theater,Wantagh,NY,"Brad Paisley (headliner), Tyminski and Kane Brown (opener)",True
+849,2018-08-11,Madison Square Garden,New York,NY,"Jason Aldean (festival_performer), Luke Combs (festival_performer), Lauren Alaina (festival_performer)",True
+85,1999-05-26,Giants Stadium,East Rutherford,NJ,"Dave Matthews Band (festival_performer), Santana (festival_performer)",True
+850,2018-08-14,Jones Beach Theater,Wantagh,NY,"Jeff Beck (festival_performer), Paul Rodgers (festival_performer), Ann Wilson (festival_performer)",True
+851,2018-08-15,Today Show Plaza at Rockefeller Center,New York,NY,Aerosmith (headliner),True
+852,2018-08-17,Ford Amphitheater at Coney Island,Brooklyn,NY,The Beach Boys (headliner),True
+853,2018-08-18,MetLife Stadium,East Rutherford,NJ,"Kenny Chesney (festival_performer), Thomas Rhett (festival_performer)",True
+854,2018-08-21,Madison Square Garden,New York,NY,ELO (headliner),True
+855,2018-08-23,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+856,2018-08-25,Walter Kerr Theatre,New York,NY,Bruce Springsteen (headliner),True
+857,2018-08-29,Sony Hall,New York,NY,Glenn Hughes (headliner),True
+858,2018-09-02,Fenway Park,Boston,MA,Pearl Jam (headliner),True
+859,2018-09-08,Madison Square Garden,New York,NY,"Dierks Bentley (festival_performer), Brothers Osborne (festival_performer)",True
+86,1999-06-30,PNC Bank Arts Center,Holmdel,NJ,Tom Petty & the Heartbreakers (headliner),True
+860,2018-09-13,Radio City Music Hall,New York,NY,"Ringo Starr (festival_performer), All Starr Band (festival_performer)",True
+861,2018-09-16,Capitol Theatre,Port Chester,NY,Amos Lee (headliner),True
+862,2018-09-19,Capitol Theatre,Port Chester,NY,Chicago (headliner),True
+863,2018-09-20,Madison Square Garden,New York,NY,Paul Simon (headliner),True
+864,2018-09-21,Hammerstein Ballroom,New York,NY,Kip Moore (headliner),True
+865,2018-09-22,Fairfield Stage One,Fairfield,CT,Will Hoge (headliner),False
+866,2018-09-23,City Winery,New York,NY,Will Hoge (headliner),True
+867,2018-09-29,Walter Kerr Theatre,New York,NY,Bruce Springsteen (headliner),True
+868,2018-09-30,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+869,2018-10-03,City Winery,New York,NY,Willie Nile (headliner),True
+87,1999-07-03,Jones Beach Theater,Wantagh,NY,Tom Petty & the Heartbreakers (headliner),True
+870,2018-10-07,Madison Square Garden,New York,NY,Eric Clapton (headliner),True
+871,2018-10-09,Nassau Coliseum,Uniondale,NY,Elton John (headliner),True
+872,2018-10-12,Prudential Center,Newark,NJ,The Eagles (headliner),True
+873,2018-10-13,Prudential Center,Newark,NJ,Phil Collins (headliner),True
+874,2018-10-19,Madison Square Garden,New York,NY,Elton John (headliner),True
+875,2018-10-25,Capitol Theatre,Port Chester,NY,Avett Brothers (headliner),True
+876,2018-10-27,Barclays Center,Brooklyn,NY,Keith Urban (headliner),True
+877,2018-10-29,City Winery,New York,NY,John Hiatt (headliner),True
+878,2018-10-31,City Winery,New York,NY,John Hiatt (headliner),True
+879,2018-11-02,Madison Square Garden,New York,NY,Chris Stapleton (headliner),True
+88,1999-07-15,Izod Center,East Rutherford,NJ,Bruce Springsteen & the E Street Band (headliner),False
+880,2018-11-05,The Theater at Madison Square Garden,New York,NY,Springsteen: Stand Up for Heroes (with Eric Church) (headliner),False
+881,2018-11-09,Madison Square Garden,New York,NY,Elton John (headliner),True
+882,2018-11-10,Capitol Theatre,Port Chester,NY,"Bob Weir (festival_performer), Wolf Brothers (festival_performer)",True
+883,2018-11-18,Beacon Theatre,New York,NY,"Bob Weir (festival_performer), Wolf Brothers (festival_performer)",True
+884,2018-11-26,Beacon Theatre,New York,NY,Bob Dylan (headliner),True
+885,2018-11-29,Madison Square Garden,New York,NY,Dave Matthews Band (headliner),True
+886,2018-12-05,NYCB Theatre at Westbury,Westbury,NY,Brian Wilson (headliner),True
+887,2018-12-06,Peekskill Paramount,Peekskill,NY,Lindsey Buckingham (headliner),True
+888,2018-12-11,Madison Square Garden,New York,NY,Mumford & Sons (festival_performer),True
+889,2018-12-15,Walter Kerr Theatre,New York,NY,Bruce Springsteen (headliner),True
+89,1999-07-24,Izod Center,East Rutherford,NJ,Bruce Springsteen & the E Street Band (headliner),False
+890,2019-12-19,Madison Square Garden,New York,NY,Billy Joel (headliner),False
+891,2018-12-30,Capitol Theatre,Port Chester,NY,As the Crow Flies (Chris Robinson) (headliner),True
+892,2018-12-31,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+893,2019-01-23,Terminal 5,New York,NY,Brothers Osbourne (headliner),False
+894,2019-02-06,Capitol Theatre,Port Chester,NY,Dawes (headliner),True
+895,2019-02-14,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+896,2019-02-22,Tarrytown Music Hall,Tarrytown,NY,"John Hiatt (festival_performer), Lyle Lovett (festival_performer)",True
+897,2019-02-26,Beacon Theatre,New York,NY,John Mellencamp (headliner),True
+898,2019-03-02,Oakdale Theatre,Wallingford,CT,"Bob Weir (festival_performer), Wolf Brothers (festival_performer)",True
+899,2019-03-08,Barclays Center,Brooklyn,NY,Elton John (headliner),True
+9,1995-06-23,Madison Square Garden,New York,NY,"REM (headliner), Luscious Jackson (opener)",True
+90,1999-07-18,Cape Cod Melody Tent,Hyannis,MA,Willie Nelson (headliner),False
+900,2019-03-11,Madison Square Garden,New York,NY,Fleetwood Mac (headliner),True
+901,2019-03-22,Nassau Coliseum,Uniondale,NY,KISS (headliner),True
+902,2019-03-23,NYCB Theatre at Westbury,Westbury,NY,Joe Bonamassa (headliner),True
+903,2019-03-27,Madison Square Garden,New York,NY,KISS (headliner),True
+904,2019-03-29,Barclays Center,Brooklyn,NY,"Rock (festival_performer), Roll Hall Induction 2019 (festival_performer)",True
+905,2019-04-05,Hard Rock Hotel New York,New York,NY,OAR (headliner),False
+906,2019-04-05,Capitol Theatre,Port Chester,NY,The Record Company (headliner),True
+907,2019-04-11,Capitol Theatre,Port Chester,NY,Melissa Etheridge (headliner),False
+908,2019-04-12,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+909,2019-04-13,Tarrytown Music Hall,Tarrytown,NY,Roger McGuinn (headliner),True
+91,1999-07-19,Mill Hill Club,West Yarmouth,MA,John Valby (headliner),False
+910,2019-04-23,Brooklyn Steel,Brooklyn,NY,Ryan Bingham (headliner),False
+911,2019-04-30,City Winery,New York,NY,John Hiatt (headliner),True
+912,2019-05-09,Ridgefield Playhouse,Ridgefield,CT,Kip Moore (headliner),True
+913,2019-05-11,Outpost in the Burbs,Montclair,NJ,Richard Thompson (headliner),True
+914,2019-05-13,Madison Square Garden,New York,NY,The Who (headliner),True
+915,2019-05-30,Jones Beach Theater,Wantagh,NY,Bob Seger (headliner),True
+916,2019-06-11,Beacon Theatre,New York,NY,Tim McGraw (w. John Meachum) (headliner),False
+917,2019-06-20,Westchester County Center,White Plains,NY,"YES (festival_performer), Asia (festival_performer), John Lodge (festival_performer), Carl Palmer (festival_performer)",True
+918,2019-06-23,Citi Field,Queens,NY,Dead and Company (headliner),True
+919,2019-06-26,Beacon Theatre,New York,NY,Jackson Browne (headliner),True
+92,1999-07-27,Madison Square Garden,New York,NY,"Paul Simon (festival_performer), Bob Dylan (festival_performer)",True
+920,2019-07-01,City Winery,New York,NY,Richard Thompson (headliner),True
+921,2019-07-16,Prudential Center,Newark,NJ,ELO (headliner),True
+922,2019-07-17,Radio City Music Hall,New York,NY,Lionel Richie (headliner),False
+923,2019-07-19,Foxwoods Resort Casino,Mashantucket,CT,Weird Al Yankovic (headliner),True
+924,2019-07-26,Fort Adams State Park,Newport,RI,"Sheryl Crow (festival_performer), Phil Lesh (festival_performer)",True
+925,2019-07-31,Ridgefield Playhouse,Ridgefield,CT,"Lyle Lovett (festival_performer), His Big Band (festival_performer)",False
+926,2019-08-01,MetLife Stadium,East Rutherford,NJ,The Rolling Stones (headliner),True
+927,2019-08-02,Jones Beach Theater,Wantagh,NY,Dierks Bentley (headliner),True
+928,2019-08-05,MetLife Stadium,East Rutherford,NJ,The Rolling Stones (headliner),True
+929,2019-08-06,Madison Square Garden,New York,NY,Queen + Adam Lambert (headliner),True
+93,1999-08-07,Jones Beach Theater,Wantagh,NY,Roger Waters (headliner),True
+930,2019-08-08,Jones Beach Theater,Wantagh,NY,Jimmy Buffett (headliner),True
+931,2019-08-11,Madison Square Garden,New York,NY,"Hootie (festival_performer), Blowfish/BNL (festival_performer)",True
+932,2019-08-13,Stubb's Bar-B-Q,Austin,TX,Govt Mule (headliner),True
+933,2019-08-15,Radio City Music Hall,New York,NY,John Fogerty (headliner),True
+934,2019-08-16,Broadway Theatre,New York,NY,Barry Manilow (headliner),False
+935,2019-08-17,Bald Hill Amphitheater,Farmingville,NY,Ringo Starr & His All Sarr Band (headliner),False
+936,2019-08-20,Barclays Center,Brooklyn,NY,KISS (headliner),True
+937,2019-08-23,Jones Beach Theater,Wantagh,NY,Zac Brown Band (headliner),True
+938,2019-08-29,Xfinity Center,Mansfield,MA,Brad Paisely (headliner),False
+939,2019-09-01,Madison Square Garden,New York,NY,The Who (w. Orchestra) (headliner),True
+94,1999-08-08,The Meadowlands,East Rutherford,NJ,Dave Matthews Band (headliner),True
+940,2019-09-06,Jones Beach Theater,Wantagh,NY,Jason Aldean (headliner),True
+941,2019-09-13,Jones Beach Theater,Wantagh,NY,Peter Frampton (headliner),True
+942,2019-09-15,NYCB Theatre at Westbury,Westbury,NY,Travis Tritt (headliner),False
+943,2019-09-20,Minetta Lane Theatre,New York,NY,Tom Morello (headliner),True
+944,2019-09-25,Madison Square Garden,New York,NY,"Mark Knopfler (festival_performer), Bonnie Raitt (festival_performer)",True
+945,2019-09-27,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+946,2019-10-03,Great South Bay Music Festival,Oakdale,NY,Avett Brothers (headliner),True
+947,2019-10-06,Madison Square Garden,New York,NY,Phil Collins (headliner),True
+948,2019-10-07,Madison Square Garden,New York,NY,Phil Collins (headliner),True
+949,2019-10-19,Mayo Performing Arts Center,Morristown,NJ,Kip Moore (headliner),True
+95,1999-10-08,Izod Center,East Rutherford,NJ,"Lynyrd Skynyrd (festival_performer), ZZ Top (festival_performer)",False
+950,2019-10-22,City Winery,New York,NY,Will Hoge w. Elizabeth Cook (headliner),False
+951,2019-10-23,Daryl's House,Pawling,NY,Will Hoge w. Elizabeth Cook (headliner),False
+952,2019-10-30,Madison Square Garden,New York,NY,Bob Seger & the Silver Bullet Band (headliner),True
+953,2019-10-31,Madison Square Garden,New York,NY,Dead and Company (headliner),True
+954,2019-11-01,Beacon Theatre,New York,NY,Blues Traveler (headliner),True
+955,2019-11-02,XL Center,Hartford,CT,Eric Church (headliner),True
+956,2019-11-04,The Theater at Madison Square Garden,New York,NY,Bruce Springsteen/Crow: Stand Up for Heroes (headliner),False
+957,2019-11-05,Nassau Coliseum,Uniondale,NY,Dead and Company (headliner),True
+958,2019-11-06,Beacon Theatre,New York,NY,Little Steven (Peter Wolf) (headliner),False
+959,2019-11-09,Terminal 5,New York,NY,Dwight Yoakam (headliner),True
+96,1999-11-10,New Haven Coliseum,New Haven,CT,"Bob Dylan and Phil Lesh (festival_performer), Friends (festival_performer)",True
+960,2019-11-15,Beacon Theatre,New York,NY,Joe Bonamassa (headliner),True
+961,2019-11-16,Nassau Coliseum,Uniondale,NY,Elton John (headliner),True
+962,2019-11-17,Mohegan Sun Arena,Uncasville,CT,Keith Urban (headliner),True
+963,2019-11-23,Westchester County Center,White Plains,NY,Doobie Brothers (Peter Wolf) (headliner),False
+964,2019-12-03,Beacon Theatre,New York,NY,Bob Dylan (headliner),True
+965,2019-12-07,Caramoor Center for Music and the Arts,Katonah,NY,John Hiatt (headliner),False
+966,2019-12-11,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+967,2019-12-19,Madison Square Garden,New York,NY,Andrea Bocelli (headliner),False
+968,2020-02-08,Symphony Space,New York,NY,Richard Thompson (headliner),True
+969,2020-02-15,Madison Square Garden,New York,NY,The Eagles (headliner),False
+97,1999-12-31,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+970,2020-02-16,Capitol Theatre,Port Chester,NY,Thrill is Gone Concert (festival_performer),False
+971,2020-03-05,Tarrytown Music Hall,Tarrytown,NY,Graham Nash (headliner),False
+972,2020-03-10,Madison Square Garden,New York,NY,The Brothers (headliner),True
+973,2021-06-30,St. James Theatre,New York,NY,Bruce Springsteen (headliner),True
+974,2021-07-13,Ridgefield Playhouse,Ridgefield,CT,Tedeschi Trucks Band (headliner),True
+975,2021-07-16,St. James Theatre,New York,NY,Bruce Springsteen (headliner),True
+976,2021-07-25,Xfinity Center,Mansfield,MA,Black Crowes (headliner),True
+977,2021-08-05,MetLife Stadium,East Rutherford,NJ,"Guns (festival_performer), Roses (festival_performer)",True
+978,2021-08-07,Jones Beach Theater,Wantagh,NY,Jason Aldean (headliner),True
+979,2021-08-10,Jones Beach Theater,Wantagh,NY,Jimmy Buffett (headliner),True
+98,2000-03-11,"Ice Arena Tampa, FL",Tampa Bay,FL,"Crosby (festival_performer), Stills (festival_performer), Nash & Young (festival_performer)",True
+980,2021-08-13,Jones Beach Theater,Wantagh,NY,Luke Bryan (headliner),True
+981,2021-08-17,Hartford HealthCare Amphitheater,Bridgeport,CT,Kings of Leon (headliner),True
+982,2021-08-20,Citi Field,Queens,NY,Dead and Company (headliner),True
+983,2021-09-02,Jones Beach Theater,Wantagh,NY,Zac Brown Band (headliner),True
+984,2021-09-03,Jones Beach Theater,Wantagh,NY,Zac Brown Band (headliner),True
+985,2021-09-14,Capitol Theatre,Port Chester,NY,Sheryl Crow (headliner),True
+986,2021-09-16,The Town Hall,New York,NY,Lindsey Buckingham (headliner),True
+987,2021-09-17,Hartford HealthCare Amphitheater,Bridgeport,CT,Foo Fighters (headliner),True
+988,2021-09-18,Asbury Park Beach,Asbury Park,NJ,"Sea Hear Now (Pearl Jam (festival_performer), Avetts (festival_performer), Patti Smith) (festival_performer)",True
+989,2021-09-19,Asbury Park Beach,Asbury Park,NJ,"Sea Hear Now (Smashing Pumpkins (festival_performer), Billy Idol (festival_performer), Orville Peck) (festival_performer)",True
+99,,Beacon Theatre,New York,NY,Allman Brothers Band (headliner),True
+990,2021-09-21,Ridgefield Playhouse,Ridgefield,CT,John Hiatt + Jerry Douglas Band (headliner),False
+991,2021-10-05,The Town Hall,New York,NY,Foo Fighters:  Dave Grohl: Storyteller (headliner),False
+992,2021-10-06,Capitol Theatre,Port Chester,NY,Brian Wilson (headliner),True
+993,2021-10-08,Madison Square Garden,New York,NY,"Chris Stapleton (headliner), Marcus King Band (opener)",True
+994,2021-10-11,Capitol Theatre,Port Chester,NY,"DEAD: Phil Lesh + Friends (w. Warren Haynes (festival_performer), Q) (festival_performer)",False
+995,2021-10-20,Daryl's House,Pawling,NY,Will Hoge (headliner),True
+996,2021-11-05,Madison Square Garden,New York,NY,Billy Joel (headliner),True
+997,2021-11-06,Capitol Theatre,Port Chester,NY,"Nathaniel Rateliffe (festival_performer), Night Sweats (festival_performer)",True
+998,2021-11-13,Ridgefield Playhouse,Ridgefield,CT,The Wallflowers (headliner),True
+999,2021-11-19,Capitol Theatre,Port Chester,NY,Jason Isbell + 400 Unit (headliner),True

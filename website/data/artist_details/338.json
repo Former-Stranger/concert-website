@@ -2,48 +2,7 @@
   "id": "338",
   "name": "Lauren Alaina",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Beer Never Broke My Heart",
-      "times_played": 1
-    },
-    {
-      "name": "She Got the Best of Me",
-      "times_played": 1
-    },
-    {
-      "name": "Houston, We Got a Problem",
-      "times_played": 1
-    },
-    {
-      "name": "Honky Tonk Highway",
-      "times_played": 1
-    },
-    {
-      "name": "When It Rains It Pours",
-      "times_played": 1
-    },
-    {
-      "name": "Beautiful Crazy",
-      "times_played": 1
-    },
-    {
-      "name": "Take It Easy / Should've Been a Cowboy / Chasin' That Neon Rainbow",
-      "times_played": 1
-    },
-    {
-      "name": "One Number Away",
-      "times_played": 1
-    },
-    {
-      "name": "Let the Moonshine",
-      "times_played": 1
-    },
-    {
-      "name": "Hurricane",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "849",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "JA: Getting Warmed Up      LC: Beer Never Broke",
-      "closing_song": "JA: Crazy Town      LC: Hurricane"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

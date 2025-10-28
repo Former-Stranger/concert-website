@@ -13,8 +13,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "The Last Dj",
-      "closing_song": "American Girl"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "136",
@@ -25,8 +25,8 @@
       "city": "Wantagh",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "TP: Running Down a Dream\nJB: Nobody Knows",
-      "closing_song": "TP: American Girl\nJB: Dr. My Eyes"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "135",
@@ -37,8 +37,8 @@
       "city": "Holmdel",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "TP: Running Down a Dream\nJB: Nobody Knows",
-      "closing_song": "TP: American Girl\nJB: Dr. My Eyes"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

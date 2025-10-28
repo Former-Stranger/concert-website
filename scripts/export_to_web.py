@@ -68,9 +68,7 @@ def export_to_json(output_dir):
             'city': data.get('city', ''),
             'state': data.get('state', ''),
             'artists': artist_names,
-            'hasSetlist': data.get('has_setlist', False),
-            'openingSong': data.get('opening_song'),
-            'closingSong': data.get('closing_song')
+            'hasSetlist': data.get('has_setlist', False)
         })
 
     with open(output_dir / 'concerts.json', 'w') as f:
@@ -82,40 +80,28 @@ def export_to_json(output_dir):
     details_dir = output_dir / 'concert_details'
     details_dir.mkdir(exist_ok=True)
 
-    # Get all setlists
+    # Get all setlists and group by concert_id
     setlists_ref = db.collection('setlists')
     setlists_docs = setlists_ref.stream()
 
-    concerts_with_setlists = 0
+    # Group setlists by concert_id
+    setlists_by_concert = defaultdict(list)
     for setlist_doc in setlists_docs:
         setlist_data = setlist_doc.to_dict()
         concert_id = setlist_data.get('concert_id')
 
-        if not concert_id or concert_id not in all_concerts_data:
-            continue
+        if concert_id and concert_id in all_concerts_data:
+            songs = setlist_data.get('songs', [])
+            if songs:  # Only include setlists with songs
+                setlists_by_concert[concert_id].append(setlist_data)
 
+    concerts_with_setlists = 0
+    for concert_id, setlist_list in setlists_by_concert.items():
         concert_data = all_concerts_data[concert_id]
-
-        # Skip if no songs
-        songs = setlist_data.get('songs', [])
-        if not songs:
-            continue
 
         # Get artists for this concert
         artists = [{'name': a.get('artist_name', ''), 'role': a.get('role', '')}
                    for a in concert_data.get('artists', [])]
-
-        # Format songs
-        formatted_songs = []
-        for song in songs:
-            formatted_songs.append({
-                'position': song.get('position', 0),
-                'name': song.get('name', ''),
-                'set_name': song.get('set_name', ''),
-                'encore': song.get('encore', 0),
-                'is_cover': song.get('is_cover', False),
-                'cover_artist': song.get('cover_artist')
-            })
 
         # Get photos for this concert
         photos_query = db.collection('concert_photos').where('concert_id', '==', concert_id).order_by('uploaded_at', direction=firestore.Query.DESCENDING)
@@ -147,13 +133,91 @@ def export_to_json(output_dir):
             'city': concert_data.get('city', ''),
             'state': concert_data.get('state', ''),
             'artists': artists,
-            'setlistfm_url': setlist_data.get('setlistfm_url'),
-            'song_count': setlist_data.get('song_count', 0),
-            'has_encore': setlist_data.get('has_encore', False),
-            'songs': formatted_songs,
             'photos': photos,
             'photo_count': len(photos)
         }
+
+        # Handle single vs multiple setlists
+        if len(setlist_list) == 1:
+            # Single setlist (backward compatible format)
+            setlist_data = setlist_list[0]
+            formatted_songs = []
+            for song in setlist_data.get('songs', []):
+                song_obj = {
+                    'position': song.get('position', 0),
+                    'name': song.get('name', ''),
+                    'set_name': song.get('set_name', ''),
+                    'encore': song.get('encore', 0),
+                    'is_cover': song.get('is_cover', False),
+                    'cover_artist': song.get('cover_artist')
+                }
+                # Add guest artist if present
+                if song.get('guest_artist'):
+                    song_obj['guest_artist'] = song.get('guest_artist')
+                formatted_songs.append(song_obj)
+
+            concert_detail.update({
+                'setlistfm_url': setlist_data.get('setlistfm_url'),
+                'song_count': setlist_data.get('song_count', 0),
+                'has_encore': setlist_data.get('has_encore', False),
+                'songs': formatted_songs
+            })
+
+            # Add tour name if present
+            if setlist_data.get('tour_name'):
+                concert_detail['tour_name'] = setlist_data.get('tour_name')
+        else:
+            # Multiple setlists (co-headliners)
+            formatted_setlists = []
+            total_song_count = 0
+            has_any_encore = False
+            tour_names = set()
+
+            for setlist_data in setlist_list:
+                formatted_songs = []
+                for song in setlist_data.get('songs', []):
+                    song_obj = {
+                        'position': song.get('position', 0),
+                        'name': song.get('name', ''),
+                        'set_name': song.get('set_name', ''),
+                        'encore': song.get('encore', 0),
+                        'is_cover': song.get('is_cover', False),
+                        'cover_artist': song.get('cover_artist')
+                    }
+                    # Add guest artist if present
+                    if song.get('guest_artist'):
+                        song_obj['guest_artist'] = song.get('guest_artist')
+                    formatted_songs.append(song_obj)
+
+                setlist_obj = {
+                    'artist_id': setlist_data.get('artist_id'),
+                    'artist_name': setlist_data.get('artist_name'),
+                    'setlistfm_url': setlist_data.get('setlistfm_url'),
+                    'song_count': setlist_data.get('song_count', 0),
+                    'has_encore': setlist_data.get('has_encore', False),
+                    'songs': formatted_songs
+                }
+
+                # Add tour name to setlist if present
+                if setlist_data.get('tour_name'):
+                    setlist_obj['tour_name'] = setlist_data.get('tour_name')
+                    tour_names.add(setlist_data.get('tour_name'))
+
+                formatted_setlists.append(setlist_obj)
+
+                total_song_count += setlist_data.get('song_count', 0)
+                if setlist_data.get('has_encore', False):
+                    has_any_encore = True
+
+            concert_detail.update({
+                'setlists': formatted_setlists,
+                'total_song_count': total_song_count,
+                'has_encore': has_any_encore
+            })
+
+            # Add tour name if all setlists have the same tour
+            if len(tour_names) == 1:
+                concert_detail['tour_name'] = list(tour_names)[0]
 
         with open(details_dir / f'{concert_id}.json', 'w') as f:
             json.dump(concert_detail, f, indent=2)

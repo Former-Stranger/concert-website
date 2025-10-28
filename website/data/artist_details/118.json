@@ -2,48 +2,7 @@
   "id": "118",
   "name": "Chris Martin",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Who Are You",
-      "times_played": 1
-    },
-    {
-      "name": "Bell Boy",
-      "times_played": 1
-    },
-    {
-      "name": "Pinball Wizard",
-      "times_played": 1
-    },
-    {
-      "name": "See Me, Feel Me",
-      "times_played": 1
-    },
-    {
-      "name": "Baba O'Riley",
-      "times_played": 1
-    },
-    {
-      "name": "Love, Reign O'er Me",
-      "times_played": 1
-    },
-    {
-      "name": "Tea & Theatre",
-      "times_played": 1
-    },
-    {
-      "name": "Power",
-      "times_played": 1
-    },
-    {
-      "name": "Jesus Walks",
-      "times_played": 1
-    },
-    {
-      "name": "Black Skinhead",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "609",
@@ -53,9 +12,9 @@
       "venue": "Times Square",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Bruce: Where the Streets",
-      "closing_song": "Bruce: Still Haven't Found"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "530",
@@ -65,9 +24,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Bruce: Land of Hope and Dreams",
-      "closing_song": "McCartney: Live and Let Die and Alicia Keys New York"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

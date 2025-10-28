@@ -2,48 +2,7 @@
   "id": "265",
   "name": "Jason Isbell + 400 Unit",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "What've I Done to Help",
-      "times_played": 1
-    },
-    {
-      "name": "Hope the High Road",
-      "times_played": 1
-    },
-    {
-      "name": "Dreamsicle",
-      "times_played": 1
-    },
-    {
-      "name": "24 Frames",
-      "times_played": 1
-    },
-    {
-      "name": "It Gets Easier",
-      "times_played": 1
-    },
-    {
-      "name": "Alabama Pines",
-      "times_played": 1
-    },
-    {
-      "name": "Elephant",
-      "times_played": 1
-    },
-    {
-      "name": "Overseas",
-      "times_played": 1
-    },
-    {
-      "name": "Only Children",
-      "times_played": 1
-    },
-    {
-      "name": "The Life You Chose",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "999",
@@ -53,9 +12,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "What I've Done to Help",
-      "closing_song": "Decoration Day"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -2,48 +2,7 @@
   "id": "462",
   "name": "Ringo Starr",
   "concert_count": 4,
-  "top_songs": [
-    {
-      "name": "It Don't Come Easy",
-      "times_played": 4
-    },
-    {
-      "name": "Boys",
-      "times_played": 4
-    },
-    {
-      "name": "Yellow Submarine",
-      "times_played": 4
-    },
-    {
-      "name": "I Wanna Be Your Man",
-      "times_played": 4
-    },
-    {
-      "name": "Photograph",
-      "times_played": 4
-    },
-    {
-      "name": "Act Naturally",
-      "times_played": 4
-    },
-    {
-      "name": "With a Little Help From My Friends",
-      "times_played": 4
-    },
-    {
-      "name": "Rosanna",
-      "times_played": 3
-    },
-    {
-      "name": "Africa",
-      "times_played": 3
-    },
-    {
-      "name": "Hold the Line",
-      "times_played": 3
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1259",
@@ -53,9 +12,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Honey Don't",
-      "closing_song": "With a Little Help from My Friends"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "860",
@@ -65,9 +24,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Matchbox",
-      "closing_song": "With a Little Help from My Friends"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "799",
@@ -77,9 +36,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Matchbox",
-      "closing_song": "With a Little Help from My Friends"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "428",
@@ -89,9 +48,9 @@
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "It Don't Come Easy",
-      "closing_song": "With a Little Help from My Friends"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

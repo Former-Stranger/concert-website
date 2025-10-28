@@ -2,48 +2,7 @@
   "id": "539",
   "name": "Steve Miller Band",
   "concert_count": 5,
-  "top_songs": [
-    {
-      "name": "Jet Airliner",
-      "times_played": 4
-    },
-    {
-      "name": "Fly Like an Eagle",
-      "times_played": 3
-    },
-    {
-      "name": "Living in the U.S.A.",
-      "times_played": 3
-    },
-    {
-      "name": "Abracadabra",
-      "times_played": 3
-    },
-    {
-      "name": "The Stake",
-      "times_played": 3
-    },
-    {
-      "name": "Serenade",
-      "times_played": 3
-    },
-    {
-      "name": "Dance, Dance, Dance",
-      "times_played": 3
-    },
-    {
-      "name": "Wild Mountain Honey",
-      "times_played": 3
-    },
-    {
-      "name": "Rock'n Me",
-      "times_played": 3
-    },
-    {
-      "name": "Take the Money and Run",
-      "times_played": 3
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1045",
@@ -53,9 +12,9 @@
       "venue": "Hartford HealthCare Amphitheater",
       "city": "Bridgeport",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "Stranger Blues",
-      "closing_song": "The Joker"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "407",
@@ -66,8 +25,8 @@
       "city": "Westbury",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Swingtown",
-      "closing_song": "Jet Airliner"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "347",
@@ -77,9 +36,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "SMB: Swingtown     JC: Hitchcock Railway",
-      "closing_song": "SMB: Jungle Love     JC: Cry me a River"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "308",
@@ -89,9 +48,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "SMB: Fly Like an  Eagle   DB: Rocking Down Highway",
-      "closing_song": "SMB: Jet Airliner     DB: Listen to the Music"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "47",
@@ -102,8 +61,8 @@
       "city": "Wantagh",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Swingtown",
-      "closing_song": "Jet Airliner"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

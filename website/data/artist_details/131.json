@@ -2,48 +2,7 @@
   "id": "131",
   "name": "Dead and Company",
   "concert_count": 20,
-  "top_songs": [
-    {
-      "name": "Drums",
-      "times_played": 8
-    },
-    {
-      "name": "Space",
-      "times_played": 8
-    },
-    {
-      "name": "Althea",
-      "times_played": 5
-    },
-    {
-      "name": "Scarlet Begonias",
-      "times_played": 5
-    },
-    {
-      "name": "The Other One",
-      "times_played": 5
-    },
-    {
-      "name": "Ramble On Rose",
-      "times_played": 4
-    },
-    {
-      "name": "St. Stephen",
-      "times_played": 4
-    },
-    {
-      "name": "Franklin's Tower",
-      "times_played": 4
-    },
-    {
-      "name": "Fire on the Mountain",
-      "times_played": 4
-    },
-    {
-      "name": "Not Fade Away",
-      "times_played": 4
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1173",
@@ -53,9 +12,9 @@
       "venue": "Sphere",
       "city": "Las Vegas",
       "state": "NV",
-      "has_setlist": true,
-      "opening_song": "I Need a Miracle",
-      "closing_song": "One More Saturday Night"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1172",
@@ -65,9 +24,9 @@
       "venue": "Sphere",
       "city": "Las Vegas",
       "state": "NV",
-      "has_setlist": true,
-      "opening_song": "Good Lovin'",
-      "closing_song": "Ripple"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1171",
@@ -77,9 +36,9 @@
       "venue": "Sphere",
       "city": "Las Vegas",
       "state": "NV",
-      "has_setlist": true,
-      "opening_song": "Alabama Getaway",
-      "closing_song": "Not Fade Away"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1094",
@@ -89,9 +48,9 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Feel Like a Stranger",
-      "closing_song": "Brokedown Palace"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1093",
@@ -101,9 +60,9 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Shakedown Street",
-      "closing_song": "Black Muddy River"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1039",
@@ -113,9 +72,9 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Playing in the Band",
-      "closing_song": "Deal ~ Playing in the Band"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1038",
@@ -125,9 +84,9 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Bertha",
-      "closing_song": "Sugar Magnolia"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1036",
@@ -137,9 +96,9 @@
       "venue": "Xfinity Center",
       "city": "Mansfield",
       "state": "MA",
-      "has_setlist": true,
-      "opening_song": "Music Never Stopped",
-      "closing_song": "Sugar Magnolia"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "982",
@@ -149,9 +108,9 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Let the Good Times Roll",
-      "closing_song": "The Weight"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "957",
@@ -161,9 +120,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Jack Straw",
-      "closing_song": "U.S. Blues"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "953",
@@ -173,9 +132,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Ripple",
-      "closing_song": "Werewolves of London"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "918",
@@ -185,9 +144,9 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "St. Stephen",
-      "closing_song": "Brokedown Palace"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "834",
@@ -197,9 +156,9 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Sugar Magnolia",
-      "closing_song": "One More Saturday Night"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "833",
@@ -210,8 +169,8 @@
       "city": "Queens",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Shakedown Street",
-      "closing_song": "Going Down the Road"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "798",
@@ -221,9 +180,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Hell in a Bucket",
-      "closing_song": "US Blues"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "762",
@@ -234,8 +193,8 @@
       "city": "Queens",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Dancing in the Streets",
-      "closing_song": "Touch Of Grey / Johnny B. Goode"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "702",
@@ -245,9 +204,9 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "St. Stephen",
-      "closing_song": "Samson & Delilah"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "701",
@@ -257,9 +216,9 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Shakedown Street",
-      "closing_song": "Ripple / One More Saturday night"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "660",
@@ -270,8 +229,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Samson & Delilah",
-      "closing_song": "Ripple"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "659",
@@ -281,9 +240,9 @@
       "venue": "MVP Arena",
       "city": "Albany",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Playing in the Band",
-      "closing_song": "Touch of Grey"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

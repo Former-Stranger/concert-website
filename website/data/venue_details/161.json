@@ -12,8 +12,8 @@
       "festival_name": null,
       "artists": "Brad Paisley with Justin Moore",
       "has_setlist": false,
-      "opening_song": "River Bank",
-      "closing_song": "Alcohol"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "591",
@@ -21,9 +21,9 @@
       "date": "2014-08-16",
       "festival_name": null,
       "artists": "Keith Urban",
-      "has_setlist": true,
-      "opening_song": "Love's Poster Child",
-      "closing_song": "Somebody Like You"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "540",
@@ -31,9 +31,9 @@
       "date": "2013-05-18",
       "festival_name": "Multi-Artist Show",
       "artists": "Brad Paisley, Chris Young",
-      "has_setlist": true,
-      "opening_song": "Southern Comfort Zone",
-      "closing_song": "Alcohol"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "487",
@@ -42,8 +42,8 @@
       "festival_name": null,
       "artists": "Kenny Chesney/Zac Brown Band",
       "has_setlist": false,
-      "opening_song": "KC: Live a Little\nZBB: ",
-      "closing_song": "KC: Running Down a Dream\nZBB: "
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "479",
@@ -52,8 +52,8 @@
       "festival_name": "Multi-Artist Show",
       "artists": "Brad Paisley with Blake Shelton, Jerrod Neimann",
       "has_setlist": false,
-      "opening_song": "Mud on the Tires",
-      "closing_song": "Alcohol"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "444",
@@ -62,8 +62,8 @@
       "festival_name": null,
       "artists": "Slash (4 Songs)",
       "has_setlist": false,
-      "opening_song": "Nighttrain",
-      "closing_song": "TBD"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "438",
@@ -72,8 +72,8 @@
       "festival_name": null,
       "artists": "Tom Petty and the Heartbreakers with Crosby Stills and Nash",
       "has_setlist": false,
-      "opening_song": "Listen to Her Heart\nWoodstock",
-      "closing_song": "American Girl\nFor What it's Worth"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "389",
@@ -82,8 +82,8 @@
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
       "has_setlist": false,
-      "opening_song": "Sherry Darling",
-      "closing_song": "Twist & Shout"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "273",
@@ -92,8 +92,8 @@
       "festival_name": null,
       "artists": "Tom Petty & the Heartbreakers & Allman Brothers Band",
       "has_setlist": false,
-      "opening_song": "ABB: Don't Want You No More/Cross\nTP: Listen to Her Heart",
-      "closing_song": "ABB: Whipping Post\nTP: American Girl"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "207",
@@ -101,9 +101,9 @@
       "date": "2004-07-17",
       "festival_name": null,
       "artists": "Dave Matthews Band",
-      "has_setlist": true,
-      "opening_song": "So Much to say",
-      "closing_song": "All Along Watchtower"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "160",
@@ -112,8 +112,8 @@
       "festival_name": null,
       "artists": "Dave Matthews Band",
       "has_setlist": false,
-      "opening_song": "Don't Drink the Water",
-      "closing_song": "What You Are"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "94",
@@ -121,9 +121,9 @@
       "date": "1999-08-08",
       "festival_name": null,
       "artists": "Dave Matthews Band",
-      "has_setlist": true,
-      "opening_song": "Satellite",
-      "closing_song": "Don't Drink the Water"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "10",
@@ -132,8 +132,8 @@
       "festival_name": null,
       "artists": "Tom Petty & the Heartbreakers",
       "has_setlist": false,
-      "opening_song": "Love is a Long Road",
-      "closing_song": "American Girl"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -2,48 +2,7 @@
   "id": "460",
   "name": "Rick Springfield",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Endless Summer Nights",
-      "times_played": 1
-    },
-    {
-      "name": "Affair of the Heart",
-      "times_played": 1
-    },
-    {
-      "name": "The Way She Loves Me",
-      "times_played": 1
-    },
-    {
-      "name": "Love Is Alright Tonite",
-      "times_played": 1
-    },
-    {
-      "name": "Satisfied",
-      "times_played": 1
-    },
-    {
-      "name": "I've Done Everything for You",
-      "times_played": 1
-    },
-    {
-      "name": "Hazard",
-      "times_played": 1
-    },
-    {
-      "name": "Don't Talk to Strangers",
-      "times_played": 1
-    },
-    {
-      "name": "Should've Known Better",
-      "times_played": 1
-    },
-    {
-      "name": "My Father's Chair",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1141",
@@ -53,9 +12,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Endless Summer Nights (Marx)",
-      "closing_song": "Jessie's Girl (Springfield)"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -2,48 +2,7 @@
   "id": "78",
   "name": "Brad Paisley",
   "concert_count": 8,
-  "top_songs": [
-    {
-      "name": "Perfect Storm",
-      "times_played": 4
-    },
-    {
-      "name": "Ticks",
-      "times_played": 4
-    },
-    {
-      "name": "I'm Still a Guy",
-      "times_played": 4
-    },
-    {
-      "name": "Celebrity",
-      "times_played": 4
-    },
-    {
-      "name": "Then",
-      "times_played": 4
-    },
-    {
-      "name": "She's Everything",
-      "times_played": 4
-    },
-    {
-      "name": "River Bank",
-      "times_played": 4
-    },
-    {
-      "name": "Water",
-      "times_played": 4
-    },
-    {
-      "name": "I'm Gonna Miss Her (The Fishin' Song)",
-      "times_played": 4
-    },
-    {
-      "name": "Mud on the Tires",
-      "times_played": 4
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1267",
@@ -53,9 +12,9 @@
       "venue": "Bridgeport",
       "city": "Bridgeport",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "Truck Still Works",
-      "closing_song": "Alcohol"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1098",
@@ -66,8 +25,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Water",
-      "closing_song": "I'm Gonna Miss Her"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "848",
@@ -77,9 +36,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Mud on the Tires",
-      "closing_song": "Alcohol"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "773",
@@ -89,9 +48,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Last Time for Everything",
-      "closing_song": "Alcohol"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "708",
@@ -101,9 +60,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Crushin It",
-      "closing_song": "Alcohol"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "540",
@@ -113,9 +72,9 @@
       "venue": "The Meadowlands",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Southern Comfort Zone",
-      "closing_song": "Alcohol"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "508",
@@ -126,8 +85,8 @@
       "city": "Wantagh",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Camouflage",
-      "closing_song": "Alcohol"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "402",
@@ -138,8 +97,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Start a Band",
-      "closing_song": "Boys of Summer"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -2,48 +2,7 @@
   "id": "485",
   "name": "Roger Waters",
   "concert_count": 10,
-  "top_songs": [
-    {
-      "name": "The Happiest Days of Our Lives",
-      "times_played": 8
-    },
-    {
-      "name": "Another Brick in the Wall, Part 2",
-      "times_played": 8
-    },
-    {
-      "name": "Comfortably Numb",
-      "times_played": 8
-    },
-    {
-      "name": "In the Flesh",
-      "times_played": 7
-    },
-    {
-      "name": "Wish You Were Here",
-      "times_played": 7
-    },
-    {
-      "name": "Money",
-      "times_played": 7
-    },
-    {
-      "name": "Brain Damage",
-      "times_played": 7
-    },
-    {
-      "name": "Eclipse",
-      "times_played": 7
-    },
-    {
-      "name": "Mother",
-      "times_played": 5
-    },
-    {
-      "name": "Speak to Me",
-      "times_played": 5
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1053",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Comfortably Numb",
-      "closing_song": "Outside the Wall"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1044",
@@ -65,9 +24,9 @@
       "venue": "UBS Arena",
       "city": "Elmont",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Comfortably Numb",
-      "closing_song": "Outside the Wall"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "786",
@@ -77,9 +36,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Breathe",
-      "closing_song": "Comfortably Numb"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "530",
@@ -89,9 +48,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Bruce: Land of Hope and Dreams",
-      "closing_song": "McCartney: Live and Let Die and Alicia Keys New York"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "449",
@@ -101,9 +60,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "In the Flesh",
-      "closing_song": "Outside the Wall"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "306",
@@ -113,7 +72,7 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
+      "has_setlist": false,
       "opening_song": null,
       "closing_song": null
     },
@@ -125,9 +84,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "In the Flesh",
-      "closing_song": "Comfortably Numb"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "276",
@@ -137,9 +96,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "In the Flesh",
-      "closing_song": "Comfortably Numb"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "111",
@@ -149,9 +108,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "In the Flesh",
-      "closing_song": "Each Small Candle"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "93",
@@ -161,9 +120,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "In The Flesh",
-      "closing_song": "Comfortably Numb"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

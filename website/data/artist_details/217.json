@@ -2,48 +2,7 @@
   "id": "217",
   "name": "Friends (Q)",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Dark Star",
-      "times_played": 1
-    },
-    {
-      "name": "Viola Lee Blues",
-      "times_played": 1
-    },
-    {
-      "name": "Doin' That Rag",
-      "times_played": 1
-    },
-    {
-      "name": "Passenger",
-      "times_played": 1
-    },
-    {
-      "name": "Bird Song",
-      "times_played": 1
-    },
-    {
-      "name": "The Wheel",
-      "times_played": 1
-    },
-    {
-      "name": "Rock and Roll Blues",
-      "times_played": 1
-    },
-    {
-      "name": "Liberty",
-      "times_played": 1
-    },
-    {
-      "name": "Mason's Children",
-      "times_played": 1
-    },
-    {
-      "name": "St. Stephen",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1245",
@@ -53,9 +12,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Dark Star / Viola Lee Blues",
-      "closing_song": "Box of Rain"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

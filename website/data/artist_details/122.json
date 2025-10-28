@@ -2,48 +2,7 @@
   "id": "122",
   "name": "Christopher Cross",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Minstrel Gigolo",
-      "times_played": 1
-    },
-    {
-      "name": "Alright",
-      "times_played": 1
-    },
-    {
-      "name": "Never Be the Same",
-      "times_played": 1
-    },
-    {
-      "name": "I Really Don't Know Anymore",
-      "times_played": 1
-    },
-    {
-      "name": "Sailing",
-      "times_played": 1
-    },
-    {
-      "name": "Walking in Avalon",
-      "times_played": 1
-    },
-    {
-      "name": "Curled Around the World",
-      "times_played": 1
-    },
-    {
-      "name": "Night Across the World",
-      "times_played": 1
-    },
-    {
-      "name": "Arthur's Theme (Best That You Can Do)",
-      "times_played": 1
-    },
-    {
-      "name": "Talking in My Sleep",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1119",
@@ -53,9 +12,9 @@
       "venue": "Sony Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Minstrel Gigolo",
-      "closing_song": "Think of Laura"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

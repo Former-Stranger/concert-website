@@ -2,48 +2,7 @@
   "id": "636",
   "name": "Wild Feathers",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Quittin' Time",
-      "times_played": 1
-    },
-    {
-      "name": "Backwoods Company",
-      "times_played": 1
-    },
-    {
-      "name": "I Can Have You",
-      "times_played": 1
-    },
-    {
-      "name": "Overnight",
-      "times_played": 1
-    },
-    {
-      "name": "Out on the Road",
-      "times_played": 1
-    },
-    {
-      "name": "Big Sky",
-      "times_played": 1
-    },
-    {
-      "name": "Hard Times",
-      "times_played": 1
-    },
-    {
-      "name": "Help Me Out",
-      "times_played": 1
-    },
-    {
-      "name": "Happy Again",
-      "times_played": 1
-    },
-    {
-      "name": "Kitchen Breeze",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1081",
@@ -53,9 +12,9 @@
       "venue": "Gramercy Theater",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Even the River Runs Though This Town",
-      "closing_song": "Long Gone"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

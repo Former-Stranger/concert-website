@@ -2,48 +2,7 @@
   "id": "43",
   "name": "Benmont Tench",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Today I Took Your Picture Down",
-      "times_played": 1
-    },
-    {
-      "name": "Love Will Tear Us Apart",
-      "times_played": 1
-    },
-    {
-      "name": "Welcome to Hell",
-      "times_played": 1
-    },
-    {
-      "name": "Under the Starlight",
-      "times_played": 1
-    },
-    {
-      "name": "Straight Into Darkness",
-      "times_played": 1
-    },
-    {
-      "name": "Bye Bye Johnny",
-      "times_played": 1
-    },
-    {
-      "name": "The Melancholy Season",
-      "times_played": 1
-    },
-    {
-      "name": "Pledge",
-      "times_played": 1
-    },
-    {
-      "name": "Rattle",
-      "times_played": 1
-    },
-    {
-      "name": "China Doll",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1264",
@@ -53,9 +12,9 @@
       "venue": "City Winery",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "I Took Your Picture Down",
-      "closing_song": "American Girl"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

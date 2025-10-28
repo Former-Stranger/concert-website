@@ -2,48 +2,7 @@
   "id": "301",
   "name": "John Mayer",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Driven to Tears",
-      "times_played": 1
-    },
-    {
-      "name": "Roxanne",
-      "times_played": 1
-    },
-    {
-      "name": "Can't Stand Losing You / Reggatta de Blanc",
-      "times_played": 1
-    },
-    {
-      "name": "Message in a Bottle",
-      "times_played": 1
-    },
-    {
-      "name": "Heartbreak Warfare",
-      "times_played": 1
-    },
-    {
-      "name": "Good Love Is on the Way",
-      "times_played": 1
-    },
-    {
-      "name": "Vultures",
-      "times_played": 1
-    },
-    {
-      "name": "Perfectly Lonely",
-      "times_played": 1
-    },
-    {
-      "name": "I Don't Trust Myself (With Loving You)",
-      "times_played": 1
-    },
-    {
-      "name": "Comfortable",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "412",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Heartbreak ",
-      "closing_song": "Gravity"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "306",
@@ -65,7 +24,7 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
+      "has_setlist": false,
       "opening_song": null,
       "closing_song": null
     }

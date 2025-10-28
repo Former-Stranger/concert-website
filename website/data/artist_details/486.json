@@ -2,48 +2,7 @@
   "id": "486",
   "name": "Roll Hall Induction 2019",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Push Back",
-      "times_played": 1
-    },
-    {
-      "name": "We Are",
-      "times_played": 1
-    },
-    {
-      "name": "Clock Strikes",
-      "times_played": 1
-    },
-    {
-      "name": "Change",
-      "times_played": 1
-    },
-    {
-      "name": "Unforgettable",
-      "times_played": 1
-    },
-    {
-      "name": "Head High",
-      "times_played": 1
-    },
-    {
-      "name": "Take What You Want",
-      "times_played": 1
-    },
-    {
-      "name": "Stand Out Fit In",
-      "times_played": 1
-    },
-    {
-      "name": "Grow Old Die Young",
-      "times_played": 1
-    },
-    {
-      "name": "I Was King",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "904",
@@ -53,9 +12,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Stevie Nicks Set",
-      "closing_song": "Def Leppard Set"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

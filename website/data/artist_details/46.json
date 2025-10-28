@@ -2,48 +2,7 @@
   "id": "46",
   "name": "Billy Gibbons",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Waitin' for the Bus",
-      "times_played": 1
-    },
-    {
-      "name": "Jesus Just Left Chicago",
-      "times_played": 1
-    },
-    {
-      "name": "Just Got Paid",
-      "times_played": 1
-    },
-    {
-      "name": "Sharp Dressed Man",
-      "times_played": 1
-    },
-    {
-      "name": "Folsom Prison Blues",
-      "times_played": 1
-    },
-    {
-      "name": "Cheap Sunglasses",
-      "times_played": 1
-    },
-    {
-      "name": "Blue Jean Blues",
-      "times_played": 1
-    },
-    {
-      "name": "Foxy Lady",
-      "times_played": 1
-    },
-    {
-      "name": "Francine",
-      "times_played": 1
-    },
-    {
-      "name": "Certified Blues",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1234",
@@ -53,9 +12,9 @@
       "venue": "Bardavon Opera House",
       "city": "Poughkeepsie",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Jam / Waiting for the Bus",
-      "closing_song": "Thunderbird"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

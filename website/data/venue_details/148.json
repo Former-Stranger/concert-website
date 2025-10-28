@@ -11,9 +11,9 @@
       "date": "2005-06-07",
       "festival_name": null,
       "artists": "John Fogerty",
-      "has_setlist": true,
-      "opening_song": "Travelin band",
-      "closing_song": "Proud Mary"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "220",
@@ -22,8 +22,8 @@
       "festival_name": null,
       "artists": "Joe Cocker",
       "has_setlist": false,
-      "opening_song": "Chain of Fools",
-      "closing_song": "You Are So Beautiful"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "219",
@@ -32,8 +32,8 @@
       "festival_name": null,
       "artists": "Hall & Oates",
       "has_setlist": false,
-      "opening_song": "Maneater",
-      "closing_song": "Just Can't Get Enough"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

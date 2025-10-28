@@ -2,48 +2,7 @@
   "id": "75",
   "name": "Bono",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "City of Blinding Lights",
-      "times_played": 1
-    },
-    {
-      "name": "Vertigo",
-      "times_played": 1
-    },
-    {
-      "name": "With or Without You",
-      "times_played": 1
-    },
-    {
-      "name": "Into the Heart",
-      "times_played": 1
-    },
-    {
-      "name": "Out of Control",
-      "times_played": 1
-    },
-    {
-      "name": "Stories for Boys",
-      "times_played": 1
-    },
-    {
-      "name": "I Will Follow",
-      "times_played": 1
-    },
-    {
-      "name": "Iris (Hold Me Close)",
-      "times_played": 1
-    },
-    {
-      "name": "Gloria",
-      "times_played": 1
-    },
-    {
-      "name": "October",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1088",
@@ -53,9 +12,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "City of Blinding Lights",
-      "closing_song": "Torna a Surriento"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

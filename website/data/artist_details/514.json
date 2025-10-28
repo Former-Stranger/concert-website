@@ -2,48 +2,7 @@
   "id": "514",
   "name": "Sheryl Crow",
   "concert_count": 3,
-  "top_songs": [
-    {
-      "name": "A Change Would Do You Good",
-      "times_played": 2
-    },
-    {
-      "name": "If It Makes You Happy",
-      "times_played": 2
-    },
-    {
-      "name": "Everything Is Broken",
-      "times_played": 2
-    },
-    {
-      "name": "Maybe Angels",
-      "times_played": 2
-    },
-    {
-      "name": "Leaving Las Vegas",
-      "times_played": 2
-    },
-    {
-      "name": "My Favorite Mistake",
-      "times_played": 2
-    },
-    {
-      "name": "Soak Up the Sun",
-      "times_played": 2
-    },
-    {
-      "name": "Everyday Is a Winding Road",
-      "times_played": 2
-    },
-    {
-      "name": "Beware of Darkness",
-      "times_played": 1
-    },
-    {
-      "name": "Prove You Wrong",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "985",
@@ -53,9 +12,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Maybe Angels",
-      "closing_song": "I Shall Believe"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "924",
@@ -65,7 +24,7 @@
       "venue": "Fort Adams State Park",
       "city": "Newport",
       "state": "RI",
-      "has_setlist": true,
+      "has_setlist": false,
       "opening_song": null,
       "closing_song": null
     },

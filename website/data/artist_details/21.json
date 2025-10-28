@@ -2,48 +2,7 @@
   "id": "21",
   "name": "Amos Lee",
   "concert_count": 3,
-  "top_songs": [
-    {
-      "name": "Bottom of the Barrel",
-      "times_played": 1
-    },
-    {
-      "name": "No More Darkness, No More Light",
-      "times_played": 1
-    },
-    {
-      "name": "All You Got Is a Song",
-      "times_played": 1
-    },
-    {
-      "name": "Keep It Loose, Keep It Tight",
-      "times_played": 1
-    },
-    {
-      "name": "Spirit",
-      "times_played": 1
-    },
-    {
-      "name": "Violin",
-      "times_played": 1
-    },
-    {
-      "name": "Kid",
-      "times_played": 1
-    },
-    {
-      "name": "Jesus",
-      "times_played": 1
-    },
-    {
-      "name": "Baby I Want You",
-      "times_played": 1
-    },
-    {
-      "name": "Flower",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1177",
@@ -54,8 +13,8 @@
       "city": "Tarrytown",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Built to Fall",
-      "closing_song": "Windows Are Rolled Down"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "861",
@@ -65,9 +24,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Bottom of the Barrel",
-      "closing_song": "Windows Are Rolled Down"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "628",
@@ -77,9 +36,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "AL: Windows       DG: Birds of High Arctic",
-      "closing_song": "AL:              DG:"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

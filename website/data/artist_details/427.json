@@ -2,48 +2,7 @@
   "id": "427",
   "name": "Phil",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Big Mouth",
-      "times_played": 1
-    },
-    {
-      "name": "Freak Show",
-      "times_played": 1
-    },
-    {
-      "name": "Rock Out",
-      "times_played": 1
-    },
-    {
-      "name": "Cradle to the Grave",
-      "times_played": 1
-    },
-    {
-      "name": "Welcome to Hell",
-      "times_played": 1
-    },
-    {
-      "name": "Take Aim",
-      "times_played": 1
-    },
-    {
-      "name": "Born to Raise Hell",
-      "times_played": 1
-    },
-    {
-      "name": "Get on Your Knees",
-      "times_played": 1
-    },
-    {
-      "name": "R.A.M.O.N.E.S.",
-      "times_played": 1
-    },
-    {
-      "name": "Ringleader",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "817",
@@ -52,7 +11,10 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Radio City Music Hall",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "816",
@@ -61,7 +23,10 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Radio City Music Hall",
       "city": "New York",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

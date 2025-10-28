@@ -2,48 +2,7 @@
   "id": "632",
   "name": "Weird Al",
   "concert_count": 5,
-  "top_songs": [
-    {
-      "name": "Drum Solo",
-      "times_played": 6
-    },
-    {
-      "name": "Dare to Be Stupid",
-      "times_played": 5
-    },
-    {
-      "name": "One More Minute",
-      "times_played": 3
-    },
-    {
-      "name": "Smells Like Nirvana",
-      "times_played": 3
-    },
-    {
-      "name": "Fat",
-      "times_played": 3
-    },
-    {
-      "name": "Skipper Dan",
-      "times_played": 3
-    },
-    {
-      "name": "White & Nerdy",
-      "times_played": 3
-    },
-    {
-      "name": "Amish Paradise",
-      "times_played": 3
-    },
-    {
-      "name": "We All Have Cell Phones",
-      "times_played": 3
-    },
-    {
-      "name": "The Saga Begins",
-      "times_played": 3
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1266",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Fun Zone/Tacky",
-      "closing_song": "Yoda"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1067",
@@ -65,9 +24,9 @@
       "venue": "Carnegie Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Fun Zone",
-      "closing_song": "Amish Paradise/Smells/White & nerdy/Word Crimes/Yoda"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1021",
@@ -77,9 +36,9 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "My Own Eyes",
-      "closing_song": "Medley/Yoda"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "725",
@@ -89,9 +48,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Tacky",
-      "closing_song": "Yoda"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "427",
@@ -101,9 +60,9 @@
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Poker Face Medley",
-      "closing_song": "Jedi"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

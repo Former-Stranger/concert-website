@@ -2,48 +2,7 @@
   "id": "310",
   "name": "KISS",
   "concert_count": 17,
-  "top_songs": [
-    {
-      "name": "Deuce",
-      "times_played": 14
-    },
-    {
-      "name": "Shout It Out Loud",
-      "times_played": 14
-    },
-    {
-      "name": "Bass Solo",
-      "times_played": 14
-    },
-    {
-      "name": "Love Gun",
-      "times_played": 14
-    },
-    {
-      "name": "Detroit Rock City",
-      "times_played": 14
-    },
-    {
-      "name": "Rock and Roll All Nite",
-      "times_played": 14
-    },
-    {
-      "name": "Black Diamond",
-      "times_played": 13
-    },
-    {
-      "name": "100,000 Years",
-      "times_played": 13
-    },
-    {
-      "name": "God of Thunder",
-      "times_played": 12
-    },
-    {
-      "name": "Beth",
-      "times_played": 12
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1133",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Detroit Rock City",
-      "closing_song": "Rock and Roll All Nite"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "936",
@@ -65,9 +24,9 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Detroit Rock City",
-      "closing_song": "Rock and Roll All Nite"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "903",
@@ -77,9 +36,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Detroit Rock City",
-      "closing_song": "Rock and Roll All Nite"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "901",
@@ -89,9 +48,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Detroit Rock City",
-      "closing_song": "Rock and Roll All Nite"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "590",
@@ -101,9 +60,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Psycho Circus  / Let it Go",
-      "closing_song": "Rock and Roll All Nite / Photograph"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "439",
@@ -113,9 +72,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Modern Day Delilah",
-      "closing_song": "Rock & Roll All Nite"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "400",
@@ -126,8 +85,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Deuce ",
-      "closing_song": "Detroit Rock City"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "209",
@@ -137,9 +96,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "KISS: Love Gun\nPoison: Cat Dragged in",
-      "closing_song": "KISS: Rock & rol All Nite\nPoison: Talk Dirty to Me"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "196",
@@ -149,9 +108,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "KISS: Detroit Rock City\nAerosmith: Mama Kin",
-      "closing_song": "KISS: Rock & Roll All Nite\nAerosmith: Sweet Emotion"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "190",
@@ -161,9 +120,9 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "KISS: Detroit Rock City\nAerosmith: Mama Kin",
-      "closing_song": "KISS: Rock & Roll All Nite\nAerosmith: Train Kept Rollin'"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "105",
@@ -173,9 +132,9 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Detroit Rock City",
-      "closing_song": "Rock & Roll All Nite"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "103",
@@ -185,9 +144,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Detroit Rock City",
-      "closing_song": "Rock & Roll All Nite"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "76",
@@ -197,9 +156,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Psych Circus",
-      "closing_song": "Black Diamond"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "75",
@@ -209,9 +168,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Psych Circus",
-      "closing_song": "Black Diamond"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "33",
@@ -221,9 +180,9 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Deuce",
-      "closing_song": "Rock & Roll All Nite"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "26",
@@ -234,8 +193,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Deuce",
-      "closing_song": "Rock & Roll All Nite"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "25",
@@ -246,8 +205,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Deuce",
-      "closing_song": "Rock & Roll All Nite"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

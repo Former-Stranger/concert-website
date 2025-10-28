@@ -2,40 +2,7 @@
   "id": "597",
   "name": "Tom Morello",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Vigilante Nocturno",
-      "times_played": 1
-    },
-    {
-      "name": "Mr. Crowley",
-      "times_played": 1
-    },
-    {
-      "name": "Wild Guitar Stuff",
-      "times_played": 1
-    },
-    {
-      "name": "The Garden of Gethsemane",
-      "times_played": 1
-    },
-    {
-      "name": "The Ghost of Tom Joad",
-      "times_played": 1
-    },
-    {
-      "name": "Killing in the Name",
-      "times_played": 1
-    },
-    {
-      "name": "Power to the People",
-      "times_played": 1
-    },
-    {
-      "name": "This Land Is Your Land",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "943",
@@ -45,9 +12,9 @@
       "venue": "Minetta Lane Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Vigilante Nocturno",
-      "closing_song": "This Land Is Your Land"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

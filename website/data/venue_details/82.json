@@ -11,9 +11,9 @@
       "date": "2025-02-11",
       "festival_name": null,
       "artists": "Jack White",
-      "has_setlist": true,
-      "opening_song": "Old Scratch Blues",
-      "closing_song": "Seven Nation Army (Jack White)"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1221",
@@ -21,9 +21,9 @@
       "date": "2024-11-26",
       "festival_name": null,
       "artists": "Empire of the Sun",
-      "has_setlist": true,
-      "opening_song": "Changes",
-      "closing_song": "Alive"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

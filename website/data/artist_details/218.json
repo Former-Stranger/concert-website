@@ -2,48 +2,7 @@
   "id": "218",
   "name": "Friends (W. Warren Haynes)",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "All Along the Watchtower",
-      "times_played": 2
-    },
-    {
-      "name": "Mason's Children",
-      "times_played": 2
-    },
-    {
-      "name": "Franklin's Tower",
-      "times_played": 1
-    },
-    {
-      "name": "The Weight",
-      "times_played": 1
-    },
-    {
-      "name": "Alabama Getaway",
-      "times_played": 1
-    },
-    {
-      "name": "Blue Sky",
-      "times_played": 1
-    },
-    {
-      "name": "Bird Song",
-      "times_played": 1
-    },
-    {
-      "name": "Mountains of the Moon",
-      "times_played": 1
-    },
-    {
-      "name": "St. Stephen",
-      "times_played": 1
-    },
-    {
-      "name": "Unbroken Chain",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1146",
@@ -52,7 +11,10 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Capitol Theatre",
       "city": "Port Chester",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "695",
@@ -61,7 +23,10 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Capitol Theatre",
       "city": "Port Chester",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -11,9 +11,9 @@
       "date": "2025-01-18",
       "festival_name": null,
       "artists": "Bruce Springsteen:  Light of Day",
-      "has_setlist": true,
-      "opening_song": "Broken Radio/One Guitar/Never Be Enough",
-      "closing_song": "Thunder Road"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1140",
@@ -23,7 +23,7 @@
       "artists": "Light of Day",
       "has_setlist": false,
       "opening_song": null,
-      "closing_song": "Light of Day"
+      "closing_song": null
     },
     {
       "id": "1076",
@@ -52,8 +52,8 @@
       "festival_name": "Multi-Artist Show",
       "artists": "Alliance for Neighbors concert (Bruce Springsteen, Bon Jovi, Joan Jett, John Eddie, Joe Ely, Sonny Burgess, Highway 9, Felix Cavaliere, Aztec Two Step, Phoebe Snow, DJ Fontana, Scotty Moore)",
       "has_setlist": false,
-      "opening_song": "JBJ: Keep the Faith\nBS: Tiger Rose ",
-      "closing_song": "JBJ: Abraham, Martin & John\nBS: Stand By Me"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

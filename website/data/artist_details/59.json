@@ -2,48 +2,7 @@
   "id": "59",
   "name": "Blues Traveler",
   "concert_count": 3,
-  "top_songs": [
-    {
-      "name": "Run-Around",
-      "times_played": 3
-    },
-    {
-      "name": "Drum Solo",
-      "times_played": 3
-    },
-    {
-      "name": "Hook",
-      "times_played": 3
-    },
-    {
-      "name": "Crash Burn",
-      "times_played": 2
-    },
-    {
-      "name": "Freedom",
-      "times_played": 2
-    },
-    {
-      "name": "Bass Solo",
-      "times_played": 2
-    },
-    {
-      "name": "But Anyway",
-      "times_played": 2
-    },
-    {
-      "name": "Keyboard Solo",
-      "times_played": 2
-    },
-    {
-      "name": "Carolina Blues",
-      "times_played": 2
-    },
-    {
-      "name": "The Devil Went Down to Georgia",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1255",
@@ -53,9 +12,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Runaround",
-      "closing_song": "Mary Janes Last Dance"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "954",
@@ -65,9 +24,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Just Wait",
-      "closing_song": "Hook"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "814",
@@ -77,9 +36,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Mountain Cry",
-      "closing_song": "Alone / Devil Went Down to Georgia"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

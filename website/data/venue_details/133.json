@@ -11,9 +11,9 @@
       "date": "2025-03-16",
       "festival_name": null,
       "artists": "The Lone Bellow",
-      "has_setlist": true,
-      "opening_song": "Homesick",
-      "closing_song": "Honey"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1240",
@@ -22,8 +22,8 @@
       "festival_name": "Multi-Artist Show",
       "artists": "George Thorogood, the Destroyers",
       "has_setlist": false,
-      "opening_song": "Rock Party",
-      "closing_song": "Born to Be Bad"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1161",
@@ -32,8 +32,8 @@
       "festival_name": null,
       "artists": "Lyle Lovett (with Lisa Loeb)",
       "has_setlist": false,
-      "opening_song": "Bears",
-      "closing_song": "If I Had a Boat"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1144",
@@ -41,9 +41,9 @@
       "date": "2024-02-28",
       "festival_name": null,
       "artists": "Live",
-      "has_setlist": true,
-      "opening_song": "Dam at Otter Creek",
-      "closing_song": "Dance With You"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1097",
@@ -51,9 +51,9 @@
       "date": "2023-07-09",
       "festival_name": null,
       "artists": "Ace Frehley",
-      "has_setlist": true,
-      "opening_song": "Rip It Out",
-      "closing_song": "Deuce"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1091",
@@ -61,9 +61,9 @@
       "date": "2023-05-09",
       "festival_name": null,
       "artists": "The Wallflowers",
-      "has_setlist": true,
-      "opening_song": "Maybe Your Hearts Not In It Anymore",
-      "closing_song": "The Difference"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1082",
@@ -71,9 +71,9 @@
       "date": "2023-03-23",
       "festival_name": null,
       "artists": "Live",
-      "has_setlist": true,
-      "opening_song": "Selling the Drama",
-      "closing_song": "Dance With You"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1021",
@@ -81,9 +81,9 @@
       "date": "2022-05-10",
       "festival_name": null,
       "artists": "Weird Al",
-      "has_setlist": true,
-      "opening_song": "My Own Eyes",
-      "closing_song": "Medley/Yoda"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1013",
@@ -91,9 +91,9 @@
       "date": "2022-03-26",
       "festival_name": "Multi-Artist Show",
       "artists": "Mike Campbell, Dirty Knobs",
-      "has_setlist": true,
-      "opening_song": "Wicked Mind",
-      "closing_song": "Feel A Whole Lot Better"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1009",
@@ -101,9 +101,9 @@
       "date": "2022-03-11",
       "festival_name": null,
       "artists": "Warren Haynes",
-      "has_setlist": true,
-      "opening_song": "Angels Flying Too Close to the Ground",
-      "closing_song": "End of the Line"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "998",
@@ -111,9 +111,9 @@
       "date": "2021-11-13",
       "festival_name": null,
       "artists": "The Wallflowers",
-      "has_setlist": true,
-      "opening_song": "Maybe Your Hearts Not In It Anymore",
-      "closing_song": "The Difference"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "990",
@@ -122,8 +122,8 @@
       "festival_name": null,
       "artists": "John Hiatt + Jerry Douglas Band",
       "has_setlist": false,
-      "opening_song": "That Thing You Need",
-      "closing_song": "Riding with the King"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "974",
@@ -131,9 +131,9 @@
       "date": "2021-07-13",
       "festival_name": null,
       "artists": "Tedeschi Trucks Band",
-      "has_setlist": true,
-      "opening_song": "Don't Let Me Slide",
-      "closing_song": "Get What You Deserve"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "925",
@@ -142,8 +142,8 @@
       "festival_name": "Multi-Artist Show",
       "artists": "Lyle Lovett, His Big Band",
       "has_setlist": false,
-      "opening_song": "Blues Walk",
-      "closing_song": "Church"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "912",
@@ -151,9 +151,9 @@
       "date": "2019-05-09",
       "festival_name": null,
       "artists": "Kip Moore",
-      "has_setlist": true,
-      "opening_song": "Bittersweet Company",
-      "closing_song": "Guitar Man"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "740",
@@ -162,8 +162,8 @@
       "festival_name": "Multi-Artist Show",
       "artists": "John Hiatt, Lyle Lovett",
       "has_setlist": false,
-      "opening_song": "JH: Open Road  LL: White Man Lost in Blues",
-      "closing_song": "JH: Have a Little Faith    LL: Simple Song"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "694",
@@ -171,9 +171,9 @@
       "date": "2016-05-10",
       "festival_name": "Multi-Artist Show",
       "artists": "John Hiatt, Rick Brantley",
-      "has_setlist": true,
-      "opening_song": "Lift Up Every Stone",
-      "closing_song": "Have a Little Faith"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "584",
@@ -182,8 +182,8 @@
       "festival_name": "Multi-Artist Show",
       "artists": "John Hiatt, Robert Cray Band",
       "has_setlist": false,
-      "opening_song": "TBD",
-      "closing_song": "Riding with the King"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "549",
@@ -191,9 +191,9 @@
       "date": "2013-08-09",
       "festival_name": null,
       "artists": "John Hiatt",
-      "has_setlist": true,
-      "opening_song": "Drive South",
-      "closing_song": "Memphis in the Meantime"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "522",
@@ -211,9 +211,9 @@
       "date": "2011-03-24",
       "festival_name": null,
       "artists": "Peter Wolf",
-      "has_setlist": true,
-      "opening_song": "Nothing But the Wheel",
-      "closing_song": "Somewhere Down the Line"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "464",
@@ -221,9 +221,9 @@
       "date": "2011-01-28",
       "festival_name": "Multi-Artist Show",
       "artists": "Dickey Betts, Great Southern",
-      "has_setlist": true,
-      "opening_song": "Jam/Statesboro Blues",
-      "closing_song": "Ramblin Man"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "417",
@@ -231,9 +231,9 @@
       "date": "2010-04-11",
       "festival_name": null,
       "artists": "Todd Rundgren",
-      "has_setlist": true,
-      "opening_song": "Dust My Broom",
-      "closing_song": "Boogies"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "380",
@@ -241,9 +241,9 @@
       "date": "2009-05-17",
       "festival_name": "Multi-Artist Show",
       "artists": "Dickey Betts, Great Southern",
-      "has_setlist": true,
-      "opening_song": "High Falls",
-      "closing_song": "Ramblin' Man"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "367",
@@ -262,8 +262,8 @@
       "festival_name": "Multi-Artist Show",
       "artists": "Sha Na Na, Retrotones",
       "has_setlist": false,
-      "opening_song": "At the Hop",
-      "closing_song": "Goodnight Sweetheart"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

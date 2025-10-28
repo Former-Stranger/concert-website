@@ -13,8 +13,8 @@
       "city": "Westbury",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "CD: Drinkin My Baby Goodbye\nDB: Rave On\n38: Rockin Into the Night",
-      "closing_song": "CD: Devil Went Down to GA\nDB: Dona Maria\n38: Travelin' Band"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "69",
@@ -25,8 +25,8 @@
       "city": "Holmdel",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "We Ain't Much Different",
-      "closing_song": "Freebird"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

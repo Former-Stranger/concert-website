@@ -11,9 +11,9 @@
       "date": "2025-02-22",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true,
-      "opening_song": "Movin Out",
-      "closing_song": "You May Be Right"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1155",
@@ -22,8 +22,8 @@
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
       "has_setlist": false,
-      "opening_song": "Roll of the Dice",
-      "closing_song": "I'll See You In My Dreams"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1065",
@@ -31,9 +31,9 @@
       "date": "2022-10-21",
       "festival_name": null,
       "artists": "Keith Urban",
-      "has_setlist": true,
-      "opening_song": "Tumbleweed",
-      "closing_song": "Stupid Boy"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "962",
@@ -41,9 +41,9 @@
       "date": "2019-11-17",
       "festival_name": null,
       "artists": "Keith Urban",
-      "has_setlist": true,
-      "opening_song": "Never Comin' Down",
-      "closing_song": "Wasted Time"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "776",
@@ -51,9 +51,9 @@
       "date": "2017-08-11",
       "festival_name": null,
       "artists": "Kenny Chesney",
-      "has_setlist": true,
-      "opening_song": "Beer in Mexico",
-      "closing_song": "She Thinks My Tractor's Sexy"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "619",
@@ -62,8 +62,8 @@
       "festival_name": null,
       "artists": "Kenny Chesney with Chase Rice",
       "has_setlist": false,
-      "opening_song": "Drink it Up",
-      "closing_song": "She Thinks My Tractor's Sexy"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "576",
@@ -72,8 +72,8 @@
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
       "has_setlist": false,
-      "opening_song": "Roll of the Dice",
-      "closing_song": "Dream Baby Dream"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "575",
@@ -82,8 +82,8 @@
       "festival_name": null,
       "artists": "Bruce Springsteen & the E Street Band",
       "has_setlist": false,
-      "opening_song": "Racing in the Street ('78 Version)",
-      "closing_song": "Thunder Road (Acoustic)"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "496",
@@ -91,9 +91,9 @@
       "date": "2011-11-26",
       "festival_name": null,
       "artists": "Bob Seger",
-      "has_setlist": true,
-      "opening_song": "Roll Me Away",
-      "closing_song": "Rock & Roll Never Forgets"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "482",
@@ -101,9 +101,9 @@
       "date": "2011-07-09",
       "festival_name": null,
       "artists": "Keith Urban",
-      "has_setlist": true,
-      "opening_song": "Put You in a Song",
-      "closing_song": "Better Life"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "363",
@@ -111,9 +111,9 @@
       "date": "2008-11-15",
       "festival_name": null,
       "artists": "Elton John",
-      "has_setlist": true,
-      "opening_song": "Funeral for a Friend",
-      "closing_song": "Your Song"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "337",
@@ -121,9 +121,9 @@
       "date": "2008-05-23",
       "festival_name": null,
       "artists": "Billy Joel",
-      "has_setlist": true,
-      "opening_song": "Angry Young Man",
-      "closing_song": "Piano Man"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "250",
@@ -132,8 +132,8 @@
       "festival_name": null,
       "artists": "Esteban",
       "has_setlist": false,
-      "opening_song": "Eleanor Rigby",
-      "closing_song": "Here Comes the Sun"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "212",
@@ -141,9 +141,9 @@
       "date": "2004-08-28",
       "festival_name": null,
       "artists": "Cher",
-      "has_setlist": true,
-      "opening_song": "I Still Haven't Found",
-      "closing_song": "Believe"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

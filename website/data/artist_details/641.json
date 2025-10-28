@@ -2,48 +2,7 @@
   "id": "641",
   "name": "Willie Nelson",
   "concert_count": 5,
-  "top_songs": [
-    {
-      "name": "Whiskey River",
-      "times_played": 2
-    },
-    {
-      "name": "Gotta Serve Somebody",
-      "times_played": 1
-    },
-    {
-      "name": "I Can Tell",
-      "times_played": 1
-    },
-    {
-      "name": "Forgetful Heart",
-      "times_played": 1
-    },
-    {
-      "name": "Axe and the Wind",
-      "times_played": 1
-    },
-    {
-      "name": "To Ramona",
-      "times_played": 1
-    },
-    {
-      "name": "Early Roman Kings",
-      "times_played": 1
-    },
-    {
-      "name": "Under the Red Sky",
-      "times_played": 1
-    },
-    {
-      "name": "I'll Make It All Up to You",
-      "times_played": 1
-    },
-    {
-      "name": "All Along the Watchtower",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1270",
@@ -53,9 +12,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "BD: Gotta Serve Somebody  WN: Whiskey River",
-      "closing_song": "BD: Don't Think Twice  WN: I Saw the Light"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1176",
@@ -65,9 +24,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Plant: Rich Girl    Dylan: Highway 61",
-      "closing_song": "Plant:  Gone, Gone, Gone    Dylan:  I'll Be Your Baby Tonight"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "578",
@@ -77,9 +36,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Whiskey River  / Let Me Touch You",
-      "closing_song": "I Saw the Light  / Your Long Journey"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "272",
@@ -89,9 +48,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Travelin Band",
-      "closing_song": "Proud Mary"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "90",
@@ -102,8 +61,8 @@
       "city": "Hyannis",
       "state": "MA",
       "has_setlist": false,
-      "opening_song": "Whiskey River",
-      "closing_song": "Blues Medley"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

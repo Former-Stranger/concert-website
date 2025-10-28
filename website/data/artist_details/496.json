@@ -2,48 +2,7 @@
   "id": "496",
   "name": "SEA HEAR NOW: Noah Kahan",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Kid",
-      "times_played": 1
-    },
-    {
-      "name": "Good Old Days",
-      "times_played": 1
-    },
-    {
-      "name": "Don't Look Back",
-      "times_played": 1
-    },
-    {
-      "name": "All My Friends",
-      "times_played": 1
-    },
-    {
-      "name": "The Long Con",
-      "times_played": 1
-    },
-    {
-      "name": "It Was a Sin",
-      "times_played": 1
-    },
-    {
-      "name": "Down in the Dirt",
-      "times_played": 1
-    },
-    {
-      "name": "You and I",
-      "times_played": 1
-    },
-    {
-      "name": "Celebration",
-      "times_played": 1
-    },
-    {
-      "name": "Only You",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1196",
@@ -53,9 +12,9 @@
       "venue": "Asbury Park Beach",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "BC:  No Speak  NK:  Dial Drunk",
-      "closing_song": "BC:  Remedy   NK:  Stick Season"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

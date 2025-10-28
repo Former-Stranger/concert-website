@@ -1,49 +1,8 @@
 {
   "id": "536",
   "name": "Steve Earle",
-  "concert_count": 6,
-  "top_songs": [
-    {
-      "name": "Guitar Town",
-      "times_played": 4
-    },
-    {
-      "name": "Someday",
-      "times_played": 4
-    },
-    {
-      "name": "My Old Friend the Blues",
-      "times_played": 3
-    },
-    {
-      "name": "Copperhead Road",
-      "times_played": 3
-    },
-    {
-      "name": "Goodbye's All We've Got Left",
-      "times_played": 2
-    },
-    {
-      "name": "Down the Road",
-      "times_played": 2
-    },
-    {
-      "name": "Teach Your Children",
-      "times_played": 2
-    },
-    {
-      "name": "The Devil's Right Hand",
-      "times_played": 2
-    },
-    {
-      "name": "The Galway Girl",
-      "times_played": 2
-    },
-    {
-      "name": "Hey Joe",
-      "times_played": 2
-    }
-  ],
+  "concert_count": 7,
+  "top_songs": [],
   "concerts": [
     {
       "id": "1134",
@@ -53,9 +12,21 @@
       "venue": "The Town Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "JM: Small Town  SE:  ",
-      "closing_song": "JM:  Pink Houses   SE: Teach Your Children"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "1003",
+      "show_number": 1002,
+      "date": "2021-12-13",
+      "festival_name": "John Henry's Friends",
+      "venue": "The Town Hall",
+      "city": "New York",
+      "state": "NY",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "821",
@@ -65,9 +36,9 @@
       "venue": "Paramount Hudson Valley Theater",
       "city": "Peekskill",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Copperhead Road",
-      "closing_song": "JB12old4k"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "737",
@@ -77,9 +48,9 @@
       "venue": "The Town Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Guitar Town",
-      "closing_song": "Teach Your Children"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "655",
@@ -89,9 +60,9 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Baby Baby Baby",
-      "closing_song": "Down the Road"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "601",
@@ -102,8 +73,8 @@
       "city": "Port Chester",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Wake Up Little Suzy",
-      "closing_song": "Copperhead Road"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "564",
@@ -114,8 +85,8 @@
       "city": "Port Chester",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "SE: Where Have All Flowers Gone  REK: Old Porch",
-      "closing_song": "SE: Copperhead Road   REK: Road Goes on Forever"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

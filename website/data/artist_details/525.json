@@ -25,8 +25,8 @@
       "city": "Yonkers",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Take it on the Inside",
-      "closing_song": "I Don't Wanna Go Home"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "198",
@@ -37,8 +37,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Got to Be a Better Way",
-      "closing_song": "Broke Down Piece of Man"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "150",
@@ -49,8 +49,8 @@
       "city": "Hartford",
       "state": "CT",
       "has_setlist": false,
-      "opening_song": "Unknown",
-      "closing_song": "Heart of Stone"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

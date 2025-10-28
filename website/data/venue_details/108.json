@@ -11,9 +11,9 @@
       "date": "2019-03-02",
       "festival_name": "Multi-Artist Show",
       "artists": "Bob Weir, Wolf Brothers",
-      "has_setlist": true,
-      "opening_song": "Bertha",
-      "closing_song": "Brokedown Palace"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "685",
@@ -21,9 +21,9 @@
       "date": "2016-04-16",
       "festival_name": null,
       "artists": "Huey Lewis  The News",
-      "has_setlist": true,
-      "opening_song": "Heart of Rock & Roll",
-      "closing_song": "Workin For a Livin'"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

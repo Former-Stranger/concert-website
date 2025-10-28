@@ -2,24 +2,7 @@
   "id": "33",
   "name": "Backstreet Boys",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Who Are You",
-      "times_played": 1
-    },
-    {
-      "name": "Baba O'Riley",
-      "times_played": 1
-    },
-    {
-      "name": "Behind Blue Eyes",
-      "times_played": 1
-    },
-    {
-      "name": "Won't Get Fooled Again",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "145",
@@ -29,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "David Bowie: America",
-      "closing_song": "Paul Mccartney: Freedom"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -2,48 +2,7 @@
   "id": "191",
   "name": "Elvis Costello",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Pump It Up",
-      "times_played": 1
-    },
-    {
-      "name": "Watching the Detectives",
-      "times_played": 1
-    },
-    {
-      "name": "No Flag",
-      "times_played": 1
-    },
-    {
-      "name": "Green Shirt",
-      "times_played": 1
-    },
-    {
-      "name": "We Are All Cowards Now",
-      "times_played": 1
-    },
-    {
-      "name": "No Reason to Quit",
-      "times_played": 1
-    },
-    {
-      "name": "Indoor Fireworks",
-      "times_played": 1
-    },
-    {
-      "name": "Wonder Woman",
-      "times_played": 1
-    },
-    {
-      "name": "Everyday I Write the Book",
-      "times_played": 1
-    },
-    {
-      "name": "A Face in the Crowd",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1178",
@@ -53,9 +12,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "EC:  Pump It Up    DH:  Maneater",
-      "closing_song": "EC:  What's So Funny     DH:  You Make My Dreams"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "451",
@@ -66,8 +25,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Elvis Costello TBD Song",
-      "closing_song": "Ain't No Tomorrow"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -2,48 +2,7 @@
   "id": "598",
   "name": "Tom Petty",
   "concert_count": 5,
-  "top_songs": [
-    {
-      "name": "Refugee",
-      "times_played": 5
-    },
-    {
-      "name": "Runnin' Down a Dream",
-      "times_played": 5
-    },
-    {
-      "name": "American Girl",
-      "times_played": 5
-    },
-    {
-      "name": "Mary Jane's Last Dance",
-      "times_played": 4
-    },
-    {
-      "name": "You Don't Know How It Feels",
-      "times_played": 4
-    },
-    {
-      "name": "I Won't Back Down",
-      "times_played": 4
-    },
-    {
-      "name": "Free Fallin'",
-      "times_played": 4
-    },
-    {
-      "name": "Don't Come Around Here No More",
-      "times_played": 4
-    },
-    {
-      "name": "It's Good to Be King",
-      "times_played": 4
-    },
-    {
-      "name": "Learning to Fly",
-      "times_played": 4
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "769",
@@ -53,9 +12,9 @@
       "venue": "Forest Hills Stadium",
       "city": "Forest Hills",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Rockin' Around with You",
-      "closing_song": "American Girl"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "768",
@@ -65,9 +24,9 @@
       "venue": "Forest Hills Stadium",
       "city": "Forest Hills",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Rockin' Around with You",
-      "closing_song": "American Girl"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "764",
@@ -77,9 +36,9 @@
       "venue": "Phildelphia",
       "city": "Philadelphia",
       "state": "PA",
-      "has_setlist": true,
-      "opening_song": "Rockin' Around with You",
-      "closing_song": "American Girl"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "759",
@@ -89,9 +48,9 @@
       "venue": "Prudential Center",
       "city": "Newark",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Rockin' Around with You",
-      "closing_song": "American Girl"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "535",
@@ -101,9 +60,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "So You Wanna Be a Rock and Roll Star",
-      "closing_song": "American Girl"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

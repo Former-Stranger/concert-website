@@ -2,48 +2,7 @@
   "id": "318",
   "name": "Kenny Chesney",
   "concert_count": 10,
-  "top_songs": [
-    {
-      "name": "Beer in Mexico",
-      "times_played": 4
-    },
-    {
-      "name": "Reality",
-      "times_played": 4
-    },
-    {
-      "name": "Summertime",
-      "times_played": 4
-    },
-    {
-      "name": "Pirate Flag",
-      "times_played": 4
-    },
-    {
-      "name": "No Shoes, No Shirt, No Problems",
-      "times_played": 4
-    },
-    {
-      "name": "Somewhere With You",
-      "times_played": 4
-    },
-    {
-      "name": "I Go Back",
-      "times_played": 4
-    },
-    {
-      "name": "Living in Fast Forward",
-      "times_played": 4
-    },
-    {
-      "name": "Young",
-      "times_played": 4
-    },
-    {
-      "name": "How Forever Feels",
-      "times_played": 4
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1186",
@@ -53,9 +12,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "KC:  Living in Fast Forward  ZBB: Keep Me in Mind",
-      "closing_song": "KC: Don't Happen Twice   ZBB: Homegrown"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "853",
@@ -65,9 +24,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Beer in Mexico",
-      "closing_song": "She Thinks My Tractor's Sexy"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "831",
@@ -77,9 +36,9 @@
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
       "state": "PA",
-      "has_setlist": true,
-      "opening_song": "Beer in Mexico",
-      "closing_song": "She Thinks My Tractor's Sexy"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "780",
@@ -89,9 +48,9 @@
       "venue": "Gillette Stadium",
       "city": "Foxborough",
       "state": "MA",
-      "has_setlist": true,
-      "opening_song": "Beer in Mexico",
-      "closing_song": "She Thinks My Tractor's Sexy"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "776",
@@ -101,9 +60,9 @@
       "venue": "Mohegan Sun Arena",
       "city": "Uncasville",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "Beer in Mexico",
-      "closing_song": "She Thinks My Tractor's Sexy"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "714",
@@ -113,9 +72,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Beer in Mexico",
-      "closing_song": "It Don't Happen Twice"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "645",
@@ -125,9 +84,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Hicktown/She's Country   &   Drink It Up/Boys of Fall",
-      "closing_song": "Summer of 69 (Together)"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "550",
@@ -137,9 +96,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Feel Like a Rock Star  /  Creepin'",
-      "closing_song": "She Thinks My Tractor's Sexy /  Springsteen"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "513",
@@ -150,8 +109,8 @@
       "city": "East Rutherford",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Beer in Mexico  / Felt Good on My Lips",
-      "closing_song": "Running on Empty (Duo)"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "510",
@@ -162,8 +121,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Summertime",
-      "closing_song": "Rock Star"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

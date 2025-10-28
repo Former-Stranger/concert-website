@@ -2,48 +2,7 @@
   "id": "614",
   "name": "Tribute to Phil Lesh / Graham Lesh",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Dark Star",
-      "times_played": 2
-    },
-    {
-      "name": "Friend of the Devil",
-      "times_played": 1
-    },
-    {
-      "name": "Deal",
-      "times_played": 1
-    },
-    {
-      "name": "Althea",
-      "times_played": 1
-    },
-    {
-      "name": "Peggy-O",
-      "times_played": 1
-    },
-    {
-      "name": "Crazy Fingers",
-      "times_played": 1
-    },
-    {
-      "name": "Stella Blue",
-      "times_played": 1
-    },
-    {
-      "name": "He's Gone",
-      "times_played": 1
-    },
-    {
-      "name": "Cold Rain and Snow",
-      "times_played": 1
-    },
-    {
-      "name": "Help on the Way",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1245",
@@ -53,9 +12,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Dark Star / Viola Lee Blues",
-      "closing_song": "Box of Rain"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1243",
@@ -65,9 +24,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Friend of the Devil",
-      "closing_song": "Not Fade Away"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

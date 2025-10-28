@@ -2,40 +2,7 @@
   "id": "669",
   "name": "the Wallflowers",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Sleepwalker",
-      "times_played": 1
-    },
-    {
-      "name": "Letters From the Wasteland",
-      "times_played": 1
-    },
-    {
-      "name": "6th Avenue Heartache",
-      "times_played": 1
-    },
-    {
-      "name": "Three Marlenas",
-      "times_played": 1
-    },
-    {
-      "name": "\"Heroes\"",
-      "times_played": 1
-    },
-    {
-      "name": "One Headlight",
-      "times_played": 1
-    },
-    {
-      "name": "The Difference",
-      "times_played": 1
-    },
-    {
-      "name": "Won't Get Fooled Again",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "142",
@@ -45,9 +12,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "JM: Gimmer Shelter\nWall: Sleepwalker",
-      "closing_song": "JM: Your Life is Now\nWall: Won't Get Fooled Again"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

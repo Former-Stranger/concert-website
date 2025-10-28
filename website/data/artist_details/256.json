@@ -2,44 +2,7 @@
   "id": "256",
   "name": "J. Geils Band",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Sno-Cone (Part 1)",
-      "times_played": 1
-    },
-    {
-      "name": "Hard Drivin' Man",
-      "times_played": 1
-    },
-    {
-      "name": "Centerfold",
-      "times_played": 1
-    },
-    {
-      "name": "Detroit Breakdown",
-      "times_played": 1
-    },
-    {
-      "name": "Must of Got Lost",
-      "times_played": 1
-    },
-    {
-      "name": "Love Stinks",
-      "times_played": 1
-    },
-    {
-      "name": "Lookin' for a Love",
-      "times_played": 1
-    },
-    {
-      "name": "Whammer Jammer",
-      "times_played": 1
-    },
-    {
-      "name": "Ain't Nothin' but a House Party",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "547",
@@ -49,9 +12,9 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "That's What the Water Made Me",
-      "closing_song": "I Love this Town"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

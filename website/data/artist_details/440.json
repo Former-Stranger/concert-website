@@ -2,48 +2,7 @@
   "id": "440",
   "name": "Queen + Adam Lambert",
   "concert_count": 3,
-  "top_songs": [
-    {
-      "name": "Another One Bites the Dust",
-      "times_played": 3
-    },
-    {
-      "name": "Fat Bottomed Girls",
-      "times_played": 3
-    },
-    {
-      "name": "Killer Queen",
-      "times_played": 3
-    },
-    {
-      "name": "Somebody to Love",
-      "times_played": 3
-    },
-    {
-      "name": "I Want It All",
-      "times_played": 3
-    },
-    {
-      "name": "Love of My Life",
-      "times_played": 3
-    },
-    {
-      "name": "'39",
-      "times_played": 3
-    },
-    {
-      "name": "Under Pressure",
-      "times_played": 3
-    },
-    {
-      "name": "Who Wants to Live Forever",
-      "times_played": 3
-    },
-    {
-      "name": "Guitar Solo",
-      "times_played": 3
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1123",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Radio Ga Ga",
-      "closing_song": "We are the Champions"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "929",
@@ -65,9 +24,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Now I'm Here",
-      "closing_song": "We are the Champions"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "587",
@@ -77,9 +36,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Now I'm Here",
-      "closing_song": "We Are the Champions"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

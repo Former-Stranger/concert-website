@@ -13,8 +13,8 @@
       "city": "Staten Island",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Various",
-      "closing_song": "Various"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "560",
@@ -25,8 +25,8 @@
       "city": "Asbury Park",
       "state": "NJ",
       "has_setlist": false,
-      "opening_song": "Rock and Roll Radio, One Guitar, Adam Raised a Cain",
-      "closing_song": "Thunder Road"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

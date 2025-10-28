@@ -11,7 +11,10 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Hartford HealthCare Amphitheater",
       "city": "Bridgeport",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "994",
@@ -20,7 +23,10 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Capitol Theatre",
       "city": "Port Chester",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

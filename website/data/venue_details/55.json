@@ -11,9 +11,9 @@
       "date": "2019-07-19",
       "festival_name": null,
       "artists": "Weird Al Yankovic",
-      "has_setlist": true,
-      "opening_song": "I Lost on Jeopardy",
-      "closing_song": "Yoda"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "187",
@@ -22,8 +22,8 @@
       "festival_name": "Multi-Artist Show",
       "artists": "Huey Lewis, the News",
       "has_setlist": false,
-      "opening_song": "It's Alright",
-      "closing_song": "Workin' For a Livin'"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

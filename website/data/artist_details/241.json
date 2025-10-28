@@ -2,48 +2,7 @@
   "id": "241",
   "name": "Guster",
   "concert_count": 3,
-  "top_songs": [
-    {
-      "name": "Barrel of a Gun",
-      "times_played": 2
-    },
-    {
-      "name": "I Spy",
-      "times_played": 2
-    },
-    {
-      "name": "What You Wish For",
-      "times_played": 2
-    },
-    {
-      "name": "Airport Song",
-      "times_played": 2
-    },
-    {
-      "name": "Either Way",
-      "times_played": 2
-    },
-    {
-      "name": "Fa Fa",
-      "times_played": 2
-    },
-    {
-      "name": "Careful",
-      "times_played": 1
-    },
-    {
-      "name": "Homecoming King",
-      "times_played": 1
-    },
-    {
-      "name": "Amsterdam",
-      "times_played": 1
-    },
-    {
-      "name": "Two Points for Honesty",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1196",
@@ -53,9 +12,9 @@
       "venue": "Asbury Park Beach",
       "city": "Asbury Park",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "BC:  No Speak  NK:  Dial Drunk",
-      "closing_song": "BC:  Remedy   NK:  Stick Season"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "179",
@@ -65,9 +24,9 @@
       "venue": "Quinnipiac University",
       "city": "Hamden",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "Barrel of a Gun",
-      "closing_song": "Airport Song"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "122",
@@ -77,9 +36,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Too Little To Late",
-      "closing_song": "Call and Answer"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

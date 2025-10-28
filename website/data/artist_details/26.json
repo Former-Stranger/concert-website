@@ -2,48 +2,7 @@
   "id": "26",
   "name": "As the Crow Flies (Chris Robinson)",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Sting Me",
-      "times_played": 2
-    },
-    {
-      "name": "Nonfiction",
-      "times_played": 2
-    },
-    {
-      "name": "Good Friday",
-      "times_played": 2
-    },
-    {
-      "name": "Almost Cut My Hair",
-      "times_played": 2
-    },
-    {
-      "name": "My Morning Song",
-      "times_played": 2
-    },
-    {
-      "name": "Wiser Time",
-      "times_played": 2
-    },
-    {
-      "name": "She Talks to Angels",
-      "times_played": 2
-    },
-    {
-      "name": "Thorn in My Pride",
-      "times_played": 2
-    },
-    {
-      "name": "Jealous Again",
-      "times_played": 2
-    },
-    {
-      "name": "Remedy",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "891",
@@ -53,9 +12,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Feelin' Alright",
-      "closing_song": "Rock & Roll Hoochie Koo"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "823",
@@ -65,9 +24,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Remedy",
-      "closing_song": "I'd Love to Change the World"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

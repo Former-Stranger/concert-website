@@ -2,48 +2,7 @@
   "id": "436",
   "name": "Prince",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "The Question of U",
-      "times_played": 2
-    },
-    {
-      "name": "The One",
-      "times_played": 2
-    },
-    {
-      "name": "Chicken Grease",
-      "times_played": 1
-    },
-    {
-      "name": "Joy in Repetition",
-      "times_played": 1
-    },
-    {
-      "name": "A Long Walk",
-      "times_played": 1
-    },
-    {
-      "name": "My Radio Sure Sounds Good to Me",
-      "times_played": 1
-    },
-    {
-      "name": "Hair",
-      "times_played": 1
-    },
-    {
-      "name": "For the Love of You",
-      "times_played": 1
-    },
-    {
-      "name": "God Be With You Til We Meet Again",
-      "times_played": 1
-    },
-    {
-      "name": "Rock and Roll Hall of Fame induction speech intro",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "462",
@@ -53,9 +12,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Welcome 2 America",
-      "closing_song": "A Love Bizarre"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "206",
@@ -65,9 +24,9 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Musicology",
-      "closing_song": "Purple Rain"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

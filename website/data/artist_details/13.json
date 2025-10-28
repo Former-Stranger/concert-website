@@ -2,48 +2,7 @@
   "id": "13",
   "name": "Alice Cooper",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Controller Intro",
-      "times_played": 1
-    },
-    {
-      "name": "Brutal Planet",
-      "times_played": 1
-    },
-    {
-      "name": "Gimme",
-      "times_played": 1
-    },
-    {
-      "name": "Go to Hell",
-      "times_played": 1
-    },
-    {
-      "name": "Blow Me a Kiss",
-      "times_played": 1
-    },
-    {
-      "name": "I'm Eighteen",
-      "times_played": 1
-    },
-    {
-      "name": "Pick Up the Bones",
-      "times_played": 1
-    },
-    {
-      "name": "Feed My Frankenstein",
-      "times_played": 1
-    },
-    {
-      "name": "Wicked Young Man",
-      "times_played": 1
-    },
-    {
-      "name": "Dead Babies",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "121",
@@ -53,9 +12,9 @@
       "venue": "Great South Bay Music Festival",
       "city": "Oakdale",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Unknown",
-      "closing_song": "I Want to Be Elected"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

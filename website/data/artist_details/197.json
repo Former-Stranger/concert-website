@@ -2,48 +2,7 @@
   "id": "197",
   "name": "Empire of the Sun",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Changes",
-      "times_played": 1
-    },
-    {
-      "name": "The Feeling You Get",
-      "times_played": 1
-    },
-    {
-      "name": "Half Mast",
-      "times_played": 1
-    },
-    {
-      "name": "Cherry Blossom",
-      "times_played": 1
-    },
-    {
-      "name": "We Are the People",
-      "times_played": 1
-    },
-    {
-      "name": "Concert Pitch",
-      "times_played": 1
-    },
-    {
-      "name": "DNA",
-      "times_played": 1
-    },
-    {
-      "name": "Television",
-      "times_played": 1
-    },
-    {
-      "name": "Music on the Radio",
-      "times_played": 1
-    },
-    {
-      "name": "Revolve",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1221",
@@ -53,9 +12,9 @@
       "venue": "Kings Theatre",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Changes",
-      "closing_song": "Alive"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

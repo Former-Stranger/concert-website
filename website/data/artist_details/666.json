@@ -2,48 +2,7 @@
   "id": "666",
   "name": "the Pretenders",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "The Loner",
-      "times_played": 1
-    },
-    {
-      "name": "Talk of the Town",
-      "times_played": 1
-    },
-    {
-      "name": "Popstar",
-      "times_played": 1
-    },
-    {
-      "name": "Message of Love",
-      "times_played": 1
-    },
-    {
-      "name": "Hymn to Her",
-      "times_played": 1
-    },
-    {
-      "name": "Kid",
-      "times_played": 1
-    },
-    {
-      "name": "My City Was Gone",
-      "times_played": 1
-    },
-    {
-      "name": "Back on the Chain Gang",
-      "times_played": 1
-    },
-    {
-      "name": "Night in My Veins",
-      "times_played": 1
-    },
-    {
-      "name": "The Needle and the Damage Done",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "288",
@@ -54,8 +13,8 @@
       "city": "Bridgeport",
       "state": "CT",
       "has_setlist": false,
-      "opening_song": "Can't Explain",
-      "closing_song": "Tea for Two"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "115",
@@ -65,9 +24,9 @@
       "venue": "Freedom Mortgage Pavilion",
       "city": "Camden",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "NY: Motorcylce Mama \nPre: The Loner",
-      "closing_song": "NY: Mellow My Mind\nPre: Needle & Damage Done"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

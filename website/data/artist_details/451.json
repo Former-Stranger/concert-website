@@ -13,8 +13,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "By Your Way",
-      "closing_song": "Zephyr Song"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "14",
@@ -25,8 +25,8 @@
       "city": "Uniondale",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Suck My Kiss",
-      "closing_song": "Deep Kick"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

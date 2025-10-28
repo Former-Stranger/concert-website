@@ -2,48 +2,7 @@
   "id": "104",
   "name": "Buckingham/McVie",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Trouble",
-      "times_played": 1
-    },
-    {
-      "name": "Wish You Were Here",
-      "times_played": 1
-    },
-    {
-      "name": "Never Going Back Again",
-      "times_played": 1
-    },
-    {
-      "name": "Shut Us Down",
-      "times_played": 1
-    },
-    {
-      "name": "Sleeping Around the Corner",
-      "times_played": 1
-    },
-    {
-      "name": "Feel About You",
-      "times_played": 1
-    },
-    {
-      "name": "In My World",
-      "times_played": 1
-    },
-    {
-      "name": "Too Far Gone",
-      "times_played": 1
-    },
-    {
-      "name": "Hold Me",
-      "times_played": 1
-    },
-    {
-      "name": "Little Lies",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "775",
@@ -53,9 +12,9 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Trouble",
-      "closing_song": "Game of Pretend"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

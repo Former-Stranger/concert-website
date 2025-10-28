@@ -2,48 +2,7 @@
   "id": "326",
   "name": "Kip Moore",
   "concert_count": 6,
-  "top_songs": [
-    {
-      "name": "Come and Get It",
-      "times_played": 5
-    },
-    {
-      "name": "Running for You",
-      "times_played": 5
-    },
-    {
-      "name": "Somethin' 'Bout a Truck",
-      "times_played": 5
-    },
-    {
-      "name": "Beer Money",
-      "times_played": 4
-    },
-    {
-      "name": "Wild Ones",
-      "times_played": 4
-    },
-    {
-      "name": "Plead the Fifth",
-      "times_played": 4
-    },
-    {
-      "name": "Just Another Girl",
-      "times_played": 4
-    },
-    {
-      "name": "More Girls Like You",
-      "times_played": 4
-    },
-    {
-      "name": "The Bull",
-      "times_played": 4
-    },
-    {
-      "name": "Dirt Road",
-      "times_played": 4
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1225",
@@ -53,9 +12,9 @@
       "venue": "Webster Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Lipstick",
-      "closing_song": "Live Here to Work"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "1071",
@@ -66,8 +25,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Fire and Flame",
-      "closing_song": "Just Another Girl"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "949",
@@ -77,9 +36,9 @@
       "venue": "Mayo Performing Arts Center",
       "city": "Morristown",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "Bittersweet Company",
-      "closing_song": "Guitar Man"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "912",
@@ -89,9 +48,9 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "Bittersweet Company",
-      "closing_song": "Guitar Man"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "864",
@@ -101,9 +60,9 @@
       "venue": "Hammerstein Ballroom",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Fast Women",
-      "closing_song": "New Song TBD"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "736",
@@ -113,9 +72,9 @@
       "venue": "Terminal 5",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Lipstick",
-      "closing_song": "Fly Again"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

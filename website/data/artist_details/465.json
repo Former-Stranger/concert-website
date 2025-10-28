@@ -2,48 +2,7 @@
   "id": "465",
   "name": "Ringo Starr & His All-Starr Band (Kirke, Jack Bruce, Gary Brooker, Frampton, Rivera)",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "It Don't Come Easy",
-      "times_played": 1
-    },
-    {
-      "name": "Act Naturally",
-      "times_played": 1
-    },
-    {
-      "name": "The Devil Came From Kansas",
-      "times_played": 1
-    },
-    {
-      "name": "Show Me the Way",
-      "times_played": 1
-    },
-    {
-      "name": "Sunshine of Your Love",
-      "times_played": 1
-    },
-    {
-      "name": "Shooting Star",
-      "times_played": 1
-    },
-    {
-      "name": "Boys",
-      "times_played": 1
-    },
-    {
-      "name": "Baby, I Love Your Way",
-      "times_played": 1
-    },
-    {
-      "name": "You're Sixteen",
-      "times_played": 1
-    },
-    {
-      "name": "Yellow Submarine",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "39",
@@ -53,9 +12,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Unknown",
-      "closing_song": "With a Little Help From My Friends"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

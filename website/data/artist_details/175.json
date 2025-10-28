@@ -2,48 +2,7 @@
   "id": "175",
   "name": "Don Henley (w. Shawn Colvin)",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Seven Bridges Road",
-      "times_played": 1
-    },
-    {
-      "name": "No, Thank You",
-      "times_played": 1
-    },
-    {
-      "name": "The End of the Innocence",
-      "times_played": 1
-    },
-    {
-      "name": "The Heart of the Matter",
-      "times_played": 1
-    },
-    {
-      "name": "The Last Worthless Evening",
-      "times_played": 1
-    },
-    {
-      "name": "Shangri-La",
-      "times_played": 1
-    },
-    {
-      "name": "Bramble Rose",
-      "times_played": 1
-    },
-    {
-      "name": "New York Minute",
-      "times_played": 1
-    },
-    {
-      "name": "Too Much Pride",
-      "times_played": 1
-    },
-    {
-      "name": "I Put a Spell on You",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "661",
@@ -53,9 +12,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Seven Bridges Road",
-      "closing_song": "All She Wants to Do is Dance"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

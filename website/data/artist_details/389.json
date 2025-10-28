@@ -2,48 +2,7 @@
   "id": "389",
   "name": "Mudcrutch",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Shady Grove",
-      "times_played": 2
-    },
-    {
-      "name": "Orphan of the Storm",
-      "times_played": 2
-    },
-    {
-      "name": "Six Days on the Road",
-      "times_played": 2
-    },
-    {
-      "name": "Scare Easy",
-      "times_played": 2
-    },
-    {
-      "name": "Trailer",
-      "times_played": 2
-    },
-    {
-      "name": "This Is a Good Street",
-      "times_played": 2
-    },
-    {
-      "name": "Lover of the Bayou",
-      "times_played": 2
-    },
-    {
-      "name": "Beautiful World",
-      "times_played": 2
-    },
-    {
-      "name": "Dreams of Flying",
-      "times_played": 2
-    },
-    {
-      "name": "Save Your Water",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "698",
@@ -53,9 +12,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Shady Grove",
-      "closing_song": "Crystal River"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "696",
@@ -65,9 +24,9 @@
       "venue": "Webster Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Shady Grove",
-      "closing_song": "Crystal River"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

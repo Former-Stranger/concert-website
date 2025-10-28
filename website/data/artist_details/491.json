@@ -2,48 +2,7 @@
   "id": "491",
   "name": "Ryan Adams",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Do You Still Love Me?",
-      "times_played": 1
-    },
-    {
-      "name": "Magnolia Mountain",
-      "times_played": 1
-    },
-    {
-      "name": "Dirty Rain",
-      "times_played": 1
-    },
-    {
-      "name": "Prisoner",
-      "times_played": 1
-    },
-    {
-      "name": "Kim",
-      "times_played": 1
-    },
-    {
-      "name": "Haunted House",
-      "times_played": 1
-    },
-    {
-      "name": "Peaceful Valley",
-      "times_played": 1
-    },
-    {
-      "name": "Let It Ride",
-      "times_played": 1
-    },
-    {
-      "name": "Breakdown",
-      "times_played": 1
-    },
-    {
-      "name": "Everybody Knows",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "744",
@@ -53,9 +12,9 @@
       "venue": "Apollo Theater",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Do You Still Love Me",
-      "closing_song": "Pick Me Up"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

@@ -2,48 +2,7 @@
   "id": "633",
   "name": "Weird Al Yankovic",
   "concert_count": 4,
-  "top_songs": [
-    {
-      "name": "The Saga Begins",
-      "times_played": 4
-    },
-    {
-      "name": "CNR",
-      "times_played": 3
-    },
-    {
-      "name": "The Biggest Ball of Twine in Minnesota",
-      "times_played": 2
-    },
-    {
-      "name": "Don't Download This Song",
-      "times_played": 2
-    },
-    {
-      "name": "You Don't Love Me Anymore",
-      "times_played": 2
-    },
-    {
-      "name": "Jackson Park Express",
-      "times_played": 2
-    },
-    {
-      "name": "Smells Like Nirvana",
-      "times_played": 2
-    },
-    {
-      "name": "Dare to Be Stupid",
-      "times_played": 2
-    },
-    {
-      "name": "White & Nerdy",
-      "times_played": 2
-    },
-    {
-      "name": "Amish Paradise",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "923",
@@ -53,9 +12,9 @@
       "venue": "Foxwoods Resort Casino",
       "city": "Mashantucket",
       "state": "CT",
-      "has_setlist": true,
-      "opening_song": "I Lost on Jeopardy",
-      "closing_song": "Yoda"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "819",
@@ -65,9 +24,9 @@
       "venue": "Paramount",
       "city": "Huntington",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Biggest Ball of Twine in Minnesota",
-      "closing_song": "The Saga Begins"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "815",
@@ -77,9 +36,9 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Jackson Park Express",
-      "closing_song": "The Saga Begins"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "541",
@@ -89,9 +48,9 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Polka Face",
-      "closing_song": "Yoda"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

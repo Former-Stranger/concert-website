@@ -2,48 +2,7 @@
   "id": "447",
   "name": "Rascal Flatts",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Summer Nights",
-      "times_played": 1
-    },
-    {
-      "name": "I Like the Sound of That",
-      "times_played": 1
-    },
-    {
-      "name": "Banjo",
-      "times_played": 1
-    },
-    {
-      "name": "A Strange Way to Save the World",
-      "times_played": 1
-    },
-    {
-      "name": "Life Is a Highway",
-      "times_played": 1
-    },
-    {
-      "name": "Why Wait",
-      "times_played": 1
-    },
-    {
-      "name": "Stand / In the Air Tonight",
-      "times_played": 1
-    },
-    {
-      "name": "Rewind",
-      "times_played": 1
-    },
-    {
-      "name": "Fast Cars and Freedom",
-      "times_played": 1
-    },
-    {
-      "name": "Let It Snow! Let It Snow! Let It Snow!",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "731",
@@ -53,9 +12,9 @@
       "venue": "The Theater at Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Summertime",
-      "closing_song": "Me and My Gang"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

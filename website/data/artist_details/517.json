@@ -2,48 +2,7 @@
   "id": "517",
   "name": "Slash",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Ghost",
-      "times_played": 1
-    },
-    {
-      "name": "Nightrain",
-      "times_played": 1
-    },
-    {
-      "name": "Back From Cali",
-      "times_played": 1
-    },
-    {
-      "name": "World on Fire",
-      "times_played": 1
-    },
-    {
-      "name": "You Could Be Mine",
-      "times_played": 1
-    },
-    {
-      "name": "Anastasia",
-      "times_played": 1
-    },
-    {
-      "name": "You're a Lie",
-      "times_played": 1
-    },
-    {
-      "name": "Sweet Child o' Mine",
-      "times_played": 1
-    },
-    {
-      "name": "Slither",
-      "times_played": 1
-    },
-    {
-      "name": "By the Sword",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "586",
@@ -53,9 +12,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Back in the Saddle",
-      "closing_song": "Sweet emotion"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

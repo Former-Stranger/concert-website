@@ -2,48 +2,7 @@
   "id": "406",
   "name": "OAR",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "The Wanderer",
-      "times_played": 1
-    },
-    {
-      "name": "Lay Down",
-      "times_played": 1
-    },
-    {
-      "name": "Wonderful Day",
-      "times_played": 1
-    },
-    {
-      "name": "Black Rock",
-      "times_played": 1
-    },
-    {
-      "name": "Heard the World",
-      "times_played": 1
-    },
-    {
-      "name": "Something Coming Over",
-      "times_played": 1
-    },
-    {
-      "name": "Hey Girl",
-      "times_played": 1
-    },
-    {
-      "name": "To Zion Goes I",
-      "times_played": 1
-    },
-    {
-      "name": "Tragedy in Waiting",
-      "times_played": 1
-    },
-    {
-      "name": "Shattered (Turn the Car Around)",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "905",
@@ -54,8 +13,8 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
-      "opening_song": "Peace",
-      "closing_song": "Knockin At My Door"
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "548",
@@ -65,9 +24,9 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
-      "has_setlist": true,
-      "opening_song": "The Wanderer",
-      "closing_song": "Born to Run"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

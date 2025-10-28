@@ -2,48 +2,7 @@
   "id": "311",
   "name": "Kacey Musgraves",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Whiskey River",
-      "times_played": 1
-    },
-    {
-      "name": "Still Is Still Moving to Me",
-      "times_played": 1
-    },
-    {
-      "name": "Beer for My Horses",
-      "times_played": 1
-    },
-    {
-      "name": "Good Hearted Woman",
-      "times_played": 1
-    },
-    {
-      "name": "Mammas Don't Let Your Babies Grow Up to Be Cowboys",
-      "times_played": 1
-    },
-    {
-      "name": "Funny How Time Slips Away",
-      "times_played": 1
-    },
-    {
-      "name": "Crazy",
-      "times_played": 1
-    },
-    {
-      "name": "Night Life",
-      "times_played": 1
-    },
-    {
-      "name": "Down Yonder",
-      "times_played": 1
-    },
-    {
-      "name": "Me and Paul",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "578",
@@ -53,9 +12,9 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Whiskey River  / Let Me Touch You",
-      "closing_song": "I Saw the Light  / Your Long Journey"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

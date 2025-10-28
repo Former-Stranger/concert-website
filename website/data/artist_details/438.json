@@ -2,48 +2,7 @@
   "id": "438",
   "name": "Q)",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "The Low Spark of High Heeled Boys",
-      "times_played": 2
-    },
-    {
-      "name": "Mason's Children",
-      "times_played": 1
-    },
-    {
-      "name": "Doin' That Rag",
-      "times_played": 1
-    },
-    {
-      "name": "So What",
-      "times_played": 1
-    },
-    {
-      "name": "She Said She Said",
-      "times_played": 1
-    },
-    {
-      "name": "Night of 1000 Stars",
-      "times_played": 1
-    },
-    {
-      "name": "Shakedown Street",
-      "times_played": 1
-    },
-    {
-      "name": "Viola Lee Blues",
-      "times_played": 1
-    },
-    {
-      "name": "New Speedway Boogie",
-      "times_played": 1
-    },
-    {
-      "name": "Broken Arrow",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1034",
@@ -52,7 +11,10 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Hartford HealthCare Amphitheater",
       "city": "Bridgeport",
-      "state": "CT"
+      "state": "CT",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "994",
@@ -61,7 +23,10 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Capitol Theatre",
       "city": "Port Chester",
-      "state": "NY"
+      "state": "NY",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

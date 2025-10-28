@@ -11,9 +11,9 @@
       "date": "2025-08-02",
       "festival_name": "Multi-Artist Show",
       "artists": "Lyle Lovett, His Large Band",
-      "has_setlist": true,
-      "opening_song": "Blues Walk/Pass Me No, O Gentle Savior",
-      "closing_song": "That's Right (You're Not from Texas)"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "965",
@@ -22,8 +22,8 @@
       "festival_name": null,
       "artists": "John Hiatt",
       "has_setlist": false,
-      "opening_song": "Real Fine Love",
-      "closing_song": "Have a Little Faith"
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }

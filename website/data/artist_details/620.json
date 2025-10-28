@@ -2,48 +2,7 @@
   "id": "620",
   "name": "Van Halen",
   "concert_count": 3,
-  "top_songs": [
-    {
-      "name": "You Really Got Me",
-      "times_played": 3
-    },
-    {
-      "name": "Runnin' With the Devil",
-      "times_played": 3
-    },
-    {
-      "name": "Romeo Delight",
-      "times_played": 3
-    },
-    {
-      "name": "Everybody Wants Some!!",
-      "times_played": 3
-    },
-    {
-      "name": "Somebody Get Me a Doctor",
-      "times_played": 3
-    },
-    {
-      "name": "Drum Solo",
-      "times_played": 3
-    },
-    {
-      "name": "Unchained",
-      "times_played": 3
-    },
-    {
-      "name": "Dance the Night Away",
-      "times_played": 3
-    },
-    {
-      "name": "I'll Wait",
-      "times_played": 3
-    },
-    {
-      "name": "Hot for Teacher",
-      "times_played": 3
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "643",
@@ -53,9 +12,9 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "Light up the Sky",
-      "closing_song": "Jump"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "502",
@@ -65,9 +24,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "You Really Got Me",
-      "closing_song": "Jump"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     },
     {
       "id": "324",
@@ -77,9 +36,9 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
-      "opening_song": "You Really Got Me",
-      "closing_song": "Jump"
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
     }
   ]
 }
