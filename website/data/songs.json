@@ -1,7 +1,158 @@
 {
-  "all_songs": [],
+  "all_songs": [
+    {
+      "name": "I Drove All Night",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "She Bop",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "All Through the Night",
+      "times_heard": 1,
+      "is_mostly_cover": true
+    },
+    {
+      "name": "Hope",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "The Goonies 'R' Good Enough",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Money Changes Everything",
+      "times_heard": 1,
+      "is_mostly_cover": true
+    },
+    {
+      "name": "Shine",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Alone in the Harbor",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Time After Time",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Girls Just Want to Have Fun",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "True Colors",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Infatuation",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Some Guys Have All the Luck",
+      "times_heard": 1,
+      "is_mostly_cover": true
+    },
+    {
+      "name": "You Wear It Well",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Having a Party",
+      "times_heard": 1,
+      "is_mostly_cover": true
+    },
+    {
+      "name": "Tonight's the Night (Gonna Be Alright)",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "It Takes Two",
+      "times_heard": 1,
+      "is_mostly_cover": true
+    },
+    {
+      "name": "Forever Young",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Hole in My Heart",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Rhythm of My Heart",
+      "times_heard": 1,
+      "is_mostly_cover": true
+    },
+    {
+      "name": "Maggie May",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Downtown Train",
+      "times_heard": 1,
+      "is_mostly_cover": true
+    },
+    {
+      "name": "The First Cut Is the Deepest",
+      "times_heard": 1,
+      "is_mostly_cover": true
+    },
+    {
+      "name": "You're in My Heart (The Final Acclaim)",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Grace",
+      "times_heard": 1,
+      "is_mostly_cover": true
+    },
+    {
+      "name": "Have I Told You Lately",
+      "times_heard": 1,
+      "is_mostly_cover": true
+    },
+    {
+      "name": "Nutbush City Limits",
+      "times_heard": 1,
+      "is_mostly_cover": true
+    },
+    {
+      "name": "Stay With Me",
+      "times_heard": 1,
+      "is_mostly_cover": true
+    },
+    {
+      "name": "Da Ya Think I'm Sexy?",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Sailing",
+      "times_heard": 1,
+      "is_mostly_cover": true
+    }
+  ],
   "opening_songs_by_artist": {},
   "closing_songs_by_artist": {},
   "encore_songs_by_artist": {},
-  "total_unique_songs": 0
+  "total_unique_songs": 30
 }

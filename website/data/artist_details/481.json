@@ -2,7 +2,48 @@
   "id": "481",
   "name": "Rod Stewart",
   "concert_count": 6,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "I Drove All Night",
+      "times_played": 1
+    },
+    {
+      "name": "She Bop",
+      "times_played": 1
+    },
+    {
+      "name": "All Through the Night",
+      "times_played": 1
+    },
+    {
+      "name": "Hope",
+      "times_played": 1
+    },
+    {
+      "name": "The Goonies 'R' Good Enough",
+      "times_played": 1
+    },
+    {
+      "name": "Money Changes Everything",
+      "times_played": 1
+    },
+    {
+      "name": "Shine",
+      "times_played": 1
+    },
+    {
+      "name": "Alone in the Harbor",
+      "times_played": 1
+    },
+    {
+      "name": "Time After Time",
+      "times_played": 1
+    },
+    {
+      "name": "Girls Just Want to Have Fun",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1048",
@@ -24,7 +65,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
