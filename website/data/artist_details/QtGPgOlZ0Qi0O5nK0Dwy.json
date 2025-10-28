@@ -2,7 +2,48 @@
   "id": "QtGPgOlZ0Qi0O5nK0Dwy",
   "name": "Third Eye Blind",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "The Lung",
+      "times_played": 1
+    },
+    {
+      "name": "Been There All the Time",
+      "times_played": 1
+    },
+    {
+      "name": "Garden",
+      "times_played": 1
+    },
+    {
+      "name": "Kracked",
+      "times_played": 1
+    },
+    {
+      "name": "Sludgefeast",
+      "times_played": 1
+    },
+    {
+      "name": "Feel the Pain",
+      "times_played": 1
+    },
+    {
+      "name": "Little Fury Things",
+      "times_played": 1
+    },
+    {
+      "name": "Out There",
+      "times_played": 1
+    },
+    {
+      "name": "Start Choppin",
+      "times_played": 1
+    },
+    {
+      "name": "Freak Scene",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1276",
@@ -12,7 +53,7 @@
       "venue": "Highlands Concert Series",
       "city": "Amenia",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

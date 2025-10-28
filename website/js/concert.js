@@ -145,56 +145,72 @@ function renderConcertDetail(concert) {
 
     // Render setlist(s)
     if (hasMultipleSetlists) {
-        // Multiple setlists (co-headliners)
+        // Multiple setlists - separate openers from headliners
+        const openers = concert.setlists.filter(s => s.artist_role === 'opener');
+        const headliners = concert.setlists.filter(s => s.artist_role === 'headliner' || s.artist_role === 'festival_performer');
+
+        const renderSetlist = (setlist, showRole = false) => {
+            const songsBySet = groupSongsBySet(setlist.songs);
+            return `
+                <div class="mb-10">
+                    <div class="flex justify-between items-center mb-6">
+                        <h3 class="text-3xl font-bold poster-title" style="color: #c1502e;">
+                            ${setlist.artist_name}
+                            ${showRole && setlist.artist_role === 'opener' ? '<span class="text-lg opacity-70">(opener)</span>' : ''}
+                            <span class="text-xl opacity-70">(${setlist.song_count} songs)</span>
+                        </h3>
+                        ${setlist.setlistfm_url ? `
+                            <a href="${setlist.setlistfm_url}" target="_blank" class="setlist-fm-btn inline-block px-4 py-2 rounded text-sm">
+                                <i class="fas fa-external-link-alt mr-2"></i>View on Setlist.fm
+                            </a>
+                        ` : ''}
+                    </div>
+                    ${Object.entries(songsBySet).map(([setName, songs]) => `
+                        <div class="mb-6">
+                            <h4 class="text-xl font-bold mb-4 poster-title" style="color: #d4773e;">
+                                ${setName}
+                                ${songs[0].encore > 0 ? `<span class="text-lg opacity-70">(Encore ${songs[0].encore})</span>` : ''}
+                            </h4>
+                            <div class="space-y-3">
+                                ${songs.map(song => `
+                                    <div class="song-item flex items-start p-4 rounded">
+                                        <div class="font-bold mr-4 min-w-[40px]" style="color: #d4773e; font-family: 'Bebas Neue', cursive; font-size: 1.5rem;">${song.position}</div>
+                                        <div class="flex-1">
+                                            <div class="font-bold text-lg">${song.name}</div>
+                                            ${song.is_cover && song.cover_artist ? `
+                                                <div class="text-sm mt-1 font-semibold" style="color: #c1502e;">
+                                                    <i class="fas fa-record-vinyl mr-1"></i>Cover of ${song.cover_artist}
+                                                </div>
+                                            ` : ''}
+                                            ${song.guest_artist ? `
+                                                <div class="text-sm mt-1 font-semibold" style="color: #4ade80;">
+                                                    <i class="fas fa-user-plus mr-1"></i>with ${song.guest_artist}
+                                                </div>
+                                            ` : ''}
+                                        </div>
+                                    </div>
+                                `).join('')}
+                            </div>
+                        </div>
+                    `).join('')}
+                </div>
+            `;
+        };
+
         setlistContainer.innerHTML = `
             <div class="marquee-header text-center text-3xl rounded mb-6">
                 <i class="fas fa-list-ul mr-3"></i>Setlists
             </div>
-            ${concert.setlists.map(setlist => {
-                const songsBySet = groupSongsBySet(setlist.songs);
-                return `
-                    <div class="mb-10">
-                        <div class="flex justify-between items-center mb-6">
-                            <h3 class="text-3xl font-bold poster-title" style="color: #c1502e;">
-                                ${setlist.artist_name} <span class="text-xl opacity-70">(${setlist.song_count} songs)</span>
-                            </h3>
-                            ${setlist.setlistfm_url ? `
-                                <a href="${setlist.setlistfm_url}" target="_blank" class="setlist-fm-btn inline-block px-4 py-2 rounded text-sm">
-                                    <i class="fas fa-external-link-alt mr-2"></i>View on Setlist.fm
-                                </a>
-                            ` : ''}
-                        </div>
-                        ${Object.entries(songsBySet).map(([setName, songs]) => `
-                            <div class="mb-6">
-                                <h4 class="text-xl font-bold mb-4 poster-title" style="color: #d4773e;">
-                                    ${setName}
-                                    ${songs[0].encore > 0 ? `<span class="text-lg opacity-70">(Encore ${songs[0].encore})</span>` : ''}
-                                </h4>
-                                <div class="space-y-3">
-                                    ${songs.map(song => `
-                                        <div class="song-item flex items-start p-4 rounded">
-                                            <div class="font-bold mr-4 min-w-[40px]" style="color: #d4773e; font-family: 'Bebas Neue', cursive; font-size: 1.5rem;">${song.position}</div>
-                                            <div class="flex-1">
-                                                <div class="font-bold text-lg">${song.name}</div>
-                                                ${song.is_cover && song.cover_artist ? `
-                                                    <div class="text-sm mt-1 font-semibold" style="color: #c1502e;">
-                                                        <i class="fas fa-record-vinyl mr-1"></i>Cover of ${song.cover_artist}
-                                                    </div>
-                                                ` : ''}
-                                                ${song.guest_artist ? `
-                                                    <div class="text-sm mt-1 font-semibold" style="color: #4ade80;">
-                                                        <i class="fas fa-user-plus mr-1"></i>with ${song.guest_artist}
-                                                    </div>
-                                                ` : ''}
-                                            </div>
-                                        </div>
-                                    `).join('')}
-                                </div>
-                            </div>
-                        `).join('')}
-                    </div>
-                `;
-            }).join('<hr class="border-2 border-[#d4773e] opacity-30 my-8">')}
+            ${openers.length > 0 ? `
+                <div class="mb-8">
+                    <h3 class="text-2xl font-bold mb-4 poster-title" style="color: #4ade80;">
+                        <i class="fas fa-play-circle mr-2"></i>Opening Act${openers.length > 1 ? 's' : ''}
+                    </h3>
+                    ${openers.map(setlist => renderSetlist(setlist, false)).join('<hr class="border-2 border-[#4ade80] opacity-20 my-6">')}
+                </div>
+                <hr class="border-2 border-[#d4773e] opacity-30 my-10">
+            ` : ''}
+            ${headliners.map(setlist => renderSetlist(setlist, false)).join('<hr class="border-2 border-[#d4773e] opacity-30 my-8">')}
         `;
     } else {
         // Single setlist (backward compatible)

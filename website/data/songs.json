@@ -1,6 +1,146 @@
 {
   "all_songs": [
     {
+      "name": "The Lung",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Been There All the Time",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Garden",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Kracked",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Sludgefeast",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Feel the Pain",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Little Fury Things",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Out There",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Start Choppin",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Freak Scene",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Just Like Heaven",
+      "times_heard": 1,
+      "is_mostly_cover": true
+    },
+    {
+      "name": "Training Ground",
+      "times_heard": 1,
+      "is_mostly_cover": true
+    },
+    {
+      "name": "Gargoyle",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Thanks a Lot",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Dust Storm",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Never Let You Go",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Narcolepsy",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Kids/wolf/company of",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Graduate",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Crystal Baller",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Wounded",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Losing a Whole Year",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Like A Lullaby",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Motorcycle Drive By",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Jumper",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Shipboard Cook",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Semi-Charmed Life",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "How's It Going to Be",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
       "name": "I Drove All Night",
       "times_heard": 1,
       "is_mostly_cover": false
@@ -154,5 +294,5 @@
   "opening_songs_by_artist": {},
   "closing_songs_by_artist": {},
   "encore_songs_by_artist": {},
-  "total_unique_songs": 30
+  "total_unique_songs": 58
 }

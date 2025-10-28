@@ -138,15 +138,15 @@ def fetch_setlists_for_concert(concert_id, concert_data, client, db, dry_run=Fal
             'message': description
     """
 
-    # Get all headliners
+    # Get all performing artists (headliners and openers)
     artists = concert_data.get('artists', [])
-    headliners = [a for a in artists if a.get('role') == 'headliner']
+    performing_artists = [a for a in artists if a.get('role') in ['headliner', 'opener', 'festival_performer']]
 
-    if not headliners:
+    if not performing_artists:
         return {
             'status': 'error',
             'setlists_created': 0,
-            'message': 'No headliners found'
+            'message': 'No performing artists found'
         }
 
     # Get concert details
@@ -171,12 +171,12 @@ def fetch_setlists_for_concert(concert_id, concert_data, client, db, dry_run=Fal
             'message': 'Invalid date format'
         }
 
-    # Fetch setlist for each headliner
+    # Fetch setlist for each performing artist
     setlists_found = []
 
-    for headliner in headliners:
-        artist_name = headliner.get('artist_name', '')
-        artist_id = headliner.get('artist_id', '')
+    for performer in performing_artists:
+        artist_name = performer.get('artist_name', '')
+        artist_id = performer.get('artist_id', '')
 
         if not artist_name:
             continue
