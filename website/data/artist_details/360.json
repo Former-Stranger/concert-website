@@ -2,7 +2,48 @@
   "id": "360",
   "name": "Lyle Lovett",
   "concert_count": 16,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "If I Had a Boat",
+      "times_played": 12
+    },
+    {
+      "name": "She's No Lady",
+      "times_played": 10
+    },
+    {
+      "name": "My Baby Don't Tolerate",
+      "times_played": 9
+    },
+    {
+      "name": "Thing Called Love",
+      "times_played": 8
+    },
+    {
+      "name": "White Boy Lost in the Blues",
+      "times_played": 7
+    },
+    {
+      "name": "Church",
+      "times_played": 6
+    },
+    {
+      "name": "I Will Rise Up",
+      "times_played": 6
+    },
+    {
+      "name": "Real Fine Love",
+      "times_played": 6
+    },
+    {
+      "name": "Have a Little Faith in Me",
+      "times_played": 6
+    },
+    {
+      "name": "Lift Up Every Stone",
+      "times_played": 6
+    }
+  ],
   "concerts": [
     {
       "id": "1271",

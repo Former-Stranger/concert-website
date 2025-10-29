@@ -1,0 +1,381 @@
+{
+  "id": "1222",
+  "show_number": 1221,
+  "date": "2024-11-27",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Tarrytown Music Hall",
+  "city": "Tarrytown",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Soulshine",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Stella Blues Band tributes to Allman",
+      "role": "festival_performer"
+    },
+    {
+      "name": "The Dead",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "523",
+      "artist_name": "Soulshine",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/soft-machine/2024/229-the-venue-london-england-b5fb1a2.html",
+      "song_count": 8,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Facelift",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Burden of Proof",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Soft Machine Legacy"
+        },
+        {
+          "position": 3,
+          "name": "Fourteen Hour Dream",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Heart Off Guard",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "The Stars Apart",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Backwards / Noisette",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Joy of a Toy",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "10:30 Returns to the Bedroom /Middleburn/The Tale of Taliesin",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ],
+      "tour_name": "Other Doors"
+    },
+    {
+      "artist_id": "533",
+      "artist_name": "Stella Blues Band tributes to Allman",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/the-southern-river-band/2024/the-garage-london-england-b5fb94a.html",
+      "song_count": 12,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Cigarettes (Ain't Helping Me None)",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Second Best",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Don't Take It To Heart",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Chasing After Love (I'll Burn a Hole in Your Shoes)",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Something's Gotta Give",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Watch Yourself (You're Gonna Hurt Somebody)",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Fuck You, Pay Me",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "Vice City III",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 9,
+          "name": "Stan Qualen",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "Chimney",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "The Streets Don't Lie",
+          "set_name": "Set 2",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 12,
+          "name": "Vice City II",
+          "set_name": "Set 2",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ]
+    },
+    {
+      "artist_id": "162",
+      "artist_name": "The Dead",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/playing-dead/2024/soundcheck-studios-pembroke-ma-b5fa992.html",
+      "song_count": 20,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Mississippi Half-Step Uptown Toodeloo",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 2,
+          "name": "Greatest Story Ever Told",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Bob Weir"
+        },
+        {
+          "position": 3,
+          "name": "Candyman",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 4,
+          "name": "Mama Tried",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Merle Haggard"
+        },
+        {
+          "position": 5,
+          "name": "Mexicali Blues",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Bob Weir"
+        },
+        {
+          "position": 6,
+          "name": "Ain't It Crazy",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Lightnin\u2019 Hopkins"
+        },
+        {
+          "position": 7,
+          "name": "Loose Lucy",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 8,
+          "name": "My Brother Esau",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 9,
+          "name": "Unbroken Chain",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 10,
+          "name": "Bird Song",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jerry Garcia"
+        },
+        {
+          "position": 11,
+          "name": "Hell in a Bucket",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 12,
+          "name": "Samson and Delilah",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "[traditional]"
+        },
+        {
+          "position": 13,
+          "name": "Ship of Fools",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 14,
+          "name": "Estimated Prophet",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 15,
+          "name": "Terrapin Station",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 16,
+          "name": "Corrina",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 17,
+          "name": "Hard to Handle",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Otis Redding"
+        },
+        {
+          "position": 18,
+          "name": "Morning Dew",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Bonnie Dobson"
+        },
+        {
+          "position": 19,
+          "name": "The Music Never Stopped",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 20,
+          "name": "Uncle John's Band",
+          "set_name": "Set 3",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        }
+      ]
+    }
+  ],
+  "total_song_count": 40,
+  "has_encore": false,
+  "tour_name": "Other Doors"
+}

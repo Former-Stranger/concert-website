@@ -2,7 +2,48 @@
   "id": "30",
   "name": "Avett Brothers (w./ Clem Snide)",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Pretty Girl From Matthews",
+      "times_played": 1
+    },
+    {
+      "name": "Cigarettes, Whiskey, and Wild, Wild Women",
+      "times_played": 1
+    },
+    {
+      "name": "My Losing Bet",
+      "times_played": 1
+    },
+    {
+      "name": "Me and God",
+      "times_played": 1
+    },
+    {
+      "name": "At the Beach",
+      "times_played": 1
+    },
+    {
+      "name": "Pretty Girl From Cedar Lane",
+      "times_played": 1
+    },
+    {
+      "name": "Famous Flower of Manhattan",
+      "times_played": 1
+    },
+    {
+      "name": "Talk on Indolence",
+      "times_played": 1
+    },
+    {
+      "name": "When I Drink",
+      "times_played": 1
+    },
+    {
+      "name": "Backwards With Time",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1051",

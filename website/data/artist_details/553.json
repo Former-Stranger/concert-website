@@ -2,7 +2,48 @@
   "id": "553",
   "name": "Sturgill Simpson",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Brace for Impact (Live a Little)",
+      "times_played": 2
+    },
+    {
+      "name": "You Don't Miss Your Water",
+      "times_played": 2
+    },
+    {
+      "name": "Long White Line",
+      "times_played": 2
+    },
+    {
+      "name": "Some Days",
+      "times_played": 2
+    },
+    {
+      "name": "Turtles All the Way Down",
+      "times_played": 2
+    },
+    {
+      "name": "All Around You",
+      "times_played": 2
+    },
+    {
+      "name": "Living the Dream",
+      "times_played": 2
+    },
+    {
+      "name": "Welcome to Earth (Pollywog)",
+      "times_played": 2
+    },
+    {
+      "name": "It Ain't All Flowers",
+      "times_played": 2
+    },
+    {
+      "name": "Life of Sin",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "1207",

@@ -1,0 +1,103 @@
+{
+  "id": "1197",
+  "show_number": 1196,
+  "date": "2024-09-15",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Asbury Park Beach",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "artists": [
+    {
+      "name": "SEA HEAR NOW: Bruce Springsteen",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Trey Anastaio",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Kool & Gang",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/kool-and-the-gang/2024/asbury-park-oceanfront-asbury-park-nj-53ab8371.html",
+  "song_count": 9,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Open Sesame",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Fresh",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Misled",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Too Hot",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Jungle Boogie",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null,
+      "guest_artist": "Prince Hakim"
+    },
+    {
+      "position": 6,
+      "name": "Hollywood Swingin'",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Ladies' Night",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Get Down on It",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Celebration",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

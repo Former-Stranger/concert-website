@@ -1,0 +1,247 @@
+{
+  "id": "577",
+  "show_number": 576,
+  "date": "2014-05-23",
+  "festival_name": null,
+  "venue": "Jones Beach Theater",
+  "city": "Wantagh",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Barry Gibb",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/barry-gibb/2014/nikon-at-jones-beach-theater-wantagh-ny-13c08559.html",
+  "song_count": 28,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Jive Talkin'",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bee Gees"
+    },
+    {
+      "position": 2,
+      "name": "You Should Be Dancing",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bee Gees"
+    },
+    {
+      "position": 3,
+      "name": "Lonely Days",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bee Gees"
+    },
+    {
+      "position": 4,
+      "name": "(Our Love) Don't Throw It All Away",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Andy Gibb"
+    },
+    {
+      "position": 5,
+      "name": "To Love Somebody",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bee Gees"
+    },
+    {
+      "position": 6,
+      "name": "How Can You Mend a Broken Heart?",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bee Gees"
+    },
+    {
+      "position": 7,
+      "name": "Stayin' Alive",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bee Gees"
+    },
+    {
+      "position": 8,
+      "name": "How Deep Is Your Love?",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bee Gees"
+    },
+    {
+      "position": 9,
+      "name": "On Time",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bee Gees"
+    },
+    {
+      "position": 10,
+      "name": "I've Gotta Get a Message to You",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bee Gees"
+    },
+    {
+      "position": 11,
+      "name": "Morning of My Life",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bee Gees"
+    },
+    {
+      "position": 12,
+      "name": "New York Mining Disaster 1941",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bee Gees"
+    },
+    {
+      "position": 13,
+      "name": "Run to Me",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bee Gees"
+    },
+    {
+      "position": 14,
+      "name": "I'm on Fire",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bruce Springsteen"
+    },
+    {
+      "position": 15,
+      "name": "Spirits (Having Flown)",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bee Gees"
+    },
+    {
+      "position": 16,
+      "name": "With the Sun in My Eyes",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bee Gees"
+    },
+    {
+      "position": 17,
+      "name": "I Started a Joke",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bee Gees"
+    },
+    {
+      "position": 18,
+      "name": "Spicks and Specks",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bee Gees"
+    },
+    {
+      "position": 19,
+      "name": "One",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bee Gees"
+    },
+    {
+      "position": 20,
+      "name": "Islands in the Stream",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bee Gees"
+    },
+    {
+      "position": 21,
+      "name": "Guilty",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 22,
+      "name": "Woman in Love",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 23,
+      "name": "Nights on Broadway",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bee Gees"
+    },
+    {
+      "position": 24,
+      "name": "Night Fever / More Than a Woman",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bee Gees"
+    },
+    {
+      "position": 25,
+      "name": "Grease",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Frankie Valli"
+    },
+    {
+      "position": 26,
+      "name": "Immortality",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bee Gees"
+    },
+    {
+      "position": 27,
+      "name": "Words",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bee Gees"
+    },
+    {
+      "position": 28,
+      "name": "Tragedy",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bee Gees"
+    }
+  ],
+  "tour_name": "Mythology"
+}

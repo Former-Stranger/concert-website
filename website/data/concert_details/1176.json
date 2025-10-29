@@ -1,0 +1,277 @@
+{
+  "id": "1176",
+  "show_number": 1175,
+  "date": "2024-06-29",
+  "festival_name": "Outlaw Festival",
+  "venue": "Jones Beach Theater",
+  "city": "Wantagh",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Willie Nelson",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Bob Dylan",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Robert Plant",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "61",
+      "artist_name": "Bob Dylan",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/bob-dylan/2024/northwell-at-jones-beach-theater-wantagh-ny-73ab32c1.html",
+      "song_count": 15,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Highway 61 Revisited",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Shooting Star",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Love Sick",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Little Queenie",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Chuck Berry"
+        },
+        {
+          "position": 5,
+          "name": "Mr. Blue",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Fleetwoods"
+        },
+        {
+          "position": 6,
+          "name": "Early Roman Kings",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Can't Wait",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "Under the Red Sky",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 9,
+          "name": "Things Have Changed",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "Stella Blue",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 11,
+          "name": "Six Days on the Road",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Paul Davis"
+        },
+        {
+          "position": 12,
+          "name": "Soon After Midnight",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 13,
+          "name": "Ballad of a Thin Man",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 14,
+          "name": "Simple Twist of Fate",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Mickey Raphael"
+        },
+        {
+          "position": 15,
+          "name": "I'll Be Your Baby Tonight",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ],
+      "tour_name": "Outlaw Music Festival Tour"
+    },
+    {
+      "artist_id": "470",
+      "artist_name": "Robert Plant",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/robert-plant-and-alison-krauss/2024/northwell-at-jones-beach-theater-wantagh-ny-3a959cb.html",
+      "song_count": 13,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Rich Woman",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Li'l Millet and His Creoles"
+        },
+        {
+          "position": 2,
+          "name": "Fortune Teller",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Benny Spellman"
+        },
+        {
+          "position": 3,
+          "name": "Can't Let Go",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Randy Weeks"
+        },
+        {
+          "position": 4,
+          "name": "The Price of Love",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Everly Brothers"
+        },
+        {
+          "position": 5,
+          "name": "Rock and Roll",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Led Zeppelin"
+        },
+        {
+          "position": 6,
+          "name": "Please Read the Letter",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jimmy Page & Robert Plant"
+        },
+        {
+          "position": 7,
+          "name": "High and Lonesome",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "Trouble With My Lover",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Allen Toussaint and Leo Nocentelli"
+        },
+        {
+          "position": 9,
+          "name": "In the Mood / Matty Groves / Gallows Pole",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "The Battle of Evermore",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Led Zeppelin"
+        },
+        {
+          "position": 11,
+          "name": "When the Levee Breaks",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Memphis Minnie & Kansas Joe McCoy"
+        },
+        {
+          "position": 12,
+          "name": "Stick With Me Baby",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Everly Brothers"
+        },
+        {
+          "position": 13,
+          "name": "Gone Gone Gone",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Everly Brothers"
+        }
+      ],
+      "tour_name": "Outlaw Music Festival Tour"
+    }
+  ],
+  "total_song_count": 28,
+  "has_encore": false,
+  "tour_name": "Outlaw Music Festival Tour"
+}

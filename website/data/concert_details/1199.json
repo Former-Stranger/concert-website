@@ -1,0 +1,244 @@
+{
+  "id": "1199",
+  "show_number": 1198,
+  "date": "2024-09-21",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Saratoga Performing Arts Center",
+  "city": "Saratoga Springs",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Farm Aid: Nelson",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Young",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Dave & Tim",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Rateliffe",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Mellencamp",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "151",
+      "artist_name": "Dave & Tim",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/dave-matthews-and-tim-reynolds/2024/saratoga-performing-arts-center-saratoga-springs-ny-63546e43.html",
+      "song_count": 6,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Save Me",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Dave Matthews"
+        },
+        {
+          "position": 2,
+          "name": "Don't Drink the Water",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Dave Matthews Band"
+        },
+        {
+          "position": 3,
+          "name": "Oh",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Dave Matthews"
+        },
+        {
+          "position": 4,
+          "name": "Ants Marching",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Dave Matthews Band"
+        },
+        {
+          "position": 5,
+          "name": "Lie in Our Graves",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Dave Matthews Band"
+        },
+        {
+          "position": 6,
+          "name": "The Weight",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Band",
+          "guest_artist": "Nathaniel Rateliff"
+        }
+      ]
+    },
+    {
+      "artist_id": "379",
+      "artist_name": "Mellencamp",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/john-mellencamp/2024/saratoga-performing-arts-center-saratoga-springs-ny-73546e4d.html",
+      "song_count": 8,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "John Cockers",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Paper in Fire",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Small Town",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Check It Out",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Longest Days",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Jack & Diane",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Rain on the Scarecrow",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "Pink Houses",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ]
+    },
+    {
+      "artist_id": "645",
+      "artist_name": "Young",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/neil-young-and-the-chrome-hearts/2024/saratoga-performing-arts-center-saratoga-springs-ny-7b546e48.html",
+      "song_count": 8,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "From Hank to Hendrix",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 2,
+          "name": "Harvest Moon",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 3,
+          "name": "Unknown Legend",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 4,
+          "name": "Journey Through the Past",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 5,
+          "name": "Love Earth",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young & Crazy Horse"
+        },
+        {
+          "position": 6,
+          "name": "Heart of Gold",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 7,
+          "name": "Homegrown",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 8,
+          "name": "Powderfinger",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young & Crazy Horse"
+        }
+      ]
+    }
+  ],
+  "total_song_count": 22,
+  "has_encore": false
+}

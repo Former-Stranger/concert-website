@@ -1,0 +1,62 @@
+{
+  "id": "1076",
+  "show_number": 1075,
+  "date": "2023-01-14",
+  "festival_name": null,
+  "venue": "Count Basie Center for the Arts",
+  "city": "Red Bank",
+  "state": "NJ",
+  "artists": [
+    {
+      "name": "Light of Day",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/year-of-no-light/2023/the-black-lab-wasquehal-france-bbdbd9e.html",
+  "song_count": 5,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Hi\u00e9rophante",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Objurgation",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Al\u00e8theia",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Interdit aux vivants, aux morts et aux chiens",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Stella Rectrix",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

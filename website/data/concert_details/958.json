@@ -1,0 +1,225 @@
+{
+  "id": "958",
+  "show_number": 957,
+  "date": "2019-11-06",
+  "festival_name": null,
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Little Steven (Peter Wolf)",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/little-steven-and-the-disciples-of-soul/2019/beacon-theatre-new-york-ny-3b9d70a0.html",
+  "song_count": 25,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Communion",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Camouflage of Righteousness",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Little Steven"
+    },
+    {
+      "position": 3,
+      "name": "Party Mambo!",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Love Again",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Education",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "On Sir Francis Drake",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Youngbloods"
+    },
+    {
+      "position": 7,
+      "name": "I Visit the Blues",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Gravity",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Los Desaparecidos",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Little Steven"
+    },
+    {
+      "position": 10,
+      "name": "Little Girl So Fine",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Southside Johnny & The Asbury Jukes"
+    },
+    {
+      "position": 11,
+      "name": "Trapped Again",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Southside Johnny & The Asbury Jukes"
+    },
+    {
+      "position": 12,
+      "name": "Love on the Wrong Side of Town",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Little Steven"
+    },
+    {
+      "position": 13,
+      "name": "A World of Our Own",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Suddenly You",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Vortex",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "I Am a Patriot",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Little Steven"
+    },
+    {
+      "position": 17,
+      "name": "Superfly Terraplane",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "Bitter Fruit",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Little Steven"
+    },
+    {
+      "position": 19,
+      "name": "Forever",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "Summer of Sorcery",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 21,
+      "name": "Tucson Train",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bruce Springsteen"
+    },
+    {
+      "position": 22,
+      "name": "Freeze-Frame",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The J. Geils Band",
+      "guest_artist": "Peter Wolf"
+    },
+    {
+      "position": 23,
+      "name": "Sun City",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Artists United Against Apartheid",
+      "guest_artist": "Peter Wolf"
+    },
+    {
+      "position": 24,
+      "name": "Soul Power Twist",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 25,
+      "name": "Out of the Darkness",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Little Steven"
+    }
+  ],
+  "tour_name": "Summer of Sorcery tour 2019"
+}

@@ -2,7 +2,48 @@
   "id": "Mot4G3p6nLaSA8zGwjNb",
   "name": "Rosanne Cash",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Darkness on the Edge of Town",
+      "times_played": 1
+    },
+    {
+      "name": "The Promised Land",
+      "times_played": 1
+    },
+    {
+      "name": "Glory Days",
+      "times_played": 1
+    },
+    {
+      "name": "Pink Cadillac",
+      "times_played": 1
+    },
+    {
+      "name": "Tryin' to Get Home",
+      "times_played": 1
+    },
+    {
+      "name": "Long Black Veil",
+      "times_played": 1
+    },
+    {
+      "name": "The Only Thing Worth Fighting For",
+      "times_played": 1
+    },
+    {
+      "name": "Guitar Town",
+      "times_played": 1
+    },
+    {
+      "name": "Someday",
+      "times_played": 1
+    },
+    {
+      "name": "Mystery Train Part II",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1003",

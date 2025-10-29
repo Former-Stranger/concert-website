@@ -1,0 +1,191 @@
+{
+  "id": "1023",
+  "show_number": 1022,
+  "date": "2022-05-26",
+  "festival_name": null,
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "The Who",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/the-who/2022/madison-square-garden-new-york-ny-7bb756e4.html",
+  "song_count": 21,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Overture",
+      "set_name": "With Orchestra",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "1921",
+      "set_name": "With Orchestra",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Amazing Journey",
+      "set_name": "With Orchestra",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Sparks",
+      "set_name": "With Orchestra",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Pinball Wizard",
+      "set_name": "With Orchestra",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "We're Not Gonna Take It",
+      "set_name": "With Orchestra",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Who Are You",
+      "set_name": "With Orchestra",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Eminence Front",
+      "set_name": "With Orchestra",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Ball and Chain",
+      "set_name": "With Orchestra",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Join Together",
+      "set_name": "With Orchestra",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "The Seeker",
+      "set_name": "Band Only",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "You Better You Bet",
+      "set_name": "Band Only",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Relay",
+      "set_name": "Band Only",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Won't Get Fooled Again",
+      "set_name": "Band Only",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Behind Blue Eyes",
+      "set_name": "Band Only",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "The Real Me",
+      "set_name": "With Orchestra",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "I'm One",
+      "set_name": "With Orchestra",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "5:15",
+      "set_name": "With Orchestra",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 19,
+      "name": "The Rock",
+      "set_name": "With Orchestra",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "Love, Reign O'er Me",
+      "set_name": "With Orchestra",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 21,
+      "name": "Baba O'Riley",
+      "set_name": "With Orchestra",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ],
+  "tour_name": "The Who Hits Back!"
+}

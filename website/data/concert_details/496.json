@@ -1,0 +1,191 @@
+{
+  "id": "496",
+  "show_number": 495,
+  "date": "2011-11-26",
+  "festival_name": null,
+  "venue": "Mohegan Sun Arena",
+  "city": "Uncasville",
+  "state": "CT",
+  "artists": [
+    {
+      "name": "Bob Seger",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/bob-seger-and-the-silver-bullet-band/2011/mohegan-sun-arena-uncasville-ct-43d1c7eb.html",
+  "song_count": 21,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Roll Me Away",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Trying to Live My Life Without You",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Otis Clay"
+    },
+    {
+      "position": 3,
+      "name": "The Fire Down Below",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Mainstreet",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Old Time Rock and Roll",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "George Jackson"
+    },
+    {
+      "position": 6,
+      "name": "The Little Drummer Boy",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Trapp Family Singers"
+    },
+    {
+      "position": 7,
+      "name": "Ramblin' Gamblin' Man",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Bob Seger System"
+    },
+    {
+      "position": 8,
+      "name": "Hey-Hey-Hey-Hey",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Little Richard"
+    },
+    {
+      "position": 9,
+      "name": "Travelin' Man",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Seger"
+    },
+    {
+      "position": 10,
+      "name": "Beautiful Loser",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Seger"
+    },
+    {
+      "position": 11,
+      "name": "We've Got Tonite",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "Nutbush City Limits",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ike & Tina Turner"
+    },
+    {
+      "position": 13,
+      "name": "Come to Poppa",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Her Strut",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Turn the Page",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Seger"
+    },
+    {
+      "position": 16,
+      "name": "Sunspot Baby",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "Katmandu",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Seger"
+    },
+    {
+      "position": 18,
+      "name": "Against the Wind",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 19,
+      "name": "Hollywood Nights",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "Night Moves",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 21,
+      "name": "Rock and Roll Never Forgets",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ],
+  "tour_name": "Bob Seger & The Silver Bullet Band 2011 Tour"
+}

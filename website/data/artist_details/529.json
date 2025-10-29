@@ -2,7 +2,40 @@
   "id": "529",
   "name": "Stand Up for Heroes:  Bruce Springsteen, Norah Jones",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Weaponz",
+      "times_played": 1
+    },
+    {
+      "name": "Hey, Diego!",
+      "times_played": 1
+    },
+    {
+      "name": "Live Until You Die",
+      "times_played": 1
+    },
+    {
+      "name": "Boarding Pass",
+      "times_played": 1
+    },
+    {
+      "name": "Video Killed the Radio Star",
+      "times_played": 1
+    },
+    {
+      "name": "Boyfriend",
+      "times_played": 1
+    },
+    {
+      "name": "Speedracer",
+      "times_played": 1
+    },
+    {
+      "name": "Teddy",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1215",

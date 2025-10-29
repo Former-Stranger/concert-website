@@ -1,0 +1,200 @@
+{
+  "id": "1259",
+  "show_number": 1258,
+  "date": "2025-06-13",
+  "festival_name": null,
+  "venue": "Radio City Music Hall",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Ringo Starr",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/ringo-starr-and-his-all-starr-band/2025/radio-city-music-hall-new-york-ny-235f1c6f.html",
+  "song_count": 21,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Honey Don't",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Carl Perkins"
+    },
+    {
+      "position": 2,
+      "name": "It Don't Come Easy",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ringo Starr"
+    },
+    {
+      "position": 3,
+      "name": "Rosanna",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Toto",
+      "guest_artist": "Steve Lukather"
+    },
+    {
+      "position": 4,
+      "name": "Pick Up the Pieces",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Average White Band",
+      "guest_artist": "Hamish Stuart"
+    },
+    {
+      "position": 5,
+      "name": "Down Under",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Men at Work",
+      "guest_artist": "Colin Hay"
+    },
+    {
+      "position": 6,
+      "name": "Boys",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Shirelles"
+    },
+    {
+      "position": 7,
+      "name": "I'm the Greatest",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Lennon"
+    },
+    {
+      "position": 8,
+      "name": "Yellow Submarine",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Beatles"
+    },
+    {
+      "position": 9,
+      "name": "Cut the Cake",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Average White Band",
+      "guest_artist": "Hamish Stuart"
+    },
+    {
+      "position": 10,
+      "name": "Octopus's Garden",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Beatles"
+    },
+    {
+      "position": 11,
+      "name": "Look Up",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ringo Starr"
+    },
+    {
+      "position": 12,
+      "name": "No No Song",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Hoyt Axton"
+    },
+    {
+      "position": 13,
+      "name": "Overkill",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Men at Work",
+      "guest_artist": "Colin Hay"
+    },
+    {
+      "position": 14,
+      "name": "Africa",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Toto",
+      "guest_artist": "Steve Lukather"
+    },
+    {
+      "position": 15,
+      "name": "Work to Do",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Isley Brothers",
+      "guest_artist": "Hamish Stuart"
+    },
+    {
+      "position": 16,
+      "name": "I Wanna Be Your Man",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Beatles"
+    },
+    {
+      "position": 17,
+      "name": "Who Can It Be Now?",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Men at Work",
+      "guest_artist": "Colin Hay"
+    },
+    {
+      "position": 18,
+      "name": "Hold the Line",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Toto",
+      "guest_artist": "Steve Lukather"
+    },
+    {
+      "position": 19,
+      "name": "Photograph",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ringo Starr"
+    },
+    {
+      "position": 20,
+      "name": "Act Naturally",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Johnny Russell"
+    },
+    {
+      "position": 21,
+      "name": "With a Little Help From My Friends",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Beatles"
+    }
+  ],
+  "tour_name": "16th All Starr Band"
+}

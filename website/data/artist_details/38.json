@@ -2,7 +2,48 @@
   "id": "38",
   "name": "Barry Manilow",
   "concert_count": 3,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Looks Like We Made It",
+      "times_played": 2
+    },
+    {
+      "name": "Daybreak",
+      "times_played": 2
+    },
+    {
+      "name": "This One's for You",
+      "times_played": 2
+    },
+    {
+      "name": "Even Now",
+      "times_played": 2
+    },
+    {
+      "name": "Can't Smile Without You",
+      "times_played": 2
+    },
+    {
+      "name": "A Weekend in New England",
+      "times_played": 2
+    },
+    {
+      "name": "I Made It Through the Rain",
+      "times_played": 2
+    },
+    {
+      "name": "I Write the Songs",
+      "times_played": 2
+    },
+    {
+      "name": "Copacabana (At the Copa)",
+      "times_played": 2
+    },
+    {
+      "name": "It's a Miracle",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "1159",

@@ -2,7 +2,48 @@
   "id": "102",
   "name": "Bryan Adams (w. Dave Stewart)",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Video Intro",
+      "times_played": 1
+    },
+    {
+      "name": "Kick Ass",
+      "times_played": 1
+    },
+    {
+      "name": "Can't Stop This Thing We Started",
+      "times_played": 1
+    },
+    {
+      "name": "Somebody",
+      "times_played": 1
+    },
+    {
+      "name": "18 til I Die",
+      "times_played": 1
+    },
+    {
+      "name": "Please Forgive Me",
+      "times_played": 1
+    },
+    {
+      "name": "Shine a Light",
+      "times_played": 1
+    },
+    {
+      "name": "Kids Wanna Rock",
+      "times_played": 1
+    },
+    {
+      "name": "Heaven",
+      "times_played": 1
+    },
+    {
+      "name": "Go Down Rockin'",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1148",

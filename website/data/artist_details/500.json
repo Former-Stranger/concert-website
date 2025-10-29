@@ -2,7 +2,48 @@
   "id": "500",
   "name": "Santana",
   "concert_count": 3,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Soul Sacrifice",
+      "times_played": 1
+    },
+    {
+      "name": "Jin-go-lo-ba",
+      "times_played": 1
+    },
+    {
+      "name": "Evil Ways",
+      "times_played": 1
+    },
+    {
+      "name": "Black Magic Woman / Gypsy Queen",
+      "times_played": 1
+    },
+    {
+      "name": "Oye c\u00f3mo va",
+      "times_played": 1
+    },
+    {
+      "name": "Incident at Neshabur",
+      "times_played": 1
+    },
+    {
+      "name": "Make Somebody Happy",
+      "times_played": 1
+    },
+    {
+      "name": "Right On / Umi Says",
+      "times_played": 1
+    },
+    {
+      "name": "Chill Out (S\u00e1calo)",
+      "times_played": 1
+    },
+    {
+      "name": "(Da le) Yaleo",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1126",

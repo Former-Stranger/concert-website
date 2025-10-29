@@ -2,7 +2,28 @@
   "id": "192",
   "name": "Emerson",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "From the Beginning",
+      "times_played": 2
+    },
+    {
+      "name": "I Talk to the Wind",
+      "times_played": 2
+    },
+    {
+      "name": "Tarkus",
+      "times_played": 2
+    },
+    {
+      "name": "Pirates",
+      "times_played": 2
+    },
+    {
+      "name": "Lucky Man",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "416",

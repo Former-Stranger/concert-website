@@ -2,7 +2,48 @@
   "id": "456",
   "name": "Richard Thompson (Band)",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Turnstile Casanova",
+      "times_played": 1
+    },
+    {
+      "name": "Take Care the Road You Choose",
+      "times_played": 1
+    },
+    {
+      "name": "Hard on Me",
+      "times_played": 1
+    },
+    {
+      "name": "John the Gun",
+      "times_played": 1
+    },
+    {
+      "name": "Withered and Died",
+      "times_played": 1
+    },
+    {
+      "name": "Turning of the Tide",
+      "times_played": 1
+    },
+    {
+      "name": "Al Bowlly's in Heaven",
+      "times_played": 1
+    },
+    {
+      "name": "The Day That I Give In",
+      "times_played": 1
+    },
+    {
+      "name": "1952 Vincent Black Lightning",
+      "times_played": 1
+    },
+    {
+      "name": "What's Left to Lose",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1205",

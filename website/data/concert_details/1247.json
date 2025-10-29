@@ -1,0 +1,118 @@
+{
+  "id": "1247",
+  "show_number": 1246,
+  "date": "2025-04-15",
+  "festival_name": null,
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "The Brothers",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/friends-of-the-brothers/2025/tara-mor-new-york-ny-3b596ce8.html",
+  "song_count": 12,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Statesboro Blues",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Blind Willie McTell"
+    },
+    {
+      "position": 2,
+      "name": "Revival",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Allman Brothers Band"
+    },
+    {
+      "position": 3,
+      "name": "Every Hungry Woman",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Allman Brothers Band"
+    },
+    {
+      "position": 4,
+      "name": "Black Hearted Woman",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Allman Brothers Band"
+    },
+    {
+      "position": 5,
+      "name": "Midnight Rider",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Allman Brothers Band"
+    },
+    {
+      "position": 6,
+      "name": "Dilemma",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jaimoe\u2019s Jasssz Band"
+    },
+    {
+      "position": 7,
+      "name": "Blue Sky",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Allman Brothers Band"
+    },
+    {
+      "position": 8,
+      "name": "Can't You See",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Marshall Tucker Band"
+    },
+    {
+      "position": 9,
+      "name": "Ain't Wastin' Time No More",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Allman Brothers Band"
+    },
+    {
+      "position": 10,
+      "name": "Dreams",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Allman Brothers Band"
+    },
+    {
+      "position": 11,
+      "name": "Jessica",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Allman Brothers Band"
+    },
+    {
+      "position": 12,
+      "name": "One Way Out",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Sonny Boy Williamson"
+    }
+  ]
+}

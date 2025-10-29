@@ -1,0 +1,102 @@
+{
+  "id": "1210",
+  "show_number": 1209,
+  "date": "2024-10-26",
+  "festival_name": null,
+  "venue": "Garcia's at The Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Stella Blue's Band (acoustic)",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/stella-blues-band/2024/garcias-at-the-capitol-theatre-port-chester-ny-5351f7ed.html",
+  "song_count": 10,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Deep Elem Blues",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 2,
+      "name": "Unbroken Chain",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 3,
+      "name": "Dark Hollow",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bill Browning and His Echo Valley Boys"
+    },
+    {
+      "position": 4,
+      "name": "Deal",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jerry Garcia"
+    },
+    {
+      "position": 5,
+      "name": "Broken Arrow",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Robbie Robertson"
+    },
+    {
+      "position": 6,
+      "name": "Me and Bobby McGee",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Kris Kristofferson"
+    },
+    {
+      "position": 7,
+      "name": "Box of Rain",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 8,
+      "name": "Going Down the Road Feeling Bad",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 9,
+      "name": "And We Bid You Goodnight",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Joseph Spence"
+    },
+    {
+      "position": 10,
+      "name": "Ripple",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    }
+  ]
+}

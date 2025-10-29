@@ -2,7 +2,48 @@
   "id": "145",
   "name": "DEAD:  Dead",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Drums",
+      "times_played": 2
+    },
+    {
+      "name": "Space",
+      "times_played": 2
+    },
+    {
+      "name": "Bertha",
+      "times_played": 1
+    },
+    {
+      "name": "Mississippi Half-Step Uptown Toodeloo",
+      "times_played": 1
+    },
+    {
+      "name": "Shakedown Street",
+      "times_played": 1
+    },
+    {
+      "name": "Sugaree",
+      "times_played": 1
+    },
+    {
+      "name": "Tennessee Jed",
+      "times_played": 1
+    },
+    {
+      "name": "Bird Song",
+      "times_played": 1
+    },
+    {
+      "name": "Don't Ease Me In",
+      "times_played": 1
+    },
+    {
+      "name": "Althea",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1039",

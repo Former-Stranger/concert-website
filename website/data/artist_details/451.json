@@ -2,7 +2,48 @@
   "id": "451",
   "name": "Red Hot Chile Peppers",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "You Think I Ain't Worth a Dollar, but I Feel Like a Millionaire",
+      "times_played": 1
+    },
+    {
+      "name": "Do It Again",
+      "times_played": 1
+    },
+    {
+      "name": "Go With the Flow",
+      "times_played": 1
+    },
+    {
+      "name": "The Lost Art of Keeping a Secret",
+      "times_played": 1
+    },
+    {
+      "name": "The Sky Is Fallin'",
+      "times_played": 1
+    },
+    {
+      "name": "Gonna Leave You",
+      "times_played": 1
+    },
+    {
+      "name": "A Song for the Dead",
+      "times_played": 1
+    },
+    {
+      "name": "God Is in the Radio",
+      "times_played": 1
+    },
+    {
+      "name": "Tension Head",
+      "times_played": 1
+    },
+    {
+      "name": "No One Knows",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "181",

@@ -2,7 +2,48 @@
   "id": "357",
   "name": "Luke Combs",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Honky Tonk Highway",
+      "times_played": 2
+    },
+    {
+      "name": "When It Rains It Pours",
+      "times_played": 2
+    },
+    {
+      "name": "Houston, We Got a Problem",
+      "times_played": 2
+    },
+    {
+      "name": "One Number Away",
+      "times_played": 2
+    },
+    {
+      "name": "Beautiful Crazy",
+      "times_played": 2
+    },
+    {
+      "name": "She Got the Best of Me",
+      "times_played": 2
+    },
+    {
+      "name": "Hurricane",
+      "times_played": 2
+    },
+    {
+      "name": "Beer Never Broke My Heart",
+      "times_played": 2
+    },
+    {
+      "name": "Cold as You",
+      "times_played": 1
+    },
+    {
+      "name": "1, 2 Many",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1002",

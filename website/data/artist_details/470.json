@@ -2,7 +2,48 @@
   "id": "470",
   "name": "Robert Plant",
   "concert_count": 4,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Rich Woman",
+      "times_played": 3
+    },
+    {
+      "name": "Fortune Teller",
+      "times_played": 3
+    },
+    {
+      "name": "Please Read the Letter",
+      "times_played": 3
+    },
+    {
+      "name": "The Battle of Evermore",
+      "times_played": 3
+    },
+    {
+      "name": "Gone Gone Gone",
+      "times_played": 3
+    },
+    {
+      "name": "Black Dog",
+      "times_played": 3
+    },
+    {
+      "name": "Rock and Roll",
+      "times_played": 2
+    },
+    {
+      "name": "Leave My Woman Alone",
+      "times_played": 2
+    },
+    {
+      "name": "Sister Rosetta Goes Before Us",
+      "times_played": 2
+    },
+    {
+      "name": "Through the Morning, Through the Night",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "1176",

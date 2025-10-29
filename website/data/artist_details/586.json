@@ -2,7 +2,48 @@
   "id": "586",
   "name": "The Wallflowers",
   "concert_count": 4,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Maybe Your Heart's Not in It No More",
+      "times_played": 2
+    },
+    {
+      "name": "Move the River",
+      "times_played": 2
+    },
+    {
+      "name": "6th Avenue Heartache",
+      "times_played": 2
+    },
+    {
+      "name": "Roots and Wings",
+      "times_played": 2
+    },
+    {
+      "name": "I'll Let You Down (But Will Not Give You Up)",
+      "times_played": 2
+    },
+    {
+      "name": "I've Been Delivered",
+      "times_played": 2
+    },
+    {
+      "name": "One Headlight",
+      "times_played": 2
+    },
+    {
+      "name": "Who's That Man Walking 'Round My Garden",
+      "times_played": 2
+    },
+    {
+      "name": "The Difference",
+      "times_played": 2
+    },
+    {
+      "name": "Here He Comes (Confessions of a Drunken Marionette)",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1091",

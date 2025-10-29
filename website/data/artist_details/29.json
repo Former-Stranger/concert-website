@@ -2,7 +2,48 @@
   "id": "29",
   "name": "Avett Brothers",
   "concert_count": 11,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Ain't No Man",
+      "times_played": 11
+    },
+    {
+      "name": "Head Full of Doubt/Road Full of Promise",
+      "times_played": 10
+    },
+    {
+      "name": "No Hard Feelings",
+      "times_played": 9
+    },
+    {
+      "name": "I Wish I Was",
+      "times_played": 8
+    },
+    {
+      "name": "Laundry Room",
+      "times_played": 7
+    },
+    {
+      "name": "I and Love and You",
+      "times_played": 7
+    },
+    {
+      "name": "Vanity",
+      "times_played": 6
+    },
+    {
+      "name": "Kick Drum Heart",
+      "times_played": 6
+    },
+    {
+      "name": "Murder in the City",
+      "times_played": 6
+    },
+    {
+      "name": "Down With the Shine",
+      "times_played": 6
+    }
+  ],
   "concerts": [
     {
       "id": "1273",

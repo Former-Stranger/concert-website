@@ -2,7 +2,48 @@
   "id": "641",
   "name": "Willie Nelson",
   "concert_count": 5,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Whiskey River",
+      "times_played": 3
+    },
+    {
+      "name": "Highway 61 Revisited",
+      "times_played": 2
+    },
+    {
+      "name": "Love Sick",
+      "times_played": 2
+    },
+    {
+      "name": "Early Roman Kings",
+      "times_played": 2
+    },
+    {
+      "name": "Under the Red Sky",
+      "times_played": 2
+    },
+    {
+      "name": "Still Is Still Moving to Me",
+      "times_played": 2
+    },
+    {
+      "name": "Mammas Don't Let Your Babies Grow Up to Be Cowboys",
+      "times_played": 2
+    },
+    {
+      "name": "Angel Flying Too Close to the Ground",
+      "times_played": 2
+    },
+    {
+      "name": "On the Road Again",
+      "times_played": 2
+    },
+    {
+      "name": "You Were Always on My Mind",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "1270",

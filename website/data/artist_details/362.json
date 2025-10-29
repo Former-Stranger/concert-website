@@ -2,7 +2,48 @@
   "id": "362",
   "name": "Lynyrd Skynyrd",
   "concert_count": 7,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Thunderstruck",
+      "times_played": 1
+    },
+    {
+      "name": "Workin' for MCA",
+      "times_played": 1
+    },
+    {
+      "name": "What's Your Name",
+      "times_played": 1
+    },
+    {
+      "name": "You Got That Right",
+      "times_played": 1
+    },
+    {
+      "name": "Double Trouble",
+      "times_played": 1
+    },
+    {
+      "name": "Whiskey Rock-a-Roller",
+      "times_played": 1
+    },
+    {
+      "name": "That Smell",
+      "times_played": 1
+    },
+    {
+      "name": "Cry for the Bad Man",
+      "times_played": 1
+    },
+    {
+      "name": "Saturday Night Special",
+      "times_played": 1
+    },
+    {
+      "name": "Tuesday's Gone",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1035",

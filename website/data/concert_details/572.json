@@ -1,0 +1,372 @@
+{
+  "id": "572",
+  "show_number": 571,
+  "date": "2014-04-10",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Barclays Center",
+  "city": "Brooklyn",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Bruce Springsteen",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Peter Gabriel",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Hall & Oates",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Nirvana",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Cat Stevens",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Stevie Nicks",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Emmylou Harries",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Bonnie Raitt",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Carrie Underwood",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "88",
+      "artist_name": "Bruce Springsteen",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/bruce-springsteen/2014/barclays-center-brooklyn-ny-33c3a07d.html",
+      "song_count": 3,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "The E Street Shuffle",
+          "set_name": "4th set of the event",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "The River",
+          "set_name": "4th set of the event",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Kitty's Back",
+          "set_name": "4th set of the event",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ]
+    },
+    {
+      "artist_id": "111",
+      "artist_name": "Cat Stevens",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/yusuf-islam/2014/barclays-center-brooklyn-ny-4bc3977a.html",
+      "song_count": 3,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Father and Son",
+          "set_name": "2nd set of the event",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Cat Stevens"
+        },
+        {
+          "position": 2,
+          "name": "Wild World",
+          "set_name": "2nd set of the event",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Cat Stevens"
+        },
+        {
+          "position": 3,
+          "name": "Peace Train",
+          "set_name": "2nd set of the event",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Cat Stevens"
+        }
+      ]
+    },
+    {
+      "artist_id": "243",
+      "artist_name": "Hall & Oates",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/daryl-hall-and-john-oates/2014/barclays-center-brooklyn-ny-43c39733.html",
+      "song_count": 3,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "She's Gone",
+          "set_name": "5th set of the event",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "I Can't Go for That (No Can Do)",
+          "set_name": "5th set of the event",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "You Make My Dreams",
+          "set_name": "5th set of the event",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ]
+    },
+    {
+      "artist_id": "404",
+      "artist_name": "Nirvana",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/nirvana/2014/saint-vitus-bar-brooklyn-ny-63c3963f.html",
+      "song_count": 19,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Smells Like Teen Spirit",
+          "set_name": "Joan Jett",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Joan Jett"
+        },
+        {
+          "position": 2,
+          "name": "Breed",
+          "set_name": "Joan Jett",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Joan Jett"
+        },
+        {
+          "position": 3,
+          "name": "In Bloom",
+          "set_name": "Joan Jett",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Joan Jett"
+        },
+        {
+          "position": 4,
+          "name": "Territorial Pissings",
+          "set_name": "Joan Jett",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Joan Jett"
+        },
+        {
+          "position": 5,
+          "name": "All Apologies",
+          "set_name": "Joan Jett",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Joan Jett"
+        },
+        {
+          "position": 6,
+          "name": "Drain You",
+          "set_name": "J Mascis",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "J Mascis"
+        },
+        {
+          "position": 7,
+          "name": "Pennyroyal Tea",
+          "set_name": "J Mascis",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "J Mascis"
+        },
+        {
+          "position": 8,
+          "name": "School",
+          "set_name": "J Mascis",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "J Mascis"
+        },
+        {
+          "position": 9,
+          "name": "Lithium",
+          "set_name": "St. Vincent",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "St. Vincent"
+        },
+        {
+          "position": 10,
+          "name": "About a Girl",
+          "set_name": "St. Vincent",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "St. Vincent"
+        },
+        {
+          "position": 11,
+          "name": "Heart-Shaped Box",
+          "set_name": "St. Vincent",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "St. Vincent"
+        },
+        {
+          "position": 12,
+          "name": "Serve the Servants",
+          "set_name": "John McCauley",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "John J. McCauley"
+        },
+        {
+          "position": 13,
+          "name": "Milk It",
+          "set_name": "John McCauley",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "John J. McCauley"
+        },
+        {
+          "position": 14,
+          "name": "Very Ape",
+          "set_name": "John McCauley",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "John J. McCauley"
+        },
+        {
+          "position": 15,
+          "name": "Scentless Apprentice",
+          "set_name": "John McCauley",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "John J. McCauley"
+        },
+        {
+          "position": 16,
+          "name": "tourette's",
+          "set_name": "John McCauley",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "John J. McCauley"
+        },
+        {
+          "position": 17,
+          "name": "Aneurysm",
+          "set_name": "Kim Gordon",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Kim Gordon"
+        },
+        {
+          "position": 18,
+          "name": "Negative Creep",
+          "set_name": "Kim Gordon",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Kim Gordon"
+        },
+        {
+          "position": 19,
+          "name": "Moist Vagina",
+          "set_name": "Kim Gordon",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Kim Gordon"
+        }
+      ]
+    },
+    {
+      "artist_id": "425",
+      "artist_name": "Peter Gabriel",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/peter-gabriel/2014/barclays-center-brooklyn-ny-43c3977f.html",
+      "song_count": 3,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Digging in the Dirt",
+          "set_name": "1st set of the event",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Washing of the Water",
+          "set_name": "1st set of the event",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Chris Martin"
+        },
+        {
+          "position": 3,
+          "name": "In Your Eyes",
+          "set_name": "1st set of the event",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Youssou N\u2019Dour"
+        }
+      ]
+    }
+  ],
+  "total_song_count": 31,
+  "has_encore": false
+}

@@ -2,7 +2,20 @@
   "id": "90",
   "name": "Bruce Springsteen (Late Night",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Thunder Road",
+      "times_played": 1
+    },
+    {
+      "name": "Do I Love You (Indeed I Do)",
+      "times_played": 1
+    },
+    {
+      "name": "Nightshift",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1072",

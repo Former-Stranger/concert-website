@@ -1,0 +1,352 @@
+{
+  "id": "1141",
+  "show_number": 1140,
+  "date": "2024-01-21",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Richard Marx",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Rick Springfield",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "454",
+      "artist_name": "Richard Marx",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/rick-springfield-and-richard-marx/2024/capitol-theatre-port-chester-ny-43ac9f03.html",
+      "song_count": 19,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Endless Summer Nights",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Richard Marx"
+        },
+        {
+          "position": 2,
+          "name": "Affair of the Heart",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Rick Springfield"
+        },
+        {
+          "position": 3,
+          "name": "The Way She Loves Me",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Richard Marx"
+        },
+        {
+          "position": 4,
+          "name": "Love Is Alright Tonite",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Rick Springfield"
+        },
+        {
+          "position": 5,
+          "name": "Satisfied",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Richard Marx"
+        },
+        {
+          "position": 6,
+          "name": "I've Done Everything for You",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Sammy Hagar"
+        },
+        {
+          "position": 7,
+          "name": "Hazard",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Richard Marx"
+        },
+        {
+          "position": 8,
+          "name": "Don't Talk to Strangers",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Rick Springfield"
+        },
+        {
+          "position": 9,
+          "name": "Should've Known Better",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Richard Marx"
+        },
+        {
+          "position": 10,
+          "name": "My Father's Chair",
+          "set_name": "Rick Springfield solo",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Rick Springfield"
+        },
+        {
+          "position": 11,
+          "name": "Jessie's Girl / Stacy's Mom / 867-5309/Jenny",
+          "set_name": "Rick Springfield solo",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 12,
+          "name": "When You Loved Me",
+          "set_name": "Richard Marx solo",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Richard Marx"
+        },
+        {
+          "position": 13,
+          "name": "Angelia",
+          "set_name": "Richard Marx solo",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Richard Marx"
+        },
+        {
+          "position": 14,
+          "name": "Love Somebody",
+          "set_name": "Set 4",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Rick Springfield"
+        },
+        {
+          "position": 15,
+          "name": "Don't Mean Nothing",
+          "set_name": "Set 4",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Richard Marx"
+        },
+        {
+          "position": 16,
+          "name": "Human Touch",
+          "set_name": "Set 4",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Rick Springfield"
+        },
+        {
+          "position": 17,
+          "name": "Right Here Waiting",
+          "set_name": "Set 5",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Richard Marx"
+        },
+        {
+          "position": 18,
+          "name": "Jessie's Girl",
+          "set_name": "Set 5",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Rick Springfield"
+        },
+        {
+          "position": 19,
+          "name": "Two Tickets to Paradise",
+          "set_name": "Set 5",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Eddie Money"
+        }
+      ],
+      "tour_name": "An Acoustic Evening"
+    },
+    {
+      "artist_id": "460",
+      "artist_name": "Rick Springfield",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/rick-springfield-and-richard-marx/2024/capitol-theatre-port-chester-ny-43ac9f03.html",
+      "song_count": 19,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Endless Summer Nights",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Richard Marx"
+        },
+        {
+          "position": 2,
+          "name": "Affair of the Heart",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Rick Springfield"
+        },
+        {
+          "position": 3,
+          "name": "The Way She Loves Me",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Richard Marx"
+        },
+        {
+          "position": 4,
+          "name": "Love Is Alright Tonite",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Rick Springfield"
+        },
+        {
+          "position": 5,
+          "name": "Satisfied",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Richard Marx"
+        },
+        {
+          "position": 6,
+          "name": "I've Done Everything for You",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Sammy Hagar"
+        },
+        {
+          "position": 7,
+          "name": "Hazard",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Richard Marx"
+        },
+        {
+          "position": 8,
+          "name": "Don't Talk to Strangers",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Rick Springfield"
+        },
+        {
+          "position": 9,
+          "name": "Should've Known Better",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Richard Marx"
+        },
+        {
+          "position": 10,
+          "name": "My Father's Chair",
+          "set_name": "Rick Springfield solo",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Rick Springfield"
+        },
+        {
+          "position": 11,
+          "name": "Jessie's Girl / Stacy's Mom / 867-5309/Jenny",
+          "set_name": "Rick Springfield solo",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 12,
+          "name": "When You Loved Me",
+          "set_name": "Richard Marx solo",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Richard Marx"
+        },
+        {
+          "position": 13,
+          "name": "Angelia",
+          "set_name": "Richard Marx solo",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Richard Marx"
+        },
+        {
+          "position": 14,
+          "name": "Love Somebody",
+          "set_name": "Set 4",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Rick Springfield"
+        },
+        {
+          "position": 15,
+          "name": "Don't Mean Nothing",
+          "set_name": "Set 4",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Richard Marx"
+        },
+        {
+          "position": 16,
+          "name": "Human Touch",
+          "set_name": "Set 4",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Rick Springfield"
+        },
+        {
+          "position": 17,
+          "name": "Right Here Waiting",
+          "set_name": "Set 5",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Richard Marx"
+        },
+        {
+          "position": 18,
+          "name": "Jessie's Girl",
+          "set_name": "Set 5",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Rick Springfield"
+        },
+        {
+          "position": 19,
+          "name": "Two Tickets to Paradise",
+          "set_name": "Set 5",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Eddie Money"
+        }
+      ],
+      "tour_name": "An Acoustic Evening"
+    }
+  ],
+  "total_song_count": 38,
+  "has_encore": false,
+  "tour_name": "An Acoustic Evening"
+}

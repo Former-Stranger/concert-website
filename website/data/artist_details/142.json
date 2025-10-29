@@ -2,7 +2,48 @@
   "id": "142",
   "name": "Crosby",
   "concert_count": 5,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "D\u00e9j\u00e0 Vu",
+      "times_played": 5
+    },
+    {
+      "name": "Flags of Freedom",
+      "times_played": 3
+    },
+    {
+      "name": "Carry On",
+      "times_played": 3
+    },
+    {
+      "name": "Wooden Ships",
+      "times_played": 3
+    },
+    {
+      "name": "Long Time Gone",
+      "times_played": 3
+    },
+    {
+      "name": "Military Madness",
+      "times_played": 3
+    },
+    {
+      "name": "After the Garden",
+      "times_played": 3
+    },
+    {
+      "name": "Living With War",
+      "times_played": 3
+    },
+    {
+      "name": "The Restless Consumer",
+      "times_played": 3
+    },
+    {
+      "name": "Shock and Awe",
+      "times_played": 3
+    }
+  ],
   "concerts": [
     {
       "id": "359",

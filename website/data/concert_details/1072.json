@@ -1,0 +1,50 @@
+{
+  "id": "1072",
+  "show_number": 1071,
+  "date": "2022-11-14",
+  "festival_name": null,
+  "venue": "NBC Studios",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Bruce Springsteen (Late Night",
+      "role": "headliner"
+    },
+    {
+      "name": "Fallon)",
+      "role": "opener"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/bruce-springsteen/2022/the-tonight-show-starring-jimmy-fallon-new-york-ny-13bfada9.html",
+  "song_count": 3,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Thunder Road",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Do I Love You (Indeed I Do)",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Frank Wilson"
+    },
+    {
+      "position": 3,
+      "name": "Nightshift",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Commodores"
+    }
+  ]
+}

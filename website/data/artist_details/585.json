@@ -2,7 +2,48 @@
   "id": "585",
   "name": "The Rolling Stones",
   "concert_count": 5,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Crazy",
+      "times_played": 2
+    },
+    {
+      "name": "Start Me Up",
+      "times_played": 2
+    },
+    {
+      "name": "Tumbling Dice",
+      "times_played": 2
+    },
+    {
+      "name": "Rough Justice",
+      "times_played": 2
+    },
+    {
+      "name": "Honky Tonk Women",
+      "times_played": 2
+    },
+    {
+      "name": "Sympathy for the Devil",
+      "times_played": 2
+    },
+    {
+      "name": "Jumpin' Jack Flash",
+      "times_played": 2
+    },
+    {
+      "name": "Brown Sugar",
+      "times_played": 2
+    },
+    {
+      "name": "(I Can't Get No) Satisfaction",
+      "times_played": 2
+    },
+    {
+      "name": "It's Only Rock 'n' Roll (but I Like It)",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "280",

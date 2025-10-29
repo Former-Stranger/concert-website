@@ -1,0 +1,87 @@
+{
+  "id": "1215",
+  "show_number": 1214,
+  "date": "2024-11-11",
+  "festival_name": null,
+  "venue": "Lincoln Center",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Stand Up for Heroes:  Bruce Springsteen, Norah Jones",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/teenage-dads/2024/the-orpheum-vancouver-bc-canada-b5eddd6.html",
+  "song_count": 8,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Weaponz",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Hey, Diego!",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Live Until You Die",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Boarding Pass",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Video Killed the Radio Star",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Buggles"
+    },
+    {
+      "position": 6,
+      "name": "Boyfriend",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Speedracer",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Teddy",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ],
+  "tour_name": "North American Tour 2024"
+}

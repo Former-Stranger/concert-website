@@ -2,7 +2,48 @@
   "id": "325",
   "name": "Kings of Leon",
   "concert_count": 6,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "The Bucket",
+      "times_played": 6
+    },
+    {
+      "name": "On Call",
+      "times_played": 6
+    },
+    {
+      "name": "Sex on Fire",
+      "times_played": 6
+    },
+    {
+      "name": "Molly's Chambers",
+      "times_played": 6
+    },
+    {
+      "name": "Closer",
+      "times_played": 6
+    },
+    {
+      "name": "Use Somebody",
+      "times_played": 6
+    },
+    {
+      "name": "Pyro",
+      "times_played": 5
+    },
+    {
+      "name": "Crawl",
+      "times_played": 5
+    },
+    {
+      "name": "Manhattan",
+      "times_played": 4
+    },
+    {
+      "name": "Revelry",
+      "times_played": 4
+    }
+  ],
   "concerts": [
     {
       "id": "1202",

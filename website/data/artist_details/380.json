@@ -2,7 +2,48 @@
   "id": "380",
   "name": "Metallica",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "The Ecstasy of Gold",
+      "times_played": 1
+    },
+    {
+      "name": "Hardwired Intro",
+      "times_played": 1
+    },
+    {
+      "name": "Hardwired",
+      "times_played": 1
+    },
+    {
+      "name": "Atlas, Rise!",
+      "times_played": 1
+    },
+    {
+      "name": "For Whom the Bell Tolls",
+      "times_played": 1
+    },
+    {
+      "name": "Ride the Lightning",
+      "times_played": 1
+    },
+    {
+      "name": "The Unforgiven",
+      "times_played": 1
+    },
+    {
+      "name": "Now That We're Dead",
+      "times_played": 1
+    },
+    {
+      "name": "Moth Into Flame",
+      "times_played": 1
+    },
+    {
+      "name": "Harvester of Sorrow",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "756",

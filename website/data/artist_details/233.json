@@ -2,7 +2,48 @@
   "id": "233",
   "name": "Govt Mule",
   "concert_count": 5,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Revolution Come, Revolution Go",
+      "times_played": 4
+    },
+    {
+      "name": "Time to Confess",
+      "times_played": 3
+    },
+    {
+      "name": "Mule",
+      "times_played": 2
+    },
+    {
+      "name": "Painted Silver Light",
+      "times_played": 2
+    },
+    {
+      "name": "Game Face",
+      "times_played": 2
+    },
+    {
+      "name": "Shine On You Crazy Diamond (Parts I-V)",
+      "times_played": 2
+    },
+    {
+      "name": "Have a Cigar",
+      "times_played": 2
+    },
+    {
+      "name": "Speak to Me",
+      "times_played": 2
+    },
+    {
+      "name": "Breathe (In the Air)",
+      "times_played": 2
+    },
+    {
+      "name": "On the Run",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "1229",

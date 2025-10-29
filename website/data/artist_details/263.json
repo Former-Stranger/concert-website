@@ -2,7 +2,48 @@
   "id": "263",
   "name": "Jason Aldean",
   "concert_count": 6,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Tattoos on This Town",
+      "times_played": 5
+    },
+    {
+      "name": "When She Says Baby",
+      "times_played": 5
+    },
+    {
+      "name": "Fly Over States",
+      "times_played": 5
+    },
+    {
+      "name": "Amarillo Sky",
+      "times_played": 5
+    },
+    {
+      "name": "Take a Little Ride",
+      "times_played": 5
+    },
+    {
+      "name": "Dirt Road Anthem",
+      "times_played": 5
+    },
+    {
+      "name": "Crazy Town",
+      "times_played": 5
+    },
+    {
+      "name": "Rearview Town",
+      "times_played": 4
+    },
+    {
+      "name": "Hicktown",
+      "times_played": 4
+    },
+    {
+      "name": "My Kinda Party",
+      "times_played": 4
+    }
+  ],
   "concerts": [
     {
       "id": "1099",

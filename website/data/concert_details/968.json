@@ -1,0 +1,199 @@
+{
+  "id": "968",
+  "show_number": 967,
+  "date": "2020-02-08",
+  "festival_name": null,
+  "venue": "Symphony Space",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Richard Thompson",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/richard-thompson/2020/symphony-space-new-york-ny-b983912.html",
+  "song_count": 22,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Turning of the Tide",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Waterloo Sunset",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Kinks"
+    },
+    {
+      "position": 3,
+      "name": "Beeswing",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Bonnie St. Johnstone",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 5,
+      "name": "Don't Sit on My Jimmy Shands",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Devonside",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Sibella",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "So ben mi ch'a bon tempo",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Orazio Vecchi"
+    },
+    {
+      "position": 9,
+      "name": "A Heart Needs a Home",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Richard & Linda Thompson"
+    },
+    {
+      "position": 10,
+      "name": "A Legal Matter",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Who"
+    },
+    {
+      "position": 11,
+      "name": "Keep Your Distance",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "If I Could Live My Life Again",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "I Misunderstood",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Ooby Dooby",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Roy Orbison"
+    },
+    {
+      "position": 15,
+      "name": "Positively 4th Street",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Dylan"
+    },
+    {
+      "position": 16,
+      "name": "Persuasion",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "Hamlet",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Frank Loesser"
+    },
+    {
+      "position": 18,
+      "name": "Famous Blue Raincoat",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Leonard Cohen"
+    },
+    {
+      "position": 19,
+      "name": "Gimme Shelter",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Rolling Stones"
+    },
+    {
+      "position": 20,
+      "name": "Wall of Death",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Richard & Linda Thompson"
+    },
+    {
+      "position": 21,
+      "name": "1952 Vincent Black Lightning",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 22,
+      "name": "Reynardine",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    }
+  ],
+  "tour_name": "Solo Acoustic 2020"
+}

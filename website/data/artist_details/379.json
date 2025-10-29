@@ -2,7 +2,48 @@
   "id": "379",
   "name": "Mellencamp",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Save Me",
+      "times_played": 1
+    },
+    {
+      "name": "Don't Drink the Water",
+      "times_played": 1
+    },
+    {
+      "name": "Oh",
+      "times_played": 1
+    },
+    {
+      "name": "Ants Marching",
+      "times_played": 1
+    },
+    {
+      "name": "Lie in Our Graves",
+      "times_played": 1
+    },
+    {
+      "name": "The Weight",
+      "times_played": 1
+    },
+    {
+      "name": "John Cockers",
+      "times_played": 1
+    },
+    {
+      "name": "Paper in Fire",
+      "times_played": 1
+    },
+    {
+      "name": "Small Town",
+      "times_played": 1
+    },
+    {
+      "name": "Check It Out",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1199",

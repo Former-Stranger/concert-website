@@ -2,7 +2,48 @@
   "id": "601",
   "name": "Tom Petty & the Heartbreakers",
   "concert_count": 6,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Listen to Her Heart",
+      "times_played": 1
+    },
+    {
+      "name": "You Don't Know How It Feels",
+      "times_played": 1
+    },
+    {
+      "name": "I Won't Back Down",
+      "times_played": 1
+    },
+    {
+      "name": "Free Fallin'",
+      "times_played": 1
+    },
+    {
+      "name": "Saving Grace",
+      "times_played": 1
+    },
+    {
+      "name": "Mary Jane's Last Dance",
+      "times_played": 1
+    },
+    {
+      "name": "I'm a Man",
+      "times_played": 1
+    },
+    {
+      "name": "Oh Well",
+      "times_played": 1
+    },
+    {
+      "name": "Handle With Care",
+      "times_played": 1
+    },
+    {
+      "name": "Stop Draggin' My Heart Around",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "263",

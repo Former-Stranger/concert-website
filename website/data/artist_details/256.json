@@ -2,7 +2,48 @@
   "id": "256",
   "name": "J. Geils Band",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "That's What the Water Made Me",
+      "times_played": 1
+    },
+    {
+      "name": "You Give Love a Bad Name",
+      "times_played": 1
+    },
+    {
+      "name": "Raise Your Hands",
+      "times_played": 1
+    },
+    {
+      "name": "Born to Be My Baby",
+      "times_played": 1
+    },
+    {
+      "name": "Lost Highway",
+      "times_played": 1
+    },
+    {
+      "name": "Whole Lot of Leavin'",
+      "times_played": 1
+    },
+    {
+      "name": "It's My Life",
+      "times_played": 1
+    },
+    {
+      "name": "Because We Can",
+      "times_played": 1
+    },
+    {
+      "name": "What About Now",
+      "times_played": 1
+    },
+    {
+      "name": "We Got It Goin' On",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "547",

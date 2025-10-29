@@ -2,7 +2,48 @@
   "id": "364",
   "name": "Mac McAnally",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Try Harder",
+      "times_played": 1
+    },
+    {
+      "name": "No Turn at All",
+      "times_played": 1
+    },
+    {
+      "name": "Fight the System",
+      "times_played": 1
+    },
+    {
+      "name": "Reset the Game",
+      "times_played": 1
+    },
+    {
+      "name": "Thunderstruck",
+      "times_played": 1
+    },
+    {
+      "name": "Scream! For!! Me!!!",
+      "times_played": 1
+    },
+    {
+      "name": "Nocturnal Human Side",
+      "times_played": 1
+    },
+    {
+      "name": "Son of a Son of a Sailor",
+      "times_played": 1
+    },
+    {
+      "name": "Blame It on New Orleans",
+      "times_played": 1
+    },
+    {
+      "name": "Somewhere Over the Rainbow/Grapefruit-Juicy Fruit",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1218",

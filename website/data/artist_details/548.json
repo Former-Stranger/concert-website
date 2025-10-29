@@ -2,7 +2,48 @@
   "id": "548",
   "name": "Sting + Joe Sumner",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Message in a Bottle",
+      "times_played": 1
+    },
+    {
+      "name": "Englishman in New York",
+      "times_played": 1
+    },
+    {
+      "name": "Every Little Thing She Does Is Magic",
+      "times_played": 1
+    },
+    {
+      "name": "If You Love Somebody Set Them Free",
+      "times_played": 1
+    },
+    {
+      "name": "If I Ever Lose My Faith in You",
+      "times_played": 1
+    },
+    {
+      "name": "Loving You",
+      "times_played": 1
+    },
+    {
+      "name": "Fields of Gold",
+      "times_played": 1
+    },
+    {
+      "name": "Brand New Day",
+      "times_played": 1
+    },
+    {
+      "name": "Heavy Cloud No Rain",
+      "times_played": 1
+    },
+    {
+      "name": "Shape of My Heart",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1112",

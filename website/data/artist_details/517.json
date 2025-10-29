@@ -2,7 +2,48 @@
   "id": "517",
   "name": "Slash",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Back in the Saddle",
+      "times_played": 1
+    },
+    {
+      "name": "Eat the Rich",
+      "times_played": 1
+    },
+    {
+      "name": "Love in an Elevator",
+      "times_played": 1
+    },
+    {
+      "name": "Cryin'",
+      "times_played": 1
+    },
+    {
+      "name": "Livin' on the Edge",
+      "times_played": 1
+    },
+    {
+      "name": "Kings and Queens",
+      "times_played": 1
+    },
+    {
+      "name": "Toys in the Attic",
+      "times_played": 1
+    },
+    {
+      "name": "Rag Doll",
+      "times_played": 1
+    },
+    {
+      "name": "Freedom Fighter",
+      "times_played": 1
+    },
+    {
+      "name": "Same Old Song and Dance",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "586",

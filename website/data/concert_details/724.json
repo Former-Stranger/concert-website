@@ -1,0 +1,306 @@
+{
+  "id": "724",
+  "show_number": 723,
+  "date": "2016-09-23",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Brian Fallon",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Ryan Bingham",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "84",
+      "artist_name": "Brian Fallon",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/brian-fallon/2016/capitol-theatre-port-chester-ny-53fdf725.html",
+      "song_count": 18,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "I Won't Back Down",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty",
+          "guest_artist": "Ryan Bingham"
+        },
+        {
+          "position": 2,
+          "name": "A Wonderful Life",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Nobody Wins",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Rosemary",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Mojo Hand",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Steve McQueen",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Honey Magnolia",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "Smoke",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 9,
+          "name": "Red Lights",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "Among Other Foolish Things",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "Open All Night",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 12,
+          "name": "Crush",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Horrible Crowes"
+        },
+        {
+          "position": 13,
+          "name": "Mary Ann",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Horrible Crowes"
+        },
+        {
+          "position": 14,
+          "name": "Behold the Hurricane",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Horrible Crowes"
+        },
+        {
+          "position": 15,
+          "name": "Lucky 7's",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Scandals"
+        },
+        {
+          "position": 16,
+          "name": "Linoleum",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "NOFX"
+        },
+        {
+          "position": 17,
+          "name": "The Navesink Banks",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Gaslight Anthem"
+        },
+        {
+          "position": 18,
+          "name": "Handle With Care",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Traveling Wilburys"
+        }
+      ],
+      "tour_name": "Painkillers US Fall Tour"
+    },
+    {
+      "artist_id": "492",
+      "artist_name": "Ryan Bingham",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/ryan-bingham/2016/capitol-theatre-port-chester-ny-33fdd485.html",
+      "song_count": 14,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Atlantic City",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Bruce Springsteen",
+          "guest_artist": "Brian Fallon"
+        },
+        {
+          "position": 2,
+          "name": "Top Shelf Drug",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Tell My Mother I Miss Her So",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Ryan Bingham & The Dead Horses"
+        },
+        {
+          "position": 4,
+          "name": "Depression",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Ryan Bingham & The Dead Horses"
+        },
+        {
+          "position": 5,
+          "name": "Bluebird",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Ryan Bingham & The Dead Horses"
+        },
+        {
+          "position": 6,
+          "name": "The Poet",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Ryan Bingham & The Dead Horses"
+        },
+        {
+          "position": 7,
+          "name": "Dublin Blues",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Guy Clark"
+        },
+        {
+          "position": 8,
+          "name": "Nobody Knows My Trouble",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 9,
+          "name": "Whipping Post",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Allman Brothers Band"
+        },
+        {
+          "position": 10,
+          "name": "My Diamond Is Too Rough",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "Hard Times",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 12,
+          "name": "Hallelujah",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Ryan Bingham & The Dead Horses"
+        },
+        {
+          "position": 13,
+          "name": "Southside of Heaven",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 14,
+          "name": "Don't Think Twice, It's All Right",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Bob Dylan",
+          "guest_artist": "Brian Fallon"
+        }
+      ]
+    }
+  ],
+  "total_song_count": 32,
+  "has_encore": false,
+  "tour_name": "Painkillers US Fall Tour"
+}

@@ -2,7 +2,48 @@
   "id": "257",
   "name": "JBLZE",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Mule",
+      "times_played": 1
+    },
+    {
+      "name": "Painted Silver Light",
+      "times_played": 1
+    },
+    {
+      "name": "Game Face",
+      "times_played": 1
+    },
+    {
+      "name": "Made My Peace",
+      "times_played": 1
+    },
+    {
+      "name": "Same as It Ever Was",
+      "times_played": 1
+    },
+    {
+      "name": "After the Storm",
+      "times_played": 1
+    },
+    {
+      "name": "Pigs on the Wing, Part 2",
+      "times_played": 1
+    },
+    {
+      "name": "Shine On You Crazy Diamond (Parts I-V)",
+      "times_played": 1
+    },
+    {
+      "name": "Have a Cigar",
+      "times_played": 1
+    },
+    {
+      "name": "Speak to Me",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1107",

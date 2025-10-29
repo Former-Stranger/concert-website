@@ -1,0 +1,237 @@
+{
+  "id": "1003",
+  "show_number": 1002,
+  "date": "2021-12-13",
+  "festival_name": "John Henry's Friends",
+  "venue": "The Town Hall",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Bruce Springsteen",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Steve Earle",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Willie Nile",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Rosanne Cash",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "88",
+      "artist_name": "Bruce Springsteen",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/bruce-springsteen/2021/the-town-hall-new-york-ny-4b8b3ffe.html",
+      "song_count": 4,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Darkness on the Edge of Town",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "The Promised Land",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Glory Days",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Willie Nile"
+        },
+        {
+          "position": 4,
+          "name": "Pink Cadillac",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Steve Earle"
+        }
+      ]
+    },
+    {
+      "artist_id": "Mot4G3p6nLaSA8zGwjNb",
+      "artist_name": "Rosanne Cash",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/rosanne-cash/2021/the-town-hall-new-york-ny-5b8b3ff8.html",
+      "song_count": 3,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Tryin' to Get Home",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Reverend Gary Davis"
+        },
+        {
+          "position": 2,
+          "name": "Long Black Veil",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Danny Dill"
+        },
+        {
+          "position": 3,
+          "name": "The Only Thing Worth Fighting For",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ]
+    },
+    {
+      "artist_id": "536",
+      "artist_name": "Steve Earle",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/steve-earle/2021/the-town-hall-new-york-ny-538b3ff9.html",
+      "song_count": 10,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Guitar Town",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Someday",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Mystery Train Part II",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "The Galway Girl",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Copperhead Road",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "If I Could See Your Face Again",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Steve Earle & the Dukes"
+        },
+        {
+          "position": 7,
+          "name": "So You Wannabe an Outlaw",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Steve Earle & the Dukes"
+        },
+        {
+          "position": 8,
+          "name": "Hard Core Troubadour",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 9,
+          "name": "Harlem River Blues",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Justin Townes Earle"
+        },
+        {
+          "position": 10,
+          "name": "Teach Your Children",
+          "set_name": "Set 2",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby, Stills, Nash & Young",
+          "guest_artist": "Bruce Springsteen"
+        }
+      ]
+    },
+    {
+      "artist_id": "642",
+      "artist_name": "Willie Nile",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/willie-nile/2021/the-town-hall-new-york-ny-5b8b3ffc.html",
+      "song_count": 3,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "The Day the Earth Stood Still",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Blood on Your Hands",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Steve Earle"
+        },
+        {
+          "position": 3,
+          "name": "New York Is Rockin'",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ]
+    }
+  ],
+  "total_song_count": 20,
+  "has_encore": false
+}

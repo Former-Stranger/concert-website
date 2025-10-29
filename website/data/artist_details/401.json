@@ -2,7 +2,48 @@
   "id": "401",
   "name": "Neil Young",
   "concert_count": 5,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Heart of Gold",
+      "times_played": 4
+    },
+    {
+      "name": "Cortez the Killer",
+      "times_played": 3
+    },
+    {
+      "name": "Cinnamon Girl",
+      "times_played": 3
+    },
+    {
+      "name": "Everybody Knows This Is Nowhere",
+      "times_played": 3
+    },
+    {
+      "name": "Powderfinger",
+      "times_played": 3
+    },
+    {
+      "name": "Love and Only Love",
+      "times_played": 3
+    },
+    {
+      "name": "Hey Hey, My My (Into the Black)",
+      "times_played": 3
+    },
+    {
+      "name": "Rockin' in the Free World",
+      "times_played": 3
+    },
+    {
+      "name": "Mother Earth (Natural Anthem)",
+      "times_played": 2
+    },
+    {
+      "name": "Scattered (Let's Think About Livin')",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "1163",

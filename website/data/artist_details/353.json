@@ -2,7 +2,48 @@
   "id": "353",
   "name": "The Lone Bellow",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Flower of Scotland",
+      "times_played": 1
+    },
+    {
+      "name": "The Delaney",
+      "times_played": 1
+    },
+    {
+      "name": "What Became of the Likely Lads",
+      "times_played": 1
+    },
+    {
+      "name": "Boys in the Band",
+      "times_played": 1
+    },
+    {
+      "name": "What Katie Did",
+      "times_played": 1
+    },
+    {
+      "name": "The Good Old Days",
+      "times_played": 1
+    },
+    {
+      "name": "Up the Bracket",
+      "times_played": 1
+    },
+    {
+      "name": "Vertigo",
+      "times_played": 1
+    },
+    {
+      "name": "Baron's Claw",
+      "times_played": 1
+    },
+    {
+      "name": "Shiver",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1244",

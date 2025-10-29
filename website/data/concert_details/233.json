@@ -1,0 +1,353 @@
+{
+  "id": "233",
+  "show_number": 232,
+  "date": "2005-07-16",
+  "festival_name": "Multi-Artist Show",
+  "venue": "PNC Bank Arts Center",
+  "city": "Holmdel",
+  "state": "NJ",
+  "artists": [
+    {
+      "name": "John Mellencamp",
+      "role": "festival_performer"
+    },
+    {
+      "name": "John Fogerty",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "293",
+      "artist_name": "John Fogerty",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/john-fogerty/2005/pnc-bank-arts-center-holmdel-nj-3d65547.html",
+      "song_count": 20,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Travelin' Band",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 2,
+          "name": "Born on the Bayou",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 3,
+          "name": "Who'll Stop the Rain",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 4,
+          "name": "It Came Out of the Sky",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 5,
+          "name": "Lookin' Out My Back Door",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 6,
+          "name": "Midnight Special",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "[traditional]"
+        },
+        {
+          "position": 7,
+          "name": "Bootleg",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 8,
+          "name": "Deja Vu (All Over Again)",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 9,
+          "name": "I Heard It Through the Grapevine",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Gladys Knight & the Pips"
+        },
+        {
+          "position": 10,
+          "name": "Have You Ever Seen the Rain?",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 11,
+          "name": "Keep On Chooglin'",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 12,
+          "name": "Sweet Hitch-Hiker",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 13,
+          "name": "Hey Tonight",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 14,
+          "name": "Down on the Corner",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 15,
+          "name": "Centerfield",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 16,
+          "name": "Up Around the Bend",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 17,
+          "name": "The Old Man Down the Road",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 18,
+          "name": "Fortunate Son",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 19,
+          "name": "Bad Moon Rising",
+          "set_name": "Set 2",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 20,
+          "name": "Proud Mary",
+          "set_name": "Set 2",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        }
+      ],
+      "tour_name": "John Fogerty / John Mellencamp"
+    },
+    {
+      "artist_id": "302",
+      "artist_name": "John Mellencamp",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/john-mellencamp/2005/pnc-bank-arts-center-holmdel-nj-3d6553b.html",
+      "song_count": 18,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Small Town",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Love and Happiness",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Minutes to Memories",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Lonely Ol' Night",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Green River",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival",
+          "guest_artist": "John Fogerty"
+        },
+        {
+          "position": 6,
+          "name": "Rain on the Scarecrow",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "John Fogerty"
+        },
+        {
+          "position": 7,
+          "name": "Walk Tall",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "Paper in Fire",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 9,
+          "name": "I Need a Lover",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "Authority Song",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "Jack & Diane",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 12,
+          "name": "Crumblin' Down",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 13,
+          "name": "R.O.C.K. in the U.S.A. (A Salute to 60's Rock)",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 14,
+          "name": "Hurts So Good",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 15,
+          "name": "Pink Houses",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 16,
+          "name": "Ain't Even Done with the Night",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 17,
+          "name": "Check It Out",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 18,
+          "name": "Cherry Bomb",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ],
+      "tour_name": "Words and Music"
+    }
+  ],
+  "total_song_count": 38,
+  "has_encore": false
+}

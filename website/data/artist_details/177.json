@@ -2,7 +2,48 @@
   "id": "177",
   "name": "Doobie Brothers",
   "concert_count": 8,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Rockin' Down the Highway",
+      "times_played": 7
+    },
+    {
+      "name": "Jesus Is Just Alright",
+      "times_played": 7
+    },
+    {
+      "name": "Long Train Runnin'",
+      "times_played": 7
+    },
+    {
+      "name": "China Grove",
+      "times_played": 7
+    },
+    {
+      "name": "Black Water",
+      "times_played": 7
+    },
+    {
+      "name": "Takin' It to the Streets",
+      "times_played": 7
+    },
+    {
+      "name": "Listen to the Music",
+      "times_played": 7
+    },
+    {
+      "name": "Take Me in Your Arms (Rock Me a Little While)",
+      "times_played": 6
+    },
+    {
+      "name": "Dependin' on You",
+      "times_played": 6
+    },
+    {
+      "name": "Without You",
+      "times_played": 6
+    }
+  ],
   "concerts": [
     {
       "id": "1275",

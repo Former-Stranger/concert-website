@@ -1,0 +1,223 @@
+{
+  "id": "786",
+  "show_number": 785,
+  "date": "2017-09-16",
+  "festival_name": null,
+  "venue": "Nassau Coliseum",
+  "city": "Uniondale",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Roger Waters",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/roger-waters/2017/nassau-veterans-memorial-coliseum-uniondale-ny-53e22f25.html",
+  "song_count": 25,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Speak to Me",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 2,
+      "name": "Breathe (In the Air)",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 3,
+      "name": "One of These Days",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 4,
+      "name": "Time",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 5,
+      "name": "Breathe (Reprise)",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 6,
+      "name": "The Great Gig in the Sky",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 7,
+      "name": "Welcome to the Machine",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 8,
+      "name": "When We Were Young",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "D\u00e9j\u00e0 vu",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "The Last Refugee",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "Picture That",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "Wish You Were Here",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 13,
+      "name": "The Happiest Days of Our Lives",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 14,
+      "name": "Another Brick in the Wall, Part 2",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 15,
+      "name": "Another Brick in the Wall, Part 3",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 16,
+      "name": "Dogs",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 17,
+      "name": "Pigs (Three Different Ones)",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 18,
+      "name": "Money",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 19,
+      "name": "Us and Them",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 20,
+      "name": "Smell the Roses",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 21,
+      "name": "Brain Damage",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 22,
+      "name": "Eclipse",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 23,
+      "name": "Vera",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 24,
+      "name": "Bring the Boys Back Home",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    },
+    {
+      "position": 25,
+      "name": "Comfortably Numb",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Pink Floyd"
+    }
+  ],
+  "tour_name": "Us + Them Tour"
+}

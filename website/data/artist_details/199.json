@@ -2,7 +2,48 @@
   "id": "199",
   "name": "Eric Clapton",
   "concert_count": 16,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Cocaine",
+      "times_played": 11
+    },
+    {
+      "name": "Nobody Knows You When You're Down and Out",
+      "times_played": 8
+    },
+    {
+      "name": "Layla",
+      "times_played": 7
+    },
+    {
+      "name": "Tell the Truth",
+      "times_played": 7
+    },
+    {
+      "name": "I Shot the Sheriff",
+      "times_played": 6
+    },
+    {
+      "name": "Little Queen of Spades",
+      "times_played": 6
+    },
+    {
+      "name": "Cross Road Blues",
+      "times_played": 6
+    },
+    {
+      "name": "Driftin' Blues",
+      "times_played": 6
+    },
+    {
+      "name": "Wonderful Tonight",
+      "times_played": 5
+    },
+    {
+      "name": "After Midnight",
+      "times_played": 5
+    }
+  ],
   "concerts": [
     {
       "id": "1060",

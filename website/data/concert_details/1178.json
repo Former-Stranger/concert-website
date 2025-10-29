@@ -1,0 +1,271 @@
+{
+  "id": "1178",
+  "show_number": 1177,
+  "date": "2024-07-16",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Radio City Music Hall",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Daryl Hall",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Elvis Costello",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "150",
+      "artist_name": "Daryl Hall",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/daryl-hall/2024/radio-city-music-hall-new-york-ny-33ab1021.html",
+      "song_count": 12,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Maneater",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Daryl Hall & John Oates"
+        },
+        {
+          "position": 2,
+          "name": "Dreamtime",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Foolish Pride",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Rich Girl",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Daryl Hall & John Oates"
+        },
+        {
+          "position": 5,
+          "name": "Kiss on My List",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Daryl Hall & John Oates"
+        },
+        {
+          "position": 6,
+          "name": "Private Eyes",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Daryl Hall & John Oates"
+        },
+        {
+          "position": 7,
+          "name": "I'm in a Philly Mood",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "Everytime You Go Away",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Daryl Hall & John Oates"
+        },
+        {
+          "position": 9,
+          "name": "Sara Smile",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Daryl Hall & John Oates"
+        },
+        {
+          "position": 10,
+          "name": "I Can't Go for That (No Can Do)",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Daryl Hall & John Oates"
+        },
+        {
+          "position": 11,
+          "name": "Can't Say No to You",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 12,
+          "name": "You Make My Dreams",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Daryl Hall & John Oates"
+        }
+      ],
+      "tour_name": "D North American Tour 2024"
+    },
+    {
+      "artist_id": "191",
+      "artist_name": "Elvis Costello",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/elvis-costello-and-the-imposters/2024/radio-city-music-hall-new-york-ny-33ab1029.html",
+      "song_count": 16,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Pump It Up",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Elvis Costello & The Attractions"
+        },
+        {
+          "position": 2,
+          "name": "Watching the Detectives",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Elvis Costello"
+        },
+        {
+          "position": 3,
+          "name": "No Flag",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Elvis Costello"
+        },
+        {
+          "position": 4,
+          "name": "Green Shirt",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Elvis Costello & The Attractions"
+        },
+        {
+          "position": 5,
+          "name": "We Are All Cowards Now",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Elvis Costello"
+        },
+        {
+          "position": 6,
+          "name": "No Reason to Quit",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Dean Holloway"
+        },
+        {
+          "position": 7,
+          "name": "Indoor Fireworks",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Elvis Costello"
+        },
+        {
+          "position": 8,
+          "name": "Wonder Woman",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Elvis Costello & Allen Toussaint"
+        },
+        {
+          "position": 9,
+          "name": "Everyday I Write the Book",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Elvis Costello & The Attractions"
+        },
+        {
+          "position": 10,
+          "name": "A Face in the Crowd",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Elvis Costello"
+        },
+        {
+          "position": 11,
+          "name": "Everybody's Cryin' Mercy",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Mose Allison"
+        },
+        {
+          "position": 12,
+          "name": "Mystery Dance",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Elvis Costello"
+        },
+        {
+          "position": 13,
+          "name": "Clubland",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Elvis Costello & The Attractions"
+        },
+        {
+          "position": 14,
+          "name": "Alison",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Elvis Costello"
+        },
+        {
+          "position": 15,
+          "name": "(I Don't Want to Go to) Chelsea",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Elvis Costello & The Attractions"
+        },
+        {
+          "position": 16,
+          "name": "(What's So Funny 'Bout) Peace, Love and Understanding",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Brinsley Schwarz"
+        }
+      ],
+      "tour_name": "North American Co-Headline Tour 2024"
+    }
+  ],
+  "total_song_count": 28,
+  "has_encore": false
+}

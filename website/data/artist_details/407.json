@@ -2,7 +2,48 @@
   "id": "407",
   "name": "Oasis",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Fuckin' in the Bushes",
+      "times_played": 1
+    },
+    {
+      "name": "Turn Up the Sun",
+      "times_played": 1
+    },
+    {
+      "name": "Lyla",
+      "times_played": 1
+    },
+    {
+      "name": "Love Like a Bomb",
+      "times_played": 1
+    },
+    {
+      "name": "Bring It On Down",
+      "times_played": 1
+    },
+    {
+      "name": "Morning Glory",
+      "times_played": 1
+    },
+    {
+      "name": "Cigarettes & Alcohol",
+      "times_played": 1
+    },
+    {
+      "name": "The Importance of Being Idle",
+      "times_played": 1
+    },
+    {
+      "name": "Little by Little",
+      "times_played": 1
+    },
+    {
+      "name": "A Bell Will Ring",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "232",

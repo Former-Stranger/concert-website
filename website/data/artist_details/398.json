@@ -2,7 +2,48 @@
   "id": "398",
   "name": "NeedtoBreathe",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Great Night",
+      "times_played": 1
+    },
+    {
+      "name": "State I'm In",
+      "times_played": 1
+    },
+    {
+      "name": "Don't Bring That Trouble",
+      "times_played": 1
+    },
+    {
+      "name": "Banks",
+      "times_played": 1
+    },
+    {
+      "name": "Riding High",
+      "times_played": 1
+    },
+    {
+      "name": "Wasting Time",
+      "times_played": 1
+    },
+    {
+      "name": "Hideaway",
+      "times_played": 1
+    },
+    {
+      "name": "Stones Under Rushing Water",
+      "times_played": 1
+    },
+    {
+      "name": "No Excuses / The House of the Rising Sun",
+      "times_played": 1
+    },
+    {
+      "name": "Testify",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1183",

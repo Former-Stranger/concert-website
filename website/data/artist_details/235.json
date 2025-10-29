@@ -2,7 +2,44 @@
   "id": "235",
   "name": "Great Southern",
   "concert_count": 5,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "You Don't Love Me",
+      "times_played": 4
+    },
+    {
+      "name": "Ramblin' Man",
+      "times_played": 4
+    },
+    {
+      "name": "Hot 'Lanta",
+      "times_played": 2
+    },
+    {
+      "name": "In Memory of Elizabeth Reed",
+      "times_played": 2
+    },
+    {
+      "name": "High Falls",
+      "times_played": 2
+    },
+    {
+      "name": "Back Where It All Begins",
+      "times_played": 2
+    },
+    {
+      "name": "Southbound",
+      "times_played": 2
+    },
+    {
+      "name": "Seven Turns",
+      "times_played": 2
+    },
+    {
+      "name": "No One to Run With",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "464",

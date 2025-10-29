@@ -2,7 +2,48 @@
   "id": "67",
   "name": "Bob Weir",
   "concert_count": 9,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Playing in the Band",
+      "times_played": 4
+    },
+    {
+      "name": "Two Djinn",
+      "times_played": 4
+    },
+    {
+      "name": "China Cat Sunflower",
+      "times_played": 4
+    },
+    {
+      "name": "I Know You Rider",
+      "times_played": 4
+    },
+    {
+      "name": "Jack Straw",
+      "times_played": 3
+    },
+    {
+      "name": "Mexicali Blues",
+      "times_played": 3
+    },
+    {
+      "name": "One More Saturday Night",
+      "times_played": 3
+    },
+    {
+      "name": "Turn On Your Love Light",
+      "times_played": 3
+    },
+    {
+      "name": "The Other One",
+      "times_played": 3
+    },
+    {
+      "name": "He's Gone",
+      "times_played": 3
+    }
+  ],
   "concerts": [
     {
       "id": "1138",

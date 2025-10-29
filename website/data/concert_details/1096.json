@@ -1,0 +1,167 @@
+{
+  "id": "1096",
+  "show_number": 1095,
+  "date": "2023-07-05",
+  "festival_name": null,
+  "venue": "Ford Amphitheater at Coney Island",
+  "city": "Brooklyn",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Neil Young",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/neil-young/2023/john-anson-ford-amphitheatre-los-angeles-ca-6ba7ea16.html",
+  "song_count": 18,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "I'm the Ocean",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Homefires",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Burned",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Buffalo Springfield"
+    },
+    {
+      "position": 4,
+      "name": "On the Way Home",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Buffalo Springfield"
+    },
+    {
+      "position": 5,
+      "name": "If You Got Love",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "A Dream That Can Last",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Neil Young & Crazy Horse"
+    },
+    {
+      "position": 7,
+      "name": "My Heart",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Neil Young & Crazy Horse"
+    },
+    {
+      "position": 8,
+      "name": "Song X",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Prime of Life",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Neil Young & Crazy Horse"
+    },
+    {
+      "position": 10,
+      "name": "When I Hold You in My Arms",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "Mr. Soul",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Buffalo Springfield"
+    },
+    {
+      "position": 12,
+      "name": "Mother Earth (Natural Anthem)",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Neil Young & Crazy Horse"
+    },
+    {
+      "position": 13,
+      "name": "Ohio",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Crosby, Stills, Nash & Young"
+    },
+    {
+      "position": 14,
+      "name": "Days That Used to Be",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Neil Young & Crazy Horse"
+    },
+    {
+      "position": 15,
+      "name": "Don't Forget Love",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Neil Young & Crazy Horse"
+    },
+    {
+      "position": 16,
+      "name": "Heart of Gold",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "Love Earth",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Neil Young & Crazy Horse"
+    },
+    {
+      "position": 18,
+      "name": "Four Strong Winds",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ian & Sylvia"
+    }
+  ],
+  "tour_name": "Coastal Tour 2023"
+}

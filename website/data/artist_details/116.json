@@ -2,7 +2,48 @@
   "id": "116",
   "name": "Chicago",
   "concert_count": 3,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Does Anybody Really Know What Time It Is?",
+      "times_played": 3
+    },
+    {
+      "name": "Saturday in the Park",
+      "times_played": 3
+    },
+    {
+      "name": "25 or 6 to 4",
+      "times_played": 3
+    },
+    {
+      "name": "Make Me Smile",
+      "times_played": 2
+    },
+    {
+      "name": "So Much to Say, So Much to Give",
+      "times_played": 2
+    },
+    {
+      "name": "Anxiety's Moment",
+      "times_played": 2
+    },
+    {
+      "name": "West Virginia Fantasies",
+      "times_played": 2
+    },
+    {
+      "name": "Colour My World",
+      "times_played": 2
+    },
+    {
+      "name": "To Be Free",
+      "times_played": 2
+    },
+    {
+      "name": "Now More Than Ever",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "862",

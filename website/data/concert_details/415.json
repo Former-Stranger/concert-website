@@ -1,0 +1,170 @@
+{
+  "id": "415",
+  "show_number": 414,
+  "date": "2010-03-12",
+  "festival_name": null,
+  "venue": "United Palace Theatre",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Allman Brothers Band",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/the-allman-brothers-band/2010/united-palace-theatre-new-york-ny-6bd4aa76.html",
+  "song_count": 18,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Don't Want You No More",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Spencer Davis Group"
+    },
+    {
+      "position": 2,
+      "name": "It's Not My Cross to Bear",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "You Don't Love Me",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Willie Cobbs"
+    },
+    {
+      "position": 4,
+      "name": "Midnight Rider",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Who's Been Talkin'",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Howlin\u2019 Wolf"
+    },
+    {
+      "position": 6,
+      "name": "Trouble No More",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Muddy Waters"
+    },
+    {
+      "position": 7,
+      "name": "Blind Willie McTell",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Dylan"
+    },
+    {
+      "position": 8,
+      "name": "Egypt",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "I Walk on Guilded Splinters",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Dr. John"
+    },
+    {
+      "position": 10,
+      "name": "Woman Across the River",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Johnnie Taylor"
+    },
+    {
+      "position": 11,
+      "name": "Comin' Home",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Delaney & Bonnie",
+      "guest_artist": "Susan Tedeschi"
+    },
+    {
+      "position": 12,
+      "name": "Lost Lover Blues",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Blind Boy Fuller",
+      "guest_artist": "Susan Tedeschi"
+    },
+    {
+      "position": 13,
+      "name": "Revival",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "All My Friends",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Cowboy"
+    },
+    {
+      "position": 15,
+      "name": "Leave My Blues at Home",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Mountain Jam",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "Smokestack Lightning",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Howlin\u2019 Wolf"
+    },
+    {
+      "position": 18,
+      "name": "Southbound",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null,
+      "guest_artist": "Susan Tedeschi"
+    }
+  ],
+  "tour_name": "United Palace Theatre Run 2010"
+}

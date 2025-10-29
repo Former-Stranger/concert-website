@@ -1,0 +1,112 @@
+{
+  "id": "988",
+  "show_number": 987,
+  "date": "2021-09-18",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Asbury Park Beach",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "artists": [
+    {
+      "name": "Sea Hear Now (Pearl Jam",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Avetts",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Patti Smith)",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/patti-smith/2021/asbury-park-oceanfront-asbury-park-nj-738c6661.html",
+  "song_count": 10,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Redondo Beach",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Grateful",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Ghost Dance",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Patti Smith Group"
+    },
+    {
+      "position": 4,
+      "name": "Dancing Barefoot",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Patti Smith Group"
+    },
+    {
+      "position": 5,
+      "name": "Free Money",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "One Too Many Mornings",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Dylan"
+    },
+    {
+      "position": 7,
+      "name": "Beneath the Southern Cross",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Because the Night",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Patti Smith Group"
+    },
+    {
+      "position": 9,
+      "name": "Pissing in a River",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Patti Smith Group",
+      "guest_artist": "Jesse Paris Smith"
+    },
+    {
+      "position": 10,
+      "name": "Gloria",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Them",
+      "guest_artist": "Jesse Paris Smith"
+    }
+  ]
+}

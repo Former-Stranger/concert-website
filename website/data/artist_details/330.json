@@ -2,7 +2,48 @@
   "id": "330",
   "name": "Kris Allen",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Kiss a Girl",
+      "times_played": 1
+    },
+    {
+      "name": "Days Go By",
+      "times_played": 1
+    },
+    {
+      "name": "Stupid Boy",
+      "times_played": 1
+    },
+    {
+      "name": "Sweet Thing",
+      "times_played": 1
+    },
+    {
+      "name": "I'm In",
+      "times_played": 1
+    },
+    {
+      "name": "'Til Summer Comes Around",
+      "times_played": 1
+    },
+    {
+      "name": "Where the Blacktop Ends",
+      "times_played": 1
+    },
+    {
+      "name": "You're My Better Half",
+      "times_played": 1
+    },
+    {
+      "name": "Making Memories of Us",
+      "times_played": 1
+    },
+    {
+      "name": "Only You Can Love Me This Way",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "443",

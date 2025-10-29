@@ -1,0 +1,384 @@
+{
+  "id": "1063",
+  "show_number": 1062,
+  "date": "2022-10-07",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Jeff Beck",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Johnny Depp",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [
+    {
+      "id": "zwO4j9EPHNN6DiSquBQC",
+      "user_name": "Alex (Alex)",
+      "user_photo": "https://lh3.googleusercontent.com/a/ACg8ocJSJUAlUkegRHzdjKDYqNgN1eHDwUDy4-kxtQ6shbwsr8TjiQ=s96-c",
+      "download_url": "https://firebasestorage.googleapis.com/v0/b/earplugs-and-memories.firebasestorage.app/o/concert_photos%2F1063%2Fmgtl0h3bfar645iig7.jpeg?alt=media&token=1dc0038a-4fd1-4a7d-8095-a105674590ac",
+      "uploaded_at": "2025-10-16T15:35:42.426000+00:00",
+      "caption": "",
+      "file_type": "image/jpeg"
+    },
+    {
+      "id": "ddmxanNNRBcjAh6DnZ8a",
+      "user_name": "Alex (Alex)",
+      "user_photo": "https://lh3.googleusercontent.com/a/ACg8ocJSJUAlUkegRHzdjKDYqNgN1eHDwUDy4-kxtQ6shbwsr8TjiQ=s96-c",
+      "download_url": "https://firebasestorage.googleapis.com/v0/b/earplugs-and-memories.firebasestorage.app/o/concert_photos%2F1063%2Fmgtivpox6ssbj49id0a.jpeg?alt=media&token=12f0c46c-2aa8-40e9-862f-9d037fd6a0a1",
+      "uploaded_at": "2025-10-16T14:36:01.038000+00:00",
+      "caption": "What were we about to get into?",
+      "file_type": "image/jpeg"
+    }
+  ],
+  "photo_count": 2,
+  "setlists": [
+    {
+      "artist_id": "266",
+      "artist_name": "Jeff Beck",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/jeff-beck-and-johnny-depp/2022/capitol-theatre-port-chester-ny-73b1cef1.html",
+      "song_count": 20,
+      "has_encore": true,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Freeway Jam",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jeff Beck"
+        },
+        {
+          "position": 2,
+          "name": "Me and the Devil Blues",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Robert Johnson"
+        },
+        {
+          "position": 3,
+          "name": "Midnight Walker",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Davy Spillane"
+        },
+        {
+          "position": 4,
+          "name": "Big Block",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jeff Beck"
+        },
+        {
+          "position": 5,
+          "name": "Caroline, No",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Brian Wilson"
+        },
+        {
+          "position": 6,
+          "name": "You Know You Know",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Mahavishnu Orchestra"
+        },
+        {
+          "position": 7,
+          "name": "Loose Cannon",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jeff Beck"
+        },
+        {
+          "position": 8,
+          "name": "Star Cycle",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jeff Beck"
+        },
+        {
+          "position": 9,
+          "name": "Brush With the Blues",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jeff Beck"
+        },
+        {
+          "position": 10,
+          "name": "You Never Know",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jeff Beck"
+        },
+        {
+          "position": 11,
+          "name": "Cause We've Ended as Lovers",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Syreeta"
+        },
+        {
+          "position": 12,
+          "name": "Rumble",
+          "set_name": "Hereafter w/ Johnny Depp",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Link Wray & His Raymen"
+        },
+        {
+          "position": 13,
+          "name": "This Is a Song for Miss Hedy Lamarr",
+          "set_name": "Hereafter w/ Johnny Depp",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 14,
+          "name": "Isolation",
+          "set_name": "Hereafter w/ Johnny Depp",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "John Lennon"
+        },
+        {
+          "position": 15,
+          "name": "Time",
+          "set_name": "Hereafter w/ Johnny Depp",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Dennis Wilson"
+        },
+        {
+          "position": 16,
+          "name": "Venus in Furs",
+          "set_name": "Hereafter w/ Johnny Depp",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Velvet Underground"
+        },
+        {
+          "position": 17,
+          "name": "A Day in the Life",
+          "set_name": "Hereafter w/ Johnny Depp",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Beatles"
+        },
+        {
+          "position": 18,
+          "name": "Corpus Christi Carol",
+          "set_name": "Hereafter w/ Johnny Depp",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Benjamin Britten"
+        },
+        {
+          "position": 19,
+          "name": "Little Wing",
+          "set_name": "Encore",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Jimi Hendrix Experience"
+        },
+        {
+          "position": 20,
+          "name": "The Death and Resurrection Show",
+          "set_name": "Encore w/ Johnny Depp",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Killing Joke"
+        }
+      ]
+    },
+    {
+      "artist_id": "307",
+      "artist_name": "Johnny Depp",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/jeff-beck-and-johnny-depp/2022/capitol-theatre-port-chester-ny-73b1cef1.html",
+      "song_count": 20,
+      "has_encore": true,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Freeway Jam",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jeff Beck"
+        },
+        {
+          "position": 2,
+          "name": "Me and the Devil Blues",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Robert Johnson"
+        },
+        {
+          "position": 3,
+          "name": "Midnight Walker",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Davy Spillane"
+        },
+        {
+          "position": 4,
+          "name": "Big Block",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jeff Beck"
+        },
+        {
+          "position": 5,
+          "name": "Caroline, No",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Brian Wilson"
+        },
+        {
+          "position": 6,
+          "name": "You Know You Know",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Mahavishnu Orchestra"
+        },
+        {
+          "position": 7,
+          "name": "Loose Cannon",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jeff Beck"
+        },
+        {
+          "position": 8,
+          "name": "Star Cycle",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jeff Beck"
+        },
+        {
+          "position": 9,
+          "name": "Brush With the Blues",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jeff Beck"
+        },
+        {
+          "position": 10,
+          "name": "You Never Know",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jeff Beck"
+        },
+        {
+          "position": 11,
+          "name": "Cause We've Ended as Lovers",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Syreeta"
+        },
+        {
+          "position": 12,
+          "name": "Rumble",
+          "set_name": "Hereafter w/ Johnny Depp",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Link Wray & His Raymen"
+        },
+        {
+          "position": 13,
+          "name": "This Is a Song for Miss Hedy Lamarr",
+          "set_name": "Hereafter w/ Johnny Depp",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 14,
+          "name": "Isolation",
+          "set_name": "Hereafter w/ Johnny Depp",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "John Lennon"
+        },
+        {
+          "position": 15,
+          "name": "Time",
+          "set_name": "Hereafter w/ Johnny Depp",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Dennis Wilson"
+        },
+        {
+          "position": 16,
+          "name": "Venus in Furs",
+          "set_name": "Hereafter w/ Johnny Depp",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Velvet Underground"
+        },
+        {
+          "position": 17,
+          "name": "A Day in the Life",
+          "set_name": "Hereafter w/ Johnny Depp",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Beatles"
+        },
+        {
+          "position": 18,
+          "name": "Corpus Christi Carol",
+          "set_name": "Hereafter w/ Johnny Depp",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Benjamin Britten"
+        },
+        {
+          "position": 19,
+          "name": "Little Wing",
+          "set_name": "Encore",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Jimi Hendrix Experience"
+        },
+        {
+          "position": 20,
+          "name": "The Death and Resurrection Show",
+          "set_name": "Encore w/ Johnny Depp",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Killing Joke"
+        }
+      ]
+    }
+  ],
+  "total_song_count": 40,
+  "has_encore": true
+}

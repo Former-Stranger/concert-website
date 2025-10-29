@@ -2,7 +2,48 @@
   "id": "513",
   "name": "Sheila E. & Edgar Winter)",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "It Don't Come Easy",
+      "times_played": 1
+    },
+    {
+      "name": "What Goes On",
+      "times_played": 1
+    },
+    {
+      "name": "Honey Don't",
+      "times_played": 1
+    },
+    {
+      "name": "Everybody Wants You",
+      "times_played": 1
+    },
+    {
+      "name": "Free Ride",
+      "times_played": 1
+    },
+    {
+      "name": "A Love Bizarre",
+      "times_played": 1
+    },
+    {
+      "name": "Boys",
+      "times_played": 1
+    },
+    {
+      "name": "Don't Mean Nothing",
+      "times_played": 1
+    },
+    {
+      "name": "She's Not There",
+      "times_played": 1
+    },
+    {
+      "name": "Never Without You",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "269",

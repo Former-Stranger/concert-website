@@ -1,0 +1,94 @@
+{
+  "id": "462",
+  "show_number": 461,
+  "date": "2010-12-18",
+  "festival_name": null,
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Prince",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/prince/2010/izod-center-east-rutherford-nj-7bd9f2a8.html",
+  "song_count": 9,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Chicken Grease",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "D\u2019Angelo"
+    },
+    {
+      "position": 2,
+      "name": "Joy in Repetition",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "A Long Walk",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jill Scott"
+    },
+    {
+      "position": 4,
+      "name": "My Radio Sure Sounds Good to Me",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Graham Central Station"
+    },
+    {
+      "position": 5,
+      "name": "Hair",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Chaka Khan"
+    },
+    {
+      "position": 6,
+      "name": "The Question of U",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "The One",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The New Power Generation"
+    },
+    {
+      "position": 8,
+      "name": "For the Love of You",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Isley Brothers"
+    },
+    {
+      "position": 9,
+      "name": "God Be With You Til We Meet Again",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jeremiah Rankin"
+    }
+  ]
+}

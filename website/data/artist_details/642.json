@@ -2,7 +2,48 @@
   "id": "642",
   "name": "Willie Nile",
   "concert_count": 6,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "This Is Our Time",
+      "times_played": 2
+    },
+    {
+      "name": "Heaven Help the Lonely",
+      "times_played": 2
+    },
+    {
+      "name": "Sweet Jane",
+      "times_played": 2
+    },
+    {
+      "name": "House of a Thousand Guitars",
+      "times_played": 2
+    },
+    {
+      "name": "One Guitar",
+      "times_played": 2
+    },
+    {
+      "name": "You Gotta Be a Buddha (In a Place Like This)",
+      "times_played": 2
+    },
+    {
+      "name": "Darkness on the Edge of Town",
+      "times_played": 1
+    },
+    {
+      "name": "The Promised Land",
+      "times_played": 1
+    },
+    {
+      "name": "Glory Days",
+      "times_played": 1
+    },
+    {
+      "name": "Pink Cadillac",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1003",

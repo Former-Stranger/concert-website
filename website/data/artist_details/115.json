@@ -2,7 +2,48 @@
   "id": "115",
   "name": "Cher",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Cher... Through Time",
+      "times_played": 1
+    },
+    {
+      "name": "I Still Haven't Found What I'm Looking For",
+      "times_played": 1
+    },
+    {
+      "name": "Gayatri Mantra",
+      "times_played": 1
+    },
+    {
+      "name": "All or Nothing",
+      "times_played": 1
+    },
+    {
+      "name": "Untitled I",
+      "times_played": 1
+    },
+    {
+      "name": "I Found Someone",
+      "times_played": 1
+    },
+    {
+      "name": "Bang Bang (My Baby Shot Me Down)",
+      "times_played": 1
+    },
+    {
+      "name": "Sonny & Cher",
+      "times_played": 1
+    },
+    {
+      "name": "All I Really Want to Do",
+      "times_played": 1
+    },
+    {
+      "name": "Half-Breed",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "212",

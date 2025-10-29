@@ -2,7 +2,48 @@
   "id": "637",
   "name": "Wilder Woods",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Time On My Hands",
+      "times_played": 1
+    },
+    {
+      "name": "Where Do We Go From Here",
+      "times_played": 1
+    },
+    {
+      "name": "Heartland",
+      "times_played": 1
+    },
+    {
+      "name": "Feel",
+      "times_played": 1
+    },
+    {
+      "name": "Hide Anymore",
+      "times_played": 1
+    },
+    {
+      "name": "Someday Soon",
+      "times_played": 1
+    },
+    {
+      "name": "She Talks to Angels",
+      "times_played": 1
+    },
+    {
+      "name": "Love Last",
+      "times_played": 1
+    },
+    {
+      "name": "Devil In My Eyes",
+      "times_played": 1
+    },
+    {
+      "name": "Criminal",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1242",

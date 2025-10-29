@@ -1,0 +1,165 @@
+{
+  "id": "281",
+  "show_number": 280,
+  "date": "2006-09-28",
+  "festival_name": null,
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Eric Clapton",
+      "role": "headliner"
+    },
+    {
+      "name": "Robert Cray",
+      "role": "opener"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/eric-clapton/2006/madison-square-garden-new-york-ny-5bd337e0.html",
+  "song_count": 17,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Pretending",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "I Shot the Sheriff",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Wailers"
+    },
+    {
+      "position": 3,
+      "name": "Got to Get Better in a Little While",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Derek and the Dominos"
+    },
+    {
+      "position": 4,
+      "name": "Old Love",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null,
+      "guest_artist": "Robert Cray"
+    },
+    {
+      "position": 5,
+      "name": "Everybody Oughta Make a Change",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Sleepy John Estes"
+    },
+    {
+      "position": 6,
+      "name": "Mother's Children Have a Hard Time",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Blind Willie Johnson"
+    },
+    {
+      "position": 7,
+      "name": "Back Home",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "I Am Yours",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Derek and the Dominos"
+    },
+    {
+      "position": 9,
+      "name": "Nobody Knows You When You're Down and Out",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jimmy Cox"
+    },
+    {
+      "position": 10,
+      "name": "Running on Faith",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "After Midnight",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "J.J. Cale"
+    },
+    {
+      "position": 12,
+      "name": "Little Queen of Spades",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Robert Johnson"
+    },
+    {
+      "position": 13,
+      "name": "Farther Up the Road",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bobby \u201cBlue\u201d Bland"
+    },
+    {
+      "position": 14,
+      "name": "Wonderful Tonight",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Layla",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Derek and the Dominos"
+    },
+    {
+      "position": 16,
+      "name": "Cocaine",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "J.J. Cale"
+    },
+    {
+      "position": 17,
+      "name": "Cross Road Blues",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Robert Johnson",
+      "guest_artist": "Robert Cray"
+    }
+  ],
+  "tour_name": "Back Home"
+}

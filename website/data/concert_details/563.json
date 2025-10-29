@@ -1,0 +1,371 @@
+{
+  "id": "563",
+  "show_number": 562,
+  "date": "2014-01-29",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Keith Urban",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Little Big Town",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "316",
+      "artist_name": "Keith Urban",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/keith-urban/2014/madison-square-garden-new-york-ny-3bc5cc84.html",
+      "song_count": 28,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Long Hot Summer",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Sweet Thing",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "I Told You So",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Somewhere in My Car",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Stupid Boy",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Only You Can Love Me This Way",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Even the Stars Fall 4 U",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "You Gonna Fly",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Little Big Town"
+        },
+        {
+          "position": 9,
+          "name": "Cop Car",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "Without You",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "Good Thing",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 12,
+          "name": "Kiss a Girl",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Dustin Lynch"
+        },
+        {
+          "position": 13,
+          "name": "Won't Get Fooled Again",
+          "set_name": "B-Stage",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Who"
+        },
+        {
+          "position": 14,
+          "name": "Days Go By",
+          "set_name": "B-Stage",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 15,
+          "name": "Rumour Has It",
+          "set_name": "B-Stage",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Adele"
+        },
+        {
+          "position": 16,
+          "name": "Once in a Lifetime",
+          "set_name": "B-Stage",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 17,
+          "name": "Better Life",
+          "set_name": "B-Stage",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 18,
+          "name": "Boys 'Round Here",
+          "set_name": "B-Stage",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Blake Shelton"
+        },
+        {
+          "position": 19,
+          "name": "Some Nights",
+          "set_name": "Back to Main Stage",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Fun"
+        },
+        {
+          "position": 20,
+          "name": "We Were Us",
+          "set_name": "Back to Main Stage",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Karen Fairchild"
+        },
+        {
+          "position": 21,
+          "name": "Little Bit of Everything",
+          "set_name": "Back to Main Stage",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 22,
+          "name": "Who Wouldn't Wanna Be Me",
+          "set_name": "Back to Main Stage",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 23,
+          "name": "Somebody Like You",
+          "set_name": "Back to Main Stage",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 24,
+          "name": "But for the Grace of God",
+          "set_name": "Set 4",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 25,
+          "name": "Keep On Loving You",
+          "set_name": "Set 4",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "REO Speedwagon"
+        },
+        {
+          "position": 26,
+          "name": "Tonight I Wanna Cry",
+          "set_name": "Set 4",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 27,
+          "name": "Locked Out of Heaven",
+          "set_name": "Set 4",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Bruno Mars"
+        },
+        {
+          "position": 28,
+          "name": "You Look Good in My Shirt",
+          "set_name": "Set 4",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ],
+      "tour_name": "Light the Fuse Tour"
+    },
+    {
+      "artist_id": "347",
+      "artist_name": "Little Big Town",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/little-big-town/2014/madison-square-garden-new-york-ny-6bc5ce16.html",
+      "song_count": 12,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Little White Church",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "On Fire Tonight",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Bring It on Home",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Pavement Ends",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Sober",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Front Porch Thing",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Your Side of the Bed",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "The Chain",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Fleetwood Mac"
+        },
+        {
+          "position": 9,
+          "name": "Can't Go Back",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "Tornado",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "Pontoon",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 12,
+          "name": "Boondocks",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ],
+      "tour_name": "Light the Fuse Tour"
+    }
+  ],
+  "total_song_count": 40,
+  "has_encore": false,
+  "tour_name": "Light the Fuse Tour"
+}

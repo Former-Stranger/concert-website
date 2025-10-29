@@ -1,0 +1,29 @@
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1761689344.998255 5171003 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/google/cloud/firestore_v1/base_collection.py:304: UserWarning: Detected filter using positional arguments. Prefer using the 'filter' keyword argument instead.
+  return query.where(field_path, op_string, value)
+================================================================================
+ENHANCED SETLIST FETCHER - WITH CO-HEADLINER SUPPORT
+================================================================================
+
+📊 Loading concerts...
+   Found 100 concerts
+   17 concerts need setlists
+   Estimated time: 0.2 minutes
+
+⚠️  About to fetch 17 setlists. Continue? (yes/no): Traceback (most recent call last):
+  File "/Users/akalbfell/Documents/Jay/concert-website/scripts/fetch_setlists_enhanced.py", line 401, in <module>
+    fetch_all_setlists(
+    ~~~~~~~~~~~~~~~~~~^
+        limit=args.limit,
+        ^^^^^^^^^^^^^^^^^
+        dry_run=args.dry_run,
+        ^^^^^^^^^^^^^^^^^^^^^
+        skip_existing=not args.all
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/akalbfell/Documents/Jay/concert-website/scripts/fetch_setlists_enhanced.py", line 326, in fetch_all_setlists
+    response = input(f"\n⚠️  About to fetch {len(concerts_to_process)} setlists. Continue? (yes/no): ")
+               ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line

@@ -2,7 +2,48 @@
   "id": "310",
   "name": "KISS",
   "concert_count": 17,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Detroit Rock City",
+      "times_played": 9
+    },
+    {
+      "name": "Shout It Out Loud",
+      "times_played": 9
+    },
+    {
+      "name": "Deuce",
+      "times_played": 9
+    },
+    {
+      "name": "I Love It Loud",
+      "times_played": 9
+    },
+    {
+      "name": "Bass Solo",
+      "times_played": 9
+    },
+    {
+      "name": "Love Gun",
+      "times_played": 9
+    },
+    {
+      "name": "Rock and Roll All Nite",
+      "times_played": 9
+    },
+    {
+      "name": "Lick It Up",
+      "times_played": 8
+    },
+    {
+      "name": "100,000 Years",
+      "times_played": 8
+    },
+    {
+      "name": "Black Diamond",
+      "times_played": 8
+    }
+  ],
   "concerts": [
     {
       "id": "1133",

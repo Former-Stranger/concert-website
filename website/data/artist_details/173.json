@@ -2,7 +2,48 @@
   "id": "173",
   "name": "Dirty Knobs",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Wicked Mind",
+      "times_played": 4
+    },
+    {
+      "name": "Lightning Boogie",
+      "times_played": 4
+    },
+    {
+      "name": "Wreckless Abandon",
+      "times_played": 4
+    },
+    {
+      "name": "Dirty Job",
+      "times_played": 4
+    },
+    {
+      "name": "Fuck That Guy",
+      "times_played": 4
+    },
+    {
+      "name": "I Still Love You",
+      "times_played": 4
+    },
+    {
+      "name": "State of Mind",
+      "times_played": 4
+    },
+    {
+      "name": "In This Lifetime",
+      "times_played": 4
+    },
+    {
+      "name": "Refugee",
+      "times_played": 4
+    },
+    {
+      "name": "Southern Boy",
+      "times_played": 4
+    }
+  ],
   "concerts": [
     {
       "id": "1057",

@@ -45,7 +45,7 @@ def export_to_json(output_dir):
     concerts_ref = db.collection('concerts')
     concerts_docs = concerts_ref.order_by('date', direction=firestore.Query.DESCENDING).stream()
 
-    concerts = []
+    concerts_list = []
     all_concerts_data = {}  # Store for later use
 
     for doc in concerts_docs:
@@ -59,7 +59,7 @@ def export_to_json(output_dir):
         primary_artists = [a for a in artists_list if a.get('role') in ['headliner', 'festival_performer']]
         artist_names = ', '.join([a.get('artist_name', '') for a in primary_artists])
 
-        concerts.append({
+        concerts_list.append({
             'id': concert_id,
             'show_number': data.get('show_number'),
             'date': data.get('date', ''),
@@ -68,12 +68,11 @@ def export_to_json(output_dir):
             'city': data.get('city', ''),
             'state': data.get('state', ''),
             'artists': artist_names,
-            'hasSetlist': data.get('has_setlist', False)
+            'hasSetlist': False  # Will be updated later if setlists exist
         })
 
-    with open(output_dir / 'concerts.json', 'w') as f:
-        json.dump(concerts, f, indent=2)
-    print(f"   Exported {len(concerts)} concerts")
+    # Don't write concerts.json yet - need to update hasSetlist flags first
+    print(f"   Loaded {len(concerts_list)} concerts")
 
     # 2. Export concert details (one file per concert with setlist)
     print("\n2. Exporting concert details with setlists...")
@@ -240,6 +239,17 @@ def export_to_json(output_dir):
 
     print(f"   Exported {concerts_with_setlists} concert details")
 
+    # Now update hasSetlist flags for concerts that have setlists
+    concert_ids_with_setlists = set(setlists_by_concert.keys())
+    for concert in concerts_list:
+        if concert['id'] in concert_ids_with_setlists:
+            concert['hasSetlist'] = True
+
+    # Write concerts.json with updated hasSetlist flags
+    with open(output_dir / 'concerts.json', 'w') as f:
+        json.dump(concerts_list, f, indent=2)
+    print(f"   Updated concerts.json with {len(concert_ids_with_setlists)} hasSetlist flags")
+
     # 3. Export artists list
     print("\n3. Exporting artists...")
     artists_ref = db.collection('artists')
@@ -322,7 +332,7 @@ def export_to_json(output_dir):
     print("\n5. Generating statistics...")
 
     total_concerts = len([c for c in all_concerts_data.values() if c.get('date')])
-    concerts_with_setlists_count = len([c for c in all_concerts_data.values() if c.get('has_setlist')])
+    concerts_with_setlists_count = len(concert_ids_with_setlists)
 
     # Count total songs
     setlists_docs = db.collection('setlists').stream()

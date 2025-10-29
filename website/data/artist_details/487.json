@@ -2,7 +2,48 @@
   "id": "487",
   "name": "Rolling Stones",
   "concert_count": 5,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Jumpin' Jack Flash",
+      "times_played": 5
+    },
+    {
+      "name": "Start Me Up",
+      "times_played": 4
+    },
+    {
+      "name": "Tumbling Dice",
+      "times_played": 4
+    },
+    {
+      "name": "You Can't Always Get What You Want",
+      "times_played": 4
+    },
+    {
+      "name": "Sympathy for the Devil",
+      "times_played": 4
+    },
+    {
+      "name": "Honky Tonk Women",
+      "times_played": 4
+    },
+    {
+      "name": "Gimme Shelter",
+      "times_played": 4
+    },
+    {
+      "name": "Paint It Black",
+      "times_played": 4
+    },
+    {
+      "name": "(I Can't Get No) Satisfaction",
+      "times_played": 4
+    },
+    {
+      "name": "Miss You",
+      "times_played": 3
+    }
+  ],
   "concerts": [
     {
       "id": "1167",

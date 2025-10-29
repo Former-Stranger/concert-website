@@ -2,7 +2,48 @@
   "id": "418",
   "name": "Paul Rodgers",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "The Real Me",
+      "times_played": 1
+    },
+    {
+      "name": "Barracuda",
+      "times_played": 1
+    },
+    {
+      "name": "Ain't No Way",
+      "times_played": 1
+    },
+    {
+      "name": "I Am the Highway",
+      "times_played": 1
+    },
+    {
+      "name": "Back to Black",
+      "times_played": 1
+    },
+    {
+      "name": "You Don't Own Me",
+      "times_played": 1
+    },
+    {
+      "name": "Life in the Fast Lane",
+      "times_played": 1
+    },
+    {
+      "name": "Won't Get Fooled Again",
+      "times_played": 1
+    },
+    {
+      "name": "Pull It",
+      "times_played": 1
+    },
+    {
+      "name": "Stratus",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "850",

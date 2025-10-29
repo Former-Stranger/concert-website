@@ -1,0 +1,247 @@
+{
+  "id": "1020",
+  "show_number": 1019,
+  "date": "2022-04-23",
+  "festival_name": null,
+  "venue": "UBS Arena",
+  "city": "Elmont",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "The Eagles",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/eagles/2022/ubs-arena-elmont-ny-3bb60ca4.html",
+  "song_count": 28,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Hotel California",
+      "set_name": "Hotel California",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "New Kid in Town",
+      "set_name": "Hotel California",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Life in the Fast Lane",
+      "set_name": "Hotel California",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Wasted Time",
+      "set_name": "Hotel California",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Wasted Time (Reprise)",
+      "set_name": "Hotel California",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Victim of Love",
+      "set_name": "Hotel California",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Pretty Maids All in a Row",
+      "set_name": "Hotel California",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Try and Love Again",
+      "set_name": "Hotel California",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "The Last Resort",
+      "set_name": "Hotel California",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Seven Bridges Road",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Steve Young"
+    },
+    {
+      "position": 11,
+      "name": "Take It Easy",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "One of These Nights",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Peaceful Easy Feeling",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jack Tempchin"
+    },
+    {
+      "position": 14,
+      "name": "Witchy Woman",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Take It to the Limit",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Tequila Sunrise",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "In the City",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Joe Walsh"
+    },
+    {
+      "position": 18,
+      "name": "I Can't Tell You Why",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 19,
+      "name": "Lyin' Eyes",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "Those Shoes",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 21,
+      "name": "Life's Been Good",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Joe Walsh"
+    },
+    {
+      "position": 22,
+      "name": "Already Gone",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Robb Strandlund"
+    },
+    {
+      "position": 23,
+      "name": "Funk #49",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "James Gang"
+    },
+    {
+      "position": 24,
+      "name": "Heartache Tonight",
+      "set_name": "Greatest Hits",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 25,
+      "name": "Rocky Mountain Way",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Joe Walsh"
+    },
+    {
+      "position": 26,
+      "name": "Desperado",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 27,
+      "name": "The Boys of Summer",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Don Henley"
+    },
+    {
+      "position": 28,
+      "name": "Best of My Love",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ],
+  "tour_name": "Hotel California 2022"
+}

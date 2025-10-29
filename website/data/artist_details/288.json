@@ -2,7 +2,48 @@
   "id": "288",
   "name": "Joe Russo's Almost Dead",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Tennessee Jed",
+      "times_played": 1
+    },
+    {
+      "name": "Alligator",
+      "times_played": 1
+    },
+    {
+      "name": "Viola Lee Blues",
+      "times_played": 1
+    },
+    {
+      "name": "The Wheel",
+      "times_played": 1
+    },
+    {
+      "name": "Long Black Veil",
+      "times_played": 1
+    },
+    {
+      "name": "Crazy Fingers",
+      "times_played": 1
+    },
+    {
+      "name": "The Other One",
+      "times_played": 1
+    },
+    {
+      "name": "Here Comes Sunshine",
+      "times_played": 1
+    },
+    {
+      "name": "Casey Jones",
+      "times_played": 1
+    },
+    {
+      "name": "Ramble On Rose",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1232",

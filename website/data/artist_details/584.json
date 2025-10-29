@@ -2,7 +2,48 @@
   "id": "584",
   "name": "The Record Company",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Baby I'm Broken",
+      "times_played": 1
+    },
+    {
+      "name": "On the Move",
+      "times_played": 1
+    },
+    {
+      "name": "Hard Day Coming Down",
+      "times_played": 1
+    },
+    {
+      "name": "The Movie Song",
+      "times_played": 1
+    },
+    {
+      "name": "Rita Mae Young",
+      "times_played": 1
+    },
+    {
+      "name": "New Speedway Boogie",
+      "times_played": 1
+    },
+    {
+      "name": "Goodbye to the Hard Life",
+      "times_played": 1
+    },
+    {
+      "name": "Never Gonna Cry for Me",
+      "times_played": 1
+    },
+    {
+      "name": "Make It Happen",
+      "times_played": 1
+    },
+    {
+      "name": "Turn Me Loose",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "906",

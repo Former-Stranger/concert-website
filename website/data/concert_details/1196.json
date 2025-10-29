@@ -1,0 +1,305 @@
+{
+  "id": "1196",
+  "show_number": 1195,
+  "date": "2024-09-14",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Asbury Park Beach",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "artists": [
+    {
+      "name": "SEA HEAR NOW: Noah Kahan",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Black Crowes",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Guster",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Revivalists",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Randolph",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "53",
+      "artist_name": "Black Crowes",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/the-black-crowes/2024/asbury-park-oceanfront-asbury-park-nj-23ab809b.html",
+      "song_count": 13,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "No Speak No Slave",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Rats and Clowns",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Twice as Hard",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "My Morning Song",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Sometimes Salvation",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Wanting and Waiting",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "White Light/White Heat",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Velvet Underground"
+        },
+        {
+          "position": 8,
+          "name": "Thorn in My Pride",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 9,
+          "name": "Hard to Handle",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Otis Redding"
+        },
+        {
+          "position": 10,
+          "name": "She Talks to Angels",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "Sting Me",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 12,
+          "name": "Jealous Again",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 13,
+          "name": "Remedy",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ],
+      "tour_name": "Happiness Bastards"
+    },
+    {
+      "artist_id": "241",
+      "artist_name": "Guster",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/guster/2024/transparent-clinch-gallery-art-tent-asbury-park-nj-3b538c54.html",
+      "song_count": 2,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Dreams",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Fleetwood Mac"
+        },
+        {
+          "position": 2,
+          "name": "Harvest Moon",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young",
+          "guest_artist": "Danny Clinch"
+        }
+      ]
+    },
+    {
+      "artist_id": "446",
+      "artist_name": "Randolph",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/robert-randolph-and-the-family-band/2024/bradley-park-asbury-park-nj-23ab8083.html",
+      "song_count": 2,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Ain't Nothing Wrong With That",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "I Need More Love",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ]
+    },
+    {
+      "artist_id": "453",
+      "artist_name": "Revivalists",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/the-revivalists/2024/asbury-park-oceanfront-asbury-park-nj-33ab809d.html",
+      "song_count": 11,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Kid",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Good Old Days",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Don't Look Back",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "All My Friends",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "The Long Con",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "It Was a Sin",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Down in the Dirt",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "You and I",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 9,
+          "name": "Celebration",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "Only You",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "Wish I Knew You",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Robert Randolph"
+        }
+      ]
+    }
+  ],
+  "total_song_count": 28,
+  "has_encore": false,
+  "tour_name": "Happiness Bastards"
+}

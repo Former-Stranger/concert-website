@@ -2,7 +2,48 @@
   "id": "386",
   "name": "Miranda Lambert",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Beer in Mexico",
+      "times_played": 1
+    },
+    {
+      "name": "Reality",
+      "times_played": 1
+    },
+    {
+      "name": "Til It's Gone",
+      "times_played": 1
+    },
+    {
+      "name": "Summertime",
+      "times_played": 1
+    },
+    {
+      "name": "Pirate Flag",
+      "times_played": 1
+    },
+    {
+      "name": "No Shoes, No Shirt, No Problems",
+      "times_played": 1
+    },
+    {
+      "name": "Somewhere With You",
+      "times_played": 1
+    },
+    {
+      "name": "I Go Back",
+      "times_played": 1
+    },
+    {
+      "name": "Anything but Mine",
+      "times_played": 1
+    },
+    {
+      "name": "Save It for a Rainy Day",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "714",

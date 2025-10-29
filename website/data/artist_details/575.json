@@ -2,7 +2,48 @@
   "id": "575",
   "name": "The Killers",
   "concert_count": 3,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "When You Were Young",
+      "times_played": 4
+    },
+    {
+      "name": "Somebody Told Me",
+      "times_played": 3
+    },
+    {
+      "name": "Smile Like You Mean It",
+      "times_played": 3
+    },
+    {
+      "name": "Jenny Was a Friend of Mine",
+      "times_played": 3
+    },
+    {
+      "name": "Read My Mind",
+      "times_played": 3
+    },
+    {
+      "name": "Mr. Brightside",
+      "times_played": 3
+    },
+    {
+      "name": "For Reasons Unknown",
+      "times_played": 3
+    },
+    {
+      "name": "All These Things That I've Done",
+      "times_played": 3
+    },
+    {
+      "name": "Sam's Town",
+      "times_played": 2
+    },
+    {
+      "name": "Bones",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "808",

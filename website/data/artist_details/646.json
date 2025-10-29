@@ -2,7 +2,48 @@
   "id": "646",
   "name": "ZZ Top",
   "concert_count": 3,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Got Me Under Pressure",
+      "times_played": 1
+    },
+    {
+      "name": "I Thank You",
+      "times_played": 1
+    },
+    {
+      "name": "Waitin' for the Bus",
+      "times_played": 1
+    },
+    {
+      "name": "Jesus Just Left Chicago",
+      "times_played": 1
+    },
+    {
+      "name": "Gimme All Your Lovin'",
+      "times_played": 1
+    },
+    {
+      "name": "Pearl Necklace",
+      "times_played": 1
+    },
+    {
+      "name": "I'm Bad, I'm Nationwide",
+      "times_played": 1
+    },
+    {
+      "name": "I Gotsta Get Paid",
+      "times_played": 1
+    },
+    {
+      "name": "My Head's in Mississippi",
+      "times_played": 1
+    },
+    {
+      "name": "Sixteen Tons",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1064",

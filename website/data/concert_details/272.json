@@ -1,0 +1,265 @@
+{
+  "id": "272",
+  "show_number": 271,
+  "date": "2006-08-11",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Jones Beach Theater",
+  "city": "Wantagh",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "John Fogerty",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Willie Nelson",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "293",
+      "artist_name": "John Fogerty",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/john-fogerty/2006/nikon-at-jones-beach-theater-wantagh-ny-43cef7b7.html",
+      "song_count": 26,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Travelin' Band",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 2,
+          "name": "Green River",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 3,
+          "name": "Who'll Stop the Rain",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 4,
+          "name": "It Came Out of the Sky",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 5,
+          "name": "Jambalaya (On the Bayou)",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Hank Williams With His Drifting Cowboys",
+          "guest_artist": "Willie Nelson"
+        },
+        {
+          "position": 6,
+          "name": "Born on the Bayou",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 7,
+          "name": "Commotion",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 8,
+          "name": "Lookin' Out My Back Door",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 9,
+          "name": "Hot Rod Heart",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "Ramble Tamble",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 11,
+          "name": "Midnight Special",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "[traditional]"
+        },
+        {
+          "position": 12,
+          "name": "Bootleg",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 13,
+          "name": "Run Through the Jungle",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 14,
+          "name": "Deja Vu (All Over Again)",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 15,
+          "name": "I Heard It Through the Grapevine",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Gladys Knight & the Pips"
+        },
+        {
+          "position": 16,
+          "name": "Have You Ever Seen the Rain?",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 17,
+          "name": "Sweet Hitch-Hiker",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 18,
+          "name": "Keep On Chooglin'",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 19,
+          "name": "Rock and Roll Girls",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 20,
+          "name": "Down on the Corner",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 21,
+          "name": "Centerfield",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 22,
+          "name": "Up Around the Bend",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 23,
+          "name": "The Old Man Down the Road",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 24,
+          "name": "Fortunate Son",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 25,
+          "name": "Bad Moon Rising",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        },
+        {
+          "position": 26,
+          "name": "Proud Mary",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Creedence Clearwater Revival"
+        }
+      ],
+      "tour_name": "The Long Road Home"
+    },
+    {
+      "artist_id": "641",
+      "artist_name": "Willie Nelson",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/willie-nelson/2006/nikon-at-jones-beach-theater-wantagh-ny-339b64b1.html",
+      "song_count": 1,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Whiskey River",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Johnny Bush"
+        }
+      ],
+      "tour_name": "The Long Road Home"
+    }
+  ],
+  "total_song_count": 27,
+  "has_encore": false,
+  "tour_name": "The Long Road Home"
+}

@@ -2,7 +2,48 @@
   "id": "15",
   "name": "Alison Krauss",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Down to the River to Pray",
+      "times_played": 3
+    },
+    {
+      "name": "Your Long Journey",
+      "times_played": 3
+    },
+    {
+      "name": "Rich Woman",
+      "times_played": 2
+    },
+    {
+      "name": "Leave My Woman Alone",
+      "times_played": 2
+    },
+    {
+      "name": "Black Dog",
+      "times_played": 2
+    },
+    {
+      "name": "Sister Rosetta Goes Before Us",
+      "times_played": 2
+    },
+    {
+      "name": "Through the Morning, Through the Night",
+      "times_played": 2
+    },
+    {
+      "name": "It's Goodbye and So Long to You",
+      "times_played": 2
+    },
+    {
+      "name": "Fortune Teller",
+      "times_played": 2
+    },
+    {
+      "name": "In the Mood",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "578",

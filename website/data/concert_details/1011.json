@@ -1,0 +1,31 @@
+{
+  "id": "1011",
+  "show_number": 1010,
+  "date": "2022-03-22",
+  "festival_name": null,
+  "venue": "Cherry Lane Theatre",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Steve Earle (Coal Country Play)",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/charley-crockett/2022/tampa-theatre-tampa-fl-b89551a.html",
+  "song_count": 1,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Welcome to Hard Times",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ],
+  "tour_name": "Jukebox Charley"
+}

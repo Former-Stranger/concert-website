@@ -2,7 +2,48 @@
   "id": "599",
   "name": "Tom Petty & The Heartbreakers",
   "concert_count": 4,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "You Wreck Me",
+      "times_played": 3
+    },
+    {
+      "name": "Mary Jane's Last Dance",
+      "times_played": 3
+    },
+    {
+      "name": "I Won't Back Down",
+      "times_played": 3
+    },
+    {
+      "name": "Free Fallin'",
+      "times_played": 3
+    },
+    {
+      "name": "Can't Find My Way Home",
+      "times_played": 3
+    },
+    {
+      "name": "Gimme Some Lovin'",
+      "times_played": 3
+    },
+    {
+      "name": "Learning to Fly",
+      "times_played": 3
+    },
+    {
+      "name": "Refugee",
+      "times_played": 3
+    },
+    {
+      "name": "Runnin' Down a Dream",
+      "times_played": 3
+    },
+    {
+      "name": "American Girl",
+      "times_played": 3
+    }
+  ],
   "concerts": [
     {
       "id": "344",

@@ -2,7 +2,48 @@
   "id": "303",
   "name": "John Mellencamp (Bruce appearance)",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "John Cockers",
+      "times_played": 1
+    },
+    {
+      "name": "Paper in Fire",
+      "times_played": 1
+    },
+    {
+      "name": "Minutes to Memories",
+      "times_played": 1
+    },
+    {
+      "name": "Small Town",
+      "times_played": 1
+    },
+    {
+      "name": "Human Wheels",
+      "times_played": 1
+    },
+    {
+      "name": "Jackie Brown",
+      "times_played": 1
+    },
+    {
+      "name": "Check It Out",
+      "times_played": 1
+    },
+    {
+      "name": "The Eyes of Portland",
+      "times_played": 1
+    },
+    {
+      "name": "Longest Days",
+      "times_played": 1
+    },
+    {
+      "name": "Jack & Diane",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1147",

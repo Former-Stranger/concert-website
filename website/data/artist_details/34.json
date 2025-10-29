@@ -2,7 +2,48 @@
   "id": "34",
   "name": "Bad Company",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Live for the Music",
+      "times_played": 1
+    },
+    {
+      "name": "Gone, Gone, Gone",
+      "times_played": 1
+    },
+    {
+      "name": "Feel Like Makin' Love",
+      "times_played": 1
+    },
+    {
+      "name": "Burnin' Sky",
+      "times_played": 1
+    },
+    {
+      "name": "Electricland",
+      "times_played": 1
+    },
+    {
+      "name": "Ready for Love",
+      "times_played": 1
+    },
+    {
+      "name": "Crazy Circles",
+      "times_played": 1
+    },
+    {
+      "name": "See the Sunlight",
+      "times_played": 1
+    },
+    {
+      "name": "Run With the Pack",
+      "times_played": 1
+    },
+    {
+      "name": "Movin' On",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "697",

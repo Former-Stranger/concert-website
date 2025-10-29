@@ -2,7 +2,48 @@
   "id": "119",
   "name": "Chris Stapleton",
   "concert_count": 6,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Nobody to Blame",
+      "times_played": 6
+    },
+    {
+      "name": "Parachute",
+      "times_played": 6
+    },
+    {
+      "name": "Second One to Know",
+      "times_played": 6
+    },
+    {
+      "name": "Hard Livin'",
+      "times_played": 6
+    },
+    {
+      "name": "Traveller",
+      "times_played": 6
+    },
+    {
+      "name": "Midnight Train to Memphis",
+      "times_played": 6
+    },
+    {
+      "name": "Might as Well Get Stoned",
+      "times_played": 6
+    },
+    {
+      "name": "Fire Away",
+      "times_played": 6
+    },
+    {
+      "name": "Broken Halos",
+      "times_played": 6
+    },
+    {
+      "name": "Tennessee Whiskey",
+      "times_played": 6
+    }
+  ],
   "concerts": [
     {
       "id": "1269",

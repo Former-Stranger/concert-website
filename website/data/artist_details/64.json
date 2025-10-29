@@ -2,7 +2,48 @@
   "id": "64",
   "name": "Bob Seger & Silver Bullet Band",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Simplicity",
+      "times_played": 1
+    },
+    {
+      "name": "Still the Same",
+      "times_played": 1
+    },
+    {
+      "name": "The Fire Down Below",
+      "times_played": 1
+    },
+    {
+      "name": "Mainstreet",
+      "times_played": 1
+    },
+    {
+      "name": "Old Time Rock and Roll",
+      "times_played": 1
+    },
+    {
+      "name": "The Fire Inside",
+      "times_played": 1
+    },
+    {
+      "name": "Shame on the Moon",
+      "times_played": 1
+    },
+    {
+      "name": "Roll Me Away",
+      "times_played": 1
+    },
+    {
+      "name": "Come to Poppa",
+      "times_played": 1
+    },
+    {
+      "name": "Her Strut",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "952",

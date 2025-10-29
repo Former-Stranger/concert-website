@@ -2,7 +2,48 @@
   "id": "596",
   "name": "Tom Jones",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "I'm Growing Old",
+      "times_played": 1
+    },
+    {
+      "name": "Not Dark Yet",
+      "times_played": 1
+    },
+    {
+      "name": "It's Not Unusual",
+      "times_played": 1
+    },
+    {
+      "name": "Sexbomb",
+      "times_played": 1
+    },
+    {
+      "name": "Green, Green Grass of Home",
+      "times_played": 1
+    },
+    {
+      "name": "I Won't Crumble with You If You Fall",
+      "times_played": 1
+    },
+    {
+      "name": "Tower of Song",
+      "times_played": 1
+    },
+    {
+      "name": "Delilah",
+      "times_played": 1
+    },
+    {
+      "name": "Lazarus Man",
+      "times_played": 1
+    },
+    {
+      "name": "Kiss",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1054",

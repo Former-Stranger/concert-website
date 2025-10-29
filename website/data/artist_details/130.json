@@ -2,7 +2,48 @@
   "id": "130",
   "name": "Colin Hay",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Going Somewhere",
+      "times_played": 1
+    },
+    {
+      "name": "I Just Don't Know What to Do With Myself",
+      "times_played": 1
+    },
+    {
+      "name": "Beautiful World",
+      "times_played": 1
+    },
+    {
+      "name": "Starfish and Unicorns",
+      "times_played": 1
+    },
+    {
+      "name": "Looking for Jack",
+      "times_played": 1
+    },
+    {
+      "name": "Who Can It Be Now?",
+      "times_played": 1
+    },
+    {
+      "name": "Waterloo Sunset",
+      "times_played": 1
+    },
+    {
+      "name": "Frozen Fields of Snow",
+      "times_played": 1
+    },
+    {
+      "name": "Next Year People",
+      "times_played": 1
+    },
+    {
+      "name": "It's a Mistake",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1156",

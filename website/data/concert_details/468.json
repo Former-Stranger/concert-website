@@ -1,0 +1,236 @@
+{
+  "id": "468",
+  "show_number": 467,
+  "date": "2011-03-16",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Elton John",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Leon Russell",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/elton-john/2011/madison-square-garden-new-york-ny-43d2739b.html",
+  "song_count": 26,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Funeral for a Friend/Love Lies Bleeding",
+      "set_name": "Elton and band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Saturday Night's Alright for Fighting",
+      "set_name": "Elton and band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Levon",
+      "set_name": "Elton and band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Madman Across the Water",
+      "set_name": "Elton and band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Tiny Dancer",
+      "set_name": "Elton and band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Philadelphia Freedom",
+      "set_name": "Elton and band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Goodbye Yellow Brick Road",
+      "set_name": "Elton and band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "I Guess That's Why They Call It the Blues",
+      "set_name": "Elton and band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Rocket Man (I Think It's Going to Be a Long, Long Time)",
+      "set_name": "Elton and band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "If It Wasn't for Bad",
+      "set_name": "Selections from \u201cThe Union\u201d with Leon Russell",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John & Leon Russell"
+    },
+    {
+      "position": 11,
+      "name": "Hey Ahab",
+      "set_name": "Selections from \u201cThe Union\u201d with Leon Russell",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John & Leon Russell"
+    },
+    {
+      "position": 12,
+      "name": "The Best Part of the Day",
+      "set_name": "Selections from \u201cThe Union\u201d with Leon Russell",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John & Leon Russell"
+    },
+    {
+      "position": 13,
+      "name": "Gone to Shiloh",
+      "set_name": "Selections from \u201cThe Union\u201d with Leon Russell",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John & Leon Russell",
+      "guest_artist": "Gregg Allman"
+    },
+    {
+      "position": 14,
+      "name": "Monkey Suit",
+      "set_name": "Selections from \u201cThe Union\u201d with Leon Russell",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John & Leon Russell"
+    },
+    {
+      "position": 15,
+      "name": "When Love Is Dying",
+      "set_name": "Selections from \u201cThe Union\u201d with Leon Russell",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John & Leon Russell"
+    },
+    {
+      "position": 16,
+      "name": "Never Too Old (To Hold Somebody)",
+      "set_name": "Selections from \u201cThe Union\u201d with Leon Russell",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John & Leon Russell"
+    },
+    {
+      "position": 17,
+      "name": "A Dream Come True",
+      "set_name": "Selections from \u201cThe Union\u201d with Leon Russell",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John & Leon Russell"
+    },
+    {
+      "position": 18,
+      "name": "Sad Songs (Say So Much)",
+      "set_name": "Elton and band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 19,
+      "name": "Take Me to the Pilot",
+      "set_name": "Elton and band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "Don't Let the Sun Go Down on Me",
+      "set_name": "Elton and band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 21,
+      "name": "Candle in the Wind",
+      "set_name": "Elton and band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 22,
+      "name": "Burn Down the Mission",
+      "set_name": "Elton and band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 23,
+      "name": "Bennie and the Jets",
+      "set_name": "Elton and band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 24,
+      "name": "The Bitch Is Back",
+      "set_name": "Elton and band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 25,
+      "name": "Crocodile Rock",
+      "set_name": "Elton and band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 26,
+      "name": "Your Song",
+      "set_name": "Set 4",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ],
+  "tour_name": "Greatest Hits Tour"
+}

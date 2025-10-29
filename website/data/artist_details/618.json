@@ -2,7 +2,48 @@
   "id": "618",
   "name": "U2",
   "concert_count": 18,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Vertigo",
+      "times_played": 15
+    },
+    {
+      "name": "Beautiful Day",
+      "times_played": 15
+    },
+    {
+      "name": "One",
+      "times_played": 14
+    },
+    {
+      "name": "Sunday Bloody Sunday",
+      "times_played": 14
+    },
+    {
+      "name": "Elevation",
+      "times_played": 13
+    },
+    {
+      "name": "City of Blinding Lights",
+      "times_played": 13
+    },
+    {
+      "name": "Pride (In the Name of Love)",
+      "times_played": 12
+    },
+    {
+      "name": "Until the End of the World",
+      "times_played": 11
+    },
+    {
+      "name": "Where the Streets Have No Name",
+      "times_played": 11
+    },
+    {
+      "name": "Mysterious Ways",
+      "times_played": 10
+    }
+  ],
   "concerts": [
     {
       "id": "1121",

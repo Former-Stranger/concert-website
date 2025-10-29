@@ -1,0 +1,443 @@
+{
+  "id": "530",
+  "show_number": 529,
+  "date": "2012-12-12",
+  "festival_name": "12-12-12 Concert For Sandy Relief",
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Bruce Springsteen",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Paul McCartney",
+      "role": "festival_performer"
+    },
+    {
+      "name": "The Rolling Stones",
+      "role": "festival_performer"
+    },
+    {
+      "name": "The Who",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Blly Joel",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Roger Waters",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Chris Martin",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Bon Jovi",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Eric Clapton",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "71",
+      "artist_name": "Bon Jovi",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/bon-jovi/2012/madison-square-garden-new-york-ny-23da7c8f.html",
+      "song_count": 4,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "It's My Life",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Wanted Dead or Alive",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Who Says You Can't Go Home",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Bruce Springsteen"
+        },
+        {
+          "position": 4,
+          "name": "Livin' on a Prayer",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ]
+    },
+    {
+      "artist_id": "88",
+      "artist_name": "Bruce Springsteen",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/bruce-springsteen/2012/madison-square-garden-new-york-ny-5bda0730.html",
+      "song_count": 4,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Land of Hope and Dreams",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Wrecking Ball",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "My City of Ruins",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Born to Run",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Jon Bon Jovi"
+        }
+      ]
+    },
+    {
+      "artist_id": "118",
+      "artist_name": "Chris Martin",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/chris-martin/2012/madison-square-garden-new-york-ny-5bda7f14.html",
+      "song_count": 3,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Viva la Vida",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Coldplay"
+        },
+        {
+          "position": 2,
+          "name": "Losing My Religion",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "R.E.M.",
+          "guest_artist": "Michael Stipe"
+        },
+        {
+          "position": 3,
+          "name": "Us Against the World",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Coldplay"
+        }
+      ]
+    },
+    {
+      "artist_id": "199",
+      "artist_name": "Eric Clapton",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/eric-clapton/2012/madison-square-garden-new-york-ny-3bda7c88.html",
+      "song_count": 3,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Nobody Knows You When You're Down and Out",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jimmy Cox"
+        },
+        {
+          "position": 2,
+          "name": "Got to Get Better in a Little While",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Derek and the Dominos"
+        },
+        {
+          "position": 3,
+          "name": "Cross Road Blues",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Robert Johnson"
+        }
+      ]
+    },
+    {
+      "artist_id": "417",
+      "artist_name": "Paul McCartney",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/paul-mccartney/2012/madison-square-garden-new-york-ny-43da0737.html",
+      "song_count": 8,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Helter Skelter",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Beatles"
+        },
+        {
+          "position": 2,
+          "name": "Let Me Roll It",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Wings"
+        },
+        {
+          "position": 3,
+          "name": "Nineteen Hundred and Eighty-Five",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Wings"
+        },
+        {
+          "position": 4,
+          "name": "My Valentine",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Diana Krall"
+        },
+        {
+          "position": 5,
+          "name": "Blackbird",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Beatles"
+        },
+        {
+          "position": 6,
+          "name": "Cut Me Some Slack",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Sound City Players",
+          "guest_artist": "Dave Grohl"
+        },
+        {
+          "position": 7,
+          "name": "I've Got a Feeling",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Beatles"
+        },
+        {
+          "position": 8,
+          "name": "Live and Let Die",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Wings"
+        }
+      ]
+    },
+    {
+      "artist_id": "485",
+      "artist_name": "Roger Waters",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/roger-waters/2012/madison-square-garden-new-york-ny-4bda072a.html",
+      "song_count": 7,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "In the Flesh?",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Pink Floyd"
+        },
+        {
+          "position": 2,
+          "name": "The Happiest Days of Our Lives",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Pink Floyd"
+        },
+        {
+          "position": 3,
+          "name": "Another Brick in the Wall, Part 2",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Pink Floyd"
+        },
+        {
+          "position": 4,
+          "name": "The Ballad of Jean Charles de Menezes",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Money",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Pink Floyd"
+        },
+        {
+          "position": 6,
+          "name": "Us and Them",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Pink Floyd"
+        },
+        {
+          "position": 7,
+          "name": "Comfortably Numb",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Pink Floyd",
+          "guest_artist": "Eddie Vedder"
+        }
+      ]
+    },
+    {
+      "artist_id": "487",
+      "artist_name": "The Rolling Stones",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/the-rolling-stones/2012/madison-square-garden-new-york-ny-53da0735.html",
+      "song_count": 2,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "You Got Me Rocking",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Jumpin' Jack Flash",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ]
+    },
+    {
+      "artist_id": "587",
+      "artist_name": "The Who",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/the-who/2012/madison-square-garden-new-york-ny-4bda0732.html",
+      "song_count": 7,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Who Are You",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Bell Boy",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Pinball Wizard",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "See Me, Feel Me",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Baba O'Riley",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Love, Reign O'er Me",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Tea & Theatre",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ]
+    }
+  ],
+  "total_song_count": 38,
+  "has_encore": false
+}

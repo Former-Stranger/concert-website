@@ -2,7 +2,48 @@
   "id": "302",
   "name": "John Mellencamp",
   "concert_count": 12,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Small Town",
+      "times_played": 8
+    },
+    {
+      "name": "Pink Houses",
+      "times_played": 8
+    },
+    {
+      "name": "Paper in Fire",
+      "times_played": 7
+    },
+    {
+      "name": "Check It Out",
+      "times_played": 7
+    },
+    {
+      "name": "Jack & Diane",
+      "times_played": 7
+    },
+    {
+      "name": "Rain on the Scarecrow",
+      "times_played": 7
+    },
+    {
+      "name": "Minutes to Memories",
+      "times_played": 6
+    },
+    {
+      "name": "Longest Days",
+      "times_played": 6
+    },
+    {
+      "name": "Cherry Bomb",
+      "times_played": 6
+    },
+    {
+      "name": "Authority Song",
+      "times_played": 5
+    }
+  ],
   "concerts": [
     {
       "id": "1134",

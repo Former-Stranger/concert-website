@@ -2,7 +2,48 @@
   "id": "137",
   "name": "Craig Morgan",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Pour Me a Drink",
+      "times_played": 1
+    },
+    {
+      "name": "I'll Name the Dogs",
+      "times_played": 1
+    },
+    {
+      "name": "Sangria",
+      "times_played": 1
+    },
+    {
+      "name": "All About Tonight",
+      "times_played": 1
+    },
+    {
+      "name": "Neon Light",
+      "times_played": 1
+    },
+    {
+      "name": "Redneck Yacht Club",
+      "times_played": 1
+    },
+    {
+      "name": "That's What I Love About Sunday",
+      "times_played": 1
+    },
+    {
+      "name": "International Harvester",
+      "times_played": 1
+    },
+    {
+      "name": "A Guy With a Girl",
+      "times_played": 1
+    },
+    {
+      "name": "Nobody But You",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1241",

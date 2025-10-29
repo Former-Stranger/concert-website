@@ -2,7 +2,48 @@
   "id": "258",
   "name": "Jack White",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Old Scratch Blues",
+      "times_played": 1
+    },
+    {
+      "name": "That's How I'm Feeling",
+      "times_played": 1
+    },
+    {
+      "name": "Little Queen of Spades",
+      "times_played": 1
+    },
+    {
+      "name": "It's Rough on Rats (If You're Asking)",
+      "times_played": 1
+    },
+    {
+      "name": "Yes Yes Yes, No Duress",
+      "times_played": 1
+    },
+    {
+      "name": "Let's Build a Home",
+      "times_played": 1
+    },
+    {
+      "name": "Boogie Chillen'",
+      "times_played": 1
+    },
+    {
+      "name": "What's Done Is Done",
+      "times_played": 1
+    },
+    {
+      "name": "Hotel Yorba",
+      "times_played": 1
+    },
+    {
+      "name": "Traffic Lights Don't Mean Nothing to Me",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1235",

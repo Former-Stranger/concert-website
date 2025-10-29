@@ -2,7 +2,48 @@
   "id": "297",
   "name": "John Hiatt",
   "concert_count": 24,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Thing Called Love",
+      "times_played": 16
+    },
+    {
+      "name": "Have a Little Faith in Me",
+      "times_played": 16
+    },
+    {
+      "name": "Crossing Muddy Waters",
+      "times_played": 15
+    },
+    {
+      "name": "Feels Like Rain",
+      "times_played": 14
+    },
+    {
+      "name": "Drive South",
+      "times_played": 14
+    },
+    {
+      "name": "Memphis in the Meantime",
+      "times_played": 14
+    },
+    {
+      "name": "Perfectly Good Guitar",
+      "times_played": 13
+    },
+    {
+      "name": "Tennessee Plates",
+      "times_played": 12
+    },
+    {
+      "name": "Real Fine Love",
+      "times_played": 12
+    },
+    {
+      "name": "Lift Up Every Stone",
+      "times_played": 11
+    }
+  ],
   "concerts": [
     {
       "id": "1169",

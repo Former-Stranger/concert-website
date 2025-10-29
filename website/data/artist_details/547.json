@@ -2,7 +2,48 @@
   "id": "547",
   "name": "Sting",
   "concert_count": 3,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Message in a Bottle",
+      "times_played": 3
+    },
+    {
+      "name": "Every Little Thing She Does Is Magic",
+      "times_played": 3
+    },
+    {
+      "name": "Englishman in New York",
+      "times_played": 3
+    },
+    {
+      "name": "Fields of Gold",
+      "times_played": 3
+    },
+    {
+      "name": "Driven to Tears",
+      "times_played": 3
+    },
+    {
+      "name": "The Hounds of Winter",
+      "times_played": 3
+    },
+    {
+      "name": "Walking on the Moon",
+      "times_played": 3
+    },
+    {
+      "name": "Desert Rose",
+      "times_played": 3
+    },
+    {
+      "name": "Every Breath You Take",
+      "times_played": 3
+    },
+    {
+      "name": "Roxanne",
+      "times_played": 3
+    }
+  ],
   "concerts": [
     {
       "id": "1204",

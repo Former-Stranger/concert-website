@@ -2,7 +2,48 @@
   "id": "266",
   "name": "Jeff Beck",
   "concert_count": 3,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Big Block",
+      "times_played": 5
+    },
+    {
+      "name": "Brush With the Blues",
+      "times_played": 5
+    },
+    {
+      "name": "A Day in the Life",
+      "times_played": 5
+    },
+    {
+      "name": "Corpus Christi Carol",
+      "times_played": 5
+    },
+    {
+      "name": "You Know You Know",
+      "times_played": 3
+    },
+    {
+      "name": "Cause We've Ended as Lovers",
+      "times_played": 3
+    },
+    {
+      "name": "Little Wing",
+      "times_played": 3
+    },
+    {
+      "name": "Stratus",
+      "times_played": 3
+    },
+    {
+      "name": "Mn\u00e1 na h\u00c9ireann",
+      "times_played": 3
+    },
+    {
+      "name": "Freeway Jam",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "1063",

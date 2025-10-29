@@ -2,7 +2,48 @@
   "id": "420",
   "name": "Paul Simon",
   "concert_count": 7,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "The Boxer",
+      "times_played": 6
+    },
+    {
+      "name": "Bridge Over Troubled Water",
+      "times_played": 5
+    },
+    {
+      "name": "Graceland",
+      "times_played": 4
+    },
+    {
+      "name": "Me and Julio Down by the Schoolyard",
+      "times_played": 4
+    },
+    {
+      "name": "50 Ways to Leave Your Lover",
+      "times_played": 4
+    },
+    {
+      "name": "The Sound of Silence",
+      "times_played": 4
+    },
+    {
+      "name": "Teach Your Children",
+      "times_played": 4
+    },
+    {
+      "name": "(Your Love Keeps Lifting Me) Higher and Higher",
+      "times_played": 3
+    },
+    {
+      "name": "The Boy in the Bubble",
+      "times_played": 3
+    },
+    {
+      "name": "Mother and Child Reunion",
+      "times_played": 3
+    }
+  ],
   "concerts": [
     {
       "id": "1261",

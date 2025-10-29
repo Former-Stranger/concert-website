@@ -2,7 +2,48 @@
   "id": "140",
   "name": "Creed",
   "concert_count": 3,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Bullets",
+      "times_played": 2
+    },
+    {
+      "name": "Torn",
+      "times_played": 2
+    },
+    {
+      "name": "Never Die",
+      "times_played": 2
+    },
+    {
+      "name": "My Own Prison",
+      "times_played": 2
+    },
+    {
+      "name": "What If",
+      "times_played": 2
+    },
+    {
+      "name": "Say I",
+      "times_played": 2
+    },
+    {
+      "name": "Unforgiven",
+      "times_played": 2
+    },
+    {
+      "name": "One",
+      "times_played": 2
+    },
+    {
+      "name": "What's This Life For",
+      "times_played": 2
+    },
+    {
+      "name": "With Arms Wide Open",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "1223",

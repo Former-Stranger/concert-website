@@ -2,7 +2,48 @@
   "id": "10",
   "name": "Aerosmith",
   "concert_count": 9,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Sweet Emotion",
+      "times_played": 6
+    },
+    {
+      "name": "Cryin'",
+      "times_played": 5
+    },
+    {
+      "name": "Love in an Elevator",
+      "times_played": 5
+    },
+    {
+      "name": "Toys in the Attic",
+      "times_played": 5
+    },
+    {
+      "name": "Dream On",
+      "times_played": 5
+    },
+    {
+      "name": "Walk This Way",
+      "times_played": 5
+    },
+    {
+      "name": "Livin' on the Edge",
+      "times_played": 3
+    },
+    {
+      "name": "I Don't Want to Miss a Thing",
+      "times_played": 3
+    },
+    {
+      "name": "What It Takes",
+      "times_played": 3
+    },
+    {
+      "name": "Stop Messin' Round",
+      "times_played": 3
+    }
+  ],
   "concerts": [
     {
       "id": "1113",

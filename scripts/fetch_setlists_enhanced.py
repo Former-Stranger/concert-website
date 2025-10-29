@@ -21,7 +21,7 @@ import time
 from setlistfm_client import SetlistFMClient
 
 # Setlist.fm API key
-SETLISTFM_API_KEY = "DrR0j3jlKSLRrXSTsd_r71QUIA24ZQydjpsE"
+SETLISTFM_API_KEY = "Uo48MPdBZN5ujA_PJKkyeKYyiMzOaf-kd4gi"
 
 def init_firebase():
     """Initialize Firebase Admin SDK"""
@@ -215,7 +215,7 @@ def fetch_setlists_for_concert(concert_id, concert_data, client, db, dry_run=Fal
         return {
             'status': 'not_found',
             'setlists_created': 0,
-            'message': f'No setlists found for {len(headliners)} headliner(s)'
+            'message': f'No setlists found for {len(performing_artists)} artist(s)'
         }
 
     # Create setlist documents
@@ -321,8 +321,8 @@ def fetch_all_setlists(limit=None, dry_run=False, skip_existing=True):
     estimated_minutes = len(concerts_to_process) * 0.6 / 60
     print(f"   Estimated time: {estimated_minutes:.1f} minutes")
 
-    # Ask for confirmation if processing many concerts
-    if not dry_run and len(concerts_to_process) > 10:
+    # Ask for confirmation if processing many concerts (skip if using --limit)
+    if not dry_run and len(concerts_to_process) > 10 and not limit:
         response = input(f"\n⚠️  About to fetch {len(concerts_to_process)} setlists. Continue? (yes/no): ")
         if response.lower() != 'yes':
             print("Cancelled.")

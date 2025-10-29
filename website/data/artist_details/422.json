@@ -2,7 +2,48 @@
   "id": "422",
   "name": "Pearl Jam",
   "concert_count": 13,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Alive",
+      "times_played": 12
+    },
+    {
+      "name": "Even Flow",
+      "times_played": 11
+    },
+    {
+      "name": "Do the Evolution",
+      "times_played": 11
+    },
+    {
+      "name": "Porch",
+      "times_played": 9
+    },
+    {
+      "name": "Given to Fly",
+      "times_played": 9
+    },
+    {
+      "name": "Corduroy",
+      "times_played": 9
+    },
+    {
+      "name": "Better Man",
+      "times_played": 8
+    },
+    {
+      "name": "Present Tense",
+      "times_played": 7
+    },
+    {
+      "name": "Black",
+      "times_played": 7
+    },
+    {
+      "name": "Yellow Ledbetter",
+      "times_played": 7
+    }
+  ],
   "concerts": [
     {
       "id": "1194",

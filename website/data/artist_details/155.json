@@ -2,7 +2,48 @@
   "id": "155",
   "name": "Dave Matthews Band",
   "concert_count": 23,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Don't Drink the Water",
+      "times_played": 7
+    },
+    {
+      "name": "Warehouse",
+      "times_played": 7
+    },
+    {
+      "name": "Crush",
+      "times_played": 6
+    },
+    {
+      "name": "Why I Am",
+      "times_played": 6
+    },
+    {
+      "name": "Grey Street",
+      "times_played": 6
+    },
+    {
+      "name": "Dancing Nancies",
+      "times_played": 6
+    },
+    {
+      "name": "When the World Ends",
+      "times_played": 5
+    },
+    {
+      "name": "Lie in Our Graves",
+      "times_played": 5
+    },
+    {
+      "name": "Ants Marching",
+      "times_played": 5
+    },
+    {
+      "name": "Tripping Billies",
+      "times_played": 5
+    }
+  ],
   "concerts": [
     {
       "id": "1253",

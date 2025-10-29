@@ -1,0 +1,211 @@
+{
+  "id": "477",
+  "show_number": 476,
+  "date": "2011-05-12",
+  "festival_name": null,
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Warren Haynes Band",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/warren-haynes-band/2011/beacon-theatre-new-york-ny-1bd3e590.html",
+  "song_count": 23,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Man in Motion",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Warren Haynes"
+    },
+    {
+      "position": 2,
+      "name": "River's Gonna Rise",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Warren Haynes"
+    },
+    {
+      "position": 3,
+      "name": "Sick of My Shadow",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Warren Haynes"
+    },
+    {
+      "position": 4,
+      "name": "Invisible",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Warren Haynes"
+    },
+    {
+      "position": 5,
+      "name": "Your Wildest Dreams",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Warren Haynes"
+    },
+    {
+      "position": 6,
+      "name": "A Friend to You",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Warren Haynes"
+    },
+    {
+      "position": 7,
+      "name": "Fire in the Kitchen",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Warren Haynes"
+    },
+    {
+      "position": 8,
+      "name": "On a Real Lonely Night",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Warren Haynes"
+    },
+    {
+      "position": 9,
+      "name": "Born Under a Bad Sign",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Booker T. & the MG\u2019s",
+      "guest_artist": "William Bell"
+    },
+    {
+      "position": 10,
+      "name": "You Don't Miss Your Water",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "William Bell",
+      "guest_artist": "William Bell"
+    },
+    {
+      "position": 11,
+      "name": "Everyday Will Be Like a Holiday",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "William Bell",
+      "guest_artist": "William Bell"
+    },
+    {
+      "position": 12,
+      "name": "The Real Thing",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Phil Lesh & Friends"
+    },
+    {
+      "position": 13,
+      "name": "In My Life",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Gov\u2019t Mule"
+    },
+    {
+      "position": 14,
+      "name": "Back Where I Started",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Derek Trucks Band"
+    },
+    {
+      "position": 15,
+      "name": "Old Friend",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Allman Brothers Band"
+    },
+    {
+      "position": 16,
+      "name": "When Doves Cry / Beautifully Broken",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Gov\u2019t Mule"
+    },
+    {
+      "position": 17,
+      "name": "Power and the Glory",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Warren Haynes"
+    },
+    {
+      "position": 18,
+      "name": "Hattiesburg Hustle",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Warren Haynes"
+    },
+    {
+      "position": 19,
+      "name": "Sneakin' Sally Thru the Alley",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Lee Dorsey"
+    },
+    {
+      "position": 20,
+      "name": "Tear Me Down",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Gov\u2019t Mule"
+    },
+    {
+      "position": 21,
+      "name": "Grinning in Your Face",
+      "set_name": "Set 4",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Son House"
+    },
+    {
+      "position": 22,
+      "name": "Soulshine",
+      "set_name": "Set 4",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Allman Brothers Band"
+    },
+    {
+      "position": 23,
+      "name": "I Feel Like Breaking Up Somebody's Home Tonight",
+      "set_name": "Set 5",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ann Peebles",
+      "guest_artist": "Brad Whitford"
+    }
+  ],
+  "tour_name": "Man In Motion"
+}

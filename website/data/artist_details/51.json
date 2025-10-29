@@ -2,7 +2,48 @@
   "id": "51",
   "name": "Billy Joel (Final Franchise)",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "The Natural (The End Title)",
+      "times_played": 1
+    },
+    {
+      "name": "Miami 2017 (Seen the Lights Go Out on Broadway)",
+      "times_played": 1
+    },
+    {
+      "name": "Pressure",
+      "times_played": 1
+    },
+    {
+      "name": "The Entertainer",
+      "times_played": 1
+    },
+    {
+      "name": "Zanzibar",
+      "times_played": 1
+    },
+    {
+      "name": "Vienna",
+      "times_played": 1
+    },
+    {
+      "name": "My Life",
+      "times_played": 1
+    },
+    {
+      "name": "Start Me Up",
+      "times_played": 1
+    },
+    {
+      "name": "An Innocent Man",
+      "times_played": 1
+    },
+    {
+      "name": "The Downeaster \"Alexa\"",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1182",

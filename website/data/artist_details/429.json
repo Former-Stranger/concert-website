@@ -2,7 +2,48 @@
   "id": "429",
   "name": "Phil Lesh",
   "concert_count": 5,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Bird Song",
+      "times_played": 4
+    },
+    {
+      "name": "Shakedown Street",
+      "times_played": 4
+    },
+    {
+      "name": "The Weight",
+      "times_played": 4
+    },
+    {
+      "name": "Mississippi Half-Step Uptown Toodeloo",
+      "times_played": 3
+    },
+    {
+      "name": "Doin' That Rag",
+      "times_played": 3
+    },
+    {
+      "name": "Mason's Children",
+      "times_played": 3
+    },
+    {
+      "name": "Jam",
+      "times_played": 3
+    },
+    {
+      "name": "All Along the Watchtower",
+      "times_played": 3
+    },
+    {
+      "name": "Cosmic Charlie",
+      "times_played": 3
+    },
+    {
+      "name": "Unbroken Chain",
+      "times_played": 3
+    }
+  ],
   "concerts": [
     {
       "id": "1146",

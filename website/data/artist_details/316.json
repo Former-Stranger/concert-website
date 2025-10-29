@@ -2,7 +2,48 @@
   "id": "316",
   "name": "Keith Urban",
   "concert_count": 18,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Long Hot Summer",
+      "times_played": 14
+    },
+    {
+      "name": "Somewhere in My Car",
+      "times_played": 13
+    },
+    {
+      "name": "Somebody Like You",
+      "times_played": 13
+    },
+    {
+      "name": "Stupid Boy",
+      "times_played": 13
+    },
+    {
+      "name": "Days Go By",
+      "times_played": 12
+    },
+    {
+      "name": "Blue Ain't Your Color",
+      "times_played": 10
+    },
+    {
+      "name": "Wasted Time",
+      "times_played": 10
+    },
+    {
+      "name": "Cop Car",
+      "times_played": 10
+    },
+    {
+      "name": "John Cougar, John Deere, John 3:16",
+      "times_played": 9
+    },
+    {
+      "name": "You Look Good in My Shirt",
+      "times_played": 8
+    }
+  ],
   "concerts": [
     {
       "id": "1260",

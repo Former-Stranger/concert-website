@@ -2,7 +2,48 @@
   "id": "633",
   "name": "Weird Al Yankovic",
   "concert_count": 4,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "The Saga Begins",
+      "times_played": 4
+    },
+    {
+      "name": "CNR",
+      "times_played": 3
+    },
+    {
+      "name": "Smells Like Nirvana",
+      "times_played": 2
+    },
+    {
+      "name": "Amish Paradise",
+      "times_played": 2
+    },
+    {
+      "name": "White & Nerdy",
+      "times_played": 2
+    },
+    {
+      "name": "Yoda",
+      "times_played": 2
+    },
+    {
+      "name": "Jackson Park Express",
+      "times_played": 2
+    },
+    {
+      "name": "Mr. Popeil",
+      "times_played": 2
+    },
+    {
+      "name": "You Don't Love Me Anymore",
+      "times_played": 2
+    },
+    {
+      "name": "Melanie",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "923",

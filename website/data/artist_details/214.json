@@ -2,7 +2,48 @@
   "id": "214",
   "name": "Foo Fighters",
   "concert_count": 3,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "All My Life",
+      "times_played": 3
+    },
+    {
+      "name": "The Pretender",
+      "times_played": 3
+    },
+    {
+      "name": "Walk",
+      "times_played": 3
+    },
+    {
+      "name": "Times Like These",
+      "times_played": 3
+    },
+    {
+      "name": "Breakout",
+      "times_played": 3
+    },
+    {
+      "name": "My Hero",
+      "times_played": 3
+    },
+    {
+      "name": "The Sky Is a Neighborhood",
+      "times_played": 3
+    },
+    {
+      "name": "Learn to Fly",
+      "times_played": 3
+    },
+    {
+      "name": "Everlong",
+      "times_played": 3
+    },
+    {
+      "name": "No Son of Mine",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "1179",

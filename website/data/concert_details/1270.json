@@ -1,0 +1,359 @@
+{
+  "id": "1270",
+  "show_number": 1269,
+  "date": "2025-08-01",
+  "festival_name": "Outlaw Festival",
+  "venue": "Jones Beach Theater",
+  "city": "Wantagh",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Bob Dylan",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Willie Nelson",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "61",
+      "artist_name": "Bob Dylan",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/bob-dylan/2025/northwell-at-jones-beach-theater-wantagh-ny-235adc8b.html",
+      "song_count": 17,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Gotta Serve Somebody",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "I Can Tell",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Bo Diddley"
+        },
+        {
+          "position": 3,
+          "name": "Forgetful Heart",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Axe and the Wind",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "George \u201cWild Child\u201d Butler"
+        },
+        {
+          "position": 5,
+          "name": "To Ramona",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Early Roman Kings",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Under the Red Sky",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "I'll Make It All Up to You",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jerry Lee Lewis"
+        },
+        {
+          "position": 9,
+          "name": "All Along the Watchtower",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "'Til I Fell in Love With You",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "Desolation Row",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 12,
+          "name": "Love Sick",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 13,
+          "name": "Share Your Love With Me",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Bobby \u201cBlue\u201d Bland"
+        },
+        {
+          "position": 14,
+          "name": "Blind Willie McTell",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 15,
+          "name": "Highway 61 Revisited",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 16,
+          "name": "Searching for a Soldier's Grave",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Anglin Twins (Jack and Jim)"
+        },
+        {
+          "position": 17,
+          "name": "Don't Think Twice, It's All Right",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ],
+      "tour_name": "Outlaw Music Festival Tour 2025"
+    },
+    {
+      "artist_id": "641",
+      "artist_name": "Willie Nelson",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/willie-nelson/2025/northwell-at-jones-beach-theater-wantagh-ny-535ad3f9.html",
+      "song_count": 22,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Living in the Promiseland",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "David Lynn Jones"
+        },
+        {
+          "position": 2,
+          "name": "Whiskey River",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Johnny Bush"
+        },
+        {
+          "position": 3,
+          "name": "Stay a Little Longer",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Bob Wills and His Texas Playboys"
+        },
+        {
+          "position": 4,
+          "name": "Still Is Still Moving to Me",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "I Never Cared for You",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Workin' Man Blues",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Merle Haggard"
+        },
+        {
+          "position": 7,
+          "name": "Mammas Don't Let Your Babies Grow Up to Be Cowboys",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Ed Bruce"
+        },
+        {
+          "position": 8,
+          "name": "Angel Flying Too Close to the Ground",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 9,
+          "name": "On the Road Again",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "You Were Always on My Mind",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Gwen McCrae"
+        },
+        {
+          "position": 11,
+          "name": "Good Hearted Woman",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Waylon Jennings"
+        },
+        {
+          "position": 12,
+          "name": "Help Me Make It Through the Night",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Kris Kristofferson"
+        },
+        {
+          "position": 13,
+          "name": "Move It on Over",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Hank Williams With His Drifting Cowboys"
+        },
+        {
+          "position": 14,
+          "name": "Georgia (on My Mind)",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Hoagy Carmichael and His Orchestra"
+        },
+        {
+          "position": 15,
+          "name": "Funny How Time Slips Away / Crazy / Night Life",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 16,
+          "name": "Me and Bobby McGee",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Kris Kristofferson"
+        },
+        {
+          "position": 17,
+          "name": "Last Leaf",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Waits"
+        },
+        {
+          "position": 18,
+          "name": "Roll Me Up and Smoke Me When I Die",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 19,
+          "name": "Will the Circle Be Unbroken?",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "William MacEwan"
+        },
+        {
+          "position": 20,
+          "name": "I'll Fly Away",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Rev. J.M. Gates"
+        },
+        {
+          "position": 21,
+          "name": "The Party's Over",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 22,
+          "name": "I Saw the Light",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Hank Williams With His Drifting Cowboys"
+        }
+      ]
+    }
+  ],
+  "total_song_count": 39,
+  "has_encore": false,
+  "tour_name": "Outlaw Music Festival Tour 2025"
+}

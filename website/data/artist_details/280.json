@@ -2,7 +2,48 @@
   "id": "280",
   "name": "Joe Bonamassa",
   "concert_count": 13,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Mountain Time",
+      "times_played": 6
+    },
+    {
+      "name": "Dust Bowl",
+      "times_played": 5
+    },
+    {
+      "name": "Sloe Gin",
+      "times_played": 5
+    },
+    {
+      "name": "Woke Up Dreaming",
+      "times_played": 5
+    },
+    {
+      "name": "Evil Mama",
+      "times_played": 4
+    },
+    {
+      "name": "The Ballad of John Henry",
+      "times_played": 4
+    },
+    {
+      "name": "Hummingbird",
+      "times_played": 4
+    },
+    {
+      "name": "Driving Towards the Daylight",
+      "times_played": 4
+    },
+    {
+      "name": "Slow Train",
+      "times_played": 4
+    },
+    {
+      "name": "Just 'Cos You Can Don't Mean You Should",
+      "times_played": 3
+    }
+  ],
   "concerts": [
     {
       "id": "1239",

@@ -2,7 +2,48 @@
   "id": "243",
   "name": "Hall & Oates",
   "concert_count": 3,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "She's Gone",
+      "times_played": 2
+    },
+    {
+      "name": "I Can't Go for That (No Can Do)",
+      "times_played": 2
+    },
+    {
+      "name": "You Make My Dreams",
+      "times_played": 2
+    },
+    {
+      "name": "The E Street Shuffle",
+      "times_played": 1
+    },
+    {
+      "name": "The River",
+      "times_played": 1
+    },
+    {
+      "name": "Kitty's Back",
+      "times_played": 1
+    },
+    {
+      "name": "Father and Son",
+      "times_played": 1
+    },
+    {
+      "name": "Wild World",
+      "times_played": 1
+    },
+    {
+      "name": "Peace Train",
+      "times_played": 1
+    },
+    {
+      "name": "Smells Like Teen Spirit",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "699",

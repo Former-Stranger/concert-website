@@ -1,0 +1,280 @@
+{
+  "id": "1252",
+  "show_number": 1251,
+  "date": "2025-05-20",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Tedeschi Trucks Band",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Buddy Guy",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "105",
+      "artist_name": "Buddy Guy",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/buddy-guy/2025/beacon-theatre-new-york-ny-1b4639e4.html",
+      "song_count": 13,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Damn Right, I've Got the Blues",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Fever",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Eddie Cooley"
+        },
+        {
+          "position": 3,
+          "name": "I'm Your Hoochie Coochie Man",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Willie Dixon"
+        },
+        {
+          "position": 4,
+          "name": "She's Nineteen Years Old",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Muddy Waters"
+        },
+        {
+          "position": 5,
+          "name": "Close to You",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Muddy Waters"
+        },
+        {
+          "position": 6,
+          "name": "I Just Want to Make Love to You",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Willie Dixon"
+        },
+        {
+          "position": 7,
+          "name": "Drowning on Dry Land",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Albert King"
+        },
+        {
+          "position": 8,
+          "name": "Cheaper to Keep Her",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Johnnie Taylor"
+        },
+        {
+          "position": 9,
+          "name": "How Blue Can You Get?",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Johnny Moore\u2019s Three Blazers"
+        },
+        {
+          "position": 10,
+          "name": "All Around the World / Sunshine of Your Love / Take Me to the River",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "Do Your Thing",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Isaac Hayes"
+        },
+        {
+          "position": 12,
+          "name": "Skin Deep",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 13,
+          "name": "Cut You Loose",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Greg Guy"
+        }
+      ],
+      "tour_name": "Damn Right Encore!"
+    },
+    {
+      "artist_id": "560",
+      "artist_name": "Tedeschi Trucks Band",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/tedeschi-trucks-band/2025/beacon-theatre-new-york-ny-4b5bebe6.html",
+      "song_count": 16,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Keep On Growing",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Derek and the Dominos"
+        },
+        {
+          "position": 2,
+          "name": "Get What You Deserve",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Derek Trucks Band"
+        },
+        {
+          "position": 3,
+          "name": "Don't Let Me Slide",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "I Am the Moon",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Learn How to Love",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "La Di Da",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Gravity",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "Had to Cry Today",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Blind Faith"
+        },
+        {
+          "position": 9,
+          "name": "Just Won't Burn",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Susan Tedeschi"
+        },
+        {
+          "position": 10,
+          "name": "D.M.S.R.",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Prince"
+        },
+        {
+          "position": 11,
+          "name": "Midnight in Harlem",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 12,
+          "name": "I Walk on Guilded Splinters",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Dr. John"
+        },
+        {
+          "position": 13,
+          "name": "Bound for Glory",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 14,
+          "name": "Future Soul",
+          "set_name": "Set 2",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 15,
+          "name": "Fire and Rain",
+          "set_name": "Set 2",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "James Taylor"
+        },
+        {
+          "position": 16,
+          "name": "Space Captain",
+          "set_name": "Set 2",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Matthew Moore"
+        }
+      ],
+      "tour_name": "LIVE IN 25!"
+    }
+  ],
+  "total_song_count": 29,
+  "has_encore": false
+}

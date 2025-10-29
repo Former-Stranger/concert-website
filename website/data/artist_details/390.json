@@ -2,7 +2,48 @@
   "id": "390",
   "name": "Mumford & Sons",
   "concert_count": 8,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Little Lion Man",
+      "times_played": 7
+    },
+    {
+      "name": "Lover of the Light",
+      "times_played": 7
+    },
+    {
+      "name": "Awake My Soul",
+      "times_played": 7
+    },
+    {
+      "name": "The Cave",
+      "times_played": 7
+    },
+    {
+      "name": "Ghosts That We Knew",
+      "times_played": 6
+    },
+    {
+      "name": "I Will Wait",
+      "times_played": 6
+    },
+    {
+      "name": "Dust Bowl Dance",
+      "times_played": 6
+    },
+    {
+      "name": "White Blank Page",
+      "times_played": 5
+    },
+    {
+      "name": "Believe",
+      "times_played": 5
+    },
+    {
+      "name": "Ditmas",
+      "times_played": 5
+    }
+  ],
   "concerts": [
     {
       "id": "1274",

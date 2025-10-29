@@ -2,7 +2,48 @@
   "id": "445",
   "name": "Rage Against the Machine",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Public Service Announcement",
+      "times_played": 1
+    },
+    {
+      "name": "Bombtrack",
+      "times_played": 1
+    },
+    {
+      "name": "People of the Sun",
+      "times_played": 1
+    },
+    {
+      "name": "Bulls on Parade",
+      "times_played": 1
+    },
+    {
+      "name": "Bullet in the Head",
+      "times_played": 1
+    },
+    {
+      "name": "Revolver",
+      "times_played": 1
+    },
+    {
+      "name": "Testify",
+      "times_played": 1
+    },
+    {
+      "name": "Tire Me",
+      "times_played": 1
+    },
+    {
+      "name": "Take the Power Back",
+      "times_played": 1
+    },
+    {
+      "name": "Guerrilla Radio",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1043",

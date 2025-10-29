@@ -1,0 +1,142 @@
+{
+  "id": "1060",
+  "show_number": 1059,
+  "date": "2022-09-19",
+  "festival_name": null,
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Eric Clapton",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/the-yardbirds/2022/court-of-honor-stage-at-the-big-e-west-springfield-ma-bb00142.html",
+  "song_count": 15,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "The Train Kept A-Rollin'",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tiny Bradshaw"
+    },
+    {
+      "position": 2,
+      "name": "You're a Better Man Than I",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Drinking Muddy Water",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "The Nazz Are Blue",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Little Games",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "New York City Blues",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Back Where I Started",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Box of Frogs"
+    },
+    {
+      "position": 8,
+      "name": "Heart Full of Soul",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Graham Gouldman"
+    },
+    {
+      "position": 9,
+      "name": "Lost Woman",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Over Under Sideways Down",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "Smokestack Lightning",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Howlin\u2019 Wolf"
+    },
+    {
+      "position": 12,
+      "name": "For Your Love",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Graham Gouldman"
+    },
+    {
+      "position": 13,
+      "name": "Happenings Ten Years Time Ago",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Dazed and Confused",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jake Holmes"
+    },
+    {
+      "position": 15,
+      "name": "I'm a Man",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bo Diddley"
+    }
+  ]
+}

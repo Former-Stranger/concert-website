@@ -2,7 +2,48 @@
   "id": "293",
   "name": "John Fogerty",
   "concert_count": 18,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Fortunate Son",
+      "times_played": 13
+    },
+    {
+      "name": "Proud Mary",
+      "times_played": 13
+    },
+    {
+      "name": "Up Around the Bend",
+      "times_played": 12
+    },
+    {
+      "name": "Green River",
+      "times_played": 12
+    },
+    {
+      "name": "Born on the Bayou",
+      "times_played": 12
+    },
+    {
+      "name": "Have You Ever Seen the Rain?",
+      "times_played": 12
+    },
+    {
+      "name": "Down on the Corner",
+      "times_played": 12
+    },
+    {
+      "name": "Centerfield",
+      "times_played": 12
+    },
+    {
+      "name": "The Old Man Down the Road",
+      "times_played": 12
+    },
+    {
+      "name": "Bad Moon Rising",
+      "times_played": 12
+    }
+  ],
   "concerts": [
     {
       "id": "1254",

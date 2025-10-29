@@ -2,7 +2,48 @@
   "id": "430",
   "name": "Phish",
   "concert_count": 4,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "46 Days",
+      "times_played": 2
+    },
+    {
+      "name": "Axilla, Part II",
+      "times_played": 2
+    },
+    {
+      "name": "Run Like an Antelope",
+      "times_played": 2
+    },
+    {
+      "name": "No Men in No Man's Land",
+      "times_played": 2
+    },
+    {
+      "name": "Tube",
+      "times_played": 2
+    },
+    {
+      "name": "Mike's Song",
+      "times_played": 1
+    },
+    {
+      "name": "Wolfman's Brother",
+      "times_played": 1
+    },
+    {
+      "name": "Ya Mar",
+      "times_played": 1
+    },
+    {
+      "name": "It's Ice",
+      "times_played": 1
+    },
+    {
+      "name": "All of These Dreams",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1228",

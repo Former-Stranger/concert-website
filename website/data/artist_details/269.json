@@ -2,7 +2,48 @@
   "id": "269",
   "name": "Jelly Roll",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "I Am Not Okay",
+      "times_played": 2
+    },
+    {
+      "name": "Get By",
+      "times_played": 2
+    },
+    {
+      "name": "Son of a Sinner",
+      "times_played": 2
+    },
+    {
+      "name": "Friends in Low Places",
+      "times_played": 2
+    },
+    {
+      "name": "Losers",
+      "times_played": 2
+    },
+    {
+      "name": "I Had Some Help",
+      "times_played": 2
+    },
+    {
+      "name": "Wild Ones",
+      "times_played": 2
+    },
+    {
+      "name": "Liar",
+      "times_played": 2
+    },
+    {
+      "name": "Need a Favor",
+      "times_played": 2
+    },
+    {
+      "name": "Heart of Stone",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "1257",

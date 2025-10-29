@@ -2,7 +2,48 @@
   "id": "61",
   "name": "Bob Dylan",
   "concert_count": 15,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Early Roman Kings",
+      "times_played": 8
+    },
+    {
+      "name": "Highway 61 Revisited",
+      "times_played": 7
+    },
+    {
+      "name": "Things Have Changed",
+      "times_played": 7
+    },
+    {
+      "name": "Gotta Serve Somebody",
+      "times_played": 6
+    },
+    {
+      "name": "Soon After Midnight",
+      "times_played": 6
+    },
+    {
+      "name": "When I Paint My Masterpiece",
+      "times_played": 5
+    },
+    {
+      "name": "Love Sick",
+      "times_played": 5
+    },
+    {
+      "name": "Blowin' in the Wind",
+      "times_played": 5
+    },
+    {
+      "name": "Thunder on the Mountain",
+      "times_played": 5
+    },
+    {
+      "name": "I'll Be Your Baby Tonight",
+      "times_played": 4
+    }
+  ],
   "concerts": [
     {
       "id": "1270",

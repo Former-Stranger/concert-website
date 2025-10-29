@@ -2,7 +2,48 @@
   "id": "78",
   "name": "Brad Paisley",
   "concert_count": 8,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Ticks",
+      "times_played": 6
+    },
+    {
+      "name": "She's Everything",
+      "times_played": 6
+    },
+    {
+      "name": "Then",
+      "times_played": 6
+    },
+    {
+      "name": "Water",
+      "times_played": 6
+    },
+    {
+      "name": "I'm Still a Guy",
+      "times_played": 6
+    },
+    {
+      "name": "Celebrity",
+      "times_played": 6
+    },
+    {
+      "name": "I'm Gonna Miss Her (The Fishin' Song)",
+      "times_played": 6
+    },
+    {
+      "name": "Mud on the Tires",
+      "times_played": 6
+    },
+    {
+      "name": "Alcohol",
+      "times_played": 6
+    },
+    {
+      "name": "The World",
+      "times_played": 5
+    }
+  ],
   "concerts": [
     {
       "id": "1267",

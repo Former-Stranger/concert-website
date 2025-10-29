@@ -1,0 +1,855 @@
+{
+  "id": "275",
+  "show_number": 274,
+  "date": "2006-08-20",
+  "festival_name": "Multi-Artist Show",
+  "venue": "PNC Bank Arts Center",
+  "city": "Holmdel",
+  "state": "NJ",
+  "artists": [
+    {
+      "name": "Crosby",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Stills",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Nash & Young",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "142",
+      "artist_name": "Crosby",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/crosby-stills-nash-and-young/2006/pnc-bank-arts-center-holmdel-nj-6bd1a6ee.html",
+      "song_count": 33,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Flags of Freedom",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 2,
+          "name": "Carry On",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Wooden Ships",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby, Stills & Nash"
+        },
+        {
+          "position": 4,
+          "name": "Long Time Gone",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby, Stills & Nash"
+        },
+        {
+          "position": 5,
+          "name": "Military Madness",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Graham Nash"
+        },
+        {
+          "position": 6,
+          "name": "After the Garden",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 7,
+          "name": "Living With War",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 8,
+          "name": "The Restless Consumer",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 9,
+          "name": "Shock and Awe",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 10,
+          "name": "Wounded World",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Stephen Stills"
+        },
+        {
+          "position": 11,
+          "name": "Almost Cut My Hair",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "David Crosby"
+        },
+        {
+          "position": 12,
+          "name": "Immigration Man",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby & Nash"
+        },
+        {
+          "position": 13,
+          "name": "Families",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 14,
+          "name": "D\u00e9j\u00e0 Vu",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 15,
+          "name": "Helplessly Hoping",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby, Stills & Nash"
+        },
+        {
+          "position": 16,
+          "name": "Our House",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 17,
+          "name": "Only Love Can Break Your Heart",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 18,
+          "name": "Guinnevere",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby, Stills & Nash"
+        },
+        {
+          "position": 19,
+          "name": "Milky Way Tonight",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby & Nash"
+        },
+        {
+          "position": 20,
+          "name": "Treetop Flyer",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Stephen Stills"
+        },
+        {
+          "position": 21,
+          "name": "Roger and Out",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 22,
+          "name": "Southbound Train",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby & Nash"
+        },
+        {
+          "position": 23,
+          "name": "Ole Man Trouble",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Otis Redding"
+        },
+        {
+          "position": 24,
+          "name": "Carry Me",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby & Nash"
+        },
+        {
+          "position": 25,
+          "name": "Teach Your Children",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 26,
+          "name": "Southern Cross",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby, Stills & Nash"
+        },
+        {
+          "position": 27,
+          "name": "Find the Cost of Freedom",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 28,
+          "name": "Let's Impeach the President",
+          "set_name": "Set 3",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 29,
+          "name": "For What It's Worth",
+          "set_name": "Set 3",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Buffalo Springfield"
+        },
+        {
+          "position": 30,
+          "name": "Chicago",
+          "set_name": "Set 3",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Graham Nash"
+        },
+        {
+          "position": 31,
+          "name": "Ohio",
+          "set_name": "Set 3",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 32,
+          "name": "What Are Their Names",
+          "set_name": "Set 3",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "David Crosby"
+        },
+        {
+          "position": 33,
+          "name": "Rockin' in the Free World",
+          "set_name": "Set 3",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        }
+      ],
+      "tour_name": "Freedom of Speech"
+    },
+    {
+      "artist_id": "395",
+      "artist_name": "Nash & Young",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/crosby-stills-nash-and-young/2006/pnc-bank-arts-center-holmdel-nj-6bd1a6ee.html",
+      "song_count": 33,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Flags of Freedom",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 2,
+          "name": "Carry On",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Wooden Ships",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby, Stills & Nash"
+        },
+        {
+          "position": 4,
+          "name": "Long Time Gone",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby, Stills & Nash"
+        },
+        {
+          "position": 5,
+          "name": "Military Madness",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Graham Nash"
+        },
+        {
+          "position": 6,
+          "name": "After the Garden",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 7,
+          "name": "Living With War",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 8,
+          "name": "The Restless Consumer",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 9,
+          "name": "Shock and Awe",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 10,
+          "name": "Wounded World",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Stephen Stills"
+        },
+        {
+          "position": 11,
+          "name": "Almost Cut My Hair",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "David Crosby"
+        },
+        {
+          "position": 12,
+          "name": "Immigration Man",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby & Nash"
+        },
+        {
+          "position": 13,
+          "name": "Families",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 14,
+          "name": "D\u00e9j\u00e0 Vu",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 15,
+          "name": "Helplessly Hoping",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby, Stills & Nash"
+        },
+        {
+          "position": 16,
+          "name": "Our House",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 17,
+          "name": "Only Love Can Break Your Heart",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 18,
+          "name": "Guinnevere",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby, Stills & Nash"
+        },
+        {
+          "position": 19,
+          "name": "Milky Way Tonight",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby & Nash"
+        },
+        {
+          "position": 20,
+          "name": "Treetop Flyer",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Stephen Stills"
+        },
+        {
+          "position": 21,
+          "name": "Roger and Out",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 22,
+          "name": "Southbound Train",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby & Nash"
+        },
+        {
+          "position": 23,
+          "name": "Ole Man Trouble",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Otis Redding"
+        },
+        {
+          "position": 24,
+          "name": "Carry Me",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby & Nash"
+        },
+        {
+          "position": 25,
+          "name": "Teach Your Children",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 26,
+          "name": "Southern Cross",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby, Stills & Nash"
+        },
+        {
+          "position": 27,
+          "name": "Find the Cost of Freedom",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 28,
+          "name": "Let's Impeach the President",
+          "set_name": "Set 3",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 29,
+          "name": "For What It's Worth",
+          "set_name": "Set 3",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Buffalo Springfield"
+        },
+        {
+          "position": 30,
+          "name": "Chicago",
+          "set_name": "Set 3",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Graham Nash"
+        },
+        {
+          "position": 31,
+          "name": "Ohio",
+          "set_name": "Set 3",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 32,
+          "name": "What Are Their Names",
+          "set_name": "Set 3",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "David Crosby"
+        },
+        {
+          "position": 33,
+          "name": "Rockin' in the Free World",
+          "set_name": "Set 3",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        }
+      ],
+      "tour_name": "Freedom of Speech"
+    },
+    {
+      "artist_id": "546",
+      "artist_name": "Stills",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/crosby-stills-nash-and-young/2006/pnc-bank-arts-center-holmdel-nj-6bd1a6ee.html",
+      "song_count": 33,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Flags of Freedom",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 2,
+          "name": "Carry On",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Wooden Ships",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby, Stills & Nash"
+        },
+        {
+          "position": 4,
+          "name": "Long Time Gone",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby, Stills & Nash"
+        },
+        {
+          "position": 5,
+          "name": "Military Madness",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Graham Nash"
+        },
+        {
+          "position": 6,
+          "name": "After the Garden",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 7,
+          "name": "Living With War",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 8,
+          "name": "The Restless Consumer",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 9,
+          "name": "Shock and Awe",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 10,
+          "name": "Wounded World",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Stephen Stills"
+        },
+        {
+          "position": 11,
+          "name": "Almost Cut My Hair",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "David Crosby"
+        },
+        {
+          "position": 12,
+          "name": "Immigration Man",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby & Nash"
+        },
+        {
+          "position": 13,
+          "name": "Families",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 14,
+          "name": "D\u00e9j\u00e0 Vu",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 15,
+          "name": "Helplessly Hoping",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby, Stills & Nash"
+        },
+        {
+          "position": 16,
+          "name": "Our House",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 17,
+          "name": "Only Love Can Break Your Heart",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 18,
+          "name": "Guinnevere",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby, Stills & Nash"
+        },
+        {
+          "position": 19,
+          "name": "Milky Way Tonight",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby & Nash"
+        },
+        {
+          "position": 20,
+          "name": "Treetop Flyer",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Stephen Stills"
+        },
+        {
+          "position": 21,
+          "name": "Roger and Out",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 22,
+          "name": "Southbound Train",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby & Nash"
+        },
+        {
+          "position": 23,
+          "name": "Ole Man Trouble",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Otis Redding"
+        },
+        {
+          "position": 24,
+          "name": "Carry Me",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby & Nash"
+        },
+        {
+          "position": 25,
+          "name": "Teach Your Children",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 26,
+          "name": "Southern Cross",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby, Stills & Nash"
+        },
+        {
+          "position": 27,
+          "name": "Find the Cost of Freedom",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 28,
+          "name": "Let's Impeach the President",
+          "set_name": "Set 3",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        },
+        {
+          "position": 29,
+          "name": "For What It's Worth",
+          "set_name": "Set 3",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Buffalo Springfield"
+        },
+        {
+          "position": 30,
+          "name": "Chicago",
+          "set_name": "Set 3",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Graham Nash"
+        },
+        {
+          "position": 31,
+          "name": "Ohio",
+          "set_name": "Set 3",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 32,
+          "name": "What Are Their Names",
+          "set_name": "Set 3",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "David Crosby"
+        },
+        {
+          "position": 33,
+          "name": "Rockin' in the Free World",
+          "set_name": "Set 3",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Neil Young"
+        }
+      ],
+      "tour_name": "Freedom of Speech"
+    }
+  ],
+  "total_song_count": 99,
+  "has_encore": false,
+  "tour_name": "Freedom of Speech"
+}

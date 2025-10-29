@@ -2,7 +2,48 @@
   "id": "237",
   "name": "Gregg Allman",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Brilliant Mistake",
+      "times_played": 1
+    },
+    {
+      "name": "A Slow Drag With Josephine",
+      "times_played": 1
+    },
+    {
+      "name": "Jimmie Standing in the Rain",
+      "times_played": 1
+    },
+    {
+      "name": "National Ransom",
+      "times_played": 1
+    },
+    {
+      "name": "Floating Bridge",
+      "times_played": 1
+    },
+    {
+      "name": "Just Another Rider",
+      "times_played": 1
+    },
+    {
+      "name": "Trouble No More",
+      "times_played": 1
+    },
+    {
+      "name": "Midnight Rider",
+      "times_played": 1
+    },
+    {
+      "name": "Fallin' & Flyin'",
+      "times_played": 1
+    },
+    {
+      "name": "Brand New Angel",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "451",

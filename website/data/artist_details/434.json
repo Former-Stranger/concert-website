@@ -2,7 +2,48 @@
   "id": "434",
   "name": "Post Malone",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Heart of Stone",
+      "times_played": 1
+    },
+    {
+      "name": "Get By",
+      "times_played": 1
+    },
+    {
+      "name": "Liar",
+      "times_played": 1
+    },
+    {
+      "name": "Lonely Road / Take Me Home, Country Roads",
+      "times_played": 1
+    },
+    {
+      "name": "Wild Ones",
+      "times_played": 1
+    },
+    {
+      "name": "Son of a Sinner",
+      "times_played": 1
+    },
+    {
+      "name": "I Am Not Okay",
+      "times_played": 1
+    },
+    {
+      "name": "Hard Fought Hallelujah",
+      "times_played": 1
+    },
+    {
+      "name": "Need a Favor",
+      "times_played": 1
+    },
+    {
+      "name": "Sweet Home Alabama / How You Remind Me / Party Up / Flowers / Young, Wild & Free",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1257",

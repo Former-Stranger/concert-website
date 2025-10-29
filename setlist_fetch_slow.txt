@@ -1,0 +1,203 @@
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1761704506.845119 5385339 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/google/cloud/firestore_v1/base_collection.py:304: UserWarning: Detected filter using positional arguments. Prefer using the 'filter' keyword argument instead.
+  return query.where(field_path, op_string, value)
+================================================================================
+ENHANCED SETLIST FETCHER - WITH CO-HEADLINER SUPPORT
+================================================================================
+
+📊 Loading concerts...
+   Found 1275 concerts
+   784 concerts need setlists
+   Estimated time: 7.8 minutes
+
+🔍 Starting setlist fetch...
+
+🎤 [1/784] Concert 1251: Roger McGuinn
+      2025-05-09 at Tarrytown Music Hall
+      ❌ No setlists found for 1 artist(s)
+🎤 [2/784] Concert 1240: 
+      2025-03-03 at Ridgefield Playhouse
+      ❌ No setlists found for 2 artist(s)
+🎤 [3/784] Concert 1236: SNL Concert
+      2025-02-14 at Radio City Music Hall
+      ❌ No setlists found for 1 artist(s)
+🎤 [4/784] Concert 1233: Bruce Springsteen:  Light of Day
+      2025-01-18 at Count Basie Center for the Arts
+      ❌ No setlists found for 1 artist(s)
+🎤 [5/784] Concert 1231: Marcus King Trio (MonoNeon, Chris Dave)
+      2025-01-16 at Blue Note Jazz Club
+      ❌ No setlists found for 1 artist(s)
+🎤 [6/784] Concert 1224: Jesse Malin Benefit
+      2024-12-01 at Beacon Theatre
+      ❌ No setlists found for 1 artist(s)
+🎤 [7/784] Concert 1222: 
+      2024-11-27 at Tarrytown Music Hall
+      ❌ No setlists found for 3 artist(s)
+🎤 [8/784] Concert 1217: 
+      2024-11-16 at Play Group Theatre
+      ❌ No setlists found for 1 artist(s)
+🎤 [9/784] Concert 1215: Stand Up for Heroes:  Bruce Springsteen, Norah Jones
+      2024-11-11 at Lincoln Center
+      ❌ No setlists found for 1 artist(s)
+🎤 [10/784] Concert 1214: The Last Waltz
+      2024-11-08 at Capitol Theatre
+      ❌ No setlists found for 1 artist(s)
+
+📈 Progress: 10/784 (1%)
+   Success: 0 | Not found: 10 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 0
+
+🎤 [11/784] Concert 1211: Keith Urban
+      2024-10-30 at Today Show Plaza at Rockefeller Center
+      ❌ No setlists found for 1 artist(s)
+🎤 [12/784] Concert 1209: Will Hoge
+      2024-10-24 at Wonder Bar
+      ❌ No setlists found for 1 artist(s)
+🎤 [13/784] Concert 1208: Will Hoge
+      2024-10-23 at Le Poisson Rouge
+      ❌ No setlists found for 1 artist(s)
+🎤 [14/784] Concert 1206: The Lone Bellow
+      2024-10-17 at Tarrytown Music Hall
+      ❌ No setlists found for 1 artist(s)
+🎤 [15/784] Concert 1191: Walter Trout
+      2024-08-28 at Daryl's House
+      ❌ No setlists found for 1 artist(s)
+🎤 [16/784] Concert 1188: Bruce Springsteen & the E Street Band
+      2024-08-21 at Citizens Bank Park
+      ❌ No setlists found for 1 artist(s)
+🎤 [17/784] Concert 1177: Amos Lee
+      2024-07-12 at Tarrytown Music Hall
+      ❌ No setlists found for 1 artist(s)
+🎤 [18/784] Concert 1175: Billy Currington
+      2024-06-22 at The Rooftop at Pier 17
+      ❌ No setlists found for 1 artist(s)
+🎤 [19/784] Concert 1173: Dead and Company
+      2024-06-15 at Sphere
+      ❌ No setlists found for 1 artist(s)
+🎤 [20/784] Concert 1172: Dead and Company
+      2024-06-14 at Sphere
+      ❌ No setlists found for 1 artist(s)
+
+📈 Progress: 20/784 (2%)
+   Success: 0 | Not found: 20 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 0
+
+🎤 [21/784] Concert 1171: Dead and Company
+      2024-06-13 at Sphere
+      ❌ No setlists found for 1 artist(s)
+🎤 [22/784] Concert 1161: Lyle Lovett (with Lisa Loeb)
+      2024-05-01 at Ridgefield Playhouse
+      ❌ No setlists found for 1 artist(s)
+🎤 [23/784] Concert 1158: Bruce Springsteen & the E Street Band
+      2024-04-15 at MVP Arena
+      ❌ No setlists found for 1 artist(s)
+🎤 [24/784] Concert 1155: Bruce Springsteen & the E Street Band
+      2024-04-12 at Mohegan Sun Arena
+      ❌ No setlists found for 1 artist(s)
+🎤 [25/784] Concert 1154: Lady A
+      2024-04-05 at Palace Theatre
+      ❌ No setlists found for 1 artist(s)
+🎤 [26/784] Concert 1153: 53 Thieves
+      2024-04-04 at Mercury Lounge
+      ❌ No setlists found for 1 artist(s)
+🎤 [27/784] Concert 1140: Light of Day
+      2024-01-20 at Count Basie Center for the Arts
+      ❌ No setlists found for 1 artist(s)
+🎤 [28/784] Concert 1132: Mac McAnally
+      2023-11-21 at City Winery
+      ❌ No setlists found for 1 artist(s)
+🎤 [29/784] Concert 1131: Dave Matthews Band
+      2023-11-17 at Madison Square Garden
+      ❌ No setlists found for 1 artist(s)
+🎤 [30/784] Concert 1129: Melissa Etheridge
+      2023-11-14 at Circle in the Square Theatre
+      ❌ No setlists found for 1 artist(s)
+
+📈 Progress: 30/784 (3%)
+   Success: 0 | Not found: 30 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 0
+
+🎤 [31/784] Concert 1128: Geddy Lee (In Conversation)
+      2023-11-13 at Beacon Theatre
+      ❌ No setlists found for 1 artist(s)
+🎤 [32/784] Concert 1122: Chris Stapleton w Margo Price
+      2023-10-07 at UBS Arena
+      ❌ No setlists found for 1 artist(s)
+🎤 [33/784] Concert 1115: 
+      2023-09-15 at Paramount Hudson Valley Theater
+      ❌ No setlists found for 2 artist(s)
+🎤 [34/784] Concert 1112: Sting + Joe Sumner
+      2023-09-08 at Jones Beach Theater
+      ❌ No setlists found for 1 artist(s)
+🎤 [35/784] Concert 1111: The Eagles + Steely Dan
+      2023-09-07 at Madison Square Garden
+      ❌ No setlists found for 1 artist(s)
+🎤 [36/784] Concert 1110: Bruce Springsteen & the E Street Band
+      2023-09-03 at MetLife Stadium
+      ❌ No setlists found for 1 artist(s)
+🎤 [37/784] Concert 1109: Bruce Springsteen & the E Street Band
+      2023-09-01 at MetLife Stadium
+      ❌ No setlists found for 1 artist(s)
+🎤 [38/784] Concert 1108: Bruce Springsteen & the E Street Band
+      2023-08-30 at MetLife Stadium
+      ❌ No setlists found for 1 artist(s)
+🎤 [39/784] Concert 1106: Joe Bonamassa + Styx + Don Felder
+      2023-08-13 at Bethel Woods
+      ❌ No setlists found for 1 artist(s)
+🎤 [40/784] Concert 1098: Brad Paisley
+      2023-07-14 at Today Show Plaza at Rockefeller Center
+      ❌ No setlists found for 1 artist(s)
+
+📈 Progress: 40/784 (5%)
+   Success: 0 | Not found: 40 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 0
+
+🎤 [41/784] Concert 1095: Steve Miller Band with Dave Mason
+      2023-06-24 at Hartford HealthCare Amphitheater
+      ❌ No setlists found for 1 artist(s)
+🎤 [42/784] Concert 1094: Dead and Company
+      2023-06-22 at Citi Field
+      ❌ No setlists found for 1 artist(s)
+🎤 [43/784] Concert 1093: Dead and Company
+      2023-06-21 at Citi Field
+      ❌ No setlists found for 1 artist(s)
+🎤 [44/784] Concert 1087: Bruce Springsteen & the E Street Band
+      2023-04-14 at Prudential Center
+      ❌ No setlists found for 1 artist(s)
+🎤 [45/784] Concert 1086: Bruce Springsteen & the E Street Band
+      2023-04-11 at UBS Arena
+      ❌ No setlists found for 1 artist(s)
+🎤 [46/784] Concert 1085: Bruce Springsteen & the E Street Band
+      2023-04-09 at UBS Arena
+      ❌ No setlists found for 1 artist(s)
+🎤 [47/784] Concert 1084: Bruce Springsteen & the E Street Band
+      2023-04-03 at Barclays Center
+      ❌ No setlists found for 1 artist(s)
+🎤 [48/784] Concert 1083: Bruce Springsteen & the E Street Band
+      2023-04-01 at Madison Square Garden
+      ❌ No setlists found for 1 artist(s)
+🎤 [49/784] Concert 1079: Bruce Springsteen & the E Street Band
+      2023-03-16 at Wells Fargo Center
+      ❌ No setlists found for 1 artist(s)
+🎤 [50/784] Concert 1078: Bruce Springsteen & the E Street Band
+      2023-02-05 at Kia Center
+      ❌ No setlists found for 1 artist(s)
+
+📈 Progress: 50/784 (6%)
+   Success: 0 | Not found: 50 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 0
+
+🎤 [51/784] Concert 1077: Bruce Springsteen & the E Street Band
+      2023-02-01 at Amalie Arena
+      ❌ No setlists found for 1 artist(s)
+🎤 [52/784] Concert 1076: Light of Day
+      2023-01-14 at Count Basie Center for the Arts
+      ❌ No setlists found for 1 artist(s)
+🎤 [53/784] Concert 1074: Gregg Allman Beacon 75
+      2022-12-08 at Beacon Theatre
+      ❌ No setlists found for 1 artist(s)
+🎤 [54/784] Concert 1071: Kip Moore
+      2022-11-10 at Terminal 5
+      ❌ No setlists found for 1 artist(s)
+🎤 [55/784] Concert 1069: Last Waltz with Warren Haynes + Jamey Johnson

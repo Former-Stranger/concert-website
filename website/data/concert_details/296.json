@@ -1,0 +1,135 @@
+{
+  "id": "296",
+  "show_number": 295,
+  "date": "2007-04-05",
+  "festival_name": null,
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Allman Brothers Band",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/the-allman-brothers-band/2007/beacon-theatre-new-york-ny-73dc8691.html",
+  "song_count": 14,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Jessica",
+      "set_name": "Set I",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "You Can't Lose What You Ain't Never Had",
+      "set_name": "Set I",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Muddy Waters"
+    },
+    {
+      "position": 3,
+      "name": "Ain't Wastin' Time No More",
+      "set_name": "Set I",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Maydell",
+      "set_name": "Set I",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "One Way Out",
+      "set_name": "Set I",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Sonny Boy Williamson"
+    },
+    {
+      "position": 6,
+      "name": "Statesboro Blues",
+      "set_name": "Set I",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Blind Willie McTell"
+    },
+    {
+      "position": 7,
+      "name": "All Along the Watchtower",
+      "set_name": "Set I",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Dylan"
+    },
+    {
+      "position": 8,
+      "name": "Feelin' Alright?",
+      "set_name": "Set I",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Traffic"
+    },
+    {
+      "position": 9,
+      "name": "Black Hearted Woman",
+      "set_name": "Set II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "I Must Have Done Somebody Wrong",
+      "set_name": "Set II",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Eddie Kirkland"
+    },
+    {
+      "position": 11,
+      "name": "The Sky Is Crying",
+      "set_name": "Set II",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elmore James & His Broom Dusters"
+    },
+    {
+      "position": 12,
+      "name": "Cross Road Blues",
+      "set_name": "Set II",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Robert Johnson"
+    },
+    {
+      "position": 13,
+      "name": "Les Brers in A Minor",
+      "set_name": "Set II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "No One to Run With",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ],
+  "tour_name": "Beacon Theatre Run 2007"
+}

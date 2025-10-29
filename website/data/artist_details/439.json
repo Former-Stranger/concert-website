@@ -2,7 +2,48 @@
   "id": "439",
   "name": "Queen",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "We Will Rock You",
+      "times_played": 2
+    },
+    {
+      "name": "Hammer to Fall",
+      "times_played": 1
+    },
+    {
+      "name": "Stone Cold Crazy",
+      "times_played": 1
+    },
+    {
+      "name": "Another One Bites the Dust",
+      "times_played": 1
+    },
+    {
+      "name": "Fat Bottomed Girls",
+      "times_played": 1
+    },
+    {
+      "name": "Killer Queen",
+      "times_played": 1
+    },
+    {
+      "name": "Two Fux",
+      "times_played": 1
+    },
+    {
+      "name": "Don't Stop Me Now",
+      "times_played": 1
+    },
+    {
+      "name": "Bicycle Race",
+      "times_played": 1
+    },
+    {
+      "name": "I'm in Love With My Car",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "770",

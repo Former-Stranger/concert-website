@@ -2,7 +2,48 @@
   "id": "539",
   "name": "Steve Miller Band",
   "concert_count": 5,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Jet Airliner",
+      "times_played": 4
+    },
+    {
+      "name": "Fly Like an Eagle",
+      "times_played": 3
+    },
+    {
+      "name": "The Stake",
+      "times_played": 3
+    },
+    {
+      "name": "Abracadabra",
+      "times_played": 3
+    },
+    {
+      "name": "Dance, Dance, Dance",
+      "times_played": 3
+    },
+    {
+      "name": "Wild Mountain Honey",
+      "times_played": 3
+    },
+    {
+      "name": "Swingtown",
+      "times_played": 3
+    },
+    {
+      "name": "Jungle Love",
+      "times_played": 3
+    },
+    {
+      "name": "Serenade",
+      "times_played": 3
+    },
+    {
+      "name": "Living in the U.S.A.",
+      "times_played": 3
+    }
+  ],
   "concerts": [
     {
       "id": "1045",

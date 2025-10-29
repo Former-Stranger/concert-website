@@ -1,0 +1,183 @@
+{
+  "id": "503",
+  "show_number": 502,
+  "date": "2012-04-03",
+  "festival_name": null,
+  "venue": "Riviera Theatre",
+  "city": "Chicago",
+  "state": "IL",
+  "artists": [
+    {
+      "name": "Noel Gallagher's High Flying Birds",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/noel-gallaghers-high-flying-birds/2012/pabst-theater-milwaukee-wi-2bde10aa.html",
+  "song_count": 20,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "(It's Good) To Be Free",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Oasis"
+    },
+    {
+      "position": 2,
+      "name": "Mucky Fingers",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Oasis"
+    },
+    {
+      "position": 3,
+      "name": "Everybody's on the Run",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Dream On",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "If I Had a Gun...",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "The Good Rebel",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "The Death of You and Me",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Freaky Teeth",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Supersonic",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Oasis"
+    },
+    {
+      "position": 10,
+      "name": "(I Wanna Live in a Dream in My) Record Machine",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "AKA... What a Life!",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "Talk Tonight",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Oasis"
+    },
+    {
+      "position": 13,
+      "name": "Soldier Boys and Jesus Freaks",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "AKA... Broken Arrow",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Half the World Away",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Oasis"
+    },
+    {
+      "position": 16,
+      "name": "(Stranded On) The Wrong Beach",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "Whatever",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Oasis"
+    },
+    {
+      "position": 18,
+      "name": "Little by Little",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Oasis"
+    },
+    {
+      "position": 19,
+      "name": "The Importance of Being Idle",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Oasis"
+    },
+    {
+      "position": 20,
+      "name": "Don't Look Back in Anger",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Oasis"
+    }
+  ],
+  "tour_name": "High Flying Birds"
+}

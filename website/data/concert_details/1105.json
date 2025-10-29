@@ -1,0 +1,183 @@
+{
+  "id": "1105",
+  "show_number": 1104,
+  "date": "2023-08-02",
+  "festival_name": null,
+  "venue": "Radio City Music Hall",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Tyler Childers",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/tyler-childers/2023/radio-city-music-hall-new-york-ny-7ba42a74.html",
+  "song_count": 20,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Lady May",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Nose on the Grindstone",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Follow You to Virgie",
+      "set_name": "Acoustic",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "The Old Country Church",
+      "set_name": "Full Band",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "T. Texas Tyler"
+    },
+    {
+      "position": 5,
+      "name": "Can I Take My Hounds to Heaven?",
+      "set_name": "Full Band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Two Coats",
+      "set_name": "Full Band",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 7,
+      "name": "All Your'n",
+      "set_name": "Full Band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Purgatory",
+      "set_name": "Full Band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Cluck Old Hen",
+      "set_name": "Full Band",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 10,
+      "name": "Country Squire",
+      "set_name": "Full Band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "I Swear (to God)",
+      "set_name": "Full Band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "Honky Tonk Flame",
+      "set_name": "Full Band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "House Fire",
+      "set_name": "Full Band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Universal Sound",
+      "set_name": "Full Band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Way of the Triune God",
+      "set_name": "Full Band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Angel Band",
+      "set_name": "Full Band",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 17,
+      "name": "In Your Love",
+      "set_name": "Full Band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "Jubilee",
+      "set_name": "Full Band",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 19,
+      "name": "Heart You've Been Tendin'",
+      "set_name": "Full Band",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "Sour Mash",
+      "set_name": "Full Band",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Cory Branan"
+    }
+  ],
+  "tour_name": "Send in the Hounds Tour"
+}

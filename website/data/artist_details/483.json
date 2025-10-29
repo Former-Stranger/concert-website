@@ -2,7 +2,48 @@
   "id": "483",
   "name": "Roger Daltrey",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Let My Love Open the Door",
+      "times_played": 1
+    },
+    {
+      "name": "Freedom Ride",
+      "times_played": 1
+    },
+    {
+      "name": "Who Are You",
+      "times_played": 1
+    },
+    {
+      "name": "Waiting for a Friend",
+      "times_played": 1
+    },
+    {
+      "name": "So Sad About Us",
+      "times_played": 1
+    },
+    {
+      "name": "After the Fire",
+      "times_played": 1
+    },
+    {
+      "name": "Days of Light",
+      "times_played": 1
+    },
+    {
+      "name": "Giving It All Away",
+      "times_played": 1
+    },
+    {
+      "name": "The Kids Are Alright",
+      "times_played": 1
+    },
+    {
+      "name": "Squeeze Box",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1174",

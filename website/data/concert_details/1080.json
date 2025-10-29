@@ -1,0 +1,301 @@
+{
+  "id": "1080",
+  "show_number": 1079,
+  "date": "2023-03-19",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Phil Lesh",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Friends",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "216",
+      "artist_name": "Friends",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/phil-lesh-and-friends/2023/capitol-theatre-port-chester-ny-43bb9f7b.html",
+      "song_count": 16,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Tennessee Jed",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 2,
+          "name": "Bertha",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 3,
+          "name": "Turn On Your Love Light",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Bobby \u201cBlue\u201d Bland"
+        },
+        {
+          "position": 4,
+          "name": "Me and My Uncle",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "John Phillips"
+        },
+        {
+          "position": 5,
+          "name": "Bird Song",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jerry Garcia"
+        },
+        {
+          "position": 6,
+          "name": "Ramble On Rose",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 7,
+          "name": "Box of Rain",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 8,
+          "name": "Terrapin Station",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 9,
+          "name": "Jack O'Roses",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Robert Hunter"
+        },
+        {
+          "position": 10,
+          "name": "Touch of Grey",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 11,
+          "name": "West L.A. Fadeaway",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 12,
+          "name": "Shakedown Street",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 13,
+          "name": "Mississippi Half-Step Uptown Toodeloo",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 14,
+          "name": "Estimated Prophet",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 15,
+          "name": "Sugaree",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jerry Garcia"
+        },
+        {
+          "position": 16,
+          "name": "Brown-Eyed Women",
+          "set_name": "Set 3",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        }
+      ]
+    },
+    {
+      "artist_id": "429",
+      "artist_name": "Phil Lesh",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/phil-lesh-and-friends/2023/capitol-theatre-port-chester-ny-43bb9f7b.html",
+      "song_count": 16,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Tennessee Jed",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 2,
+          "name": "Bertha",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 3,
+          "name": "Turn On Your Love Light",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Bobby \u201cBlue\u201d Bland"
+        },
+        {
+          "position": 4,
+          "name": "Me and My Uncle",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "John Phillips"
+        },
+        {
+          "position": 5,
+          "name": "Bird Song",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jerry Garcia"
+        },
+        {
+          "position": 6,
+          "name": "Ramble On Rose",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 7,
+          "name": "Box of Rain",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 8,
+          "name": "Terrapin Station",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 9,
+          "name": "Jack O'Roses",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Robert Hunter"
+        },
+        {
+          "position": 10,
+          "name": "Touch of Grey",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 11,
+          "name": "West L.A. Fadeaway",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 12,
+          "name": "Shakedown Street",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 13,
+          "name": "Mississippi Half-Step Uptown Toodeloo",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 14,
+          "name": "Estimated Prophet",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 15,
+          "name": "Sugaree",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jerry Garcia"
+        },
+        {
+          "position": 16,
+          "name": "Brown-Eyed Women",
+          "set_name": "Set 3",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        }
+      ]
+    }
+  ],
+  "total_song_count": 32,
+  "has_encore": false
+}

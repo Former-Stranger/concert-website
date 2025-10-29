@@ -1,0 +1,86 @@
+{
+  "id": "943",
+  "show_number": 942,
+  "date": "2019-09-20",
+  "festival_name": null,
+  "venue": "Minetta Lane Theatre",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Tom Morello",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/tom-morello/2019/minetta-lane-theatre-new-york-ny-b9c3dd6.html",
+  "song_count": 8,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Vigilante Nocturno",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Mr. Crowley",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ozzy Osbourne"
+    },
+    {
+      "position": 3,
+      "name": "Wild Guitar Stuff",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "The Garden of Gethsemane",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tom Morello: The Nightwatchman"
+    },
+    {
+      "position": 5,
+      "name": "The Ghost of Tom Joad",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bruce Springsteen"
+    },
+    {
+      "position": 6,
+      "name": "Killing in the Name",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Rage Against the Machine"
+    },
+    {
+      "position": 7,
+      "name": "Power to the People",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Lennon"
+    },
+    {
+      "position": 8,
+      "name": "This Land Is Your Land",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Woody Guthrie"
+    }
+  ]
+}

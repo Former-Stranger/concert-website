@@ -2,7 +2,12 @@
   "id": "537",
   "name": "Steve Earle (Coal Country Play)",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Welcome to Hard Times",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1011",

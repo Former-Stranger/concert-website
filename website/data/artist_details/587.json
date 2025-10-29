@@ -2,7 +2,48 @@
   "id": "587",
   "name": "The Who",
   "concert_count": 12,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Pinball Wizard",
+      "times_played": 8
+    },
+    {
+      "name": "Who Are You",
+      "times_played": 8
+    },
+    {
+      "name": "Baba O'Riley",
+      "times_played": 8
+    },
+    {
+      "name": "Amazing Journey",
+      "times_played": 7
+    },
+    {
+      "name": "Sparks",
+      "times_played": 7
+    },
+    {
+      "name": "Eminence Front",
+      "times_played": 7
+    },
+    {
+      "name": "Won't Get Fooled Again",
+      "times_played": 7
+    },
+    {
+      "name": "Behind Blue Eyes",
+      "times_played": 7
+    },
+    {
+      "name": "You Better You Bet",
+      "times_played": 6
+    },
+    {
+      "name": "Love, Reign O'er Me",
+      "times_played": 6
+    }
+  ],
   "concerts": [
     {
       "id": "1023",

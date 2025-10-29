@@ -2,7 +2,48 @@
   "id": "188",
   "name": "Eddie Vedder",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "On My Way",
+      "times_played": 1
+    },
+    {
+      "name": "Society",
+      "times_played": 1
+    },
+    {
+      "name": "Room at the Top",
+      "times_played": 1
+    },
+    {
+      "name": "Here Comes the Sun",
+      "times_played": 1
+    },
+    {
+      "name": "Timeless Melody",
+      "times_played": 1
+    },
+    {
+      "name": "I'll Be Waiting",
+      "times_played": 1
+    },
+    {
+      "name": "Invincible",
+      "times_played": 1
+    },
+    {
+      "name": "The Dark",
+      "times_played": 1
+    },
+    {
+      "name": "Fallout Today",
+      "times_played": 1
+    },
+    {
+      "name": "Brother the Cloud",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1005",

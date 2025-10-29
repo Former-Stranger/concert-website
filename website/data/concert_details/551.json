@@ -1,0 +1,54 @@
+{
+  "id": "551",
+  "show_number": 550,
+  "date": "2013-08-15",
+  "festival_name": null,
+  "venue": "Today Show Plaza at Rockefeller Center",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Jimmy Buffett",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/jimmy-buffett/2013/today-show-new-york-ny-3bc62cec.html",
+  "song_count": 4,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Margaritaville",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Somethin' 'Bout a Boat",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Fins",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Too Drunk to Karaoke",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

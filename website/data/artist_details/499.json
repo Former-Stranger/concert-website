@@ -2,7 +2,48 @@
   "id": "499",
   "name": "Sammy Hagar",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Stand Up",
+      "times_played": 1
+    },
+    {
+      "name": "Good Enough",
+      "times_played": 1
+    },
+    {
+      "name": "Poundcake",
+      "times_played": 1
+    },
+    {
+      "name": "Runaround",
+      "times_played": 1
+    },
+    {
+      "name": "There's Only One Way to Rock",
+      "times_played": 1
+    },
+    {
+      "name": "Judgement Day",
+      "times_played": 1
+    },
+    {
+      "name": "Panama",
+      "times_played": 1
+    },
+    {
+      "name": "5150",
+      "times_played": 1
+    },
+    {
+      "name": "Summer Nights",
+      "times_played": 1
+    },
+    {
+      "name": "Ain't Talkin' 'bout Love",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1181",

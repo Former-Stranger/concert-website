@@ -2,7 +2,48 @@
   "id": "460",
   "name": "Rick Springfield",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Endless Summer Nights",
+      "times_played": 2
+    },
+    {
+      "name": "Affair of the Heart",
+      "times_played": 2
+    },
+    {
+      "name": "The Way She Loves Me",
+      "times_played": 2
+    },
+    {
+      "name": "Love Is Alright Tonite",
+      "times_played": 2
+    },
+    {
+      "name": "Satisfied",
+      "times_played": 2
+    },
+    {
+      "name": "I've Done Everything for You",
+      "times_played": 2
+    },
+    {
+      "name": "Hazard",
+      "times_played": 2
+    },
+    {
+      "name": "Don't Talk to Strangers",
+      "times_played": 2
+    },
+    {
+      "name": "Should've Known Better",
+      "times_played": 2
+    },
+    {
+      "name": "My Father's Chair",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "1141",

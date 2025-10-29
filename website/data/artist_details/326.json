@@ -2,7 +2,48 @@
   "id": "326",
   "name": "Kip Moore",
   "concert_count": 6,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Running for You",
+      "times_played": 5
+    },
+    {
+      "name": "Somethin' 'Bout a Truck",
+      "times_played": 5
+    },
+    {
+      "name": "Come and Get It",
+      "times_played": 5
+    },
+    {
+      "name": "Crazy One More Time",
+      "times_played": 4
+    },
+    {
+      "name": "Wild Ones",
+      "times_played": 4
+    },
+    {
+      "name": "Plead the Fifth",
+      "times_played": 4
+    },
+    {
+      "name": "Beer Money",
+      "times_played": 4
+    },
+    {
+      "name": "More Girls Like You",
+      "times_played": 4
+    },
+    {
+      "name": "Magic",
+      "times_played": 4
+    },
+    {
+      "name": "Dirt Road",
+      "times_played": 4
+    }
+  ],
   "concerts": [
     {
       "id": "1225",

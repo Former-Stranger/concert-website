@@ -2,7 +2,48 @@
   "id": "498",
   "name": "Sam Moore",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Teach Your Children",
+      "times_played": 4
+    },
+    {
+      "name": "(Your Love Keeps Lifting Me) Higher and Higher",
+      "times_played": 3
+    },
+    {
+      "name": "Midnight Rider",
+      "times_played": 2
+    },
+    {
+      "name": "The Pretender",
+      "times_played": 2
+    },
+    {
+      "name": "Love the One You're With",
+      "times_played": 2
+    },
+    {
+      "name": "The Sound of Silence",
+      "times_played": 2
+    },
+    {
+      "name": "Mrs. Robinson",
+      "times_played": 2
+    },
+    {
+      "name": "Not Fade Away",
+      "times_played": 2
+    },
+    {
+      "name": "The Boxer",
+      "times_played": 2
+    },
+    {
+      "name": "Bridge Over Troubled Water",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "403",

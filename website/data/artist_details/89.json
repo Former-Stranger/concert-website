@@ -2,7 +2,48 @@
   "id": "89",
   "name": "Bruce Springsteen & the E Street Band",
   "concert_count": 72,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Born to Run",
+      "times_played": 59
+    },
+    {
+      "name": "The Rising",
+      "times_played": 55
+    },
+    {
+      "name": "Badlands",
+      "times_played": 52
+    },
+    {
+      "name": "Dancing in the Dark",
+      "times_played": 52
+    },
+    {
+      "name": "The Promised Land",
+      "times_played": 44
+    },
+    {
+      "name": "Rosalita (Come Out Tonight)",
+      "times_played": 42
+    },
+    {
+      "name": "No Surrender",
+      "times_played": 34
+    },
+    {
+      "name": "Thunder Road",
+      "times_played": 33
+    },
+    {
+      "name": "She's the One",
+      "times_played": 32
+    },
+    {
+      "name": "Out in the Street",
+      "times_played": 31
+    }
+  ],
   "concerts": [
     {
       "id": "1189",

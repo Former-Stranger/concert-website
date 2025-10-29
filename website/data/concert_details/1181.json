@@ -1,0 +1,207 @@
+{
+  "id": "1181",
+  "show_number": 1180,
+  "date": "2024-07-24",
+  "festival_name": null,
+  "venue": "Bridgeport",
+  "city": "Bridgeport",
+  "state": "CT",
+  "artists": [
+    {
+      "name": "Sammy Hagar",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/sammy-hagar/2024/hartford-healthcare-amphitheater-bridgeport-ct-1b561918.html",
+  "song_count": 23,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Stand Up",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Sammy Hagar and the Wabos"
+    },
+    {
+      "position": 2,
+      "name": "Good Enough",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Van Halen"
+    },
+    {
+      "position": 3,
+      "name": "Poundcake",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Van Halen"
+    },
+    {
+      "position": 4,
+      "name": "Runaround",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Van Halen"
+    },
+    {
+      "position": 5,
+      "name": "There's Only One Way to Rock",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Judgement Day",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Van Halen"
+    },
+    {
+      "position": 7,
+      "name": "Panama",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Van Halen"
+    },
+    {
+      "position": 8,
+      "name": "5150",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Van Halen"
+    },
+    {
+      "position": 9,
+      "name": "Summer Nights",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Van Halen"
+    },
+    {
+      "position": 10,
+      "name": "Ain't Talkin' 'bout Love",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Van Halen"
+    },
+    {
+      "position": 11,
+      "name": "Top of the World",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Van Halen"
+    },
+    {
+      "position": 12,
+      "name": "Best of Both Worlds",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Van Halen"
+    },
+    {
+      "position": 13,
+      "name": "Satch Boogie",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Joe Satriani"
+    },
+    {
+      "position": 14,
+      "name": "The Seventh Seal",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Van Halen"
+    },
+    {
+      "position": 15,
+      "name": "Right Now",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Van Halen"
+    },
+    {
+      "position": 16,
+      "name": "Why Can't This Be Love",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Van Halen"
+    },
+    {
+      "position": 17,
+      "name": "Eagles Fly",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "Mas Tequila",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Sammy Hagar and the Wabos"
+    },
+    {
+      "position": 19,
+      "name": "Heavy Metal",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "I Can't Drive 55",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 21,
+      "name": "Space Station #5 / Big Foot / Jump",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 22,
+      "name": "When It's Love",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Van Halen"
+    },
+    {
+      "position": 23,
+      "name": "Thank You",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Led Zeppelin"
+    }
+  ],
+  "tour_name": "The Best of All Worlds Tour"
+}

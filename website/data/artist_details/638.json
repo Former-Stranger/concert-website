@@ -2,7 +2,48 @@
   "id": "638",
   "name": "Will Hoge",
   "concert_count": 15,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Growing Up Around Here",
+      "times_played": 4
+    },
+    {
+      "name": "Little Bitty Dreams",
+      "times_played": 4
+    },
+    {
+      "name": "Even If It Breaks Your Heart",
+      "times_played": 4
+    },
+    {
+      "name": "Home Is Where the Heart Breaks",
+      "times_played": 3
+    },
+    {
+      "name": "Baby Girl",
+      "times_played": 3
+    },
+    {
+      "name": "Still a Southern Man",
+      "times_played": 3
+    },
+    {
+      "name": "When I Get My Wings",
+      "times_played": 3
+    },
+    {
+      "name": "Midway Motel",
+      "times_played": 2
+    },
+    {
+      "name": "Secondhand Heart",
+      "times_played": 2
+    },
+    {
+      "name": "When I Can Afford to Lose",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "1209",

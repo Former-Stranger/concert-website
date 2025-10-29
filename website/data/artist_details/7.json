@@ -2,7 +2,48 @@
   "id": "7",
   "name": "Ace Frehley",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Rocket Ride",
+      "times_played": 2
+    },
+    {
+      "name": "Rip It Out",
+      "times_played": 1
+    },
+    {
+      "name": "Speedin' Back to My Baby",
+      "times_played": 1
+    },
+    {
+      "name": "Parasite",
+      "times_played": 1
+    },
+    {
+      "name": "Rock Soldiers",
+      "times_played": 1
+    },
+    {
+      "name": "Love Gun",
+      "times_played": 1
+    },
+    {
+      "name": "Detroit Rock City",
+      "times_played": 1
+    },
+    {
+      "name": "Calling Dr. Love",
+      "times_played": 1
+    },
+    {
+      "name": "Hard Times",
+      "times_played": 1
+    },
+    {
+      "name": "Snow Blind",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1097",

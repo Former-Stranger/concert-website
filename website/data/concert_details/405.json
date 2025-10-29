@@ -1,0 +1,231 @@
+{
+  "id": "405",
+  "show_number": 404,
+  "date": "2009-11-07",
+  "festival_name": null,
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Bruce Springsteen & the E Street Band",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/bruce-springsteen/2009/madison-square-garden-new-york-ny-6bd73eae.html",
+  "song_count": 25,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Thundercrack",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null,
+      "guest_artist": "Curt Ramm"
+    },
+    {
+      "position": 2,
+      "name": "Seeds",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Prove It All Night",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Hungry Heart",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Working on a Dream",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "The E Street Shuffle",
+      "set_name": "The Wild, the Innocent & the E Street Shuffle",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null,
+      "guest_artist": "Curt Ramm"
+    },
+    {
+      "position": 7,
+      "name": "4th of July, Asbury Park (Sandy)",
+      "set_name": "The Wild, the Innocent & the E Street Shuffle",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Kitty's Back",
+      "set_name": "The Wild, the Innocent & the E Street Shuffle",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null,
+      "guest_artist": "Curt Ramm"
+    },
+    {
+      "position": 9,
+      "name": "Wild Billy's Circus Story",
+      "set_name": "The Wild, the Innocent & the E Street Shuffle",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Incident on 57th Street",
+      "set_name": "The Wild, the Innocent & the E Street Shuffle",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "Rosalita (Come Out Tonight)",
+      "set_name": "The Wild, the Innocent & the E Street Shuffle",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "New York City Serenade",
+      "set_name": "The Wild, the Innocent & the E Street Shuffle",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null,
+      "guest_artist": "Richard Blackwell"
+    },
+    {
+      "position": 13,
+      "name": "Waitin' on a Sunny Day",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Raise Your Hand",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Eddie Floyd",
+      "guest_artist": "Curt Ramm"
+    },
+    {
+      "position": 15,
+      "name": "Does This Bus Stop at 82nd Street?",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Glory Days",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "Human Touch",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "Lonesome Day",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 19,
+      "name": "The Rising",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "Born to Run",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 21,
+      "name": "Wrecking Ball",
+      "set_name": "Set 4",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null,
+      "guest_artist": "Curt Ramm"
+    },
+    {
+      "position": 22,
+      "name": "Bobby Jean",
+      "set_name": "Set 4",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 23,
+      "name": "American Land",
+      "set_name": "Set 4",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null,
+      "guest_artist": "Curt Ramm"
+    },
+    {
+      "position": 24,
+      "name": "Dancing in the Dark",
+      "set_name": "Set 4",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 25,
+      "name": "(Your Love Keeps Lifting Me) Higher and Higher",
+      "set_name": "Set 4",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jackie Wilson",
+      "guest_artist": "Elvis Costello"
+    }
+  ],
+  "tour_name": "Working on a Dream"
+}

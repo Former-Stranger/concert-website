@@ -1,0 +1,202 @@
+{
+  "id": "445",
+  "show_number": 444,
+  "date": "2010-09-14",
+  "festival_name": null,
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Jackson Browne",
+      "role": "headliner"
+    },
+    {
+      "name": "David Lindley",
+      "role": "opener"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/jackson-browne/2010/beacon-theatre-new-york-ny-6bd5d646.html",
+  "song_count": 22,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Seminole Bingo",
+      "set_name": "Acoustic with David Lindley",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Warren Zevon"
+    },
+    {
+      "position": 2,
+      "name": "Brothers Under the Bridge",
+      "set_name": "Acoustic with David Lindley",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bruce Springsteen"
+    },
+    {
+      "position": 3,
+      "name": "For Everyman",
+      "set_name": "Acoustic with David Lindley",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Looking East",
+      "set_name": "Acoustic with David Lindley",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Soul of a Man",
+      "set_name": "Acoustic with David Lindley",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Blind Willie Johnson"
+    },
+    {
+      "position": 6,
+      "name": "More Than Eva Braun",
+      "set_name": "Acoustic with David Lindley",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Danny O\u2019Keefe"
+    },
+    {
+      "position": 7,
+      "name": "Off of Wonderland",
+      "set_name": "Band Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Giving That Heaven Away",
+      "set_name": "Band Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Just Say Yeah",
+      "set_name": "Band Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "In the Shape of a Heart",
+      "set_name": "Band Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "Your Bright Baby Blues",
+      "set_name": "Band Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "Fountain of Sorrow",
+      "set_name": "Band Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "The Pretender",
+      "set_name": "Band Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "For a Dancer",
+      "set_name": "Band Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Rock Me on the Water",
+      "set_name": "Band Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "My Problem Is You",
+      "set_name": "Band Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "Too Many Angels",
+      "set_name": "Band Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "Late for the Sky",
+      "set_name": "Band Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 19,
+      "name": "Doctor My Eyes",
+      "set_name": "Band Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "Running on Empty",
+      "set_name": "Band Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 21,
+      "name": "Mercury Boogie",
+      "set_name": "Encore",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "K.C. Douglas"
+    },
+    {
+      "position": 22,
+      "name": "I Am a Patriot",
+      "set_name": "Encore",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Little Steven"
+    }
+  ]
+}

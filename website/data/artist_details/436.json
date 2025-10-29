@@ -2,7 +2,48 @@
   "id": "436",
   "name": "Prince",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "The Question of U",
+      "times_played": 2
+    },
+    {
+      "name": "The One",
+      "times_played": 2
+    },
+    {
+      "name": "Rock and Roll Hall of Fame induction speech intro",
+      "times_played": 1
+    },
+    {
+      "name": "Musicology",
+      "times_played": 1
+    },
+    {
+      "name": "Let's Go Crazy",
+      "times_played": 1
+    },
+    {
+      "name": "I Would Die 4 U",
+      "times_played": 1
+    },
+    {
+      "name": "When Doves Cry",
+      "times_played": 1
+    },
+    {
+      "name": "Baby I'm a Star",
+      "times_played": 1
+    },
+    {
+      "name": "Shhh",
+      "times_played": 1
+    },
+    {
+      "name": "D.M.S.R.",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "462",

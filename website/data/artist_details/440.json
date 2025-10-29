@@ -2,7 +2,48 @@
   "id": "440",
   "name": "Queen + Adam Lambert",
   "concert_count": 3,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Another One Bites the Dust",
+      "times_played": 3
+    },
+    {
+      "name": "Fat Bottomed Girls",
+      "times_played": 3
+    },
+    {
+      "name": "I Want It All",
+      "times_played": 3
+    },
+    {
+      "name": "Killer Queen",
+      "times_played": 3
+    },
+    {
+      "name": "Somebody to Love",
+      "times_played": 3
+    },
+    {
+      "name": "Love of My Life",
+      "times_played": 3
+    },
+    {
+      "name": "'39",
+      "times_played": 3
+    },
+    {
+      "name": "Under Pressure",
+      "times_played": 3
+    },
+    {
+      "name": "Tie Your Mother Down",
+      "times_played": 3
+    },
+    {
+      "name": "Crazy Little Thing Called Love",
+      "times_played": 3
+    }
+  ],
   "concerts": [
     {
       "id": "1123",

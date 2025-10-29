@@ -1,0 +1,30 @@
+{
+  "id": "959",
+  "show_number": 958,
+  "date": "2019-11-09",
+  "festival_name": null,
+  "venue": "Terminal 5",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Dwight Yoakam",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/dwight-yoakam/2019/terminal-5-new-york-ny-1b9ab948.html",
+  "song_count": 1,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Suspicious Minds",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Mark James"
+    }
+  ]
+}

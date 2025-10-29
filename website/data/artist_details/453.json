@@ -2,7 +2,48 @@
   "id": "453",
   "name": "Revivalists",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "No Speak No Slave",
+      "times_played": 1
+    },
+    {
+      "name": "Rats and Clowns",
+      "times_played": 1
+    },
+    {
+      "name": "Twice as Hard",
+      "times_played": 1
+    },
+    {
+      "name": "My Morning Song",
+      "times_played": 1
+    },
+    {
+      "name": "Sometimes Salvation",
+      "times_played": 1
+    },
+    {
+      "name": "Wanting and Waiting",
+      "times_played": 1
+    },
+    {
+      "name": "White Light/White Heat",
+      "times_played": 1
+    },
+    {
+      "name": "Thorn in My Pride",
+      "times_played": 1
+    },
+    {
+      "name": "Hard to Handle",
+      "times_played": 1
+    },
+    {
+      "name": "She Talks to Angels",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1196",

@@ -2,7 +2,48 @@
   "id": "88",
   "name": "Bruce Springsteen",
   "concert_count": 35,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "The Rising",
+      "times_played": 23
+    },
+    {
+      "name": "The Promised Land",
+      "times_played": 21
+    },
+    {
+      "name": "Born to Run",
+      "times_played": 21
+    },
+    {
+      "name": "Dancing in the Dark",
+      "times_played": 20
+    },
+    {
+      "name": "Tenth Avenue Freeze-Out",
+      "times_played": 19
+    },
+    {
+      "name": "Land of Hope and Dreams",
+      "times_played": 18
+    },
+    {
+      "name": "Thunder Road",
+      "times_played": 15
+    },
+    {
+      "name": "My City of Ruins",
+      "times_played": 13
+    },
+    {
+      "name": "Born in the U.S.A.",
+      "times_played": 12
+    },
+    {
+      "name": "Wrecking Ball",
+      "times_played": 11
+    }
+  ],
   "concerts": [
     {
       "id": "1195",

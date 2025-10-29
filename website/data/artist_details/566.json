@@ -2,7 +2,48 @@
   "id": "566",
   "name": "The Beach Boys",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "California Girls",
+      "times_played": 1
+    },
+    {
+      "name": "Then I Kissed Her",
+      "times_played": 1
+    },
+    {
+      "name": "California Dreamin'",
+      "times_played": 1
+    },
+    {
+      "name": "Sloop John B",
+      "times_played": 1
+    },
+    {
+      "name": "When I Grow Up (to Be a Man)",
+      "times_played": 1
+    },
+    {
+      "name": "Why Do Fools Fall in Love",
+      "times_played": 1
+    },
+    {
+      "name": "Wouldn't It Be Nice",
+      "times_played": 1
+    },
+    {
+      "name": "Surfer Girl",
+      "times_played": 1
+    },
+    {
+      "name": "Don't Worry Baby",
+      "times_played": 1
+    },
+    {
+      "name": "Darlin'",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "346",

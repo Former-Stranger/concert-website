@@ -2,7 +2,48 @@
   "id": "135",
   "name": "Counting Crows",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Have You Seen Me Lately?",
+      "times_played": 1
+    },
+    {
+      "name": "Mrs. Potter's Lullaby",
+      "times_played": 1
+    },
+    {
+      "name": "Mr. Jones",
+      "times_played": 1
+    },
+    {
+      "name": "Goodnight Elisabeth",
+      "times_played": 1
+    },
+    {
+      "name": "Pale Blue Eyes",
+      "times_played": 1
+    },
+    {
+      "name": "Angels of the Silences",
+      "times_played": 1
+    },
+    {
+      "name": "Monkey",
+      "times_played": 1
+    },
+    {
+      "name": "A Murder of One",
+      "times_played": 1
+    },
+    {
+      "name": "A Long December",
+      "times_played": 1
+    },
+    {
+      "name": "Hanginaround",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "271",

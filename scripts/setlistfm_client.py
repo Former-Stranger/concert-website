@@ -34,8 +34,8 @@ class SetlistFMClient:
             'User-Agent': 'ConcertDatabase/1.0'
         })
 
-        # Rate limiting: max 2 requests per second (conservative)
-        self.min_request_interval = 0.6  # 0.6 seconds = ~1.67 req/sec (under 2/sec limit)
+        # Rate limiting: 4 seconds between requests (very conservative to avoid cumulative limits)
+        self.min_request_interval = 4.0  # 4 seconds = 0.25 req/sec (well under 2/sec limit)
         self.last_request_time = 0
 
     def _rate_limit(self):
@@ -77,8 +77,8 @@ class SetlistFMClient:
                 if retry_after:
                     wait_time = int(retry_after)
                 else:
-                    # Default to 5 seconds if no header (rate limit window is likely 1 second)
-                    wait_time = 5
+                    # Default to 1 second (rate limit is per second, so window resets quickly)
+                    wait_time = 1
 
                 print(f"Rate limit exceeded. Waiting {wait_time} seconds...")
                 time.sleep(wait_time)
@@ -185,41 +185,38 @@ class SetlistFMClient:
         """
         # Clean artist name - remove parenthetical notes like "(Final Franchise)" or "(75th Birthday)"
         # Also remove opener notation like "w/" or "w."
+        # Also remove common band suffixes for search
         clean_artist = artist_name.split('(')[0].strip()
         clean_artist = clean_artist.split(' w/')[0].strip()
         clean_artist = clean_artist.split(' w.')[0].strip()
 
+        # Remove band suffixes for cleaner search
+        band_suffixes = [
+            ' & the E Street Band',
+            ' & The E Street Band',
+            ' & the Silver Bullet Band',
+            ' & the 400 Unit',
+            ' and the E Street Band',
+            ' + the E Street Band',
+            ' + Joe Sumner',  # Handle "+ featured artist" patterns
+        ]
+
+        search_artist = clean_artist
+        for suffix in band_suffixes:
+            if suffix in search_artist:
+                search_artist = search_artist.replace(suffix, '').strip()
+                break
+
         # Format date as dd-MM-yyyy for API
         date_str = date.strftime('%d-%m-%Y')
 
-        # Try 1: Search with all details
-        if venue_name and city and state:
-            results = self.search_setlists(
-                artist_name=clean_artist,
-                venue_name=venue_name,
-                city_name=city,
-                state=state,
-                date=date_str
-            )
-            if results and 'setlist' in results and len(results['setlist']) > 0:
-                return results['setlist'][0]
-
-        # Try 2: Search without venue
-        if city and state:
-            results = self.search_setlists(
-                artist_name=clean_artist,
-                city_name=city,
-                state=state,
-                date=date_str
-            )
-            if results and 'setlist' in results and len(results['setlist']) > 0:
-                return results['setlist'][0]
-
-        # Try 3: Search with just artist and date (most lenient)
+        # Search with just artist and date (most reliable approach)
+        # Venue names change frequently due to sponsorships/rebranding
         results = self.search_setlists(
-            artist_name=clean_artist,
+            artist_name=search_artist,
             date=date_str
         )
+
         if results and 'setlist' in results and len(results['setlist']) > 0:
             return results['setlist'][0]
 

@@ -2,7 +2,20 @@
   "id": "217",
   "name": "Friends (Q)",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "All Lies Are Wrong",
+      "times_played": 1
+    },
+    {
+      "name": "One Step Ahead",
+      "times_played": 1
+    },
+    {
+      "name": "Not the Girl You Think You Are",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1245",

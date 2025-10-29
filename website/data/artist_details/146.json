@@ -2,7 +2,48 @@
   "id": "146",
   "name": "DEAD: Dead",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "The Music Never Stopped",
+      "times_played": 1
+    },
+    {
+      "name": "Liberty",
+      "times_played": 1
+    },
+    {
+      "name": "They Love Each Other",
+      "times_played": 1
+    },
+    {
+      "name": "Loser",
+      "times_played": 1
+    },
+    {
+      "name": "Alabama Getaway",
+      "times_played": 1
+    },
+    {
+      "name": "Iko Iko",
+      "times_played": 1
+    },
+    {
+      "name": "High Time",
+      "times_played": 1
+    },
+    {
+      "name": "Cassidy",
+      "times_played": 1
+    },
+    {
+      "name": "Jack Straw",
+      "times_played": 1
+    },
+    {
+      "name": "Scarlet Begonias",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1036",

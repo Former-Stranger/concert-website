@@ -2,7 +2,48 @@
   "id": "48",
   "name": "Billy Joel",
   "concert_count": 73,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "You May Be Right",
+      "times_played": 61
+    },
+    {
+      "name": "Allentown",
+      "times_played": 60
+    },
+    {
+      "name": "Movin' Out (Anthony's Song)",
+      "times_played": 60
+    },
+    {
+      "name": "The River of Dreams",
+      "times_played": 60
+    },
+    {
+      "name": "Scenes From an Italian Restaurant",
+      "times_played": 60
+    },
+    {
+      "name": "Piano Man",
+      "times_played": 60
+    },
+    {
+      "name": "It's Still Rock and Roll to Me",
+      "times_played": 60
+    },
+    {
+      "name": "New York State of Mind",
+      "times_played": 57
+    },
+    {
+      "name": "Only the Good Die Young",
+      "times_played": 55
+    },
+    {
+      "name": "My Life",
+      "times_played": 53
+    }
+  ],
   "concerts": [
     {
       "id": "1238",

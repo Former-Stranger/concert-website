@@ -2,7 +2,48 @@
   "id": "485",
   "name": "Roger Waters",
   "concert_count": 10,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "The Happiest Days of Our Lives",
+      "times_played": 8
+    },
+    {
+      "name": "Another Brick in the Wall, Part 2",
+      "times_played": 8
+    },
+    {
+      "name": "Comfortably Numb",
+      "times_played": 7
+    },
+    {
+      "name": "Money",
+      "times_played": 7
+    },
+    {
+      "name": "Us and Them",
+      "times_played": 7
+    },
+    {
+      "name": "Brain Damage",
+      "times_played": 6
+    },
+    {
+      "name": "Eclipse",
+      "times_played": 6
+    },
+    {
+      "name": "Wish You Were Here",
+      "times_played": 5
+    },
+    {
+      "name": "In the Flesh",
+      "times_played": 5
+    },
+    {
+      "name": "Another Brick in the Wall, Part 3",
+      "times_played": 4
+    }
+  ],
   "concerts": [
     {
       "id": "1053",

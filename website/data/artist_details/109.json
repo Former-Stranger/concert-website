@@ -2,7 +2,48 @@
   "id": "109",
   "name": "Carole King",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Blossom",
+      "times_played": 2
+    },
+    {
+      "name": "So Far Away",
+      "times_played": 2
+    },
+    {
+      "name": "Honey Don't Leave L. A.",
+      "times_played": 2
+    },
+    {
+      "name": "Carolina in My Mind",
+      "times_played": 2
+    },
+    {
+      "name": "Way Over Yonder",
+      "times_played": 2
+    },
+    {
+      "name": "Smackwater Jack",
+      "times_played": 2
+    },
+    {
+      "name": "Country Road",
+      "times_played": 2
+    },
+    {
+      "name": "Sweet Seasons",
+      "times_played": 2
+    },
+    {
+      "name": "Mexico",
+      "times_played": 2
+    },
+    {
+      "name": "Song of Long Ago",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "425",

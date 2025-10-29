@@ -2,7 +2,48 @@
   "id": "86",
   "name": "Brothers Osborne",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Shoot Me Straight",
+      "times_played": 1
+    },
+    {
+      "name": "Down Home",
+      "times_played": 1
+    },
+    {
+      "name": "Rum",
+      "times_played": 1
+    },
+    {
+      "name": "Greener Pastures",
+      "times_played": 1
+    },
+    {
+      "name": "21 Summer",
+      "times_played": 1
+    },
+    {
+      "name": "I Don't Remember Me (Before You)",
+      "times_played": 1
+    },
+    {
+      "name": "Drank Like Hank",
+      "times_played": 1
+    },
+    {
+      "name": "Stay a Little Longer",
+      "times_played": 1
+    },
+    {
+      "name": "It Ain't My Fault",
+      "times_played": 1
+    },
+    {
+      "name": "The Mountain",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "859",

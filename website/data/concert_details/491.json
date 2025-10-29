@@ -1,0 +1,214 @@
+{
+  "id": "491",
+  "show_number": 490,
+  "date": "2011-08-31",
+  "festival_name": null,
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Crosby, Stills and Nash",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/crosby-stills-and-nash/2011/beacon-theatre-new-york-ny-bdf41b2.html",
+  "song_count": 24,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Woodstock",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Joni Mitchell"
+    },
+    {
+      "position": 2,
+      "name": "Military Madness",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Graham Nash"
+    },
+    {
+      "position": 3,
+      "name": "Long Time Gone",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Bluebird",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Buffalo Springfield"
+    },
+    {
+      "position": 5,
+      "name": "Marrakesh Express",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Southern Cross",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "In Your Name",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Graham Nash"
+    },
+    {
+      "position": 8,
+      "name": "Barrel of Pain (Half-Life)",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Graham Nash"
+    },
+    {
+      "position": 9,
+      "name": "Long May You Run",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Stills\u2013Young Band"
+    },
+    {
+      "position": 10,
+      "name": "D\u00e9j\u00e0 Vu",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Crosby, Stills, Nash & Young"
+    },
+    {
+      "position": 11,
+      "name": "Wooden Ships",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "Helplessly Hoping",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Just a Song Before I Go",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Girl From the North Country",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Dylan"
+    },
+    {
+      "position": 15,
+      "name": "Ruby Tuesday",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Rolling Stones"
+    },
+    {
+      "position": 16,
+      "name": "Guinnevere",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "What Are Their Names",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "David Crosby"
+    },
+    {
+      "position": 18,
+      "name": "They Want It All",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Crosby & Nash"
+    },
+    {
+      "position": 19,
+      "name": "Cathedral",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "Our House",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Crosby, Stills, Nash & Young"
+    },
+    {
+      "position": 21,
+      "name": "Almost Cut My Hair",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "David Crosby"
+    },
+    {
+      "position": 22,
+      "name": "Love the One You're With",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Stephen Stills"
+    },
+    {
+      "position": 23,
+      "name": "For What It's Worth",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Buffalo Springfield"
+    },
+    {
+      "position": 24,
+      "name": "Teach Your Children",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Crosby, Stills, Nash & Young"
+    }
+  ]
+}

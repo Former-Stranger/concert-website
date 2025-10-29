@@ -2,7 +2,48 @@
   "id": "350",
   "name": "Little Steven (Peter Wolf)",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Communion",
+      "times_played": 1
+    },
+    {
+      "name": "Camouflage of Righteousness",
+      "times_played": 1
+    },
+    {
+      "name": "Party Mambo!",
+      "times_played": 1
+    },
+    {
+      "name": "Love Again",
+      "times_played": 1
+    },
+    {
+      "name": "Education",
+      "times_played": 1
+    },
+    {
+      "name": "On Sir Francis Drake",
+      "times_played": 1
+    },
+    {
+      "name": "I Visit the Blues",
+      "times_played": 1
+    },
+    {
+      "name": "Gravity",
+      "times_played": 1
+    },
+    {
+      "name": "Los Desaparecidos",
+      "times_played": 1
+    },
+    {
+      "name": "Little Girl So Fine",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "958",

@@ -2,7 +2,48 @@
   "id": "542",
   "name": "Steve Winwood",
   "concert_count": 5,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Can't Find My Way Home",
+      "times_played": 7
+    },
+    {
+      "name": "Dear Mr. Fantasy",
+      "times_played": 7
+    },
+    {
+      "name": "Glad",
+      "times_played": 6
+    },
+    {
+      "name": "Pearly Queen",
+      "times_played": 5
+    },
+    {
+      "name": "Had to Cry Today",
+      "times_played": 4
+    },
+    {
+      "name": "Low Down",
+      "times_played": 4
+    },
+    {
+      "name": "Forever Man",
+      "times_played": 4
+    },
+    {
+      "name": "Sleeping in the Ground",
+      "times_played": 4
+    },
+    {
+      "name": "Presence of the Lord",
+      "times_played": 4
+    },
+    {
+      "name": "Well.... All Right",
+      "times_played": 4
+    }
+  ],
   "concerts": [
     {
       "id": "1185",

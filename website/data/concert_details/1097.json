@@ -1,0 +1,166 @@
+{
+  "id": "1097",
+  "show_number": 1096,
+  "date": "2023-07-09",
+  "festival_name": null,
+  "venue": "Ridgefield Playhouse",
+  "city": "Ridgefield",
+  "state": "CT",
+  "artists": [
+    {
+      "name": "Ace Frehley",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/ace-frehley/2023/the-ridgefield-playhouse-ridgefield-ct-7ba736b8.html",
+  "song_count": 18,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Rip It Out",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Rocket Ride",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "KISS"
+    },
+    {
+      "position": 3,
+      "name": "Speedin' Back to My Baby",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Parasite",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "KISS"
+    },
+    {
+      "position": 5,
+      "name": "Rocket Ride",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "KISS"
+    },
+    {
+      "position": 6,
+      "name": "Rock Soldiers",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Frehley\u2019s Comet"
+    },
+    {
+      "position": 7,
+      "name": "Love Gun",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "KISS"
+    },
+    {
+      "position": 8,
+      "name": "Detroit Rock City",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "KISS"
+    },
+    {
+      "position": 9,
+      "name": "Calling Dr. Love",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "KISS"
+    },
+    {
+      "position": 10,
+      "name": "Hard Times",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "KISS"
+    },
+    {
+      "position": 11,
+      "name": "Snow Blind",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "New York Groove",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Russ Ballard"
+    },
+    {
+      "position": 13,
+      "name": "Let Me Go, Rock 'n' Roll",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "KISS"
+    },
+    {
+      "position": 14,
+      "name": "Shock Me",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "KISS"
+    },
+    {
+      "position": 15,
+      "name": "Ace Frehley Guitar Solo",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Cold Gin",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "KISS"
+    },
+    {
+      "position": 17,
+      "name": "Black Diamond",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "KISS"
+    },
+    {
+      "position": 18,
+      "name": "Deuce",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "KISS"
+    }
+  ]
+}

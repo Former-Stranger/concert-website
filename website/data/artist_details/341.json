@@ -2,7 +2,48 @@
   "id": "341",
   "name": "Leon Russell",
   "concert_count": 3,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Funeral for a Friend/Love Lies Bleeding",
+      "times_played": 2
+    },
+    {
+      "name": "Saturday Night's Alright for Fighting",
+      "times_played": 2
+    },
+    {
+      "name": "Levon",
+      "times_played": 2
+    },
+    {
+      "name": "Madman Across the Water",
+      "times_played": 2
+    },
+    {
+      "name": "Tiny Dancer",
+      "times_played": 2
+    },
+    {
+      "name": "Philadelphia Freedom",
+      "times_played": 2
+    },
+    {
+      "name": "Goodbye Yellow Brick Road",
+      "times_played": 2
+    },
+    {
+      "name": "I Guess That's Why They Call It the Blues",
+      "times_played": 2
+    },
+    {
+      "name": "Rocket Man (I Think It's Going to Be a Long, Long Time)",
+      "times_played": 2
+    },
+    {
+      "name": "If It Wasn't for Bad",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "470",

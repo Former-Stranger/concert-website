@@ -2,7 +2,48 @@
   "id": "630",
   "name": "Warren Haynes Band",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Man in Motion",
+      "times_played": 1
+    },
+    {
+      "name": "River's Gonna Rise",
+      "times_played": 1
+    },
+    {
+      "name": "Sick of My Shadow",
+      "times_played": 1
+    },
+    {
+      "name": "Invisible",
+      "times_played": 1
+    },
+    {
+      "name": "Your Wildest Dreams",
+      "times_played": 1
+    },
+    {
+      "name": "A Friend to You",
+      "times_played": 1
+    },
+    {
+      "name": "Fire in the Kitchen",
+      "times_played": 1
+    },
+    {
+      "name": "On a Real Lonely Night",
+      "times_played": 1
+    },
+    {
+      "name": "Born Under a Bad Sign",
+      "times_played": 1
+    },
+    {
+      "name": "You Don't Miss Your Water",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "477",

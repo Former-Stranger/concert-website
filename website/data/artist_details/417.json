@@ -2,7 +2,48 @@
   "id": "417",
   "name": "Paul McCartney",
   "concert_count": 15,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Lady Madonna",
+      "times_played": 10
+    },
+    {
+      "name": "Yesterday",
+      "times_played": 8
+    },
+    {
+      "name": "Let Me Roll It",
+      "times_played": 7
+    },
+    {
+      "name": "Blackbird",
+      "times_played": 7
+    },
+    {
+      "name": "Live and Let Die",
+      "times_played": 7
+    },
+    {
+      "name": "Get Back",
+      "times_played": 7
+    },
+    {
+      "name": "Helter Skelter",
+      "times_played": 7
+    },
+    {
+      "name": "Midnight Special",
+      "times_played": 6
+    },
+    {
+      "name": "Drive My Car",
+      "times_played": 6
+    },
+    {
+      "name": "Eleanor Rigby",
+      "times_played": 6
+    }
+  ],
   "concerts": [
     {
       "id": "1028",

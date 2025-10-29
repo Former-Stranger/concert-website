@@ -2,7 +2,48 @@
   "id": "632",
   "name": "Weird Al",
   "concert_count": 5,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Drum Solo",
+      "times_played": 6
+    },
+    {
+      "name": "Dare to Be Stupid",
+      "times_played": 5
+    },
+    {
+      "name": "One More Minute",
+      "times_played": 3
+    },
+    {
+      "name": "Lame Claim to Fame",
+      "times_played": 3
+    },
+    {
+      "name": "Craigslist",
+      "times_played": 3
+    },
+    {
+      "name": "Good Old Days",
+      "times_played": 3
+    },
+    {
+      "name": "Skipper Dan",
+      "times_played": 3
+    },
+    {
+      "name": "Smells Like Nirvana",
+      "times_played": 3
+    },
+    {
+      "name": "Fat",
+      "times_played": 3
+    },
+    {
+      "name": "White & Nerdy",
+      "times_played": 3
+    }
+  ],
   "concerts": [
     {
       "id": "1266",

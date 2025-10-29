@@ -2,7 +2,48 @@
   "id": "143",
   "name": "Crosby, Stills",
   "concert_count": 3,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Carry On",
+      "times_played": 2
+    },
+    {
+      "name": "Marrakesh Express",
+      "times_played": 2
+    },
+    {
+      "name": "Long Time Gone",
+      "times_played": 2
+    },
+    {
+      "name": "Jesus of Rio",
+      "times_played": 2
+    },
+    {
+      "name": "Feed the People",
+      "times_played": 2
+    },
+    {
+      "name": "Cathedral",
+      "times_played": 2
+    },
+    {
+      "name": "Don't Dig Here",
+      "times_played": 2
+    },
+    {
+      "name": "Delta",
+      "times_played": 2
+    },
+    {
+      "name": "Military Madness",
+      "times_played": 2
+    },
+    {
+      "name": "Ole Man Trouble",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "236",

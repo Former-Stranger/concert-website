@@ -1,0 +1,385 @@
+{
+  "id": "1241",
+  "show_number": 1240,
+  "date": "2025-03-06",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Prudential Center",
+  "city": "Newark",
+  "state": "NJ",
+  "artists": [
+    {
+      "name": "Blake Shelton (Trace Adkins",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Craig Morgan",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Deana Carter",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Emily Ann Roberts)",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "55",
+      "artist_name": "Blake Shelton (Trace Adkins",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/blake-shelton/2025/prudential-center-newark-nj-5b5a3fc0.html",
+      "song_count": 34,
+      "has_encore": true,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Pour Me a Drink",
+          "set_name": "Blake Shelton",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Post Malone"
+        },
+        {
+          "position": 2,
+          "name": "I'll Name the Dogs",
+          "set_name": "Blake Shelton",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Sangria",
+          "set_name": "Blake Shelton",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "All About Tonight",
+          "set_name": "Blake Shelton",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Neon Light",
+          "set_name": "Blake Shelton",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Redneck Yacht Club",
+          "set_name": "Craig Morgan",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Craig Morgan"
+        },
+        {
+          "position": 7,
+          "name": "That's What I Love About Sunday",
+          "set_name": "Craig Morgan",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Craig Morgan"
+        },
+        {
+          "position": 8,
+          "name": "International Harvester",
+          "set_name": "Craig Morgan",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Craig Morgan"
+        },
+        {
+          "position": 9,
+          "name": "A Guy With a Girl",
+          "set_name": "Blake Shelton",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "Nobody But You",
+          "set_name": "Blake Shelton",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "Happy Anywhere",
+          "set_name": "Blake Shelton",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Blake Shelton featuring Gwen Stefani"
+        },
+        {
+          "position": 12,
+          "name": "Honey Bee",
+          "set_name": "Blake Shelton",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 13,
+          "name": "We Danced Anyway",
+          "set_name": "Deana Carter",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Deana Carter"
+        },
+        {
+          "position": 14,
+          "name": "How Do I Get There",
+          "set_name": "Deana Carter",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Deana Carter"
+        },
+        {
+          "position": 15,
+          "name": "Strawberry Wine",
+          "set_name": "Deana Carter",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Deana Carter"
+        },
+        {
+          "position": 16,
+          "name": "Some Beach",
+          "set_name": "Blake Shelton",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 17,
+          "name": "Home",
+          "set_name": "Blake Shelton",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Michael Bubl\u00e9"
+        },
+        {
+          "position": 18,
+          "name": "Ol' Red",
+          "set_name": "Blake Shelton",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "George Jones"
+        },
+        {
+          "position": 19,
+          "name": "Austin",
+          "set_name": "Blake Shelton",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 20,
+          "name": "Texas",
+          "set_name": "Blake Shelton",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 21,
+          "name": "Honky Tonk Badonkadonk",
+          "set_name": "Trace Adkins",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Trace Adkins"
+        },
+        {
+          "position": 22,
+          "name": "You're Gonna Miss This",
+          "set_name": "Trace Adkins",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Trace Adkins"
+        },
+        {
+          "position": 23,
+          "name": "Ladies Love Country Boys",
+          "set_name": "Trace Adkins",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Trace Adkins"
+        },
+        {
+          "position": 24,
+          "name": "Hell Right",
+          "set_name": "Blake Shelton",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Trace Adkins"
+        },
+        {
+          "position": 25,
+          "name": "Hillbilly Bone",
+          "set_name": "Blake Shelton",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Trace Adkins"
+        },
+        {
+          "position": 26,
+          "name": "Who Are You When I'm Not Looking",
+          "set_name": "Acoustic - Blake Shelton, Trace Adkins, Deana Carter, Craig Morgan",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Joe Nichols"
+        },
+        {
+          "position": 27,
+          "name": "Every Light in the House",
+          "set_name": "Acoustic - Blake Shelton, Trace Adkins, Deana Carter, Craig Morgan",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Trace Adkins"
+        },
+        {
+          "position": 28,
+          "name": "Almost Home",
+          "set_name": "Acoustic - Blake Shelton, Trace Adkins, Deana Carter, Craig Morgan",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Craig Morgan"
+        },
+        {
+          "position": 29,
+          "name": "You and Tequila",
+          "set_name": "Acoustic - Blake Shelton, Trace Adkins, Deana Carter, Craig Morgan",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Deana Carter"
+        },
+        {
+          "position": 30,
+          "name": "All My Ex's Live in Texas",
+          "set_name": "Blake Shelton",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "George Strait"
+        },
+        {
+          "position": 31,
+          "name": "Mountain Music",
+          "set_name": "Blake Shelton",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Alabama"
+        },
+        {
+          "position": 32,
+          "name": "God's Country",
+          "set_name": "Blake Shelton",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 33,
+          "name": "Boys 'Round Here",
+          "set_name": "Blake Shelton",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 34,
+          "name": "God Gave Me You",
+          "set_name": "Encore",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Dave Barnes"
+        }
+      ],
+      "tour_name": "Friends & Heroes 2025"
+    },
+    {
+      "artist_id": "193",
+      "artist_name": "Emily Ann Roberts)",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/emily-ann-roberts/2025/prudential-center-newark-nj-335bc4d9.html",
+      "song_count": 7,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "He Set Her Off",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Chickens",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "9 to 5",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Dolly Parton"
+        },
+        {
+          "position": 4,
+          "name": "Find Me a Man",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Easy Does It",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "The Building",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Whole Lotta Little",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ]
+    }
+  ],
+  "total_song_count": 41,
+  "has_encore": true,
+  "tour_name": "Friends & Heroes 2025"
+}

@@ -2,7 +2,48 @@
   "id": "47",
   "name": "Billy Idol",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Dancing With Myself",
+      "times_played": 1
+    },
+    {
+      "name": "Flesh for Fantasy",
+      "times_played": 1
+    },
+    {
+      "name": "Rita Hayworth",
+      "times_played": 1
+    },
+    {
+      "name": "Bitter Taste",
+      "times_played": 1
+    },
+    {
+      "name": "Eyes Without a Face",
+      "times_played": 1
+    },
+    {
+      "name": "Mony Mony",
+      "times_played": 1
+    },
+    {
+      "name": "Blue Highway",
+      "times_played": 1
+    },
+    {
+      "name": "Top Gun Anthem",
+      "times_played": 1
+    },
+    {
+      "name": "Rebel Yell",
+      "times_played": 1
+    },
+    {
+      "name": "White Wedding",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "989",

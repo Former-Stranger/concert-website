@@ -1,0 +1,238 @@
+{
+  "id": "1015",
+  "show_number": 1014,
+  "date": "2022-04-03",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Radio City Music Hall",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Bob Weir",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Wolf Brothers",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/bob-weir-and-wolf-bros/2022/radio-city-music-hall-new-york-ny-1bb6b144.html",
+  "song_count": 25,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "She Knows What I'm Thinkin'",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Weir"
+    },
+    {
+      "position": 2,
+      "name": "Fever",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Eddie Cooley"
+    },
+    {
+      "position": 3,
+      "name": "Jack Straw",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 4,
+      "name": "Greatest Story Ever Told",
+      "set_name": "\"Ace\"",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Weir",
+      "guest_artist": "Tyler Childers"
+    },
+    {
+      "position": 5,
+      "name": "Black-Throated Wind",
+      "set_name": "\"Ace\"",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Weir"
+    },
+    {
+      "position": 6,
+      "name": "Walk in the Sunshine",
+      "set_name": "\"Ace\"",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Weir",
+      "guest_artist": "Brittney Spencer"
+    },
+    {
+      "position": 7,
+      "name": "Playing in the Band",
+      "set_name": "\"Ace\"",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 8,
+      "name": "Looks Like Rain",
+      "set_name": "\"Ace\"",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Weir",
+      "guest_artist": "Brittney Spencer"
+    },
+    {
+      "position": 9,
+      "name": "Mexicali Blues",
+      "set_name": "\"Ace\"",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Weir"
+    },
+    {
+      "position": 10,
+      "name": "One More Saturday Night",
+      "set_name": "\"Ace\"",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Weir"
+    },
+    {
+      "position": 11,
+      "name": "Cassidy",
+      "set_name": "\"Ace\"",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Weir"
+    },
+    {
+      "position": 12,
+      "name": "Mama Tried",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Merle Haggard",
+      "guest_artist": "Tyler Childers"
+    },
+    {
+      "position": 13,
+      "name": "Turn On Your Love Light",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bobby \u201cBlue\u201d Bland"
+    },
+    {
+      "position": 14,
+      "name": "Lady With a Fan",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 15,
+      "name": "Terrapin Station",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 16,
+      "name": "Terrapin Transit",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 17,
+      "name": "At a Siding",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 18,
+      "name": "Terrapin Flyer",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 19,
+      "name": "Samson and Delilah",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]",
+      "guest_artist": "Brittney Spencer"
+    },
+    {
+      "position": 20,
+      "name": "Sugar Magnolia",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead",
+      "guest_artist": "John Mayer"
+    },
+    {
+      "position": 21,
+      "name": "Scarlet Begonias",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead",
+      "guest_artist": "John Mayer"
+    },
+    {
+      "position": 22,
+      "name": "The Other One",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead",
+      "guest_artist": "John Mayer"
+    },
+    {
+      "position": 23,
+      "name": "Morning Dew",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bonnie Dobson",
+      "guest_artist": "John Mayer"
+    },
+    {
+      "position": 24,
+      "name": "Sunshine Daydream",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead",
+      "guest_artist": "John Mayer"
+    },
+    {
+      "position": 25,
+      "name": "Not Fade Away",
+      "set_name": "Set 4",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Crickets",
+      "guest_artist": "John Mayer"
+    }
+  ],
+  "tour_name": "Spring Tour 2022"
+}

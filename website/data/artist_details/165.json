@@ -2,7 +2,48 @@
   "id": "165",
   "name": "Def Leppard",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Won't Get Fooled Again",
+      "times_played": 1
+    },
+    {
+      "name": "Let It Go",
+      "times_played": 1
+    },
+    {
+      "name": "Animal",
+      "times_played": 1
+    },
+    {
+      "name": "Foolin'",
+      "times_played": 1
+    },
+    {
+      "name": "Love Bites",
+      "times_played": 1
+    },
+    {
+      "name": "Let's Get Rocked",
+      "times_played": 1
+    },
+    {
+      "name": "Two Steps Behind",
+      "times_played": 1
+    },
+    {
+      "name": "Bringin' On the Heartbreak",
+      "times_played": 1
+    },
+    {
+      "name": "Switch 625",
+      "times_played": 1
+    },
+    {
+      "name": "Hysteria",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "590",

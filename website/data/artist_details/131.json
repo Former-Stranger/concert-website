@@ -2,7 +2,48 @@
   "id": "131",
   "name": "Dead and Company",
   "concert_count": 20,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Drums",
+      "times_played": 3
+    },
+    {
+      "name": "Space",
+      "times_played": 3
+    },
+    {
+      "name": "Jack Straw",
+      "times_played": 2
+    },
+    {
+      "name": "Scarlet Begonias",
+      "times_played": 2
+    },
+    {
+      "name": "Viola Lee Blues",
+      "times_played": 2
+    },
+    {
+      "name": "The Other One",
+      "times_played": 2
+    },
+    {
+      "name": "Sugar Magnolia",
+      "times_played": 2
+    },
+    {
+      "name": "The Music Never Stopped",
+      "times_played": 1
+    },
+    {
+      "name": "Liberty",
+      "times_played": 1
+    },
+    {
+      "name": "They Love Each Other",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1173",
