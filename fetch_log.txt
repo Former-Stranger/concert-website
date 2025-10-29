@@ -1,0 +1,1172 @@
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1761769208.844691 5930792 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/google/cloud/firestore_v1/base_collection.py:304: UserWarning: Detected filter using positional arguments. Prefer using the 'filter' keyword argument instead.
+  return query.where(field_path, op_string, value)
+================================================================================
+ENHANCED SETLIST FETCHER - WITH CO-HEADLINER SUPPORT
+================================================================================
+
+📊 Loading concerts...
+   Found 300 concerts
+   300 concerts need setlists
+   Estimated time: 3.0 minutes
+
+🔍 Starting setlist fetch...
+
+🎤 [1/300] Concert 1276: Third Eye Blind
+      2025-10-10 at Highlands Concert Series
+      ✅ Found 2 setlists: Third Eye Blind (15), Dinosaur Jr. (13)
+🎤 [2/300] Concert 1275: 
+      2025-08-10 at Jones Beach Theater
+      ✅ Found 2 setlists: The Doobie Brothers (19), Coral Reefer Band (16)
+🎤 [3/300] Concert 1274: 
+      2025-08-09 at Forest Hills Stadium
+      ✅ Found: Mumford & Sons (22 songs)
+🎤 [4/300] Concert 1273: Avett Brothers
+      2025-08-08 at Capitol Theatre
+      ✅ Found: Avett Brothers (25 songs)
+🎤 [5/300] Concert 1272: Avett Brothers
+      2025-08-03 at Tilles Center
+      ✅ Found: Avett Brothers (24 songs)
+🎤 [6/300] Concert 1271: 
+      2025-08-02 at Caramoor Center for Music and the Arts
+      ✅ Found 2 setlists: Lyle Lovett (22), His Large Band (22)
+🎤 [7/300] Concert 1270: 
+      2025-08-01 at Jones Beach Theater
+      ✅ Found 2 setlists: Bob Dylan (17), Willie Nelson (22)
+🎤 [8/300] Concert 1269: Chris Stapleton
+      2025-07-25 at Madison Square Garden
+      ✅ Found: Chris Stapleton (27 songs)
+🎤 [9/300] Concert 1268: Zach Bryan
+      2025-07-19 at MetLife Stadium
+      ✅ Found: Zach Bryan (25 songs)
+      🔍 Detected opener: The Front Bottoms (50% confidence, 8 songs)
+🎤 [10/300] Concert 1267: Brad Paisley
+      2025-07-18 at Bridgeport
+      ✅ Found: Brad Paisley (22 songs)
+      🔍 Detected opener: Walker Hayes (100% confidence, 10 songs)
+      🔍 Detected opener: Alexandra Kay (100% confidence, 6 songs)
+
+📈 Progress: 10/300 (3%)
+   Success: 10 | Not found: 0 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 14
+
+🎤 [11/300] Concert 1266: Weird Al
+      2025-07-12 at Madison Square Garden
+      ✅ Found: Weird Al (27 songs)
+      🔍 Detected opener: Puddles Pity Party (50% confidence, 11 songs)
+🎤 [12/300] Concert 1265: Vince Gill
+      2025-07-11 at Beacon Theatre
+      ✅ Found: Vince Gill (33 songs)
+🎤 [13/300] Concert 1264: Benmont Tench
+      2025-06-25 at City Winery
+      ✅ Found: Benmont Tench (19 songs)
+🎤 [14/300] Concert 1263: 
+      2025-06-21 at Saratoga Performing Arts Center
+      ✅ Found: Mumford & Sons (23 songs)
+🎤 [15/300] Concert 1262: Chris Stapleton
+      2025-06-20 at MVP Arena
+      ✅ Found: Chris Stapleton (26 songs)
+🎤 [16/300] Concert 1261: Paul Simon
+      2025-06-18 at Beacon Theatre
+      ✅ Found: Paul Simon (23 songs)
+🎤 [17/300] Concert 1260: Keith Urban
+      2025-06-14 at Jones Beach Theater
+      ✅ Found: Keith Urban (20 songs)
+🎤 [18/300] Concert 1259: Ringo Starr
+      2025-06-13 at Radio City Music Hall
+      ✅ Found: Ringo Starr (21 songs)
+🎤 [19/300] Concert 1258: The Doobie Brothers
+      2025-06-06 at Irving Plaza
+      ✅ Found: The Doobie Brothers (19 songs)
+🎤 [20/300] Concert 1257: 
+      2025-06-04 at Citi Field
+      ✅ Found 2 setlists: Post Malone (26), Jelly Roll (12)
+
+📈 Progress: 20/300 (6%)
+   Success: 20 | Not found: 0 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 25
+
+🎤 [21/300] Concert 1256: Luke Bryan
+      2025-05-31 at Jones Beach Theater
+      ✅ Found: Luke Bryan (26 songs)
+      🔍 Detected opener: Avery Anna (50% confidence, 7 songs)
+      🔍 Detected opener: George Birge (50% confidence, 0 songs)
+🎤 [22/300] Concert 1255: Blues Traveler
+      2025-05-29 at Capitol Theatre
+      ✅ Found: Blues Traveler (16 songs)
+      🔍 Detected opener: Common People (50% confidence, 0 songs)
+      🔍 Detected opener: Les Hay Babies (50% confidence, 0 songs)
+🎤 [23/300] Concert 1254: John Fogerty
+      2025-05-28 at Beacon Theatre
+      ✅ Found: John Fogerty (22 songs)
+🎤 [24/300] Concert 1253: Dave Matthews Band
+      2025-05-24 at Bethel Woods
+      ✅ Found: Dave Matthews Band (20 songs)
+🎤 [25/300] Concert 1252: 
+      2025-05-20 at Beacon Theatre
+      ✅ Found 2 setlists: Tedeschi Trucks Band (16), Buddy Guy (13)
+🎤 [26/300] Concert 1251: Roger McGuinn
+      2025-05-09 at Tarrytown Music Hall
+      ❌ No setlists found for 1 artist(s)
+🎤 [27/300] Concert 1250: Little Feat
+      2025-05-08 at Capitol Theatre
+      ✅ Found: Little Feat (20 songs)
+🎤 [28/300] Concert 1249: Avett Brothers
+      2025-05-03 at Capitol Theatre
+      ✅ Found: Avett Brothers (26 songs)
+      🔍 Detected opener: ERRA (50% confidence, 9 songs)
+      🔍 Detected opener: Kingdom of Giants (50% confidence, 7 songs)
+      🔍 Detected opener: Acres (50% confidence, 6 songs)
+🎤 [29/300] Concert 1248: Avett Brothers
+      2025-05-02 at Capitol Theatre
+      ✅ Found: Avett Brothers (26 songs)
+      🔍 Detected opener: SIIN (50% confidence, 0 songs)
+🎤 [30/300] Concert 1247: The Brothers
+      2025-04-15 at Madison Square Garden
+      ✅ Found: The Brothers (12 songs)
+
+📈 Progress: 30/300 (10%)
+   Success: 29 | Not found: 1 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 35
+
+🎤 [31/300] Concert 1246: Peter Frampton
+      2025-04-01 at Capitol Theatre
+      ✅ Found: Peter Frampton (18 songs)
+🎤 [32/300] Concert 1245: 
+      2025-03-17 at Capitol Theatre
+      ✅ Found: Friends (Q) (3 songs)
+🎤 [33/300] Concert 1244: The Lone Bellow
+      2025-03-16 at Ridgefield Playhouse
+      ✅ Found: The Lone Bellow (16 songs)
+🎤 [34/300] Concert 1243: 
+      2025-03-15 at Capitol Theatre
+      ✅ Found: Friends (17 songs)
+🎤 [35/300] Concert 1242: Wilder Woods
+      2025-03-11 at Bowery
+      ✅ Found: Wilder Woods (17 songs)
+      🔍 Detected opener: Haffway (50% confidence, 7 songs)
+🎤 [36/300] Concert 1241: 
+      2025-03-06 at Prudential Center
+      ✅ Found 2 setlists: Blake Shelton (Trace Adkins (34), Emily Ann Roberts) (7)
+🎤 [37/300] Concert 1240: 
+      2025-03-03 at Ridgefield Playhouse
+      ❌ No setlists found for 2 artist(s)
+🎤 [38/300] Concert 1239: Joe Bonamassa
+      2025-02-27 at Beacon Theatre
+      ✅ Found: Joe Bonamassa (15 songs)
+      🔍 Detected opener: Bournemouth Symphony Orchestra (50% confidence, 0 songs)
+🎤 [39/300] Concert 1238: Billy Joel
+      2025-02-22 at Mohegan Sun Arena
+      ✅ Found: Billy Joel (26 songs)
+🎤 [40/300] Concert 1237: Jason Isbell
+      2025-02-20 at Capitol Theatre
+      ✅ Found: Jason Isbell (18 songs)
+      🔍 Detected opener: The Band Loula (50% confidence, 0 songs)
+
+📈 Progress: 40/300 (13%)
+   Success: 38 | Not found: 2 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 45
+
+🎤 [41/300] Concert 1236: SNL Concert
+      2025-02-14 at Radio City Music Hall
+      ❌ No setlists found for 1 artist(s)
+🎤 [42/300] Concert 1235: Jack White
+      2025-02-11 at Kings Theatre
+      ✅ Found: Jack White (22 songs)
+      🔍 Detected opener: Gustaf (50% confidence, 0 songs)
+🎤 [43/300] Concert 1234: Billy Gibbons
+      2025-02-10 at Bardavon Opera House
+      ✅ Found: Billy Gibbons (16 songs)
+🎤 [44/300] Concert 1233: Bruce Springsteen:  Light of Day
+      2025-01-18 at Count Basie Center for the Arts
+      ❌ No setlists found for 1 artist(s)
+🎤 [45/300] Concert 1232: Joe Russo's Almost Dead
+      2025-01-17 at Capitol Theatre
+      ✅ Found: Joe Russo's Almost Dead (13 songs)
+      🔍 Detected opener: Invincible A Glorious Tribute To Michael Jackson (50% confidence, 0 songs)
+      🔍 Detected opener: Marty Stuart and His Fabulous Superlatives (50% confidence, 0 songs)
+      🔍 Detected opener: Keb’ Mo’ (50% confidence, 0 songs)
+🎤 [46/300] Concert 1231: Marcus King Trio (MonoNeon, Chris Dave)
+      2025-01-16 at Blue Note Jazz Club
+      ❌ No setlists found for 1 artist(s)
+🎤 [47/300] Concert 1230: Billy Joel
+      2024-12-31 at UBS Arena
+      ✅ Found: Billy Joel (29 songs)
+      🔍 Detected opener: Jason Bonham’s Led Zeppelin Evening (100% confidence, 9 songs)
+🎤 [48/300] Concert 1229: Govt Mule
+      2024-12-30 at Beacon Theatre
+      ✅ Found: Govt Mule (17 songs)
+🎤 [49/300] Concert 1228: Phish
+      2024-12-28 at Madison Square Garden
+      ✅ Found: Phish (23 songs)
+🎤 [50/300] Concert 1227: Black Crowes
+      2024-12-22 at Capitol Theatre
+      ✅ Found: Black Crowes (20 songs)
+      🔍 Detected opener: George Porter Jr. & Runnin' Pardners (50% confidence, 7 songs)
+      🔍 Detected opener: The Celtic Angels (50% confidence, 0 songs)
+
+📈 Progress: 50/300 (16%)
+   Success: 45 | Not found: 5 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 52
+
+🎤 [51/300] Concert 1226: Zach Bryan
+      2024-12-19 at Barclays Center
+      ✅ Found: Zach Bryan (28 songs)
+      🔍 Detected opener: Matt Maeson (50% confidence, 0 songs)
+🎤 [52/300] Concert 1225: Kip Moore
+      2024-12-12 at Webster Hall
+      ✅ Found: Kip Moore (26 songs)
+      🔍 Detected opener: Hannah McFarland (50% confidence, 6 songs)
+🎤 [53/300] Concert 1224: Jesse Malin Benefit
+      2024-12-01 at Beacon Theatre
+      ❌ No setlists found for 1 artist(s)
+🎤 [54/300] Concert 1223: Creed
+      2024-11-29 at Madison Square Garden
+      ✅ Found: Creed (16 songs)
+🎤 [55/300] Concert 1222: 
+      2024-11-27 at Tarrytown Music Hall
+      ❌ No setlists found for 3 artist(s)
+🎤 [56/300] Concert 1221: Empire of the Sun
+      2024-11-26 at Kings Theatre
+      ✅ Found: Empire of the Sun (18 songs)
+🎤 [57/300] Concert 1220: Dave Matthews Band
+      2024-11-24 at Madison Square Garden
+      ✅ Found: Dave Matthews Band (12 songs)
+      🔍 Detected opener: Warren Haynes Band (95% confidence, 5 songs)
+      🔍 Detected opener: Dave Matthews (50% confidence, 3 songs)
+      🔍 Detected opener: Susan Tedeschi (50% confidence, 1 songs)
+      🔍 Detected opener: Warren Haynes (100% confidence, 1 songs)
+      🔍 Detected opener: Susan Tedeschi & Derek Trucks (50% confidence, 1 songs)
+🎤 [58/300] Concert 1219: Dave Matthews Band
+      2024-11-22 at Madison Square Garden
+      ✅ Found: Dave Matthews Band (20 songs)
+🎤 [59/300] Concert 1218: Mac McAnally
+      2024-11-18 at Sony Hall
+      ✅ Found: Mac McAnally (21 songs)
+🎤 [60/300] Concert 1217: 
+      2024-11-16 at Play Group Theatre
+      ❌ No setlists found for 1 artist(s)
+
+📈 Progress: 60/300 (20%)
+   Success: 52 | Not found: 8 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 59
+
+🎤 [61/300] Concert 1216: The Wallflowers
+      2024-11-12 at Capitol Theatre
+      ✅ Found: The Wallflowers (18 songs)
+🎤 [62/300] Concert 1215: Stand Up for Heroes:  Bruce Springsteen, Norah Jones
+      2024-11-11 at Lincoln Center
+      ❌ No setlists found for 1 artist(s)
+🎤 [63/300] Concert 1214: The Last Waltz
+      2024-11-08 at Capitol Theatre
+      ❌ No setlists found for 1 artist(s)
+🎤 [64/300] Concert 1213: David Gilmour
+      2024-11-05 at Madison Square Garden
+      ✅ Found: David Gilmour (25 songs)
+🎤 [65/300] Concert 1212: David Gilmour
+      2024-11-04 at Madison Square Garden
+      ✅ Found: David Gilmour (25 songs)
+🎤 [66/300] Concert 1211: Keith Urban
+      2024-10-30 at Today Show Plaza at Rockefeller Center
+      ❌ No setlists found for 1 artist(s)
+🎤 [67/300] Concert 1210: Stella Blue's Band (acoustic)
+      2024-10-26 at Garcia's at The Capitol Theatre
+      ✅ Found: Stella Blue's Band (acoustic) (10 songs)
+🎤 [68/300] Concert 1209: Will Hoge
+      2024-10-24 at Wonder Bar
+      ❌ No setlists found for 1 artist(s)
+🎤 [69/300] Concert 1208: Will Hoge
+      2024-10-23 at Le Poisson Rouge
+      ❌ No setlists found for 1 artist(s)
+🎤 [70/300] Concert 1207: Sturgill Simpson
+      2024-10-19 at Forest Hills Stadium
+      ✅ Found: Sturgill Simpson (33 songs)
+      🔍 Detected opener: Durand Jones (50% confidence, 2 songs)
+
+📈 Progress: 70/300 (23%)
+   Success: 57 | Not found: 13 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 64
+
+🎤 [71/300] Concert 1206: The Lone Bellow
+      2024-10-17 at Tarrytown Music Hall
+      ❌ No setlists found for 1 artist(s)
+🎤 [72/300] Concert 1205: Richard Thompson (Band)
+      2024-10-16 at Tarrytown Music Hall
+      ✅ Found: Richard Thompson (Band) (17 songs)
+🎤 [73/300] Concert 1204: Sting
+      2024-10-13 at Capitol Theatre
+      ✅ Found: Sting (23 songs)
+      🔍 Detected opener: Johnny Manchild and the Poor Bastards (50% confidence, 11 songs)
+      🔍 Detected opener: Bullpup (50% confidence, 2 songs)
+      🔍 Detected opener: Samara Joy (50% confidence, 0 songs)
+🎤 [74/300] Concert 1203: Tedeschi Trucks Band
+      2024-10-08 at Capitol Theatre
+      ✅ Found: Tedeschi Trucks Band (20 songs)
+🎤 [75/300] Concert 1202: Kings of Leon
+      2024-10-05 at Hartford HealthCare Amphitheater
+      ✅ Found: Kings of Leon (26 songs)
+      🔍 Detected opener: Phantogram (50% confidence, 11 songs)
+🎤 [76/300] Concert 1201: The Doobie Brothers
+      2024-09-30 at Capitol Theatre
+      ✅ Found: The Doobie Brothers (25 songs)
+🎤 [77/300] Concert 1200: Jelly Roll
+      2024-09-27 at Madison Square Garden
+      ✅ Found: Jelly Roll (20 songs)
+      🔍 Detected opener: Warren Zeiders (50% confidence, 9 songs)
+      🔍 Detected opener: Alexandra Kay (100% confidence, 8 songs)
+🎤 [78/300] Concert 1199: 
+      2024-09-21 at Saratoga Performing Arts Center
+      ✅ Found 3 setlists: Young (8), Dave & Tim (6), Mellencamp (8)
+🎤 [79/300] Concert 1198: ELO
+      2024-09-16 at Madison Square Garden
+      ✅ Found: ELO (20 songs)
+🎤 [80/300] Concert 1197: 
+      2024-09-15 at Asbury Park Beach
+      ✅ Found: Kool & Gang (9 songs)
+
+📈 Progress: 80/300 (26%)
+   Success: 66 | Not found: 14 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 75
+
+🎤 [81/300] Concert 1196: 
+      2024-09-14 at Asbury Park Beach
+      ✅ Found 4 setlists: Black Crowes (13), Guster (2), Revivalists (11), Randolph (2)
+🎤 [82/300] Concert 1195: Bruce Springsteen
+      2024-09-13 at Oriole Park at Camden Yards
+      ✅ Found: Bruce Springsteen (29 songs)
+🎤 [83/300] Concert 1194: Pearl Jam
+      2024-09-12 at CFG Bank Arena
+      ✅ Found: Pearl Jam (25 songs)
+      🔍 Detected opener: Glen Hansard (95% confidence, 7 songs)
+🎤 [84/300] Concert 1193: Pearl Jam
+      2024-09-04 at Madison Square Garden
+      ✅ Found: Pearl Jam (28 songs)
+      🔍 Detected opener: Glen Hansard (95% confidence, 6 songs)
+🎤 [85/300] Concert 1192: Pearl Jam
+      2024-09-03 at Madison Square Garden
+      ✅ Found: Pearl Jam (26 songs)
+🎤 [86/300] Concert 1191: Walter Trout
+      2024-08-28 at Daryl's House
+      ❌ No setlists found for 1 artist(s)
+🎤 [87/300] Concert 1190: Joe Bonamassa
+      2024-08-24 at Capitol Theatre
+      ✅ Found: Joe Bonamassa (14 songs)
+      🔍 Detected opener: Eric Bogle (50% confidence, 0 songs)
+🎤 [88/300] Concert 1189: Bruce Springsteen & the E Street Band
+      2024-08-23 at Citizens Bank Park
+      ✅ Found: Bruce Springsteen & the E Street Band (24 songs)
+🎤 [89/300] Concert 1188: Bruce Springsteen & the E Street Band
+      2024-08-21 at Citizens Bank Park
+      ✅ Found: Bruce Springsteen & the E Street Band (30 songs)
+🎤 [90/300] Concert 1187: Dierks Bentley
+      2024-08-18 at Arthur Ashe Stadium
+      ✅ Found: Dierks Bentley (21 songs)
+
+📈 Progress: 90/300 (30%)
+   Success: 75 | Not found: 15 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 87
+
+🎤 [91/300] Concert 1186: 
+      2024-08-17 at MetLife Stadium
+      ✅ Found 2 setlists: Kenny Chesney (27), Zac Brown (19)
+🎤 [92/300] Concert 1185: 
+      2024-08-07 at Madison Square Garden
+      ✅ Found 2 setlists: The Doobie Brothers (20), Steve Winwood (10)
+🎤 [93/300] Concert 1184: 
+      2024-08-05 at Citi Field
+      ✅ Found 2 setlists: Green Day (40), Smashing Pumpkins (4)
+🎤 [94/300] Concert 1183: NeedtoBreathe
+      2024-07-26 at Great South Bay Music Festival
+      ✅ Found: NeedtoBreathe (17 songs)
+      🔍 Detected opener: Abraham Alexander (50% confidence, 0 songs)
+🎤 [95/300] Concert 1182: Billy Joel (Final Franchise)
+      2024-07-25 at Madison Square Garden
+      ✅ Found: Billy Joel (Final Franchise) (28 songs)
+🎤 [96/300] Concert 1181: Sammy Hagar
+      2024-07-24 at Bridgeport
+      ✅ Found: Sammy Hagar (23 songs)
+      🔍 Detected opener: Loverboy (50% confidence, 8 songs)
+      🔍 Detected opener: RumRunners (50% confidence, 0 songs)
+🎤 [97/300] Concert 1180: 
+      2024-07-23 at Beacon Theatre
+      ✅ Found: Pat Benetar (16 songs)
+🎤 [98/300] Concert 1179: Foo Fighters
+      2024-07-17 at Citi Field
+      ✅ Found: Foo Fighters (14 songs)
+🎤 [99/300] Concert 1178: 
+      2024-07-16 at Radio City Music Hall
+      ✅ Found 2 setlists: Daryl Hall (12), Elvis Costello (16)
+🎤 [100/300] Concert 1177: Amos Lee
+      2024-07-12 at Tarrytown Music Hall
+      ❌ No setlists found for 1 artist(s)
+
+📈 Progress: 100/300 (33%)
+   Success: 84 | Not found: 16 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 100
+
+🎤 [101/300] Concert 1176: 
+      2024-06-29 at Jones Beach Theater
+      ✅ Found 2 setlists: Bob Dylan (15), Robert Plant (13)
+🎤 [102/300] Concert 1175: Billy Currington
+      2024-06-22 at The Rooftop at Pier 17
+      ❌ No setlists found for 1 artist(s)
+🎤 [103/300] Concert 1174: Roger Daltrey
+      2024-06-18 at Capitol Theatre
+      ✅ Found: Roger Daltrey (23 songs)
+      🔍 Detected opener: KT Tunstall (50% confidence, 6 songs)
+🎤 [104/300] Concert 1173: Dead and Company
+      2024-06-15 at Sphere
+      ❌ No setlists found for 1 artist(s)
+🎤 [105/300] Concert 1172: Dead and Company
+      2024-06-14 at Sphere
+      ❌ No setlists found for 1 artist(s)
+🎤 [106/300] Concert 1171: Dead and Company
+      2024-06-13 at Sphere
+      ❌ No setlists found for 1 artist(s)
+🎤 [107/300] Concert 1170: Billy Joel
+      2024-06-08 at Madison Square Garden
+      ✅ Found: Billy Joel (29 songs)
+🎤 [108/300] Concert 1169: John Hiatt
+      2024-05-31 at Tarrytown Music Hall
+      ✅ Found: John Hiatt (20 songs)
+      🔍 Detected opener: Mark Erelli (50% confidence, 6 songs)
+🎤 [109/300] Concert 1168: Tyler Childers
+      2024-05-28 at Madison Square Garden
+      ✅ Found: Tyler Childers (25 songs)
+      🔍 Detected opener: Sylvan Esso (50% confidence, 10 songs)
+🎤 [110/300] Concert 1167: The Rolling Stones
+      2024-05-26 at MetLife Stadium
+      ✅ Found: The Rolling Stones (20 songs)
+
+📈 Progress: 110/300 (36%)
+   Success: 90 | Not found: 20 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 107
+
+🎤 [111/300] Concert 1166: The Rolling Stones
+      2024-05-23 at MetLife Stadium
+      ✅ Found: The Rolling Stones (19 songs)
+      🔍 Detected opener: Jon Batiste (50% confidence, 9 songs)
+🎤 [112/300] Concert 1165: Ed Sheeran
+      2024-05-22 at Barclays Center
+      ✅ Found: Ed Sheeran (24 songs)
+🎤 [113/300] Concert 1164: Avett Brothers
+      2024-05-21 at Westville Music Bowl
+      ✅ Found: Avett Brothers (24 songs)
+🎤 [114/300] Concert 1163: 
+      2024-05-14 at Forest Hills Stadium
+      ✅ Found 2 setlists: Neil Young (16), Crazy Horse (16)
+🎤 [115/300] Concert 1162: Billy Joel (75th Birthday)
+      2024-05-09 at Madison Square Garden
+      ✅ Found: Billy Joel (75th Birthday) (27 songs)
+🎤 [116/300] Concert 1161: Lyle Lovett (with Lisa Loeb)
+      2024-05-01 at Ridgefield Playhouse
+      ❌ No setlists found for 1 artist(s)
+🎤 [117/300] Concert 1160: Black Crowes
+      2024-04-27 at Radio City Music Hall
+      ✅ Found: Black Crowes (17 songs)
+      🔍 Detected opener: Larkin Poe (50% confidence, 7 songs)
+🎤 [118/300] Concert 1159: Barry Manilow
+      2024-04-17 at Radio City Music Hall
+      ✅ Found: Barry Manilow (23 songs)
+🎤 [119/300] Concert 1158: Bruce Springsteen & the E Street Band
+      2024-04-15 at MVP Arena
+      ✅ Found: Bruce Springsteen & the E Street Band (28 songs)
+🎤 [120/300] Concert 1157: Buddy Guy
+      2024-04-14 at NYCB Theatre at Westbury
+      ✅ Found: Buddy Guy (8 songs)
+      🔍 Detected opener: Bobby Rush (50% confidence, 0 songs)
+
+📈 Progress: 120/300 (40%)
+   Success: 99 | Not found: 21 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 117
+
+🎤 [121/300] Concert 1156: Colin Hay
+      2024-04-13 at Patchogue Theatre
+      ✅ Found: Colin Hay (17 songs)
+      🔍 Detected opener: Lazlo Bane (50% confidence, 1 songs)
+🎤 [122/300] Concert 1155: Bruce Springsteen & the E Street Band
+      2024-04-12 at Mohegan Sun Arena
+      ✅ Found: Bruce Springsteen & the E Street Band (27 songs)
+🎤 [123/300] Concert 1154: Lady A
+      2024-04-05 at Palace Theatre
+      ❌ No setlists found for 1 artist(s)
+🎤 [124/300] Concert 1153: 53 Thieves
+      2024-04-04 at Mercury Lounge
+      ❌ No setlists found for 1 artist(s)
+🎤 [125/300] Concert 1152: Zach Bryan
+      2024-03-30 at UBS Arena
+      ✅ Found: Zach Bryan (25 songs)
+      🔍 Detected opener: Levi Turner (50% confidence, 0 songs)
+🎤 [126/300] Concert 1151: Billy Joel (100th)
+      2024-03-28 at Madison Square Garden
+      ✅ Found: Billy Joel (100th) (25 songs)
+🎤 [127/300] Concert 1150: Blackberry Smoke
+      2024-03-22 at Capitol Theatre
+      ✅ Found: Blackberry Smoke (20 songs)
+🎤 [128/300] Concert 1149: Emmylou Harris
+      2024-03-21 at Capitol Theatre
+      ✅ Found: Emmylou Harris (20 songs)
+      🔍 Detected opener: Dwight Yoakam (50% confidence, 0 songs)
+🎤 [129/300] Concert 1148: Bryan Adams (w. Dave Stewart)
+      2024-03-16 at Prudential Center
+      ✅ Found: Bryan Adams (w. Dave Stewart) (30 songs)
+🎤 [130/300] Concert 1147: John Mellencamp (Bruce appearance)
+      2024-03-10 at New Jersey Performing Arts Center
+      ✅ Found: John Mellencamp (Bruce appearance) (18 songs)
+
+📈 Progress: 130/300 (43%)
+   Success: 107 | Not found: 23 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 125
+
+🎤 [131/300] Concert 1146: 
+      2024-03-04 at Capitol Theatre
+      ✅ Found: Phil Lesh (15 songs)
+🎤 [132/300] Concert 1145: Richard Thompson
+      2024-03-01 at Emelin Theatre
+      ✅ Found: Richard Thompson (20 songs)
+🎤 [133/300] Concert 1144: Live
+      2024-02-28 at Ridgefield Playhouse
+      ✅ Found: Live (19 songs)
+🎤 [134/300] Concert 1143: 
+      2024-02-24 at Radio City Music Hall
+      ✅ Found 2 setlists: Jason Isbell (21), 400 Unit (w. Aimee Mann) (21)
+🎤 [135/300] Concert 1142: Madonna
+      2024-01-23 at Madison Square Garden
+      ✅ Found: Madonna (35 songs)
+🎤 [136/300] Concert 1141: 
+      2024-01-21 at Capitol Theatre
+      ✅ Found 2 setlists: Richard Marx (19), Rick Springfield (19)
+🎤 [137/300] Concert 1140: Light of Day
+      2024-01-20 at Count Basie Center for the Arts
+      ❌ No setlists found for 1 artist(s)
+🎤 [138/300] Concert 1139: Billy Joel
+      2023-12-31 at UBS Arena
+      ✅ Found: Billy Joel (30 songs)
+      🔍 Detected opener: Regina Spektor (100% confidence, 12 songs)
+🎤 [139/300] Concert 1138: 
+      2023-12-17 at Capitol Theatre
+      ✅ Found: Bob Weir (17 songs)
+🎤 [140/300] Concert 1137: 
+      2023-12-16 at Capitol Theatre
+      ✅ Found: Bob Weir (18 songs)
+
+📈 Progress: 140/300 (46%)
+   Success: 116 | Not found: 24 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 136
+
+🎤 [141/300] Concert 1136: 
+      2023-12-13 at Capitol Theatre
+      ✅ Found: Bob Weir (17 songs)
+🎤 [142/300] Concert 1135: 
+      2023-12-12 at Capitol Theatre
+      ✅ Found: Bob Weir (18 songs)
+🎤 [143/300] Concert 1134: 
+      2023-12-03 at The Town Hall
+      ✅ Found 3 setlists: Steve Earle (10), John Mellencamp (4), Amy Helm (3)
+🎤 [144/300] Concert 1133: KISS
+      2023-12-02 at Madison Square Garden
+      ✅ Found: KISS (25 songs)
+      🔍 Detected opener: Amber Wild (50% confidence, 6 songs)
+🎤 [145/300] Concert 1132: Mac McAnally
+      2023-11-21 at City Winery
+      ❌ No setlists found for 1 artist(s)
+🎤 [146/300] Concert 1131: Dave Matthews Band
+      2023-11-17 at Madison Square Garden
+      ❌ No setlists found for 1 artist(s)
+🎤 [147/300] Concert 1130: Bob Dylan
+      2023-11-16 at Beacon Theatre
+      ✅ Found: Bob Dylan (18 songs)
+🎤 [148/300] Concert 1129: Melissa Etheridge
+      2023-11-14 at Circle in the Square Theatre
+      ❌ No setlists found for 1 artist(s)
+🎤 [149/300] Concert 1128: Geddy Lee (In Conversation)
+      2023-11-13 at Beacon Theatre
+      ❌ No setlists found for 1 artist(s)
+🎤 [150/300] Concert 1127: Bob Dylan
+      2023-11-07 at Capitol Theatre
+      ✅ Found: Bob Dylan (18 songs)
+
+📈 Progress: 150/300 (50%)
+   Success: 122 | Not found: 28 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 144
+
+🎤 [151/300] Concert 1126: Santana
+      2023-11-05 at House of Blues
+      ✅ Found: Santana (21 songs)
+      🔍 Detected opener: Of Mice & Men (50% confidence, 10 songs)
+      🔍 Detected opener: Turnover (50% confidence, 10 songs)
+      🔍 Detected opener: Currents (50% confidence, 9 songs)
+      🔍 Detected opener: Varials (50% confidence, 8 songs)
+      🔍 Detected opener: The Slackers (50% confidence, 2 songs)
+      🔍 Detected opener: Big D and the Kids Table (50% confidence, 0 songs)
+      🔍 Detected opener: Provoker (50% confidence, 0 songs)
+      🔍 Detected opener: Vended (50% confidence, 0 songs)
+      🔍 Detected opener: Radkey (50% confidence, 0 songs)
+🎤 [152/300] Concert 1125: Keith Urban
+      2023-11-01 at Bakkt Theater at Planet Hollywood
+      ✅ Found: Keith Urban (19 songs)
+🎤 [153/300] Concert 1124: My Morning Jacket
+      2023-10-20 at Beacon Theatre
+      ✅ Found: My Morning Jacket (22 songs)
+      🔍 Detected opener: Madi Diaz (100% confidence, 10 songs)
+🎤 [154/300] Concert 1123: Queen + Adam Lambert
+      2023-10-12 at Madison Square Garden
+      ✅ Found: Queen + Adam Lambert (31 songs)
+🎤 [155/300] Concert 1122: Chris Stapleton w Margo Price
+      2023-10-07 at UBS Arena
+      ❌ No setlists found for 1 artist(s)
+🎤 [156/300] Concert 1121: U2
+      2023-10-05 at Sphere
+      ✅ Found: U2 (27 songs)
+🎤 [157/300] Concert 1120: Lady Gaga
+      2023-10-04 at Dolby Live at Park MGM
+      ✅ Found: Lady Gaga (23 songs)
+🎤 [158/300] Concert 1119: Christopher Cross
+      2023-09-28 at Sony Hall
+      ✅ Found: Christopher Cross (16 songs)
+🎤 [159/300] Concert 1118: Peter Gabriel
+      2023-09-18 at Madison Square Garden
+      ✅ Found: Peter Gabriel (23 songs)
+🎤 [160/300] Concert 1117: Zac Brown Band w. King Calaway
+      2023-09-17 at Jones Beach Theater
+      ✅ Found: Zac Brown Band w. King Calaway (25 songs)
+
+📈 Progress: 160/300 (53%)
+   Success: 131 | Not found: 29 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 153
+
+🎤 [161/300] Concert 1116: Zac Brown Band
+      2023-09-16 at Jones Beach Theater
+      ✅ Found: Zac Brown Band (26 songs)
+🎤 [162/300] Concert 1115: 
+      2023-09-15 at Paramount Hudson Valley Theater
+      ❌ No setlists found for 2 artist(s)
+🎤 [163/300] Concert 1114: Billy Joel
+      2023-09-10 at Madison Square Garden
+      ✅ Found: Billy Joel (26 songs)
+🎤 [164/300] Concert 1113: 
+      2023-09-09 at UBS Arena
+      ✅ Found 2 setlists: Aerosmith (19), Black Crowes (11)
+🎤 [165/300] Concert 1112: Sting + Joe Sumner
+      2023-09-08 at Jones Beach Theater
+      ✅ Found: Sting + Joe Sumner (20 songs)
+🎤 [166/300] Concert 1111: The Eagles + Steely Dan
+      2023-09-07 at Madison Square Garden
+      ❌ No setlists found for 1 artist(s)
+🎤 [167/300] Concert 1110: Bruce Springsteen & the E Street Band
+      2023-09-03 at MetLife Stadium
+      ✅ Found: Bruce Springsteen & the E Street Band (28 songs)
+🎤 [168/300] Concert 1109: Bruce Springsteen & the E Street Band
+      2023-09-01 at MetLife Stadium
+      ✅ Found: Bruce Springsteen & the E Street Band (28 songs)
+🎤 [169/300] Concert 1108: Bruce Springsteen & the E Street Band
+      2023-08-30 at MetLife Stadium
+      ✅ Found: Bruce Springsteen & the E Street Band (28 songs)
+🎤 [170/300] Concert 1107: 
+      2023-08-19 at PNC Park
+      ✅ Found: Govt Mule (23 songs)
+
+📈 Progress: 170/300 (56%)
+   Success: 139 | Not found: 31 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 162
+
+🎤 [171/300] Concert 1106: Joe Bonamassa + Styx + Don Felder
+      2023-08-13 at Bethel Woods
+      ❌ No setlists found for 1 artist(s)
+🎤 [172/300] Concert 1105: Tyler Childers
+      2023-08-02 at Radio City Music Hall
+      ✅ Found: Tyler Childers (20 songs)
+      🔍 Detected opener: Elle King (50% confidence, 0 songs)
+🎤 [173/300] Concert 1104: Phish
+      2023-07-30 at Madison Square Garden
+      ✅ Found: Phish (16 songs)
+🎤 [174/300] Concert 1103: 
+      2023-07-28 at Capitol Theatre
+      ✅ Found 2 setlists: Jason Isbell (20), the 400 Unit (20)
+🎤 [175/300] Concert 1102: Richard Thompson
+      2023-07-27 at City Winery Hudson Valley
+      ✅ Found: Richard Thompson (20 songs)
+      🔍 Detected opener: Sarah Perrotta (50% confidence, 1 songs)
+🎤 [176/300] Concert 1101: Billy Joel
+      2023-07-24 at Madison Square Garden
+      ✅ Found: Billy Joel (25 songs)
+🎤 [177/300] Concert 1100: Peter Frampton
+      2023-07-23 at Capitol Theatre
+      ✅ Found: Peter Frampton (17 songs)
+🎤 [178/300] Concert 1099: Jason Aldean
+      2023-07-15 at Xfinity Center
+      ✅ Found: Jason Aldean (13 songs)
+      🔍 Detected opener: Corey Kent (50% confidence, 6 songs)
+🎤 [179/300] Concert 1098: Brad Paisley
+      2023-07-14 at Today Show Plaza at Rockefeller Center
+      ❌ No setlists found for 1 artist(s)
+🎤 [180/300] Concert 1097: Ace Frehley
+      2023-07-09 at Ridgefield Playhouse
+      ✅ Found: Ace Frehley (18 songs)
+
+📈 Progress: 180/300 (60%)
+   Success: 147 | Not found: 33 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 171
+
+🎤 [181/300] Concert 1096: Neil Young
+      2023-07-05 at Ford Amphitheater at Coney Island
+      ✅ Found: Neil Young (18 songs)
+      🔍 Detected opener: Chris Pierce (50% confidence, 6 songs)
+🎤 [182/300] Concert 1095: Steve Miller Band with Dave Mason
+      2023-06-24 at Hartford HealthCare Amphitheater
+      ❌ No setlists found for 1 artist(s)
+🎤 [183/300] Concert 1094: Dead and Company
+      2023-06-22 at Citi Field
+      ❌ No setlists found for 1 artist(s)
+🎤 [184/300] Concert 1093: Dead and Company
+      2023-06-21 at Citi Field
+      ❌ No setlists found for 1 artist(s)
+🎤 [185/300] Concert 1092: John Mellencamp
+      2023-06-06 at Beacon Theatre
+      ✅ Found: John Mellencamp (19 songs)
+🎤 [186/300] Concert 1091: The Wallflowers
+      2023-05-09 at Ridgefield Playhouse
+      ✅ Found: The Wallflowers (19 songs)
+🎤 [187/300] Concert 1090: John Fogerty
+      2023-04-28 at Radio City Music Hall
+      ✅ Found: John Fogerty (21 songs)
+      🔍 Detected opener: Hearty Har (50% confidence, 8 songs)
+🎤 [188/300] Concert 1089: Billy Joel
+      2023-04-25 at Madison Square Garden
+      ✅ Found: Billy Joel (25 songs)
+🎤 [189/300] Concert 1088: Bono
+      2023-04-21 at Beacon Theatre
+      ✅ Found: Bono (17 songs)
+🎤 [190/300] Concert 1087: Bruce Springsteen & the E Street Band
+      2023-04-14 at Prudential Center
+      ✅ Found: Bruce Springsteen & the E Street Band (27 songs)
+
+📈 Progress: 190/300 (63%)
+   Success: 154 | Not found: 36 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 178
+
+🎤 [191/300] Concert 1086: Bruce Springsteen & the E Street Band
+      2023-04-11 at UBS Arena
+      ✅ Found: Bruce Springsteen & the E Street Band (27 songs)
+🎤 [192/300] Concert 1085: Bruce Springsteen & the E Street Band
+      2023-04-09 at UBS Arena
+      ✅ Found: Bruce Springsteen & the E Street Band (27 songs)
+🎤 [193/300] Concert 1084: Bruce Springsteen & the E Street Band
+      2023-04-03 at Barclays Center
+      ✅ Found: Bruce Springsteen & the E Street Band (27 songs)
+🎤 [194/300] Concert 1083: Bruce Springsteen & the E Street Band
+      2023-04-01 at Madison Square Garden
+      ✅ Found: Bruce Springsteen & the E Street Band (27 songs)
+🎤 [195/300] Concert 1082: Live
+      2023-03-23 at Ridgefield Playhouse
+      ✅ Found: Live (20 songs)
+🎤 [196/300] Concert 1081: 
+      2023-03-21 at Gramercy Theater
+      ✅ Found: Wild Feathers (15 songs)
+🎤 [197/300] Concert 1080: 
+      2023-03-19 at Capitol Theatre
+      ✅ Found 2 setlists: Phil Lesh (16), Friends (16)
+🎤 [198/300] Concert 1079: Bruce Springsteen & the E Street Band
+      2023-03-16 at Wells Fargo Center
+      ✅ Found: Bruce Springsteen & the E Street Band (25 songs)
+🎤 [199/300] Concert 1078: Bruce Springsteen & the E Street Band
+      2023-02-05 at Kia Center
+      ✅ Found: Bruce Springsteen & the E Street Band (27 songs)
+🎤 [200/300] Concert 1077: Bruce Springsteen & the E Street Band
+      2023-02-01 at Amalie Arena
+      ✅ Found: Bruce Springsteen & the E Street Band (28 songs)
+
+📈 Progress: 200/300 (66%)
+   Success: 164 | Not found: 36 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 189
+
+🎤 [201/300] Concert 1076: Light of Day
+      2023-01-14 at Count Basie Center for the Arts
+      ❌ No setlists found for 1 artist(s)
+🎤 [202/300] Concert 1075: Richard Thompson
+      2022-12-15 at Symphony Space
+      ✅ Found: Richard Thompson (23 songs)
+🎤 [203/300] Concert 1074: Gregg Allman Beacon 75
+      2022-12-08 at Beacon Theatre
+      ❌ No setlists found for 1 artist(s)
+🎤 [204/300] Concert 1073: Dave Matthews Band
+      2022-11-18 at Madison Square Garden
+      ✅ Found: Dave Matthews Band (20 songs)
+🎤 [205/300] Concert 1072: Bruce Springsteen (Late Night
+      2022-11-14 at NBC Studios
+      ✅ Found: Bruce Springsteen (Late Night (3 songs)
+🎤 [206/300] Concert 1071: Kip Moore
+      2022-11-10 at Terminal 5
+      ❌ No setlists found for 1 artist(s)
+🎤 [207/300] Concert 1070: Marcus Mumford
+      2022-11-07 at Beacon Theatre
+      ✅ Found: Marcus Mumford (20 songs)
+      🔍 Detected opener: The A's (100% confidence, 0 songs)
+🎤 [208/300] Concert 1069: Last Waltz with Warren Haynes + Jamey Johnson
+      2022-11-04 at Capitol Theatre
+      ❌ No setlists found for 1 artist(s)
+🎤 [209/300] Concert 1068: U2:  Bono
+      2022-11-02 at Beacon Theatre
+      ❌ No setlists found for 1 artist(s)
+🎤 [210/300] Concert 1067: Weird Al
+      2022-10-29 at Carnegie Hall
+      ✅ Found: Weird Al (21 songs)
+      🔍 Detected opener: Emo Philips (50% confidence, 0 songs)
+
+📈 Progress: 210/300 (70%)
+   Success: 169 | Not found: 41 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 194
+
+🎤 [211/300] Concert 1066: Keith Urban
+      2022-10-22 at UBS Arena
+      ✅ Found: Keith Urban (22 songs)
+🎤 [212/300] Concert 1065: Keith Urban
+      2022-10-21 at Mohegan Sun Arena
+      ✅ Found: Keith Urban (21 songs)
+      🔍 Detected opener: Ingrid Andress (50% confidence, 0 songs)
+      🔍 Detected opener: Tyler Hubbard (50% confidence, 0 songs)
+🎤 [213/300] Concert 1064: ZZ Top
+      2022-10-18 at Capitol Theatre
+      ✅ Found: ZZ Top (16 songs)
+      🔍 Detected opener: Austin Meade (50% confidence, 0 songs)
+🎤 [214/300] Concert 1063: 
+      2022-10-07 at Capitol Theatre
+      ✅ Found 2 setlists: Jeff Beck (20), Johnny Depp (20)
+🎤 [215/300] Concert 1062: 
+      2022-10-01 at Westville Music Bowl
+      ✅ Found: Bob Weir (19 songs)
+🎤 [216/300] Concert 1061: The Killers (w. Johnny Marr)
+      2022-09-30 at Madison Square Garden
+      ❌ No setlists found for 1 artist(s)
+🎤 [217/300] Concert 1060: Eric Clapton
+      2022-09-19 at Madison Square Garden
+      ✅ Found: Eric Clapton (15 songs)
+🎤 [218/300] Concert 1059: Sea Hear Now (Green Day)
+      2022-09-18 at Asbury Park Beach
+      ❌ No setlists found for 1 artist(s)
+🎤 [219/300] Concert 1058: Sea Hear Now (Stevie Nicks)
+      2022-09-17 at Asbury Park Beach
+      ❌ No setlists found for 1 artist(s)
+🎤 [220/300] Concert 1057: 
+      2022-09-16 at Capitol Theatre
+      ✅ Found 2 setlists: Mike Campbell (20), Dirty Knobs (20)
+
+📈 Progress: 220/300 (73%)
+   Success: 176 | Not found: 44 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 203
+
+🎤 [221/300] Concert 1056: Bruce Springsteen / Jann Wenner
+      2022-09-13 at 92nd Street Y
+      ❌ No setlists found for 1 artist(s)
+🎤 [222/300] Concert 1055: Pearl Jam
+      2022-09-11 at Madison Square Garden
+      ✅ Found: Pearl Jam (25 songs)
+🎤 [223/300] Concert 1054: 
+      2022-09-10 at Forest Hills Stadium
+      ✅ Found 2 setlists: Van Morrison (22), Tom Jones (12)
+🎤 [224/300] Concert 1053: Roger Waters
+      2022-08-31 at Madison Square Garden
+      ✅ Found: Roger Waters (24 songs)
+🎤 [225/300] Concert 1052: Avett Brothers
+      2022-08-28 at Capitol Theatre
+      ✅ Found: Avett Brothers (25 songs)
+      🔍 Detected opener: Jessica Lea Mayfield (50% confidence, 0 songs)
+      🔍 Detected opener: Deadgrass (50% confidence, 0 songs)
+🎤 [226/300] Concert 1051: Avett Brothers (w./ Clem Snide)
+      2022-08-27 at Capitol Theatre
+      ✅ Found: Avett Brothers (w./ Clem Snide) (26 songs)
+🎤 [227/300] Concert 1050: Chris Stapleton
+      2022-08-25 at Jones Beach Theater
+      ✅ Found: Chris Stapleton (23 songs)
+      🔍 Detected opener: Morgan Wade (50% confidence, 8 songs)
+      🔍 Detected opener: Elle King (50% confidence, 0 songs)
+🎤 [228/300] Concert 1049: Billy Joel
+      2022-08-24 at Madison Square Garden
+      ✅ Found: Billy Joel (26 songs)
+🎤 [229/300] Concert 1048: Rod Stewart
+      2022-08-23 at Jones Beach Theater
+      ✅ Found: Rod Stewart (22 songs)
+🎤 [230/300] Concert 1047: Joe Bonamassa
+      2022-08-19 at Jones Beach Theater
+      ✅ Found: Joe Bonamassa (14 songs)
+      🔍 Detected opener: Kenny Wayne Shepherd (50% confidence, 4 songs)
+
+📈 Progress: 230/300 (76%)
+   Success: 185 | Not found: 45 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 213
+
+🎤 [231/300] Concert 1046: Zac Brown Band
+      2022-08-18 at Citi Field
+      ✅ Found: Zac Brown Band (20 songs)
+      🔍 Detected opener: Cody Johnson (100% confidence, 9 songs)
+      🔍 Detected opener: Robert Randolph & The Family Band (100% confidence, 0 songs)
+🎤 [232/300] Concert 1045: Steve Miller Band
+      2022-08-14 at Hartford HealthCare Amphitheater
+      ✅ Found: Steve Miller Band (16 songs)
+🎤 [233/300] Concert 1044: Roger Waters
+      2022-08-13 at UBS Arena
+      ✅ Found: Roger Waters (24 songs)
+🎤 [234/300] Concert 1043: Rage Against the Machine
+      2022-08-09 at Madison Square Garden
+      ✅ Found: Rage Against the Machine (21 songs)
+🎤 [235/300] Concert 1042: Counting Crowes
+      2022-08-03 at Capitol Theatre
+      ❌ No setlists found for 1 artist(s)
+🎤 [236/300] Concert 1041: Phish
+      2022-07-27 at Jones Beach Theater
+      ✅ Found: Phish (18 songs)
+🎤 [237/300] Concert 1040: Elton John
+      2022-07-23 at MetLife Stadium
+      ✅ Found: Elton John (25 songs)
+🎤 [238/300] Concert 1039: 
+      2022-07-16 at Citi Field
+      ✅ Found 2 setlists: DEAD:  Dead (2), Company (18)
+🎤 [239/300] Concert 1038: 
+      2022-07-15 at Citi Field
+      ✅ Found: Company (18 songs)
+🎤 [240/300] Concert 1037: Jackson Browne
+      2022-07-13 at Hartford HealthCare Amphitheater
+      ✅ Found: Jackson Browne (22 songs)
+
+📈 Progress: 240/300 (80%)
+   Success: 194 | Not found: 46 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 223
+
+🎤 [241/300] Concert 1036: 
+      2022-07-05 at Xfinity Center
+      ✅ Found 2 setlists: DEAD: Dead (26), Company (18)
+🎤 [242/300] Concert 1035: Lynyrd Skynyrd
+      2022-07-02 at Hartford HealthCare Amphitheater
+      ✅ Found: Lynyrd Skynyrd (17 songs)
+      🔍 Detected opener: Outlaws (50% confidence, 7 songs)
+🎤 [243/300] Concert 1034: 
+      2022-07-01 at Hartford HealthCare Amphitheater
+      ❌ No setlists found for 2 artist(s)
+🎤 [244/300] Concert 1033: Keith Urban
+      2022-06-30 at Rockefeller Plaza
+      ❌ No setlists found for 1 artist(s)
+🎤 [245/300] Concert 1032: John Hiatt
+      2022-06-30 at City Winery
+      ✅ Found: John Hiatt (16 songs)
+      🔍 Detected opener: The Suitcase Junket (50% confidence, 2 songs)
+🎤 [246/300] Concert 1031: Black Crowes
+      2022-06-27 at Hartford HealthCare Amphitheater
+      ✅ Found: Black Crowes (17 songs)
+      🔍 Detected opener: Howlin Rain (50% confidence, 0 songs)
+🎤 [247/300] Concert 1030: The Doobie Brothers
+      2022-06-21 at Jones Beach Theater
+      ✅ Found: The Doobie Brothers (24 songs)
+🎤 [248/300] Concert 1029: Kenny Chesney / Dan + Shay / Old Dominion
+      2022-06-18 at Citizens Bank Park
+      ❌ No setlists found for 1 artist(s)
+🎤 [249/300] Concert 1028: Paul McCartney
+      2022-06-16 at MetLife Stadium
+      ✅ Found: Paul McCartney (13 songs)
+🎤 [250/300] Concert 1027: Buddy Guy
+      2022-06-10 at Tarrytown Music Hall
+      ✅ Found: Buddy Guy (1 songs)
+
+📈 Progress: 250/300 (83%)
+   Success: 201 | Not found: 49 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 231
+
+🎤 [251/300] Concert 1026: Robert Plant + Alison Krauss
+      2022-06-04 at Forest Hills Stadium
+      ✅ Found: Robert Plant + Alison Krauss (20 songs)
+      🔍 Detected opener: JD McPherson (50% confidence, 7 songs)
+🎤 [252/300] Concert 1025: Tim McGraw
+      2022-06-03 at Jones Beach Theater
+      ✅ Found: Tim McGraw (21 songs)
+      🔍 Detected opener: Russell Dickerson (50% confidence, 10 songs)
+      🔍 Detected opener: Brandon Davis (50% confidence, 5 songs)
+      🔍 Detected opener: Alexandra Kay (50% confidence, 5 songs)
+🎤 [253/300] Concert 1024: Avett Brothers
+      2022-05-31 at Westville Music Bowl
+      ✅ Found: Avett Brothers (26 songs)
+🎤 [254/300] Concert 1023: The Who
+      2022-05-26 at Madison Square Garden
+      ✅ Found: The Who (21 songs)
+      🔍 Detected opener: The Wild Things (50% confidence, 7 songs)
+🎤 [255/300] Concert 1022: Eric Church
+      2022-05-20 at Madison Square Garden
+      ✅ Found: Eric Church (32 songs)
+🎤 [256/300] Concert 1021: Weird Al
+      2022-05-10 at Ridgefield Playhouse
+      ✅ Found: Weird Al (23 songs)
+🎤 [257/300] Concert 1020: The Eagles
+      2022-04-23 at UBS Arena
+      ✅ Found: The Eagles (28 songs)
+🎤 [258/300] Concert 1019: John Fogerty
+      2022-04-15 at Capitol Theatre
+      ✅ Found: John Fogerty (21 songs)
+🎤 [259/300] Concert 1018: Billy Joel
+      2022-04-08 at Madison Square Garden
+      ✅ Found: Billy Joel (26 songs)
+🎤 [260/300] Concert 1017: Colin Hay
+      2022-04-07 at Tarrytown Music Hall
+      ❌ No setlists found for 1 artist(s)
+
+📈 Progress: 260/300 (86%)
+   Success: 210 | Not found: 50 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 240
+
+🎤 [261/300] Concert 1016: Jason Isbell
+      2022-04-05 at Tarrytown Music Hall
+      ✅ Found: Jason Isbell (17 songs)
+      🔍 Detected opener: S.G. Goodman (50% confidence, 0 songs)
+🎤 [262/300] Concert 1015: 
+      2022-04-03 at Radio City Music Hall
+      ✅ Found: Bob Weir (25 songs)
+🎤 [263/300] Concert 1014: Will Hoge
+      2022-04-01 at Hill Country Live
+      ❌ No setlists found for 1 artist(s)
+🎤 [264/300] Concert 1013: 
+      2022-03-26 at Ridgefield Playhouse
+      ✅ Found 2 setlists: Mike Campbell (23), Dirty Knobs (23)
+🎤 [265/300] Concert 1012: Brothers Osbourne
+      2022-03-23 at Capitol Theatre
+      ❌ No setlists found for 1 artist(s)
+🎤 [266/300] Concert 1011: Steve Earle (Coal Country Play)
+      2022-03-22 at Cherry Lane Theatre
+      ❌ No setlists found for 1 artist(s)
+🎤 [267/300] Concert 1010: 
+      2022-03-12 at Count Basie Center for the Arts
+      ❌ No setlists found for 4 artist(s)
+🎤 [268/300] Concert 1009: Warren Haynes
+      2022-03-11 at Ridgefield Playhouse
+      ✅ Found: Warren Haynes (21 songs)
+🎤 [269/300] Concert 1008: Elton John
+      2022-03-06 at Nassau Coliseum
+      ✅ Found: Elton John (22 songs)
+🎤 [270/300] Concert 1007: Elton John
+      2022-03-01 at Barclays Center
+      ✅ Found: Elton John (22 songs)
+
+📈 Progress: 270/300 (90%)
+   Success: 216 | Not found: 54 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 247
+
+🎤 [271/300] Concert 1006: Elton John
+      2022-02-23 at Madison Square Garden
+      ✅ Found: Elton John (22 songs)
+🎤 [272/300] Concert 1005: 
+      2022-02-06 at New Jersey Performing Arts Center
+      ✅ Found: Eddie Vedder (24 songs)
+🎤 [273/300] Concert 1004: Wille Nile
+      2021-12-18 at Daryl's House
+      ❌ No setlists found for 1 artist(s)
+🎤 [274/300] Concert 1003: 
+      2021-12-13 at The Town Hall
+      ✅ Found 4 setlists: Bruce Springsteen (4), Steve Earle (10), Willie Nile (3), Rosanne Cash (3)
+🎤 [275/300] Concert 1002: Luke Combs
+      2021-11-29 at Madison Square Garden
+      ✅ Found: Luke Combs (24 songs)
+🎤 [276/300] Concert 1001: Bob Dylan
+      2021-11-23 at Capitol Theatre
+      ✅ Found: Bob Dylan (17 songs)
+🎤 [277/300] Concert 1000: Joe Bonamassa
+      2021-11-22 at Capitol Theatre
+      ✅ Found: Joe Bonamassa (6 songs)
+🎤 [278/300] Concert 999: Jason Isbell + 400 Unit
+      2021-11-19 at Capitol Theatre
+      ✅ Found: Jason Isbell + 400 Unit (19 songs)
+      🔍 Detected opener: Vlatko Stefanovski Trio (50% confidence, 0 songs)
+🎤 [279/300] Concert 998: The Wallflowers
+      2021-11-13 at Ridgefield Playhouse
+      ✅ Found: The Wallflowers (20 songs)
+🎤 [280/300] Concert 997: 
+      2021-11-06 at Capitol Theatre
+      ✅ Found: Night Sweats (4 songs)
+
+📈 Progress: 280/300 (93%)
+   Success: 225 | Not found: 55 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 259
+
+🎤 [281/300] Concert 996: Billy Joel
+      2021-11-05 at Madison Square Garden
+      ✅ Found: Billy Joel (25 songs)
+🎤 [282/300] Concert 995: Will Hoge
+      2021-10-20 at Daryl's House
+      ✅ Found: Will Hoge (13 songs)
+🎤 [283/300] Concert 994: 
+      2021-10-11 at Capitol Theatre
+      ❌ No setlists found for 2 artist(s)
+🎤 [284/300] Concert 993: Chris Stapleton
+      2021-10-08 at Madison Square Garden
+      ✅ Found: Chris Stapleton (23 songs)
+🎤 [285/300] Concert 992: Brian Wilson
+      2021-10-06 at Capitol Theatre
+      ✅ Found: Brian Wilson (29 songs)
+🎤 [286/300] Concert 991: Foo Fighters:  Dave Grohl: Storyteller
+      2021-10-05 at The Town Hall
+      ❌ No setlists found for 1 artist(s)
+🎤 [287/300] Concert 990: John Hiatt + Jerry Douglas Band
+      2021-09-21 at Ridgefield Playhouse
+      ❌ No setlists found for 1 artist(s)
+🎤 [288/300] Concert 989: 
+      2021-09-19 at Asbury Park Beach
+      ✅ Found 2 setlists: Billy Idol (10), Orville Peck) (12)
+🎤 [289/300] Concert 988: 
+      2021-09-18 at Asbury Park Beach
+      ✅ Found: Patti Smith) (10 songs)
+🎤 [290/300] Concert 987: Foo Fighters
+      2021-09-17 at Hartford HealthCare Amphitheater
+      ✅ Found: Foo Fighters (20 songs)
+      🔍 Detected opener: Bambara (50% confidence, 0 songs)
+
+📈 Progress: 290/300 (96%)
+   Success: 232 | Not found: 58 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 267
+
+🎤 [291/300] Concert 986: Lindsey Buckingham
+      2021-09-16 at The Town Hall
+      ✅ Found: Lindsey Buckingham (20 songs)
+🎤 [292/300] Concert 985: Sheryl Crow
+      2021-09-14 at Capitol Theatre
+      ✅ Found: Sheryl Crow (21 songs)
+      🔍 Detected opener: Lucie Silvas (50% confidence, 8 songs)
+🎤 [293/300] Concert 984: Zac Brown Band
+      2021-09-03 at Jones Beach Theater
+      ✅ Found: Zac Brown Band (24 songs)
+🎤 [294/300] Concert 983: Zac Brown Band
+      2021-09-02 at Jones Beach Theater
+      ✅ Found: Zac Brown Band (23 songs)
+🎤 [295/300] Concert 982: Dead and Company
+      2021-08-20 at Citi Field
+      ❌ No setlists found for 1 artist(s)
+🎤 [296/300] Concert 981: Kings of Leon
+      2021-08-17 at Hartford HealthCare Amphitheater
+      ✅ Found: Kings of Leon (26 songs)
+      🔍 Detected opener: Cold War Kids (50% confidence, 0 songs)
+🎤 [297/300] Concert 980: Luke Bryan
+      2021-08-13 at Jones Beach Theater
+      ✅ Found: Luke Bryan (22 songs)
+      🔍 Detected opener: Dylan Scott (50% confidence, 10 songs)
+      🔍 Detected opener: Caylee Hammack (50% confidence, 7 songs)
+🎤 [298/300] Concert 979: Jimmy Buffett
+      2021-08-10 at Jones Beach Theater
+      ✅ Found: Jimmy Buffett (26 songs)
+🎤 [299/300] Concert 978: Jason Aldean
+      2021-08-07 at Jones Beach Theater
+      ✅ Found: Jason Aldean (22 songs)
+      🔍 Detected opener: HARDY (50% confidence, 10 songs)
+      🔍 Detected opener: Lainey Wilson (50% confidence, 0 songs)
+🎤 [300/300] Concert 977: 
+      2021-08-05 at MetLife Stadium
+      ✅ Found 2 setlists: Guns (22), Roses (22)
+
+📈 Progress: 300/300 (100%)
+   Success: 241 | Not found: 59 | Errors: 0
+   Co-headliners: 0 | Total setlists created: 277
+
+
+================================================================================
+SUMMARY
+================================================================================
+Total concerts processed: 300
+✅ Success: 241
+❌ Not found: 59
+⚠️  Errors: 0
+🎭 Co-headliner shows: 0
+📝 Total setlists created: 277

@@ -4,14 +4,6 @@
   "concert_count": 2,
   "top_songs": [
     {
-      "name": "Should've Known Better",
-      "times_played": 3
-    },
-    {
-      "name": "Don't Mean Nothing",
-      "times_played": 3
-    },
-    {
       "name": "Endless Summer Nights",
       "times_played": 2
     },
@@ -41,6 +33,14 @@
     },
     {
       "name": "Don't Talk to Strangers",
+      "times_played": 2
+    },
+    {
+      "name": "Should've Known Better",
+      "times_played": 2
+    },
+    {
+      "name": "My Father's Chair",
       "times_played": 2
     }
   ],

@@ -14,13 +14,13 @@
   ],
   "photos": [],
   "photo_count": 0,
-  "setlistfm_url": "https://www.setlist.fm/setlist/slash-featuring-myles-kennedy-and-the-conspirators/2024/uber-eats-music-hall-berlin-germany-babd54e.html",
-  "song_count": 21,
+  "setlistfm_url": "https://www.setlist.fm/setlist/bruce-springsteen/2024/mvp-arena-albany-ny-13abbd69.html",
+  "song_count": 28,
   "has_encore": false,
   "songs": [
     {
       "position": 1,
-      "name": "The River Is Rising",
+      "name": "Candy's Room",
       "set_name": "Set 1",
       "encore": 0,
       "is_cover": false,
@@ -28,7 +28,7 @@
     },
     {
       "position": 2,
-      "name": "Driving Rain",
+      "name": "Adam Raised a Cain",
       "set_name": "Set 1",
       "encore": 0,
       "is_cover": false,
@@ -36,7 +36,7 @@
     },
     {
       "position": 3,
-      "name": "Halo",
+      "name": "Lonesome Day",
       "set_name": "Set 1",
       "encore": 0,
       "is_cover": false,
@@ -44,7 +44,7 @@
     },
     {
       "position": 4,
-      "name": "Too Far Gone",
+      "name": "Ghosts",
       "set_name": "Set 1",
       "encore": 0,
       "is_cover": false,
@@ -52,15 +52,15 @@
     },
     {
       "position": 5,
-      "name": "Back From Cali",
+      "name": "Letter to You",
       "set_name": "Set 1",
       "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Slash"
+      "is_cover": false,
+      "cover_artist": null
     },
     {
       "position": 6,
-      "name": "Whatever Gets You By",
+      "name": "The Promised Land",
       "set_name": "Set 1",
       "encore": 0,
       "is_cover": false,
@@ -68,7 +68,7 @@
     },
     {
       "position": 7,
-      "name": "Actions Speak Louder Than Words",
+      "name": "Atlantic City",
       "set_name": "Set 1",
       "encore": 0,
       "is_cover": false,
@@ -76,15 +76,15 @@
     },
     {
       "position": 8,
-      "name": "Always on the Run",
+      "name": "Trapped",
       "set_name": "Set 1",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Lenny Kravitz"
+      "cover_artist": "Jimmy Cliff"
     },
     {
       "position": 9,
-      "name": "Bent to Fly",
+      "name": "Spirit in the Night",
       "set_name": "Set 1",
       "encore": 0,
       "is_cover": false,
@@ -92,7 +92,7 @@
     },
     {
       "position": 10,
-      "name": "Avalon",
+      "name": "Hungry Heart",
       "set_name": "Set 1",
       "encore": 0,
       "is_cover": false,
@@ -100,31 +100,31 @@
     },
     {
       "position": 11,
-      "name": "Spirit Love",
+      "name": "Nightshift",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Commodores"
+    },
+    {
+      "position": 12,
+      "name": "Racing in the Street",
       "set_name": "Set 1",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
-      "position": 12,
-      "name": "Don't Damn Me",
-      "set_name": "Set 1",
-      "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Guns N\u2019 Roses"
-    },
-    {
       "position": 13,
-      "name": "Starlight",
+      "name": "Last Man Standing",
       "set_name": "Set 1",
       "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Slash"
+      "is_cover": false,
+      "cover_artist": null
     },
     {
       "position": 14,
-      "name": "Wicked Stone",
+      "name": "Backstreets",
       "set_name": "Set 1",
       "encore": 0,
       "is_cover": false,
@@ -132,15 +132,15 @@
     },
     {
       "position": 15,
-      "name": "April Fool",
+      "name": "Because the Night",
       "set_name": "Set 1",
       "encore": 0,
-      "is_cover": false,
-      "cover_artist": null
+      "is_cover": true,
+      "cover_artist": "Patti Smith Group"
     },
     {
       "position": 16,
-      "name": "Fill My World",
+      "name": "Downbound Train",
       "set_name": "Set 1",
       "encore": 0,
       "is_cover": false,
@@ -148,15 +148,15 @@
     },
     {
       "position": 17,
-      "name": "Doctor Alibi",
+      "name": "She's the One",
       "set_name": "Set 1",
       "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Slash"
+      "is_cover": false,
+      "cover_artist": null
     },
     {
       "position": 18,
-      "name": "You're a Lie",
+      "name": "Wrecking Ball",
       "set_name": "Set 1",
       "encore": 0,
       "is_cover": false,
@@ -164,7 +164,7 @@
     },
     {
       "position": 19,
-      "name": "World on Fire",
+      "name": "The Rising",
       "set_name": "Set 1",
       "encore": 0,
       "is_cover": false,
@@ -172,20 +172,76 @@
     },
     {
       "position": 20,
-      "name": "Rocket Man (I Think It's Going to Be a Long, Long Time)",
-      "set_name": "Set 2",
+      "name": "Badlands",
+      "set_name": "Set 1",
       "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Elton John"
+      "is_cover": false,
+      "cover_artist": null
     },
     {
       "position": 21,
-      "name": "Anastasia",
+      "name": "Thunder Road",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 22,
+      "name": "Light of Day",
       "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 23,
+      "name": "Born to Run",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 24,
+      "name": "Bobby Jean",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 25,
+      "name": "Dancing in the Dark",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 26,
+      "name": "Tenth Avenue Freeze-Out",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 27,
+      "name": "Twist and Shout",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Top Notes"
+    },
+    {
+      "position": 28,
+      "name": "I'll See You in My Dreams",
+      "set_name": "Set 3",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     }
   ],
-  "tour_name": "The River Is Rising"
+  "tour_name": "Springsteen\u00a0& E Street Band 2024 World Tour"
 }

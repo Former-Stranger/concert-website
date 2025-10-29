@@ -2,48 +2,7 @@
   "id": "111",
   "name": "Cat Stevens",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "The E Street Shuffle",
-      "times_played": 1
-    },
-    {
-      "name": "The River",
-      "times_played": 1
-    },
-    {
-      "name": "Kitty's Back",
-      "times_played": 1
-    },
-    {
-      "name": "Father and Son",
-      "times_played": 1
-    },
-    {
-      "name": "Wild World",
-      "times_played": 1
-    },
-    {
-      "name": "Peace Train",
-      "times_played": 1
-    },
-    {
-      "name": "She's Gone",
-      "times_played": 1
-    },
-    {
-      "name": "I Can't Go for That (No Can Do)",
-      "times_played": 1
-    },
-    {
-      "name": "You Make My Dreams",
-      "times_played": 1
-    },
-    {
-      "name": "Smells Like Teen Spirit",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "572",

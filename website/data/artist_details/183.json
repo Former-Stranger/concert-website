@@ -2,48 +2,7 @@
   "id": "183",
   "name": "Eagles",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Seven Bridges Road",
-      "times_played": 1
-    },
-    {
-      "name": "Take It Easy",
-      "times_played": 1
-    },
-    {
-      "name": "One of These Nights",
-      "times_played": 1
-    },
-    {
-      "name": "Take It to the Limit",
-      "times_played": 1
-    },
-    {
-      "name": "Tequila Sunrise",
-      "times_played": 1
-    },
-    {
-      "name": "Witchy Woman",
-      "times_played": 1
-    },
-    {
-      "name": "In the City",
-      "times_played": 1
-    },
-    {
-      "name": "I Can't Tell You Why",
-      "times_played": 1
-    },
-    {
-      "name": "New Kid in Town",
-      "times_played": 1
-    },
-    {
-      "name": "How Long",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "969",

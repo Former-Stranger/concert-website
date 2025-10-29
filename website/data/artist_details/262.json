@@ -2,48 +2,7 @@
   "id": "262",
   "name": "James Taylor",
   "concert_count": 4,
-  "top_songs": [
-    {
-      "name": "Teach Your Children",
-      "times_played": 4
-    },
-    {
-      "name": "Mexico",
-      "times_played": 4
-    },
-    {
-      "name": "(Your Love Keeps Lifting Me) Higher and Higher",
-      "times_played": 3
-    },
-    {
-      "name": "Carolina in My Mind",
-      "times_played": 3
-    },
-    {
-      "name": "Country Road",
-      "times_played": 3
-    },
-    {
-      "name": "Shower the People",
-      "times_played": 3
-    },
-    {
-      "name": "Copperline",
-      "times_played": 3
-    },
-    {
-      "name": "Sweet Baby James",
-      "times_played": 3
-    },
-    {
-      "name": "Steamroller",
-      "times_played": 3
-    },
-    {
-      "name": "Fire and Rain",
-      "times_played": 3
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "610",

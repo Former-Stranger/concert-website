@@ -2,48 +2,7 @@
   "id": "5",
   "name": "ACDC",
   "concert_count": 3,
-  "top_songs": [
-    {
-      "name": "Rock 'n' Roll Train",
-      "times_played": 2
-    },
-    {
-      "name": "Hell Ain't a Bad Place to Be",
-      "times_played": 2
-    },
-    {
-      "name": "Back in Black",
-      "times_played": 2
-    },
-    {
-      "name": "Dirty Deeds Done Dirt Cheap",
-      "times_played": 2
-    },
-    {
-      "name": "Thunderstruck",
-      "times_played": 2
-    },
-    {
-      "name": "Hells Bells",
-      "times_played": 2
-    },
-    {
-      "name": "Shoot to Thrill",
-      "times_played": 2
-    },
-    {
-      "name": "You Shook Me All Night Long",
-      "times_played": 2
-    },
-    {
-      "name": "T.N.T.",
-      "times_played": 2
-    },
-    {
-      "name": "Whole Lotta Rosie",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "648",

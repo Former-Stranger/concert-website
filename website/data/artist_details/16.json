@@ -2,48 +2,7 @@
   "id": "16",
   "name": "All Starr Band",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Matchbox",
-      "times_played": 4
-    },
-    {
-      "name": "It Don't Come Easy",
-      "times_played": 4
-    },
-    {
-      "name": "What Goes On",
-      "times_played": 4
-    },
-    {
-      "name": "Evil Ways",
-      "times_played": 4
-    },
-    {
-      "name": "Rosanna",
-      "times_played": 4
-    },
-    {
-      "name": "Boys",
-      "times_played": 4
-    },
-    {
-      "name": "Don't Pass Me By",
-      "times_played": 4
-    },
-    {
-      "name": "Yellow Submarine",
-      "times_played": 4
-    },
-    {
-      "name": "Black Magic Woman / Gypsy Queen",
-      "times_played": 4
-    },
-    {
-      "name": "You're Sixteen",
-      "times_played": 4
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "860",

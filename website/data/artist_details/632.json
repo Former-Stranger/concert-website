@@ -5,10 +5,6 @@
   "top_songs": [
     {
       "name": "Drum Solo",
-      "times_played": 6
-    },
-    {
-      "name": "Dare to Be Stupid",
       "times_played": 5
     },
     {
@@ -16,32 +12,36 @@
       "times_played": 3
     },
     {
-      "name": "Lame Claim to Fame",
+      "name": "Dare to Be Stupid",
       "times_played": 3
+    },
+    {
+      "name": "Lame Claim to Fame",
+      "times_played": 2
     },
     {
       "name": "Craigslist",
-      "times_played": 3
+      "times_played": 2
+    },
+    {
+      "name": "Close but No Cigar",
+      "times_played": 2
     },
     {
       "name": "Good Old Days",
-      "times_played": 3
+      "times_played": 2
     },
     {
-      "name": "Skipper Dan",
-      "times_played": 3
+      "name": "The Night Santa Went Crazy",
+      "times_played": 2
     },
     {
-      "name": "Smells Like Nirvana",
-      "times_played": 3
+      "name": "Amish Paradise / Smells Like Nirvana / White & Nerdy / Word Crimes / Yoda",
+      "times_played": 2
     },
     {
-      "name": "Fat",
-      "times_played": 3
-    },
-    {
-      "name": "White & Nerdy",
-      "times_played": 3
+      "name": "Fun Zone",
+      "times_played": 2
     }
   ],
   "concerts": [

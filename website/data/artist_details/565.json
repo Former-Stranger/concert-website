@@ -2,48 +2,7 @@
   "id": "565",
   "name": "The Band Perry",
   "concert_count": 1,
-  "top_songs": [
-    {
-      "name": "Camouflage",
-      "times_played": 1
-    },
-    {
-      "name": "The World",
-      "times_played": 1
-    },
-    {
-      "name": "Welcome to the Future",
-      "times_played": 1
-    },
-    {
-      "name": "Ticks",
-      "times_played": 1
-    },
-    {
-      "name": "This Is Country Music",
-      "times_played": 1
-    },
-    {
-      "name": "Waitin' on a Woman",
-      "times_played": 1
-    },
-    {
-      "name": "Celebrity",
-      "times_played": 1
-    },
-    {
-      "name": "She's Everything",
-      "times_played": 1
-    },
-    {
-      "name": "Online",
-      "times_played": 1
-    },
-    {
-      "name": "I'm Still a Guy",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "508",

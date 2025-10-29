@@ -2,48 +2,7 @@
   "id": "395",
   "name": "Nash & Young",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Flags of Freedom",
-      "times_played": 3
-    },
-    {
-      "name": "Carry On",
-      "times_played": 3
-    },
-    {
-      "name": "Wooden Ships",
-      "times_played": 3
-    },
-    {
-      "name": "Long Time Gone",
-      "times_played": 3
-    },
-    {
-      "name": "Military Madness",
-      "times_played": 3
-    },
-    {
-      "name": "After the Garden",
-      "times_played": 3
-    },
-    {
-      "name": "Living With War",
-      "times_played": 3
-    },
-    {
-      "name": "The Restless Consumer",
-      "times_played": 3
-    },
-    {
-      "name": "Shock and Awe",
-      "times_played": 3
-    },
-    {
-      "name": "Wounded World",
-      "times_played": 3
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "275",

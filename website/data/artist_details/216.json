@@ -4,10 +4,6 @@
   "concert_count": 5,
   "top_songs": [
     {
-      "name": "Shakedown Street",
-      "times_played": 4
-    },
-    {
       "name": "Tennessee Jed",
       "times_played": 2
     },
@@ -41,6 +37,10 @@
     },
     {
       "name": "Jack O'Roses",
+      "times_played": 2
+    },
+    {
+      "name": "Touch of Grey",
       "times_played": 2
     }
   ],

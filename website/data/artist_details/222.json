@@ -2,48 +2,7 @@
   "id": "222",
   "name": "Garth Brooks",
   "concert_count": 4,
-  "top_songs": [
-    {
-      "name": "Rodeo",
-      "times_played": 2
-    },
-    {
-      "name": "Two Pi\u00f1a Coladas",
-      "times_played": 2
-    },
-    {
-      "name": "That Summer",
-      "times_played": 2
-    },
-    {
-      "name": "The Thunder Rolls",
-      "times_played": 2
-    },
-    {
-      "name": "The River",
-      "times_played": 2
-    },
-    {
-      "name": "Papa Loved Mama",
-      "times_played": 2
-    },
-    {
-      "name": "In Another's Eyes",
-      "times_played": 2
-    },
-    {
-      "name": "When Will I Be Loved",
-      "times_played": 2
-    },
-    {
-      "name": "How Do I Live",
-      "times_played": 2
-    },
-    {
-      "name": "She's in Love With the Boy",
-      "times_played": 2
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "747",

@@ -21,7 +21,7 @@ import time
 from setlistfm_client import SetlistFMClient
 
 # Setlist.fm API key
-SETLISTFM_API_KEY = "Uo48MPdBZN5ujA_PJKkyeKYyiMzOaf-kd4gi"
+SETLISTFM_API_KEY = "_Q380wqoYXFLsXALU_vlNSUTjwy7j7KQ6Bx9"
 
 def init_firebase():
     """Initialize Firebase Admin SDK"""
@@ -127,15 +127,170 @@ def parse_setlist_data(setlist_json, concert_id, artist_id, artist_name):
 
     return setlist_data
 
-def fetch_setlists_for_concert(concert_id, concert_data, client, db, dry_run=False):
+def detect_missing_openers(concert_id, concert_data, client):
+    """
+    Detect potential missing openers for a concert using setlist.fm API
+
+    Args:
+        concert_id: Concert ID
+        concert_data: Concert document data
+        client: SetlistFMClient instance
+
+    Returns:
+        List of detected openers with confidence scores, or empty list
+    """
+    artists = concert_data.get('artists', [])
+
+    # Only check if concert has exactly 1 headliner
+    headliners = [a for a in artists if a.get('role') == 'headliner']
+    if len(headliners) != 1:
+        return []
+
+    headliner = headliners[0]
+    headliner_name = headliner.get('artist_name', '')
+    date_str = concert_data.get('date', '')
+
+    if not headliner_name or not date_str:
+        return []
+
+    try:
+        # Convert date format
+        date_obj = datetime.strptime(date_str, '%Y-%m-%d')
+        api_date_str = date_obj.strftime('%d-%m-%Y')
+
+        # STEP 1: Find headliner's setlist to get exact venue
+        result = client.search_setlists(
+            artist_name=headliner_name,
+            date=api_date_str
+        )
+
+        if not result or not result.get('setlist'):
+            return []
+
+        headliner_setlist = result['setlist'][0]
+        venue = headliner_setlist.get('venue', {})
+        exact_venue_name = venue.get('name', '')
+
+        if not exact_venue_name:
+            return []
+
+        # Count headliner songs
+        headliner_songs = sum(
+            len(s.get('song', []))
+            for s in headliner_setlist.get('sets', {}).get('set', [])
+        )
+
+        # STEP 2: Search for all performers at venue + date
+        result2 = client.search_setlists(
+            venue_name=exact_venue_name,
+            date=api_date_str
+        )
+
+        if not result2 or not result2.get('setlist'):
+            return []
+
+        all_setlists = result2['setlist']
+
+        # Need at least 2 setlists (headliner + opener)
+        if len(all_setlists) <= 1:
+            return []
+
+        # STEP 3: Identify potential openers
+        performers = []
+        for setlist in all_setlists:
+            artist = setlist.get('artist', {})
+            artist_name = artist.get('name', '')
+            artist_mbid = artist.get('mbid', '')
+
+            song_count = sum(
+                len(s.get('song', []))
+                for s in setlist.get('sets', {}).get('set', [])
+            )
+
+            tour = setlist.get('tour', {})
+            tour_name = tour.get('name') if tour else None
+
+            performers.append({
+                'artist_name': artist_name,
+                'artist_mbid': artist_mbid,
+                'song_count': song_count,
+                'tour_name': tour_name,
+                'setlistfm_id': setlist.get('id'),
+                'setlistfm_url': setlist.get('url')
+            })
+
+        # Sort by song count (descending)
+        performers.sort(key=lambda x: x['song_count'], reverse=True)
+
+        likely_headliner = performers[0]
+        potential_openers = performers[1:]
+
+        # STEP 4: Get guest artists from headliner's setlist
+        guest_artists = set()
+        headliner_sets = headliner_setlist.get('sets', {}).get('set', [])
+
+        for set_data in headliner_sets:
+            for song in set_data.get('song', []):
+                guest = song.get('with', {})
+                if guest and isinstance(guest, dict):
+                    guest_name = guest.get('name')
+                    if guest_name:
+                        guest_artists.add(guest_name.lower())
+
+        # Calculate confidence for each opener
+        detected_openers = []
+        for opener in potential_openers:
+            # Must have fewer songs than headliner
+            if opener['song_count'] >= likely_headliner['song_count']:
+                continue
+
+            confidence = 30  # Base: has fewer songs
+
+            # High confidence: appears as guest
+            opener_name_lower = opener['artist_name'].lower()
+            for guest in guest_artists:
+                if opener_name_lower in guest or guest in opener_name_lower:
+                    confidence += 50
+                    break
+
+            # Medium confidence: significantly fewer songs
+            song_ratio = opener['song_count'] / likely_headliner['song_count']
+            if song_ratio < 0.5:
+                confidence += 15
+
+            # Low confidence: no tour name
+            if not opener['tour_name']:
+                confidence += 5
+
+            if confidence >= 50:  # Only return medium/high confidence
+                opener['confidence'] = min(confidence, 100)
+                detected_openers.append(opener)
+
+        return detected_openers
+
+    except Exception as e:
+        # Silently fail - this is an optional enhancement
+        return []
+
+
+def fetch_setlists_for_concert(concert_id, concert_data, client, db, dry_run=False, detect_openers=False):
     """
     Fetch setlists for a concert (handles both single and co-headliners)
+
+    Args:
+        concert_id: Concert ID
+        concert_data: Concert document data
+        client: SetlistFMClient instance
+        db: Firestore database reference
+        dry_run: If True, don't write to Firestore
+        detect_openers: If True, check for missing openers
 
     Returns:
         dict with keys:
             'status': 'success', 'not_found', 'error'
             'setlists_created': number of setlists created
             'message': description
+            'detected_openers': list of detected openers (if detect_openers=True)
     """
 
     # Get all performing artists (headliners and openers)
@@ -242,13 +397,21 @@ def fetch_setlists_for_concert(concert_id, concert_data, client, db, dry_run=Fal
         song_counts = [f"{s['artist_name']} ({s['data']['song_count']})" for s in setlists_found]
         message = f"Found {len(setlists_found)} setlists: {', '.join(song_counts)}"
 
-    return {
+    result = {
         'status': 'success',
         'setlists_created': len(setlists_found),
         'message': message
     }
 
-def fetch_all_setlists(limit=None, dry_run=False, skip_existing=True):
+    # Check for missing openers if requested
+    if detect_openers and len(performing_artists) == 1:
+        detected = detect_missing_openers(concert_id, concert_data, client)
+        if detected:
+            result['detected_openers'] = detected
+
+    return result
+
+def fetch_all_setlists(limit=None, dry_run=False, skip_existing=True, detect_openers=False):
     """
     Fetch setlists for all concerts
 
@@ -256,6 +419,7 @@ def fetch_all_setlists(limit=None, dry_run=False, skip_existing=True):
         limit: Max number of concerts to process (for testing)
         dry_run: If True, don't write to Firestore
         skip_existing: If True, skip concerts that already have setlists
+        detect_openers: If True, automatically detect and report missing openers
     """
 
     print("="*80)
@@ -351,7 +515,7 @@ def fetch_all_setlists(limit=None, dry_run=False, skip_existing=True):
         print(f"      {concert_data.get('date')} at {concert_data.get('venue_name', 'Unknown')}")
 
         # Fetch setlists
-        result = fetch_setlists_for_concert(concert_id, concert_data, client, db, dry_run)
+        result = fetch_setlists_for_concert(concert_id, concert_data, client, db, dry_run, detect_openers)
 
         # Update stats
         if result['status'] == 'success':
@@ -360,6 +524,12 @@ def fetch_all_setlists(limit=None, dry_run=False, skip_existing=True):
             if is_co_headliner:
                 stats['co_headliners'] += 1
             print(f"      ✅ {result['message']}")
+
+            # Report detected openers
+            if 'detected_openers' in result:
+                for opener in result['detected_openers']:
+                    conf = opener['confidence']
+                    print(f"      🔍 Detected opener: {opener['artist_name']} ({conf}% confidence, {opener['song_count']} songs)")
         elif result['status'] == 'not_found':
             stats['not_found'] += 1
             print(f"      ❌ {result['message']}")
@@ -395,11 +565,13 @@ if __name__ == '__main__':
     parser.add_argument('--limit', type=int, help='Limit number of concerts to process (for testing)')
     parser.add_argument('--dry-run', action='store_true', help='Test mode - don\'t write to Firestore')
     parser.add_argument('--all', action='store_true', help='Process all concerts, including those with existing setlists')
+    parser.add_argument('--detect-openers', action='store_true', help='Automatically detect and report missing openers')
 
     args = parser.parse_args()
 
     fetch_all_setlists(
         limit=args.limit,
         dry_run=args.dry_run,
-        skip_existing=not args.all
+        skip_existing=not args.all,
+        detect_openers=args.detect_openers
     )

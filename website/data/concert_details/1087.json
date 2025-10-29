@@ -14,13 +14,13 @@
   ],
   "photos": [],
   "photo_count": 0,
-  "setlistfm_url": "https://www.setlist.fm/setlist/justin-chan-and-the-vices/2023/the-state-house-new-haven-ct-bb8f5be.html",
-  "song_count": 13,
+  "setlistfm_url": "https://www.setlist.fm/setlist/bruce-springsteen/2023/prudential-center-newark-nj-23b8989b.html",
+  "song_count": 27,
   "has_encore": false,
   "songs": [
     {
       "position": 1,
-      "name": "If You Prefer Silver",
+      "name": "Local Hero",
       "set_name": "Set 1",
       "encore": 0,
       "is_cover": false,
@@ -28,23 +28,23 @@
     },
     {
       "position": 2,
-      "name": "My Brain Is Hanging Upside Down (Bonzo Goes to Bitburg)",
+      "name": "No Surrender",
       "set_name": "Set 1",
       "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Ramones"
+      "is_cover": false,
+      "cover_artist": null
     },
     {
       "position": 3,
-      "name": "American Girl",
+      "name": "Ghosts",
       "set_name": "Set 1",
       "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Tom Petty and the Heartbreakers"
+      "is_cover": false,
+      "cover_artist": null
     },
     {
       "position": 4,
-      "name": "Mixed Signals",
+      "name": "Prove It All Night",
       "set_name": "Set 1",
       "encore": 0,
       "is_cover": false,
@@ -52,7 +52,7 @@
     },
     {
       "position": 5,
-      "name": "Cut Into Me",
+      "name": "Letter to You",
       "set_name": "Set 1",
       "encore": 0,
       "is_cover": false,
@@ -60,15 +60,15 @@
     },
     {
       "position": 6,
-      "name": "Don't Let Me Down",
+      "name": "The Promised Land",
       "set_name": "Set 1",
       "encore": 0,
-      "is_cover": true,
-      "cover_artist": "The Beatles"
+      "is_cover": false,
+      "cover_artist": null
     },
     {
       "position": 7,
-      "name": "Rita",
+      "name": "Out in the Street",
       "set_name": "Set 1",
       "encore": 0,
       "is_cover": false,
@@ -76,7 +76,7 @@
     },
     {
       "position": 8,
-      "name": "Shy Again",
+      "name": "Candy's Room",
       "set_name": "Set 1",
       "encore": 0,
       "is_cover": false,
@@ -84,7 +84,7 @@
     },
     {
       "position": 9,
-      "name": "Set Her Free",
+      "name": "Kitty's Back",
       "set_name": "Set 1",
       "encore": 0,
       "is_cover": false,
@@ -92,23 +92,23 @@
     },
     {
       "position": 10,
-      "name": "The Real Me",
+      "name": "Nightshift",
       "set_name": "Set 1",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "The Who"
+      "cover_artist": "Commodores"
     },
     {
       "position": 11,
-      "name": "Miss You",
+      "name": "Mary's Place",
       "set_name": "Set 1",
       "encore": 0,
-      "is_cover": true,
-      "cover_artist": "The Rolling Stones"
+      "is_cover": false,
+      "cover_artist": null
     },
     {
       "position": 12,
-      "name": "New York",
+      "name": "The E Street Shuffle",
       "set_name": "Set 1",
       "encore": 0,
       "is_cover": false,
@@ -116,11 +116,124 @@
     },
     {
       "position": 13,
-      "name": "Into the Void",
+      "name": "Last Man Standing",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Backstreets",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Because the Night",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Patti Smith Group"
+    },
+    {
+      "position": 16,
+      "name": "She's the One",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "Wrecking Ball",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "The Rising",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 19,
+      "name": "Badlands",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "Jersey Girl",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tom Waits"
+    },
+    {
+      "position": 21,
+      "name": "Thunder Road",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 22,
+      "name": "Born to Run",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 23,
+      "name": "Rosalita (Come Out Tonight)",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 24,
+      "name": "Glory Days",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 25,
+      "name": "Dancing in the Dark",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 26,
+      "name": "Tenth Avenue Freeze-Out",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 27,
+      "name": "I'll See You in My Dreams",
       "set_name": "Set 2",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     }
-  ]
+  ],
+  "tour_name": "Springsteen & E Street Band 2023 Tour"
 }

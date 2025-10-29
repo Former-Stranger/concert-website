@@ -1,0 +1,1264 @@
+{
+  "scan_date": "2025-10-29T16:02:50.350094",
+  "total_concerts_scanned": 9,
+  "results": [
+    {
+      "concert_id": null,
+      "concert_date": "2025-08-09",
+      "venue": "Forest Hills Stadium",
+      "headliner": {
+        "name": "Mumford & Sons",
+        "song_count": 22
+      },
+      "detected_openers": [
+        {
+          "artist_name": "Lucius",
+          "artist_mbid": "1676172f-657a-4771-96ff-4a1c2ef1997e",
+          "song_count": 8,
+          "tour_name": "Railroad Revival Tour",
+          "setlistfm_id": "3b423814",
+          "setlistfm_url": "https://www.setlist.fm/setlist/lucius/2025/forest-hills-stadium-queens-ny-3b423814.html",
+          "setlist_data": {
+            "id": "3b423814",
+            "versionId": "g2b71708e",
+            "eventDate": "09-08-2025",
+            "lastUpdated": "2025-08-10T04:15:12.500+0000",
+            "artist": {
+              "mbid": "1676172f-657a-4771-96ff-4a1c2ef1997e",
+              "name": "Lucius",
+              "sortName": "Lucius",
+              "disambiguation": "US indie pop band",
+              "url": "https://www.setlist.fm/setlists/lucius-3df2577.html"
+            },
+            "venue": {
+              "id": "1bd26dfc",
+              "name": "Forest Hills Stadium",
+              "city": {
+                "id": "5133266",
+                "name": "Queens",
+                "state": "New York",
+                "stateCode": "NY",
+                "coords": {
+                  "lat": 40.7498243,
+                  "long": -73.7976337
+                },
+                "country": {
+                  "code": "US",
+                  "name": "United States"
+                }
+              },
+              "url": "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+            },
+            "tour": {
+              "name": "Railroad Revival Tour"
+            },
+            "sets": {
+              "set": [
+                {
+                  "song": [
+                    {
+                      "name": "Nothing Ordinary"
+                    },
+                    {
+                      "name": "Tempest"
+                    },
+                    {
+                      "name": "Final Days"
+                    },
+                    {
+                      "name": "Gold Rush"
+                    },
+                    {
+                      "name": "Stranger Danger"
+                    },
+                    {
+                      "name": "Dusty Trails",
+                      "with": {
+                        "mbid": "30415593-f831-42a1-ba3f-fbaef1272815",
+                        "name": "Marcus Mumford",
+                        "sortName": "Mumford, Marcus",
+                        "disambiguation": "",
+                        "url": "https://www.setlist.fm/setlists/marcus-mumford-63d23e0f.html"
+                      }
+                    },
+                    {
+                      "name": "Old Tape"
+                    },
+                    {
+                      "name": "Genevieve"
+                    }
+                  ]
+                }
+              ]
+            },
+            "url": "https://www.setlist.fm/setlist/lucius/2025/forest-hills-stadium-queens-ny-3b423814.html"
+          },
+          "confidence": 95,
+          "confidence_label": "HIGH"
+        }
+      ],
+      "guest_artists": [
+        "lucius"
+      ]
+    },
+    {
+      "concert_id": null,
+      "concert_date": "2025-08-08",
+      "venue": "Capitol Theatre",
+      "headliner": {
+        "name": "The Avett Brothers",
+        "song_count": 25
+      },
+      "detected_openers": [
+        {
+          "artist_name": "Sawyer Brown",
+          "artist_mbid": "1b69a7bc-7563-4aaf-a859-8b6050a7a0f2",
+          "song_count": 21,
+          "tour_name": null,
+          "setlistfm_id": "1b43e588",
+          "setlistfm_url": "https://www.setlist.fm/setlist/sawyer-brown/2025/capitol-theatre-flint-mi-1b43e588.html",
+          "setlist_data": {
+            "id": "1b43e588",
+            "versionId": "g73711e5d",
+            "eventDate": "08-08-2025",
+            "lastUpdated": "2025-08-09T11:13:54.637+0000",
+            "artist": {
+              "mbid": "1b69a7bc-7563-4aaf-a859-8b6050a7a0f2",
+              "name": "Sawyer Brown",
+              "sortName": "Sawyer Brown",
+              "disambiguation": "",
+              "url": "https://www.setlist.fm/setlists/sawyer-brown-4bd71f7e.html"
+            },
+            "venue": {
+              "id": "5bd62bf4",
+              "name": "Capitol Theatre",
+              "city": {
+                "id": "4992982",
+                "name": "Flint",
+                "state": "Michigan",
+                "stateCode": "MI",
+                "coords": {
+                  "lat": 43.0125274,
+                  "long": -83.6874562
+                },
+                "country": {
+                  "code": "US",
+                  "name": "United States"
+                }
+              },
+              "url": "https://www.setlist.fm/venue/capitol-theatre-flint-mi-usa-5bd62bf4.html"
+            },
+            "sets": {
+              "set": [
+                {
+                  "song": [
+                    {
+                      "name": "The Boys and Me"
+                    },
+                    {
+                      "name": "Drive Me Wild"
+                    },
+                    {
+                      "name": "This Time"
+                    },
+                    {
+                      "name": "Cafe on the Corner"
+                    },
+                    {
+                      "name": "The Walk"
+                    },
+                    {
+                      "name": "Under This Ole Hat"
+                    },
+                    {
+                      "name": "(This Thing Called) Wantin' and Havin' It All"
+                    },
+                    {
+                      "name": "Hard to Say"
+                    },
+                    {
+                      "name": "This Night Won't Last Forever",
+                      "cover": {
+                        "mbid": "7a2278bc-a940-4aee-aabe-95057d9ceb62",
+                        "name": "Michael Johnson",
+                        "sortName": "Johnson, Michael",
+                        "disambiguation": "singer, songwriter & guitarist",
+                        "url": "https://www.setlist.fm/setlists/michael-johnson-3bd69824.html"
+                      }
+                    },
+                    {
+                      "name": "All These Years",
+                      "cover": {
+                        "mbid": "48e32ea6-e282-44ee-96a6-1ed5aeaa4023",
+                        "name": "Mac McAnally",
+                        "sortName": "McAnally, Mac",
+                        "disambiguation": "",
+                        "url": "https://www.setlist.fm/setlists/mac-mcanally-4bd797de.html"
+                      }
+                    },
+                    {
+                      "name": "Step That Step / Betty's Been Bad"
+                    },
+                    {
+                      "name": "The Gambler",
+                      "cover": {
+                        "mbid": "7c4ab1f9-96cf-46e9-9f5d-2160af37edd1",
+                        "name": "Don Schlitz",
+                        "sortName": "Schlitz, Don",
+                        "disambiguation": "",
+                        "url": "https://www.setlist.fm/setlists/don-schlitz-4bd363f6.html"
+                      }
+                    },
+                    {
+                      "name": "The Dirt Road"
+                    },
+                    {
+                      "name": "Life's Been Good",
+                      "cover": {
+                        "mbid": "c6f5969f-1f65-465c-8603-ec2d1e31e39d",
+                        "name": "Joe Walsh",
+                        "sortName": "Walsh, Joe",
+                        "disambiguation": "Eagles/James Gang",
+                        "url": "https://www.setlist.fm/setlists/joe-walsh-23d6b8b7.html"
+                      }
+                    },
+                    {
+                      "name": "Swingin'",
+                      "cover": {
+                        "mbid": "21bffe8e-4e04-47f6-b1aa-7ede4b14cc4e",
+                        "name": "John Anderson",
+                        "sortName": "Anderson, John",
+                        "disambiguation": "US country music singer-songwriter",
+                        "url": "https://www.setlist.fm/setlists/john-anderson-53d7af05.html"
+                      }
+                    },
+                    {
+                      "name": "Six Days on the Road"
+                    },
+                    {
+                      "name": "Thank God for You"
+                    },
+                    {
+                      "name": "Fishin' in the Dark",
+                      "cover": {
+                        "mbid": "3d546613-9330-4e1a-8d62-6deab7bb9db5",
+                        "name": "Ed Bruce",
+                        "sortName": "Bruce, Ed",
+                        "disambiguation": "American country music songwriter, singer and actor",
+                        "url": "https://www.setlist.fm/setlists/ed-bruce-2bd6348e.html"
+                      }
+                    },
+                    {
+                      "name": "Should've Been a Cowboy",
+                      "cover": {
+                        "mbid": "2f951906-5629-4fef-a260-5033151c162a",
+                        "name": "Toby Keith",
+                        "sortName": "Keith, Toby",
+                        "disambiguation": "US country singer & guitarist",
+                        "url": "https://www.setlist.fm/setlists/toby-keith-33d6bc81.html"
+                      }
+                    },
+                    {
+                      "name": "The Race Is On",
+                      "cover": {
+                        "mbid": "f2903be0-79a7-4334-8cc5-e45309482a97",
+                        "name": "George Jones",
+                        "sortName": "Jones, George",
+                        "disambiguation": "US country music vocalist",
+                        "url": "https://www.setlist.fm/setlists/george-jones-7bd6de20.html"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "encore": 1,
+                  "song": [
+                    {
+                      "name": "Some Girls Do"
+                    }
+                  ]
+                }
+              ]
+            },
+            "url": "https://www.setlist.fm/setlist/sawyer-brown/2025/capitol-theatre-flint-mi-1b43e588.html"
+          },
+          "confidence": 35,
+          "confidence_label": "LOW"
+        }
+      ],
+      "guest_artists": []
+    },
+    {
+      "concert_id": null,
+      "concert_date": "2025-07-25",
+      "venue": "Madison Square Garden",
+      "headliner": {
+        "name": "Chris Stapleton",
+        "song_count": 27
+      },
+      "detected_openers": [
+        {
+          "artist_name": "Grace Potter",
+          "artist_mbid": "b1103b87-3b91-4ec5-9d7b-15c2d1e486af",
+          "song_count": 2,
+          "tour_name": "Medicine 2025",
+          "setlistfm_id": "7b46eec4",
+          "setlistfm_url": "https://www.setlist.fm/setlist/grace-potter/2025/madison-square-garden-new-york-ny-7b46eec4.html",
+          "setlist_data": {
+            "id": "7b46eec4",
+            "versionId": "g5b79f31c",
+            "eventDate": "25-07-2025",
+            "lastUpdated": "2025-10-08T05:58:50.850+0000",
+            "artist": {
+              "mbid": "b1103b87-3b91-4ec5-9d7b-15c2d1e486af",
+              "name": "Grace Potter",
+              "sortName": "Potter, Grace",
+              "disambiguation": "",
+              "url": "https://www.setlist.fm/setlists/grace-potter-3bd4e86c.html"
+            },
+            "venue": {
+              "id": "23d63cc7",
+              "name": "Madison Square Garden",
+              "city": {
+                "id": "5128581",
+                "name": "New York",
+                "state": "New York",
+                "stateCode": "NY",
+                "coords": {
+                  "lat": 40.7142691,
+                  "long": -74.0059729
+                },
+                "country": {
+                  "code": "US",
+                  "name": "United States"
+                }
+              },
+              "url": "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+            },
+            "tour": {
+              "name": "Medicine 2025"
+            },
+            "sets": {
+              "set": [
+                {
+                  "song": [
+                    {
+                      "name": "Stars",
+                      "cover": {
+                        "mbid": "9501a1d0-04a2-47ee-828d-9d016c315bb7",
+                        "name": "Grace Potter & the Nocturnals",
+                        "sortName": "Potter, Grace & the Nocturnals",
+                        "disambiguation": "",
+                        "url": "https://www.setlist.fm/setlists/grace-potter-and-the-nocturnals-53d77b6d.html"
+                      }
+                    },
+                    {
+                      "name": "Nothing but the Water (I)",
+                      "cover": {
+                        "mbid": "9501a1d0-04a2-47ee-828d-9d016c315bb7",
+                        "name": "Grace Potter & the Nocturnals",
+                        "sortName": "Potter, Grace & the Nocturnals",
+                        "disambiguation": "",
+                        "url": "https://www.setlist.fm/setlists/grace-potter-and-the-nocturnals-53d77b6d.html"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "info": "Setlist incomplete and out of order - Chris Stapleton support",
+            "url": "https://www.setlist.fm/setlist/grace-potter/2025/madison-square-garden-new-york-ny-7b46eec4.html"
+          },
+          "confidence": 45,
+          "confidence_label": "LOW"
+        }
+      ],
+      "guest_artists": []
+    },
+    {
+      "concert_id": null,
+      "concert_date": "2025-07-19",
+      "venue": "MetLife Stadium",
+      "headliner": {
+        "name": "Zach Bryan",
+        "song_count": 25
+      },
+      "detected_openers": [
+        {
+          "artist_name": "Kings of Leon",
+          "artist_mbid": "6ffb8ea9-2370-44d8-b678-e9237bbd347b",
+          "song_count": 14,
+          "tour_name": null,
+          "setlistfm_id": "335edcf9",
+          "setlistfm_url": "https://www.setlist.fm/setlist/kings-of-leon/2025/metlife-stadium-east-rutherford-nj-335edcf9.html",
+          "setlist_data": {
+            "id": "335edcf9",
+            "versionId": "g3b73b498",
+            "eventDate": "19-07-2025",
+            "lastUpdated": "2025-07-20T05:13:08.413+0000",
+            "artist": {
+              "mbid": "6ffb8ea9-2370-44d8-b678-e9237bbd347b",
+              "name": "Kings of Leon",
+              "sortName": "Kings of Leon",
+              "disambiguation": "",
+              "url": "https://www.setlist.fm/setlists/kings-of-leon-23d6985b.html"
+            },
+            "venue": {
+              "id": "1bd72160",
+              "name": "MetLife Stadium",
+              "city": {
+                "id": "5097459",
+                "name": "East Rutherford",
+                "state": "New Jersey",
+                "stateCode": "NJ",
+                "coords": {
+                  "lat": 40.833989,
+                  "long": -74.0970865
+                },
+                "country": {
+                  "code": "US",
+                  "name": "United States"
+                }
+              },
+              "url": "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+            },
+            "sets": {
+              "set": [
+                {
+                  "song": [
+                    {
+                      "name": "Rainbow Ball"
+                    },
+                    {
+                      "name": "Radioactive"
+                    },
+                    {
+                      "name": "The Bandit"
+                    },
+                    {
+                      "name": "On Call"
+                    },
+                    {
+                      "name": "Revelry"
+                    },
+                    {
+                      "name": "Wait for Me"
+                    },
+                    {
+                      "name": "Use Somebody"
+                    },
+                    {
+                      "name": "Pyro"
+                    },
+                    {
+                      "name": "Waste a Moment"
+                    },
+                    {
+                      "name": "The Bucket"
+                    },
+                    {
+                      "name": "Back Down South"
+                    },
+                    {
+                      "name": "Cold Desert"
+                    },
+                    {
+                      "name": "Closer"
+                    },
+                    {
+                      "name": "Sex on Fire"
+                    }
+                  ]
+                }
+              ]
+            },
+            "url": "https://www.setlist.fm/setlist/kings-of-leon/2025/metlife-stadium-east-rutherford-nj-335edcf9.html"
+          },
+          "confidence": 35,
+          "confidence_label": "LOW"
+        },
+        {
+          "artist_name": "The Front Bottoms",
+          "artist_mbid": "622b6000-ff0d-4ab3-9e98-c4916f3692c3",
+          "song_count": 8,
+          "tour_name": null,
+          "setlistfm_id": "4342f7bb",
+          "setlistfm_url": "https://www.setlist.fm/setlist/the-front-bottoms/2025/metlife-stadium-east-rutherford-nj-4342f7bb.html",
+          "setlist_data": {
+            "id": "4342f7bb",
+            "versionId": "g7b7322cc",
+            "eventDate": "19-07-2025",
+            "lastUpdated": "2025-07-25T01:19:41.035+0000",
+            "artist": {
+              "mbid": "622b6000-ff0d-4ab3-9e98-c4916f3692c3",
+              "name": "The Front Bottoms",
+              "sortName": "Front Bottoms, The",
+              "disambiguation": "",
+              "url": "https://www.setlist.fm/setlists/the-front-bottoms-63d0ca5b.html"
+            },
+            "venue": {
+              "id": "1bd72160",
+              "name": "MetLife Stadium",
+              "city": {
+                "id": "5097459",
+                "name": "East Rutherford",
+                "state": "New Jersey",
+                "stateCode": "NJ",
+                "coords": {
+                  "lat": 40.833989,
+                  "long": -74.0970865
+                },
+                "country": {
+                  "code": "US",
+                  "name": "United States"
+                }
+              },
+              "url": "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+            },
+            "sets": {
+              "set": [
+                {
+                  "song": [
+                    {
+                      "name": "West Virginia"
+                    },
+                    {
+                      "name": "Summer Shandy"
+                    },
+                    {
+                      "name": "The Beers"
+                    },
+                    {
+                      "name": "Cough It Out"
+                    },
+                    {
+                      "name": "Lone Star"
+                    },
+                    {
+                      "name": "Peach"
+                    },
+                    {
+                      "name": "Outlook"
+                    },
+                    {
+                      "name": "Twin Size Mattress"
+                    }
+                  ]
+                }
+              ]
+            },
+            "url": "https://www.setlist.fm/setlist/the-front-bottoms/2025/metlife-stadium-east-rutherford-nj-4342f7bb.html"
+          },
+          "confidence": 50,
+          "confidence_label": "MEDIUM"
+        }
+      ],
+      "guest_artists": [
+        "gabrielle rosen"
+      ]
+    },
+    {
+      "concert_id": null,
+      "concert_date": "2025-07-18",
+      "venue": "Hartford HealthCare Amphitheater",
+      "headliner": {
+        "name": "Brad Paisley",
+        "song_count": 22
+      },
+      "detected_openers": [
+        {
+          "artist_name": "Walker Hayes",
+          "artist_mbid": "e48d32dc-18ad-40df-854c-49ea4d12d809",
+          "song_count": 10,
+          "tour_name": null,
+          "setlistfm_id": "4b450bba",
+          "setlistfm_url": "https://www.setlist.fm/setlist/walker-hayes/2025/hartford-healthcare-amphitheater-bridgeport-ct-4b450bba.html",
+          "setlist_data": {
+            "id": "4b450bba",
+            "versionId": "g4b73fbc2",
+            "eventDate": "18-07-2025",
+            "lastUpdated": "2025-07-21T23:38:53.874+0000",
+            "artist": {
+              "mbid": "e48d32dc-18ad-40df-854c-49ea4d12d809",
+              "name": "Walker Hayes",
+              "sortName": "Hayes, Walker",
+              "disambiguation": "",
+              "url": "https://www.setlist.fm/setlists/walker-hayes-3d0c173.html"
+            },
+            "venue": {
+              "id": "2bd08482",
+              "name": "Hartford HealthCare Amphitheater",
+              "city": {
+                "id": "5282804",
+                "name": "Bridgeport",
+                "state": "Connecticut",
+                "stateCode": "CT",
+                "coords": {
+                  "lat": 41.1670412,
+                  "long": -73.2048348
+                },
+                "country": {
+                  "code": "US",
+                  "name": "United States"
+                }
+              },
+              "url": "https://www.setlist.fm/venue/hartford-healthcare-amphitheater-bridgeport-ct-usa-2bd08482.html"
+            },
+            "sets": {
+              "set": [
+                {
+                  "song": [
+                    {
+                      "name": "U Gurl"
+                    },
+                    {
+                      "name": "Stetson"
+                    },
+                    {
+                      "name": "You Broke Up With Me"
+                    },
+                    {
+                      "name": "Don't Let Her"
+                    },
+                    {
+                      "name": "Song for My Son",
+                      "info": "Live debut"
+                    },
+                    {
+                      "name": "Y'all Life"
+                    },
+                    {
+                      "name": "AA"
+                    },
+                    {
+                      "name": "90's Country"
+                    },
+                    {
+                      "name": "Briefcase"
+                    },
+                    {
+                      "name": "Fancy Like"
+                    }
+                  ]
+                }
+              ]
+            },
+            "url": "https://www.setlist.fm/setlist/walker-hayes/2025/hartford-healthcare-amphitheater-bridgeport-ct-4b450bba.html"
+          },
+          "confidence": 100,
+          "confidence_label": "HIGH"
+        },
+        {
+          "artist_name": "Alexandra Kay",
+          "artist_mbid": "5e8644da-39d5-4f3d-ab43-02515dbc63c1",
+          "song_count": 6,
+          "tour_name": null,
+          "setlistfm_id": "5b450bb8",
+          "setlistfm_url": "https://www.setlist.fm/setlist/alexandra-kay/2025/hartford-healthcare-amphitheater-bridgeport-ct-5b450bb8.html",
+          "setlist_data": {
+            "id": "5b450bb8",
+            "versionId": "g7b73fa30",
+            "eventDate": "18-07-2025",
+            "lastUpdated": "2025-07-21T23:58:04.742+0000",
+            "artist": {
+              "mbid": "5e8644da-39d5-4f3d-ab43-02515dbc63c1",
+              "name": "Alexandra Kay",
+              "sortName": "Kay, Alexandra",
+              "disambiguation": "",
+              "url": "https://www.setlist.fm/setlists/alexandra-kay-1bf4e594.html"
+            },
+            "venue": {
+              "id": "2bd08482",
+              "name": "Hartford HealthCare Amphitheater",
+              "city": {
+                "id": "5282804",
+                "name": "Bridgeport",
+                "state": "Connecticut",
+                "stateCode": "CT",
+                "coords": {
+                  "lat": 41.1670412,
+                  "long": -73.2048348
+                },
+                "country": {
+                  "code": "US",
+                  "name": "United States"
+                }
+              },
+              "url": "https://www.setlist.fm/venue/hartford-healthcare-amphitheater-bridgeport-ct-usa-2bd08482.html"
+            },
+            "sets": {
+              "set": [
+                {
+                  "song": [
+                    {
+                      "name": "Feminine Energy"
+                    },
+                    {
+                      "name": "Cupid's A Cowgirl"
+                    },
+                    {
+                      "name": "The Last"
+                    },
+                    {
+                      "name": "Straight For The Heart"
+                    },
+                    {
+                      "name": "Painted Him Perfect"
+                    },
+                    {
+                      "name": "Everleave"
+                    }
+                  ]
+                }
+              ]
+            },
+            "url": "https://www.setlist.fm/setlist/alexandra-kay/2025/hartford-healthcare-amphitheater-bridgeport-ct-5b450bb8.html"
+          },
+          "confidence": 100,
+          "confidence_label": "HIGH"
+        }
+      ],
+      "guest_artists": [
+        "alexandra kay",
+        "walker hayes"
+      ]
+    },
+    {
+      "concert_id": null,
+      "concert_date": "2025-07-12",
+      "venue": "Madison Square Garden",
+      "headliner": {
+        "name": "\u201cWeird Al\u201d Yankovic",
+        "song_count": 33
+      },
+      "detected_openers": [
+        {
+          "artist_name": "Puddles Pity Party",
+          "artist_mbid": "e551c9a5-ad3d-4f80-a049-534a0e20cc0b",
+          "song_count": 11,
+          "tour_name": null,
+          "setlistfm_id": "53532bdd",
+          "setlistfm_url": "https://www.setlist.fm/setlist/puddles-pity-party/2025/madison-square-garden-new-york-ny-53532bdd.html",
+          "setlist_data": {
+            "id": "53532bdd",
+            "versionId": "g2b789c12",
+            "eventDate": "12-07-2025",
+            "lastUpdated": "2025-09-30T00:44:04.884+0000",
+            "artist": {
+              "mbid": "e551c9a5-ad3d-4f80-a049-534a0e20cc0b",
+              "name": "Puddles Pity Party",
+              "sortName": "Puddles Pity Party",
+              "disambiguation": "",
+              "url": "https://www.setlist.fm/setlists/puddles-pity-party-13d8417d.html"
+            },
+            "venue": {
+              "id": "23d63cc7",
+              "name": "Madison Square Garden",
+              "city": {
+                "id": "5128581",
+                "name": "New York",
+                "state": "New York",
+                "stateCode": "NY",
+                "coords": {
+                  "lat": 40.7142691,
+                  "long": -74.0059729
+                },
+                "country": {
+                  "code": "US",
+                  "name": "United States"
+                }
+              },
+              "url": "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+            },
+            "sets": {
+              "set": [
+                {
+                  "song": [
+                    {
+                      "name": "I'm Always Chasing Rainbows",
+                      "cover": {
+                        "mbid": "aca245ca-0de5-4883-9f5a-f5360a6ca654",
+                        "name": "Harry Carroll",
+                        "sortName": "Carroll, Harry",
+                        "disambiguation": "",
+                        "url": "https://www.setlist.fm/setlists/harry-carroll-3d58577.html"
+                      }
+                    },
+                    {
+                      "name": "Come Cry With Me",
+                      "cover": {
+                        "mbid": "b5a139eb-d95b-4f2b-b897-a61a313b49e1",
+                        "name": "Glyn Styler",
+                        "sortName": "Styler, Glyn",
+                        "disambiguation": "",
+                        "url": "https://www.setlist.fm/setlists/glyn-styler-43cacf5b.html"
+                      }
+                    },
+                    {
+                      "name": "Who Wants To Help The Clown",
+                      "tape": true
+                    },
+                    {
+                      "name": "Crazy Train",
+                      "cover": {
+                        "mbid": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+                        "name": "Ozzy Osbourne",
+                        "sortName": "Osbourne, Ozzy",
+                        "disambiguation": "",
+                        "url": "https://www.setlist.fm/setlists/ozzy-osbourne-1bd681dc.html"
+                      },
+                      "info": "With snippet of Message in a Bottle by The Police"
+                    },
+                    {
+                      "name": "Americana Day"
+                    },
+                    {
+                      "name": "Who Wants To Help The Clown",
+                      "tape": true
+                    },
+                    {
+                      "name": "Estoy sentado aqu\u00ed",
+                      "cover": {
+                        "mbid": "2b9967c7-3246-4658-a561-ded5408dd9af",
+                        "name": "Los Lobos",
+                        "sortName": "Lobos, Los",
+                        "disambiguation": "Chicano rock band",
+                        "url": "https://www.setlist.fm/setlists/los-lobos-4bd6b3c6.html"
+                      }
+                    },
+                    {
+                      "name": "Come On Up to the House",
+                      "cover": {
+                        "mbid": "c3aeb863-7b26-4388-94e8-5a240f2be21b",
+                        "name": "Tom Waits",
+                        "sortName": "Waits, Tom",
+                        "disambiguation": "",
+                        "url": "https://www.setlist.fm/setlists/tom-waits-3bd6c0ac.html"
+                      }
+                    },
+                    {
+                      "name": "In the End"
+                    },
+                    {
+                      "name": "Stairway to Gilligan's Island",
+                      "cover": {
+                        "mbid": "28447faf-093e-4926-a4fc-c17b95b48484",
+                        "name": "Little Roger and The Goosebumps",
+                        "sortName": "Little Roger and The Goosebumps",
+                        "disambiguation": "",
+                        "url": "https://www.setlist.fm/setlists/little-roger-and-the-goosebumps-23f7b07f.html"
+                      },
+                      "info": "Various pictures of Kevin Costner were shown during this and the next song because Puddles is a fan"
+                    },
+                    {
+                      "name": "My Heart Will Go On",
+                      "cover": {
+                        "mbid": "679ec43c-bc04-4bb0-b619-2da702a214ba",
+                        "name": "James Horner",
+                        "sortName": "Horner, James",
+                        "disambiguation": "American score composer",
+                        "url": "https://www.setlist.fm/setlists/james-horner-bd6b93e.html"
+                      },
+                      "info": "With snippets of Metallica\u2019s Enter Sandman and One at the end"
+                    }
+                  ]
+                }
+              ]
+            },
+            "url": "https://www.setlist.fm/setlist/puddles-pity-party/2025/madison-square-garden-new-york-ny-53532bdd.html"
+          },
+          "confidence": 50,
+          "confidence_label": "MEDIUM"
+        },
+        {
+          "artist_name": "The Rose",
+          "artist_mbid": "088e85ba-619f-4763-ad5f-246ab0614fe6",
+          "song_count": 0,
+          "tour_name": "2025 World Tour: Once Upon a WRLD",
+          "setlistfm_id": "3359946d",
+          "setlistfm_url": "https://www.setlist.fm/setlist/the-rose/2025/the-theater-at-madison-square-garden-new-york-ny-3359946d.html",
+          "setlist_data": {
+            "id": "3359946d",
+            "versionId": "g6b4036aa",
+            "eventDate": "12-07-2025",
+            "lastUpdated": "2025-04-03T20:08:45.869+0000",
+            "artist": {
+              "mbid": "088e85ba-619f-4763-ad5f-246ab0614fe6",
+              "name": "The Rose",
+              "sortName": "The Rose",
+              "disambiguation": "South Korean band",
+              "url": "https://www.setlist.fm/setlists/the-rose-43cc137f.html"
+            },
+            "venue": {
+              "id": "7bd62a20",
+              "name": "The Theater at Madison Square Garden",
+              "city": {
+                "id": "5128581",
+                "name": "New York",
+                "state": "New York",
+                "stateCode": "NY",
+                "coords": {
+                  "lat": 40.7142691,
+                  "long": -74.0059729
+                },
+                "country": {
+                  "code": "US",
+                  "name": "United States"
+                }
+              },
+              "url": "https://www.setlist.fm/venue/the-theater-at-madison-square-garden-new-york-ny-usa-7bd62a20.html"
+            },
+            "tour": {
+              "name": "2025 World Tour: Once Upon a WRLD"
+            },
+            "sets": {
+              "set": []
+            },
+            "url": "https://www.setlist.fm/setlist/the-rose/2025/the-theater-at-madison-square-garden-new-york-ny-3359946d.html"
+          },
+          "confidence": 45,
+          "confidence_label": "LOW"
+        }
+      ],
+      "guest_artists": []
+    },
+    {
+      "concert_id": null,
+      "concert_date": "2025-06-21",
+      "venue": "Saratoga Performing Arts Center",
+      "headliner": {
+        "name": "Mumford & Sons",
+        "song_count": 23
+      },
+      "detected_openers": [
+        {
+          "artist_name": "Gigi Perez",
+          "artist_mbid": "8ab64ebd-200e-47af-a3fc-92540e186214",
+          "song_count": 9,
+          "tour_name": null,
+          "setlistfm_id": "2b445492",
+          "setlistfm_url": "https://www.setlist.fm/setlist/gigi-perez/2025/saratoga-performing-arts-center-saratoga-springs-ny-2b445492.html",
+          "setlist_data": {
+            "id": "2b445492",
+            "versionId": "g2b7a2cd2",
+            "eventDate": "21-06-2025",
+            "lastUpdated": "2025-09-18T10:27:46.332+0000",
+            "artist": {
+              "mbid": "8ab64ebd-200e-47af-a3fc-92540e186214",
+              "name": "Gigi Perez",
+              "sortName": "Perez, Gigi",
+              "disambiguation": "Indie-rock singer/songwriter",
+              "url": "https://www.setlist.fm/setlists/gigi-perez-63fe8e77.html"
+            },
+            "venue": {
+              "id": "4bd63b2e",
+              "name": "Saratoga Performing Arts Center",
+              "city": {
+                "id": "5136334",
+                "name": "Saratoga Springs",
+                "state": "New York",
+                "stateCode": "NY",
+                "coords": {
+                  "lat": 43.0831301,
+                  "long": -73.7845651
+                },
+                "country": {
+                  "code": "US",
+                  "name": "United States"
+                }
+              },
+              "url": "https://www.setlist.fm/venue/saratoga-performing-arts-center-saratoga-springs-ny-usa-4bd63b2e.html"
+            },
+            "sets": {
+              "set": [
+                {
+                  "song": [
+                    {
+                      "name": "Please Be Rude"
+                    },
+                    {
+                      "name": "Sleeping"
+                    },
+                    {
+                      "name": "Fable"
+                    },
+                    {
+                      "name": "Normalcy"
+                    },
+                    {
+                      "name": "At the Beach, in Every Life"
+                    },
+                    {
+                      "name": "Sugar Water"
+                    },
+                    {
+                      "name": "Twister"
+                    },
+                    {
+                      "name": "Chemistry"
+                    },
+                    {
+                      "name": "Sailor Song"
+                    }
+                  ]
+                }
+              ]
+            },
+            "info": "Setlist incomplete and out of order",
+            "url": "https://www.setlist.fm/setlist/gigi-perez/2025/saratoga-performing-arts-center-saratoga-springs-ny-2b445492.html"
+          },
+          "confidence": 100,
+          "confidence_label": "HIGH"
+        }
+      ],
+      "guest_artists": [
+        "gigi perez"
+      ]
+    },
+    {
+      "concert_id": null,
+      "concert_date": "2025-05-31",
+      "venue": "Northwell at Jones Beach Theater",
+      "headliner": {
+        "name": "Luke Bryan",
+        "song_count": 26
+      },
+      "detected_openers": [
+        {
+          "artist_name": "Avery Anna",
+          "artist_mbid": "0c92f735-169d-49ba-8379-c7ae06b09033",
+          "song_count": 7,
+          "tour_name": null,
+          "setlistfm_id": "1358e185",
+          "setlistfm_url": "https://www.setlist.fm/setlist/avery-anna/2025/northwell-at-jones-beach-theater-wantagh-ny-1358e185.html",
+          "setlist_data": {
+            "id": "1358e185",
+            "versionId": "g5b79fba0",
+            "eventDate": "31-05-2025",
+            "lastUpdated": "2025-10-08T02:17:32.315+0000",
+            "artist": {
+              "mbid": "0c92f735-169d-49ba-8379-c7ae06b09033",
+              "name": "Avery Anna",
+              "sortName": "Anna, Avery",
+              "disambiguation": "TikTok Star",
+              "url": "https://www.setlist.fm/setlists/avery-anna-2bf0989a.html"
+            },
+            "venue": {
+              "id": "2bde0c7a",
+              "name": "Northwell at Jones Beach Theater",
+              "city": {
+                "id": "5143198",
+                "name": "Wantagh",
+                "state": "New York",
+                "stateCode": "NY",
+                "coords": {
+                  "lat": 40.6837121,
+                  "long": -73.5101258
+                },
+                "country": {
+                  "code": "US",
+                  "name": "United States"
+                }
+              },
+              "url": "https://www.setlist.fm/venue/northwell-at-jones-beach-theater-wantagh-ny-usa-2bde0c7a.html"
+            },
+            "sets": {
+              "set": [
+                {
+                  "song": [
+                    {
+                      "name": "Blame It on My Broken Heart"
+                    },
+                    {
+                      "name": "Mr. Predictable"
+                    },
+                    {
+                      "name": "Indigo",
+                      "cover": {
+                        "mbid": "b0d94518-8cc7-4a7c-9583-33b4eb2c113f",
+                        "name": "Sam Barber feat. Avery Anna",
+                        "sortName": "Barber, Sam feat. Anna, Avery",
+                        "disambiguation": "",
+                        "url": "https://www.setlist.fm/setlists/sam-barber-feat-avery-anna-1be0a19c.html"
+                      }
+                    },
+                    {
+                      "name": "",
+                      "info": "One Last Breath -Creed; Courtesy of the Red White and Blue -Toby Keith"
+                    },
+                    {
+                      "name": "it's just rainin'"
+                    },
+                    {
+                      "name": "Narcissist"
+                    },
+                    {
+                      "name": "Make It Look Easy"
+                    }
+                  ]
+                }
+              ]
+            },
+            "url": "https://www.setlist.fm/setlist/avery-anna/2025/northwell-at-jones-beach-theater-wantagh-ny-1358e185.html"
+          },
+          "confidence": 50,
+          "confidence_label": "MEDIUM"
+        },
+        {
+          "artist_name": "George Birge",
+          "artist_mbid": "a0e1f271-f25a-48d2-b652-4bfc33d6842b",
+          "song_count": 0,
+          "tour_name": null,
+          "setlistfm_id": "4b44b7ee",
+          "setlistfm_url": "https://www.setlist.fm/setlist/george-birge/2025/northwell-at-jones-beach-theater-wantagh-ny-4b44b7ee.html",
+          "setlist_data": {
+            "id": "4b44b7ee",
+            "versionId": "g1372292d",
+            "eventDate": "31-05-2025",
+            "lastUpdated": "2025-07-17T00:13:22.705+0000",
+            "artist": {
+              "mbid": "a0e1f271-f25a-48d2-b652-4bfc33d6842b",
+              "name": "George Birge",
+              "sortName": "Birge, George",
+              "disambiguation": "",
+              "url": "https://www.setlist.fm/setlists/george-birge-63f3eac3.html"
+            },
+            "venue": {
+              "id": "2bde0c7a",
+              "name": "Northwell at Jones Beach Theater",
+              "city": {
+                "id": "5143198",
+                "name": "Wantagh",
+                "state": "New York",
+                "stateCode": "NY",
+                "coords": {
+                  "lat": 40.6837121,
+                  "long": -73.5101258
+                },
+                "country": {
+                  "code": "US",
+                  "name": "United States"
+                }
+              },
+              "url": "https://www.setlist.fm/venue/northwell-at-jones-beach-theater-wantagh-ny-usa-2bde0c7a.html"
+            },
+            "sets": {
+              "set": []
+            },
+            "url": "https://www.setlist.fm/setlist/george-birge/2025/northwell-at-jones-beach-theater-wantagh-ny-4b44b7ee.html"
+          },
+          "confidence": 50,
+          "confidence_label": "MEDIUM"
+        }
+      ],
+      "guest_artists": []
+    },
+    {
+      "concert_id": null,
+      "concert_date": "2025-05-29",
+      "venue": "Capitol Theatre",
+      "headliner": {
+        "name": "Blues Traveler",
+        "song_count": 16
+      },
+      "detected_openers": [
+        {
+          "artist_name": "Common People",
+          "artist_mbid": "ef644205-d73b-4ddb-b345-2f1e04fd5e05",
+          "song_count": 0,
+          "tour_name": null,
+          "setlistfm_id": "4b474bfe",
+          "setlistfm_url": "https://www.setlist.fm/setlist/common-people/2025/capitol-theatre-port-chester-ny-4b474bfe.html",
+          "setlist_data": {
+            "id": "4b474bfe",
+            "versionId": "g73489691",
+            "eventDate": "29-05-2025",
+            "lastUpdated": "2025-05-31T10:14:44.783+0000",
+            "artist": {
+              "mbid": "ef644205-d73b-4ddb-b345-2f1e04fd5e05",
+              "name": "Common People",
+              "sortName": "Common People",
+              "disambiguation": "",
+              "url": "https://www.setlist.fm/setlists/common-people-7bd28a4c.html"
+            },
+            "venue": {
+              "id": "53d54729",
+              "name": "Capitol Theatre",
+              "city": {
+                "id": "5132002",
+                "name": "Port Chester",
+                "state": "New York",
+                "stateCode": "NY",
+                "coords": {
+                  "lat": 41.0017643,
+                  "long": -73.6656834
+                },
+                "country": {
+                  "code": "US",
+                  "name": "United States"
+                }
+              },
+              "url": "https://www.setlist.fm/venue/capitol-theatre-port-chester-ny-usa-53d54729.html"
+            },
+            "sets": {
+              "set": []
+            },
+            "info": "4915 Cares Benefit Concert, opening for Blues Traveler.",
+            "url": "https://www.setlist.fm/setlist/common-people/2025/capitol-theatre-port-chester-ny-4b474bfe.html"
+          },
+          "confidence": 50,
+          "confidence_label": "MEDIUM"
+        },
+        {
+          "artist_name": "Les Hay Babies",
+          "artist_mbid": "a86d9a37-653e-4a05-a39c-1257eefc91e9",
+          "song_count": 0,
+          "tour_name": null,
+          "setlistfm_id": "3359a471",
+          "setlistfm_url": "https://www.setlist.fm/setlist/les-hay-babies/2025/capitol-theatre-moncton-nb-canada-3359a471.html",
+          "setlist_data": {
+            "id": "3359a471",
+            "versionId": "g340d9d7",
+            "eventDate": "29-05-2025",
+            "lastUpdated": "2025-04-02T12:14:43.233+0000",
+            "artist": {
+              "mbid": "a86d9a37-653e-4a05-a39c-1257eefc91e9",
+              "name": "Les Hay Babies",
+              "sortName": "Hay Babies, Les",
+              "disambiguation": "",
+              "url": "https://www.setlist.fm/setlists/les-hay-babies-3bd87898.html"
+            },
+            "venue": {
+              "id": "5bd7e304",
+              "name": "Capitol Theatre",
+              "city": {
+                "id": "6076211",
+                "name": "Moncton",
+                "state": "New Brunswick",
+                "stateCode": "NB",
+                "coords": {
+                  "lat": 46.115943434,
+                  "long": -64.801862188
+                },
+                "country": {
+                  "code": "CA",
+                  "name": "Canada"
+                }
+              },
+              "url": "https://www.setlist.fm/venue/capitol-theatre-moncton-nb-canada-5bd7e304.html"
+            },
+            "sets": {
+              "set": []
+            },
+            "url": "https://www.setlist.fm/setlist/les-hay-babies/2025/capitol-theatre-moncton-nb-canada-3359a471.html"
+          },
+          "confidence": 50,
+          "confidence_label": "MEDIUM"
+        }
+      ],
+      "guest_artists": [
+        "braiden sunshine"
+      ]
+    }
+  ]
+}

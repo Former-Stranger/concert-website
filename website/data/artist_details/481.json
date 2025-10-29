@@ -4,44 +4,44 @@
   "concert_count": 6,
   "top_songs": [
     {
+      "name": "Addicted to Love",
+      "times_played": 1
+    },
+    {
       "name": "You Wear It Well",
-      "times_played": 5
+      "times_played": 1
+    },
+    {
+      "name": "Ooh La La",
+      "times_played": 1
+    },
+    {
+      "name": "Some Guys Have All the Luck",
+      "times_played": 1
+    },
+    {
+      "name": "It Takes Two",
+      "times_played": 1
     },
     {
       "name": "Forever Young",
-      "times_played": 5
+      "times_played": 1
     },
     {
       "name": "The First Cut Is the Deepest",
-      "times_played": 5
+      "times_played": 1
+    },
+    {
+      "name": "Have You Ever Seen the Rain?",
+      "times_played": 1
+    },
+    {
+      "name": "Every Picture Tells a Story",
+      "times_played": 1
     },
     {
       "name": "Maggie May",
-      "times_played": 5
-    },
-    {
-      "name": "Da Ya Think I'm Sexy?",
-      "times_played": 5
-    },
-    {
-      "name": "Rhythm of My Heart",
-      "times_played": 5
-    },
-    {
-      "name": "Tonight's the Night (Gonna Be Alright)",
-      "times_played": 5
-    },
-    {
-      "name": "You're in My Heart (The Final Acclaim)",
-      "times_played": 5
-    },
-    {
-      "name": "Have I Told You Lately",
-      "times_played": 4
-    },
-    {
-      "name": "Hot Legs",
-      "times_played": 4
+      "times_played": 1
     }
   ],
   "concerts": [
@@ -65,7 +65,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": true,
+      "has_setlist": false,
       "opening_song": null,
       "closing_song": null
     },

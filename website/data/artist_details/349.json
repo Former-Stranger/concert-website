@@ -2,48 +2,7 @@
   "id": "349",
   "name": "Little Steven",
   "concert_count": 2,
-  "top_songs": [
-    {
-      "name": "Soulfire",
-      "times_played": 3
-    },
-    {
-      "name": "Coming Back",
-      "times_played": 3
-    },
-    {
-      "name": "Blues Is My Business",
-      "times_played": 3
-    },
-    {
-      "name": "Love on the Wrong Side of Town",
-      "times_played": 3
-    },
-    {
-      "name": "Until the Good Is Gone",
-      "times_played": 3
-    },
-    {
-      "name": "Angel Eyes",
-      "times_played": 3
-    },
-    {
-      "name": "I Saw the Light",
-      "times_played": 3
-    },
-    {
-      "name": "Standing in the Line of Fire",
-      "times_played": 3
-    },
-    {
-      "name": "Saint Valentine's Day",
-      "times_played": 3
-    },
-    {
-      "name": "Salvation",
-      "times_played": 3
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "825",

@@ -1,0 +1,35 @@
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1761773590.169604 5986042 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/google/cloud/firestore_v1/base_collection.py:304: UserWarning: Detected filter using positional arguments. Prefer using the 'filter' keyword argument instead.
+  return query.where(field_path, op_string, value)
+Exporting Firestore database to JSON...
+============================================================
+
+1. Exporting concerts...
+   Loaded 1275 concerts
+
+2. Exporting concert details with setlists...
+   Exported 241 concert details
+   Updated concerts.json with 241 hasSetlist flags
+
+3. Exporting artists...
+   Exported 608 artists
+
+4. Exporting venues...
+   Exported 193 venues
+
+5. Generating statistics...
+   Generated statistics
+
+6. Exporting songs...
+   Exported 3299 unique songs
+
+7. Exporting venue details...
+   Exported 195 venue details
+
+8. Exporting artist details...
+   Exported 671 artist details
+
+============================================================
+Export complete!
+Files written to: /Users/akalbfell/Documents/Jay/concert-website/website/data

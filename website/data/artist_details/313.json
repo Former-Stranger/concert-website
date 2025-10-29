@@ -2,48 +2,7 @@
   "id": "313",
   "name": "Kanye West",
   "concert_count": 3,
-  "top_songs": [
-    {
-      "name": "Jesus Walks",
-      "times_played": 3
-    },
-    {
-      "name": "Touch the Sky",
-      "times_played": 3
-    },
-    {
-      "name": "Diamonds From Sierra Leone",
-      "times_played": 2
-    },
-    {
-      "name": "Heard 'Em Say",
-      "times_played": 2
-    },
-    {
-      "name": "All Falls Down",
-      "times_played": 2
-    },
-    {
-      "name": "Gold Digger",
-      "times_played": 2
-    },
-    {
-      "name": "Stronger",
-      "times_played": 2
-    },
-    {
-      "name": "The New Workout Plan",
-      "times_played": 1
-    },
-    {
-      "name": "Get Em High",
-      "times_played": 1
-    },
-    {
-      "name": "Crazy",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "609",

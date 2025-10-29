@@ -2,48 +2,7 @@
   "id": "35",
   "name": "Barenaked Ladies",
   "concert_count": 3,
-  "top_songs": [
-    {
-      "name": "Maybe Katie",
-      "times_played": 2
-    },
-    {
-      "name": "Too Little Too Late",
-      "times_played": 2
-    },
-    {
-      "name": "It's All Been Done",
-      "times_played": 2
-    },
-    {
-      "name": "For You",
-      "times_played": 2
-    },
-    {
-      "name": "One Week",
-      "times_played": 2
-    },
-    {
-      "name": "Pinch Me",
-      "times_played": 2
-    },
-    {
-      "name": "The Old Apartment",
-      "times_played": 2
-    },
-    {
-      "name": "If I Had $1000000",
-      "times_played": 2
-    },
-    {
-      "name": "Adlib",
-      "times_played": 2
-    },
-    {
-      "name": "Grade 9",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "235",
