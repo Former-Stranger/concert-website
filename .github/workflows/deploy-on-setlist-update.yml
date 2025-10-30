@@ -2,7 +2,7 @@ name: Deploy on Setlist Update
 
 on:
   repository_dispatch:
-    types: [setlist-updated]
+    types: [deploy-setlist]
   workflow_dispatch:  # Allow manual trigger
 
 jobs:

@@ -1,0 +1,174 @@
+{
+  "id": "1173",
+  "show_number": 1172,
+  "date": "2024-06-15",
+  "festival_name": null,
+  "venue": "Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "artists": [
+    {
+      "name": "Dead & Company",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/dead-and-company/2024/sphere-at-the-venetian-resort-las-vegas-nv-33abb8ed.html",
+  "song_count": 19,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "I Need a Miracle",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 2,
+      "name": "Eyes of the World",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 3,
+      "name": "Dancing in the Street",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Martha Reeves and the Vandellas"
+    },
+    {
+      "position": 4,
+      "name": "It Hurts Me Too",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tampa Red"
+    },
+    {
+      "position": 5,
+      "name": "Cassidy",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Weir"
+    },
+    {
+      "position": 6,
+      "name": "Sugaree",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jerry Garcia"
+    },
+    {
+      "position": 7,
+      "name": "China Cat Sunflower",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 8,
+      "name": "I Know You Rider",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 9,
+      "name": "Playing in the Band",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 10,
+      "name": "Cumberland Blues",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 11,
+      "name": "Estimated Prophet",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 12,
+      "name": "Drums",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 13,
+      "name": "Space",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 14,
+      "name": "Days Between",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 15,
+      "name": "Viola Lee Blues",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Cannon\u2019s Jug Stompers"
+    },
+    {
+      "position": 16,
+      "name": "U.S. Blues",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 17,
+      "name": "Dark Star",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 18,
+      "name": "Old News Broadcast of the Grateful Dead",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 19,
+      "name": "One More Saturday Night",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Weir"
+    }
+  ]
+}

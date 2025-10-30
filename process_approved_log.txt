@@ -1,0 +1,14 @@
+/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/google/cloud/firestore_v1/base_collection.py:304: UserWarning: Detected filter using positional arguments. Prefer using the 'filter' keyword argument instead.
+  return query.where(field_path, op_string, value)
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1761784917.325465 6164762 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+Searching for approved submissions that need processing...
+================================================================================
+
+✓ Skipping pJ7qExhROXr5NfUstXHA - already processed
+
+================================================================================
+✅ Processed: 0
+⏭️  Skipped (already processed): 1
+❌ Errors: 0
+================================================================================

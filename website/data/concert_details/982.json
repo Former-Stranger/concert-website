@@ -1,0 +1,182 @@
+{
+  "id": "982",
+  "show_number": 981,
+  "date": "2021-08-20",
+  "festival_name": null,
+  "venue": "Citi Field",
+  "city": "Queens",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Dead & Company",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/dead-and-company/2021/citi-field-queens-ny-7b8caa60.html",
+  "song_count": 20,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Good Times",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Sam Cooke"
+    },
+    {
+      "position": 2,
+      "name": "Bertha",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 3,
+      "name": "Good Lovin'",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Olympics"
+    },
+    {
+      "position": 4,
+      "name": "Big Railroad Blues",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Cannon\u2019s Jug Stompers"
+    },
+    {
+      "position": 5,
+      "name": "Ramble On Rose",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 6,
+      "name": "They Love Each Other",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jerry Garcia"
+    },
+    {
+      "position": 7,
+      "name": "Cassidy",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Weir"
+    },
+    {
+      "position": 8,
+      "name": "Casey Jones",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 9,
+      "name": "Eyes of the World",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 10,
+      "name": "Uncle John's Band",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 11,
+      "name": "China Doll",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 12,
+      "name": "China Cat Sunflower",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 13,
+      "name": "I Know You Rider",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 14,
+      "name": "Drums",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 15,
+      "name": "Space",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 16,
+      "name": "Spanish Jam",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 17,
+      "name": "Althea",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 18,
+      "name": "Stella Blue",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 19,
+      "name": "U.S. Blues",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Grateful Dead"
+    },
+    {
+      "position": 20,
+      "name": "The Weight",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "The Band"
+    }
+  ]
+}
