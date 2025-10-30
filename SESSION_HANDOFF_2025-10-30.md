@@ -306,13 +306,15 @@ sed -i '' 's/v=[0-9]*/v=NEW_TIMESTAMP/g' website/*.html
 - Created comprehensive SESSION_HANDOFF_2025-10-30.md
 - Documented all accomplishments, statistics, and workflows
 
-### Commit 6: (Not yet committed) Filter preservation and cache-busting
-**Files to be changed**: 13 HTML files, 1 JS file
+### Commit 6: Filter preservation and cache-busting
+**Hash**: ca0ae30
+**Files Changed**: 13 files (202 insertions, 35 deletions)
 **Key Changes**:
 - Implemented filter state preservation in concerts.js
 - Added comprehensive cache-busting to all HTML files (v=1761847463)
 - Improved back link visibility with black text and background
 - Updated concert.html to handle return URL parameters
+- Updated session handoff documentation
 
 ---
 
