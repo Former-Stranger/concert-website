@@ -14,12 +14,22 @@ async function loadConcerts() {
 
         populateYearFilter();
 
-        // Check for year parameter in URL and apply it
+        // Restore filters from URL parameters (when returning from concert page)
         const urlParams = new URLSearchParams(window.location.search);
         const yearParam = urlParams.get('year');
-        if (yearParam) {
-            const yearFilter = document.getElementById('year-filter');
-            yearFilter.value = yearParam;
+        const searchParam = urlParams.get('search');
+        const setlistParam = urlParams.get('setlist');
+
+        if (yearParam || searchParam || setlistParam) {
+            if (yearParam) {
+                document.getElementById('year-filter').value = yearParam;
+            }
+            if (searchParam) {
+                document.getElementById('search').value = searchParam;
+            }
+            if (setlistParam) {
+                document.getElementById('setlist-filter').value = setlistParam;
+            }
             applyFilters();
         } else {
             renderConcerts();
@@ -54,6 +64,9 @@ function applyFilters() {
 
     console.log('Applying filters:', { searchTerm, yearFilter, setlistFilter });
 
+    // Update URL with current filter state
+    updateURLWithFilters(searchTerm, yearFilter, setlistFilter);
+
     filteredConcerts = allConcerts.filter(concert => {
         // Search filter
         const matchesSearch = !searchTerm ||
@@ -80,6 +93,27 @@ function applyFilters() {
     updateCount();
 }
 
+// Update URL with current filter state (without page reload)
+function updateURLWithFilters(searchTerm, yearFilter, setlistFilter) {
+    const params = new URLSearchParams();
+
+    if (searchTerm) params.set('search', searchTerm);
+    if (yearFilter) params.set('year', yearFilter);
+    if (setlistFilter && setlistFilter !== 'all') params.set('setlist', setlistFilter);
+
+    const newURL = params.toString() ? `?${params.toString()}` : 'concerts.html';
+    window.history.replaceState({}, '', newURL);
+}
+
+// Build return URL with current filters
+function buildReturnURL() {
+    // Use current URL as source of truth for filters
+    const currentParams = new URLSearchParams(window.location.search);
+
+    // If there are any params, return the full URL, otherwise just concerts.html
+    return currentParams.toString() ? `concerts.html?${currentParams.toString()}` : 'concerts.html';
+}
+
 // Render concerts table
 function renderConcerts() {
     const tbody = document.getElementById('concerts-list');
@@ -95,8 +129,11 @@ function renderConcerts() {
         return;
     }
 
+    // Build return URL once with current filters
+    const returnURL = buildReturnURL();
+
     tbody.innerHTML = filteredConcerts.map(concert => `
-        <tr class="concert-row rounded" onclick="window.location.href='concert.html?id=${concert.id}'">
+        <tr class="concert-row rounded" onclick="window.location.href='concert.html?id=${concert.id}&returnUrl=${encodeURIComponent(returnURL)}'">
             <td style="font-weight: bold; color: #c1502e;">${formatDate(concert.date)}</td>
             <td class="font-bold">${concert.artists}</td>
             <td>${concert.venue}</td>

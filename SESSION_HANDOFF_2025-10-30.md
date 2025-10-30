@@ -1,7 +1,7 @@
 # Session Handoff - October 30, 2025
 
 ## Session Overview
-This session focused on completing a massive setlist import (812 new setlists), implementing an update setlist feature, fixing UI issues, and cleaning up duplicate data.
+This session focused on completing a massive setlist import (812 new setlists), implementing an update setlist feature, fixing UI issues, cleaning up duplicate data, implementing filter state preservation, and adding comprehensive cache-busting across the entire website.
 
 ---
 
@@ -148,6 +148,97 @@ This session focused on completing a massive setlist import (812 new setlists), 
 
 ---
 
+### 8. ✅ Implemented Filter State Preservation (COMPLETE)
+
+**Feature**: When filtering concerts (e.g., "no setlist", specific year, search term), clicking a concert and then clicking "Back to All Shows" now maintains the filter state.
+
+**How It Works**:
+1. URL parameters track current filter state (`?setlist=no-setlist`, `?year=2024`, etc.)
+2. When clicking a concert, the return URL with filters is passed as a parameter
+3. Back button uses the return URL to navigate back with filters intact
+4. Page loads and automatically restores filter selections from URL
+
+**Files Modified**:
+- `website/js/concerts.js` - Added `buildReturnURL()` function, `updateURLWithFilters()` function
+- `website/concert.html` - Added back link ID and JavaScript to handle return URL parameter
+
+**Key Functions**:
+- `buildReturnURL()`: Reads current URL parameters and builds return URL with filters
+- `updateURLWithFilters()`: Updates browser URL without page reload using `history.replaceState()`
+- Filter restoration on page load: Reads URL params and sets filter dropdowns
+
+**Result**: Seamless filter preservation across navigation - no more losing filters when viewing concert details
+
+---
+
+### 9. ✅ Improved Back Link Visibility (COMPLETE)
+
+**Problem**: "Back to All Shows" link was light cream color (#f4e4c1), hard to see on the page
+
+**Solution**: Changed to black text (#2d1b1b) with semi-transparent cream background
+
+**Styling Changes** (concert.html:147-160):
+- Text color: Black (#2d1b1b) for better contrast
+- Background: Semi-transparent cream with padding
+- Rounded corners for button-like appearance
+- Hover effect that darkens the background
+
+**Result**: Much more visible and clickable back button
+
+---
+
+### 10. ✅ Comprehensive Cache-Busting Implementation (COMPLETE)
+
+**Problem**: Browser caching was preventing users from seeing updated JavaScript files after deployments, causing odd behaviors and bugs
+
+**Solution**: Added version parameters (`?v=1761847463`) to ALL JavaScript imports across the entire website
+
+**Files Updated** (11 HTML files):
+1. concerts.html
+2. concert.html
+3. index.html
+4. artist.html
+5. artists.html
+6. songs.html
+7. venue.html
+8. venues.html
+9. add-concert.html
+10. admin-setlists.html
+11. help.html
+
+**JavaScript Files with Cache-Busting**:
+- auth.js
+- main.js
+- concerts.js
+- concert.js
+- artist.js
+- songs.js
+- venue.js
+- firebase-config.js
+- concert-notes.js
+- setlist-submission.js
+- concert-photos.js
+
+**JSON Files** (already had cache-busting):
+- All JSON data files use `Date.now()` for automatic cache-busting
+- concerts.json, songs.json, stats.json
+- artist_details/*.json, venue_details/*.json, concert_details/*.json
+
+**Benefits**:
+- No more stale JavaScript after deployments
+- Users always see latest features without hard refresh (Cmd+Shift+R)
+- Better UX for non-technical users
+- Prevents confusing behaviors from cached code
+
+**How to Update for Future Deployments**:
+When making JavaScript changes, update the version parameter in all HTML files:
+```bash
+# Change v=1761847463 to a new timestamp
+sed -i '' 's/v=[0-9]*/v=NEW_TIMESTAMP/g' website/*.html
+```
+
+---
+
 ## Current Database Statistics
 
 ### Overall Stats:
@@ -207,6 +298,21 @@ This session focused on completing a massive setlist import (812 new setlists), 
 **Key Changes**:
 - Moved Update Setlist button outside conditional
 - Now appears on all concerts with setlists
+
+### Commit 5: Add session handoff documentation
+**Hash**: 7b7e0d8
+**Files Changed**: 1 file
+**Key Changes**:
+- Created comprehensive SESSION_HANDOFF_2025-10-30.md
+- Documented all accomplishments, statistics, and workflows
+
+### Commit 6: (Not yet committed) Filter preservation and cache-busting
+**Files to be changed**: 13 HTML files, 1 JS file
+**Key Changes**:
+- Implemented filter state preservation in concerts.js
+- Added comprehensive cache-busting to all HTML files (v=1761847463)
+- Improved back link visibility with black text and background
+- Updated concert.html to handle return URL parameters
 
 ---
 
@@ -351,6 +457,18 @@ If you make changes, test these key features:
 - [ ] Song counts accurate
 - [ ] Cover/encore flags correct
 
+### Filter Preservation:
+- [ ] Filtering concerts by "no setlist" works
+- [ ] Clicking a concert preserves filter in URL
+- [ ] Back button returns to concerts with filter intact
+- [ ] Search filter is preserved
+- [ ] Year filter is preserved
+
+### Cache-Busting:
+- [ ] JavaScript files load with version parameter
+- [ ] No stale JavaScript after deployments
+- [ ] Users see latest features without hard refresh
+
 ---
 
 ## Contact Information
@@ -369,9 +487,12 @@ This was an extremely productive session! We:
 1. ✅ **Fetched 812 new setlists** - Massive improvement in coverage (42.6% → 77.3%)
 2. ✅ **Created comprehensive documentation** - All 84 scripts now documented
 3. ✅ **Implemented update setlist feature** - Owner can now edit existing setlists
-4. ✅ **Fixed multiple UI/UX issues** - Guest artist color, button visibility
+4. ✅ **Fixed multiple UI/UX issues** - Guest artist color, button visibility, back link visibility
 5. ✅ **Cleaned up data** - Removed 60 duplicate setlist documents
 6. ✅ **Fixed deployment pipeline** - No more double workflows
+7. ✅ **Implemented filter state preservation** - Filters maintained when navigating between pages
+8. ✅ **Added comprehensive cache-busting** - All 11 HTML files now have versioned JavaScript imports
+9. ✅ **Improved user experience** - No more stale JavaScript, seamless filter navigation
 
 **Total setlist coverage**: 987 / 1,275 concerts = **77.4%** 🎉
 
