@@ -16,7 +16,7 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/paul-simon/2025/beacon-theatre-new-york-ny-4b5b9f26.html",
   "song_count": 23,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
@@ -64,8 +64,7 @@
       "set_name": "Set 1:",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Edie Brickell"
+      "cover_artist": null
     },
     {
       "position": 7,
@@ -73,8 +72,7 @@
       "set_name": "Set 1:",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Edie Brickell"
+      "cover_artist": null
     },
     {
       "position": 8,
@@ -130,8 +128,7 @@
       "set_name": "Set 2:",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Edie Brickell"
+      "cover_artist": null
     },
     {
       "position": 15,
@@ -171,41 +168,39 @@
       "set_name": "Set 2:",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Edie Brickell"
+      "cover_artist": null
     },
     {
       "position": 20,
       "name": "50 Ways to Leave Your Lover",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 21,
       "name": "The Boxer",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Simon & Garfunkel"
     },
     {
       "position": 22,
       "name": "The Sound of Silence",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 2,
       "is_cover": true,
       "cover_artist": "Simon & Garfunkel"
     },
     {
       "position": 23,
       "name": "Wartime Prayers",
-      "set_name": "Set 5",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 3,
       "is_cover": false,
       "cover_artist": null
     }
-  ],
-  "tour_name": "A Quiet Celebration"
+  ]
 }

@@ -16,12 +16,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/robert-plant-and-alison-krauss/2022/forest-hills-stadium-queens-ny-33b4f09d.html",
   "song_count": 20,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "Rich Woman",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Li'l Millet and His Creoles"
@@ -29,7 +29,7 @@
     {
       "position": 2,
       "name": "Quattro - World Drifts In",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Calexico"
@@ -37,7 +37,7 @@
     {
       "position": 3,
       "name": "Fortune Teller",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Benny Spellman"
@@ -45,7 +45,7 @@
     {
       "position": 4,
       "name": "The Price of Love",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Everly Brothers"
@@ -53,7 +53,7 @@
     {
       "position": 5,
       "name": "Rock and Roll",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Led Zeppelin"
@@ -61,7 +61,7 @@
     {
       "position": 6,
       "name": "Please Read the Letter",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Jimmy Page & Robert Plant"
@@ -69,7 +69,7 @@
     {
       "position": 7,
       "name": "Let Your Loss Be Your Lesson",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Little Milton"
@@ -77,7 +77,7 @@
     {
       "position": 8,
       "name": "High and Lonesome",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -85,7 +85,7 @@
     {
       "position": 9,
       "name": "Last Kind Words Blues",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Geeshie Wiley"
@@ -93,7 +93,7 @@
     {
       "position": 10,
       "name": "You Led Me to the Wrong",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Ola Belle Reed"
@@ -101,7 +101,7 @@
     {
       "position": 11,
       "name": "Trouble With My Lover",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Allen Toussaint and Leo Nocentelli"
@@ -109,7 +109,7 @@
     {
       "position": 12,
       "name": "Go Your Way",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Bert Jansch"
@@ -117,7 +117,7 @@
     {
       "position": 13,
       "name": "It Don't Bother Me",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Bert Jansch"
@@ -125,7 +125,7 @@
     {
       "position": 14,
       "name": "The Battle of Evermore",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Led Zeppelin"
@@ -133,7 +133,7 @@
     {
       "position": 15,
       "name": "Searching for My Love",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Bobby Moore & the Rhythm Aces"
@@ -141,7 +141,7 @@
     {
       "position": 16,
       "name": "When the Levee Breaks",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Memphis Minnie & Kansas Joe McCoy"
@@ -149,7 +149,7 @@
     {
       "position": 17,
       "name": "Gone Gone Gone",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Everly Brothers"
@@ -157,27 +157,26 @@
     {
       "position": 18,
       "name": "Stick With Me Baby",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "The Everly Brothers"
     },
     {
       "position": 19,
       "name": "Can't Let Go",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Randy Weeks"
     },
     {
       "position": 20,
       "name": "Somebody Was Watching Over Me",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 2,
       "is_cover": true,
       "cover_artist": "Maria Muldaur"
     }
-  ],
-  "tour_name": "Raising The Roof Tour"
+  ]
 }

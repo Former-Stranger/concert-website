@@ -476,12 +476,12 @@
     "id": "1233",
     "show_number": 1232,
     "date": "2025-01-18",
-    "festival_name": null,
+    "festival_name": "Light of Day Festival",
     "venue": "Count Basie Center for the Arts",
     "city": "Red Bank",
     "state": "NJ",
-    "artists": "Bruce Springsteen:  Light of Day",
-    "hasSetlist": false
+    "artists": "Bruce Springsteen",
+    "hasSetlist": true
   },
   {
     "id": "1232",
@@ -1163,7 +1163,7 @@
     "city": "Las Vegas",
     "state": "NV",
     "artists": "Dead & Company",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1170",
@@ -1603,7 +1603,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Dave Matthews Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1130",
@@ -3528,7 +3528,7 @@
     "city": "Uniondale",
     "state": "NY",
     "artists": "Dead & Company",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "956",
@@ -3572,7 +3572,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Dead & Company",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "952",
@@ -3957,7 +3957,7 @@
     "city": "Queens",
     "state": "NY",
     "artists": "Dead & Company",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "917",
@@ -4881,7 +4881,7 @@
     "city": "Queens",
     "state": "NY",
     "artists": "Dead & Company",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "833",
@@ -4892,7 +4892,7 @@
     "city": "Queens",
     "state": "NY",
     "artists": "Dead & Company",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "832",
@@ -5277,7 +5277,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Dead & Company",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "797",
@@ -5673,7 +5673,7 @@
     "city": "Queens",
     "state": "NY",
     "artists": "Dead & Company",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "761",
@@ -6333,7 +6333,7 @@
     "city": "Queens",
     "state": "NY",
     "artists": "Dead & Company",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "701",
@@ -6344,7 +6344,7 @@
     "city": "Queens",
     "state": "NY",
     "artists": "Dead & Company",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "700",
@@ -6806,7 +6806,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Dead & Company",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "659",
@@ -6817,7 +6817,7 @@
     "city": "Albany",
     "state": "NY",
     "artists": "Dead & Company",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "658",
@@ -7466,7 +7466,7 @@
     "city": "Tarrytown",
     "state": "NY",
     "artists": "John Hiatt, Rick Brantley",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "598",
@@ -7477,7 +7477,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "The Eagles",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "597",
@@ -7488,7 +7488,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Billy Joel",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "596",
@@ -7499,7 +7499,7 @@
     "city": "Brooklyn",
     "state": "NY",
     "artists": "Luke Bryan",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "595",
@@ -7510,7 +7510,7 @@
     "city": "Hartford",
     "state": "CT",
     "artists": "Tom Petty & the Heartbreakers",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "594",
@@ -7521,7 +7521,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Tom Petty & the Heartbreakers",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "391",
@@ -7554,7 +7554,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Jimmy Buffett, Coral Reefer Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "591",
@@ -7565,7 +7565,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Keith Urban",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "590",
@@ -7576,7 +7576,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "KISS, Def Leppard",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "589",
@@ -7587,7 +7587,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "John Fogerty, Jackson Browne",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "588",
@@ -7598,7 +7598,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Keith Urban",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "587",
@@ -7609,7 +7609,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Queen + Adam Lambert",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "586",
@@ -7620,7 +7620,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Aerosmith, Slash",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "585",
@@ -7631,7 +7631,7 @@
     "city": "Albany",
     "state": "NY",
     "artists": "Paul McCartney",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "584",
@@ -7653,7 +7653,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Billy Joel",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "582",
@@ -7675,7 +7675,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Lionel Richie",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "580",
@@ -7686,7 +7686,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Billy Joel",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "579",
@@ -7708,7 +7708,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Willie Nelson, Alison Krauss, Kacey Musgraves",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "577",
@@ -7719,7 +7719,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Barry Gibb",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "576",
@@ -7730,7 +7730,7 @@
     "city": "Uncasville",
     "state": "CT",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "575",
@@ -7741,7 +7741,7 @@
     "city": "Uncasville",
     "state": "CT",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "574",
@@ -7752,7 +7752,7 @@
     "city": "Albany",
     "state": "NY",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "573",
@@ -7763,7 +7763,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Billy Joel",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "572",
@@ -7774,7 +7774,7 @@
     "city": "Brooklyn",
     "state": "NY",
     "artists": "Bruce Springsteen, Peter Gabriel, Hall & Oates, Nirvana, Cat Stevens, Stevie Nicks, Emmylou Harries, Bonnie Raitt, Carrie Underwood",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "571",
@@ -7785,7 +7785,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Lady Gaga",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "570",
@@ -7796,7 +7796,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Billy Joel",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "569",
@@ -7829,7 +7829,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Sting, Paul Simon",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "566",
@@ -7840,7 +7840,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Kings of Leon",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "565",
@@ -7851,7 +7851,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Billy Joel",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "564",
@@ -7873,7 +7873,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Keith Urban, Little Big Town",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "562",
@@ -7884,7 +7884,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Billy Joel",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "561",
@@ -7917,7 +7917,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "558",
@@ -7928,7 +7928,7 @@
     "city": "Brooklyn",
     "state": "NY",
     "artists": "Billy Joel",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "557",
@@ -7950,7 +7950,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Rod Stewart, Steve Winwood",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "555",
@@ -7961,7 +7961,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Elton John",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "554",
@@ -7972,7 +7972,7 @@
     "city": "Brooklyn",
     "state": "NY",
     "artists": "Pearl Jam",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "553",
@@ -7994,7 +7994,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Jimmy Buffett",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "551",
@@ -8005,7 +8005,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Jimmy Buffett",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "550",
@@ -8016,7 +8016,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Kenny Chesney, Eric Church",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "549",
@@ -8027,7 +8027,7 @@
     "city": "Ridgefield",
     "state": "CT",
     "artists": "John Hiatt",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "548",
@@ -8038,7 +8038,7 @@
     "city": "Holmdel",
     "state": "NJ",
     "artists": "OAR",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "547",
@@ -8049,7 +8049,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bon Jovi, J. Geils Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "546",
@@ -8071,7 +8071,7 @@
     "city": "Tarrytown",
     "state": "NY",
     "artists": "Lyle Lovett",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "544",
@@ -8082,7 +8082,7 @@
     "city": "Bridgeport",
     "state": "CT",
     "artists": "Bob Dylan",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "543",
@@ -8093,7 +8093,7 @@
     "city": "Westbury",
     "state": "NY",
     "artists": "Melissa Etheridge",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "542",
@@ -8104,7 +8104,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Rush",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "536",
@@ -8115,7 +8115,7 @@
     "city": "Brooklyn",
     "state": "NY",
     "artists": "Paul McCartney",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "541",
@@ -8126,7 +8126,7 @@
     "city": "Port Chester",
     "state": "NY",
     "artists": "Weird Al Yankovic",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "535",
@@ -8137,7 +8137,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Tom Petty, Heartbreakers",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "540",
@@ -8148,7 +8148,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Brad Paisley, Chris Young",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "538",
@@ -8159,7 +8159,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Joe Bonamassa",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "539",
@@ -8181,7 +8181,7 @@
     "city": "Westbury",
     "state": "NY",
     "artists": "ZZ Top",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "534",
@@ -8192,7 +8192,7 @@
     "city": "Brooklyn",
     "state": "NY",
     "artists": "Bob Seger",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "533",
@@ -8203,7 +8203,7 @@
     "city": "Brooklyn",
     "state": "NY",
     "artists": "Mumford & Sons",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "532",
@@ -8236,7 +8236,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Bruce Springsteen, Paul McCartney, The Rolling Stones, The Who, Blly Joel, Roger Waters, Chris Martin, Bon Jovi, Eric Clapton",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "529",
@@ -8247,7 +8247,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Dave Matthews Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "528",
@@ -8258,7 +8258,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "John Hiatt",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "527",
@@ -8280,7 +8280,7 @@
     "city": "Hartford",
     "state": "CT",
     "artists": "Bruce Springsteen",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "525",
@@ -8291,7 +8291,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Ryan Bingham",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "524",
@@ -8302,7 +8302,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Crosby, Stills and Nash",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "523",
@@ -8357,7 +8357,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bruce Springsteen",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "518",
@@ -8368,7 +8368,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bruce Springsteen",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "517",
@@ -8379,7 +8379,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bruce Springsteen",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "516",
@@ -8390,7 +8390,7 @@
     "city": "Philadelphia",
     "state": "PA",
     "artists": "Bruce Springsteen",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "515",
@@ -8401,7 +8401,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Jimmy Buffett",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "514",
@@ -8412,7 +8412,7 @@
     "city": "Foxborough",
     "state": "MA",
     "artists": "Bruce Springsteen",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "513",
@@ -8434,7 +8434,7 @@
     "city": "Hoboken",
     "state": "NJ",
     "artists": "Mumford & Sons",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "511",
@@ -8467,7 +8467,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Dave Matthews Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "508",
@@ -8478,7 +8478,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Brad Paisley, The Band Perry, Easton Corbin",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "507",
@@ -8489,7 +8489,7 @@
     "city": "Newark",
     "state": "NJ",
     "artists": "Bruce Springsteen",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "506",
@@ -8500,7 +8500,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Steel Panther",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "505",
@@ -8511,7 +8511,7 @@
     "city": "Albany",
     "state": "NY",
     "artists": "Bruce Springsteen",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "504",
@@ -8522,7 +8522,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Bruce Springsteen",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "503",
@@ -8533,7 +8533,7 @@
     "city": "Chicago",
     "state": "IL",
     "artists": "Noel Gallagher's High Flying Birds",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "502",
@@ -8544,7 +8544,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Van Halen",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "501",
@@ -8555,7 +8555,7 @@
     "city": "Westbury",
     "state": "NY",
     "artists": "Peter Frampton",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "500",
@@ -8588,7 +8588,7 @@
     "city": "Asbury Park",
     "state": "NJ",
     "artists": "Gaslight Anthem (guest: Bruce Springsteen)",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "497",
@@ -8599,7 +8599,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Bob Seger (guest: Bruce Springsteen)",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "496",
@@ -8610,7 +8610,7 @@
     "city": "Uncasville",
     "state": "CT",
     "artists": "Bob Seger",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "495",
@@ -8654,7 +8654,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Joe Bonamassa",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "491",
@@ -8665,7 +8665,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Crosby, Stills and Nash",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "490",
@@ -8698,7 +8698,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Jimmy Buffett",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "487",
@@ -8731,7 +8731,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "U2",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "484",
@@ -8742,7 +8742,7 @@
     "city": "Bronx",
     "state": "NY",
     "artists": "Paul McCartney",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "483",
@@ -8753,7 +8753,7 @@
     "city": "Bronx",
     "state": "NY",
     "artists": "Paul McCartney",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "482",
@@ -8764,7 +8764,7 @@
     "city": "Uncasville",
     "state": "CT",
     "artists": "Keith Urban",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "481",
@@ -8786,7 +8786,7 @@
     "city": "Westbury",
     "state": "NY",
     "artists": "Kenny Loggins",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "479",
@@ -8808,7 +8808,7 @@
     "city": "Westbury",
     "state": "NY",
     "artists": "Chicago",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "477",
@@ -8819,7 +8819,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Warren Haynes Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "476",
@@ -8830,7 +8830,7 @@
     "city": "Uniondale",
     "state": "NY",
     "artists": "Bon Jovi",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "475",
@@ -8863,7 +8863,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Rod Stewart, Stevie Nicks",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "472",
@@ -8885,7 +8885,7 @@
     "city": "Ridgefield",
     "state": "CT",
     "artists": "Peter Wolf",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "470",
@@ -8896,7 +8896,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Elton John, Leon Russell",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "469",
@@ -8907,7 +8907,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Allman Brothers Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "468",
@@ -8918,7 +8918,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Elton John, Leon Russell",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "467",
@@ -8929,7 +8929,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Bon Jovi",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "466",
@@ -8940,7 +8940,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Jesse Malin",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "465",
@@ -8951,7 +8951,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "John Mellencamp",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "464",
@@ -8962,7 +8962,7 @@
     "city": "Ridgefield",
     "state": "CT",
     "artists": "Dickey Betts, Great Southern",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "463",
@@ -8984,7 +8984,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Prince",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "461",
@@ -8995,7 +8995,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Brandon Flowers",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "460",
@@ -9039,7 +9039,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Kings of Leon",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "456",
@@ -9050,7 +9050,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Mumford & Sons",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "455",
@@ -9061,7 +9061,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Dave Matthews Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "454",
@@ -9072,7 +9072,7 @@
     "city": "Stamford",
     "state": "CT",
     "artists": "Joe Bonamassa",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "453",
@@ -9127,7 +9127,7 @@
     "city": "Uniondale",
     "state": "NY",
     "artists": "Roger Waters",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "448",
@@ -9149,7 +9149,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Gaslight Anthem",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "446",
@@ -9171,7 +9171,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Jackson Browne",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "444",
@@ -9193,7 +9193,7 @@
     "city": "Oakdale",
     "state": "NY",
     "artists": "Keith Urban, Kris Allen",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "442",
@@ -9204,7 +9204,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Jimmy Buffett",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "441",
@@ -9226,7 +9226,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Crosby, Stills and Nash",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "439",
@@ -9237,7 +9237,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "KISS",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "437",
@@ -9336,7 +9336,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bon Jovi",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "429",
@@ -9347,7 +9347,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Lady Gaga",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "428",
@@ -9358,7 +9358,7 @@
     "city": "Westbury",
     "state": "NY",
     "artists": "Ringo Starr",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "427",
@@ -9369,7 +9369,7 @@
     "city": "Westbury",
     "state": "NY",
     "artists": "Weird Al",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "426",
@@ -9380,7 +9380,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Phil Collins",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "425",
@@ -9391,7 +9391,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "James Taylor, Carole King",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "424",
@@ -9402,7 +9402,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Gaslight Anthem",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "423",
@@ -9413,7 +9413,7 @@
     "city": "Westbury",
     "state": "NY",
     "artists": "Black Crowes",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "422",
@@ -9424,7 +9424,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bon Jovi",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "421",
@@ -9435,7 +9435,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Pearl Jam",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "420",
@@ -9446,7 +9446,7 @@
     "city": "Westbury",
     "state": "NY",
     "artists": "Kenny Loggins",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "419",
@@ -9457,7 +9457,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Peter Gabriel",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "418",
@@ -9479,7 +9479,7 @@
     "city": "Ridgefield",
     "state": "CT",
     "artists": "Todd Rundgren",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "416",
@@ -9490,7 +9490,7 @@
     "city": "Westbury",
     "state": "NY",
     "artists": "Emerson, Lake",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "415",
@@ -9501,7 +9501,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Allman Brothers Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "414",
@@ -9534,7 +9534,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "John Mayer",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "411",
@@ -9545,7 +9545,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Eric Clapton, Jeff Beck",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "410",
@@ -9567,7 +9567,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "John Fogerty",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "408",
@@ -9600,7 +9600,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "405",
@@ -9611,7 +9611,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "404",
@@ -9655,7 +9655,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Gaslight Anthem, Jesse Malin",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "400",
@@ -9677,7 +9677,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "398",
@@ -9699,7 +9699,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "396",
@@ -9710,7 +9710,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "395",
@@ -9721,7 +9721,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "394",
@@ -9732,7 +9732,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "U2",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "393",
@@ -9743,7 +9743,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "U2",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "392",
@@ -9754,7 +9754,7 @@
     "city": "Uniondale",
     "state": "NY",
     "artists": "Kings of Leon",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "390",
@@ -9776,7 +9776,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "388",
@@ -9787,7 +9787,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Creed",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "387",
@@ -9798,7 +9798,7 @@
     "city": "Philadelphia",
     "state": "PA",
     "artists": "Billy Joel, Elton John",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "386",
@@ -9809,7 +9809,7 @@
     "city": "Foxborough",
     "state": "MA",
     "artists": "Billy Joel, Elton John",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "385",
@@ -9820,7 +9820,7 @@
     "city": "Queens",
     "state": "NY",
     "artists": "Paul McCartney",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "384",
@@ -9831,7 +9831,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Fleetwood Mac",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "383",
@@ -9842,7 +9842,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Eric Clapton, Steve Winwood",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "382",
@@ -9853,7 +9853,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "381",
@@ -9864,7 +9864,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "380",
@@ -9875,7 +9875,7 @@
     "city": "Ridgefield",
     "state": "CT",
     "artists": "Dickey Betts, Great Southern",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "379",
@@ -9886,7 +9886,7 @@
     "city": "Uniondale",
     "state": "NY",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "378",
@@ -9897,7 +9897,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "The Dead",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "377",
@@ -9908,7 +9908,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "The Dead",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "376",
@@ -9919,7 +9919,7 @@
     "city": "Hartford",
     "state": "CT",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "375",
@@ -9941,7 +9941,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Flight of the Conchords",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "373",
@@ -9952,7 +9952,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Dave Matthews Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "372",
@@ -9963,7 +9963,7 @@
     "city": "Asbury Park",
     "state": "NJ",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "371",
@@ -9974,7 +9974,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Allman Brothers Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "370",
@@ -9985,7 +9985,7 @@
     "city": "Morristown",
     "state": "NJ",
     "artists": "John Hiatt, Lyle Lovett",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "369",
@@ -9996,7 +9996,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "The Killers",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "368",
@@ -10029,7 +10029,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Neil Young",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "365",
@@ -10062,7 +10062,7 @@
     "city": "Uncasville",
     "state": "CT",
     "artists": "Elton John",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "362",
@@ -10073,7 +10073,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "ACDC",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "361",
@@ -10106,7 +10106,7 @@
     "city": "Purchase",
     "state": "NY",
     "artists": "Crosby, Nash",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "358",
@@ -10117,7 +10117,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Jimmy Buffett",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "357",
@@ -10128,7 +10128,7 @@
     "city": "Westbury",
     "state": "NY",
     "artists": "Huey Lewis, the News",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "356",
@@ -10139,7 +10139,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Neil Diamond",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "355",
@@ -10161,7 +10161,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "352",
@@ -10172,7 +10172,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "351",
@@ -10183,7 +10183,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "350",
@@ -10194,7 +10194,7 @@
     "city": "Queens",
     "state": "NY",
     "artists": "Billy Joel",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "349",
@@ -10205,7 +10205,7 @@
     "city": "Queens",
     "state": "NY",
     "artists": "Billy Joel",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "348",
@@ -10216,7 +10216,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Bon Jovi",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "347",
@@ -10227,7 +10227,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Steve Miller Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "354",
@@ -10249,7 +10249,7 @@
     "city": "Danbury",
     "state": "CT",
     "artists": "The Beach Boys",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "345",
@@ -10260,7 +10260,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Pearl Jam",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "343",
@@ -10271,7 +10271,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Tom Petty & the Heartbreakers",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "342",
@@ -10282,7 +10282,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Jimmy Buffett",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "341",
@@ -10293,7 +10293,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Robert Plant, Alison Krauss",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "340",
@@ -10304,7 +10304,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Eric Clapton",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "339",
@@ -10315,7 +10315,7 @@
     "city": "Holmdel",
     "state": "NJ",
     "artists": "Stone Temple Pilots",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "338",
@@ -10326,7 +10326,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "The Eagles",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "337",
@@ -10337,7 +10337,7 @@
     "city": "Uncasville",
     "state": "CT",
     "artists": "Billy Joel",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "336",
@@ -10348,7 +10348,7 @@
     "city": "Atlanta",
     "state": "GA",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "335",
@@ -10359,7 +10359,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Elton John",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "334",
@@ -10381,7 +10381,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Ratdog",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "332",
@@ -10392,7 +10392,7 @@
     "city": "Uniondale",
     "state": "NY",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "331",
@@ -10403,7 +10403,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Eric Clapton, Steve Winwood",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "330",
@@ -10447,7 +10447,7 @@
     "city": "Oakdale",
     "state": "NY",
     "artists": "Jethro Tull",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "326",
@@ -10458,7 +10458,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Stevie Wonder",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "325",
@@ -10469,7 +10469,7 @@
     "city": "Albany",
     "state": "NY",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "324",
@@ -10480,7 +10480,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Van Halen",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "323",
@@ -10491,7 +10491,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Bruce Springsteen",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "322",
@@ -10502,7 +10502,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "John Fogerty",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "321",
@@ -10513,7 +10513,7 @@
     "city": "Newark",
     "state": "NJ",
     "artists": "Bon Jovi",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "320",
@@ -10524,7 +10524,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "319",
@@ -10535,7 +10535,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "318",
@@ -10546,7 +10546,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "316",
@@ -10557,7 +10557,7 @@
     "city": "Hartford",
     "state": "CT",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "315",
@@ -10568,7 +10568,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "314",
@@ -10579,7 +10579,7 @@
     "city": "Asbury Park",
     "state": "NJ",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "317",
@@ -10590,7 +10590,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Jimmy Buffett",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "313",
@@ -10601,7 +10601,7 @@
     "city": "Hartford",
     "state": "CT",
     "artists": "Genesis",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "312",
@@ -10623,7 +10623,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Allman Brothers, Ratdog",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "310",
@@ -10634,7 +10634,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Black Crowes",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "309",
@@ -10645,7 +10645,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "The Police",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "308",
@@ -10656,7 +10656,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Steve Miller Band, The Doobie Brothers",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "306",
@@ -10678,7 +10678,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Rush",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "304",
@@ -10689,7 +10689,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Bob Dylan",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "303",
@@ -10711,7 +10711,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Steely Dan",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "301",
@@ -10733,7 +10733,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Roger Waters",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "299",
@@ -10755,7 +10755,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "The Killers",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "297",
@@ -10766,7 +10766,7 @@
     "city": "Albany",
     "state": "NY",
     "artists": "Billy Joel",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "296",
@@ -10777,7 +10777,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Allman Brothers Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "295",
@@ -10788,7 +10788,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Elton John",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "294",
@@ -10799,7 +10799,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Allman Brothers Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "293",
@@ -10821,7 +10821,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Rod Stewart",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "291",
@@ -10843,7 +10843,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Bob Seger & the Silver Bullet Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "289",
@@ -10854,7 +10854,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Aerosmith",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "288",
@@ -10865,7 +10865,7 @@
     "city": "Bridgeport",
     "state": "CT",
     "artists": "The Who, The Pretenders",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "287",
@@ -10898,7 +10898,7 @@
     "city": "Uniondale",
     "state": "NY",
     "artists": "Elton John",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "284",
@@ -10920,7 +10920,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "James Blunt",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "282",
@@ -10942,7 +10942,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Eric Clapton",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "280",
@@ -10953,7 +10953,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "The Rolling Stones, Kanye West",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "279",
@@ -10975,7 +10975,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "The Who",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "277",
@@ -10986,7 +10986,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Jimmy Buffett, Coral Reefer Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "276",
@@ -10997,7 +10997,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Roger Waters",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "275",
@@ -11008,7 +11008,7 @@
     "city": "Holmdel",
     "state": "NJ",
     "artists": "Crosby, Stills, Nash & Young",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "274",
@@ -11019,7 +11019,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Steely Dan, Michael McDonald",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "273",
@@ -11041,7 +11041,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "John Fogerty, Willie Nelson",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "271",
@@ -11052,7 +11052,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Counting Crows, Goo Goo Dolls",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "270",
@@ -11063,7 +11063,7 @@
     "city": "Las Vegas",
     "state": "NV",
     "artists": "Elton John",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "269",
@@ -11074,7 +11074,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Ringo Starr & His All Starr Band (Billy Squier, Richard Marx, Rod Argent, Sheila E. & Edgar Winter)",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "268",
@@ -11085,7 +11085,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bon Jovi",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "267",
@@ -11107,7 +11107,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Jimmy Buffett, Coral Reefer Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "265",
@@ -11118,7 +11118,7 @@
     "city": "Holmdel",
     "state": "NJ",
     "artists": "Bruce Springsteen, the Seeger Sessions Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "264",
@@ -11129,7 +11129,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Bruce Springsteen, the Seeger Sessions Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "263",
@@ -11140,7 +11140,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Tom Petty & the Heartbreakers",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "262",
@@ -11151,7 +11151,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Pearl Jam",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "261",
@@ -11162,7 +11162,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "INXS",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "260",
@@ -11173,7 +11173,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Van Morrison",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "259",
@@ -11184,7 +11184,7 @@
     "city": "Asbury Park",
     "state": "NJ",
     "artists": "Bruce Springsteen, the Seeger Sessions Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "258",
@@ -11195,7 +11195,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Billy Joel",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "257",
@@ -11206,7 +11206,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Bob Weir & Ratdog",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "256",
@@ -11217,7 +11217,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Allman Brothers Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "255",
@@ -11228,7 +11228,7 @@
     "city": "Uniondale",
     "state": "NY",
     "artists": "Queen + Paul Rodgers",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "254",
@@ -11250,7 +11250,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Phil Lesh, Friends",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "252",
@@ -11261,7 +11261,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Billy Joel",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "251",
@@ -11272,7 +11272,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Billy Joel",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "250",
@@ -11294,7 +11294,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Dave Matthews Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "248",
@@ -11338,7 +11338,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "U2",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "244",
@@ -11349,7 +11349,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bruce Springsteen",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "243",
@@ -11360,7 +11360,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Cream",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "242",
@@ -11371,7 +11371,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Queen + Paul Rodgers",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "241",
@@ -11382,7 +11382,7 @@
     "city": "Uniondale",
     "state": "NY",
     "artists": "Bruce Springsteen",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "240",
@@ -11393,7 +11393,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Paul McCartney",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "239",
@@ -11404,7 +11404,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Paul McCartney",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "238",
@@ -11415,7 +11415,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "The Rolling Stones",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "237",
@@ -11437,7 +11437,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Crosby, Stills, Nash",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "235",
@@ -11448,7 +11448,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Dave Matthews Band, Barenaked Ladies",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "234",
@@ -11459,7 +11459,7 @@
     "city": "Bridgeport",
     "state": "CT",
     "artists": "Bruce Springsteen",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "233",
@@ -11470,7 +11470,7 @@
     "city": "Holmdel",
     "state": "NJ",
     "artists": "John Mellencamp, John Fogerty",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "232",
@@ -11481,7 +11481,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Oasis",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "231",
@@ -11503,7 +11503,7 @@
     "city": "Stamford",
     "state": "CT",
     "artists": "John Fogerty",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "229",
@@ -11514,7 +11514,7 @@
     "city": "Philadelphia",
     "state": "PA",
     "artists": "U2",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "228",
@@ -11525,7 +11525,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bruce Springsteen",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "227",
@@ -11536,7 +11536,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "U2",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "226",
@@ -11547,7 +11547,7 @@
     "city": "Omaha",
     "state": "NE",
     "artists": "Green Day",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "225",
@@ -11558,7 +11558,7 @@
     "city": "Manchester",
     "state": "NH",
     "artists": "Green Day",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "224",
@@ -11569,7 +11569,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "The Eagles",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "223",
@@ -11580,7 +11580,7 @@
     "city": "Omaha",
     "state": "NE",
     "artists": "John Mellencamp",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "222",
@@ -11591,7 +11591,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Allman Brothers Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "221",
@@ -11635,7 +11635,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "John Fogerty",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "217",
@@ -11646,7 +11646,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "REM",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "216",
@@ -11657,7 +11657,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bruce Springsteen",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "215",
@@ -11668,7 +11668,7 @@
     "city": "Philadelphia",
     "state": "PA",
     "artists": "Bruce Springsteen",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "214",
@@ -11679,7 +11679,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Phil Collins",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "213",
@@ -11690,7 +11690,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Jimmy Buffett, Coral Reefer Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "212",
@@ -11701,7 +11701,7 @@
     "city": "Uncasville",
     "state": "CT",
     "artists": "Cher",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "211",
@@ -11712,7 +11712,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Allman Brothers Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "210",
@@ -11734,7 +11734,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "KISS",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "208",
@@ -11745,7 +11745,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Elton John, Symphony",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "207",
@@ -11756,7 +11756,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Dave Matthews Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "206",
@@ -11767,7 +11767,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Prince",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "205",
@@ -11778,7 +11778,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Madonna",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "204",
@@ -11789,7 +11789,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Eric Clapton",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "203",
@@ -11800,7 +11800,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Van Halen (Hagar)",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "202",
@@ -11811,7 +11811,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "The Who",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "201",
@@ -11822,7 +11822,7 @@
     "city": "Bridgeport",
     "state": "CT",
     "artists": "Elton John",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "200",
@@ -11833,7 +11833,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Allman Brothers Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "199",
@@ -11844,7 +11844,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Barenaked Ladies",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "198",
@@ -11866,7 +11866,7 @@
     "city": "Asbury Park",
     "state": "NJ",
     "artists": "Bruce Springsteen",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "196",
@@ -11877,7 +11877,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "KISS, Aerosmith",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "195",
@@ -11888,7 +11888,7 @@
     "city": "Queens",
     "state": "NY",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "194",
@@ -11899,7 +11899,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Fleetwood Mac",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "193",
@@ -11910,7 +11910,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Dave Matthews Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "192",
@@ -11932,7 +11932,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "190",
@@ -11943,7 +11943,7 @@
     "city": "Holmdel",
     "state": "NJ",
     "artists": "KISS, Aerosmith",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "189",
@@ -11965,7 +11965,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bon Jovi",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "186",
@@ -11976,7 +11976,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "185",
@@ -11987,7 +11987,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "184",
@@ -11998,7 +11998,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "183",
@@ -12009,7 +12009,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "182",
@@ -12020,7 +12020,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "181",
@@ -12042,7 +12042,7 @@
     "city": "Uniondale",
     "state": "NY",
     "artists": "Pearl Jam",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "179",
@@ -12053,7 +12053,7 @@
     "city": "Hamden",
     "state": "CT",
     "artists": "Guster",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "178",
@@ -12086,7 +12086,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Dave Matthews Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "176",
@@ -12097,7 +12097,7 @@
     "city": "Columbus",
     "state": "OH",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "175",
@@ -12119,7 +12119,7 @@
     "city": "Hartford",
     "state": "CT",
     "artists": "Guns, Roses",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "173",
@@ -12130,7 +12130,7 @@
     "city": "Hartford",
     "state": "CT",
     "artists": "The Other Ones",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "172",
@@ -12141,7 +12141,7 @@
     "city": "Hartford",
     "state": "CT",
     "artists": "Bob Dylan",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "171",
@@ -12152,7 +12152,7 @@
     "city": "Uniondale",
     "state": "NY",
     "artists": "Elton John, Billy Joel",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "170",
@@ -12163,7 +12163,7 @@
     "city": "Philadelphia",
     "state": "PA",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "169",
@@ -12174,7 +12174,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "The Rolling Stones",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "168",
@@ -12185,7 +12185,7 @@
     "city": "Uniondale",
     "state": "NY",
     "artists": "Elton John, Billy Joel",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "167",
@@ -12196,7 +12196,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "The Who, Robert Plant",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "166",
@@ -12207,7 +12207,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Allman Brothers Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "165",
@@ -12218,7 +12218,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "164",
@@ -12240,7 +12240,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "162",
@@ -12262,7 +12262,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Creed",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "160",
@@ -12295,7 +12295,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Rush",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "157",
@@ -12317,7 +12317,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Dickey Betts, Great Southern",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "155",
@@ -12328,7 +12328,7 @@
     "city": "Uniondale",
     "state": "NY",
     "artists": "Paul McCartney",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "154",
@@ -12339,7 +12339,7 @@
     "city": "Oakdale",
     "state": "NY",
     "artists": "Stone Temple Pilots",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "153",
@@ -12350,7 +12350,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Allman Brothers Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "152",
@@ -12361,7 +12361,7 @@
     "city": "Hartford",
     "state": "CT",
     "artists": "Crosby, Stills, Nash & Young",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "151",
@@ -12372,7 +12372,7 @@
     "city": "Hartford",
     "state": "CT",
     "artists": "Elton John, Billy Joel",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "150",
@@ -12405,7 +12405,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Elton John",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "147",
@@ -12416,7 +12416,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "U2",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "146",
@@ -12427,7 +12427,7 @@
     "city": "Hartford",
     "state": "CT",
     "artists": "Stone Temple Pilots",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "145",
@@ -12471,7 +12471,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "John Mellencamp, The Wallflowers",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "141",
@@ -12482,7 +12482,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Allman Brothers Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "140",
@@ -12493,7 +12493,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bon Jovi",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "139",
@@ -12515,7 +12515,7 @@
     "city": "Holmdel",
     "state": "NJ",
     "artists": "Stevie Nicks",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "137",
@@ -12526,7 +12526,7 @@
     "city": "Holmdel",
     "state": "NJ",
     "artists": "Paul Simon, Brian Wilson",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "136",
@@ -12559,7 +12559,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Eric Clapton",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "133",
@@ -12570,7 +12570,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Eric Clapton",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "132",
@@ -12581,7 +12581,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "U2",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "131",
@@ -12592,7 +12592,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Aerosmith",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "130",
@@ -12603,7 +12603,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Dave Matthews Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "129",
@@ -12614,7 +12614,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Dave Matthews Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "128",
@@ -12625,7 +12625,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Black Crowes, Oasis",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "127",
@@ -12658,7 +12658,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "ACDC",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "125",
@@ -12680,7 +12680,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Allman Brothers Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "122",
@@ -12691,7 +12691,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Barenaked Ladies, Guster",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "121",
@@ -12702,7 +12702,7 @@
     "city": "Oakdale",
     "state": "NY",
     "artists": "Alice Cooper",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "120",
@@ -12713,7 +12713,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "The Who, The Wallflowers",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "119",
@@ -12724,7 +12724,7 @@
     "city": "Uniondale",
     "state": "NY",
     "artists": "Tina Turner, Joe Cocker",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "117",
@@ -12735,7 +12735,7 @@
     "city": "Hartford",
     "state": "CT",
     "artists": "Dickey Betts Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "118",
@@ -12768,7 +12768,7 @@
     "city": "Camden",
     "state": "NJ",
     "artists": "Neil Young, The Pretenders",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "114",
@@ -12779,7 +12779,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Allman Brothers Band, Hot Tuna",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "113",
@@ -12790,7 +12790,7 @@
     "city": "Southampton",
     "state": "NY",
     "artists": "Jimmy Buffett, Coral Reefer Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "112",
@@ -12801,7 +12801,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Metallica",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "111",
@@ -12812,7 +12812,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Roger Waters",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "110",
@@ -12823,7 +12823,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Dave Matthews Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "109",
@@ -12834,7 +12834,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Dave Matthews Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "108",
@@ -12845,7 +12845,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Steely Dan",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "107",
@@ -12856,7 +12856,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "106",
@@ -12867,7 +12867,7 @@
     "city": "Holmdel",
     "state": "NJ",
     "artists": "Phish",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "105",
@@ -12878,7 +12878,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "KISS",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "104",
@@ -12889,7 +12889,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "103",
@@ -12900,7 +12900,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "KISS",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "102",
@@ -12911,7 +12911,7 @@
     "city": "Hartford",
     "state": "CT",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "101",
@@ -12922,7 +12922,7 @@
     "city": "Hartford",
     "state": "CT",
     "artists": "Crosby, Stills, Nash & Young",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "100",
@@ -12944,7 +12944,7 @@
     "city": "Tampa Bay",
     "state": "FL",
     "artists": "Crosby, Stills, Nash & Young",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "97",
@@ -12955,7 +12955,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Billy Joel",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "96",
@@ -12988,7 +12988,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Dave Matthews Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "93",
@@ -12999,7 +12999,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Roger Waters",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "92",
@@ -13010,7 +13010,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Paul Simon, Bob Dylan",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "89",
@@ -13021,7 +13021,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "91",
@@ -13054,7 +13054,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Bruce Springsteen & the E Street Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "87",
@@ -13065,7 +13065,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Tom Petty & the Heartbreakers",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "86",
@@ -13076,7 +13076,7 @@
     "city": "Holmdel",
     "state": "NJ",
     "artists": "Tom Petty & the Heartbreakers",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "85",
@@ -13087,7 +13087,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Dave Matthews Band, Santana",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "84",
@@ -13098,7 +13098,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Billy Joel",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "83",
@@ -13109,7 +13109,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Tom Petty & the Heartbreakers",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "82",
@@ -13120,7 +13120,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Tom Petty & the Heartbreakers",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "81",
@@ -13131,7 +13131,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Allman Brothers Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "80",
@@ -13153,7 +13153,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Black Crowes",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "78",
@@ -13164,7 +13164,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Jimmy Buffett, Coral Reefer Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "77",
@@ -13175,7 +13175,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Billy Joel",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "76",
@@ -13186,7 +13186,7 @@
     "city": "Uniondale",
     "state": "NY",
     "artists": "KISS",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "75",
@@ -13197,7 +13197,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "KISS",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "74",
@@ -13208,7 +13208,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Elton John",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "73",
@@ -13219,7 +13219,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Aerosmith",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "72",
@@ -13230,7 +13230,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Gov't Mule",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "71",
@@ -13241,7 +13241,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Pearl Jam",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "70",
@@ -13274,7 +13274,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Page, Plant",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "67",
@@ -13296,7 +13296,7 @@
     "city": "Holmdel",
     "state": "NJ",
     "artists": "John Fogerty",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "65",
@@ -13307,7 +13307,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Dave Matthews Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "64",
@@ -13329,7 +13329,7 @@
     "city": "Boston",
     "state": "MA",
     "artists": "Elton John",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "62",
@@ -13340,7 +13340,7 @@
     "city": "Boston",
     "state": "MA",
     "artists": "Elton John",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "61",
@@ -13362,7 +13362,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Eric Clapton",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "59",
@@ -13373,7 +13373,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Allman Brothers Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "58",
@@ -13384,7 +13384,7 @@
     "city": "Uniondale",
     "state": "NY",
     "artists": "Billy Joel",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "57",
@@ -13395,7 +13395,7 @@
     "city": "Uniondale",
     "state": "NY",
     "artists": "Billy Joel",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "56",
@@ -13406,7 +13406,7 @@
     "city": "Uniondale",
     "state": "NY",
     "artists": "Billy Joel",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "55",
@@ -13428,7 +13428,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Bob Dylan, Van Morrison",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "53",
@@ -13439,7 +13439,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "George Thorogood, the Destroyers",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "52",
@@ -13461,7 +13461,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "311, Sugar Ray",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "50",
@@ -13472,7 +13472,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "The Rolling Stones",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "49",
@@ -13483,7 +13483,7 @@
     "city": "Oakdale",
     "state": "NY",
     "artists": "Jethro Tull",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "48",
@@ -13494,7 +13494,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Aerosmith",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "47",
@@ -13516,7 +13516,7 @@
     "city": "Oakdale",
     "state": "NY",
     "artists": "John Fogerty",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "45",
@@ -13527,7 +13527,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "ZZ Top, Kansas",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "44",
@@ -13538,7 +13538,7 @@
     "city": "Patterson",
     "state": "NY",
     "artists": "Santana, Rusted root",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "43",
@@ -13549,7 +13549,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Boston",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "42",
@@ -13560,7 +13560,7 @@
     "city": "Patterson",
     "state": "NY",
     "artists": "Crosby, Stills, Nash",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "41",
@@ -13571,7 +13571,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Lynyrd Skynyrd, Paul Rodgers",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "40",
@@ -13582,7 +13582,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Rush",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "39",
@@ -13593,7 +13593,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Ringo Starr & His All-Starr Band (Kirke, Jack Bruce, Gary Brooker, Frampton, Rivera)",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "38",
@@ -13604,7 +13604,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "John Fogerty",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "37",
@@ -13615,7 +13615,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "U2",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "36",
@@ -13637,7 +13637,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "John Mellencamp",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "34",
@@ -13648,7 +13648,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Allman Brothers Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "33",
@@ -13659,7 +13659,7 @@
     "city": "Uniondale",
     "state": "NY",
     "artists": "KISS",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "32",
@@ -13670,7 +13670,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Rush",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "31",
@@ -13692,7 +13692,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Neil Young",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "29",
@@ -13758,7 +13758,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "The Who",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "23",
@@ -13780,7 +13780,7 @@
     "city": "Wantagh",
     "state": "NY",
     "artists": "Sting",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "21",
@@ -13791,7 +13791,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "The Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "20",
@@ -13802,7 +13802,7 @@
     "city": "Uniondale",
     "state": "NY",
     "artists": "The Eagles",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "19",
@@ -13824,7 +13824,7 @@
     "city": "Poughkeepsie",
     "state": "NY",
     "artists": "Bob Dylan",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "17",
@@ -13846,7 +13846,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Allman Brothers Band",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "14",
@@ -13901,7 +13901,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Elton John",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "11",
@@ -13912,7 +13912,7 @@
     "city": "Uniondale",
     "state": "NY",
     "artists": "Eric Clapton",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "3",
@@ -13945,7 +13945,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "REM",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "8",
@@ -13967,7 +13967,7 @@
     "city": "Uniondale",
     "state": "NY",
     "artists": "Green Day",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "6",
@@ -13978,7 +13978,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "The Rolling Stones",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "5",
@@ -13989,7 +13989,7 @@
     "city": "East Rutherford",
     "state": "NJ",
     "artists": "Elton John, Billy Joel",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "4",

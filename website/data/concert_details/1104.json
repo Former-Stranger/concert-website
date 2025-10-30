@@ -16,7 +16,7 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/phish/2023/madison-square-garden-new-york-ny-43a4d737.html",
   "song_count": 16,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
@@ -133,19 +133,18 @@
     {
       "position": 15,
       "name": "Suzy Greenberg",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 16,
       "name": "Izabella",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Jimi Hendrix"
     }
-  ],
-  "tour_name": "Summer Tour 2023"
+  ]
 }

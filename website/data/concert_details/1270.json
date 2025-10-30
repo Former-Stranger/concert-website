@@ -20,6 +20,152 @@
   "photo_count": 0,
   "setlists": [
     {
+      "artist_id": null,
+      "artist_name": null,
+      "artist_role": "headliner",
+      "setlistfm_url": "https://www.setlist.fm/setlist/bob-dylan/2025/northwell-at-jones-beach-theater-wantagh-ny-235adc8b.html",
+      "song_count": 17,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Gotta Serve Somebody",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "I Can Tell",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Bo Diddley"
+        },
+        {
+          "position": 3,
+          "name": "Forgetful Heart",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Axe and the Wind",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "George \u201cWild Child\u201d Butler"
+        },
+        {
+          "position": 5,
+          "name": "To Ramona",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Early Roman Kings",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Under the Red Sky",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "I'll Make It All Up to You",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jerry Lee Lewis"
+        },
+        {
+          "position": 9,
+          "name": "All Along the Watchtower",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "'Til I Fell in Love With You",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "Desolation Row",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 12,
+          "name": "Love Sick",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 13,
+          "name": "Share Your Love With Me",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Bobby \u201cBlue\u201d Bland"
+        },
+        {
+          "position": 14,
+          "name": "Blind Willie McTell",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 15,
+          "name": "Highway 61 Revisited",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 16,
+          "name": "Searching for a Soldier's Grave",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Anglin Twins (Jack and Jim)"
+        },
+        {
+          "position": 17,
+          "name": "Don't Think Twice, It's All Right",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ]
+    },
+    {
       "artist_id": "61",
       "artist_name": "Bob Dylan",
       "artist_role": "festival_performer",
@@ -353,7 +499,7 @@
       ]
     }
   ],
-  "total_song_count": 39,
+  "total_song_count": 56,
   "has_encore": false,
   "tour_name": "Outlaw Music Festival Tour 2025"
 }

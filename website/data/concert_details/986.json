@@ -16,12 +16,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/lindsey-buckingham/2021/the-town-hall-new-york-ny-1b8c71a0.html",
   "song_count": 20,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "Not Too Late",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -29,7 +29,7 @@
     {
       "position": 2,
       "name": "In Our Own Time",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -37,7 +37,7 @@
     {
       "position": 3,
       "name": "Soul Drifter",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -45,7 +45,7 @@
     {
       "position": 4,
       "name": "Stars Are Crazy",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -53,7 +53,7 @@
     {
       "position": 5,
       "name": "I Must Go",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -61,7 +61,7 @@
     {
       "position": 6,
       "name": "Doing What I Can",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -69,7 +69,7 @@
     {
       "position": 7,
       "name": "Shut Us Down",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -77,7 +77,7 @@
     {
       "position": 8,
       "name": "Trouble",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -85,7 +85,7 @@
     {
       "position": 9,
       "name": "Never Going Back Again",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Fleetwood Mac"
@@ -93,7 +93,7 @@
     {
       "position": 10,
       "name": "Big Love",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Fleetwood Mac"
@@ -101,7 +101,7 @@
     {
       "position": 11,
       "name": "Scream",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -109,7 +109,7 @@
     {
       "position": 12,
       "name": "I Don't Mind",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -117,7 +117,7 @@
     {
       "position": 13,
       "name": "On the Wrong Side",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -125,7 +125,7 @@
     {
       "position": 14,
       "name": "Swan Song",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -133,7 +133,7 @@
     {
       "position": 15,
       "name": "Second Hand News",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Fleetwood Mac"
@@ -141,7 +141,7 @@
     {
       "position": 16,
       "name": "Tusk",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Fleetwood Mac"
@@ -149,7 +149,7 @@
     {
       "position": 17,
       "name": "I'm So Afraid",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Fleetwood Mac"
@@ -157,7 +157,7 @@
     {
       "position": 18,
       "name": "Go Your Own Way",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Fleetwood Mac"
@@ -165,19 +165,18 @@
     {
       "position": 19,
       "name": "Love Is Here to Stay",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Lindsey Buckingham & Christine McVie"
     },
     {
       "position": 20,
       "name": "Time",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Pozo-Seco Singers"
     }
-  ],
-  "tour_name": "US Tour 2021"
+  ]
 }

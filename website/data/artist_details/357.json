@@ -36,12 +36,12 @@
       "times_played": 2
     },
     {
-      "name": "Cold as You",
-      "times_played": 1
+      "name": "Gettin' Warmed Up",
+      "times_played": 2
     },
     {
-      "name": "1, 2 Many",
-      "times_played": 1
+      "name": "Take a Little Ride",
+      "times_played": 2
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -65,7 +65,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

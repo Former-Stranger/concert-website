@@ -16,12 +16,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/bon-jovi/2017/madison-square-garden-new-york-ny-33e688dd.html",
   "song_count": 24,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "This House Is Not for Sale",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -29,7 +29,7 @@
     {
       "position": 2,
       "name": "Knockout",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -37,7 +37,7 @@
     {
       "position": 3,
       "name": "You Give Love a Bad Name",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -45,7 +45,7 @@
     {
       "position": 4,
       "name": "Lost Highway",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -53,7 +53,7 @@
     {
       "position": 5,
       "name": "Whole Lot of Leavin'",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -61,7 +61,7 @@
     {
       "position": 6,
       "name": "Roller Coaster",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -69,7 +69,7 @@
     {
       "position": 7,
       "name": "We Weren't Born to Follow",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -77,7 +77,7 @@
     {
       "position": 8,
       "name": "I'll Sleep When I'm Dead",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -85,7 +85,7 @@
     {
       "position": 9,
       "name": "We Got It Goin' On",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -93,7 +93,7 @@
     {
       "position": 10,
       "name": "Who Says You Can't Go Home",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -101,7 +101,7 @@
     {
       "position": 11,
       "name": "It's My Life",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -109,7 +109,7 @@
     {
       "position": 12,
       "name": "We Don't Run",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -117,7 +117,7 @@
     {
       "position": 13,
       "name": "God Bless This Mess",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -125,7 +125,7 @@
     {
       "position": 14,
       "name": "New Year's Day",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -133,7 +133,7 @@
     {
       "position": 15,
       "name": "Lay Your Hands on Me",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -141,7 +141,7 @@
     {
       "position": 16,
       "name": "Born to Be My Baby",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -149,7 +149,7 @@
     {
       "position": 17,
       "name": "Have a Nice Day",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -157,7 +157,7 @@
     {
       "position": 18,
       "name": "Bad Medicine",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -165,7 +165,7 @@
     {
       "position": 19,
       "name": "Keep the Faith",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -173,43 +173,42 @@
     {
       "position": 20,
       "name": "Raise Your Hands",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 21,
       "name": "Someday I'll Be Saturday Night",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 22,
       "name": "Captain Crash & the Beauty Queen From Mars",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 23,
       "name": "Wanted Dead or Alive",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 24,
       "name": "Livin' on a Prayer",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     }
-  ],
-  "tour_name": "This House Is Not for Sale"
+  ]
 }

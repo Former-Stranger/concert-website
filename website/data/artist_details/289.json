@@ -5,43 +5,43 @@
   "top_songs": [
     {
       "name": "Live for the Music",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Gone, Gone, Gone",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Feel Like Makin' Love",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Burnin' Sky",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Electricland",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Ready for Love",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Crazy Circles",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "See the Sunlight",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Run With the Pack",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Movin' On",
-      "times_played": 1
+      "times_played": 2
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

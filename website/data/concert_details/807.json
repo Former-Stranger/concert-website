@@ -16,12 +16,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/willie-nile/2017/daryls-house-club-pawling-ny-73e126ad.html",
   "song_count": 16,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "The Times They Are A-Changin'",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Bob Dylan"
@@ -29,7 +29,7 @@
     {
       "position": 2,
       "name": "This Is Our Time",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -37,7 +37,7 @@
     {
       "position": 3,
       "name": "Runnin' Down a Dream",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Tom Petty"
@@ -45,7 +45,7 @@
     {
       "position": 4,
       "name": "Heaven Help the Lonely",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -53,7 +53,7 @@
     {
       "position": 5,
       "name": "If I Ever See the Light",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -61,7 +61,7 @@
     {
       "position": 6,
       "name": "Love Is a Train",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -69,7 +69,7 @@
     {
       "position": 7,
       "name": "Life on Bleecker Street",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -77,7 +77,7 @@
     {
       "position": 8,
       "name": "Golden Down",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -85,7 +85,7 @@
     {
       "position": 9,
       "name": "Sweet Jane",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Velvet Underground"
@@ -93,7 +93,7 @@
     {
       "position": 10,
       "name": "Hell Yeah",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -101,7 +101,7 @@
     {
       "position": 11,
       "name": "House of a Thousand Guitars",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -109,7 +109,7 @@
     {
       "position": 12,
       "name": "One Guitar",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -117,32 +117,32 @@
     {
       "position": 13,
       "name": "You Gotta Be a Buddha (In a Place Like This)",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 14,
       "name": "Hard Times in America",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 15,
       "name": "Blowin' in the Wind",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Bob Dylan"
     },
     {
       "position": 16,
       "name": "Auld Lang Syne",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Robert Burns"
     }

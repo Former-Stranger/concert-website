@@ -16,12 +16,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/the-black-crowes/2021/xfinity-theatre-hartford-ct-1b8f3df0.html",
   "song_count": 20,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "Shake Your Moneymaker",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Elmore James"
@@ -109,7 +109,7 @@
     {
       "position": 12,
       "name": "No Speak No Slave",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -117,7 +117,7 @@
     {
       "position": 13,
       "name": "Kickin' My Heart Around",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -125,7 +125,7 @@
     {
       "position": 14,
       "name": "My Morning Song",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -133,7 +133,7 @@
     {
       "position": 15,
       "name": "By Your Side",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -141,7 +141,7 @@
     {
       "position": 16,
       "name": "Wiser Time",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -149,7 +149,7 @@
     {
       "position": 17,
       "name": "Thorn in My Pride",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -157,7 +157,7 @@
     {
       "position": 18,
       "name": "Sting Me",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -165,7 +165,7 @@
     {
       "position": 19,
       "name": "Remedy",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -173,11 +173,10 @@
     {
       "position": 20,
       "name": "It's Only Rock 'n' Roll (but I Like It)",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "The Rolling Stones"
     }
-  ],
-  "tour_name": "The Black Crowes Present: Shake Your Money Maker"
+  ]
 }

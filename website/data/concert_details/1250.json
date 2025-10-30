@@ -16,12 +16,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/little-feat/2025/capitol-theatre-port-chester-ny-73588679.html",
   "song_count": 20,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "Fat Man in the Bathtub",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -29,7 +29,7 @@
     {
       "position": 2,
       "name": "Hate to Lose Your Lovin'",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -37,7 +37,7 @@
     {
       "position": 3,
       "name": "Oh Atlanta",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -45,7 +45,7 @@
     {
       "position": 4,
       "name": "4 Days of Heaven 3 Days of Work",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -53,7 +53,7 @@
     {
       "position": 5,
       "name": "Too High to Cut My Hair",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -61,7 +61,7 @@
     {
       "position": 6,
       "name": "Time Loves a Hero",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -69,7 +69,7 @@
     {
       "position": 7,
       "name": "Day or Night",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -77,7 +77,7 @@
     {
       "position": 8,
       "name": "Midnight Flight",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -85,7 +85,7 @@
     {
       "position": 9,
       "name": "Spanish Moon",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -93,7 +93,7 @@
     {
       "position": 10,
       "name": "Baby Don't You Do It",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Marvin Gaye"
@@ -101,7 +101,7 @@
     {
       "position": 11,
       "name": "Bayou Mama",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -109,7 +109,7 @@
     {
       "position": 12,
       "name": "Bluegrass Pines",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -117,7 +117,7 @@
     {
       "position": 13,
       "name": "On Your Way Down",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Allen Toussaint"
@@ -125,7 +125,7 @@
     {
       "position": 14,
       "name": "You'll Be Mine",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Howlin\u2019 Wolf"
@@ -133,7 +133,7 @@
     {
       "position": 15,
       "name": "Shipwrecks",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -141,7 +141,7 @@
     {
       "position": 16,
       "name": "Willin'",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -149,7 +149,7 @@
     {
       "position": 17,
       "name": "Dixie Chicken",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -157,7 +157,7 @@
     {
       "position": 18,
       "name": "Feats Don't Fail Me Now",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -165,19 +165,18 @@
     {
       "position": 19,
       "name": "Let It Roll",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 20,
       "name": "Skin It Back",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     }
-  ],
-  "tour_name": "Strike Up the Band"
+  ]
 }

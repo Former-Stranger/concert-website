@@ -2,7 +2,48 @@
   "id": "19",
   "name": "Allman Brothers",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Trouble No More",
+      "times_played": 1
+    },
+    {
+      "name": "Ain't Wastin' Time No More",
+      "times_played": 1
+    },
+    {
+      "name": "Statesboro Blues",
+      "times_played": 1
+    },
+    {
+      "name": "Rocking Horse",
+      "times_played": 1
+    },
+    {
+      "name": "Gambler's Roll",
+      "times_played": 1
+    },
+    {
+      "name": "Black Hearted Woman",
+      "times_played": 1
+    },
+    {
+      "name": "And It Stoned Me",
+      "times_played": 1
+    },
+    {
+      "name": "Stand Back",
+      "times_played": 1
+    },
+    {
+      "name": "Why Does Love Got to Be So Sad?",
+      "times_played": 1
+    },
+    {
+      "name": "In Memory of Elizabeth Reed",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "311",
@@ -12,7 +53,7 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

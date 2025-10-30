@@ -16,12 +16,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/metallica/2017/nassau-veterans-memorial-coliseum-uniondale-ny-43e7fb2b.html",
   "song_count": 21,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "The Ecstasy of Gold",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Ennio Morricone"
@@ -29,7 +29,7 @@
     {
       "position": 2,
       "name": "Hardwired Intro",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -37,7 +37,7 @@
     {
       "position": 3,
       "name": "Hardwired",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -45,7 +45,7 @@
     {
       "position": 4,
       "name": "Atlas, Rise!",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -53,7 +53,7 @@
     {
       "position": 5,
       "name": "For Whom the Bell Tolls",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -61,7 +61,7 @@
     {
       "position": 6,
       "name": "Ride the Lightning",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -69,7 +69,7 @@
     {
       "position": 7,
       "name": "The Unforgiven",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -77,7 +77,7 @@
     {
       "position": 8,
       "name": "Now That We're Dead",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -85,7 +85,7 @@
     {
       "position": 9,
       "name": "Moth Into Flame",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -93,7 +93,7 @@
     {
       "position": 10,
       "name": "Harvester of Sorrow",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -101,7 +101,7 @@
     {
       "position": 11,
       "name": "Welcome Home (Sanitarium)",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -109,7 +109,7 @@
     {
       "position": 12,
       "name": "Kirk and Rob Doodle",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -117,7 +117,7 @@
     {
       "position": 13,
       "name": "The Four Horsemen",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -125,7 +125,7 @@
     {
       "position": 14,
       "name": "Sad but True",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -133,7 +133,7 @@
     {
       "position": 15,
       "name": "One",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -141,7 +141,7 @@
     {
       "position": 16,
       "name": "Master of Puppets",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -149,7 +149,7 @@
     {
       "position": 17,
       "name": "Fade to Black",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -157,7 +157,7 @@
     {
       "position": 18,
       "name": "Seek & Destroy",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -165,27 +165,26 @@
     {
       "position": 19,
       "name": "Blackened",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 20,
       "name": "Nothing Else Matters",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 21,
       "name": "Enter Sandman",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     }
-  ],
-  "tour_name": "Worldwired"
+  ]
 }

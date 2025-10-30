@@ -16,12 +16,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/zac-brown-band/2019/northwell-health-at-jones-beach-theater-wantagh-ny-139f25c5.html",
   "song_count": 27,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "Homegrown",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -29,7 +29,7 @@
     {
       "position": 2,
       "name": "Someone I Used to Know",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -37,7 +37,7 @@
     {
       "position": 3,
       "name": "Knee Deep",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -45,7 +45,7 @@
     {
       "position": 4,
       "name": "Use Somebody",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Kings of Leon"
@@ -53,7 +53,7 @@
     {
       "position": 5,
       "name": "Me and the Boys in the Band",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -61,7 +61,7 @@
     {
       "position": 6,
       "name": "As She's Walking Away",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -69,7 +69,7 @@
     {
       "position": 7,
       "name": "Sweet Annie",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -77,16 +77,15 @@
     {
       "position": 8,
       "name": "Quiet Your Mind",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Caroline Jones"
+      "cover_artist": null
     },
     {
       "position": 9,
       "name": "Beautiful Drug",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -198,43 +197,42 @@
     {
       "position": 23,
       "name": "Money for Nothing",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Dire Straits"
     },
     {
       "position": 24,
       "name": "Seven Nation Army",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "The White Stripes"
     },
     {
       "position": 25,
       "name": "Hot for Teacher",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Van Halen"
     },
     {
       "position": 26,
       "name": "Pour Some Sugar on Me",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Def Leppard"
     },
     {
       "position": 27,
       "name": "Bulls on Parade",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Rage Against the Machine"
     }
-  ],
-  "tour_name": "The Owl Tour: Summer 2019"
+  ]
 }

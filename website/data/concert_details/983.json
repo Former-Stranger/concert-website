@@ -16,7 +16,7 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/zac-brown-band/2021/northwell-health-at-jones-beach-theater-wantagh-ny-38c39ff.html",
   "song_count": 23,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
@@ -181,27 +181,26 @@
     {
       "position": 21,
       "name": "Enter Sandman",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Metallica"
     },
     {
       "position": 22,
       "name": "Piano Man",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Billy Joel"
     },
     {
       "position": 23,
       "name": "Chicken Fried",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     }
-  ],
-  "tour_name": "The Comeback Tour"
+  ]
 }

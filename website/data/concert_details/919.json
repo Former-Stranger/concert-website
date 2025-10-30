@@ -21,7 +21,7 @@
     {
       "position": 1,
       "name": "I'm Alive",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -29,7 +29,7 @@
     {
       "position": 2,
       "name": "Take It Easy",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Eagles"
@@ -37,7 +37,7 @@
     {
       "position": 3,
       "name": "The Pretender",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -45,7 +45,7 @@
     {
       "position": 4,
       "name": "Enough of the Night",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -53,7 +53,7 @@
     {
       "position": 5,
       "name": "The Long Way Around",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -61,7 +61,7 @@
     {
       "position": 6,
       "name": "Tender Is the Night",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -69,16 +69,15 @@
     {
       "position": 7,
       "name": "A Human Touch",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Leslie Mendelson"
+      "cover_artist": null
     },
     {
       "position": 8,
       "name": "These Days",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -86,16 +85,15 @@
     {
       "position": 9,
       "name": "Mohammed's Radio",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Warren Zevon",
-      "guest_artist": "Lucius"
+      "cover_artist": "Warren Zevon"
     },
     {
       "position": 10,
       "name": "The Dreamer",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -103,7 +101,7 @@
     {
       "position": 11,
       "name": "Lives in the Balance",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -111,7 +109,7 @@
     {
       "position": 12,
       "name": "Walls and Doors",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Carlos Varela"
@@ -119,7 +117,7 @@
     {
       "position": 13,
       "name": "Doctor My Eyes",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -127,7 +125,7 @@
     {
       "position": 14,
       "name": "Somebody's Baby",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -135,7 +133,7 @@
     {
       "position": 15,
       "name": "I'll Do Anything",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -143,7 +141,7 @@
     {
       "position": 16,
       "name": "In the Shape of a Heart",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -151,39 +149,34 @@
     {
       "position": 17,
       "name": "Running on Empty",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Lucius"
+      "cover_artist": null
     },
     {
       "position": 18,
       "name": "Dusty Trails",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Lucius",
-      "guest_artist": "Lucius"
+      "cover_artist": "Lucius"
     },
     {
       "position": 19,
       "name": "City of Immigrants",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Steve Earle",
-      "guest_artist": "Lucius"
+      "cover_artist": "Steve Earle"
     },
     {
       "position": 20,
       "name": "I Am a Patriot",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Little Steven",
-      "guest_artist": "Lucius"
+      "cover_artist": "Little Steven"
     }
-  ],
-  "tour_name": "2019 Full Band Electric Tour"
+  ]
 }

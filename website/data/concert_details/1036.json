@@ -16,6 +16,160 @@
   "photo_count": 0,
   "setlists": [
     {
+      "artist_id": null,
+      "artist_name": null,
+      "artist_role": "headliner",
+      "setlistfm_url": "https://www.setlist.fm/setlist/dead-and-company/2022/xfinity-theatre-hartford-ct-13b529c9.html",
+      "song_count": 18,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "The Music Never Stopped",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 2,
+          "name": "Liberty",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Robert Hunter"
+        },
+        {
+          "position": 3,
+          "name": "They Love Each Other",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jerry Garcia"
+        },
+        {
+          "position": 4,
+          "name": "Loser",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jerry Garcia"
+        },
+        {
+          "position": 5,
+          "name": "Alabama Getaway",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 6,
+          "name": "Iko Iko",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Sugar Boy and His Cane Cutters"
+        },
+        {
+          "position": 7,
+          "name": "High Time",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 8,
+          "name": "Cassidy",
+          "set_name": "Set 1:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Bob Weir"
+        },
+        {
+          "position": 9,
+          "name": "Jack Straw",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 10,
+          "name": "Scarlet Begonias",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 11,
+          "name": "Viola Lee Blues",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Cannon\u2019s Jug Stompers"
+        },
+        {
+          "position": 12,
+          "name": "Fire on the Mountain",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 13,
+          "name": "The Other One",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 14,
+          "name": "Drums",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 15,
+          "name": "Space",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 16,
+          "name": "The Wheel",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jerry Garcia"
+        },
+        {
+          "position": 17,
+          "name": "Black Peter",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 18,
+          "name": "Sugar Magnolia",
+          "set_name": "Set 2:",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        }
+      ]
+    },
+    {
       "artist_id": "131",
       "artist_name": "Company",
       "artist_role": "headliner",
@@ -389,7 +543,7 @@
       ]
     }
   ],
-  "total_song_count": 44,
+  "total_song_count": 62,
   "has_encore": false,
   "tour_name": "Summer Tour 22"
 }

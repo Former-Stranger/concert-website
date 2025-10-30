@@ -16,7 +16,7 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/queen-adam-lambert/2023/madison-square-garden-new-york-ny-3ba35c38.html",
   "song_count": 31,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
@@ -221,51 +221,50 @@
     {
       "position": 26,
       "name": "Ay\u2010Oh",
-      "set_name": "Set 6",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Queen"
     },
     {
       "position": 27,
       "name": "We Will Rock You",
-      "set_name": "Set 6",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Queen"
     },
     {
       "position": 28,
       "name": "Radio Ga Ga",
-      "set_name": "Set 6",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Queen"
     },
     {
       "position": 29,
       "name": "We Are the Champions",
-      "set_name": "Set 6",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Queen"
     },
     {
       "position": 30,
       "name": "God Save the Queen",
-      "set_name": "Set 6",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "[traditional]"
     },
     {
       "position": 31,
       "name": "\"Heroes\"",
-      "set_name": "Set 6",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "David Bowie"
     }
-  ],
-  "tour_name": "The Rhapsody Tour"
+  ]
 }

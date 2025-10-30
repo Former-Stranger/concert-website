@@ -2,7 +2,48 @@
   "id": "261",
   "name": "James Blunt",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Billy",
+      "times_played": 1
+    },
+    {
+      "name": "High",
+      "times_played": 1
+    },
+    {
+      "name": "Cry",
+      "times_played": 1
+    },
+    {
+      "name": "Annie",
+      "times_played": 1
+    },
+    {
+      "name": "Goodbye My Lover",
+      "times_played": 1
+    },
+    {
+      "name": "Breakfast in America",
+      "times_played": 1
+    },
+    {
+      "name": "Tears and Rain",
+      "times_played": 1
+    },
+    {
+      "name": "I Really Want You",
+      "times_played": 1
+    },
+    {
+      "name": "Out of My Mind",
+      "times_played": 1
+    },
+    {
+      "name": "I Can't Hear the Music",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "283",
@@ -12,7 +53,7 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

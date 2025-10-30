@@ -21,7 +21,7 @@
     {
       "position": 1,
       "name": "Creeker",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -29,7 +29,7 @@
     {
       "position": 2,
       "name": "Tulsa Turnaround",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Alex Harvey"
@@ -37,7 +37,7 @@
     {
       "position": 3,
       "name": "Percheron Mules",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -45,7 +45,7 @@
     {
       "position": 4,
       "name": "I Swear (to God)",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -53,7 +53,7 @@
     {
       "position": 5,
       "name": "Country Squire",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -61,7 +61,7 @@
     {
       "position": 6,
       "name": "Rustin' in the Rain",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -69,7 +69,7 @@
     {
       "position": 7,
       "name": "All Your'n",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -77,7 +77,7 @@
     {
       "position": 8,
       "name": "Purgatory",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -85,7 +85,7 @@
     {
       "position": 9,
       "name": "Cluck Old Hen",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "[traditional]"
@@ -93,7 +93,7 @@
     {
       "position": 10,
       "name": "Space and Time",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "S.G. Goodman"
@@ -101,7 +101,7 @@
     {
       "position": 11,
       "name": "Happy Birthday to You",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Mildred J. Hill & Patty Hill"
@@ -136,8 +136,7 @@
       "set_name": "Acoustic",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Kermit the Frog"
+      "cover_artist": null
     },
     {
       "position": 16,
@@ -145,8 +144,7 @@
       "set_name": "Full Band",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "The Muppets",
-      "guest_artist": "Kermit the Frog"
+      "cover_artist": "The Muppets"
     },
     {
       "position": 17,
@@ -220,6 +218,5 @@
       "is_cover": false,
       "cover_artist": null
     }
-  ],
-  "tour_name": "Mule Pull Tour 24"
+  ]
 }

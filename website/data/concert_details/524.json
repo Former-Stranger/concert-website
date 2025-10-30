@@ -1,0 +1,214 @@
+{
+  "id": "524",
+  "show_number": 523,
+  "date": "2012-10-17",
+  "festival_name": null,
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Crosby, Stills and Nash",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/crosby-stills-and-nash/2012/beacon-theatre-new-york-ny-3bdd04dc.html",
+  "song_count": 24,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Carry On",
+      "set_name": "First part",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Crosby, Stills, Nash & Young"
+    },
+    {
+      "position": 2,
+      "name": "Pre-Road Downs",
+      "set_name": "First part",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Long Time Gone",
+      "set_name": "First part",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Just a Song Before I Go",
+      "set_name": "First part",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Southern Cross",
+      "set_name": "First part",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Lay Me Down",
+      "set_name": "First part",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Crosby & Nash"
+    },
+    {
+      "position": 7,
+      "name": "Chicago",
+      "set_name": "First part",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Graham Nash"
+    },
+    {
+      "position": 8,
+      "name": "Radio",
+      "set_name": "First part",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "David Crosby"
+    },
+    {
+      "position": 9,
+      "name": "Almost Gone (The Ballad of Bradley Manning)",
+      "set_name": "First part",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Bluebird",
+      "set_name": "First part",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Buffalo Springfield"
+    },
+    {
+      "position": 11,
+      "name": "D\u00e9j\u00e0 Vu",
+      "set_name": "First part",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Crosby, Stills, Nash & Young"
+    },
+    {
+      "position": 12,
+      "name": "Love the One You're With",
+      "set_name": "First part",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Stephen Stills"
+    },
+    {
+      "position": 13,
+      "name": "As I Come of Age",
+      "set_name": "Second part",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Stephen Stills"
+    },
+    {
+      "position": 14,
+      "name": "In Your Name",
+      "set_name": "Second part",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Graham Nash"
+    },
+    {
+      "position": 15,
+      "name": "Girl From the North Country",
+      "set_name": "Second part",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bob Dylan"
+    },
+    {
+      "position": 16,
+      "name": "What Are Their Names",
+      "set_name": "Second part",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "David Crosby"
+    },
+    {
+      "position": 17,
+      "name": "Guinnevere",
+      "set_name": "Second part",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "Daylight Again / Find the Cost of Freedom",
+      "set_name": "Second part",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 19,
+      "name": "Cathedral",
+      "set_name": "Second part",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "49 Bye-Byes",
+      "set_name": "Second part",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 21,
+      "name": "Our House",
+      "set_name": "Second part",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Crosby, Stills, Nash & Young"
+    },
+    {
+      "position": 22,
+      "name": "Almost Cut My Hair",
+      "set_name": "Second part",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "David Crosby"
+    },
+    {
+      "position": 23,
+      "name": "Wooden Ships",
+      "set_name": "Second part",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 24,
+      "name": "Teach Your Children",
+      "set_name": "Second part",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Crosby, Stills, Nash & Young"
+    }
+  ]
+}

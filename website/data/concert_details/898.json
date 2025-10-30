@@ -20,7 +20,7 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/bob-weir-and-wolf-bros/2019/toyota-presents-the-oakdale-theatre-wallingford-ct-5b92fbf0.html",
   "song_count": 18,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
@@ -161,11 +161,10 @@
     {
       "position": 18,
       "name": "Brokedown Palace",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Grateful Dead"
     }
-  ],
-  "tour_name": "Winter Tour 2019"
+  ]
 }

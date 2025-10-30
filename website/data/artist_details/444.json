@@ -2,7 +2,48 @@
   "id": "444",
   "name": "REM",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "What's the Frequency, Kenneth?",
+      "times_played": 2
+    },
+    {
+      "name": "It's the End of the World as We Know It (And I Feel Fine)",
+      "times_played": 1
+    },
+    {
+      "name": "Begin the Begin",
+      "times_played": 1
+    },
+    {
+      "name": "So Fast, So Numb",
+      "times_played": 1
+    },
+    {
+      "name": "Animal",
+      "times_played": 1
+    },
+    {
+      "name": "Boy in the Well",
+      "times_played": 1
+    },
+    {
+      "name": "Welcome to the Occupation",
+      "times_played": 1
+    },
+    {
+      "name": "The Outsiders",
+      "times_played": 1
+    },
+    {
+      "name": "Get Up",
+      "times_played": 1
+    },
+    {
+      "name": "High Speed Train",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "217",
@@ -12,7 +53,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -24,7 +65,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

@@ -20,12 +20,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/eddie-vedder/2022/new-jersey-performing-arts-center-newark-nj-b883586.html",
   "song_count": 24,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "On My Way",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -33,7 +33,7 @@
     {
       "position": 2,
       "name": "Society",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Jerry Hannan"
@@ -41,7 +41,7 @@
     {
       "position": 3,
       "name": "Room at the Top",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Tom Petty and the Heartbreakers"
@@ -49,7 +49,7 @@
     {
       "position": 4,
       "name": "Here Comes the Sun",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Beatles"
@@ -57,7 +57,7 @@
     {
       "position": 5,
       "name": "Timeless Melody",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The La\u2019s"
@@ -65,7 +65,7 @@
     {
       "position": 6,
       "name": "I'll Be Waiting",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -73,7 +73,7 @@
     {
       "position": 7,
       "name": "Invincible",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -81,7 +81,7 @@
     {
       "position": 8,
       "name": "The Dark",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -89,7 +89,7 @@
     {
       "position": 9,
       "name": "Fallout Today",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -97,7 +97,7 @@
     {
       "position": 10,
       "name": "Brother the Cloud",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -105,7 +105,7 @@
     {
       "position": 11,
       "name": "Tender Mercies",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Glen Hansard & Eddie Vedder"
@@ -113,7 +113,7 @@
     {
       "position": 12,
       "name": "Wishlist",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Pearl Jam"
@@ -121,7 +121,7 @@
     {
       "position": 13,
       "name": "Long Way",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -129,7 +129,7 @@
     {
       "position": 14,
       "name": "The Haves",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -137,7 +137,7 @@
     {
       "position": 15,
       "name": "Mrs. Mills",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -145,16 +145,15 @@
     {
       "position": 16,
       "name": "Try",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Danny Clinch"
+      "cover_artist": null
     },
     {
       "position": 17,
       "name": "Chad-O",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -162,7 +161,7 @@
     {
       "position": 18,
       "name": "Rose of Jericho",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -170,7 +169,7 @@
     {
       "position": 19,
       "name": "Precious",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Pretenders"
@@ -178,7 +177,7 @@
     {
       "position": 20,
       "name": "Hard Sun",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Indio"
@@ -186,35 +185,34 @@
     {
       "position": 21,
       "name": "I Am a Patriot",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Little Steven"
     },
     {
       "position": 22,
       "name": "Dirty Frank",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Pearl Jam"
     },
     {
       "position": 23,
       "name": "Isn't It a Pity",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "George Harrison"
     },
     {
       "position": 24,
       "name": "Porch",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Pearl Jam"
     }
-  ],
-  "tour_name": "The Earthlings Tour 2022"
+  ]
 }

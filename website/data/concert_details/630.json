@@ -16,7 +16,7 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/bryan-adams/2015/beacon-theatre-new-york-ny-1bc9792c.html",
   "song_count": 26,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
@@ -189,43 +189,42 @@
     {
       "position": 22,
       "name": "You've Been a Friend to Me",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 23,
       "name": "C'mon Everybody",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Eddie Cochran"
     },
     {
       "position": 24,
       "name": "She Knows Me",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 25,
       "name": "Straight From the Heart",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 26,
       "name": "All for Love",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Bryan Adams, Rod Stewart & Sting"
     }
-  ],
-  "tour_name": "Reckless - 30th Anniversary Tour"
+  ]
 }

@@ -16,12 +16,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/billy-joel/2019/madison-square-garden-new-york-ny-4b9a4fb2.html",
   "song_count": 27,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "The Natural (The End Title)",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Randy Newman"
@@ -29,7 +29,7 @@
     {
       "position": 2,
       "name": "I Go to Extremes",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -37,7 +37,7 @@
     {
       "position": 3,
       "name": "Movin' Out (Anthony's Song)",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -45,7 +45,7 @@
     {
       "position": 4,
       "name": "Vienna",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -53,7 +53,7 @@
     {
       "position": 5,
       "name": "The Entertainer",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -61,7 +61,7 @@
     {
       "position": 6,
       "name": "She's Right on Time",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -69,7 +69,7 @@
     {
       "position": 7,
       "name": "The Longest Time",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -77,25 +77,23 @@
     {
       "position": 8,
       "name": "Have Yourself a Merry Little Christmas",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Hugh Martin",
-      "guest_artist": "Alexa Ray Joel"
+      "cover_artist": "Hugh Martin"
     },
     {
       "position": 9,
       "name": "White Christmas",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Irving Berlin",
-      "guest_artist": "Alexa Ray Joel"
+      "cover_artist": "Irving Berlin"
     },
     {
       "position": 10,
       "name": "Don't Ask Me Why",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -103,7 +101,7 @@
     {
       "position": 11,
       "name": "Zanzibar",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -111,7 +109,7 @@
     {
       "position": 12,
       "name": "New York State of Mind",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -119,7 +117,7 @@
     {
       "position": 13,
       "name": "Allentown",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -127,7 +125,7 @@
     {
       "position": 14,
       "name": "She's Always a Woman",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -135,7 +133,7 @@
     {
       "position": 15,
       "name": "Say Goodbye to Hollywood",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -143,7 +141,7 @@
     {
       "position": 16,
       "name": "All About Soul",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -151,7 +149,7 @@
     {
       "position": 17,
       "name": "My Life",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -159,7 +157,7 @@
     {
       "position": 18,
       "name": "Only the Good Die Young",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -167,7 +165,7 @@
     {
       "position": 19,
       "name": "The River of Dreams",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -175,7 +173,7 @@
     {
       "position": 20,
       "name": "Nessun dorma",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Giacomo Puccini"
@@ -183,7 +181,7 @@
     {
       "position": 21,
       "name": "Scenes From an Italian Restaurant",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -191,7 +189,7 @@
     {
       "position": 22,
       "name": "Piano Man",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -199,43 +197,42 @@
     {
       "position": 23,
       "name": "We Didn't Start the Fire",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 24,
       "name": "Uptown Girl",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 25,
       "name": "It's Still Rock and Roll to Me",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 26,
       "name": "Big Shot",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 27,
       "name": "You May Be Right",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     }
-  ],
-  "tour_name": "Billy Joel at The Garden"
+  ]
 }

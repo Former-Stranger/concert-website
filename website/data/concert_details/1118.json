@@ -16,7 +16,7 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/peter-gabriel/2023/madison-square-garden-new-york-ny-73a276a5.html",
   "song_count": 23,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
@@ -181,27 +181,26 @@
     {
       "position": 21,
       "name": "In Your Eyes",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 22,
       "name": "Happy Birthday to You",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 2,
       "is_cover": true,
       "cover_artist": "Mildred J. Hill & Patty Hill"
     },
     {
       "position": 23,
       "name": "Biko",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 2,
       "is_cover": false,
       "cover_artist": null
     }
-  ],
-  "tour_name": "i/o The Tour"
+  ]
 }

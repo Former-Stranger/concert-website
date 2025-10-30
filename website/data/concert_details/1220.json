@@ -21,16 +21,15 @@
     {
       "position": 1,
       "name": "The Weight",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "The Band",
-      "guest_artist": "Trey Anastasio"
+      "cover_artist": "The Band"
     },
     {
       "position": 2,
       "name": "Pantala Naga Pampa",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -38,7 +37,7 @@
     {
       "position": 3,
       "name": "Rapunzel",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -46,7 +45,7 @@
     {
       "position": 4,
       "name": "So Much to Say",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -54,7 +53,7 @@
     {
       "position": 5,
       "name": "Anyone Seen the Bridge",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -62,7 +61,7 @@
     {
       "position": 6,
       "name": "Too Much",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -70,7 +69,7 @@
     {
       "position": 7,
       "name": "So Damn Lucky",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Dave Matthews"
@@ -78,47 +77,42 @@
     {
       "position": 8,
       "name": "Jimi Thing",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Trombone Shorty"
+      "cover_artist": null
     },
     {
       "position": 9,
       "name": "Brick House",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Commodores",
-      "guest_artist": "Benjamin Jaffe"
+      "cover_artist": "Commodores"
     },
     {
       "position": 10,
       "name": "Lie in Our Graves",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Trey Anastasio"
+      "cover_artist": null
     },
     {
       "position": 11,
       "name": "Melissa",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "The Allman Brothers Band",
-      "guest_artist": "Warren Haynes"
+      "cover_artist": "The Allman Brothers Band"
     },
     {
       "position": 12,
       "name": "Come Together",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "The Beatles",
-      "guest_artist": "Warren Haynes"
+      "cover_artist": "The Beatles"
     }
   ]
 }

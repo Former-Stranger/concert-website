@@ -1,0 +1,194 @@
+{
+  "id": "331",
+  "show_number": 330,
+  "date": "2008-02-28",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Eric Clapton",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Steve Winwood",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/eric-clapton-and-steve-winwood/2008/madison-square-garden-new-york-ny-53d4635d.html",
+  "song_count": 21,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Had to Cry Today",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Blind Faith"
+    },
+    {
+      "position": 2,
+      "name": "Low Down",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "J.J. Cale"
+    },
+    {
+      "position": 3,
+      "name": "Forever Man",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Eric Clapton"
+    },
+    {
+      "position": 4,
+      "name": "Them Changes",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Buddy Miles"
+    },
+    {
+      "position": 5,
+      "name": "Sleeping in the Ground",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Sam Myers"
+    },
+    {
+      "position": 6,
+      "name": "Presence of the Lord",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Blind Faith"
+    },
+    {
+      "position": 7,
+      "name": "Glad",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Traffic"
+    },
+    {
+      "position": 8,
+      "name": "Well.... All Right",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Buddy Holly"
+    },
+    {
+      "position": 9,
+      "name": "Double Trouble",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Otis Rush"
+    },
+    {
+      "position": 10,
+      "name": "Pearly Queen",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Traffic"
+    },
+    {
+      "position": 11,
+      "name": "Tell the Truth",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Derek and the Dominos"
+    },
+    {
+      "position": 12,
+      "name": "No Face, No Name and No Number",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Traffic"
+    },
+    {
+      "position": 13,
+      "name": "After Midnight",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "J.J. Cale"
+    },
+    {
+      "position": 14,
+      "name": "Split Decision",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Steve Winwood"
+    },
+    {
+      "position": 15,
+      "name": "Kind Hearted Woman Blues",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Robert Johnson"
+    },
+    {
+      "position": 16,
+      "name": "Georgia (on My Mind)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Hoagy Carmichael and His Orchestra"
+    },
+    {
+      "position": 17,
+      "name": "Little Wing",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Jimi Hendrix Experience"
+    },
+    {
+      "position": 18,
+      "name": "Voodoo Chile",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Jimi Hendrix Experience"
+    },
+    {
+      "position": 19,
+      "name": "Can't Find My Way Home",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Blind Faith"
+    },
+    {
+      "position": 20,
+      "name": "Cocaine",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "J.J. Cale"
+    },
+    {
+      "position": 21,
+      "name": "Dear Mr. Fantasy",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Traffic"
+    }
+  ]
+}

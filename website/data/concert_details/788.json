@@ -16,12 +16,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/paul-mccartney/2017/barclays-center-brooklyn-ny-7be21aa8.html",
   "song_count": 40,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "A Hard Day's Night",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Beatles"
@@ -29,7 +29,7 @@
     {
       "position": 2,
       "name": "Junior's Farm",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Wings"
@@ -37,7 +37,7 @@
     {
       "position": 3,
       "name": "Can't Buy Me Love",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Beatles"
@@ -45,7 +45,7 @@
     {
       "position": 4,
       "name": "Jet",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Wings"
@@ -53,7 +53,7 @@
     {
       "position": 5,
       "name": "All My Loving",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Beatles"
@@ -61,7 +61,7 @@
     {
       "position": 6,
       "name": "Let Me Roll It",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Wings"
@@ -69,7 +69,7 @@
     {
       "position": 7,
       "name": "I've Got a Feeling",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Beatles"
@@ -77,7 +77,7 @@
     {
       "position": 8,
       "name": "My Valentine",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -85,7 +85,7 @@
     {
       "position": 9,
       "name": "Nineteen Hundred and Eighty-Five",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Wings"
@@ -93,7 +93,7 @@
     {
       "position": 10,
       "name": "Maybe I'm Amazed",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -101,7 +101,7 @@
     {
       "position": 11,
       "name": "We Can Work It Out",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Beatles"
@@ -109,7 +109,7 @@
     {
       "position": 12,
       "name": "In Spite of All the Danger",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Quarrymen"
@@ -117,7 +117,7 @@
     {
       "position": 13,
       "name": "You Won't See Me",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Beatles"
@@ -125,7 +125,7 @@
     {
       "position": 14,
       "name": "Love Me Do",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Beatles"
@@ -133,7 +133,7 @@
     {
       "position": 15,
       "name": "And I Love Her",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Beatles"
@@ -141,7 +141,7 @@
     {
       "position": 16,
       "name": "Blackbird",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Beatles"
@@ -149,7 +149,7 @@
     {
       "position": 17,
       "name": "Here Today",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -157,7 +157,7 @@
     {
       "position": 18,
       "name": "Queenie Eye",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -165,7 +165,7 @@
     {
       "position": 19,
       "name": "New",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -173,7 +173,7 @@
     {
       "position": 20,
       "name": "Lady Madonna",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Beatles"
@@ -181,7 +181,7 @@
     {
       "position": 21,
       "name": "FourFiveSeconds",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Rihanna and Kanye West and Paul McCartney"
@@ -189,7 +189,7 @@
     {
       "position": 22,
       "name": "Eleanor Rigby",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Beatles"
@@ -197,7 +197,7 @@
     {
       "position": 23,
       "name": "I Wanna Be Your Man",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Beatles"
@@ -205,7 +205,7 @@
     {
       "position": 24,
       "name": "Being for the Benefit of Mr. Kite!",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Beatles"
@@ -213,7 +213,7 @@
     {
       "position": 25,
       "name": "Something",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Beatles"
@@ -221,7 +221,7 @@
     {
       "position": 26,
       "name": "A Day in the Life",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Beatles"
@@ -229,7 +229,7 @@
     {
       "position": 27,
       "name": "Ob-La-Di, Ob-La-Da",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Beatles"
@@ -237,7 +237,7 @@
     {
       "position": 28,
       "name": "Band on the Run",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Wings"
@@ -245,7 +245,7 @@
     {
       "position": 29,
       "name": "Back in the U.S.S.R.",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Beatles"
@@ -253,7 +253,7 @@
     {
       "position": 30,
       "name": "Let It Be",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Beatles"
@@ -261,7 +261,7 @@
     {
       "position": 31,
       "name": "Live and Let Die",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Wings"
@@ -269,7 +269,7 @@
     {
       "position": 32,
       "name": "Hey Jude",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Beatles"
@@ -277,67 +277,66 @@
     {
       "position": 33,
       "name": "Yesterday",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "The Beatles"
     },
     {
       "position": 34,
       "name": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "The Beatles"
     },
     {
       "position": 35,
       "name": "Helter Skelter",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "The Beatles"
     },
     {
       "position": 36,
       "name": "Birthday",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "The Beatles"
     },
     {
       "position": 37,
       "name": "Happy Birthday to You",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Mildred J. Hill & Patty Hill"
     },
     {
       "position": 38,
       "name": "Golden Slumbers",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "The Beatles"
     },
     {
       "position": 39,
       "name": "Carry That Weight",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "The Beatles"
     },
     {
       "position": 40,
       "name": "The End",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "The Beatles"
     }
-  ],
-  "tour_name": "One on One"
+  ]
 }

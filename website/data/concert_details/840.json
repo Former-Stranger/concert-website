@@ -20,12 +20,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/govt-mule/2018/northwell-health-at-jones-beach-theater-wantagh-ny-23ebb8a7.html",
   "song_count": 17,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "Mule",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -33,7 +33,7 @@
     {
       "position": 2,
       "name": "Revolution Come, Revolution Go",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -41,7 +41,7 @@
     {
       "position": 3,
       "name": "Shine On You Crazy Diamond (Parts I-V)",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
@@ -49,7 +49,7 @@
     {
       "position": 4,
       "name": "Have a Cigar",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
@@ -57,7 +57,7 @@
     {
       "position": 5,
       "name": "Speak to Me",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
@@ -65,7 +65,7 @@
     {
       "position": 6,
       "name": "Breathe (In the Air)",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
@@ -73,7 +73,7 @@
     {
       "position": 7,
       "name": "On the Run",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
@@ -81,25 +81,23 @@
     {
       "position": 8,
       "name": "Time",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Pink Floyd",
-      "guest_artist": "Scott Avett"
+      "cover_artist": "Pink Floyd"
     },
     {
       "position": 9,
       "name": "Breathe (Reprise)",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Pink Floyd",
-      "guest_artist": "Scott Avett"
+      "cover_artist": "Pink Floyd"
     },
     {
       "position": 10,
       "name": "The Great Gig in the Sky",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
@@ -107,16 +105,15 @@
     {
       "position": 11,
       "name": "The Nile Song",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Pink Floyd",
-      "guest_artist": "Marc Ford"
+      "cover_artist": "Pink Floyd"
     },
     {
       "position": 12,
       "name": "Money",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
@@ -124,7 +121,7 @@
     {
       "position": 13,
       "name": "Us and Them",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
@@ -132,7 +129,7 @@
     {
       "position": 14,
       "name": "Any Colour You Like",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
@@ -140,16 +137,15 @@
     {
       "position": 15,
       "name": "Fearless",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Pink Floyd",
-      "guest_artist": "Rich Robinson"
+      "cover_artist": "Pink Floyd"
     },
     {
       "position": 16,
       "name": "Comfortably Numb",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
@@ -157,11 +153,10 @@
     {
       "position": 17,
       "name": "Wish You Were Here",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
     }
-  ],
-  "tour_name": "Dark Side of the Mule 2018"
+  ]
 }

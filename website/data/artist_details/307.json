@@ -5,43 +5,43 @@
   "top_songs": [
     {
       "name": "Freeway Jam",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Me and the Devil Blues",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Midnight Walker",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Big Block",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Caroline, No",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "You Know You Know",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Loose Cannon",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Star Cycle",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Brush With the Blues",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "You Never Know",
-      "times_played": 2
+      "times_played": 3
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

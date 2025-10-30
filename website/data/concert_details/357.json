@@ -1,0 +1,154 @@
+{
+  "id": "357",
+  "show_number": 356,
+  "date": "2008-08-25",
+  "festival_name": "Multi-Artist Show",
+  "venue": "NYCB Theatre at Westbury",
+  "city": "Westbury",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Huey Lewis",
+      "role": "festival_performer"
+    },
+    {
+      "name": "the News",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/huey-lewis-and-the-news/2008/capital-one-bank-theatre-westbury-ny-3bdf20e8.html",
+  "song_count": 16,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "The Heart of Rock & Roll",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "You Hurt Me",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "I Want a New Drug / Small World",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "If This Is It",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "The Power of Love",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Pineapple Express",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Hurry Back Baby",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Hip to Be Square",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Sixty Minute Man",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Ward and His Dominoes"
+    },
+    {
+      "position": 10,
+      "name": "Um, Um, Um, Um, Um, Um, Um",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Major Lance"
+    },
+    {
+      "position": 11,
+      "name": "Heart and Soul",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Exile"
+    },
+    {
+      "position": 12,
+      "name": "But It's Alright",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "J.J. Jackson"
+    },
+    {
+      "position": 13,
+      "name": "We're Not Here for a Long Time (We're Here for a Good Time)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Back in Time",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Do You Believe in Love",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Supercharge"
+    },
+    {
+      "position": 16,
+      "name": "Workin' for a Livin'",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

@@ -2,7 +2,24 @@
   "id": "57",
   "name": "Blly Joel",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Land of Hope and Dreams",
+      "times_played": 1
+    },
+    {
+      "name": "Wrecking Ball",
+      "times_played": 1
+    },
+    {
+      "name": "My City of Ruins",
+      "times_played": 1
+    },
+    {
+      "name": "Born to Run",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "530",
@@ -12,7 +29,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

@@ -4,43 +4,43 @@
   "concert_count": 7,
   "top_songs": [
     {
+      "name": "What's Your Name",
+      "times_played": 2
+    },
+    {
+      "name": "You Got That Right",
+      "times_played": 2
+    },
+    {
+      "name": "That Smell",
+      "times_played": 2
+    },
+    {
+      "name": "Saturday Night Special",
+      "times_played": 2
+    },
+    {
+      "name": "Simple Man",
+      "times_played": 2
+    },
+    {
+      "name": "Gimme Three Steps",
+      "times_played": 2
+    },
+    {
+      "name": "Sweet Home Alabama",
+      "times_played": 2
+    },
+    {
+      "name": "Free Bird",
+      "times_played": 2
+    },
+    {
       "name": "Thunderstruck",
       "times_played": 1
     },
     {
       "name": "Workin' for MCA",
-      "times_played": 1
-    },
-    {
-      "name": "What's Your Name",
-      "times_played": 1
-    },
-    {
-      "name": "You Got That Right",
-      "times_played": 1
-    },
-    {
-      "name": "Double Trouble",
-      "times_played": 1
-    },
-    {
-      "name": "Whiskey Rock-a-Roller",
-      "times_played": 1
-    },
-    {
-      "name": "That Smell",
-      "times_played": 1
-    },
-    {
-      "name": "Cry for the Bad Man",
-      "times_played": 1
-    },
-    {
-      "name": "Saturday Night Special",
-      "times_played": 1
-    },
-    {
-      "name": "Tuesday's Gone",
       "times_played": 1
     }
   ],
@@ -53,7 +53,7 @@
       "venue": "Hartford HealthCare Amphitheater",
       "city": "Bridgeport",
       "state": "CT",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -113,7 +113,7 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },

@@ -16,7 +16,7 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/govt-mule/2024/beacon-theatre-new-york-ny-135335c1.html",
   "song_count": 17,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
@@ -96,8 +96,7 @@
       "set_name": "Set 2:",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Oz Noy"
+      "cover_artist": null
     },
     {
       "position": 11,
@@ -150,11 +149,10 @@
     {
       "position": 17,
       "name": "Make It Rain",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Tom Waits"
     }
-  ],
-  "tour_name": "New Year's Run 2024"
+  ]
 }

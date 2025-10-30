@@ -2,7 +2,48 @@
   "id": "109",
   "name": "Carole King",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Blossom",
+      "times_played": 1
+    },
+    {
+      "name": "So Far Away",
+      "times_played": 1
+    },
+    {
+      "name": "Honey Don't Leave L. A.",
+      "times_played": 1
+    },
+    {
+      "name": "Carolina in My Mind",
+      "times_played": 1
+    },
+    {
+      "name": "Way Over Yonder",
+      "times_played": 1
+    },
+    {
+      "name": "Smackwater Jack",
+      "times_played": 1
+    },
+    {
+      "name": "Country Road",
+      "times_played": 1
+    },
+    {
+      "name": "Sweet Seasons",
+      "times_played": 1
+    },
+    {
+      "name": "Mexico",
+      "times_played": 1
+    },
+    {
+      "name": "Song of Long Ago",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "425",
@@ -12,7 +53,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

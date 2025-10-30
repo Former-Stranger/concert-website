@@ -2,7 +2,48 @@
   "id": "347",
   "name": "Little Big Town",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Long Hot Summer",
+      "times_played": 1
+    },
+    {
+      "name": "Sweet Thing",
+      "times_played": 1
+    },
+    {
+      "name": "I Told You So",
+      "times_played": 1
+    },
+    {
+      "name": "Somewhere in My Car",
+      "times_played": 1
+    },
+    {
+      "name": "Stupid Boy",
+      "times_played": 1
+    },
+    {
+      "name": "Only You Can Love Me This Way",
+      "times_played": 1
+    },
+    {
+      "name": "Even the Stars Fall 4 U",
+      "times_played": 1
+    },
+    {
+      "name": "You Gonna Fly",
+      "times_played": 1
+    },
+    {
+      "name": "Cop Car",
+      "times_played": 1
+    },
+    {
+      "name": "Without You",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "563",
@@ -12,7 +53,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

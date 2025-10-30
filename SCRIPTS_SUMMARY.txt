@@ -1,0 +1,271 @@
+================================================================================
+CONCERT WEBSITE - PYTHON SCRIPTS SUMMARY (84 Scripts)
+================================================================================
+
+CATEGORY BREAKDOWN:
+- Core/Production Scripts:       10 scripts (actively used)
+- Data Pipeline Scripts:         10 scripts (initial setup)
+- Maintenance/Fix Scripts:       26 scripts (one-time or as-needed fixes)
+- Testing/Debug Scripts:         18 scripts (diagnostic tools)
+- Deprecated/Obsolete Scripts:   20 scripts (one-time use or superseded)
+
+================================================================================
+CATEGORY 1: CORE/PRODUCTION SCRIPTS (10)
+================================================================================
+
+Core production scripts actively used in daily workflows:
+
+1. export_to_web.py             - Export Firestore to JSON for website
+2. add_concert.py               - Interactive concert addition tool
+3. fetch_setlists_enhanced.py   - Fetch setlists (with co-headliner support)
+4. analyze_setlists.py          - Analyze setlist patterns and statistics
+5. apply_artist_corrections.py  - Batch apply artist name corrections
+6. check_submission.py          - Check setlist submission status
+7. setup_admins.py              - Setup Firebase admin users
+8. cleanup_old_admins.py        - Clean up old admin documents
+9. setlistfm_client.py          - Setlist.fm API client library
+10. submit_setlist.py           - Submit setlist for approval
+
+Status: ACTIVELY MAINTAINED & USED
+
+================================================================================
+CATEGORY 2: DATA PIPELINE SCRIPTS (10)
+================================================================================
+
+Initial setup and data import scripts (5-step pipeline):
+
+1. 1_extract_raw_data.py        - Step 1: Extract from Excel
+2. 2_normalize_artists.py       - Step 2: Normalize artist names
+3. 3_normalize_venues.py        - Step 3: Normalize venue names
+4. 4_validate_and_clean_dates.py - Step 4: Validate/clean dates
+5. 5_generate_database.py       - Step 5: Generate SQLite database
+6. run_all.py                   - Master orchestrator (runs 1-5)
+7. migrate_to_firestore.py      - Migrate SQLite → Firestore
+8. add_setlists_schema.py       - Add setlist tables to SQLite
+9. parse_festivals.py           - Parse festival multi-artist entries
+10. parse_venue_notes.py        - Extract venue metadata
+
+Status: ONE-TIME SETUP (after completion)
+
+================================================================================
+CATEGORY 3: MAINTENANCE/FIX SCRIPTS (26)
+================================================================================
+
+One-time or periodic maintenance scripts for data corrections:
+
+SPECIFIC CONCERT FIXES (4):
+- fix_concert_1003.py           - John Henry's Friends Benefit
+- fix_concert_1220.py           - Dave Matthews Band / SOULSHINE
+- fix_concert_1274.py           - Mumford & Sons / Lucius opener
+- fix_concert_512.py            - Mumford & Sons / Dawes opener
+
+ARTIST DATA FIXES (6):
+- fix_dead_and_company.py       - Dead and Company normalization
+- fix_dead_and_company_v2.py    - Dead and Company v2 (improved)
+- fix_artist_656.py             - Artist 656 duplicate
+- fix_mumford_artist.py         - Mumford & Sons name fix
+- fix_artist_names.py           - General artist name issues
+- find_artist_issues.py         - Find artist problems
+
+PHIL LESH & FRIENDS FIXES (3):
+- merge_phil_lesh_artists.py    - Consolidate artist variations
+- fix_phil_lesh_friends.py      - Remove duplicate "Friends"
+- fix_phil_lesh_guests.py       - Remove guest artists
+
+CO-HEADLINER & SETLIST FIXES (3):
+- fix_co_headliners.py          - Split "/" separated co-headliners
+- create_coheadliner_setlists_847.py     - Manual co-headliner setlists
+- create_coheadliner_setlists_847_auto.py - Automated version
+
+SETLIST FLAG FIXES (4):
+- fix_has_setlist_flags.py      - Fix has_setlist flags
+- fix_setlist_document_ids.py   - Normalize document IDs
+- fix_false_positive_setlists.py - Fix false positives
+- fix_festival_data.py          - Fix festival structure
+
+DATA SYNC FIXES (2):
+- sync_has_setlist_with_actual_data.py  - Sync flags with files
+- sync_firestore_submissions.py         - Sync submissions
+
+VENUE CONSOLIDATION (3):
+- consolidate_duplicates.py     - Consolidate duplicate venues
+- merge_venue_additions.py      - Merge venue updates
+- merge_all_remaining_venues.py - Merge all venue changes
+
+NORMALIZATION (1):
+- normalize_artist_names.py     - Normalize artist names
+
+Status: COMPLETED (one-time) or AS-NEEDED
+
+================================================================================
+CATEGORY 4: TESTING/DEBUG SCRIPTS (18)
+================================================================================
+
+Diagnostic and testing tools for troubleshooting:
+
+DEBUG TOOLS (3):
+- debug_missing_setlists.py     - Debug setlist.fm search failures
+- detect_missing_openers.py     - Auto-detect missing opening acts
+- discover_opener_logic.py      - Research opener detection strategy
+
+FETCH TOOLS (2):
+- fetch_single_concert.py       - Fetch setlist for one concert
+- fetch_jackson_browne_festival.py - Specific festival fetch
+
+INSPECTION TOOLS (4):
+- inspect_setlist_api.py        - View raw API response
+- inspect_festival_setlist.py   - Inspect festival performance data
+- show_full_setlist_data.py     - Display full concert data (concert 847)
+- inspect_submission.py         - Inspect submission details
+
+SEARCH/BROWSE TOOLS (3):
+- search_artists.py             - Search Firestore artists
+- search_bonnaroo.py            - Search Bonnaroo setlists
+- search_great_south_bay.py     - Search Great South Bay Festival
+
+REVIEW/ANALYSIS TOOLS (4):
+- review_data.py                - Interactive data review
+- review_setlist_submissions.py - Admin approval workflow
+- review_setlist_results.py     - Quality assurance review
+- test_single_fetch.py          - Test fetch success rates
+
+TESTING (2):
+- test_kip_moore.py             - Example test case
+- get_user_uid.py               - Get user UID by email
+
+Status: ON-DEMAND (diagnostic)
+
+================================================================================
+CATEGORY 5: DEPRECATED/OBSOLETE SCRIPTS (20)
+================================================================================
+
+One-time use, experimental, or superseded by newer versions:
+
+DEPRECATED SETLIST FETCHERS (2):
+- fetch_setlists.py             - OLD: Replaced by fetch_setlists_enhanced.py
+- fetch_missing_setlists.py     - OLD: Replaced by ..._with_rotation.py
+
+ACTIVE BUT SPECIALIZED (1):
+- fetch_missing_setlists_with_rotation.py - API key rotation (still used)
+
+DANGEROUS WIPE OPERATIONS (2):
+- wipe_all_setlist_data.py      - DANGEROUS: Complete wipe
+- wipe_all_setlists.py          - DANGEROUS: Duplicate version
+- delete_all_setlists.py        - Delete with dry-run mode
+
+RECOVERY/RESTORATION (3):
+- restore_from_oct20_backup.py  - Restore Oct 20 backup
+- restore_setlist_flags_from_backup.py - Restore flags
+- copy_setlists_from_backup.py  - Copy from backup database
+
+ADMIN/WORKFLOW TOOLS (5):
+- process_approved_setlists.py  - Process approved submissions
+- reset_has_setlist_flags.py    - Reset all flags to false
+- revert_has_setlist_flags.py   - Revert flags (recovery)
+- force_reprocess.py            - Force status toggle
+- trigger_processing.py         - Trigger submission processing
+
+DATA EXPORT/REVIEW (3):
+- export_concerts_for_review.py - Export for CSV review
+- export_to_csv.py              - Export to CSV format
+- process_concert_updates.py    - Process review results
+
+UTILITY (4):
+- check_firestore.py            - Quick Firestore check
+- remove_opening_closing_fields.py - Remove old fields
+- example_queries.py            - Example/reference code
+
+Status: EXPERIMENTAL, RECOVERY, or UTILITY
+
+================================================================================
+QUICK REFERENCE: MOST-USED SCRIPTS
+================================================================================
+
+DAILY OPERATIONS:
+  python3 scripts/add_concert.py                    # Add new concert
+  python3 scripts/fetch_setlists_enhanced.py        # Fetch setlist data
+  python3 scripts/export_to_web.py                  # Export for website
+
+WEEKLY/MONTHLY OPERATIONS:
+  python3 scripts/apply_artist_corrections.py <csv> # Batch corrections
+  python3 scripts/analyze_setlists.py [artist]      # Analysis queries
+  python3 scripts/review_setlist_submissions.py     # Admin approval
+
+TROUBLESHOOTING:
+  python3 scripts/debug_missing_setlists.py [show]  # Debug setlist search
+  python3 scripts/detect_missing_openers.py         # Auto-detect openers
+  python3 scripts/inspect_submission.py             # Check submission status
+  python3 scripts/check_firestore.py                # Quick Firestore check
+
+INITIAL SETUP (ONE-TIME):
+  python3 scripts/run_all.py                        # Full pipeline 1-5
+  python3 scripts/migrate_to_firestore.py           # SQLite → Firestore
+  python3 scripts/add_setlists_schema.py            # Create setlist tables
+
+================================================================================
+KEY STATISTICS
+================================================================================
+
+Total Scripts:                  84
+Actively Maintained:            10 (core/production)
+One-Time Setup:                 10 (data pipeline)
+Maintenance Scripts:            26 (various fixes)
+Diagnostic/Testing:             18 (debug tools)
+Deprecated/Experimental:        20 (one-time/utility)
+
+Executable Scripts (marked as executable in repo):
+  - add_concert.py
+  - apply_artist_corrections.py
+  - check_submission.py
+  - detect_missing_openers.py
+  - find_artist_issues.py
+  - fix_artist_names.py
+  - fix_co_headliners.py
+  - fetch_missing_setlists_with_rotation.py
+  - fetch_single_concert.py
+
+API Dependencies:
+  - setlist.fm API (used by 10+ scripts)
+  - Firebase Admin SDK (used by 30+ scripts)
+  - Google Cloud Project authentication required
+
+================================================================================
+CRITICAL WORKFLOW: INITIAL SETUP TO DEPLOYMENT
+================================================================================
+
+1. DATA IMPORT:
+   python3 scripts/run_all.py                    # Steps 1-5
+
+2. DATABASE SETUP:
+   python3 scripts/add_setlists_schema.py        # Add setlist tables
+
+3. MIGRATION TO FIRESTORE:
+   python3 scripts/migrate_to_firestore.py       # SQLite → Firestore
+
+4. FETCH SETLIST DATA:
+   python3 scripts/fetch_setlists_enhanced.py    # Populate setlists
+
+5. EXPORT TO WEB:
+   python3 scripts/export_to_web.py              # Generate JSON for website
+
+6. DEPLOY:
+   firebase deploy --only hosting
+
+================================================================================
+CRITICAL WORKFLOW: REGULAR OPERATIONS (POST-SETUP)
+================================================================================
+
+1. ADD NEW CONCERT:
+   python3 scripts/add_concert.py
+
+2. FETCH SETLIST DATA:
+   python3 scripts/fetch_setlists_enhanced.py
+
+3. EXPORT & DEPLOY:
+   python3 scripts/export_to_web.py
+   firebase deploy --only hosting
+
+4. PERIODIC REVIEWS:
+   python3 scripts/analyze_setlists.py [artist]  # Analyze patterns
+
+================================================================================

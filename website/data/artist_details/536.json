@@ -5,14 +5,22 @@
   "top_songs": [
     {
       "name": "Guitar Town",
-      "times_played": 5
+      "times_played": 7
     },
     {
       "name": "Someday",
-      "times_played": 5
+      "times_played": 7
     },
     {
       "name": "Copperhead Road",
+      "times_played": 5
+    },
+    {
+      "name": "Teach Your Children",
+      "times_played": 5
+    },
+    {
+      "name": "My Old Friend the Blues",
       "times_played": 4
     },
     {
@@ -20,27 +28,19 @@
       "times_played": 3
     },
     {
-      "name": "Teach Your Children",
-      "times_played": 3
-    },
-    {
-      "name": "My Old Friend the Blues",
-      "times_played": 3
-    },
-    {
-      "name": "So You Wannabe an Outlaw",
-      "times_played": 2
-    },
-    {
       "name": "The Devil's Right Hand",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Goodbye's All We've Got Left",
-      "times_played": 2
+      "times_played": 3
     },
     {
-      "name": "Hey Joe",
+      "name": "Down the Road",
+      "times_played": 3
+    },
+    {
+      "name": "Darkness on the Edge of Town",
       "times_played": 2
     }
   ],
@@ -53,7 +53,7 @@
       "venue": "The Town Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -65,7 +65,7 @@
       "venue": "The Town Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -77,7 +77,7 @@
       "venue": "Paramount Hudson Valley Theater",
       "city": "Peekskill",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -89,7 +89,7 @@
       "venue": "The Town Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -101,7 +101,7 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },

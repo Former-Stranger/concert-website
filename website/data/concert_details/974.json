@@ -16,7 +16,7 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/tedeschi-trucks-band/2021/the-ridgefield-playhouse-ridgefield-ct-738f82d5.html",
   "song_count": 16,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
@@ -141,11 +141,10 @@
     {
       "position": 16,
       "name": "Get What You Deserve",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "The Derek Trucks Band"
     }
-  ],
-  "tour_name": "Tedeschi Trucks: Fireside Live 2021"
+  ]
 }

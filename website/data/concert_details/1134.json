@@ -28,6 +28,96 @@
   "photo_count": 0,
   "setlists": [
     {
+      "artist_id": null,
+      "artist_name": null,
+      "artist_role": "headliner",
+      "setlistfm_url": "https://www.setlist.fm/setlist/steve-earle/2023/the-town-hall-new-york-ny-5baef734.html",
+      "song_count": 10,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "If I Should Fall From Grace With God",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Pogues"
+        },
+        {
+          "position": 2,
+          "name": "The Devil's Right Hand",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Someday",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Guitar Town",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Goodbye",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Hometown Blues",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Jerusalem",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "Transcendental Blues",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 9,
+          "name": "Copperhead Road",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "Teach Your Children",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Crosby, Stills, Nash & Young"
+        }
+      ]
+    },
+    {
       "artist_id": "22",
       "artist_name": "Amy Helm",
       "artist_role": "festival_performer",
@@ -195,6 +285,6 @@
       ]
     }
   ],
-  "total_song_count": 17,
+  "total_song_count": 27,
   "has_encore": false
 }

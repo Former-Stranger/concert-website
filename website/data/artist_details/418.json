@@ -4,44 +4,44 @@
   "concert_count": 2,
   "top_songs": [
     {
-      "name": "The Real Me",
-      "times_played": 1
-    },
-    {
-      "name": "Barracuda",
-      "times_played": 1
-    },
-    {
-      "name": "Ain't No Way",
-      "times_played": 1
-    },
-    {
-      "name": "I Am the Highway",
-      "times_played": 1
-    },
-    {
-      "name": "Back to Black",
-      "times_played": 1
-    },
-    {
-      "name": "You Don't Own Me",
-      "times_played": 1
-    },
-    {
-      "name": "Life in the Fast Lane",
-      "times_played": 1
-    },
-    {
-      "name": "Won't Get Fooled Again",
-      "times_played": 1
-    },
-    {
       "name": "Pull It",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Stratus",
-      "times_played": 1
+      "times_played": 2
+    },
+    {
+      "name": "Nadia",
+      "times_played": 2
+    },
+    {
+      "name": "You Know You Know",
+      "times_played": 2
+    },
+    {
+      "name": "Morning Dew",
+      "times_played": 2
+    },
+    {
+      "name": "I Have to Laugh",
+      "times_played": 2
+    },
+    {
+      "name": "Lonnie on the Move",
+      "times_played": 2
+    },
+    {
+      "name": "Mn\u00e1 na h\u00c9ireann",
+      "times_played": 2
+    },
+    {
+      "name": "Just for Fun",
+      "times_played": 2
+    },
+    {
+      "name": "Little Wing",
+      "times_played": 2
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -65,7 +65,7 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

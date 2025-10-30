@@ -20,12 +20,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/pat-benatar/2024/beacon-theatre-new-york-ny-6b5472a6.html",
   "song_count": 16,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "All Fired Up",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Rattling Sabres"
@@ -33,7 +33,7 @@
     {
       "position": 2,
       "name": "We Live for Love",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -41,7 +41,7 @@
     {
       "position": 3,
       "name": "Ties That Bind",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -49,7 +49,7 @@
     {
       "position": 4,
       "name": "Promises in the Dark",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -57,7 +57,7 @@
     {
       "position": 5,
       "name": "My Clone Sleeps Alone",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -65,7 +65,7 @@
     {
       "position": 6,
       "name": "In the Heat of the Night",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Smokie"
@@ -73,7 +73,7 @@
     {
       "position": 7,
       "name": "Invincible",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -81,7 +81,7 @@
     {
       "position": 8,
       "name": "We Belong",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Lowen & Navarro"
@@ -89,7 +89,7 @@
     {
       "position": 9,
       "name": "River of Love",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -97,7 +97,7 @@
     {
       "position": 10,
       "name": "Shadows of the Night",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Helen Schneider"
@@ -105,7 +105,7 @@
     {
       "position": 11,
       "name": "Hell Is for Children",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -113,7 +113,7 @@
     {
       "position": 12,
       "name": "You Better Run",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Rascals"
@@ -121,7 +121,7 @@
     {
       "position": 13,
       "name": "Love Is a Battlefield",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -129,27 +129,26 @@
     {
       "position": 14,
       "name": "Everybody Lay Down",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 15,
       "name": "War",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "The Temptations"
     },
     {
       "position": 16,
       "name": "Heartbreaker/ Ring of Fire",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     }
-  ],
-  "tour_name": "Funtastic '24"
+  ]
 }

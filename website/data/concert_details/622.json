@@ -16,12 +16,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/eric-clapton/2015/madison-square-garden-new-york-ny-1bc83110.html",
   "song_count": 17,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "Somebody's Knocking",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "J.J. Cale"
@@ -29,7 +29,7 @@
     {
       "position": 2,
       "name": "Key to the Highway",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Charles Segar"
@@ -37,16 +37,15 @@
     {
       "position": 3,
       "name": "Pretending",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "John Mayer"
+      "cover_artist": null
     },
     {
       "position": 4,
       "name": "I'm Your Hoochie Coochie Man",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Willie Dixon"
@@ -54,7 +53,7 @@
     {
       "position": 5,
       "name": "You Are So Beautiful",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Billy Preston"
@@ -62,7 +61,7 @@
     {
       "position": 6,
       "name": "Can't Find My Way Home",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Blind Faith"
@@ -70,7 +69,7 @@
     {
       "position": 7,
       "name": "I Shot the Sheriff",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Wailers"
@@ -78,7 +77,7 @@
     {
       "position": 8,
       "name": "Driftin' Blues",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Johnny Moore\u2019s Three Blazers"
@@ -86,7 +85,7 @@
     {
       "position": 9,
       "name": "Nobody Knows You When You're Down and Out",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Jimmy Cox"
@@ -94,7 +93,7 @@
     {
       "position": 10,
       "name": "Tears in Heaven",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -102,7 +101,7 @@
     {
       "position": 11,
       "name": "Layla",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Derek and the Dominos"
@@ -110,16 +109,15 @@
     {
       "position": 12,
       "name": "Before You Accuse Me",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Bo Diddley",
-      "guest_artist": "Jimmie Vaughan"
+      "cover_artist": "Bo Diddley"
     },
     {
       "position": 13,
       "name": "Wonderful Tonight",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -127,7 +125,7 @@
     {
       "position": 14,
       "name": "Cross Road Blues",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Robert Johnson"
@@ -135,7 +133,7 @@
     {
       "position": 15,
       "name": "Little Queen of Spades",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Robert Johnson"
@@ -143,21 +141,18 @@
     {
       "position": 16,
       "name": "Let It Rain",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Derek Trucks"
+      "cover_artist": null
     },
     {
       "position": 17,
       "name": "High Time We Went",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
-      "cover_artist": "Joe Cocker",
-      "guest_artist": "Derek Trucks"
+      "cover_artist": "Joe Cocker"
     }
-  ],
-  "tour_name": "70th Birthday Celebration"
+  ]
 }

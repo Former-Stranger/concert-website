@@ -120,8 +120,7 @@
       "set_name": "Act 2:",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Cody Johnson"
+      "cover_artist": null
     },
     {
       "position": 14,
@@ -137,8 +136,7 @@
       "set_name": "Act 2:",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Robert Randolph"
+      "cover_artist": null
     },
     {
       "position": 16,
@@ -178,9 +176,7 @@
       "set_name": "Act 3:",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Danny Clinch"
+      "cover_artist": null
     }
-  ],
-  "tour_name": "Out In The Middle Tour"
+  ]
 }

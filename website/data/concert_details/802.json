@@ -16,7 +16,7 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/garth-brooks-with-trisha-yearwood/2017/prudential-center-newark-nj-6be00ee2.html",
   "song_count": 28,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
@@ -112,8 +112,7 @@
       "set_name": "Garth Brooks 1",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Garth Brooks",
-      "guest_artist": "Trisha Yearwood"
+      "cover_artist": "Garth Brooks"
     },
     {
       "position": 13,
@@ -182,67 +181,66 @@
     {
       "position": 21,
       "name": "What She's Doing Now",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Garth Brooks"
     },
     {
       "position": 22,
       "name": "Fit for a King",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Garth Brooks"
     },
     {
       "position": 23,
       "name": "Wrapped Up in You",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Garth Brooks"
     },
     {
       "position": 24,
       "name": "She's Every Woman",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Garth Brooks"
     },
     {
       "position": 25,
       "name": "We Shall Be Free",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Garth Brooks"
     },
     {
       "position": 26,
       "name": "Ireland",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Garth Brooks"
     },
     {
       "position": 27,
       "name": "Piano Man",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Billy Joel"
     },
     {
       "position": 28,
       "name": "Standing Outside the Fire",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Garth Brooks"
     }
-  ],
-  "tour_name": "The Garth Brooks World Tour with Trisha Yearwood"
+  ]
 }

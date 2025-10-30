@@ -16,7 +16,7 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/david-gilmour/2024/madison-square-garden-new-york-ny-1ba9159c.html",
   "song_count": 25,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
@@ -213,11 +213,10 @@
     {
       "position": 25,
       "name": "Comfortably Numb",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
     }
-  ],
-  "tour_name": "Luck and Strange"
+  ]
 }

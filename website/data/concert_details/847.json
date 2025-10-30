@@ -20,6 +20,168 @@
   "photo_count": 0,
   "setlists": [
     {
+      "artist_id": null,
+      "artist_name": null,
+      "artist_role": "headliner",
+      "setlistfm_url": "https://www.setlist.fm/setlist/rod-stewart/2018/madison-square-garden-new-york-ny-63eb562f.html",
+      "song_count": 19,
+      "has_encore": true,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Infatuation",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Some Guys Have All the Luck",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Persuaders"
+        },
+        {
+          "position": 3,
+          "name": "You Wear It Well",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Having a Party",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Sam Cooke"
+        },
+        {
+          "position": 5,
+          "name": "Tonight's the Night (Gonna Be Alright)",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "It Takes Two",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Kim Weston"
+        },
+        {
+          "position": 7,
+          "name": "Forever Young",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "Hole in My Heart",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 9,
+          "name": "Rhythm of My Heart",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Marc Jordan"
+        },
+        {
+          "position": 10,
+          "name": "Maggie May",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "Downtown Train",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Waits"
+        },
+        {
+          "position": 12,
+          "name": "The First Cut Is the Deepest",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Cat Stevens"
+        },
+        {
+          "position": 13,
+          "name": "You're in My Heart (The Final Acclaim)",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 14,
+          "name": "Grace",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "[traditional]"
+        },
+        {
+          "position": 15,
+          "name": "Have I Told You Lately",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Van Morrison"
+        },
+        {
+          "position": 16,
+          "name": "Nutbush City Limits",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Ike & Tina Turner"
+        },
+        {
+          "position": 17,
+          "name": "Stay With Me",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Faces"
+        },
+        {
+          "position": 18,
+          "name": "Da Ya Think I'm Sexy?",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 19,
+          "name": "Sailing",
+          "set_name": "Main Set",
+          "encore": 1,
+          "is_cover": true,
+          "cover_artist": "The Sutherland Brothers Band"
+        }
+      ]
+    },
+    {
       "artist_id": "Ts7IBnCtQNORftKRdruR",
       "artist_name": "Cyndi Lauper",
       "artist_role": "headliner",
@@ -283,7 +445,7 @@
       "tour_name": "2018 North American Summer Tour"
     }
   ],
-  "total_song_count": 30,
-  "has_encore": false,
+  "total_song_count": 49,
+  "has_encore": true,
   "tour_name": "2018 North American Summer Tour"
 }

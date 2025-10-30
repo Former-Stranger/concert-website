@@ -20,7 +20,7 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/bob-weir-and-wolf-bros/2018/beacon-theatre-new-york-ny-7397f2f1.html",
   "song_count": 16,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
@@ -145,11 +145,10 @@
     {
       "position": 16,
       "name": "Going Down the Road Feeling Bad",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "[traditional]"
     }
-  ],
-  "tour_name": "Bob Weir and Wolf Bros 2018"
+  ]
 }

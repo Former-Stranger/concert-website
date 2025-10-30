@@ -16,12 +16,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/john-hiatt-and-the-goners/2022/city-winery-new-york-city-new-york-ny-5bb5eb08.html",
   "song_count": 16,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "Tennessee Plates",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "John Hiatt"
@@ -29,7 +29,7 @@
     {
       "position": 2,
       "name": "Your Dad Did",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "John Hiatt"
@@ -37,7 +37,7 @@
     {
       "position": 3,
       "name": "Feels Like Rain",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "John Hiatt"
@@ -45,7 +45,7 @@
     {
       "position": 4,
       "name": "The Tiki Bar Is Open",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "John Hiatt"
@@ -53,7 +53,7 @@
     {
       "position": 5,
       "name": "It'll Come to You",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "John Hiatt"
@@ -61,7 +61,7 @@
     {
       "position": 6,
       "name": "Drive South",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "John Hiatt"
@@ -69,7 +69,7 @@
     {
       "position": 7,
       "name": "Congo Square",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Sonny Landreth"
@@ -77,7 +77,7 @@
     {
       "position": 8,
       "name": "Paper Thin",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "John Hiatt"
@@ -85,7 +85,7 @@
     {
       "position": 9,
       "name": "I'll Never Get Over You",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -93,7 +93,7 @@
     {
       "position": 10,
       "name": "Perfectly Good Guitar",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "John Hiatt"
@@ -101,7 +101,7 @@
     {
       "position": 11,
       "name": "Slow Turning",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "John Hiatt"
@@ -109,7 +109,7 @@
     {
       "position": 12,
       "name": "Thing Called Love",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "John Hiatt"
@@ -117,7 +117,7 @@
     {
       "position": 13,
       "name": "Memphis in the Meantime",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "John Hiatt"
@@ -125,24 +125,24 @@
     {
       "position": 14,
       "name": "Have a Little Faith in Me",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "John Hiatt"
     },
     {
       "position": 15,
       "name": "All the Lilacs in Ohio",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "John Hiatt"
     },
     {
       "position": 16,
       "name": "Riding With the King",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "John Hiatt"
     }

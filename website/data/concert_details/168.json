@@ -1,0 +1,306 @@
+{
+  "id": "168",
+  "show_number": 167,
+  "date": "2002-09-27",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Nassau Coliseum",
+  "city": "Uniondale",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Elton John",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Billy Joel",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/elton-john-and-billy-joel/2002/nassau-veterans-memorial-coliseum-uniondale-ny-bc691b2.html",
+  "song_count": 35,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Your Song",
+      "set_name": "Elton John and Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 2,
+      "name": "Just the Way You Are",
+      "set_name": "Elton John and Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 3,
+      "name": "Don't Let the Sun Go Down on Me",
+      "set_name": "Elton John and Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 4,
+      "name": "Funeral for a Friend/Love Lies Bleeding",
+      "set_name": "Elton John",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 5,
+      "name": "Someone Saved My Life Tonight",
+      "set_name": "Elton John",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 6,
+      "name": "Philadelphia Freedom",
+      "set_name": "Elton John",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 7,
+      "name": "I Want Love",
+      "set_name": "Elton John",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 8,
+      "name": "Rocket Man (I Think It's Going to Be a Long, Long Time)",
+      "set_name": "Elton John",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 9,
+      "name": "Take Me to the Pilot",
+      "set_name": "Elton John",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 10,
+      "name": "Have Mercy on the Criminal",
+      "set_name": "Elton John",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 11,
+      "name": "Tiny Dancer",
+      "set_name": "Elton John",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 12,
+      "name": "This Train Don't Stop There Anymore",
+      "set_name": "Elton John",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 13,
+      "name": "I'm Still Standing",
+      "set_name": "Elton John",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 14,
+      "name": "Crocodile Rock",
+      "set_name": "Elton John",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 15,
+      "name": "Prelude/Angry Young Man",
+      "set_name": "Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 16,
+      "name": "Scenes From an Italian Restaurant",
+      "set_name": "Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 17,
+      "name": "Movin' Out (Anthony's Song)",
+      "set_name": "Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 18,
+      "name": "Allentown",
+      "set_name": "Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 19,
+      "name": "The Lady Is a Tramp",
+      "set_name": "Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Rodgers & Hart"
+    },
+    {
+      "position": 20,
+      "name": "The Downeaster \"Alexa\"",
+      "set_name": "Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 21,
+      "name": "Lullabye (Goodnight, My Angel)",
+      "set_name": "Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 22,
+      "name": "The River of Dreams",
+      "set_name": "Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 23,
+      "name": "Miami 2017 (Seen the Lights Go Out on Broadway)",
+      "set_name": "Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 24,
+      "name": "New York State of Mind",
+      "set_name": "Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 25,
+      "name": "I Go to Extremes",
+      "set_name": "Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 26,
+      "name": "It's Still Rock and Roll to Me",
+      "set_name": "Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 27,
+      "name": "Only the Good Die Young",
+      "set_name": "Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 28,
+      "name": "My Life",
+      "set_name": "Elton John and Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 29,
+      "name": "The Bitch Is Back",
+      "set_name": "Elton John and Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 30,
+      "name": "You May Be Right",
+      "set_name": "Elton John and Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    },
+    {
+      "position": 31,
+      "name": "Bennie and the Jets",
+      "set_name": "Elton John and Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 32,
+      "name": "A Hard Day's Night",
+      "set_name": "Elton John and Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Beatles"
+    },
+    {
+      "position": 33,
+      "name": "Great Balls of Fire",
+      "set_name": "Elton John and Billy Joel",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Otis Blackwell"
+    },
+    {
+      "position": 34,
+      "name": "Candle in the Wind",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
+      "position": 35,
+      "name": "Piano Man",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Billy Joel"
+    }
+  ]
+}

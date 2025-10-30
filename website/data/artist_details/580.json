@@ -2,7 +2,48 @@
   "id": "580",
   "name": "The Police",
   "concert_count": 3,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Message in a Bottle",
+      "times_played": 1
+    },
+    {
+      "name": "Synchronicity II",
+      "times_played": 1
+    },
+    {
+      "name": "Walking on the Moon",
+      "times_played": 1
+    },
+    {
+      "name": "Voices Inside My Head / When the World Is Running Down, You Make the Best of What's Still Around",
+      "times_played": 1
+    },
+    {
+      "name": "Don't Stand So Close to Me",
+      "times_played": 1
+    },
+    {
+      "name": "Driven to Tears",
+      "times_played": 1
+    },
+    {
+      "name": "Truth Hits Everybody",
+      "times_played": 1
+    },
+    {
+      "name": "The Bed's Too Big Without You",
+      "times_played": 1
+    },
+    {
+      "name": "Every Little Thing She Does Is Magic",
+      "times_played": 1
+    },
+    {
+      "name": "Wrapped Around Your Finger",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "354",
@@ -24,7 +65,7 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },

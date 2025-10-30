@@ -16,7 +16,7 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/zac-brown-band/2016/citi-field-queens-ny-13fcc195.html",
   "song_count": 21,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
@@ -80,8 +80,7 @@
       "set_name": "Set 1:",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "John Mellencamp",
-      "guest_artist": "Drake White"
+      "cover_artist": "John Mellencamp"
     },
     {
       "position": 9,
@@ -166,27 +165,26 @@
     {
       "position": 19,
       "name": "Baba O'Riley",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "The Who"
     },
     {
       "position": 20,
       "name": "Free / Into the Mystic",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 21,
       "name": "Chicken Fried",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     }
-  ],
-  "tour_name": "Black Out The Sun"
+  ]
 }

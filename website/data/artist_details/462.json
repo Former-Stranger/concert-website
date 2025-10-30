@@ -5,43 +5,43 @@
   "top_songs": [
     {
       "name": "It Don't Come Easy",
-      "times_played": 5
-    },
-    {
-      "name": "Rosanna",
-      "times_played": 5
+      "times_played": 8
     },
     {
       "name": "Boys",
-      "times_played": 5
+      "times_played": 8
     },
     {
       "name": "Yellow Submarine",
-      "times_played": 5
-    },
-    {
-      "name": "Africa",
-      "times_played": 5
+      "times_played": 8
     },
     {
       "name": "I Wanna Be Your Man",
-      "times_played": 5
-    },
-    {
-      "name": "Hold the Line",
-      "times_played": 5
+      "times_played": 8
     },
     {
       "name": "Photograph",
-      "times_played": 5
+      "times_played": 8
     },
     {
       "name": "Act Naturally",
-      "times_played": 5
+      "times_played": 8
     },
     {
       "name": "With a Little Help From My Friends",
-      "times_played": 5
+      "times_played": 8
+    },
+    {
+      "name": "Rosanna",
+      "times_played": 7
+    },
+    {
+      "name": "Africa",
+      "times_played": 7
+    },
+    {
+      "name": "Hold the Line",
+      "times_played": 7
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -65,7 +65,7 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -77,7 +77,7 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -89,7 +89,7 @@
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

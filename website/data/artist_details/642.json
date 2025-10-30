@@ -4,6 +4,22 @@
   "concert_count": 6,
   "top_songs": [
     {
+      "name": "Darkness on the Edge of Town",
+      "times_played": 2
+    },
+    {
+      "name": "The Promised Land",
+      "times_played": 2
+    },
+    {
+      "name": "Glory Days",
+      "times_played": 2
+    },
+    {
+      "name": "Pink Cadillac",
+      "times_played": 2
+    },
+    {
       "name": "This Is Our Time",
       "times_played": 2
     },
@@ -26,22 +42,6 @@
     {
       "name": "You Gotta Be a Buddha (In a Place Like This)",
       "times_played": 2
-    },
-    {
-      "name": "Darkness on the Edge of Town",
-      "times_played": 1
-    },
-    {
-      "name": "The Promised Land",
-      "times_played": 1
-    },
-    {
-      "name": "Glory Days",
-      "times_played": 1
-    },
-    {
-      "name": "Pink Cadillac",
-      "times_played": 1
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "The Town Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -65,7 +65,7 @@
       "venue": "City Winery",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -77,7 +77,7 @@
       "venue": "Daryl's House",
       "city": "Pawling",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },

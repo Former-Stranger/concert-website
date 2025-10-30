@@ -16,7 +16,7 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/jackson-browne/2022/hartford-healthcare-amphitheater-bridgeport-ct-33b2b081.html",
   "song_count": 22,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
@@ -165,35 +165,34 @@
     {
       "position": 19,
       "name": "Take It Easy",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Eagles"
     },
     {
       "position": 20,
       "name": "Our Lady of the Well",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 21,
       "name": "The Load-Out",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 2,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 22,
       "name": "Stay",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 2,
       "is_cover": true,
       "cover_artist": "Maurice Williams & the Zodiacs"
     }
-  ],
-  "tour_name": "An Evening With Jackson Browne 2022"
+  ]
 }

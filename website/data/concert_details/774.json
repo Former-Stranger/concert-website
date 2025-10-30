@@ -16,12 +16,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/lyle-lovett-and-his-large-band/2017/capitol-theatre-port-chester-ny-2be5082e.html",
   "song_count": 26,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "Blues Walk",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Clifford Brown\u2013Max Roach Quintet"
@@ -29,7 +29,7 @@
     {
       "position": 2,
       "name": "Black and Blue",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Lyle Lovett"
@@ -37,7 +37,7 @@
     {
       "position": 3,
       "name": "Here I Am",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Lyle Lovett"
@@ -45,7 +45,7 @@
     {
       "position": 4,
       "name": "Stand by Your Man",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Tammy Wynette"
@@ -53,7 +53,7 @@
     {
       "position": 5,
       "name": "Gee, Ain't I Good to You",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "McKinney\u2019s Cotton Pickers"
@@ -61,7 +61,7 @@
     {
       "position": 6,
       "name": "Straighten Up and Fly Right",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Nat King Cole Trio"
@@ -69,7 +69,7 @@
     {
       "position": 7,
       "name": "Cowboy Man",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Lyle Lovett"
@@ -77,7 +77,7 @@
     {
       "position": 8,
       "name": "My Baby Don't Tolerate",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Lyle Lovett"
@@ -85,7 +85,7 @@
     {
       "position": 9,
       "name": "I've Been to Memphis",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Lyle Lovett"
@@ -93,7 +93,7 @@
     {
       "position": 10,
       "name": "That's Right (You're Not From Texas)",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Lyle Lovett"
@@ -101,7 +101,7 @@
     {
       "position": 11,
       "name": "I Know You Know",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Lyle Lovett"
@@ -109,7 +109,7 @@
     {
       "position": 12,
       "name": "North Dakota",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Lyle Lovett"
@@ -117,7 +117,7 @@
     {
       "position": 13,
       "name": "Pantry",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Lyle Lovett"
@@ -125,7 +125,7 @@
     {
       "position": 14,
       "name": "Night's Lullaby",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Lyle Lovett"
@@ -133,7 +133,7 @@
     {
       "position": 15,
       "name": "Temperance Reel",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "[traditional]"
@@ -141,7 +141,7 @@
     {
       "position": 16,
       "name": "Let Me Fall",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Keith Sewell"
@@ -149,7 +149,7 @@
     {
       "position": 17,
       "name": "If I Had a Boat",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Lyle Lovett"
@@ -157,7 +157,7 @@
     {
       "position": 18,
       "name": "She's No Lady",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Lyle Lovett"
@@ -165,7 +165,7 @@
     {
       "position": 19,
       "name": "What Do You Do / The Glory of Love",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Lyle Lovett"
@@ -173,7 +173,7 @@
     {
       "position": 20,
       "name": "Wild Women Don't Have the Blues",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Ida Cox"
@@ -181,7 +181,7 @@
     {
       "position": 21,
       "name": "Church",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Lyle Lovett"
@@ -189,7 +189,7 @@
     {
       "position": 22,
       "name": "I'm Going to Wait",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Lyle Lovett"
@@ -197,7 +197,7 @@
     {
       "position": 23,
       "name": "I'm a Soldier in the Army of the Lord",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "[traditional]"
@@ -205,7 +205,7 @@
     {
       "position": 24,
       "name": "Here I Am",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Lyle Lovett"
@@ -213,16 +213,16 @@
     {
       "position": 25,
       "name": "Nobody Knows Me",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Lyle Lovett"
     },
     {
       "position": 26,
       "name": "Pass Me Not, O Gentle Saviour",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Frances J. Crosby"
     }

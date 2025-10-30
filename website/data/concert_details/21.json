@@ -1,0 +1,38 @@
+{
+  "id": "21",
+  "show_number": 20,
+  "date": "1996-07-04",
+  "festival_name": null,
+  "venue": "Broad Street Ballroom",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "The Band",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/waylon-jennings/1996/luckenbach-dance-hall-luckenbach-tx-63819a1f.html",
+  "song_count": 2,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Theme From 'The Dukes of Hazzard' (Good Ol' Boys)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Luckenbach, Texas (Back to the Basics of Love)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

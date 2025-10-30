@@ -1,0 +1,158 @@
+{
+  "id": "123",
+  "show_number": 122,
+  "date": "2001-03-22",
+  "festival_name": null,
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Allman Brothers Band",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/the-allman-brothers-band/2001/beacon-theatre-new-york-ny-73dc4275.html",
+  "song_count": 17,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Midnight Rider",
+      "set_name": "Set I",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Don't Keep Me Wonderin'",
+      "set_name": "Set I",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Rocking Horse",
+      "set_name": "Set I",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Gov\u2019t Mule"
+    },
+    {
+      "position": 4,
+      "name": "Who to Believe",
+      "set_name": "Set I",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "I'm Your Hoochie Coochie Man",
+      "set_name": "Set I",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Willie Dixon"
+    },
+    {
+      "position": 6,
+      "name": "Gambler's Roll",
+      "set_name": "Set I",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "All Night Train",
+      "set_name": "Set I",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Jessica",
+      "set_name": "Set I",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Dreams",
+      "set_name": "Set II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "End of the Line",
+      "set_name": "Set II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "High Cost of Low Living",
+      "set_name": "Set II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "The Same Thing",
+      "set_name": "Set II",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Willie Dixon"
+    },
+    {
+      "position": 13,
+      "name": "Trouble No More",
+      "set_name": "Set II",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Muddy Waters"
+    },
+    {
+      "position": 14,
+      "name": "Worried Down With the Blues",
+      "set_name": "Set II",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Gov\u2019t Mule"
+    },
+    {
+      "position": 15,
+      "name": "High Falls",
+      "set_name": "Set II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Southbound",
+      "set_name": "Set II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "One Way Out",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Sonny Boy Williamson"
+    }
+  ]
+}

@@ -21,7 +21,7 @@
     {
       "position": 1,
       "name": "Instrumental Jam",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -29,7 +29,7 @@
     {
       "position": 2,
       "name": "Twenty Flight Rock",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Eddie Cochran"
@@ -37,7 +37,7 @@
     {
       "position": 3,
       "name": "Blue Suede Shoes",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Carl Perkins"
@@ -45,7 +45,7 @@
     {
       "position": 4,
       "name": "One After 909",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Beatles"
@@ -53,7 +53,7 @@
     {
       "position": 5,
       "name": "Flaming Pie",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -61,7 +61,7 @@
     {
       "position": 6,
       "name": "Let 'Em In",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Wings"
@@ -69,7 +69,7 @@
     {
       "position": 7,
       "name": "Miss Ann",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Little Richard"
@@ -77,7 +77,7 @@
     {
       "position": 8,
       "name": "San Francisco Bay Blues",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Jesse Fuller"
@@ -85,7 +85,7 @@
     {
       "position": 9,
       "name": "I'll Follow the Sun",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Beatles"
@@ -93,7 +93,7 @@
     {
       "position": 10,
       "name": "Ram On",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Paul & Linda McCartney"
@@ -101,7 +101,7 @@
     {
       "position": 11,
       "name": "Midnight Special",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "[traditional]"
@@ -109,7 +109,7 @@
     {
       "position": 12,
       "name": "Massage",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -117,11 +117,10 @@
     {
       "position": 13,
       "name": "Lady Madonna",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Beatles"
     }
-  ],
-  "tour_name": "VIP soundchecks with ticketed audience"
+  ]
 }

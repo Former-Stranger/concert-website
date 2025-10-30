@@ -5,10 +5,14 @@
   "top_songs": [
     {
       "name": "I Go Back",
-      "times_played": 2
+      "times_played": 4
     },
     {
       "name": "Living in Fast Forward",
+      "times_played": 4
+    },
+    {
+      "name": "Boston",
       "times_played": 2
     },
     {
@@ -38,10 +42,6 @@
     {
       "name": "Star of the Show",
       "times_played": 2
-    },
-    {
-      "name": "Boston",
-      "times_played": 1
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
       "state": "PA",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -65,7 +65,7 @@
       "venue": "Gillette Stadium",
       "city": "Foxborough",
       "state": "MA",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

@@ -4,7 +4,31 @@
   "concert_count": 7,
   "top_songs": [
     {
+      "name": "Doctor My Eyes",
+      "times_played": 4
+    },
+    {
+      "name": "Running on Empty",
+      "times_played": 4
+    },
+    {
       "name": "The Long Way Around",
+      "times_played": 3
+    },
+    {
+      "name": "Fountain of Sorrow",
+      "times_played": 3
+    },
+    {
+      "name": "In the Shape of a Heart",
+      "times_played": 3
+    },
+    {
+      "name": "I Am a Patriot",
+      "times_played": 3
+    },
+    {
+      "name": "For a Dancer",
       "times_played": 3
     },
     {
@@ -12,36 +36,12 @@
       "times_played": 3
     },
     {
-      "name": "Doctor My Eyes",
-      "times_played": 3
-    },
-    {
-      "name": "Running on Empty",
+      "name": "The Pretender",
       "times_played": 3
     },
     {
       "name": "Take It Easy",
       "times_played": 3
-    },
-    {
-      "name": "Somebody's Baby",
-      "times_played": 2
-    },
-    {
-      "name": "The Barricades of Heaven",
-      "times_played": 2
-    },
-    {
-      "name": "Fountain of Sorrow",
-      "times_played": 2
-    },
-    {
-      "name": "In the Shape of a Heart",
-      "times_played": 2
-    },
-    {
-      "name": "I Am a Patriot",
-      "times_played": 2
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "Hartford HealthCare Amphitheater",
       "city": "Bridgeport",
       "state": "CT",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -65,7 +65,7 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -77,7 +77,7 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -89,7 +89,7 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -101,7 +101,7 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },

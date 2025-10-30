@@ -16,7 +16,7 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/the-brothers/2020/madison-square-garden-new-york-ny-4b99df72.html",
   "song_count": 24,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
@@ -96,8 +96,7 @@
       "set_name": "Set 1:",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "The Allman Brothers Band",
-      "guest_artist": "Chuck Leavell"
+      "cover_artist": "The Allman Brothers Band"
     },
     {
       "position": 11,
@@ -105,8 +104,7 @@
       "set_name": "Set 1:",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "The Allman Brothers Band",
-      "guest_artist": "Chuck Leavell"
+      "cover_artist": "The Allman Brothers Band"
     },
     {
       "position": 12,
@@ -114,8 +112,7 @@
       "set_name": "Set 1:",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "The Allman Brothers Band",
-      "guest_artist": "Chuck Leavell"
+      "cover_artist": "The Allman Brothers Band"
     },
     {
       "position": 13,
@@ -123,8 +120,7 @@
       "set_name": "Set 1:",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "The Allman Brothers Band",
-      "guest_artist": "Chuck Leavell"
+      "cover_artist": "The Allman Brothers Band"
     },
     {
       "position": 14,
@@ -132,8 +128,7 @@
       "set_name": "Set 2:",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "The Allman Brothers Band",
-      "guest_artist": "Chuck Leavell"
+      "cover_artist": "The Allman Brothers Band"
     },
     {
       "position": 15,
@@ -141,8 +136,7 @@
       "set_name": "Set 2:",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "The Allman Brothers Band",
-      "guest_artist": "Chuck Leavell"
+      "cover_artist": "The Allman Brothers Band"
     },
     {
       "position": 16,
@@ -150,8 +144,7 @@
       "set_name": "Set 2:",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "The Allman Brothers Band",
-      "guest_artist": "Chuck Leavell"
+      "cover_artist": "The Allman Brothers Band"
     },
     {
       "position": 17,
@@ -159,8 +152,7 @@
       "set_name": "Set 2:",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "The Allman Brothers Band",
-      "guest_artist": "Chuck Leavell"
+      "cover_artist": "The Allman Brothers Band"
     },
     {
       "position": 18,
@@ -205,20 +197,18 @@
     {
       "position": 23,
       "name": "Midnight Rider",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
-      "cover_artist": "The Allman Brothers Band",
-      "guest_artist": "Chuck Leavell"
+      "cover_artist": "The Allman Brothers Band"
     },
     {
       "position": 24,
       "name": "Whipping Post",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
-      "cover_artist": "The Allman Brothers Band",
-      "guest_artist": "Chuck Leavell"
+      "cover_artist": "The Allman Brothers Band"
     }
   ]
 }

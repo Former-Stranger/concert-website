@@ -20,6 +20,192 @@
   "photo_count": 0,
   "setlists": [
     {
+      "artist_id": null,
+      "artist_name": null,
+      "artist_role": "headliner",
+      "setlistfm_url": "https://www.setlist.fm/setlist/lyle-lovett-and-his-large-band/2025/the-venetian-theater-at-caramoor-center-for-music-and-the-arts-katonah-ny-2b42c006.html",
+      "song_count": 22,
+      "has_encore": true,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Blues Walk",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Clifford Brown\u2013Max Roach Quintet"
+        },
+        {
+          "position": 2,
+          "name": "Pass Me Not, O Gentle Saviour",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Frances J. Crosby"
+        },
+        {
+          "position": 3,
+          "name": "I'm a Soldier in the Army of the Lord",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "[traditional]"
+        },
+        {
+          "position": 4,
+          "name": "Church",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Lyle Lovett"
+        },
+        {
+          "position": 5,
+          "name": "Here I Am",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Lyle Lovett"
+        },
+        {
+          "position": 6,
+          "name": "Pants Is Overrated",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Lyle Lovett"
+        },
+        {
+          "position": 7,
+          "name": "It's a Naked Party",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Lyle Lovett"
+        },
+        {
+          "position": 8,
+          "name": "Pig Meat Man",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Lyle Lovett"
+        },
+        {
+          "position": 9,
+          "name": "Cowboy Man",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Lyle Lovett"
+        },
+        {
+          "position": 10,
+          "name": "Penguins",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Lyle Lovett"
+        },
+        {
+          "position": 11,
+          "name": "Don't Touch My Hat",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Lyle Lovett"
+        },
+        {
+          "position": 12,
+          "name": "This Old Porch",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Lyle Lovett"
+        },
+        {
+          "position": 13,
+          "name": "North Dakota",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Lyle Lovett"
+        },
+        {
+          "position": 14,
+          "name": "She's No Lady",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Lyle Lovett"
+        },
+        {
+          "position": 15,
+          "name": "I Will Rise Up",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 16,
+          "name": "I've Been to Memphis",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Lyle Lovett"
+        },
+        {
+          "position": 17,
+          "name": "Are We Dancing",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Lyle Lovett"
+        },
+        {
+          "position": 18,
+          "name": "12th of June",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Lyle Lovett"
+        },
+        {
+          "position": 19,
+          "name": "If I Had a Boat",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Lyle Lovett"
+        },
+        {
+          "position": 20,
+          "name": "I'm Going to Wait",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Lyle Lovett"
+        },
+        {
+          "position": 21,
+          "name": "My Baby Don't Tolerate",
+          "set_name": "Main Set",
+          "encore": 1,
+          "is_cover": true,
+          "cover_artist": "Lyle Lovett"
+        },
+        {
+          "position": 22,
+          "name": "That's Right (You're Not From Texas)",
+          "set_name": "Main Set",
+          "encore": 1,
+          "is_cover": true,
+          "cover_artist": "Lyle Lovett"
+        }
+      ]
+    },
+    {
       "artist_id": "248",
       "artist_name": "His Large Band",
       "artist_role": "festival_performer",
@@ -392,6 +578,6 @@
       ]
     }
   ],
-  "total_song_count": 44,
-  "has_encore": false
+  "total_song_count": 66,
+  "has_encore": true
 }

@@ -2,7 +2,48 @@
   "id": "378",
   "name": "Melissa Etheridge",
   "concert_count": 6,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Shout Now",
+      "times_played": 1
+    },
+    {
+      "name": "Brave and Crazy",
+      "times_played": 1
+    },
+    {
+      "name": "All American Girl",
+      "times_played": 1
+    },
+    {
+      "name": "I Want to Come Over",
+      "times_played": 1
+    },
+    {
+      "name": "4th Street Feeling",
+      "times_played": 1
+    },
+    {
+      "name": "You Used to Love to Dance",
+      "times_played": 1
+    },
+    {
+      "name": "The Shadow of a Black Crow",
+      "times_played": 1
+    },
+    {
+      "name": "Ruins",
+      "times_played": 1
+    },
+    {
+      "name": "Come to My Window",
+      "times_played": 1
+    },
+    {
+      "name": "An Unexpected Rain",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1129",
@@ -36,7 +77,7 @@
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },

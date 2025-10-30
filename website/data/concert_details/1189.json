@@ -16,12 +16,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/the-ghost-of-bruce-springsteen-and-the-e-street-band/2024/tavara-asema-tampere-finland-6b43f296.html",
   "song_count": 24,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "The Ghost of Tom Joad",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Bruce Springsteen"
@@ -29,7 +29,7 @@
     {
       "position": 2,
       "name": "Thunder Road",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Bruce Springsteen"
@@ -37,7 +37,7 @@
     {
       "position": 3,
       "name": "Prove It All Night",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Bruce Springsteen"
@@ -45,7 +45,7 @@
     {
       "position": 4,
       "name": "Darkness on the Edge of Town",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Bruce Springsteen"
@@ -53,7 +53,7 @@
     {
       "position": 5,
       "name": "Cover Me",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Bruce Springsteen"
@@ -61,7 +61,7 @@
     {
       "position": 6,
       "name": "Candy's Room",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Bruce Springsteen"
@@ -69,7 +69,7 @@
     {
       "position": 7,
       "name": "The Promised Land",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Bruce Springsteen"
@@ -77,7 +77,7 @@
     {
       "position": 8,
       "name": "I'm Goin' Down",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Bruce Springsteen"
@@ -85,7 +85,7 @@
     {
       "position": 9,
       "name": "She's the One",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Bruce Springsteen"
@@ -93,7 +93,7 @@
     {
       "position": 10,
       "name": "I'm on Fire",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Bruce Springsteen"
@@ -101,7 +101,7 @@
     {
       "position": 11,
       "name": "The River",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Bruce Springsteen"
@@ -109,7 +109,7 @@
     {
       "position": 12,
       "name": "The Rising",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Bruce Springsteen"
@@ -117,7 +117,7 @@
     {
       "position": 13,
       "name": "Growin' Up",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Bruce Springsteen"
@@ -125,7 +125,7 @@
     {
       "position": 14,
       "name": "Does This Bus Stop at 82nd Street?",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Bruce Springsteen"
@@ -133,7 +133,7 @@
     {
       "position": 15,
       "name": "Wrecking Ball",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Bruce Springsteen"
@@ -141,7 +141,7 @@
     {
       "position": 16,
       "name": "Streets of Philadelphia",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Bruce Springsteen"
@@ -149,7 +149,7 @@
     {
       "position": 17,
       "name": "Spirit in the Night",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Bruce Springsteen"
@@ -157,7 +157,7 @@
     {
       "position": 18,
       "name": "Hungry Heart",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Bruce Springsteen"
@@ -165,7 +165,7 @@
     {
       "position": 19,
       "name": "Tenth Avenue Freeze-Out",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Bruce Springsteen"
@@ -173,7 +173,7 @@
     {
       "position": 20,
       "name": "Born to Run",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Bruce Springsteen"
@@ -181,32 +181,32 @@
     {
       "position": 21,
       "name": "Jungleland",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Bruce Springsteen"
     },
     {
       "position": 22,
       "name": "Rosalita (Come Out Tonight)",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Bruce Springsteen"
     },
     {
       "position": 23,
       "name": "Glory Days",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Bruce Springsteen"
     },
     {
       "position": 24,
       "name": "Dancing in the Dark",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Bruce Springsteen"
     }

@@ -20,6 +20,160 @@
   "photo_count": 0,
   "setlists": [
     {
+      "artist_id": null,
+      "artist_name": null,
+      "artist_role": "headliner",
+      "setlistfm_url": "https://www.setlist.fm/setlist/brian-fallon/2016/capitol-theatre-port-chester-ny-53fdf725.html",
+      "song_count": 18,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "I Won't Back Down",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty"
+        },
+        {
+          "position": 2,
+          "name": "A Wonderful Life",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Nobody Wins",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Rosemary",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Mojo Hand",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Steve McQueen",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Honey Magnolia",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "Smoke",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 9,
+          "name": "Red Lights",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "Among Other Foolish Things",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "Open All Night",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 12,
+          "name": "Crush",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Horrible Crowes"
+        },
+        {
+          "position": 13,
+          "name": "Mary Ann",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Horrible Crowes"
+        },
+        {
+          "position": 14,
+          "name": "Behold the Hurricane",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Horrible Crowes"
+        },
+        {
+          "position": 15,
+          "name": "Lucky 7's",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Scandals"
+        },
+        {
+          "position": 16,
+          "name": "Linoleum",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "NOFX"
+        },
+        {
+          "position": 17,
+          "name": "The Navesink Banks",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Gaslight Anthem"
+        },
+        {
+          "position": 18,
+          "name": "Handle With Care",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Traveling Wilburys"
+        }
+      ]
+    },
+    {
       "artist_id": "84",
       "artist_name": "Brian Fallon",
       "artist_role": "festival_performer",
@@ -300,7 +454,7 @@
       ]
     }
   ],
-  "total_song_count": 32,
+  "total_song_count": 50,
   "has_encore": false,
   "tour_name": "Painkillers US Fall Tour"
 }

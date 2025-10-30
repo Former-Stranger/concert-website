@@ -4,44 +4,44 @@
   "concert_count": 2,
   "top_songs": [
     {
+      "name": "Should've Known Better",
+      "times_played": 4
+    },
+    {
+      "name": "Don't Mean Nothing",
+      "times_played": 4
+    },
+    {
       "name": "Endless Summer Nights",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Affair of the Heart",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "The Way She Loves Me",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Love Is Alright Tonite",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Satisfied",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "I've Done Everything for You",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Hazard",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Don't Talk to Strangers",
-      "times_played": 2
-    },
-    {
-      "name": "Should've Known Better",
-      "times_played": 2
-    },
-    {
-      "name": "My Father's Chair",
-      "times_played": 2
+      "times_played": 3
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -65,7 +65,7 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

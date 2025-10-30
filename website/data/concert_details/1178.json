@@ -20,6 +20,112 @@
   "photo_count": 0,
   "setlists": [
     {
+      "artist_id": null,
+      "artist_name": null,
+      "artist_role": "headliner",
+      "setlistfm_url": "https://www.setlist.fm/setlist/daryl-hall/2024/radio-city-music-hall-new-york-ny-33ab1021.html",
+      "song_count": 12,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Maneater",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Daryl Hall & John Oates"
+        },
+        {
+          "position": 2,
+          "name": "Dreamtime",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Foolish Pride",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Rich Girl",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Daryl Hall & John Oates"
+        },
+        {
+          "position": 5,
+          "name": "Kiss on My List",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Daryl Hall & John Oates"
+        },
+        {
+          "position": 6,
+          "name": "Private Eyes",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Daryl Hall & John Oates"
+        },
+        {
+          "position": 7,
+          "name": "I'm in a Philly Mood",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "Everytime You Go Away",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Daryl Hall & John Oates"
+        },
+        {
+          "position": 9,
+          "name": "Sara Smile",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Daryl Hall & John Oates"
+        },
+        {
+          "position": 10,
+          "name": "I Can't Go for That (No Can Do)",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Daryl Hall & John Oates"
+        },
+        {
+          "position": 11,
+          "name": "Can't Say No to You",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 12,
+          "name": "You Make My Dreams",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Daryl Hall & John Oates"
+        }
+      ]
+    },
+    {
       "artist_id": "150",
       "artist_name": "Daryl Hall",
       "artist_role": "festival_performer",
@@ -266,6 +372,6 @@
       "tour_name": "North American Co-Headline Tour 2024"
     }
   ],
-  "total_song_count": 28,
+  "total_song_count": 40,
   "has_encore": false
 }

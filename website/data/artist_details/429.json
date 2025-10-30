@@ -5,43 +5,43 @@
   "top_songs": [
     {
       "name": "Bird Song",
+      "times_played": 6
+    },
+    {
+      "name": "Shakedown Street",
       "times_played": 4
     },
     {
       "name": "Mississippi Half-Step Uptown Toodeloo",
-      "times_played": 3
+      "times_played": 4
     },
     {
       "name": "Mason's Children",
-      "times_played": 3
+      "times_played": 4
     },
     {
       "name": "All Along the Watchtower",
-      "times_played": 3
+      "times_played": 4
+    },
+    {
+      "name": "The Weight",
+      "times_played": 4
     },
     {
       "name": "Unbroken Chain",
-      "times_played": 3
+      "times_played": 4
     },
     {
       "name": "Going Down the Road Feeling Bad",
-      "times_played": 3
+      "times_played": 4
     },
     {
       "name": "Tennessee Jed",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Bertha",
-      "times_played": 2
-    },
-    {
-      "name": "Turn On Your Love Light",
-      "times_played": 2
-    },
-    {
-      "name": "Me and My Uncle",
-      "times_played": 2
+      "times_played": 3
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -65,7 +65,7 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -77,7 +77,7 @@
       "venue": "Fort Adams State Park",
       "city": "Newport",
       "state": "RI",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -89,7 +89,7 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -101,7 +101,7 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

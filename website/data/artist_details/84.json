@@ -5,43 +5,43 @@
   "top_songs": [
     {
       "name": "I Won't Back Down",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "A Wonderful Life",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Nobody Wins",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Rosemary",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Mojo Hand",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Steve McQueen",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Honey Magnolia",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Smoke",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Red Lights",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Among Other Foolish Things",
-      "times_played": 1
+      "times_played": 2
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

@@ -2,7 +2,48 @@
   "id": "665",
   "name": "the News",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "The Heart of Rock & Roll",
+      "times_played": 1
+    },
+    {
+      "name": "You Hurt Me",
+      "times_played": 1
+    },
+    {
+      "name": "I Want a New Drug / Small World",
+      "times_played": 1
+    },
+    {
+      "name": "If This Is It",
+      "times_played": 1
+    },
+    {
+      "name": "The Power of Love",
+      "times_played": 1
+    },
+    {
+      "name": "Pineapple Express",
+      "times_played": 1
+    },
+    {
+      "name": "Hurry Back Baby",
+      "times_played": 1
+    },
+    {
+      "name": "Hip to Be Square",
+      "times_played": 1
+    },
+    {
+      "name": "Sixty Minute Man",
+      "times_played": 1
+    },
+    {
+      "name": "Um, Um, Um, Um, Um, Um, Um",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "357",
@@ -12,7 +53,7 @@
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },

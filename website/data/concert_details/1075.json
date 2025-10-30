@@ -16,12 +16,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/richard-thompson/2022/symphony-space-new-york-ny-63bc9263.html",
   "song_count": 23,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "Read About Love",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -29,7 +29,7 @@
     {
       "position": 2,
       "name": "Dimming of the Day",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Richard & Linda Thompson"
@@ -37,7 +37,7 @@
     {
       "position": 3,
       "name": "Borrowed Time",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Richard & Linda Thompson"
@@ -45,7 +45,7 @@
     {
       "position": 4,
       "name": "1952 Vincent Black Lightning",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -53,7 +53,7 @@
     {
       "position": 5,
       "name": "Don't Let Me Down",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Beatles"
@@ -61,7 +61,7 @@
     {
       "position": 6,
       "name": "Night and Day",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Cole Porter"
@@ -69,7 +69,7 @@
     {
       "position": 7,
       "name": "Oops!... I Did It Again",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Britney Spears"
@@ -77,7 +77,7 @@
     {
       "position": 8,
       "name": "The Old Changing Way",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -85,7 +85,7 @@
     {
       "position": 9,
       "name": "Walk Away Ren\u00e9e",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Left Banke"
@@ -93,7 +93,7 @@
     {
       "position": 10,
       "name": "I'm So Lonesome I Could Cry",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Hank Williams With His Drifting Cowboys"
@@ -101,7 +101,7 @@
     {
       "position": 11,
       "name": "Eleanor Rigby",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Beatles"
@@ -109,7 +109,7 @@
     {
       "position": 12,
       "name": "Famous Blue Raincoat",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Leonard Cohen"
@@ -117,7 +117,7 @@
     {
       "position": 13,
       "name": "Matty Groves",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "[traditional]"
@@ -125,7 +125,7 @@
     {
       "position": 14,
       "name": "Pump It Up",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Elvis Costello & The Attractions"
@@ -133,7 +133,7 @@
     {
       "position": 15,
       "name": "Johnny's Far Away",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -141,7 +141,7 @@
     {
       "position": 16,
       "name": "In My Life",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Beatles"
@@ -149,7 +149,7 @@
     {
       "position": 17,
       "name": "The Kids Are Alright",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Who"
@@ -157,7 +157,7 @@
     {
       "position": 18,
       "name": "I Feel So Good",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -165,45 +165,42 @@
     {
       "position": 19,
       "name": "Singapore Sadie",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Zara Phillips"
+      "cover_artist": null
     },
     {
       "position": 20,
       "name": "Father Christmas",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "The Kinks",
-      "guest_artist": "Zara Phillips"
+      "cover_artist": "The Kinks"
     },
     {
       "position": 21,
       "name": "The Ghost of You Walks",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 22,
       "name": "A13, Trunk Road to the Sea",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Billy Bragg"
     },
     {
       "position": 23,
       "name": "Wall of Death",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
-      "cover_artist": "Richard & Linda Thompson",
-      "guest_artist": "Zara Phillips"
+      "cover_artist": "Richard & Linda Thompson"
     }
   ]
 }

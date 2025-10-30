@@ -15,169 +15,176 @@
   "photos": [],
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/acdc/2015/metlife-stadium-east-rutherford-nj-2bf7344e.html",
-  "song_count": 20,
-  "has_encore": false,
+  "song_count": 21,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
-      "name": "Rock or Bust",
-      "set_name": "Set 1",
+      "name": "",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 2,
-      "name": "Shoot to Thrill",
-      "set_name": "Set 1",
+      "name": "Rock or Bust",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 3,
-      "name": "Hell Ain't a Bad Place to Be",
-      "set_name": "Set 1",
+      "name": "Shoot to Thrill",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 4,
-      "name": "Back in Black",
-      "set_name": "Set 1",
+      "name": "Hell Ain't a Bad Place to Be",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 5,
-      "name": "Play Ball",
-      "set_name": "Set 1",
+      "name": "Back in Black",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 6,
-      "name": "Dirty Deeds Done Dirt Cheap",
-      "set_name": "Set 1",
+      "name": "Play Ball",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 7,
-      "name": "Thunderstruck",
-      "set_name": "Set 1",
+      "name": "Dirty Deeds Done Dirt Cheap",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 8,
-      "name": "High Voltage",
-      "set_name": "Set 1",
+      "name": "Thunderstruck",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 9,
-      "name": "Rock 'n' Roll Train",
-      "set_name": "Set 1",
+      "name": "High Voltage",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 10,
-      "name": "Hells Bells",
-      "set_name": "Set 1",
+      "name": "Rock 'n' Roll Train",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 11,
-      "name": "Baptism by Fire",
-      "set_name": "Set 1",
+      "name": "Hells Bells",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 12,
-      "name": "You Shook Me All Night Long",
-      "set_name": "Set 1",
+      "name": "Baptism by Fire",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 13,
-      "name": "Sin City",
-      "set_name": "Set 1",
+      "name": "You Shook Me All Night Long",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 14,
-      "name": "Shot Down in Flames",
-      "set_name": "Set 1",
+      "name": "Sin City",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 15,
-      "name": "Have a Drink on Me",
-      "set_name": "Set 1",
+      "name": "Shot Down in Flames",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 16,
-      "name": "T.N.T.",
-      "set_name": "Set 1",
+      "name": "Have a Drink on Me",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 17,
-      "name": "Whole Lotta Rosie",
-      "set_name": "Set 1",
+      "name": "T.N.T.",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 18,
-      "name": "Let There Be Rock",
-      "set_name": "Set 1",
+      "name": "Whole Lotta Rosie",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 19,
-      "name": "Highway to Hell",
-      "set_name": "Set 2",
+      "name": "Let There Be Rock",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 20,
+      "name": "Highway to Hell",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 21,
       "name": "For Those About to Rock (We Salute You)",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     }
-  ],
-  "tour_name": "Rock or Bust World Tour"
+  ]
 }

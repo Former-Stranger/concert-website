@@ -2,7 +2,48 @@
   "id": "322",
   "name": "Kenny Loggins",
   "concert_count": 3,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Danny's Song",
+      "times_played": 2
+    },
+    {
+      "name": "Return to Pooh Corner",
+      "times_played": 2
+    },
+    {
+      "name": "Conviction of the Heart",
+      "times_played": 2
+    },
+    {
+      "name": "Whenever I Call You \"Friend\"",
+      "times_played": 2
+    },
+    {
+      "name": "The Real Thing",
+      "times_played": 2
+    },
+    {
+      "name": "This Is It",
+      "times_played": 2
+    },
+    {
+      "name": "Celebrate Me Home",
+      "times_played": 2
+    },
+    {
+      "name": "Your Mama Don't Dance",
+      "times_played": 2
+    },
+    {
+      "name": "I'm Alright",
+      "times_played": 2
+    },
+    {
+      "name": "Danger Zone",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "480",
@@ -12,7 +53,7 @@
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -24,7 +65,7 @@
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },

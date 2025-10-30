@@ -1,0 +1,210 @@
+{
+  "id": "370",
+  "show_number": 369,
+  "date": "2009-02-08",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Morristown Theater",
+  "city": "Morristown",
+  "state": "NJ",
+  "artists": [
+    {
+      "name": "John Hiatt",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Lyle Lovett",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/john-hiatt-and-lyle-lovett/2009/community-theatre-morristown-nj-63efbeab.html",
+  "song_count": 23,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Wintertime Blues",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Hiatt"
+    },
+    {
+      "position": 2,
+      "name": "Good Intentions",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Lyle Lovett"
+    },
+    {
+      "position": 3,
+      "name": "The Tiki Bar Is Open",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Hiatt"
+    },
+    {
+      "position": 4,
+      "name": "I Will Rise Up",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Lyle Lovett and His Large Band"
+    },
+    {
+      "position": 5,
+      "name": "Memphis in the Meantime",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Hiatt"
+    },
+    {
+      "position": 6,
+      "name": "If I Had a Boat",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Lyle Lovett"
+    },
+    {
+      "position": 7,
+      "name": "Real Fine Love",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Hiatt"
+    },
+    {
+      "position": 8,
+      "name": "Penguins",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Lyle Lovett"
+    },
+    {
+      "position": 9,
+      "name": "Drive South",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Hiatt"
+    },
+    {
+      "position": 10,
+      "name": "Walk Through the Bottomland",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Lyle Lovett"
+    },
+    {
+      "position": 11,
+      "name": "What Do We Do Now",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Hiatt"
+    },
+    {
+      "position": 12,
+      "name": "She's No Lady",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Lyle Lovett"
+    },
+    {
+      "position": 13,
+      "name": "Seven Little Indians",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Hiatt"
+    },
+    {
+      "position": 14,
+      "name": "The Waltzing Fool",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Lyle Lovett"
+    },
+    {
+      "position": 15,
+      "name": "That's What Love Can Do",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Hiatt"
+    },
+    {
+      "position": 16,
+      "name": "Pantry",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Lyle Lovett"
+    },
+    {
+      "position": 17,
+      "name": "Slow Turning",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Hiatt"
+    },
+    {
+      "position": 18,
+      "name": "Natural Forces",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Lyle Lovett"
+    },
+    {
+      "position": 19,
+      "name": "Thing Called Love",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Hiatt"
+    },
+    {
+      "position": 20,
+      "name": "My Baby Don't Tolerate",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Lyle Lovett"
+    },
+    {
+      "position": 21,
+      "name": "Ain't No More Cane on the Brazos",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 22,
+      "name": "Have a Little Faith in Me",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Hiatt"
+    },
+    {
+      "position": 23,
+      "name": "This Old Porch",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Lyle Lovett"
+    }
+  ]
+}

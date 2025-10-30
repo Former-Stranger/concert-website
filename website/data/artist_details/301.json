@@ -2,7 +2,48 @@
   "id": "301",
   "name": "John Mayer",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Heartbreak Warfare",
+      "times_played": 1
+    },
+    {
+      "name": "Good Love Is on the Way",
+      "times_played": 1
+    },
+    {
+      "name": "Vultures",
+      "times_played": 1
+    },
+    {
+      "name": "Perfectly Lonely",
+      "times_played": 1
+    },
+    {
+      "name": "I Don't Trust Myself (With Loving You)",
+      "times_played": 1
+    },
+    {
+      "name": "Comfortable",
+      "times_played": 1
+    },
+    {
+      "name": "Free Fallin'",
+      "times_played": 1
+    },
+    {
+      "name": "Waiting on the World to Change",
+      "times_played": 1
+    },
+    {
+      "name": "Assassin",
+      "times_played": 1
+    },
+    {
+      "name": "Cross Road Blues",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "412",
@@ -12,7 +53,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },

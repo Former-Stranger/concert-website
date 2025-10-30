@@ -15,8 +15,8 @@
   "photos": [],
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/lady-gaga/2017/citi-field-queens-ny-2be294aa.html",
-  "song_count": 25,
-  "has_encore": false,
+  "song_count": 29,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
@@ -60,6 +60,14 @@
     },
     {
       "position": 6,
+      "name": "",
+      "set_name": "Act I",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
       "name": "Car Film",
       "set_name": "Act II",
       "encore": 0,
@@ -67,7 +75,7 @@
       "cover_artist": null
     },
     {
-      "position": 7,
+      "position": 8,
       "name": "John Wayne",
       "set_name": "Act II",
       "encore": 0,
@@ -75,7 +83,7 @@
       "cover_artist": null
     },
     {
-      "position": 8,
+      "position": 9,
       "name": "Schei\u00dfe",
       "set_name": "Act II",
       "encore": 0,
@@ -83,7 +91,7 @@
       "cover_artist": null
     },
     {
-      "position": 9,
+      "position": 10,
       "name": "Alejandro",
       "set_name": "Act II",
       "encore": 0,
@@ -91,7 +99,15 @@
       "cover_artist": null
     },
     {
-      "position": 10,
+      "position": 11,
+      "name": "",
+      "set_name": "Act II",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
       "name": "Rhino",
       "set_name": "Act III",
       "encore": 0,
@@ -99,7 +115,7 @@
       "cover_artist": null
     },
     {
-      "position": 11,
+      "position": 13,
       "name": "Just Dance",
       "set_name": "Act III",
       "encore": 0,
@@ -107,7 +123,7 @@
       "cover_artist": null
     },
     {
-      "position": 12,
+      "position": 14,
       "name": "LoveGame",
       "set_name": "Act III",
       "encore": 0,
@@ -115,7 +131,7 @@
       "cover_artist": null
     },
     {
-      "position": 13,
+      "position": 15,
       "name": "Telephone",
       "set_name": "Act III",
       "encore": 0,
@@ -123,7 +139,15 @@
       "cover_artist": null
     },
     {
-      "position": 14,
+      "position": 16,
+      "name": "",
+      "set_name": "Act III",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
       "name": "Transformation Film",
       "set_name": "Act IV",
       "encore": 0,
@@ -131,7 +155,7 @@
       "cover_artist": null
     },
     {
-      "position": 15,
+      "position": 18,
       "name": "Applause",
       "set_name": "Act IV",
       "encore": 0,
@@ -139,7 +163,7 @@
       "cover_artist": null
     },
     {
-      "position": 16,
+      "position": 19,
       "name": "Come to Mama",
       "set_name": "Act IV",
       "encore": 0,
@@ -147,7 +171,7 @@
       "cover_artist": null
     },
     {
-      "position": 17,
+      "position": 20,
       "name": "The Edge of Glory",
       "set_name": "Act IV",
       "encore": 0,
@@ -155,7 +179,7 @@
       "cover_artist": null
     },
     {
-      "position": 18,
+      "position": 21,
       "name": "Born This Way",
       "set_name": "Act IV",
       "encore": 0,
@@ -163,7 +187,15 @@
       "cover_artist": null
     },
     {
-      "position": 19,
+      "position": 22,
+      "name": "",
+      "set_name": "Act IV",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 23,
       "name": "Trapped Film",
       "set_name": "Act V",
       "encore": 0,
@@ -171,7 +203,7 @@
       "cover_artist": null
     },
     {
-      "position": 20,
+      "position": 24,
       "name": "Angel Down",
       "set_name": "Act V",
       "encore": 0,
@@ -179,7 +211,7 @@
       "cover_artist": null
     },
     {
-      "position": 21,
+      "position": 25,
       "name": "Joanne",
       "set_name": "Act V",
       "encore": 0,
@@ -187,7 +219,7 @@
       "cover_artist": null
     },
     {
-      "position": 22,
+      "position": 26,
       "name": "Drippy Face Film",
       "set_name": "Act VI",
       "encore": 0,
@@ -195,7 +227,7 @@
       "cover_artist": null
     },
     {
-      "position": 23,
+      "position": 27,
       "name": "Bad Romance",
       "set_name": "Act VI",
       "encore": 0,
@@ -203,7 +235,7 @@
       "cover_artist": null
     },
     {
-      "position": 24,
+      "position": 28,
       "name": "The Cure",
       "set_name": "Act VI",
       "encore": 0,
@@ -211,13 +243,12 @@
       "cover_artist": null
     },
     {
-      "position": 25,
+      "position": 29,
       "name": "Million Reasons",
-      "set_name": "Set 7",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     }
-  ],
-  "tour_name": "Joanne World Tour"
+  ]
 }

@@ -2,7 +2,48 @@
   "id": "224",
   "name": "Gaslight Anthem",
   "concert_count": 3,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Old White Lincoln",
+      "times_played": 3
+    },
+    {
+      "name": "Even Cowgirls Get the Blues",
+      "times_played": 3
+    },
+    {
+      "name": "The '59 Sound",
+      "times_played": 3
+    },
+    {
+      "name": "We Came to Dance",
+      "times_played": 3
+    },
+    {
+      "name": "Miles Davis and the Cool",
+      "times_played": 3
+    },
+    {
+      "name": "Great Expectations",
+      "times_played": 3
+    },
+    {
+      "name": "Here's Looking at You, Kid",
+      "times_played": 3
+    },
+    {
+      "name": "The Backseat",
+      "times_played": 3
+    },
+    {
+      "name": "Blue Jeans & White T-Shirts",
+      "times_played": 3
+    },
+    {
+      "name": "High Lonesome",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "447",
@@ -12,7 +53,7 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -24,7 +65,7 @@
       "venue": "Irving Plaza",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -36,7 +77,7 @@
       "venue": "Terminal 5",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

@@ -20,12 +20,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/robert-plant/2015/capitol-theatre-port-chester-ny-23f4944b.html",
   "song_count": 14,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "Poor Howard",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -33,7 +33,7 @@
     {
       "position": 2,
       "name": "Tin Pan Valley",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -41,7 +41,7 @@
     {
       "position": 3,
       "name": "Trampled Under Foot",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Led Zeppelin"
@@ -49,7 +49,7 @@
     {
       "position": 4,
       "name": "Turn It Up",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -57,7 +57,7 @@
     {
       "position": 5,
       "name": "Black Dog",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Led Zeppelin"
@@ -65,7 +65,7 @@
     {
       "position": 6,
       "name": "Let the Four Winds Blow",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Dave Bartholomew"
@@ -73,7 +73,7 @@
     {
       "position": 7,
       "name": "The Rain Song",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Led Zeppelin"
@@ -81,7 +81,7 @@
     {
       "position": 8,
       "name": "No Place to Go / Dazed and Confused",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -89,7 +89,7 @@
     {
       "position": 9,
       "name": "Little Maggie",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "[traditional]"
@@ -97,7 +97,7 @@
     {
       "position": 10,
       "name": "Crawling King Snake",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Big Joe Williams"
@@ -105,7 +105,7 @@
     {
       "position": 11,
       "name": "The Lemon Song",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Led Zeppelin"
@@ -113,7 +113,7 @@
     {
       "position": 12,
       "name": "I Just Want to Make Love to You / Whole Lotta Love / Mona",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -121,16 +121,16 @@
     {
       "position": 13,
       "name": "Satan Your Kingdom Must Come Down / In My Time of Dying",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 14,
       "name": "Rock and Roll",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Led Zeppelin"
     }

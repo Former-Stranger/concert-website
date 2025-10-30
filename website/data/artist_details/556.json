@@ -2,7 +2,48 @@
   "id": "556",
   "name": "Symphony",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Sixty Years On",
+      "times_played": 1
+    },
+    {
+      "name": "The Greatest Discovery",
+      "times_played": 1
+    },
+    {
+      "name": "I Need You to Turn To",
+      "times_played": 1
+    },
+    {
+      "name": "Border Song",
+      "times_played": 1
+    },
+    {
+      "name": "The King Must Die",
+      "times_played": 1
+    },
+    {
+      "name": "Burn Down the Mission",
+      "times_played": 1
+    },
+    {
+      "name": "Believe",
+      "times_played": 1
+    },
+    {
+      "name": "Come Down in Time",
+      "times_played": 1
+    },
+    {
+      "name": "Tell Me When the Whistle Blows",
+      "times_played": 1
+    },
+    {
+      "name": "Tiny Dancer",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "208",
@@ -12,7 +53,7 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

@@ -15,234 +15,240 @@
   "photos": [],
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/billy-joel/2015/madison-square-garden-new-york-ny-3bc9a4dc.html",
-  "song_count": 28,
-  "has_encore": false,
+  "song_count": 29,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
-      "name": "Miami 2017 (Seen the Lights Go Out on Broadway)",
-      "set_name": "Set 1",
+      "name": "",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 2,
-      "name": "My Life",
-      "set_name": "Set 1",
+      "name": "Miami 2017 (Seen the Lights Go Out on Broadway)",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 3,
-      "name": "Hot Child in the City",
-      "set_name": "Set 1",
-      "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Nick Gilder"
-    },
-    {
-      "position": 4,
-      "name": "Your Song",
-      "set_name": "Set 1",
-      "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Elton John"
-    },
-    {
-      "position": 5,
-      "name": "The Entertainer",
-      "set_name": "Set 1",
+      "name": "My Life",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
+      "position": 4,
+      "name": "Hot Child in the City",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Nick Gilder"
+    },
+    {
+      "position": 5,
+      "name": "Your Song",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Elton John"
+    },
+    {
       "position": 6,
-      "name": "Summer, Highland Falls",
-      "set_name": "Set 1",
+      "name": "The Entertainer",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 7,
-      "name": "Con te partir\u00f2",
-      "set_name": "Set 1",
-      "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Andrea Bocelli"
-    },
-    {
-      "position": 8,
-      "name": "The Longest Time",
-      "set_name": "Set 1",
+      "name": "Summer, Highland Falls",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
+      "position": 8,
+      "name": "Con te partir\u00f2",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Andrea Bocelli"
+    },
+    {
       "position": 9,
-      "name": "An Innocent Man",
-      "set_name": "Set 1",
+      "name": "The Longest Time",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 10,
-      "name": "Big Man on Mulberry Street",
-      "set_name": "Set 1",
+      "name": "An Innocent Man",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 11,
-      "name": "Allentown",
-      "set_name": "Set 1",
+      "name": "Big Man on Mulberry Street",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 12,
-      "name": "New York State of Mind",
-      "set_name": "Set 1",
+      "name": "Allentown",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 13,
-      "name": "Good Lovin'",
-      "set_name": "Set 1",
-      "encore": 0,
-      "is_cover": true,
-      "cover_artist": "The Olympics",
-      "guest_artist": "Felix Cavaliere"
-    },
-    {
-      "position": 14,
-      "name": "The Downeaster \"Alexa\"",
-      "set_name": "Set 1",
+      "name": "New York State of Mind",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
+      "position": 14,
+      "name": "Good Lovin'",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Olympics"
+    },
+    {
       "position": 15,
-      "name": "Sometimes a Fantasy",
-      "set_name": "Set 1",
+      "name": "The Downeaster \"Alexa\"",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 16,
-      "name": "Movin' Out (Anthony's Song)",
-      "set_name": "Set 1",
+      "name": "Sometimes a Fantasy",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 17,
-      "name": "Keeping the Faith",
-      "set_name": "Set 1",
+      "name": "Movin' Out (Anthony's Song)",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 18,
-      "name": "She's Always a Woman",
-      "set_name": "Set 1",
+      "name": "Keeping the Faith",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 19,
-      "name": "Don't Ask Me Why",
-      "set_name": "Set 1",
+      "name": "She's Always a Woman",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 20,
-      "name": "Highway to Hell",
-      "set_name": "Set 1",
-      "encore": 0,
-      "is_cover": true,
-      "cover_artist": "AC/DC"
-    },
-    {
-      "position": 21,
-      "name": "We Didn't Start the Fire",
-      "set_name": "Set 1",
+      "name": "Don't Ask Me Why",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
+      "position": 21,
+      "name": "Highway to Hell",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "AC/DC"
+    },
+    {
       "position": 22,
-      "name": "The River of Dreams",
-      "set_name": "Set 1",
+      "name": "We Didn't Start the Fire",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 23,
-      "name": "Scenes From an Italian Restaurant",
-      "set_name": "Set 1",
+      "name": "The River of Dreams",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 24,
-      "name": "Piano Man",
-      "set_name": "Set 1",
+      "name": "Scenes From an Italian Restaurant",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 25,
-      "name": "Uptown Girl",
-      "set_name": "Set 2",
+      "name": "Piano Man",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 26,
-      "name": "It's Still Rock and Roll to Me",
-      "set_name": "Set 2",
-      "encore": 0,
+      "name": "Uptown Girl",
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 27,
-      "name": "You May Be Right",
-      "set_name": "Set 2",
-      "encore": 0,
+      "name": "It's Still Rock and Roll to Me",
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 28,
+      "name": "You May Be Right",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 29,
       "name": "Only the Good Die Young",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     }
-  ],
-  "tour_name": "Billy Joel at The Garden"
+  ]
 }

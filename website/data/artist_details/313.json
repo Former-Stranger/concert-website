@@ -4,31 +4,43 @@
   "concert_count": 3,
   "top_songs": [
     {
-      "name": "Change",
+      "name": "It's Only Rock 'n' Roll (but I Like It)",
       "times_played": 1
     },
     {
-      "name": "Something in the Water",
+      "name": "Live With Me",
       "times_played": 1
     },
     {
-      "name": "Power",
+      "name": "Monkey Man",
       "times_played": 1
     },
     {
-      "name": "Jesus Walks",
+      "name": "Sway",
       "times_played": 1
     },
     {
-      "name": "Black Skinhead",
+      "name": "Far Away Eyes",
       "times_played": 1
     },
     {
-      "name": "Stronger",
+      "name": "Streets of Love",
       "times_played": 1
     },
     {
-      "name": "Touch the Sky",
+      "name": "Just My Imagination (Running Away With Me)",
+      "times_played": 1
+    },
+    {
+      "name": "Midnight Rambler",
+      "times_played": 1
+    },
+    {
+      "name": "Tumbling Dice",
+      "times_played": 1
+    },
+    {
+      "name": "You Got the Silver",
       "times_played": 1
     }
   ],
@@ -65,7 +77,7 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

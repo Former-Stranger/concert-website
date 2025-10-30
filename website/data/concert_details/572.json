@@ -1,0 +1,78 @@
+{
+  "id": "572",
+  "show_number": 571,
+  "date": "2014-04-10",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Barclays Center",
+  "city": "Brooklyn",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Bruce Springsteen",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Peter Gabriel",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Hall & Oates",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Nirvana",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Cat Stevens",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Stevie Nicks",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Emmylou Harries",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Bonnie Raitt",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Carrie Underwood",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/bruce-springsteen/2014/barclays-center-brooklyn-ny-33c3a07d.html",
+  "song_count": 3,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "The E Street Shuffle",
+      "set_name": "4th set of the event",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "The River",
+      "set_name": "4th set of the event",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Kitty's Back",
+      "set_name": "4th set of the event",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

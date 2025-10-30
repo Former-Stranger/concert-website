@@ -20,7 +20,7 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/bob-weir-and-wolf-bros/2023/capitol-theatre-port-chester-ny-53ae0bc5.html",
   "song_count": 17,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
@@ -76,8 +76,7 @@
       "set_name": "Set 1:",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Grateful Dead",
-      "guest_artist": "Ron Carter"
+      "cover_artist": "Grateful Dead"
     },
     {
       "position": 8,
@@ -85,8 +84,7 @@
       "set_name": "Set 1:",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Grateful Dead",
-      "guest_artist": "Ron Carter"
+      "cover_artist": "Grateful Dead"
     },
     {
       "position": 9,
@@ -155,8 +153,8 @@
     {
       "position": 17,
       "name": "Liberty",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Robert Hunter"
     }

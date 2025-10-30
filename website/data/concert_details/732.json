@@ -16,12 +16,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/keith-urban/2016/barclays-center-brooklyn-ny-4bfa6f36.html",
   "song_count": 27,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "Gone Tomorrow (Here Today)",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -29,7 +29,7 @@
     {
       "position": 2,
       "name": "Long Hot Summer",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -37,7 +37,7 @@
     {
       "position": 3,
       "name": "Break on Me",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -45,7 +45,7 @@
     {
       "position": 4,
       "name": "Where the Blacktop Ends",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -53,7 +53,7 @@
     {
       "position": 5,
       "name": "Somewhere in My Car",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -61,7 +61,7 @@
     {
       "position": 6,
       "name": "Worry 'Bout Nothin'",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -69,7 +69,7 @@
     {
       "position": 7,
       "name": "Blue Ain't Your Color",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -77,7 +77,7 @@
     {
       "position": 8,
       "name": "You Gonna Fly",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -85,7 +85,7 @@
     {
       "position": 9,
       "name": "Days Go By",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -93,16 +93,15 @@
     {
       "position": 10,
       "name": "We Were Us",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Maren Morris"
+      "cover_artist": null
     },
     {
       "position": 11,
       "name": "Cop Car",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -110,7 +109,7 @@
     {
       "position": 12,
       "name": "Boy Gets a Truck",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -118,7 +117,7 @@
     {
       "position": 13,
       "name": "Unintended",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Muse"
@@ -126,7 +125,7 @@
     {
       "position": 14,
       "name": "One Call Away",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Charlie Puth"
@@ -134,7 +133,7 @@
     {
       "position": 15,
       "name": "Sun Don't Let Me Down",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -142,7 +141,7 @@
     {
       "position": 16,
       "name": "The Fighter",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -161,13 +160,12 @@
       "set_name": "B Stage",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Brett Eldredge"
+      "cover_artist": null
     },
     {
       "position": 19,
       "name": "Who Wouldn't Wanna Be Me",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -175,7 +173,7 @@
     {
       "position": 20,
       "name": "Little Bit of Everything",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -183,7 +181,7 @@
     {
       "position": 21,
       "name": "John Cougar, John Deere, John 3:16",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -191,7 +189,7 @@
     {
       "position": 22,
       "name": "Jack & Diane",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "John Mellencamp"
@@ -199,7 +197,7 @@
     {
       "position": 23,
       "name": "No Woman, No Cry",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Bob Marley & The Wailers"
@@ -207,7 +205,7 @@
     {
       "position": 24,
       "name": "Wasted Time",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -215,27 +213,26 @@
     {
       "position": 25,
       "name": "Making Memories of Us",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "The Notorious Cherry Bombs"
     },
     {
       "position": 26,
       "name": "Stupid Boy",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 27,
       "name": "Raise 'Em Up",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     }
-  ],
-  "tour_name": "Ripcord World Tour"
+  ]
 }

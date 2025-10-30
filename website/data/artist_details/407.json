@@ -2,7 +2,48 @@
   "id": "407",
   "name": "Oasis",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Midnight From the Inside Out",
+      "times_played": 1
+    },
+    {
+      "name": "Sting Me",
+      "times_played": 1
+    },
+    {
+      "name": "Greasy Grass River",
+      "times_played": 1
+    },
+    {
+      "name": "Cypress Tree",
+      "times_played": 1
+    },
+    {
+      "name": "Evil Eye",
+      "times_played": 1
+    },
+    {
+      "name": "Lickin'",
+      "times_played": 1
+    },
+    {
+      "name": "Seeing Things",
+      "times_played": 1
+    },
+    {
+      "name": "Soul Singing",
+      "times_played": 1
+    },
+    {
+      "name": "Ballad in Urgency",
+      "times_played": 1
+    },
+    {
+      "name": "Wiser Time",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "232",
@@ -12,7 +53,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -24,7 +65,7 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

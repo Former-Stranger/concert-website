@@ -5,43 +5,43 @@
   "top_songs": [
     {
       "name": "When We Were Close",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Cumberland Gap",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Save the World",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Strawberry Woman",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Last of My Kind",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Death Wish",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Volunteer",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "King of Oklahoma",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Middle of the Morning",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Overseas",
-      "times_played": 2
+      "times_played": 3
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

@@ -16,12 +16,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/temple-of-the-dog/2016/madison-square-garden-new-york-ny-23fac45f.html",
   "song_count": 25,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "Man of Golden Words",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Mother Love Bone"
@@ -29,7 +29,7 @@
     {
       "position": 2,
       "name": "Say Hello 2 Heaven",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -37,7 +37,7 @@
     {
       "position": 3,
       "name": "Wooden Jesus",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -45,7 +45,7 @@
     {
       "position": 4,
       "name": "Call Me a Dog",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -53,7 +53,7 @@
     {
       "position": 5,
       "name": "Your Saviour",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -61,7 +61,7 @@
     {
       "position": 6,
       "name": "Stardog Champion",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Mother Love Bone"
@@ -69,7 +69,7 @@
     {
       "position": 7,
       "name": "Stargazer",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Mother Love Bone"
@@ -77,7 +77,7 @@
     {
       "position": 8,
       "name": "Seasons",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Chris Cornell"
@@ -85,7 +85,7 @@
     {
       "position": 9,
       "name": "Jump Into the Fire",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Harry Nilsson"
@@ -93,7 +93,7 @@
     {
       "position": 10,
       "name": "Four Walled World",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -101,7 +101,7 @@
     {
       "position": 11,
       "name": "I'm a Mover",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Free"
@@ -109,7 +109,7 @@
     {
       "position": 12,
       "name": "Pushin Forward Back",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -117,7 +117,7 @@
     {
       "position": 13,
       "name": "Hunger Strike",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -125,7 +125,7 @@
     {
       "position": 14,
       "name": "Quicksand",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "David Bowie"
@@ -133,7 +133,7 @@
     {
       "position": 15,
       "name": "Heartshine",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Mother Love Bone"
@@ -141,7 +141,7 @@
     {
       "position": 16,
       "name": "River of Deceit",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Mad Season"
@@ -149,7 +149,7 @@
     {
       "position": 17,
       "name": "Holy Roller",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Mother Love Bone"
@@ -157,7 +157,7 @@
     {
       "position": 18,
       "name": "Reach Down",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -165,59 +165,58 @@
     {
       "position": 19,
       "name": "Man of Golden Words",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Mother Love Bone"
     },
     {
       "position": 20,
       "name": "Times of Trouble",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 21,
       "name": "Achilles Last Stand",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Led Zeppelin"
     },
     {
       "position": 22,
       "name": "Missing",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Chris Cornell"
     },
     {
       "position": 23,
       "name": "Fascination Street",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "The Cure"
     },
     {
       "position": 24,
       "name": "War Pigs",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Black Sabbath"
     },
     {
       "position": 25,
       "name": "All Night Thing",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 2,
       "is_cover": false,
       "cover_artist": null
     }
-  ],
-  "tour_name": "25th Anniversary Tour"
+  ]
 }

@@ -168,8 +168,7 @@
       "set_name": "Act IV",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Amy Schumer"
+      "cover_artist": null
     },
     {
       "position": 20,
@@ -299,6 +298,5 @@
       "is_cover": false,
       "cover_artist": null
     }
-  ],
-  "tour_name": "The Celebration Tour"
+  ]
 }

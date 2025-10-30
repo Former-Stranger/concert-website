@@ -16,7 +16,7 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/tedeschi-trucks-band/2024/capitol-theatre-port-chester-ny-2b571c4e.html",
   "song_count": 20,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
@@ -173,11 +173,10 @@
     {
       "position": 20,
       "name": "Show Me",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Joe Tex"
     }
-  ],
-  "tour_name": "Deuces Wild"
+  ]
 }

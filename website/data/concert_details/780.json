@@ -24,6 +24,40 @@
   "photo_count": 0,
   "setlists": [
     {
+      "artist_id": null,
+      "artist_name": null,
+      "artist_role": "headliner",
+      "setlistfm_url": "https://www.setlist.fm/setlist/kenny-chesney/2017/gillette-stadium-foxborough-ma-5be2d734.html",
+      "song_count": 3,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "I Go Back",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Boston",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Living in Fast Forward",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ]
+    },
+    {
       "artist_id": "318",
       "artist_name": "Kenny Chesney",
       "artist_role": "festival_performer",
@@ -124,6 +158,6 @@
       ]
     }
   ],
-  "total_song_count": 10,
+  "total_song_count": 13,
   "has_encore": false
 }

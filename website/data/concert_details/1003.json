@@ -28,6 +28,48 @@
   "photo_count": 0,
   "setlists": [
     {
+      "artist_id": null,
+      "artist_name": null,
+      "artist_role": "headliner",
+      "setlistfm_url": "https://www.setlist.fm/setlist/bruce-springsteen/2021/the-town-hall-new-york-ny-4b8b3ffe.html",
+      "song_count": 4,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Darkness on the Edge of Town",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "The Promised Land",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Glory Days",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Pink Cadillac",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ]
+    },
+    {
       "artist_id": "88",
       "artist_name": "Bruce Springsteen",
       "artist_role": "festival_performer",
@@ -232,6 +274,6 @@
       ]
     }
   ],
-  "total_song_count": 20,
+  "total_song_count": 24,
   "has_encore": false
 }

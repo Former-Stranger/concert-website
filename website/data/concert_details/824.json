@@ -16,7 +16,7 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/govt-mule/2018/capitol-theatre-port-chester-ny-53ec1325.html",
   "song_count": 22,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
@@ -181,19 +181,18 @@
     {
       "position": 21,
       "name": "Raven Black Night",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 22,
       "name": "Dark Was the Night, Cold Was the Ground",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Blind Willie Johnson"
     }
-  ],
-  "tour_name": "Revolution Come...Revolution Go"
+  ]
 }

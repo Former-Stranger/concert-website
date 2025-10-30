@@ -16,12 +16,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/john-fogerty/2025/beacon-theatre-new-york-ny-359b54f.html",
   "song_count": 22,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "80th Birthday Intro Video",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -29,7 +29,7 @@
     {
       "position": 2,
       "name": "Proud Mary",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Creedence Clearwater Revival"
@@ -37,7 +37,7 @@
     {
       "position": 3,
       "name": "Up Around the Bend",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Creedence Clearwater Revival"
@@ -45,7 +45,7 @@
     {
       "position": 4,
       "name": "Green River",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Creedence Clearwater Revival"
@@ -53,7 +53,7 @@
     {
       "position": 5,
       "name": "Born on the Bayou",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Creedence Clearwater Revival"
@@ -61,7 +61,7 @@
     {
       "position": 6,
       "name": "Who'll Stop the Rain",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Creedence Clearwater Revival"
@@ -69,7 +69,7 @@
     {
       "position": 7,
       "name": "Lookin' Out My Back Door",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Creedence Clearwater Revival"
@@ -77,7 +77,7 @@
     {
       "position": 8,
       "name": "Rock and Roll Girls",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -85,7 +85,7 @@
     {
       "position": 9,
       "name": "Effigy",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Creedence Clearwater Revival"
@@ -93,7 +93,7 @@
     {
       "position": 10,
       "name": "Joy of My Life",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -101,7 +101,7 @@
     {
       "position": 11,
       "name": "Mystic Highway",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -109,7 +109,7 @@
     {
       "position": 12,
       "name": "Fight Fire",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Golliwogs"
@@ -117,7 +117,7 @@
     {
       "position": 13,
       "name": "It Came Out of the Sky",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Creedence Clearwater Revival"
@@ -125,7 +125,7 @@
     {
       "position": 14,
       "name": "Keep On Chooglin'",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Creedence Clearwater Revival"
@@ -133,7 +133,7 @@
     {
       "position": 15,
       "name": "Have You Ever Seen the Rain?",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Creedence Clearwater Revival"
@@ -141,7 +141,7 @@
     {
       "position": 16,
       "name": "Centerfield",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -149,7 +149,7 @@
     {
       "position": 17,
       "name": "Down on the Corner",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Creedence Clearwater Revival"
@@ -157,7 +157,7 @@
     {
       "position": 18,
       "name": "The Old Man Down the Road",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -165,7 +165,7 @@
     {
       "position": 19,
       "name": "Fortunate Son",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Creedence Clearwater Revival"
@@ -173,27 +173,26 @@
     {
       "position": 20,
       "name": "Travelin' Band",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Creedence Clearwater Revival"
     },
     {
       "position": 21,
       "name": "Bad Moon Rising",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Creedence Clearwater Revival"
     },
     {
       "position": 22,
       "name": "Up Around the Bend",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Creedence Clearwater Revival"
     }
-  ],
-  "tour_name": "The Celebration Tour"
+  ]
 }

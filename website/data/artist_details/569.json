@@ -2,7 +2,48 @@
   "id": "569",
   "name": "The Dead",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Drums",
+      "times_played": 2
+    },
+    {
+      "name": "Cosmic Charlie",
+      "times_played": 1
+    },
+    {
+      "name": "China Cat Sunflower",
+      "times_played": 1
+    },
+    {
+      "name": "Shakedown Street",
+      "times_played": 1
+    },
+    {
+      "name": "Ship of Fools",
+      "times_played": 1
+    },
+    {
+      "name": "He's Gone",
+      "times_played": 1
+    },
+    {
+      "name": "Cassidy",
+      "times_played": 1
+    },
+    {
+      "name": "Sugaree",
+      "times_played": 1
+    },
+    {
+      "name": "Cryptical Envelopment",
+      "times_played": 1
+    },
+    {
+      "name": "The Other One",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "378",
@@ -12,7 +53,7 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -24,7 +65,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

@@ -2,7 +2,48 @@
   "id": "37",
   "name": "Barry Gibb",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Jive Talkin'",
+      "times_played": 1
+    },
+    {
+      "name": "You Should Be Dancing",
+      "times_played": 1
+    },
+    {
+      "name": "Lonely Days",
+      "times_played": 1
+    },
+    {
+      "name": "(Our Love) Don't Throw It All Away",
+      "times_played": 1
+    },
+    {
+      "name": "To Love Somebody",
+      "times_played": 1
+    },
+    {
+      "name": "How Can You Mend a Broken Heart?",
+      "times_played": 1
+    },
+    {
+      "name": "Stayin' Alive",
+      "times_played": 1
+    },
+    {
+      "name": "How Deep Is Your Love?",
+      "times_played": 1
+    },
+    {
+      "name": "On Time",
+      "times_played": 1
+    },
+    {
+      "name": "I've Gotta Get a Message to You",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "577",
@@ -12,7 +53,7 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

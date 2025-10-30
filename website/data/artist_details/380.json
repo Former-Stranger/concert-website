@@ -5,42 +5,42 @@
   "top_songs": [
     {
       "name": "The Ecstasy of Gold",
-      "times_played": 1
-    },
-    {
-      "name": "Hardwired Intro",
-      "times_played": 1
-    },
-    {
-      "name": "Hardwired",
-      "times_played": 1
-    },
-    {
-      "name": "Atlas, Rise!",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "For Whom the Bell Tolls",
+      "times_played": 2
+    },
+    {
+      "name": "Seek & Destroy",
+      "times_played": 2
+    },
+    {
+      "name": "Fade to Black",
+      "times_played": 2
+    },
+    {
+      "name": "Sad but True",
+      "times_played": 2
+    },
+    {
+      "name": "Nothing Else Matters",
+      "times_played": 2
+    },
+    {
+      "name": "One",
+      "times_played": 2
+    },
+    {
+      "name": "Enter Sandman",
+      "times_played": 2
+    },
+    {
+      "name": "Creeping Death",
       "times_played": 1
     },
     {
-      "name": "Ride the Lightning",
-      "times_played": 1
-    },
-    {
-      "name": "The Unforgiven",
-      "times_played": 1
-    },
-    {
-      "name": "Now That We're Dead",
-      "times_played": 1
-    },
-    {
-      "name": "Moth Into Flame",
-      "times_played": 1
-    },
-    {
-      "name": "Harvester of Sorrow",
+      "name": "Whiplash",
       "times_played": 1
     }
   ],
@@ -53,7 +53,7 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -65,7 +65,7 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

@@ -20,12 +20,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/kenny-chesney/2018/metlife-stadium-east-rutherford-nj-2be8e012.html",
   "song_count": 24,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "Beer in Mexico",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -33,7 +33,7 @@
     {
       "position": 2,
       "name": "Reality",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -41,7 +41,7 @@
     {
       "position": 3,
       "name": "Til It's Gone",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -49,7 +49,7 @@
     {
       "position": 4,
       "name": "Summertime",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -57,7 +57,7 @@
     {
       "position": 5,
       "name": "Pirate Flag",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -65,7 +65,7 @@
     {
       "position": 6,
       "name": "No Shoes, No Shirt, No Problems",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -73,7 +73,7 @@
     {
       "position": 7,
       "name": "Somewhere With You",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -81,7 +81,7 @@
     {
       "position": 8,
       "name": "I Go Back",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -89,7 +89,7 @@
     {
       "position": 9,
       "name": "Get Along",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -97,7 +97,7 @@
     {
       "position": 10,
       "name": "Anything but Mine",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -105,7 +105,7 @@
     {
       "position": 11,
       "name": "Happy Birthday to You",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Mildred J. Hill & Patty Hill"
@@ -113,25 +113,23 @@
     {
       "position": 12,
       "name": "Save It for a Rainy Day",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Old Dominion"
+      "cover_artist": null
     },
     {
       "position": 13,
       "name": "When the Sun Goes Down",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Thomas Rhett"
+      "cover_artist": null
     },
     {
       "position": 14,
       "name": "All the Pretty Girls",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -139,7 +137,7 @@
     {
       "position": 15,
       "name": "Living in Fast Forward",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -147,7 +145,7 @@
     {
       "position": 16,
       "name": "Young",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -155,7 +153,7 @@
     {
       "position": 17,
       "name": "Noise",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -163,7 +161,7 @@
     {
       "position": 18,
       "name": "American Kids",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -171,7 +169,7 @@
     {
       "position": 19,
       "name": "Setting the World on Fire",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -179,34 +177,31 @@
     {
       "position": 20,
       "name": "Everything's Gonna Be Alright",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "David Lee Murphy",
-      "guest_artist": "David Lee Murphy"
+      "cover_artist": "David Lee Murphy"
     },
     {
       "position": 21,
       "name": "Dust on the Bottle",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "David Lee Murphy",
-      "guest_artist": "David Lee Murphy"
+      "cover_artist": "David Lee Murphy"
     },
     {
       "position": 22,
       "name": "Party Crowd",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "David Lee Murphy",
-      "guest_artist": "David Lee Murphy"
+      "cover_artist": "David Lee Murphy"
     },
     {
       "position": 23,
       "name": "How Forever Feels",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -214,12 +209,10 @@
     {
       "position": 24,
       "name": "She Thinks My Tractor's Sexy",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Brandon Lay"
+      "cover_artist": null
     }
-  ],
-  "tour_name": "Trip Around the Sun Tour"
+  ]
 }

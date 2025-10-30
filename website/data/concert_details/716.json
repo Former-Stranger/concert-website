@@ -16,12 +16,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/jimmy-buffett/2016/nikon-at-jones-beach-theater-wantagh-ny-3bfc30a4.html",
   "song_count": 25,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "Volcano",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -29,7 +29,7 @@
     {
       "position": 2,
       "name": "SummerZcool",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -37,7 +37,7 @@
     {
       "position": 3,
       "name": "Piece of Work",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Will Kimbrough"
@@ -45,7 +45,7 @@
     {
       "position": 4,
       "name": "Grapefruit\u2014Juicy Fruit",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -53,7 +53,7 @@
     {
       "position": 5,
       "name": "Son of a Son of a Sailor",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -61,7 +61,7 @@
     {
       "position": 6,
       "name": "It's Five O'Clock Somewhere",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Alan Jackson"
@@ -69,7 +69,7 @@
     {
       "position": 7,
       "name": "Come Monday",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -77,7 +77,7 @@
     {
       "position": 8,
       "name": "Homemade Music",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -85,7 +85,7 @@
     {
       "position": 9,
       "name": "Knees of My Heart",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -93,7 +93,7 @@
     {
       "position": 10,
       "name": "Boat Drinks",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -101,7 +101,7 @@
     {
       "position": 11,
       "name": "Fins",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -109,7 +109,7 @@
     {
       "position": 12,
       "name": "Floridays",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -117,7 +117,7 @@
     {
       "position": 13,
       "name": "Margaritaville",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -149,7 +149,7 @@
     {
       "position": 17,
       "name": "Changes in Latitudes, Changes in Attitudes",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -157,7 +157,7 @@
     {
       "position": 18,
       "name": "Bama Breeze",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Josh Kear"
@@ -165,7 +165,7 @@
     {
       "position": 19,
       "name": "Coconut Telegraph",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -173,7 +173,7 @@
     {
       "position": 20,
       "name": "Cheeseburger in Paradise",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -181,7 +181,7 @@
     {
       "position": 21,
       "name": "A Pirate Looks at Forty",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -189,7 +189,7 @@
     {
       "position": 22,
       "name": "Southern Cross",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Crosby, Stills & Nash"
@@ -197,7 +197,7 @@
     {
       "position": 23,
       "name": "Volcano",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -205,19 +205,18 @@
     {
       "position": 24,
       "name": "One Particular Harbour",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 25,
       "name": "Brown Eyed Girl",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Van Morrison"
     }
-  ],
-  "tour_name": "I Don't Know"
+  ]
 }

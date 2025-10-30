@@ -1,0 +1,210 @@
+{
+  "id": "265",
+  "show_number": 264,
+  "date": "2006-06-25",
+  "festival_name": "Multi-Artist Show",
+  "venue": "PNC Bank Arts Center",
+  "city": "Holmdel",
+  "state": "NJ",
+  "artists": [
+    {
+      "name": "Bruce Springsteen",
+      "role": "festival_performer"
+    },
+    {
+      "name": "the Seeger Sessions Band",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/bruce-springsteen/2006/pnc-bank-arts-center-holmdel-nj-2bded80e.html",
+  "song_count": 23,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "American Land",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "John Henry",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 3,
+      "name": "Mary Don't You Weep",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Fisk Jubilee Singers"
+    },
+    {
+      "position": 4,
+      "name": "Old Dan Tucker",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Harry C. Browne"
+    },
+    {
+      "position": 5,
+      "name": "Atlantic City",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Long Black Veil",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Danny Dill"
+    },
+    {
+      "position": 7,
+      "name": "Jesse James",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bentley Ball"
+    },
+    {
+      "position": 8,
+      "name": "Long Time Comin'",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Erie Canal",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Thomas S. Allen"
+    },
+    {
+      "position": 10,
+      "name": "My Oklahoma Home",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bill Cunningham"
+    },
+    {
+      "position": 11,
+      "name": "If I Should Fall Behind",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "Mrs. McGrath",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 13,
+      "name": "Devils & Dust",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "How Can a Poor Man Stand Such Times and Live?",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Blind Alfred Reed"
+    },
+    {
+      "position": 15,
+      "name": "Jacob's Ladder",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 16,
+      "name": "We Shall Overcome",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 17,
+      "name": "Open All Night",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "Pay Me My Money Down",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Weavers"
+    },
+    {
+      "position": 19,
+      "name": "My City of Ruins",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "Ramrod",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 21,
+      "name": "You Can Look (But You Better Not Touch)",
+      "set_name": "Main Set",
+      "encore": 2,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 22,
+      "name": "When the Saints Go Marching In",
+      "set_name": "Main Set",
+      "encore": 3,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 23,
+      "name": "The Daring Young Man on the Flying Trapeze",
+      "set_name": "Main Set",
+      "encore": 3,
+      "is_cover": true,
+      "cover_artist": "George Leybourne"
+    }
+  ]
+}

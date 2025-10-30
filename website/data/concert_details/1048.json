@@ -21,7 +21,7 @@
     {
       "position": 1,
       "name": "Addicted to Love",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Robert Palmer"
@@ -29,7 +29,7 @@
     {
       "position": 2,
       "name": "You Wear It Well",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -37,7 +37,7 @@
     {
       "position": 3,
       "name": "Ooh La La",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Faces"
@@ -45,7 +45,7 @@
     {
       "position": 4,
       "name": "Some Guys Have All the Luck",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Persuaders"
@@ -53,7 +53,7 @@
     {
       "position": 5,
       "name": "It Takes Two",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Kim Weston"
@@ -61,7 +61,7 @@
     {
       "position": 6,
       "name": "Forever Young",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -69,7 +69,7 @@
     {
       "position": 7,
       "name": "The First Cut Is the Deepest",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Cat Stevens"
@@ -77,7 +77,7 @@
     {
       "position": 8,
       "name": "Have You Ever Seen the Rain?",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Creedence Clearwater Revival"
@@ -85,7 +85,7 @@
     {
       "position": 9,
       "name": "Every Picture Tells a Story",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -93,7 +93,7 @@
     {
       "position": 10,
       "name": "Maggie May",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -101,7 +101,7 @@
     {
       "position": 11,
       "name": "I'd Rather Go Blind",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Etta James"
@@ -109,7 +109,7 @@
     {
       "position": 12,
       "name": "Young Turks",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -117,7 +117,7 @@
     {
       "position": 13,
       "name": "Da Ya Think I'm Sexy?",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -125,7 +125,7 @@
     {
       "position": 14,
       "name": "Rhythm of My Heart",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Marc Jordan"
@@ -133,7 +133,7 @@
     {
       "position": 15,
       "name": "Call Me",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Blondie"
@@ -194,6 +194,5 @@
       "is_cover": true,
       "cover_artist": "Faces"
     }
-  ],
-  "tour_name": "North American Tour 2022"
+  ]
 }

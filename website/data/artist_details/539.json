@@ -4,44 +4,44 @@
   "concert_count": 5,
   "top_songs": [
     {
-      "name": "Stranger\u2019s Blues",
-      "times_played": 1
+      "name": "Jet Airliner",
+      "times_played": 4
     },
     {
       "name": "Fly Like an Eagle",
-      "times_played": 1
-    },
-    {
-      "name": "Jet Airliner",
-      "times_played": 1
+      "times_played": 3
     },
     {
       "name": "The Stake",
-      "times_played": 1
-    },
-    {
-      "name": "Blues With a Feeling",
-      "times_played": 1
+      "times_played": 3
     },
     {
       "name": "Abracadabra",
-      "times_played": 1
+      "times_played": 3
     },
     {
       "name": "Dance, Dance, Dance",
-      "times_played": 1
+      "times_played": 3
     },
     {
       "name": "Wild Mountain Honey",
-      "times_played": 1
+      "times_played": 3
     },
     {
       "name": "Swingtown",
-      "times_played": 1
+      "times_played": 3
     },
     {
       "name": "Jungle Love",
-      "times_played": 1
+      "times_played": 3
+    },
+    {
+      "name": "Serenade",
+      "times_played": 3
+    },
+    {
+      "name": "Living in the U.S.A.",
+      "times_played": 3
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "Hartford HealthCare Amphitheater",
       "city": "Bridgeport",
       "state": "CT",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -77,7 +77,7 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -89,7 +89,7 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },

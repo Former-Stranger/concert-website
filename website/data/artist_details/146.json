@@ -5,43 +5,43 @@
   "top_songs": [
     {
       "name": "The Music Never Stopped",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Liberty",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "They Love Each Other",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Loser",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Alabama Getaway",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Iko Iko",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "High Time",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Cassidy",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Jack Straw",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Scarlet Begonias",
-      "times_played": 1
+      "times_played": 2
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "Xfinity Center",
       "city": "Mansfield",
       "state": "MA",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

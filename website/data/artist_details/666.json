@@ -2,7 +2,48 @@
   "id": "666",
   "name": "the Pretenders",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Motorcycle Mama",
+      "times_played": 1
+    },
+    {
+      "name": "Powderfinger",
+      "times_played": 1
+    },
+    {
+      "name": "Everybody Knows This Is Nowhere",
+      "times_played": 1
+    },
+    {
+      "name": "I Believe in You",
+      "times_played": 1
+    },
+    {
+      "name": "Unknown Legend",
+      "times_played": 1
+    },
+    {
+      "name": "Dance Dance Dance",
+      "times_played": 1
+    },
+    {
+      "name": "Buffalo Springfield Again",
+      "times_played": 1
+    },
+    {
+      "name": "Razor Love",
+      "times_played": 1
+    },
+    {
+      "name": "From Hank to Hendrix",
+      "times_played": 1
+    },
+    {
+      "name": "Daddy Went Walkin'",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "288",
@@ -12,7 +53,7 @@
       "venue": "Bridgeport",
       "city": "Bridgeport",
       "state": "CT",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -24,7 +65,7 @@
       "venue": "Freedom Mortgage Pavilion",
       "city": "Camden",
       "state": "NJ",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

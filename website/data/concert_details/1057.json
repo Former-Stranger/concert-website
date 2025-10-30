@@ -20,6 +20,176 @@
   "photo_count": 0,
   "setlists": [
     {
+      "artist_id": null,
+      "artist_name": null,
+      "artist_role": "headliner",
+      "setlistfm_url": "https://www.setlist.fm/setlist/mike-campbell-and-the-dirty-knobs/2022/capitol-theatre-port-chester-ny-3b0253f.html",
+      "song_count": 20,
+      "has_encore": true,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Wicked Mind",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Lightning Boogie",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "External Combustion",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Even the Losers",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 5,
+          "name": "State of Mind",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Working Class Hero",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "John Lennon"
+        },
+        {
+          "position": 7,
+          "name": "Dirty Job",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "Fuck That Guy",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 9,
+          "name": "Wreckless Abandon",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "Listen to Her Heart",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 11,
+          "name": "I Still Love You",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 12,
+          "name": "In This Lifetime",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 13,
+          "name": "Fault Lines",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 14,
+          "name": "Sugar",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 15,
+          "name": "Refugee",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 16,
+          "name": "Southern Boy",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 17,
+          "name": "Runnin' Down a Dream",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty"
+        },
+        {
+          "position": 18,
+          "name": "You Wreck Me",
+          "set_name": "Main Set",
+          "encore": 1,
+          "is_cover": true,
+          "cover_artist": "Tom Petty"
+        },
+        {
+          "position": 19,
+          "name": "Road Runner / Who Do You Love / Rollin' and Tumblin' / I'm So Glad",
+          "set_name": "Main Set",
+          "encore": 1,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 20,
+          "name": "Lay Down Your Weary Tune",
+          "set_name": "Main Set",
+          "encore": 1,
+          "is_cover": true,
+          "cover_artist": "Bob Dylan"
+        }
+      ]
+    },
+    {
       "artist_id": "173",
       "artist_name": "Dirty Knobs",
       "artist_role": "festival_performer",
@@ -362,7 +532,7 @@
       "tour_name": "External Combustion"
     }
   ],
-  "total_song_count": 40,
-  "has_encore": false,
+  "total_song_count": 60,
+  "has_encore": true,
   "tour_name": "External Combustion"
 }

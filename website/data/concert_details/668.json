@@ -16,7 +16,7 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/joe-bonamassa/2016/isaac-stern-auditorium-at-carnegie-hall-new-york-ny-63f3fe07.html",
   "song_count": 16,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
@@ -141,11 +141,10 @@
     {
       "position": 16,
       "name": "The Rose",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Amanda McBroom"
     }
-  ],
-  "tour_name": "Blues of Desperation"
+  ]
 }

@@ -20,7 +20,7 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/bob-weir-and-wolf-bros/2022/westville-music-bowl-new-haven-ct-4bb187d2.html",
   "song_count": 19,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
@@ -161,19 +161,18 @@
     {
       "position": 18,
       "name": "Ripple",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Grateful Dead"
     },
     {
       "position": 19,
       "name": "Playing in the Band",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Grateful Dead"
     }
-  ],
-  "tour_name": "Fall Tour 2022"
+  ]
 }

@@ -20,12 +20,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/govt-mule/2023/pnc-bank-arts-center-holmdel-nj-73a5f67d.html",
   "song_count": 23,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "Mule",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -33,7 +33,7 @@
     {
       "position": 2,
       "name": "Painted Silver Light",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -41,7 +41,7 @@
     {
       "position": 3,
       "name": "Game Face",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -49,7 +49,7 @@
     {
       "position": 4,
       "name": "Made My Peace",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -57,7 +57,7 @@
     {
       "position": 5,
       "name": "Same as It Ever Was",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -65,7 +65,7 @@
     {
       "position": 6,
       "name": "After the Storm",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -73,7 +73,7 @@
     {
       "position": 7,
       "name": "Pigs on the Wing, Part 2",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
@@ -81,7 +81,7 @@
     {
       "position": 8,
       "name": "Shine On You Crazy Diamond (Parts I-V)",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
@@ -89,7 +89,7 @@
     {
       "position": 9,
       "name": "Have a Cigar",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
@@ -97,7 +97,7 @@
     {
       "position": 10,
       "name": "Speak to Me",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
@@ -105,7 +105,7 @@
     {
       "position": 11,
       "name": "Breathe (In the Air)",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
@@ -113,7 +113,7 @@
     {
       "position": 12,
       "name": "On the Run",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
@@ -121,7 +121,7 @@
     {
       "position": 13,
       "name": "Time",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
@@ -129,7 +129,7 @@
     {
       "position": 14,
       "name": "Breathe (Reprise)",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
@@ -137,7 +137,7 @@
     {
       "position": 15,
       "name": "The Great Gig in the Sky",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
@@ -145,7 +145,7 @@
     {
       "position": 16,
       "name": "Money",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
@@ -153,7 +153,7 @@
     {
       "position": 17,
       "name": "Us and Them",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
@@ -161,7 +161,7 @@
     {
       "position": 18,
       "name": "Any Colour You Like",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
@@ -169,7 +169,7 @@
     {
       "position": 19,
       "name": "One of These Days",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
@@ -177,7 +177,7 @@
     {
       "position": 20,
       "name": "Fearless",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
@@ -185,7 +185,7 @@
     {
       "position": 21,
       "name": "Echoes, Part 2",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
@@ -193,19 +193,18 @@
     {
       "position": 22,
       "name": "Comfortably Numb",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
     },
     {
       "position": 23,
       "name": "Wish You Were Here",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 2,
       "is_cover": true,
       "cover_artist": "Pink Floyd"
     }
-  ],
-  "tour_name": "Dark Side of the Mule 2023"
+  ]
 }

@@ -2,7 +2,48 @@
   "id": "143",
   "name": "Crosby, Stills",
   "concert_count": 3,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Carry On",
+      "times_played": 2
+    },
+    {
+      "name": "Marrakesh Express",
+      "times_played": 2
+    },
+    {
+      "name": "Delta",
+      "times_played": 2
+    },
+    {
+      "name": "D\u00e9j\u00e0 Vu",
+      "times_played": 2
+    },
+    {
+      "name": "Helplessly Hoping",
+      "times_played": 2
+    },
+    {
+      "name": "Southern Cross",
+      "times_played": 2
+    },
+    {
+      "name": "Love the One You're With",
+      "times_played": 2
+    },
+    {
+      "name": "Chicago",
+      "times_played": 2
+    },
+    {
+      "name": "Almost Cut My Hair",
+      "times_played": 2
+    },
+    {
+      "name": "Wooden Ships",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "236",
@@ -12,7 +53,7 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -36,7 +77,7 @@
       "venue": "Thunder Ridge Ski Area",
       "city": "Patterson",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

@@ -2,7 +2,48 @@
   "id": "81",
   "name": "Brandon Flowers",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "On the Floor",
+      "times_played": 1
+    },
+    {
+      "name": "Crossfire",
+      "times_played": 1
+    },
+    {
+      "name": "Magdalena",
+      "times_played": 1
+    },
+    {
+      "name": "Bette Davis Eyes",
+      "times_played": 1
+    },
+    {
+      "name": "Jilted Lovers & Broken Hearts",
+      "times_played": 1
+    },
+    {
+      "name": "Welcome to Fabulous Las Vegas",
+      "times_played": 1
+    },
+    {
+      "name": "Was It Something I Said?",
+      "times_played": 1
+    },
+    {
+      "name": "Hard Enough",
+      "times_played": 1
+    },
+    {
+      "name": "Losing Touch",
+      "times_played": 1
+    },
+    {
+      "name": "Swallow It",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "461",
@@ -12,7 +53,7 @@
       "venue": "Hammerstein",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

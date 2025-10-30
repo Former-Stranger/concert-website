@@ -19,13 +19,13 @@
   "photos": [],
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/one-ok-rock/2019/the-republik-honolulu-hi-43939be3.html",
-  "song_count": 13,
-  "has_encore": false,
+  "song_count": 14,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "Push Back",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -33,7 +33,7 @@
     {
       "position": 2,
       "name": "We Are",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -41,7 +41,7 @@
     {
       "position": 3,
       "name": "Clock Strikes",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -49,7 +49,7 @@
     {
       "position": 4,
       "name": "Change",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -57,7 +57,7 @@
     {
       "position": 5,
       "name": "Unforgettable",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -65,7 +65,7 @@
     {
       "position": 6,
       "name": "Head High",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -73,7 +73,7 @@
     {
       "position": 7,
       "name": "Take What You Want",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -81,51 +81,58 @@
     {
       "position": 8,
       "name": "Stand Out Fit In",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 9,
-      "name": "Grow Old Die Young",
-      "set_name": "Set 1",
+      "name": "",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 10,
-      "name": "I Was King",
-      "set_name": "Set 1",
+      "name": "Grow Old Die Young",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 11,
-      "name": "The Beginning",
-      "set_name": "Set 1",
+      "name": "I Was King",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 12,
-      "name": "Jaded",
-      "set_name": "Set 1",
+      "name": "The Beginning",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 13,
-      "name": "Wasted Nights",
-      "set_name": "Set 2",
+      "name": "Jaded",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Wasted Nights",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
     }
-  ],
-  "tour_name": "EYE OF THE STORM NORTH AMERICAN TOUR 2019"
+  ]
 }

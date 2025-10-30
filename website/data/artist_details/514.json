@@ -5,43 +5,43 @@
   "top_songs": [
     {
       "name": "A Change Would Do You Good",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "If It Makes You Happy",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Everything Is Broken",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Maybe Angels",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Leaving Las Vegas",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "My Favorite Mistake",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Soak Up the Sun",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Everyday Is a Winding Road",
+      "times_played": 3
+    },
+    {
+      "name": "Beware of Darkness",
       "times_played": 2
     },
     {
-      "name": "Jack Straw",
-      "times_played": 1
-    },
-    {
-      "name": "Friend of the Devil",
-      "times_played": 1
+      "name": "Prove You Wrong",
+      "times_played": 2
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -65,7 +65,7 @@
       "venue": "Fort Adams State Park",
       "city": "Newport",
       "state": "RI",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },

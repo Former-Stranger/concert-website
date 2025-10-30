@@ -2,7 +2,48 @@
   "id": "65",
   "name": "Bob Seger & the Silver Bullet Band",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Roll Me Away",
+      "times_played": 1
+    },
+    {
+      "name": "Trying to Live My Life Without You",
+      "times_played": 1
+    },
+    {
+      "name": "Wreck This Heart",
+      "times_played": 1
+    },
+    {
+      "name": "Mainstreet",
+      "times_played": 1
+    },
+    {
+      "name": "Old Time Rock and Roll",
+      "times_played": 1
+    },
+    {
+      "name": "Wait for Me",
+      "times_played": 1
+    },
+    {
+      "name": "Face the Promise",
+      "times_played": 1
+    },
+    {
+      "name": "No Matter Who You Are",
+      "times_played": 1
+    },
+    {
+      "name": "Betty Lou's Gettin' Out Tonight",
+      "times_played": 1
+    },
+    {
+      "name": "We've Got Tonite",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "290",
@@ -12,7 +53,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },

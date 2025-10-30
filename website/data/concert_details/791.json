@@ -20,6 +20,200 @@
   "photo_count": 0,
   "setlists": [
     {
+      "artist_id": null,
+      "artist_name": null,
+      "artist_role": "headliner",
+      "setlistfm_url": "https://www.setlist.fm/setlist/little-steven-and-the-disciples-of-soul/2017/the-gramercy-theatre-new-york-ny-7be25620.html",
+      "song_count": 23,
+      "has_encore": true,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Soulfire",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Breakers"
+        },
+        {
+          "position": 2,
+          "name": "Coming Back",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Southside Johnny & The Asbury Jukes"
+        },
+        {
+          "position": 3,
+          "name": "Among the Believers",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Little Steven"
+        },
+        {
+          "position": 4,
+          "name": "Blues Is My Business",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Larry McCray"
+        },
+        {
+          "position": 5,
+          "name": "Love on the Wrong Side of Town",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Little Steven"
+        },
+        {
+          "position": 6,
+          "name": "Until the Good Is Gone",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Angel Eyes",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "I Saw the Light",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Little Steven"
+        },
+        {
+          "position": 9,
+          "name": "Standing in the Line of Fire",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Gary \u201cU.S.\u201d Bonds"
+        },
+        {
+          "position": 10,
+          "name": "Saint Valentine's Day",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Cocktail Slippers"
+        },
+        {
+          "position": 11,
+          "name": "Salvation",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Little Steven"
+        },
+        {
+          "position": 12,
+          "name": "The City Weeps Tonight",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Little Steven"
+        },
+        {
+          "position": 13,
+          "name": "Down and Out in New York City",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "James Brown"
+        },
+        {
+          "position": 14,
+          "name": "Princess of Little Italy",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 15,
+          "name": "Solidarity",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Little Steven"
+        },
+        {
+          "position": 16,
+          "name": "Leonard Peltier",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Little Steven"
+        },
+        {
+          "position": 17,
+          "name": "I Am a Patriot",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Little Steven"
+        },
+        {
+          "position": 18,
+          "name": "Groovin' Is Easy",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Electric Flag"
+        },
+        {
+          "position": 19,
+          "name": "Ride the Night Away",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jimmy Barnes"
+        },
+        {
+          "position": 20,
+          "name": "Bitter Fruit",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Little Steven"
+        },
+        {
+          "position": 21,
+          "name": "Forever",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 22,
+          "name": "I Don't Want to Go Home",
+          "set_name": "Main Set",
+          "encore": 1,
+          "is_cover": true,
+          "cover_artist": "Southside Johnny & The Asbury Jukes"
+        },
+        {
+          "position": 23,
+          "name": "Out of the Darkness",
+          "set_name": "Main Set",
+          "encore": 1,
+          "is_cover": true,
+          "cover_artist": "Little Steven"
+        }
+      ]
+    },
+    {
       "artist_id": "174",
       "artist_name": "Disciples of Soul",
       "artist_role": "festival_performer",
@@ -410,7 +604,7 @@
       "tour_name": "Soulfire Tour 2017"
     }
   ],
-  "total_song_count": 46,
-  "has_encore": false,
+  "total_song_count": 69,
+  "has_encore": true,
   "tour_name": "Soulfire Tour 2017"
 }

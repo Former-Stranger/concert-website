@@ -1,0 +1,222 @@
+{
+  "id": "255",
+  "show_number": 254,
+  "date": "2006-03-12",
+  "festival_name": null,
+  "venue": "Nassau Coliseum",
+  "city": "Uniondale",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Queen + Paul Rodgers",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/queen-paul-rodgers/2006/nassau-veterans-memorial-coliseum-uniondale-ny-4bd7e79a.html",
+  "song_count": 25,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Reaching Out",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Rock Therapy"
+    },
+    {
+      "position": 2,
+      "name": "Tie Your Mother Down",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 3,
+      "name": "Fat Bottomed Girls",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 4,
+      "name": "I Want to Break Free",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 5,
+      "name": "Take Love",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Paul Rodgers"
+    },
+    {
+      "position": 6,
+      "name": "Crazy Little Thing Called Love",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 7,
+      "name": "Love of My Life",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 8,
+      "name": "Hammer to Fall",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 9,
+      "name": "Feel Like Makin' Love",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bad Company"
+    },
+    {
+      "position": 10,
+      "name": "Let There Be Drums",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Sandy Nelson"
+    },
+    {
+      "position": 11,
+      "name": "I'm in Love With My Car",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 12,
+      "name": "Guitar Solo",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Last Horizon",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Brian May"
+    },
+    {
+      "position": 14,
+      "name": "Bad Company",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bad Company"
+    },
+    {
+      "position": 15,
+      "name": "Can't Get Enough",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bad Company"
+    },
+    {
+      "position": 16,
+      "name": "Another One Bites the Dust",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 17,
+      "name": "Dragon Attack",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 18,
+      "name": "These Are the Days of Our Lives",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 19,
+      "name": "Radio Ga Ga",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 20,
+      "name": "The Show Must Go On",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 21,
+      "name": "Bohemian Rhapsody",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 22,
+      "name": "We Will Rock You",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 23,
+      "name": "All Right Now",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Free"
+    },
+    {
+      "position": 24,
+      "name": "We Are the Champions",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 25,
+      "name": "God Save the Queen",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Thomas Arne"
+    }
+  ]
+}

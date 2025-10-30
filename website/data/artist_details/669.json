@@ -2,7 +2,48 @@
   "id": "669",
   "name": "the Wallflowers",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Gimme Shelter",
+      "times_played": 1
+    },
+    {
+      "name": "Peaceful World",
+      "times_played": 1
+    },
+    {
+      "name": "Jack & Diane",
+      "times_played": 1
+    },
+    {
+      "name": "Key West Intermezzo (I Saw You First)",
+      "times_played": 1
+    },
+    {
+      "name": "Minutes to Memories",
+      "times_played": 1
+    },
+    {
+      "name": "Your Life Is Now",
+      "times_played": 1
+    },
+    {
+      "name": "Cuttin' Heads",
+      "times_played": 1
+    },
+    {
+      "name": "Paper in Fire",
+      "times_played": 1
+    },
+    {
+      "name": "Crumblin' Down",
+      "times_played": 1
+    },
+    {
+      "name": "Women Seem",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "142",
@@ -12,7 +53,7 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

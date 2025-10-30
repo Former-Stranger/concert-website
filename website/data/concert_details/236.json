@@ -1,0 +1,202 @@
+{
+  "id": "236",
+  "show_number": 235,
+  "date": "2005-08-02",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Crosby, Stills",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Nash",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/crosby-stills-and-nash/2005/beacon-theatre-new-york-ny-bc33dde.html",
+  "song_count": 22,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Carry On",
+      "set_name": "Set One:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Crosby, Stills, Nash & Young"
+    },
+    {
+      "position": 2,
+      "name": "Marrakesh Express",
+      "set_name": "Set One:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Long Time Gone",
+      "set_name": "Set One:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Jesus of Rio",
+      "set_name": "Set One:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Crosby & Nash"
+    },
+    {
+      "position": 5,
+      "name": "Feed the People",
+      "set_name": "Set One:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Stephen Stills"
+    },
+    {
+      "position": 6,
+      "name": "Cathedral",
+      "set_name": "Set One:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Don't Dig Here",
+      "set_name": "Set One:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Crosby & Nash"
+    },
+    {
+      "position": 8,
+      "name": "Delta",
+      "set_name": "Set One:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Military Madness",
+      "set_name": "Set One:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Graham Nash"
+    },
+    {
+      "position": 10,
+      "name": "Ole Man Trouble",
+      "set_name": "Set One:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Otis Redding"
+    },
+    {
+      "position": 11,
+      "name": "D\u00e9j\u00e0 Vu",
+      "set_name": "Set One:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Crosby, Stills, Nash & Young"
+    },
+    {
+      "position": 12,
+      "name": "Helplessly Hoping",
+      "set_name": "Set Two:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Guinnevere",
+      "set_name": "Set Two:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Lay Me Down",
+      "set_name": "Set Two:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Crosby & Nash"
+    },
+    {
+      "position": 15,
+      "name": "Southern Cross",
+      "set_name": "Set Two:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Just a Song Before I Go",
+      "set_name": "Set Two:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "Daylight Again / Find the Cost of Freedom",
+      "set_name": "Set Two:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "Love the One You're With",
+      "set_name": "Set Two:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Stephen Stills"
+    },
+    {
+      "position": 19,
+      "name": "Chicago",
+      "set_name": "Set Two:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Graham Nash"
+    },
+    {
+      "position": 20,
+      "name": "Almost Cut My Hair",
+      "set_name": "Set Two:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "David Crosby"
+    },
+    {
+      "position": 21,
+      "name": "Wooden Ships",
+      "set_name": "Set Two:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 22,
+      "name": "Teach Your Children",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Crosby, Stills, Nash & Young"
+    }
+  ]
+}

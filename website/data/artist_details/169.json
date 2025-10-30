@@ -2,7 +2,48 @@
   "id": "169",
   "name": "Dickey Betts",
   "concert_count": 5,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "In Memory of Elizabeth Reed",
+      "times_played": 2
+    },
+    {
+      "name": "Seven Turns",
+      "times_played": 2
+    },
+    {
+      "name": "Back Where It All Begins",
+      "times_played": 2
+    },
+    {
+      "name": "No One to Run With",
+      "times_played": 2
+    },
+    {
+      "name": "You Don't Love Me",
+      "times_played": 2
+    },
+    {
+      "name": "Ramblin' Man",
+      "times_played": 2
+    },
+    {
+      "name": "Rave On",
+      "times_played": 1
+    },
+    {
+      "name": "Franklin's Tower / Blue Sky",
+      "times_played": 1
+    },
+    {
+      "name": "Let's All Get Together",
+      "times_played": 1
+    },
+    {
+      "name": "The Preacher",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "464",
@@ -12,7 +53,7 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -24,7 +65,7 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -60,7 +101,7 @@
       "venue": "BB King Blues Club",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

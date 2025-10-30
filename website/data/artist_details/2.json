@@ -2,7 +2,48 @@
   "id": "2",
   "name": "311",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Hive",
+      "times_played": 1
+    },
+    {
+      "name": "Freak Out",
+      "times_played": 1
+    },
+    {
+      "name": "Lucky",
+      "times_played": 1
+    },
+    {
+      "name": "Misdirected Hostility",
+      "times_played": 1
+    },
+    {
+      "name": "What Was I Thinking",
+      "times_played": 1
+    },
+    {
+      "name": "Galaxy",
+      "times_played": 1
+    },
+    {
+      "name": "Homebrew",
+      "times_played": 1
+    },
+    {
+      "name": "Jupiter",
+      "times_played": 1
+    },
+    {
+      "name": "All Mixed Up",
+      "times_played": 1
+    },
+    {
+      "name": "Nix Hex",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "51",
@@ -12,7 +53,7 @@
       "venue": "Roseland",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

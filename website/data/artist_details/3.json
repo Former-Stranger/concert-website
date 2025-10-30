@@ -5,43 +5,43 @@
   "top_songs": [
     {
       "name": "When We Were Close",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Save the World",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "King of Oklahoma",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Strawberry Woman",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Last of My Kind",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Overseas",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Hope the High Road",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Speed Trap Town",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Alabama Pines",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Traveling Alone",
-      "times_played": 2
+      "times_played": 3
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

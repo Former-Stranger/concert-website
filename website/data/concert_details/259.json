@@ -1,0 +1,186 @@
+{
+  "id": "259",
+  "show_number": 258,
+  "date": "2006-04-20",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Convention Hall",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "artists": [
+    {
+      "name": "Bruce Springsteen",
+      "role": "festival_performer"
+    },
+    {
+      "name": "the Seeger Sessions Band",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/bruce-springsteen/2006/convention-hall-asbury-park-nj-1bc90d74.html",
+  "song_count": 20,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Jesse James",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bentley Ball"
+    },
+    {
+      "position": 2,
+      "name": "Mary Don't You Weep",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Fisk Jubilee Singers"
+    },
+    {
+      "position": 3,
+      "name": "Johnny 99",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "John Henry",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 5,
+      "name": "Keep Your Hand on the Plow",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 6,
+      "name": "Old Dan Tucker",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Harry C. Browne"
+    },
+    {
+      "position": 7,
+      "name": "Cadillac Ranch",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Erie Canal",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Thomas S. Allen"
+    },
+    {
+      "position": 9,
+      "name": "My Oklahoma Home",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bill Cunningham"
+    },
+    {
+      "position": 10,
+      "name": "If I Should Fall Behind",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "Mrs. McGrath",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 12,
+      "name": "How Can a Poor Man Stand Such Times and Live?",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Blind Alfred Reed"
+    },
+    {
+      "position": 13,
+      "name": "Jacob's Ladder",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 14,
+      "name": "We Shall Overcome",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 15,
+      "name": "Open All Night",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Pay Me My Money Down",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Weavers"
+    },
+    {
+      "position": 17,
+      "name": "Turn! Turn! Turn! (To Everything There Is a Season)",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Pete Seeger"
+    },
+    {
+      "position": 18,
+      "name": "Buffalo Gals",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
+      "position": 19,
+      "name": "You Can Look (But You Better Not Touch)",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "When the Saints Go Marching In",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    }
+  ]
+}

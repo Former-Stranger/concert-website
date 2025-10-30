@@ -20,7 +20,7 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/bob-weir-and-wolf-bros/2018/capitol-theatre-port-chester-ny-7397be4d.html",
   "song_count": 17,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
@@ -148,18 +148,15 @@
       "set_name": "Set 2:",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "The Crickets",
-      "guest_artist": "Warren Haynes"
+      "cover_artist": "The Crickets"
     },
     {
       "position": 17,
       "name": "Turn On Your Love Light",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
-      "cover_artist": "Bobby \u201cBlue\u201d Bland",
-      "guest_artist": "Warren Haynes"
+      "cover_artist": "Bobby \u201cBlue\u201d Bland"
     }
-  ],
-  "tour_name": "Bob Weir and Wolf Bros 2018"
+  ]
 }

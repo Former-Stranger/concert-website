@@ -4,6 +4,30 @@
   "concert_count": 1,
   "top_songs": [
     {
+      "name": "Happy to See Me",
+      "times_played": 2
+    },
+    {
+      "name": "The Knock",
+      "times_played": 2
+    },
+    {
+      "name": "New Song (Untitled)",
+      "times_played": 2
+    },
+    {
+      "name": "Waitress",
+      "times_played": 2
+    },
+    {
+      "name": "Well-Dressed",
+      "times_played": 2
+    },
+    {
+      "name": "Tibetan Pop Stars",
+      "times_played": 2
+    },
+    {
       "name": "We Will Rock You",
       "times_played": 2
     },
@@ -18,30 +42,6 @@
     {
       "name": "Another One Bites the Dust",
       "times_played": 1
-    },
-    {
-      "name": "Fat Bottomed Girls",
-      "times_played": 1
-    },
-    {
-      "name": "Killer Queen",
-      "times_played": 1
-    },
-    {
-      "name": "Two Fux",
-      "times_played": 1
-    },
-    {
-      "name": "Don't Stop Me Now",
-      "times_played": 1
-    },
-    {
-      "name": "Bicycle Race",
-      "times_played": 1
-    },
-    {
-      "name": "I'm in Love With My Car",
-      "times_played": 1
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

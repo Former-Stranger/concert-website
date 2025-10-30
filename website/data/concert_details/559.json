@@ -1,0 +1,46 @@
+{
+  "id": "559",
+  "show_number": 558,
+  "date": "2014-01-14",
+  "festival_name": null,
+  "venue": "Studio 6H at 30 Rock",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Bruce Springsteen & the E Street Band",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/bruce-springsteen/2014/late-night-with-jimmy-fallon-new-york-ny-2bc5ec86.html",
+  "song_count": 3,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "High Hopes",
+      "set_name": "Late Night With Jimmy Fallon",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Havalinas"
+    },
+    {
+      "position": 2,
+      "name": "Heaven's Wall",
+      "set_name": "Late Night With Jimmy Fallon",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Just Like Fire Would",
+      "set_name": "Late Night With Jimmy Fallon",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Saints"
+    }
+  ]
+}

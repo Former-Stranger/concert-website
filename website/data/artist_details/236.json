@@ -4,44 +4,44 @@
   "concert_count": 5,
   "top_songs": [
     {
-      "name": "Bohemian Rhapsody",
-      "times_played": 2
-    },
-    {
-      "name": "Blitzkrieg Bop",
-      "times_played": 2
-    },
-    {
-      "name": "Burnout",
-      "times_played": 2
-    },
-    {
       "name": "Longview",
-      "times_played": 2
+      "times_played": 6
     },
     {
       "name": "Basket Case",
-      "times_played": 2
+      "times_played": 6
     },
     {
       "name": "She",
-      "times_played": 2
-    },
-    {
-      "name": "When I Come Around",
-      "times_played": 2
-    },
-    {
-      "name": "Know Your Enemy",
-      "times_played": 2
+      "times_played": 6
     },
     {
       "name": "Minority",
-      "times_played": 2
+      "times_played": 5
     },
     {
       "name": "American Idiot",
-      "times_played": 2
+      "times_played": 5
+    },
+    {
+      "name": "Jesus of Suburbia",
+      "times_played": 5
+    },
+    {
+      "name": "Holiday",
+      "times_played": 5
+    },
+    {
+      "name": "Boulevard of Broken Dreams",
+      "times_played": 5
+    },
+    {
+      "name": "Are We the Waiting",
+      "times_played": 5
+    },
+    {
+      "name": "St. Jimmy",
+      "times_played": 5
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -65,7 +65,7 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -77,7 +77,7 @@
       "venue": "CHI Health Center",
       "city": "Omaha",
       "state": "NE",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -89,7 +89,7 @@
       "venue": "SNHU Arena",
       "city": "Manchester",
       "state": "NH",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -101,7 +101,7 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

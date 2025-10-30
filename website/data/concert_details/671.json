@@ -16,12 +16,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/bruce-springsteen/2016/times-union-center-albany-ny-73f33219.html",
   "song_count": 34,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "Meet Me in the City",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -189,7 +189,7 @@
     {
       "position": 22,
       "name": "Badlands",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -197,7 +197,7 @@
     {
       "position": 23,
       "name": "Wrecking Ball",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -205,7 +205,7 @@
     {
       "position": 24,
       "name": "Backstreets",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -213,7 +213,7 @@
     {
       "position": 25,
       "name": "Be True",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -221,7 +221,7 @@
     {
       "position": 26,
       "name": "Because the Night",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Patti Smith Group"
@@ -229,7 +229,7 @@
     {
       "position": 27,
       "name": "The Rising",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -237,7 +237,7 @@
     {
       "position": 28,
       "name": "Thunder Road",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -245,51 +245,50 @@
     {
       "position": 29,
       "name": "Born to Run",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 30,
       "name": "Detroit Medley",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 31,
       "name": "Dancing in the Dark",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 32,
       "name": "Rosalita (Come Out Tonight)",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 33,
       "name": "Bobby Jean",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 34,
       "name": "Shout",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "The Isley Brothers"
     }
-  ],
-  "tour_name": "The River Tour 2016"
+  ]
 }

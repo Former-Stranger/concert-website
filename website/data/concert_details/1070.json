@@ -21,7 +21,7 @@
     {
       "position": 1,
       "name": "Awake My Soul",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Mumford & Sons"
@@ -29,7 +29,7 @@
     {
       "position": 2,
       "name": "The Cave",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Mumford & Sons"
@@ -37,20 +37,18 @@
     {
       "position": 3,
       "name": "Dink's Song (Fare Thee Well)",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "[traditional]",
-      "guest_artist": "Oscar Isaac"
+      "cover_artist": "[traditional]"
     },
     {
       "position": 4,
       "name": "Hang Me, Oh Hang Me",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "[traditional]",
-      "guest_artist": "Oscar Isaac"
+      "cover_artist": "[traditional]"
     },
     {
       "position": 5,
@@ -114,8 +112,7 @@
       "set_name": "(self-titled)",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Monica Martin"
+      "cover_artist": null
     },
     {
       "position": 13,
@@ -136,57 +133,50 @@
     {
       "position": 15,
       "name": "cowboy like me",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Taylor Swift",
-      "guest_artist": "The A's"
+      "cover_artist": "Taylor Swift"
     },
     {
       "position": 16,
       "name": "I Will Wait",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Mumford & Sons",
-      "guest_artist": "Ben Lovett"
+      "cover_artist": "Mumford & Sons"
     },
     {
       "position": 17,
       "name": "Ditmas",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Mumford & Sons",
-      "guest_artist": "Ben Lovett"
+      "cover_artist": "Mumford & Sons"
     },
     {
       "position": 18,
       "name": "I'm on Fire",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Bruce Springsteen",
-      "guest_artist": "Ben Lovett"
+      "cover_artist": "Bruce Springsteen"
     },
     {
       "position": 19,
       "name": "When I Get My Hands on You",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "The New Basement Tapes",
-      "guest_artist": "Taylor Goldsmith"
+      "cover_artist": "The New Basement Tapes"
     },
     {
       "position": 20,
       "name": "Kansas City",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "The New Basement Tapes",
-      "guest_artist": "Ben Lovett"
+      "cover_artist": "The New Basement Tapes"
     }
-  ],
-  "tour_name": "(self-titled)"
+  ]
 }

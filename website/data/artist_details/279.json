@@ -4,44 +4,44 @@
   "concert_count": 4,
   "top_songs": [
     {
-      "name": "Bad Reputation",
-      "times_played": 2
+      "name": "The Seeker",
+      "times_played": 4
     },
     {
-      "name": "Cherry Bomb",
-      "times_played": 2
+      "name": "Who Are You",
+      "times_played": 4
     },
     {
-      "name": "Do You Wanna Touch Me (Oh Yeah)",
-      "times_played": 2
+      "name": "The Kids Are Alright",
+      "times_played": 4
     },
     {
-      "name": "You Drive Me Wild",
-      "times_played": 2
+      "name": "I Can See for Miles",
+      "times_played": 4
     },
     {
-      "name": "Light of Day",
-      "times_played": 2
+      "name": "My Generation",
+      "times_played": 4
     },
     {
-      "name": "Love Is Pain",
-      "times_played": 2
+      "name": "Behind Blue Eyes",
+      "times_played": 4
     },
     {
-      "name": "The French Song",
-      "times_played": 2
+      "name": "Bargain",
+      "times_played": 4
     },
     {
-      "name": "Different",
-      "times_played": 2
+      "name": "Join Together",
+      "times_played": 4
     },
     {
-      "name": "I Love Rock 'n' Roll",
-      "times_played": 2
+      "name": "You Better You Bet",
+      "times_played": 4
     },
     {
-      "name": "Crimson & Clover",
-      "times_played": 2
+      "name": "I'm One",
+      "times_played": 4
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -65,7 +65,7 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },

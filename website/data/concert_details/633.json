@@ -16,7 +16,7 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/rush/2015/madison-square-garden-new-york-ny-53c953a1.html",
   "song_count": 30,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
@@ -96,8 +96,7 @@
       "set_name": "Set 1:",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Jonathan Dinklage"
+      "cover_artist": null
     },
     {
       "position": 11,
@@ -214,51 +213,50 @@
     {
       "position": 25,
       "name": "Mel's Rock Pile starring Eugene Levy",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 26,
       "name": "Lakeside Park",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 27,
       "name": "Anthem",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 28,
       "name": "What You're Doing",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 29,
       "name": "Working Man",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 30,
       "name": "Exit Stage Left",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     }
-  ],
-  "tour_name": "R40 Live: 40th Anniversary Tour"
+  ]
 }

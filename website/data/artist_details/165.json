@@ -2,7 +2,48 @@
   "id": "165",
   "name": "Def Leppard",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Rock and Roll",
+      "times_played": 1
+    },
+    {
+      "name": "Psycho Circus",
+      "times_played": 1
+    },
+    {
+      "name": "Deuce",
+      "times_played": 1
+    },
+    {
+      "name": "Shout It Out Loud",
+      "times_played": 1
+    },
+    {
+      "name": "War Machine",
+      "times_played": 1
+    },
+    {
+      "name": "Hotter Than Hell",
+      "times_played": 1
+    },
+    {
+      "name": "I Love It Loud",
+      "times_played": 1
+    },
+    {
+      "name": "Lick It Up",
+      "times_played": 1
+    },
+    {
+      "name": "Bass Solo",
+      "times_played": 1
+    },
+    {
+      "name": "God of Thunder",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "590",
@@ -12,7 +53,7 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

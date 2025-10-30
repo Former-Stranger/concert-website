@@ -1,0 +1,158 @@
+{
+  "id": "454",
+  "show_number": 453,
+  "date": "2010-11-12",
+  "festival_name": null,
+  "venue": "Stamford Center for the Arts",
+  "city": "Stamford",
+  "state": "CT",
+  "artists": [
+    {
+      "name": "Joe Bonamassa",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/joe-bonamassa/2010/palace-theater-stamford-ct-3385b071.html",
+  "song_count": 17,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Cradle Rock",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Rory Gallagher"
+    },
+    {
+      "position": 2,
+      "name": "So Many Roads, So Many Trains",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Otis Rush"
+    },
+    {
+      "position": 3,
+      "name": "When the Fire Hits the Sea",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "So, It's Like That",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "If Heartaches Were Nickels",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Kenny Neal"
+    },
+    {
+      "position": 6,
+      "name": "Slow Train",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Steal Your Heart Away",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bobby Parker"
+    },
+    {
+      "position": 8,
+      "name": "Sloe Gin",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tim Curry"
+    },
+    {
+      "position": 9,
+      "name": "The Ballad of John Henry",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Happier Times",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "Never Make Your Move Too Soon",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "B.B. King"
+    },
+    {
+      "position": 12,
+      "name": "The Great Flood",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Young Man Blues",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Mose Allison"
+    },
+    {
+      "position": 14,
+      "name": "Woke Up Dreaming",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Mountain Time",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Bird on the Wire",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Leonard Cohen"
+    },
+    {
+      "position": 17,
+      "name": "Just Got Paid",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "ZZ Top"
+    }
+  ]
+}

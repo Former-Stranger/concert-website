@@ -5,43 +5,43 @@
   "top_songs": [
     {
       "name": "Roll Me Away",
-      "times_played": 2
+      "times_played": 4
     },
     {
       "name": "The Fire Down Below",
-      "times_played": 2
+      "times_played": 4
     },
     {
       "name": "Mainstreet",
-      "times_played": 2
+      "times_played": 4
     },
     {
       "name": "Old Time Rock and Roll",
-      "times_played": 2
-    },
-    {
-      "name": "Come to Poppa",
-      "times_played": 2
-    },
-    {
-      "name": "Her Strut",
-      "times_played": 2
-    },
-    {
-      "name": "Like a Rock",
-      "times_played": 2
+      "times_played": 4
     },
     {
       "name": "Travelin' Man",
-      "times_played": 2
+      "times_played": 4
     },
     {
       "name": "Beautiful Loser",
-      "times_played": 2
+      "times_played": 4
     },
     {
       "name": "We've Got Tonite",
-      "times_played": 2
+      "times_played": 4
+    },
+    {
+      "name": "Come to Poppa",
+      "times_played": 4
+    },
+    {
+      "name": "Turn the Page",
+      "times_played": 4
+    },
+    {
+      "name": "Against the Wind",
+      "times_played": 4
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -65,7 +65,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -77,7 +77,7 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -89,7 +89,7 @@
       "venue": "Mohegan Sun Arena",
       "city": "Uncasville",
       "state": "CT",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

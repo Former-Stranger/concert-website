@@ -5,43 +5,43 @@
   "top_songs": [
     {
       "name": "Pour Me a Drink",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "I'll Name the Dogs",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Sangria",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "All About Tonight",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Neon Light",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Redneck Yacht Club",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "That's What I Love About Sunday",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "International Harvester",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "A Guy With a Girl",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Nobody But You",
-      "times_played": 1
+      "times_played": 2
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "Prudential Center",
       "city": "Newark",
       "state": "NJ",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

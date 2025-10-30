@@ -1,0 +1,226 @@
+{
+  "id": "269",
+  "show_number": 268,
+  "date": "2006-07-20",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Radio City Music Hall",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Ringo Starr & His All Starr Band (Billy Squier",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Richard Marx",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Rod Argent",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Sheila E. & Edgar Winter)",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/ringo-starr-and-his-all-starr-band/2006/radio-city-music-hall-new-york-ny-bd5dd22.html",
+  "song_count": 24,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "It Don't Come Easy",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ringo Starr"
+    },
+    {
+      "position": 2,
+      "name": "What Goes On",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Beatles"
+    },
+    {
+      "position": 3,
+      "name": "Honey Don't",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Carl Perkins"
+    },
+    {
+      "position": 4,
+      "name": "Everybody Wants You",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Squier"
+    },
+    {
+      "position": 5,
+      "name": "Free Ride",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Edgar Winter Group"
+    },
+    {
+      "position": 6,
+      "name": "A Love Bizarre",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Sheila E."
+    },
+    {
+      "position": 7,
+      "name": "Boys",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Shirelles"
+    },
+    {
+      "position": 8,
+      "name": "Don't Mean Nothing",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Richard Marx"
+    },
+    {
+      "position": 9,
+      "name": "She's Not There",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Zombies"
+    },
+    {
+      "position": 10,
+      "name": "Never Without You",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ringo Starr"
+    },
+    {
+      "position": 11,
+      "name": "Yellow Submarine",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Beatles"
+    },
+    {
+      "position": 12,
+      "name": "Time of the Season",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Zombies"
+    },
+    {
+      "position": 13,
+      "name": "Ramblin' on My Mind",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Robert Johnson"
+    },
+    {
+      "position": 14,
+      "name": "Frankenstein",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Edgar Winter Group"
+    },
+    {
+      "position": 15,
+      "name": "Photograph",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ringo Starr"
+    },
+    {
+      "position": 16,
+      "name": "Choose Love",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ringo Starr"
+    },
+    {
+      "position": 17,
+      "name": "Should've Known Better",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Richard Marx"
+    },
+    {
+      "position": 18,
+      "name": "The Glamorous Life",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Sheila E."
+    },
+    {
+      "position": 19,
+      "name": "I Wanna Be Your Man",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Beatles"
+    },
+    {
+      "position": 20,
+      "name": "Rock Me Tonite",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Billy Squier"
+    },
+    {
+      "position": 21,
+      "name": "Hold Your Head Up",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Argent"
+    },
+    {
+      "position": 22,
+      "name": "Act Naturally",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Johnny Russell"
+    },
+    {
+      "position": 23,
+      "name": "Memphis in Your Mind",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ringo Starr"
+    },
+    {
+      "position": 24,
+      "name": "With a Little Help From My Friends",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "The Beatles"
+    }
+  ]
+}

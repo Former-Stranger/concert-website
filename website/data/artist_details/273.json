@@ -2,7 +2,48 @@
   "id": "273",
   "name": "Jesse Malin",
   "concert_count": 8,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "High Lonesome",
+      "times_played": 1
+    },
+    {
+      "name": "Casanova, Baby!",
+      "times_played": 1
+    },
+    {
+      "name": "Old White Lincoln",
+      "times_played": 1
+    },
+    {
+      "name": "Even Cowgirls Get the Blues",
+      "times_played": 1
+    },
+    {
+      "name": "The '59 Sound",
+      "times_played": 1
+    },
+    {
+      "name": "We Came to Dance",
+      "times_played": 1
+    },
+    {
+      "name": "Film Noir",
+      "times_played": 1
+    },
+    {
+      "name": "Miles Davis and the Cool",
+      "times_played": 1
+    },
+    {
+      "name": "The Patient Ferris Wheel",
+      "times_played": 1
+    },
+    {
+      "name": "I'da Called You Woody, Joe",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "632",
@@ -60,7 +101,7 @@
       "venue": "City Winery",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -96,7 +137,7 @@
       "venue": "Terminal 5",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

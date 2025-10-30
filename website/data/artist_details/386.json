@@ -5,43 +5,43 @@
   "top_songs": [
     {
       "name": "Beer in Mexico",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Reality",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Til It's Gone",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Summertime",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Pirate Flag",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "No Shoes, No Shirt, No Problems",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Somewhere With You",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "I Go Back",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Anything but Mine",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Save It for a Rainy Day",
-      "times_played": 1
+      "times_played": 2
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

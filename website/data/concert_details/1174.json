@@ -21,7 +21,7 @@
     {
       "position": 1,
       "name": "Let My Love Open the Door",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Pete Townshend"
@@ -29,7 +29,7 @@
     {
       "position": 2,
       "name": "Freedom Ride",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Largo"
@@ -37,7 +37,7 @@
     {
       "position": 3,
       "name": "Who Are You",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Who"
@@ -45,7 +45,7 @@
     {
       "position": 4,
       "name": "Waiting for a Friend",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -53,7 +53,7 @@
     {
       "position": 5,
       "name": "So Sad About Us",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Who"
@@ -61,7 +61,7 @@
     {
       "position": 6,
       "name": "After the Fire",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -69,7 +69,7 @@
     {
       "position": 7,
       "name": "Days of Light",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -77,7 +77,7 @@
     {
       "position": 8,
       "name": "Giving It All Away",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Leo Sayer"
@@ -85,7 +85,7 @@
     {
       "position": 9,
       "name": "The Kids Are Alright",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Who"
@@ -93,7 +93,7 @@
     {
       "position": 10,
       "name": "Squeeze Box",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Who"
@@ -101,7 +101,7 @@
     {
       "position": 11,
       "name": "Another Tricky Day",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Who"
@@ -109,7 +109,7 @@
     {
       "position": 12,
       "name": "Love Ain't for Keepin'",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Who"
@@ -117,7 +117,7 @@
     {
       "position": 13,
       "name": "Love, Reign O'er Me",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Who"
@@ -125,7 +125,7 @@
     {
       "position": 14,
       "name": "Won't Get Fooled Again",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Who"
@@ -133,7 +133,7 @@
     {
       "position": 15,
       "name": "Water",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Who"
@@ -141,7 +141,7 @@
     {
       "position": 16,
       "name": "Going Mobile",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Who"
@@ -149,7 +149,7 @@
     {
       "position": 17,
       "name": "Real Good Looking Boy",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Who"
@@ -157,7 +157,7 @@
     {
       "position": 18,
       "name": "Born on the Bayou",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Creedence Clearwater Revival"
@@ -165,7 +165,7 @@
     {
       "position": 19,
       "name": "Have You Ever Seen the Rain?",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Creedence Clearwater Revival"
@@ -173,7 +173,7 @@
     {
       "position": 20,
       "name": "Without Your Love",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Billy Nicholls"
@@ -181,7 +181,7 @@
     {
       "position": 21,
       "name": "The Boy in the Bubble",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Paul Simon"
@@ -189,7 +189,7 @@
     {
       "position": 22,
       "name": "Baba O'Riley",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Who"
@@ -197,11 +197,10 @@
     {
       "position": 23,
       "name": "Young Man Blues",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Mose Allison"
     }
-  ],
-  "tour_name": "2024 North American Tour"
+  ]
 }

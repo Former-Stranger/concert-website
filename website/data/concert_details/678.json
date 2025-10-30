@@ -16,12 +16,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/bruce-springsteen/2016/madison-square-garden-new-york-ny-4bf07fb2.html",
   "song_count": 32,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "Meet Me in the City",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -189,7 +189,7 @@
     {
       "position": 22,
       "name": "Badlands",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -197,7 +197,7 @@
     {
       "position": 23,
       "name": "Because the Night",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Patti Smith Group"
@@ -205,7 +205,7 @@
     {
       "position": 24,
       "name": "Brilliant Disguise",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -213,7 +213,7 @@
     {
       "position": 25,
       "name": "Meeting Across the River",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -221,7 +221,7 @@
     {
       "position": 26,
       "name": "Jungleland",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -229,7 +229,7 @@
     {
       "position": 27,
       "name": "Thunder Road",
-      "set_name": "Set 3",
+      "set_name": "",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -237,43 +237,42 @@
     {
       "position": 28,
       "name": "Born to Run",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 29,
       "name": "Dancing in the Dark",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 30,
       "name": "Rosalita (Come Out Tonight)",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 31,
       "name": "Tenth Avenue Freeze-Out",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 32,
       "name": "Shout",
-      "set_name": "Set 4",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "The Isley Brothers"
     }
-  ],
-  "tour_name": "The River Tour 2016"
+  ]
 }

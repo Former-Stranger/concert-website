@@ -16,7 +16,7 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/lady-gaga/2023/dolby-live-at-park-mgm-las-vegas-nv-6ba33e4a.html",
   "song_count": 23,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
@@ -197,11 +197,10 @@
     {
       "position": 23,
       "name": "Theme From New York, New York",
-      "set_name": "Set 5",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "John Kander"
     }
-  ],
-  "tour_name": "Lady Gaga Jazz & Piano"
+  ]
 }

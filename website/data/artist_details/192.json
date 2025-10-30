@@ -2,7 +2,28 @@
   "id": "192",
   "name": "Emerson",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "From the Beginning",
+      "times_played": 1
+    },
+    {
+      "name": "I Talk to the Wind",
+      "times_played": 1
+    },
+    {
+      "name": "Tarkus",
+      "times_played": 1
+    },
+    {
+      "name": "Pirates",
+      "times_played": 1
+    },
+    {
+      "name": "Lucky Man",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "416",
@@ -12,7 +33,7 @@
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

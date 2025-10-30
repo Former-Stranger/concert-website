@@ -5,43 +5,43 @@
   "top_songs": [
     {
       "name": "Bohemian Rhapsody",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Blitzkrieg Bop",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "lntro Theme",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "The American Dream Is Killing Me",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Burnout",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Having a Blast",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Chump",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Longview",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Welcome to Paradise",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Pulling Teeth",
-      "times_played": 1
+      "times_played": 2
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

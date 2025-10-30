@@ -5,43 +5,43 @@
   "top_songs": [
     {
       "name": "If I Had a Boat",
-      "times_played": 9
+      "times_played": 15
     },
     {
       "name": "She's No Lady",
-      "times_played": 7
+      "times_played": 12
     },
     {
       "name": "My Baby Don't Tolerate",
-      "times_played": 7
-    },
-    {
-      "name": "Lift Up Every Stone",
-      "times_played": 6
+      "times_played": 11
     },
     {
       "name": "Thing Called Love",
-      "times_played": 6
+      "times_played": 10
     },
     {
       "name": "White Boy Lost in the Blues",
-      "times_played": 6
+      "times_played": 10
+    },
+    {
+      "name": "Lift Up Every Stone",
+      "times_played": 9
     },
     {
       "name": "Feels Like Rain",
-      "times_played": 6
+      "times_played": 9
     },
     {
       "name": "Master of Disaster",
-      "times_played": 6
+      "times_played": 9
     },
     {
       "name": "Crossing Muddy Waters",
-      "times_played": 6
+      "times_played": 9
     },
     {
       "name": "Perfectly Good Guitar",
-      "times_played": 6
+      "times_played": 9
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "Caramoor Center for Music and the Arts",
       "city": "Katonah",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -77,7 +77,7 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -101,7 +101,7 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -113,7 +113,7 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -149,7 +149,7 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -185,7 +185,7 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -221,7 +221,7 @@
       "venue": "Morristown Theater",
       "city": "Morristown",
       "state": "NJ",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },

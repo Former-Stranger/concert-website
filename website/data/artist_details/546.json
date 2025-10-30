@@ -2,7 +2,48 @@
   "id": "546",
   "name": "Stills",
   "concert_count": 4,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Carry On",
+      "times_played": 4
+    },
+    {
+      "name": "Almost Cut My Hair",
+      "times_played": 4
+    },
+    {
+      "name": "Helplessly Hoping",
+      "times_played": 4
+    },
+    {
+      "name": "Our House",
+      "times_played": 4
+    },
+    {
+      "name": "Guinnevere",
+      "times_played": 4
+    },
+    {
+      "name": "Rockin' in the Free World",
+      "times_played": 4
+    },
+    {
+      "name": "Southern Man",
+      "times_played": 3
+    },
+    {
+      "name": "Cinnamon Girl",
+      "times_played": 3
+    },
+    {
+      "name": "Old Man",
+      "times_played": 3
+    },
+    {
+      "name": "Teach Your Children",
+      "times_played": 3
+    }
+  ],
   "concerts": [
     {
       "id": "275",
@@ -12,7 +53,7 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -24,7 +65,7 @@
       "venue": "XL Center",
       "city": "Hartford",
       "state": "CT",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -36,7 +77,7 @@
       "venue": "XL Center",
       "city": "Hartford",
       "state": "CT",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -48,7 +89,7 @@
       "venue": "Ice Arena Tampa, FL",
       "city": "Tampa Bay",
       "state": "FL",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

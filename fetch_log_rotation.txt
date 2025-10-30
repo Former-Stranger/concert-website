@@ -1,0 +1,1494 @@
+/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/google/cloud/firestore_v1/base_collection.py:304: UserWarning: Detected filter using positional arguments. Prefer using the 'filter' keyword argument instead.
+  return query.where(field_path, op_string, value)
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1761830160.568547 6280743 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+
+================================================================================
+FETCHING MISSING SETLISTS FROM SETLIST.FM
+With Automatic API Key Rotation
+================================================================================
+
+🔑 Starting with API Key #1
+
+📊 Finding concerts without setlists...
+   Found 1119 concerts without setlists
+
+🔍 Starting setlist fetch...
+   Rate limit: 4 seconds between requests
+   Will rotate keys after 15 consecutive rate limit errors
+   Estimated time: 74.6 minutes per key
+
+⚠️  [1/1119] Concert 10: Tom Petty & the Heartbreakers - Found but no songs
+⚠️  [8/1119] Concert 1017: Colin Hay - Found but no songs
+
+📈 Progress: 10/1119 (0%)
+   Current Key: #1
+   Found: 0 | Not found: 9 | Errors: 0 | Skipped: 0
+   Key Stats: 0 successful / 9 total
+⚠️  [16/1119] Concert 1061: The Killers (w. Johnny Marr) - Found but no songs
+
+📈 Progress: 20/1119 (1%)
+   Current Key: #1
+   Found: 0 | Not found: 19 | Errors: 0 | Skipped: 0
+   Key Stats: 0 successful / 19 total
+
+📈 Progress: 30/1119 (2%)
+   Current Key: #1
+   Found: 0 | Not found: 29 | Errors: 0 | Skipped: 0
+   Key Stats: 0 successful / 29 total
+⚠️  [30/1119] Concert 1129: Melissa Etheridge - Found but no songs
+✅ [37/1119] Concert 1168: Tyler Childers - 25 songs imported (Key #1)
+✅ [38/1119] Concert 1169: John Hiatt - 20 songs imported (Key #1)
+✅ [39/1119] Concert 117: Dickey Betts Band - 12 songs imported (Key #1)
+
+📈 Progress: 40/1119 (3%)
+   Current Key: #1
+   Found: 3 | Not found: 36 | Errors: 0 | Skipped: 0
+   Key Stats: 3 successful / 39 total
+✅ [40/1119] Concert 1170: Billy Joel - 29 songs imported (Key #1)
+✅ [41/1119] Concert 1174: Roger Daltrey - 23 songs imported (Key #1)
+⚠️  [42/1119] Concert 1175: Billy Currington - Found but no songs
+✅ [45/1119] Concert 1178: Daryl Hall - 12 songs imported (Key #1)
+✅ [46/1119] Concert 1179: Foo Fighters - 14 songs imported (Key #1)
+✅ [48/1119] Concert 1180: Pat Benetar - 16 songs imported (Key #1)
+✅ [49/1119] Concert 1181: Sammy Hagar - 23 songs imported (Key #1)
+
+📈 Progress: 50/1119 (4%)
+   Current Key: #1
+   Found: 9 | Not found: 40 | Errors: 0 | Skipped: 0
+   Key Stats: 9 successful / 49 total
+✅ [50/1119] Concert 1182: Billy Joel (Final Franchise) - 28 songs imported (Key #1)
+✅ [51/1119] Concert 1183: NeedtoBreathe - 17 songs imported (Key #1)
+✅ [52/1119] Concert 1184: Green Day - 40 songs imported (Key #1)
+✅ [53/1119] Concert 1185: The Doobie Brothers - 20 songs imported (Key #1)
+✅ [54/1119] Concert 1186: Kenny Chesney - 27 songs imported (Key #1)
+✅ [55/1119] Concert 1187: Dierks Bentley - 21 songs imported (Key #1)
+✅ [56/1119] Concert 1188: Bruce Springsteen & the E Street Band - 30 songs imported (Key #1)
+✅ [57/1119] Concert 1189: Bruce Springsteen & the E Street Band - 24 songs imported (Key #1)
+✅ [58/1119] Concert 119: Tina Turner - 22 songs imported (Key #1)
+✅ [59/1119] Concert 1190: Joe Bonamassa - 14 songs imported (Key #1)
+
+📈 Progress: 60/1119 (5%)
+   Current Key: #1
+   Found: 19 | Not found: 40 | Errors: 0 | Skipped: 0
+   Key Stats: 19 successful / 59 total
+✅ [61/1119] Concert 1192: Pearl Jam - 26 songs imported (Key #1)
+✅ [62/1119] Concert 1193: Pearl Jam - 28 songs imported (Key #1)
+✅ [63/1119] Concert 1194: Pearl Jam - 25 songs imported (Key #1)
+✅ [64/1119] Concert 1195: Bruce Springsteen - 29 songs imported (Key #1)
+✅ [67/1119] Concert 1198: ELO - 20 songs imported (Key #1)
+✅ [69/1119] Concert 12: Elton John - 27 songs imported (Key #1)
+
+📈 Progress: 70/1119 (6%)
+   Current Key: #1
+   Found: 25 | Not found: 44 | Errors: 0 | Skipped: 0
+   Key Stats: 25 successful / 69 total
+✅ [70/1119] Concert 120: The Who - 19 songs imported (Key #1)
+✅ [71/1119] Concert 1200: Jelly Roll - 20 songs imported (Key #1)
+✅ [72/1119] Concert 1201: The Doobie Brothers - 25 songs imported (Key #1)
+✅ [73/1119] Concert 1202: Kings of Leon - 26 songs imported (Key #1)
+✅ [74/1119] Concert 1203: Tedeschi Trucks Band - 20 songs imported (Key #1)
+✅ [75/1119] Concert 1204: Sting - 23 songs imported (Key #1)
+✅ [76/1119] Concert 1205: Richard Thompson (Band) - 17 songs imported (Key #1)
+✅ [78/1119] Concert 1207: Sturgill Simpson - 33 songs imported (Key #1)
+
+📈 Progress: 80/1119 (7%)
+   Current Key: #1
+   Found: 33 | Not found: 46 | Errors: 0 | Skipped: 0
+   Key Stats: 33 successful / 79 total
+✅ [81/1119] Concert 121: Alice Cooper - 27 songs imported (Key #1)
+✅ [82/1119] Concert 1210: Stella Blue's Band (acoustic) - 10 songs imported (Key #1)
+✅ [84/1119] Concert 1212: David Gilmour - 25 songs imported (Key #1)
+✅ [85/1119] Concert 1213: David Gilmour - 25 songs imported (Key #1)
+✅ [88/1119] Concert 1216: The Wallflowers - 18 songs imported (Key #1)
+
+📈 Progress: 90/1119 (8%)
+   Current Key: #1
+   Found: 38 | Not found: 51 | Errors: 0 | Skipped: 0
+   Key Stats: 38 successful / 89 total
+✅ [90/1119] Concert 1218: Mac McAnally - 21 songs imported (Key #1)
+✅ [91/1119] Concert 1219: Dave Matthews Band - 20 songs imported (Key #1)
+✅ [92/1119] Concert 122: Barenaked Ladies - 27 songs imported (Key #1)
+✅ [93/1119] Concert 1220: Dave Matthews Band - 12 songs imported (Key #1)
+✅ [94/1119] Concert 1221: Empire of the Sun - 18 songs imported (Key #1)
+✅ [96/1119] Concert 1223: Creed - 16 songs imported (Key #1)
+✅ [98/1119] Concert 1225: Kip Moore - 26 songs imported (Key #1)
+✅ [99/1119] Concert 1226: Zach Bryan - 28 songs imported (Key #1)
+
+📈 Progress: 100/1119 (8%)
+   Current Key: #1
+   Found: 46 | Not found: 53 | Errors: 0 | Skipped: 0
+   Key Stats: 46 successful / 99 total
+✅ [100/1119] Concert 1227: Black Crowes - 20 songs imported (Key #1)
+✅ [101/1119] Concert 1228: Phish - 23 songs imported (Key #1)
+✅ [102/1119] Concert 1229: Govt Mule - 17 songs imported (Key #1)
+✅ [103/1119] Concert 123: Allman Brothers Band - 17 songs imported (Key #1)
+✅ [104/1119] Concert 1230: Billy Joel - 29 songs imported (Key #1)
+✅ [106/1119] Concert 1232: Joe Russo's Almost Dead - 13 songs imported (Key #1)
+✅ [107/1119] Concert 1234: Billy Gibbons - 16 songs imported (Key #1)
+✅ [108/1119] Concert 1235: Jack White - 22 songs imported (Key #1)
+
+📈 Progress: 110/1119 (9%)
+   Current Key: #1
+   Found: 54 | Not found: 55 | Errors: 0 | Skipped: 0
+   Key Stats: 54 successful / 109 total
+✅ [110/1119] Concert 1237: Jason Isbell - 18 songs imported (Key #1)
+✅ [111/1119] Concert 1238: Billy Joel - 26 songs imported (Key #1)
+✅ [112/1119] Concert 1239: Joe Bonamassa - 15 songs imported (Key #1)
+✅ [113/1119] Concert 124: ACDC - 20 songs imported (Key #1)
+⚠️  [114/1119] Concert 1240: George Thorogood - Found but no songs
+✅ [115/1119] Concert 1241: Blake Shelton (Trace Adkins - 34 songs imported (Key #1)
+✅ [116/1119] Concert 1242: Wilder Woods - 17 songs imported (Key #1)
+✅ [118/1119] Concert 1244: The Lone Bellow - 16 songs imported (Key #1)
+
+📈 Progress: 120/1119 (10%)
+   Current Key: #1
+   Found: 61 | Not found: 58 | Errors: 0 | Skipped: 0
+   Key Stats: 61 successful / 119 total
+✅ [120/1119] Concert 1246: Peter Frampton - 18 songs imported (Key #1)
+✅ [121/1119] Concert 1247: The Brothers - 12 songs imported (Key #1)
+✅ [122/1119] Concert 1248: Avett Brothers - 26 songs imported (Key #1)
+✅ [123/1119] Concert 1249: Avett Brothers - 26 songs imported (Key #1)
+✅ [125/1119] Concert 1250: Little Feat - 20 songs imported (Key #1)
+⚠️  [126/1119] Concert 1251: Roger McGuinn - Found but no songs
+✅ [127/1119] Concert 1252: Tedeschi Trucks Band - 16 songs imported (Key #1)
+✅ [128/1119] Concert 1253: Dave Matthews Band - 20 songs imported (Key #1)
+✅ [129/1119] Concert 1254: John Fogerty - 22 songs imported (Key #1)
+
+📈 Progress: 130/1119 (11%)
+   Current Key: #1
+   Found: 69 | Not found: 60 | Errors: 0 | Skipped: 0
+   Key Stats: 69 successful / 129 total
+✅ [130/1119] Concert 1255: Blues Traveler - 16 songs imported (Key #1)
+✅ [131/1119] Concert 1256: Luke Bryan - 26 songs imported (Key #1)
+✅ [132/1119] Concert 1257: Post Malone - 26 songs imported (Key #1)
+✅ [133/1119] Concert 1258: The Doobie Brothers - 19 songs imported (Key #1)
+✅ [134/1119] Concert 1259: Ringo Starr - 21 songs imported (Key #1)
+⚠️  [135/1119] Concert 126: Lynyrd Skynyrd - Found but no songs
+✅ [136/1119] Concert 1260: Keith Urban - 20 songs imported (Key #1)
+✅ [137/1119] Concert 1261: Paul Simon - 23 songs imported (Key #1)
+✅ [138/1119] Concert 1262: Chris Stapleton - 26 songs imported (Key #1)
+✅ [139/1119] Concert 1263: Mumford & Sons - 23 songs imported (Key #1)
+
+📈 Progress: 140/1119 (12%)
+   Current Key: #1
+   Found: 78 | Not found: 61 | Errors: 0 | Skipped: 0
+   Key Stats: 78 successful / 139 total
+✅ [140/1119] Concert 1264: Benmont Tench - 19 songs imported (Key #1)
+✅ [141/1119] Concert 1265: Vince Gill - 33 songs imported (Key #1)
+✅ [142/1119] Concert 1266: Weird Al - 33 songs imported (Key #1)
+✅ [143/1119] Concert 1267: Brad Paisley - 22 songs imported (Key #1)
+✅ [144/1119] Concert 1268: Zach Bryan - 25 songs imported (Key #1)
+✅ [145/1119] Concert 1269: Chris Stapleton - 27 songs imported (Key #1)
+✅ [147/1119] Concert 1270: Bob Dylan - 17 songs imported (Key #1)
+✅ [148/1119] Concert 1271: Lyle Lovett - 22 songs imported (Key #1)
+✅ [149/1119] Concert 1272: Avett Brothers - 24 songs imported (Key #1)
+
+📈 Progress: 150/1119 (13%)
+   Current Key: #1
+   Found: 87 | Not found: 62 | Errors: 0 | Skipped: 0
+   Key Stats: 87 successful / 149 total
+✅ [150/1119] Concert 1273: Avett Brothers - 25 songs imported (Key #1)
+✅ [151/1119] Concert 1274: Mumford & Sons - 22 songs imported (Key #1)
+✅ [152/1119] Concert 1275: The Doobie Brothers - 19 songs imported (Key #1)
+✅ [153/1119] Concert 1276: Third Eye Blind - 15 songs imported (Key #1)
+✅ [154/1119] Concert 128: Black Crowes - 13 songs imported (Key #1)
+✅ [155/1119] Concert 129: Dave Matthews Band - 20 songs imported (Key #1)
+⚠️  [156/1119] Concert 13: Primus - Found but no songs
+✅ [157/1119] Concert 130: Dave Matthews Band - 23 songs imported (Key #1)
+✅ [158/1119] Concert 131: Aerosmith - 23 songs imported (Key #1)
+✅ [159/1119] Concert 132: U2 - 21 songs imported (Key #1)
+
+📈 Progress: 160/1119 (14%)
+   Current Key: #1
+   Found: 96 | Not found: 63 | Errors: 0 | Skipped: 0
+   Key Stats: 96 successful / 159 total
+✅ [160/1119] Concert 133: Eric Clapton - 19 songs imported (Key #1)
+✅ [161/1119] Concert 134: Eric Clapton - 19 songs imported (Key #1)
+✅ [164/1119] Concert 137: Paul Simon - 23 songs imported (Key #1)
+✅ [165/1119] Concert 138: Stevie Nicks - 16 songs imported (Key #1)
+✅ [168/1119] Concert 140: Bon Jovi - 24 songs imported (Key #1)
+✅ [169/1119] Concert 141: Allman Brothers Band - 17 songs imported (Key #1)
+
+📈 Progress: 170/1119 (15%)
+   Current Key: #1
+   Found: 102 | Not found: 67 | Errors: 0 | Skipped: 0
+   Key Stats: 102 successful / 169 total
+✅ [170/1119] Concert 142: John Mellencamp - 17 songs imported (Key #1)
+✅ [174/1119] Concert 146: Stone Temple Pilots - 1 songs imported (Key #1)
+✅ [175/1119] Concert 147: U2 - 22 songs imported (Key #1)
+✅ [176/1119] Concert 148: Elton John - 27 songs imported (Key #1)
+✅ [178/1119] Concert 15: Allman Brothers Band - 19 songs imported (Key #1)
+⚠️  [179/1119] Concert 150: Southside Johnny - Found but no songs
+
+📈 Progress: 180/1119 (16%)
+   Current Key: #1
+   Found: 107 | Not found: 72 | Errors: 0 | Skipped: 0
+   Key Stats: 107 successful / 179 total
+✅ [180/1119] Concert 151: Elton John - 33 songs imported (Key #1)
+✅ [181/1119] Concert 152: Crosby - 29 songs imported (Key #1)
+✅ [182/1119] Concert 153: Allman Brothers Band - 18 songs imported (Key #1)
+✅ [183/1119] Concert 154: Stone Temple Pilots - 19 songs imported (Key #1)
+✅ [184/1119] Concert 155: Paul McCartney - 36 songs imported (Key #1)
+✅ [185/1119] Concert 156: Dickey Betts - 10 songs imported (Key #1)
+✅ [187/1119] Concert 158: Rush - 30 songs imported (Key #1)
+⚠️  [188/1119] Concert 159: John Mellencamp - Found but no songs
+
+📈 Progress: 190/1119 (16%)
+   Current Key: #1
+   Found: 114 | Not found: 75 | Errors: 0 | Skipped: 0
+   Key Stats: 114 successful / 189 total
+⚠️  [190/1119] Concert 160: Dave Matthews Band - Found but no songs
+✅ [191/1119] Concert 161: Creed - 18 songs imported (Key #1)
+✅ [193/1119] Concert 163: Bruce Springsteen & the E Street Band - 21 songs imported (Key #1)
+✅ [195/1119] Concert 165: Bruce Springsteen & the E Street Band - 22 songs imported (Key #1)
+✅ [196/1119] Concert 166: Allman Brothers Band - 17 songs imported (Key #1)
+✅ [197/1119] Concert 167: The Who - 21 songs imported (Key #1)
+✅ [198/1119] Concert 168: Elton John - 35 songs imported (Key #1)
+✅ [199/1119] Concert 169: The Rolling Stones - 21 songs imported (Key #1)
+
+📈 Progress: 200/1119 (17%)
+   Current Key: #1
+   Found: 121 | Not found: 78 | Errors: 0 | Skipped: 0
+   Key Stats: 121 successful / 199 total
+✅ [201/1119] Concert 170: Bruce Springsteen & the E Street Band - 24 songs imported (Key #1)
+✅ [202/1119] Concert 171: Elton John - 12 songs imported (Key #1)
+✅ [203/1119] Concert 172: Bob Dylan - 20 songs imported (Key #1)
+✅ [204/1119] Concert 173: The Other Ones - 19 songs imported (Key #1)
+✅ [205/1119] Concert 174: Guns - 18 songs imported (Key #1)
+✅ [207/1119] Concert 176: Bruce Springsteen & the E Street Band - 25 songs imported (Key #1)
+✅ [208/1119] Concert 177: Dave Matthews Band - 17 songs imported (Key #1)
+
+📈 Progress: 210/1119 (18%)
+   Current Key: #1
+   Found: 128 | Not found: 81 | Errors: 0 | Skipped: 0
+   Key Stats: 128 successful / 209 total
+✅ [210/1119] Concert 179: Guster - 18 songs imported (Key #1)
+✅ [211/1119] Concert 18: Bob Dylan - 15 songs imported (Key #1)
+✅ [212/1119] Concert 180: Pearl Jam - 28 songs imported (Key #1)
+✅ [214/1119] Concert 182: Bruce Springsteen & the E Street Band - 26 songs imported (Key #1)
+✅ [215/1119] Concert 183: Bruce Springsteen & the E Street Band - 25 songs imported (Key #1)
+✅ [216/1119] Concert 184: Bruce Springsteen & the E Street Band - 27 songs imported (Key #1)
+✅ [217/1119] Concert 185: Bruce Springsteen & the E Street Band - 24 songs imported (Key #1)
+✅ [218/1119] Concert 186: Bruce Springsteen & the E Street Band - 23 songs imported (Key #1)
+
+📈 Progress: 220/1119 (19%)
+   Current Key: #1
+   Found: 136 | Not found: 83 | Errors: 0 | Skipped: 0
+   Key Stats: 136 successful / 219 total
+✅ [220/1119] Concert 188: Bon Jovi - 26 songs imported (Key #1)
+⚠️  [222/1119] Concert 19: Bob Seger & the Silver Bullet Band - Found but no songs
+✅ [223/1119] Concert 190: KISS - 15 songs imported (Key #1)
+✅ [224/1119] Concert 191: Bruce Springsteen & the E Street Band - 23 songs imported (Key #1)
+⚠️  [225/1119] Concert 192: Mountain - Found but no songs
+✅ [226/1119] Concert 193: Dave Matthews Band - 22 songs imported (Key #1)
+✅ [227/1119] Concert 194: Fleetwood Mac - 24 songs imported (Key #1)
+✅ [228/1119] Concert 195: Bruce Springsteen & the E Street Band - 30 songs imported (Key #1)
+✅ [229/1119] Concert 196: KISS - 15 songs imported (Key #1)
+
+📈 Progress: 230/1119 (20%)
+   Current Key: #1
+   Found: 143 | Not found: 86 | Errors: 0 | Skipped: 0
+   Key Stats: 143 successful / 229 total
+✅ [230/1119] Concert 197: Bruce Springsteen - 30 songs imported (Key #1)
+✅ [232/1119] Concert 199: Barenaked Ladies - 25 songs imported (Key #1)
+⚠️  [233/1119] Concert 2: Kenny Rogers - Found but no songs
+✅ [234/1119] Concert 20: The Eagles - 28 songs imported (Key #1)
+✅ [235/1119] Concert 200: Allman Brothers Band - 20 songs imported (Key #1)
+✅ [236/1119] Concert 201: Elton John - 25 songs imported (Key #1)
+✅ [237/1119] Concert 202: The Who - 23 songs imported (Key #1)
+✅ [238/1119] Concert 203: Van Halen (Hagar) - 23 songs imported (Key #1)
+✅ [239/1119] Concert 204: Eric Clapton - 18 songs imported (Key #1)
+
+📈 Progress: 240/1119 (21%)
+   Current Key: #1
+   Found: 151 | Not found: 88 | Errors: 0 | Skipped: 0
+   Key Stats: 151 successful / 239 total
+✅ [240/1119] Concert 205: Madonna - 24 songs imported (Key #1)
+✅ [241/1119] Concert 206: Prince - 33 songs imported (Key #1)
+✅ [242/1119] Concert 207: Dave Matthews Band - 21 songs imported (Key #1)
+✅ [243/1119] Concert 208: Elton John - 24 songs imported (Key #1)
+✅ [244/1119] Concert 209: KISS - 19 songs imported (Key #1)
+✅ [245/1119] Concert 21: The Band - 2 songs imported (Key #1)
+⚠️  [246/1119] Concert 210: Crosby, Stills - Found but no songs
+✅ [247/1119] Concert 211: Allman Brothers Band - 18 songs imported (Key #1)
+✅ [248/1119] Concert 212: Cher - 26 songs imported (Key #1)
+✅ [249/1119] Concert 213: Jimmy Buffett - 28 songs imported (Key #1)
+
+📈 Progress: 250/1119 (22%)
+   Current Key: #1
+   Found: 160 | Not found: 89 | Errors: 0 | Skipped: 0
+   Key Stats: 160 successful / 249 total
+✅ [250/1119] Concert 214: Phil Collins - 25 songs imported (Key #1)
+✅ [251/1119] Concert 215: Bruce Springsteen - 19 songs imported (Key #1)
+✅ [252/1119] Concert 216: Bruce Springsteen - 21 songs imported (Key #1)
+✅ [253/1119] Concert 217: REM - 25 songs imported (Key #1)
+✅ [254/1119] Concert 218: John Fogerty - 30 songs imported (Key #1)
+⚠️  [255/1119] Concert 219: Hall & Oates - Found but no songs
+✅ [256/1119] Concert 22: Sting - 21 songs imported (Key #1)
+⚠️  [257/1119] Concert 220: Joe Cocker - Found but no songs
+✅ [259/1119] Concert 222: Allman Brothers Band - 18 songs imported (Key #1)
+
+📈 Progress: 260/1119 (23%)
+   Current Key: #1
+   Found: 167 | Not found: 92 | Errors: 0 | Skipped: 0
+   Key Stats: 167 successful / 259 total
+✅ [260/1119] Concert 223: John Mellencamp - 21 songs imported (Key #1)
+✅ [261/1119] Concert 224: The Eagles - 28 songs imported (Key #1)
+✅ [262/1119] Concert 225: Green Day - 20 songs imported (Key #1)
+✅ [263/1119] Concert 226: Green Day - 20 songs imported (Key #1)
+✅ [264/1119] Concert 227: U2 - 22 songs imported (Key #1)
+✅ [265/1119] Concert 228: Bruce Springsteen - 25 songs imported (Key #1)
+✅ [266/1119] Concert 229: U2 - 22 songs imported (Key #1)
+⚠️  [267/1119] Concert 23: Roger McGuinn - Found but no songs
+✅ [268/1119] Concert 230: John Fogerty - 28 songs imported (Key #1)
+
+📈 Progress: 270/1119 (24%)
+   Current Key: #1
+   Found: 175 | Not found: 94 | Errors: 0 | Skipped: 0
+   Key Stats: 175 successful / 269 total
+✅ [270/1119] Concert 232: Oasis - 19 songs imported (Key #1)
+✅ [271/1119] Concert 233: John Mellencamp - 18 songs imported (Key #1)
+✅ [272/1119] Concert 234: Bruce Springsteen - 27 songs imported (Key #1)
+✅ [273/1119] Concert 235: Dave Matthews Band - 18 songs imported (Key #1)
+✅ [274/1119] Concert 236: Crosby, Stills - 22 songs imported (Key #1)
+✅ [276/1119] Concert 238: The Rolling Stones - 21 songs imported (Key #1)
+✅ [277/1119] Concert 239: Paul McCartney - 37 songs imported (Key #1)
+✅ [278/1119] Concert 24: The Who - 21 songs imported (Key #1)
+✅ [279/1119] Concert 240: Paul McCartney - 37 songs imported (Key #1)
+
+📈 Progress: 280/1119 (25%)
+   Current Key: #1
+   Found: 184 | Not found: 95 | Errors: 0 | Skipped: 0
+   Key Stats: 184 successful / 279 total
+✅ [280/1119] Concert 241: Bruce Springsteen - 26 songs imported (Key #1)
+✅ [281/1119] Concert 242: Queen + Paul Rodgers - 26 songs imported (Key #1)
+✅ [282/1119] Concert 243: Cream - 20 songs imported (Key #1)
+✅ [283/1119] Concert 244: Bruce Springsteen - 26 songs imported (Key #1)
+✅ [284/1119] Concert 245: U2 - 22 songs imported (Key #1)
+✅ [286/1119] Concert 247: Dave Matthews Band - 18 songs imported (Key #1)
+⚠️  [287/1119] Concert 248: Billy Joel - Found but no songs
+⚠️  [289/1119] Concert 25: KISS - Found but no songs
+
+📈 Progress: 290/1119 (25%)
+   Current Key: #1
+   Found: 190 | Not found: 99 | Errors: 0 | Skipped: 0
+   Key Stats: 190 successful / 289 total
+✅ [291/1119] Concert 251: Billy Joel - 26 songs imported (Key #1)
+✅ [292/1119] Concert 252: Billy Joel - 25 songs imported (Key #1)
+✅ [293/1119] Concert 253: Phil Lesh - 18 songs imported (Key #1)
+✅ [295/1119] Concert 255: Queen + Paul Rodgers - 25 songs imported (Key #1)
+✅ [296/1119] Concert 256: Allman Brothers Band - 16 songs imported (Key #1)
+✅ [297/1119] Concert 257: Bob Weir & Ratdog - 21 songs imported (Key #1)
+✅ [298/1119] Concert 258: Billy Joel - 28 songs imported (Key #1)
+✅ [299/1119] Concert 259: Bruce Springsteen - 20 songs imported (Key #1)
+
+📈 Progress: 300/1119 (26%)
+   Current Key: #1
+   Found: 198 | Not found: 101 | Errors: 0 | Skipped: 0
+   Key Stats: 198 successful / 299 total
+⚠️  [300/1119] Concert 26: KISS - Found but no songs
+✅ [301/1119] Concert 260: Van Morrison - 21 songs imported (Key #1)
+✅ [302/1119] Concert 261: INXS - 20 songs imported (Key #1)
+✅ [303/1119] Concert 262: Pearl Jam - 33 songs imported (Key #1)
+✅ [304/1119] Concert 263: Tom Petty & the Heartbreakers - 21 songs imported (Key #1)
+✅ [305/1119] Concert 264: Bruce Springsteen - 21 songs imported (Key #1)
+✅ [306/1119] Concert 265: Bruce Springsteen - 23 songs imported (Key #1)
+✅ [307/1119] Concert 266: Jimmy Buffett - 27 songs imported (Key #1)
+✅ [309/1119] Concert 268: Bon Jovi - 19 songs imported (Key #1)
+
+📈 Progress: 310/1119 (27%)
+   Current Key: #1
+   Found: 206 | Not found: 103 | Errors: 0 | Skipped: 0
+   Key Stats: 206 successful / 309 total
+✅ [310/1119] Concert 269: Ringo Starr & His All Starr Band (Billy Squier - 24 songs imported (Key #1)
+✅ [312/1119] Concert 270: Elton John - 15 songs imported (Key #1)
+✅ [313/1119] Concert 271: Counting Crows - 12 songs imported (Key #1)
+✅ [314/1119] Concert 272: John Fogerty - 26 songs imported (Key #1)
+✅ [316/1119] Concert 274: Steely Dan - 16 songs imported (Key #1)
+✅ [317/1119] Concert 275: Crosby - 33 songs imported (Key #1)
+✅ [318/1119] Concert 276: Roger Waters - 27 songs imported (Key #1)
+✅ [319/1119] Concert 277: Jimmy Buffett - 28 songs imported (Key #1)
+
+📈 Progress: 320/1119 (28%)
+   Current Key: #1
+   Found: 214 | Not found: 105 | Errors: 0 | Skipped: 0
+   Key Stats: 214 successful / 319 total
+✅ [320/1119] Concert 278: The Who - 26 songs imported (Key #1)
+⚠️  [321/1119] Concert 279: Jerry Lee Lewis - Found but no songs
+⚠️  [322/1119] Concert 28: Lynyrd Skynyrd - Found but no songs
+✅ [323/1119] Concert 280: The Rolling Stones - 19 songs imported (Key #1)
+✅ [324/1119] Concert 281: Eric Clapton - 17 songs imported (Key #1)
+✅ [326/1119] Concert 283: James Blunt - 16 songs imported (Key #1)
+✅ [328/1119] Concert 285: Elton John - 25 songs imported (Key #1)
+
+📈 Progress: 330/1119 (29%)
+   Current Key: #1
+   Found: 219 | Not found: 110 | Errors: 0 | Skipped: 0
+   Key Stats: 219 successful / 329 total
+✅ [331/1119] Concert 288: The Who - 24 songs imported (Key #1)
+✅ [332/1119] Concert 289: Aerosmith - 18 songs imported (Key #1)
+⚠️  [333/1119] Concert 29: Melissa Etheridge - Found but no songs
+✅ [334/1119] Concert 290: Bob Seger & the Silver Bullet Band - 24 songs imported (Key #1)
+⚠️  [335/1119] Concert 291: Rock Star Supernova - Found but no songs
+✅ [336/1119] Concert 292: Rod Stewart - 26 songs imported (Key #1)
+✅ [338/1119] Concert 294: Allman Brothers Band - 14 songs imported (Key #1)
+✅ [339/1119] Concert 295: Elton John - 33 songs imported (Key #1)
+
+📈 Progress: 340/1119 (30%)
+   Current Key: #1
+   Found: 225 | Not found: 114 | Errors: 0 | Skipped: 0
+   Key Stats: 225 successful / 339 total
+✅ [340/1119] Concert 296: Allman Brothers Band - 14 songs imported (Key #1)
+✅ [341/1119] Concert 297: Billy Joel - 26 songs imported (Key #1)
+✅ [342/1119] Concert 298: The Killers - 21 songs imported (Key #1)
+⚠️  [344/1119] Concert 3: Diana Ross - Found but no songs
+✅ [345/1119] Concert 30: Neil Young - 15 songs imported (Key #1)
+✅ [346/1119] Concert 300: Roger Waters - 27 songs imported (Key #1)
+✅ [348/1119] Concert 302: Steely Dan - 16 songs imported (Key #1)
+⚠️  [349/1119] Concert 303: Lynyrd Skynyrd - Found but no songs
+
+📈 Progress: 350/1119 (31%)
+   Current Key: #1
+   Found: 231 | Not found: 118 | Errors: 0 | Skipped: 0
+   Key Stats: 231 successful / 349 total
+✅ [350/1119] Concert 304: Bob Dylan - 17 songs imported (Key #1)
+✅ [351/1119] Concert 305: Rush - 28 songs imported (Key #1)
+⏭️  [353/1119] Concert 307: No date
+✅ [354/1119] Concert 308: Steve Miller Band - 22 songs imported (Key #1)
+✅ [355/1119] Concert 309: The Police - 19 songs imported (Key #1)
+⚠️  [356/1119] Concert 31: Joe Cocker - Found but no songs
+✅ [357/1119] Concert 310: Black Crowes - 15 songs imported (Key #1)
+✅ [358/1119] Concert 311: Allman Brothers - 12 songs imported (Key #1)
+⚠️  [359/1119] Concert 312: Roger McGuinn - Found but no songs
+
+📈 Progress: 360/1119 (32%)
+   Current Key: #1
+   Found: 237 | Not found: 121 | Errors: 0 | Skipped: 1
+   Key Stats: 237 successful / 358 total
+✅ [360/1119] Concert 313: Genesis - 23 songs imported (Key #1)
+✅ [361/1119] Concert 314: Bruce Springsteen & the E Street Band - 21 songs imported (Key #1)
+✅ [362/1119] Concert 315: Bruce Springsteen & the E Street Band - 7 songs imported (Key #1)
+✅ [363/1119] Concert 316: Bruce Springsteen & the E Street Band - 23 songs imported (Key #1)
+✅ [364/1119] Concert 317: Jimmy Buffett - 27 songs imported (Key #1)
+✅ [365/1119] Concert 318: Bruce Springsteen & the E Street Band - 25 songs imported (Key #1)
+✅ [366/1119] Concert 319: Bruce Springsteen & the E Street Band - 23 songs imported (Key #1)
+✅ [367/1119] Concert 32: Rush - 33 songs imported (Key #1)
+✅ [368/1119] Concert 320: Bruce Springsteen & the E Street Band - 24 songs imported (Key #1)
+✅ [369/1119] Concert 321: Bon Jovi - 23 songs imported (Key #1)
+
+📈 Progress: 370/1119 (33%)
+   Current Key: #1
+   Found: 247 | Not found: 121 | Errors: 0 | Skipped: 1
+   Key Stats: 247 successful / 368 total
+✅ [370/1119] Concert 322: John Fogerty - 27 songs imported (Key #1)
+✅ [371/1119] Concert 323: Bruce Springsteen - 7 songs imported (Key #1)
+✅ [372/1119] Concert 324: Van Halen - 26 songs imported (Key #1)
+✅ [373/1119] Concert 325: Bruce Springsteen & the E Street Band - 24 songs imported (Key #1)
+✅ [374/1119] Concert 326: Stevie Wonder - 22 songs imported (Key #1)
+✅ [375/1119] Concert 327: Jethro Tull - 19 songs imported (Key #1)
+✅ [378/1119] Concert 33: KISS - 23 songs imported (Key #1)
+
+📈 Progress: 380/1119 (33%)
+   Current Key: #1
+   Found: 254 | Not found: 124 | Errors: 0 | Skipped: 1
+   Key Stats: 254 successful / 378 total
+✅ [380/1119] Concert 331: Eric Clapton - 21 songs imported (Key #1)
+✅ [381/1119] Concert 332: Bruce Springsteen & the E Street Band - 24 songs imported (Key #1)
+✅ [382/1119] Concert 333: Ratdog - 19 songs imported (Key #1)
+✅ [384/1119] Concert 335: Elton John - 18 songs imported (Key #1)
+✅ [385/1119] Concert 336: Bruce Springsteen & the E Street Band - 24 songs imported (Key #1)
+✅ [386/1119] Concert 337: Billy Joel - 20 songs imported (Key #1)
+✅ [387/1119] Concert 338: The Eagles - 21 songs imported (Key #1)
+✅ [388/1119] Concert 339: Stone Temple Pilots - 17 songs imported (Key #1)
+✅ [389/1119] Concert 34: Allman Brothers Band - 17 songs imported (Key #1)
+
+📈 Progress: 390/1119 (34%)
+   Current Key: #1
+   Found: 263 | Not found: 125 | Errors: 0 | Skipped: 1
+   Key Stats: 263 successful / 388 total
+✅ [390/1119] Concert 340: Eric Clapton - 19 songs imported (Key #1)
+✅ [391/1119] Concert 341: Robert Plant - 22 songs imported (Key #1)
+✅ [392/1119] Concert 342: Jimmy Buffett - 27 songs imported (Key #1)
+✅ [393/1119] Concert 343: Tom Petty & the Heartbreakers - 20 songs imported (Key #1)
+✅ [395/1119] Concert 345: Pearl Jam - 30 songs imported (Key #1)
+✅ [396/1119] Concert 346: The Beach Boys - 37 songs imported (Key #1)
+✅ [397/1119] Concert 347: Steve Miller Band - 22 songs imported (Key #1)
+✅ [398/1119] Concert 348: Bon Jovi - 23 songs imported (Key #1)
+✅ [399/1119] Concert 349: Billy Joel - 37 songs imported (Key #1)
+
+📈 Progress: 400/1119 (35%)
+   Current Key: #1
+   Found: 272 | Not found: 126 | Errors: 0 | Skipped: 1
+   Key Stats: 272 successful / 398 total
+✅ [400/1119] Concert 35: John Mellencamp - 12 songs imported (Key #1)
+✅ [401/1119] Concert 350: Billy Joel - 36 songs imported (Key #1)
+✅ [402/1119] Concert 351: Bruce Springsteen & the E Street Band - 30 songs imported (Key #1)
+✅ [403/1119] Concert 352: Bruce Springsteen & the E Street Band - 28 songs imported (Key #1)
+✅ [404/1119] Concert 353: Bruce Springsteen & the E Street Band - 30 songs imported (Key #1)
+✅ [407/1119] Concert 356: Neil Diamond - 26 songs imported (Key #1)
+✅ [408/1119] Concert 357: Huey Lewis - 16 songs imported (Key #1)
+✅ [409/1119] Concert 358: Jimmy Buffett - 29 songs imported (Key #1)
+
+📈 Progress: 410/1119 (36%)
+   Current Key: #1
+   Found: 280 | Not found: 128 | Errors: 0 | Skipped: 1
+   Key Stats: 280 successful / 408 total
+✅ [410/1119] Concert 359: Crosby - 2 songs imported (Key #1)
+⚠️  [411/1119] Concert 36: Ray Davies - Found but no songs
+✅ [414/1119] Concert 362: ACDC - 18 songs imported (Key #1)
+✅ [415/1119] Concert 363: Elton John - 25 songs imported (Key #1)
+⚠️  [417/1119] Concert 365: Tony Bennett - Found but no songs
+✅ [418/1119] Concert 366: Neil Young - 26 songs imported (Key #1)
+
+📈 Progress: 420/1119 (37%)
+   Current Key: #1
+   Found: 284 | Not found: 134 | Errors: 0 | Skipped: 1
+   Key Stats: 284 successful / 418 total
+✅ [421/1119] Concert 369: The Killers - 20 songs imported (Key #1)
+✅ [422/1119] Concert 37: U2 - 23 songs imported (Key #1)
+✅ [423/1119] Concert 370: John Hiatt - 23 songs imported (Key #1)
+✅ [424/1119] Concert 371: Allman Brothers Band - 18 songs imported (Key #1)
+✅ [425/1119] Concert 372: Bruce Springsteen & the E Street Band - 23 songs imported (Key #1)
+✅ [426/1119] Concert 373: Dave Matthews Band - 18 songs imported (Key #1)
+✅ [427/1119] Concert 374: Flight of the Conchords - 20 songs imported (Key #1)
+⚠️  [428/1119] Concert 375: Roger McGuinn - Found but no songs
+✅ [429/1119] Concert 376: Bruce Springsteen & the E Street Band - 26 songs imported (Key #1)
+
+📈 Progress: 430/1119 (38%)
+   Current Key: #1
+   Found: 292 | Not found: 136 | Errors: 0 | Skipped: 1
+   Key Stats: 292 successful / 428 total
+✅ [430/1119] Concert 377: The Dead - 18 songs imported (Key #1)
+✅ [431/1119] Concert 378: The Dead - 16 songs imported (Key #1)
+✅ [432/1119] Concert 379: Bruce Springsteen & the E Street Band - 27 songs imported (Key #1)
+✅ [433/1119] Concert 38: John Fogerty - 28 songs imported (Key #1)
+✅ [434/1119] Concert 380: Dickey Betts - 3 songs imported (Key #1)
+✅ [435/1119] Concert 381: Bruce Springsteen & the E Street Band - 26 songs imported (Key #1)
+✅ [436/1119] Concert 382: Bruce Springsteen & the E Street Band - 26 songs imported (Key #1)
+✅ [437/1119] Concert 383: Eric Clapton - 22 songs imported (Key #1)
+✅ [438/1119] Concert 384: Fleetwood Mac - 23 songs imported (Key #1)
+✅ [439/1119] Concert 385: Paul McCartney - 34 songs imported (Key #1)
+
+📈 Progress: 440/1119 (39%)
+   Current Key: #1
+   Found: 302 | Not found: 136 | Errors: 0 | Skipped: 1
+   Key Stats: 302 successful / 438 total
+✅ [440/1119] Concert 386: Billy Joel - 33 songs imported (Key #1)
+✅ [441/1119] Concert 387: Billy Joel - 33 songs imported (Key #1)
+✅ [442/1119] Concert 388: Creed - 17 songs imported (Key #1)
+✅ [443/1119] Concert 389: Bruce Springsteen & the E Street Band - 28 songs imported (Key #1)
+✅ [444/1119] Concert 39: Ringo Starr & His All-Starr Band (Kirke, Jack Bruce, Gary Brooker, Frampton, Rivera) - 24 songs imported (Key #1)
+✅ [447/1119] Concert 392: Kings of Leon - 21 songs imported (Key #1)
+✅ [448/1119] Concert 393: U2 - 24 songs imported (Key #1)
+✅ [449/1119] Concert 394: U2 - 24 songs imported (Key #1)
+
+📈 Progress: 450/1119 (40%)
+   Current Key: #1
+   Found: 310 | Not found: 138 | Errors: 0 | Skipped: 1
+   Key Stats: 310 successful / 448 total
+✅ [450/1119] Concert 395: Bruce Springsteen & the E Street Band - 29 songs imported (Key #1)
+✅ [451/1119] Concert 396: Bruce Springsteen & the E Street Band - 30 songs imported (Key #1)
+✅ [452/1119] Concert 397: Bruce Springsteen & the E Street Band - 29 songs imported (Key #1)
+✅ [454/1119] Concert 399: Bruce Springsteen & the E Street Band - 31 songs imported (Key #1)
+✅ [456/1119] Concert 40: Rush - 32 songs imported (Key #1)
+⚠️  [457/1119] Concert 400: KISS - Found but no songs
+✅ [458/1119] Concert 401: Gaslight Anthem - 18 songs imported (Key #1)
+⚠️  [459/1119] Concert 402: Brad Paisley - Found but no songs
+
+📈 Progress: 460/1119 (41%)
+   Current Key: #1
+   Found: 316 | Not found: 142 | Errors: 0 | Skipped: 1
+   Key Stats: 316 successful / 458 total
+⚠️  [461/1119] Concert 404: Lyle Lovett - Found but no songs
+✅ [462/1119] Concert 405: Bruce Springsteen & the E Street Band - 25 songs imported (Key #1)
+✅ [463/1119] Concert 406: Bruce Springsteen & the E Street Band - 32 songs imported (Key #1)
+⚠️  [464/1119] Concert 407: Steve Miller Band - Found but no songs
+✅ [466/1119] Concert 409: John Fogerty - 26 songs imported (Key #1)
+✅ [467/1119] Concert 41: Lynyrd Skynyrd - 15 songs imported (Key #1)
+✅ [469/1119] Concert 411: Eric Clapton - 28 songs imported (Key #1)
+
+📈 Progress: 470/1119 (42%)
+   Current Key: #1
+   Found: 321 | Not found: 147 | Errors: 0 | Skipped: 1
+   Key Stats: 321 successful / 468 total
+✅ [470/1119] Concert 412: John Mayer - 17 songs imported (Key #1)
+✅ [473/1119] Concert 415: Allman Brothers Band - 18 songs imported (Key #1)
+✅ [474/1119] Concert 416: Emerson - 5 songs imported (Key #1)
+✅ [475/1119] Concert 417: Todd Rundgren - 19 songs imported (Key #1)
+⚠️  [476/1119] Concert 418: Roger McGuinn - Found but no songs
+✅ [477/1119] Concert 419: Peter Gabriel - 25 songs imported (Key #1)
+✅ [478/1119] Concert 42: Crosby, Stills - 23 songs imported (Key #1)
+✅ [479/1119] Concert 420: Kenny Loggins - 18 songs imported (Key #1)
+
+📈 Progress: 480/1119 (42%)
+   Current Key: #1
+   Found: 328 | Not found: 150 | Errors: 0 | Skipped: 1
+   Key Stats: 328 successful / 478 total
+✅ [480/1119] Concert 421: Pearl Jam - 35 songs imported (Key #1)
+✅ [481/1119] Concert 422: Bon Jovi - 27 songs imported (Key #1)
+✅ [482/1119] Concert 423: Black Crowes - 13 songs imported (Key #1)
+✅ [483/1119] Concert 424: Gaslight Anthem - 23 songs imported (Key #1)
+✅ [484/1119] Concert 425: James Taylor - 28 songs imported (Key #1)
+✅ [485/1119] Concert 426: Phil Collins - 26 songs imported (Key #1)
+✅ [486/1119] Concert 427: Weird Al - 21 songs imported (Key #1)
+✅ [487/1119] Concert 428: Ringo Starr - 22 songs imported (Key #1)
+✅ [488/1119] Concert 429: Lady Gaga - 27 songs imported (Key #1)
+✅ [489/1119] Concert 43: Boston - 29 songs imported (Key #1)
+
+📈 Progress: 490/1119 (43%)
+   Current Key: #1
+   Found: 338 | Not found: 150 | Errors: 0 | Skipped: 1
+   Key Stats: 338 successful / 488 total
+✅ [490/1119] Concert 430: Bon Jovi - 27 songs imported (Key #1)
+⚠️  [491/1119] Concert 431: Jakob Dylan - Found but no songs
+⚠️  [495/1119] Concert 435: Harry Connick Jr. - Found but no songs
+✅ [499/1119] Concert 439: KISS - 23 songs imported (Key #1)
+
+📈 Progress: 500/1119 (44%)
+   Current Key: #1
+   Found: 340 | Not found: 158 | Errors: 0 | Skipped: 1
+   Key Stats: 340 successful / 498 total
+✅ [500/1119] Concert 44: Santana - 18 songs imported (Key #1)
+✅ [501/1119] Concert 440: Crosby, Stills and Nash - 23 songs imported (Key #1)
+✅ [503/1119] Concert 442: Jimmy Buffett - 30 songs imported (Key #1)
+✅ [504/1119] Concert 443: Keith Urban - 17 songs imported (Key #1)
+⚠️  [505/1119] Concert 444: Slash (4 Songs) - Found but no songs
+✅ [506/1119] Concert 445: Jackson Browne - 22 songs imported (Key #1)
+⚠️  [507/1119] Concert 446: Sheryl Crow - Found but no songs
+✅ [508/1119] Concert 447: Gaslight Anthem - 25 songs imported (Key #1)
+
+📈 Progress: 510/1119 (45%)
+   Current Key: #1
+   Found: 346 | Not found: 162 | Errors: 0 | Skipped: 1
+   Key Stats: 346 successful / 508 total
+✅ [510/1119] Concert 449: Roger Waters - 28 songs imported (Key #1)
+✅ [511/1119] Concert 45: ZZ Top - 17 songs imported (Key #1)
+⚠️  [512/1119] Concert 450: Ian Anderson - Found but no songs
+✅ [516/1119] Concert 454: Joe Bonamassa - 17 songs imported (Key #1)
+✅ [517/1119] Concert 455: Dave Matthews Band - 20 songs imported (Key #1)
+✅ [518/1119] Concert 456: Mumford & Sons - 16 songs imported (Key #1)
+✅ [519/1119] Concert 457: Kings of Leon - 22 songs imported (Key #1)
+
+📈 Progress: 520/1119 (46%)
+   Current Key: #1
+   Found: 352 | Not found: 166 | Errors: 0 | Skipped: 1
+   Key Stats: 352 successful / 518 total
+⚠️  [520/1119] Concert 458: The Doobie Brothers - Found but no songs
+✅ [522/1119] Concert 46: John Fogerty - 28 songs imported (Key #1)
+⚠️  [523/1119] Concert 460: Michael Buble - Found but no songs
+✅ [524/1119] Concert 461: Brandon Flowers - 14 songs imported (Key #1)
+✅ [525/1119] Concert 462: Prince - 9 songs imported (Key #1)
+✅ [527/1119] Concert 464: Dickey Betts - 8 songs imported (Key #1)
+✅ [528/1119] Concert 465: John Mellencamp - 25 songs imported (Key #1)
+✅ [529/1119] Concert 466: Jesse Malin - 1 songs imported (Key #1)
+
+📈 Progress: 530/1119 (47%)
+   Current Key: #1
+   Found: 358 | Not found: 170 | Errors: 0 | Skipped: 1
+   Key Stats: 358 successful / 528 total
+✅ [530/1119] Concert 467: Bon Jovi - 25 songs imported (Key #1)
+✅ [531/1119] Concert 468: Elton John - 26 songs imported (Key #1)
+✅ [532/1119] Concert 469: Allman Brothers Band - 16 songs imported (Key #1)
+⚠️  [533/1119] Concert 47: Steve Miller Band - Found but no songs
+✅ [534/1119] Concert 470: Elton John - 26 songs imported (Key #1)
+✅ [535/1119] Concert 471: Peter Wolf - 23 songs imported (Key #1)
+✅ [537/1119] Concert 473: Rod Stewart - 18 songs imported (Key #1)
+
+📈 Progress: 540/1119 (48%)
+   Current Key: #1
+   Found: 364 | Not found: 174 | Errors: 0 | Skipped: 1
+   Key Stats: 364 successful / 538 total
+✅ [540/1119] Concert 476: Bon Jovi - 22 songs imported (Key #1)
+✅ [541/1119] Concert 477: Warren Haynes Band - 23 songs imported (Key #1)
+✅ [542/1119] Concert 478: Chicago - 26 songs imported (Key #1)
+✅ [544/1119] Concert 48: Aerosmith - 26 songs imported (Key #1)
+✅ [545/1119] Concert 480: Kenny Loggins - 16 songs imported (Key #1)
+✅ [547/1119] Concert 482: Keith Urban - 28 songs imported (Key #1)
+✅ [548/1119] Concert 483: Paul McCartney - 20 songs imported (Key #1)
+✅ [549/1119] Concert 484: Paul McCartney - 37 songs imported (Key #1)
+
+📈 Progress: 550/1119 (49%)
+   Current Key: #1
+   Found: 372 | Not found: 176 | Errors: 0 | Skipped: 1
+   Key Stats: 372 successful / 548 total
+✅ [550/1119] Concert 485: U2 - 28 songs imported (Key #1)
+✅ [553/1119] Concert 488: Jimmy Buffett - 23 songs imported (Key #1)
+✅ [555/1119] Concert 49: Jethro Tull - 29 songs imported (Key #1)
+✅ [557/1119] Concert 491: Crosby, Stills and Nash - 24 songs imported (Key #1)
+✅ [558/1119] Concert 492: Joe Bonamassa - 22 songs imported (Key #1)
+⚠️  [559/1119] Concert 493: Joan Baez - Found but no songs
+
+📈 Progress: 560/1119 (50%)
+   Current Key: #1
+   Found: 377 | Not found: 181 | Errors: 0 | Skipped: 1
+   Key Stats: 377 successful / 558 total
+✅ [562/1119] Concert 496: Bob Seger - 21 songs imported (Key #1)
+✅ [563/1119] Concert 497: Bob Seger (guest: Bruce Springsteen) - 22 songs imported (Key #1)
+✅ [564/1119] Concert 498: Gaslight Anthem (guest: Bruce Springsteen) - 28 songs imported (Key #1)
+✅ [566/1119] Concert 5: Elton John - 34 songs imported (Key #1)
+✅ [567/1119] Concert 50: The Rolling Stones - 22 songs imported (Key #1)
+⚠️  [568/1119] Concert 500: Lyle Lovett - Found but no songs
+✅ [569/1119] Concert 501: Peter Frampton - 26 songs imported (Key #1)
+
+📈 Progress: 570/1119 (50%)
+   Current Key: #1
+   Found: 383 | Not found: 185 | Errors: 0 | Skipped: 1
+   Key Stats: 383 successful / 568 total
+✅ [570/1119] Concert 502: Van Halen - 24 songs imported (Key #1)
+✅ [571/1119] Concert 503: Noel Gallagher's High Flying Birds - 20 songs imported (Key #1)
+✅ [572/1119] Concert 504: Bruce Springsteen - 25 songs imported (Key #1)
+✅ [573/1119] Concert 505: Bruce Springsteen - 25 songs imported (Key #1)
+✅ [574/1119] Concert 506: Steel Panther - 15 songs imported (Key #1)
+✅ [575/1119] Concert 507: Bruce Springsteen - 26 songs imported (Key #1)
+✅ [576/1119] Concert 508: Brad Paisley - 22 songs imported (Key #1)
+✅ [577/1119] Concert 509: Dave Matthews Band - 22 songs imported (Key #1)
+✅ [578/1119] Concert 51: 311 - 22 songs imported (Key #1)
+
+📈 Progress: 580/1119 (51%)
+   Current Key: #1
+   Found: 392 | Not found: 186 | Errors: 0 | Skipped: 1
+   Key Stats: 392 successful / 578 total
+✅ [581/1119] Concert 512: Mumford & Sons - 17 songs imported (Key #1)
+✅ [583/1119] Concert 514: Bruce Springsteen - 28 songs imported (Key #1)
+✅ [584/1119] Concert 515: Jimmy Buffett - 26 songs imported (Key #1)
+✅ [585/1119] Concert 516: Bruce Springsteen - 34 songs imported (Key #1)
+✅ [586/1119] Concert 517: Bruce Springsteen - 33 songs imported (Key #1)
+✅ [587/1119] Concert 518: Bruce Springsteen - 28 songs imported (Key #1)
+✅ [588/1119] Concert 519: Bruce Springsteen - 33 songs imported (Key #1)
+
+📈 Progress: 590/1119 (52%)
+   Current Key: #1
+   Found: 399 | Not found: 189 | Errors: 0 | Skipped: 1
+   Key Stats: 399 successful / 588 total
+⚠️  [591/1119] Concert 521: John Hiatt - Found but no songs
+✅ [594/1119] Concert 524: Crosby, Stills and Nash - 24 songs imported (Key #1)
+✅ [595/1119] Concert 525: Ryan Bingham - 15 songs imported (Key #1)
+✅ [596/1119] Concert 526: Bruce Springsteen - 26 songs imported (Key #1)
+✅ [598/1119] Concert 528: John Hiatt - 15 songs imported (Key #1)
+✅ [599/1119] Concert 529: Dave Matthews Band - 23 songs imported (Key #1)
+
+📈 Progress: 600/1119 (53%)
+   Current Key: #1
+   Found: 404 | Not found: 194 | Errors: 0 | Skipped: 1
+   Key Stats: 404 successful / 598 total
+✅ [600/1119] Concert 53: George Thorogood - 15 songs imported (Key #1)
+✅ [601/1119] Concert 530: Bruce Springsteen - 4 songs imported (Key #1)
+⚠️  [603/1119] Concert 532: Bernie Williams - Found but no songs
+✅ [604/1119] Concert 533: Mumford & Sons - 17 songs imported (Key #1)
+✅ [605/1119] Concert 534: Bob Seger - 20 songs imported (Key #1)
+✅ [606/1119] Concert 535: Tom Petty - 21 songs imported (Key #1)
+✅ [607/1119] Concert 536: Paul McCartney - 15 songs imported (Key #1)
+✅ [608/1119] Concert 537: ZZ Top - 19 songs imported (Key #1)
+✅ [609/1119] Concert 538: Joe Bonamassa - 16 songs imported (Key #1)
+
+📈 Progress: 610/1119 (54%)
+   Current Key: #1
+   Found: 412 | Not found: 196 | Errors: 0 | Skipped: 1
+   Key Stats: 412 successful / 608 total
+✅ [611/1119] Concert 54: Bob Dylan - 15 songs imported (Key #1)
+✅ [612/1119] Concert 540: Brad Paisley - 21 songs imported (Key #1)
+✅ [613/1119] Concert 541: Weird Al Yankovic - 17 songs imported (Key #1)
+✅ [614/1119] Concert 542: Rush - 29 songs imported (Key #1)
+✅ [615/1119] Concert 543: Melissa Etheridge - 16 songs imported (Key #1)
+✅ [616/1119] Concert 544: Bob Dylan - 16 songs imported (Key #1)
+✅ [617/1119] Concert 545: Lyle Lovett - 31 songs imported (Key #1)
+✅ [619/1119] Concert 547: Bon Jovi - 26 songs imported (Key #1)
+
+📈 Progress: 620/1119 (55%)
+   Current Key: #1
+   Found: 420 | Not found: 198 | Errors: 0 | Skipped: 1
+   Key Stats: 420 successful / 618 total
+✅ [620/1119] Concert 548: OAR - 25 songs imported (Key #1)
+✅ [621/1119] Concert 549: John Hiatt - 18 songs imported (Key #1)
+✅ [623/1119] Concert 550: Kenny Chesney - 23 songs imported (Key #1)
+✅ [624/1119] Concert 551: Jimmy Buffett - 4 songs imported (Key #1)
+✅ [625/1119] Concert 552: Jimmy Buffett - 28 songs imported (Key #1)
+⚠️  [626/1119] Concert 553: Will Hoge - Found but no songs
+✅ [627/1119] Concert 554: Pearl Jam - 34 songs imported (Key #1)
+✅ [628/1119] Concert 555: Elton John - 27 songs imported (Key #1)
+✅ [629/1119] Concert 556: Rod Stewart - 21 songs imported (Key #1)
+
+📈 Progress: 630/1119 (56%)
+   Current Key: #1
+   Found: 428 | Not found: 200 | Errors: 0 | Skipped: 1
+   Key Stats: 428 successful / 628 total
+⚠️  [630/1119] Concert 557: Bryan Adams - Found but no songs
+✅ [631/1119] Concert 558: Billy Joel - 28 songs imported (Key #1)
+✅ [632/1119] Concert 559: Bruce Springsteen & the E Street Band - 3 songs imported (Key #1)
+✅ [633/1119] Concert 56: Billy Joel - 30 songs imported (Key #1)
+⚠️  [635/1119] Concert 561: Lyle Lovett - Found but no songs
+✅ [636/1119] Concert 562: Billy Joel - 23 songs imported (Key #1)
+✅ [637/1119] Concert 563: Keith Urban - 29 songs imported (Key #1)
+⚠️  [638/1119] Concert 564: Steve Earle - Found but no songs
+✅ [639/1119] Concert 565: Billy Joel - 21 songs imported (Key #1)
+
+📈 Progress: 640/1119 (57%)
+   Current Key: #1
+   Found: 434 | Not found: 204 | Errors: 0 | Skipped: 1
+   Key Stats: 434 successful / 638 total
+✅ [640/1119] Concert 566: Kings of Leon - 27 songs imported (Key #1)
+✅ [641/1119] Concert 567: Sting - 33 songs imported (Key #1)
+✅ [644/1119] Concert 57: Billy Joel - 24 songs imported (Key #1)
+✅ [645/1119] Concert 570: Billy Joel - 24 songs imported (Key #1)
+✅ [646/1119] Concert 571: Lady Gaga - 13 songs imported (Key #1)
+✅ [647/1119] Concert 572: Bruce Springsteen - 3 songs imported (Key #1)
+✅ [648/1119] Concert 573: Billy Joel - 23 songs imported (Key #1)
+✅ [649/1119] Concert 574: Bruce Springsteen & the E Street Band - 27 songs imported (Key #1)
+
+📈 Progress: 650/1119 (58%)
+   Current Key: #1
+   Found: 442 | Not found: 206 | Errors: 0 | Skipped: 1
+   Key Stats: 442 successful / 648 total
+✅ [650/1119] Concert 575: Bruce Springsteen & the E Street Band - 30 songs imported (Key #1)
+✅ [651/1119] Concert 576: Bruce Springsteen & the E Street Band - 27 songs imported (Key #1)
+✅ [652/1119] Concert 577: Barry Gibb - 28 songs imported (Key #1)
+✅ [653/1119] Concert 578: Willie Nelson - 23 songs imported (Key #1)
+✅ [655/1119] Concert 58: Billy Joel - 21 songs imported (Key #1)
+✅ [656/1119] Concert 580: Billy Joel - 24 songs imported (Key #1)
+✅ [657/1119] Concert 581: Lionel Richie - 23 songs imported (Key #1)
+✅ [659/1119] Concert 583: Billy Joel - 25 songs imported (Key #1)
+
+📈 Progress: 660/1119 (58%)
+   Current Key: #1
+   Found: 450 | Not found: 208 | Errors: 0 | Skipped: 1
+   Key Stats: 450 successful / 658 total
+⚠️  [660/1119] Concert 584: John Hiatt - Found but no songs
+✅ [661/1119] Concert 585: Paul McCartney - 41 songs imported (Key #1)
+✅ [662/1119] Concert 586: Aerosmith - 18 songs imported (Key #1)
+✅ [663/1119] Concert 587: Queen + Adam Lambert - 27 songs imported (Key #1)
+✅ [664/1119] Concert 588: Keith Urban - 10 songs imported (Key #1)
+✅ [665/1119] Concert 589: John Fogerty - 26 songs imported (Key #1)
+✅ [666/1119] Concert 59: Allman Brothers Band - 19 songs imported (Key #1)
+✅ [667/1119] Concert 590: KISS - 17 songs imported (Key #1)
+✅ [668/1119] Concert 591: Keith Urban - 24 songs imported (Key #1)
+✅ [669/1119] Concert 592: Jimmy Buffett - 28 songs imported (Key #1)
+
+📈 Progress: 670/1119 (59%)
+   Current Key: #1
+   Found: 459 | Not found: 209 | Errors: 0 | Skipped: 1
+   Key Stats: 459 successful / 668 total
+⚠️  [670/1119] Concert 593: Lyle Lovett - Found but no songs
+✅ [671/1119] Concert 594: Tom Petty & the Heartbreakers - 20 songs imported (Key #1)
+✅ [672/1119] Concert 595: Tom Petty & the Heartbreakers - 18 songs imported (Key #1)
+✅ [673/1119] Concert 596: Luke Bryan - 19 songs imported (Key #1)
+✅ [674/1119] Concert 597: Billy Joel - 26 songs imported (Key #1)
+✅ [675/1119] Concert 598: The Eagles - 28 songs imported (Key #1)
+✅ [676/1119] Concert 599: John Hiatt - 22 songs imported (Key #1)
+✅ [677/1119] Concert 6: The Rolling Stones - 24 songs imported (Key #1)
+✅ [678/1119] Concert 60: Eric Clapton - 17 songs imported (Key #1)
+
+📈 Progress: 680/1119 (60%)
+   Current Key: #1
+   Found: 467 | Not found: 211 | Errors: 0 | Skipped: 1
+   Key Stats: 467 successful / 678 total
+⚠️  [680/1119] Concert 601: Steve Earle - Found but no songs
+✅ [681/1119] Concert 602: Fleetwood Mac - 24 songs imported (Key #1)
+✅ [682/1119] Concert 603: Fleetwood Mac - 4 songs imported (Key #1)
+✅ [683/1119] Concert 604: John Hiatt - 23 songs imported (Key #1)
+✅ [684/1119] Concert 605: Eric Church - 26 songs imported (Key #1)
+✅ [686/1119] Concert 607: Chris Young - 19 songs imported (Key #1)
+✅ [687/1119] Concert 608: Billy Joel - 24 songs imported (Key #1)
+
+📈 Progress: 690/1119 (61%)
+   Current Key: #1
+   Found: 473 | Not found: 215 | Errors: 0 | Skipped: 1
+   Key Stats: 473 successful / 688 total
+✅ [690/1119] Concert 610: James Taylor - 25 songs imported (Key #1)
+✅ [691/1119] Concert 611: Billy Joel - 24 songs imported (Key #1)
+✅ [692/1119] Concert 612: Bob Seger - 21 songs imported (Key #1)
+✅ [693/1119] Concert 613: Elton John - 24 songs imported (Key #1)
+✅ [694/1119] Concert 614: Billy Joel - 25 songs imported (Key #1)
+✅ [695/1119] Concert 615: Mumford & Sons - 11 songs imported (Key #1)
+✅ [697/1119] Concert 617: John Mellencamp - 21 songs imported (Key #1)
+✅ [698/1119] Concert 618: Steve Winwood - 11 songs imported (Key #1)
+
+📈 Progress: 700/1119 (62%)
+   Current Key: #1
+   Found: 481 | Not found: 217 | Errors: 0 | Skipped: 1
+   Key Stats: 481 successful / 698 total
+✅ [700/1119] Concert 62: Elton John - 26 songs imported (Key #1)
+✅ [701/1119] Concert 620: John Hiatt - 20 songs imported (Key #1)
+✅ [702/1119] Concert 621: Eric Church - 26 songs imported (Key #1)
+✅ [703/1119] Concert 622: Eric Clapton (70th Birthday bash) - 17 songs imported (Key #1)
+✅ [705/1119] Concert 624: The Who - 21 songs imported (Key #1)
+✅ [706/1119] Concert 625: Billy Joel - 29 songs imported (Key #1)
+✅ [708/1119] Concert 627: Will Hoge - 24 songs imported (Key #1)
+✅ [709/1119] Concert 628: Amos Lee - 15 songs imported (Key #1)
+
+📈 Progress: 710/1119 (63%)
+   Current Key: #1
+   Found: 489 | Not found: 219 | Errors: 0 | Skipped: 1
+   Key Stats: 489 successful / 708 total
+✅ [710/1119] Concert 629: Billy Joel - 26 songs imported (Key #1)
+✅ [711/1119] Concert 63: Elton John - 27 songs imported (Key #1)
+✅ [712/1119] Concert 630: Bryan Adams - 26 songs imported (Key #1)
+✅ [713/1119] Concert 631: John Fogerty - 24 songs imported (Key #1)
+✅ [715/1119] Concert 633: Rush - 30 songs imported (Key #1)
+✅ [716/1119] Concert 634: Shania Twain - 23 songs imported (Key #1)
+✅ [717/1119] Concert 635: Billy Joel - 24 songs imported (Key #1)
+✅ [718/1119] Concert 636: U2 - 26 songs imported (Key #1)
+✅ [719/1119] Concert 637: U2 - 25 songs imported (Key #1)
+
+📈 Progress: 720/1119 (64%)
+   Current Key: #1
+   Found: 498 | Not found: 220 | Errors: 0 | Skipped: 1
+   Key Stats: 498 successful / 718 total
+✅ [720/1119] Concert 638: U2 - 26 songs imported (Key #1)
+✅ [723/1119] Concert 640: Billy Joel - 31 songs imported (Key #1)
+✅ [724/1119] Concert 641: Keith Urban - 5 songs imported (Key #1)
+⚠️  [725/1119] Concert 642: Lyle Lovett - Found but no songs
+✅ [726/1119] Concert 643: Van Halen - 25 songs imported (Key #1)
+✅ [727/1119] Concert 644: Will Hoge - 1 songs imported (Key #1)
+✅ [728/1119] Concert 645: Kenny Chesney - 24 songs imported (Key #1)
+✅ [729/1119] Concert 646: Jimmy Buffett - 24 songs imported (Key #1)
+
+📈 Progress: 730/1119 (65%)
+   Current Key: #1
+   Found: 505 | Not found: 223 | Errors: 0 | Skipped: 1
+   Key Stats: 505 successful / 728 total
+✅ [730/1119] Concert 647: Zac Brown Band - 24 songs imported (Key #1)
+✅ [731/1119] Concert 648: ACDC - 21 songs imported (Key #1)
+⚠️  [732/1119] Concert 649: John Hiatt - Found but no songs
+✅ [733/1119] Concert 65: Dave Matthews Band - 19 songs imported (Key #1)
+✅ [735/1119] Concert 651: Steven Tyler - 13 songs imported (Key #1)
+✅ [736/1119] Concert 652: Jackson Browne - 20 songs imported (Key #1)
+✅ [737/1119] Concert 653: Robert Plant - 14 songs imported (Key #1)
+✅ [738/1119] Concert 654: The Doobie Brothers - 17 songs imported (Key #1)
+✅ [739/1119] Concert 655: Steve Earle - 28 songs imported (Key #1)
+
+📈 Progress: 740/1119 (66%)
+   Current Key: #1
+   Found: 513 | Not found: 225 | Errors: 0 | Skipped: 1
+   Key Stats: 513 successful / 738 total
+✅ [742/1119] Concert 658: Stevie Wonder - 25 songs imported (Key #1)
+✅ [743/1119] Concert 659: Dead & Company - 18 songs imported (Key #1)
+✅ [744/1119] Concert 66: John Fogerty - 29 songs imported (Key #1)
+✅ [745/1119] Concert 660: Dead & Company - 17 songs imported (Key #1)
+✅ [746/1119] Concert 661: Don Henley (w. Shawn Colvin) - 22 songs imported (Key #1)
+✅ [748/1119] Concert 663: Billy Joel - 26 songs imported (Key #1)
+✅ [749/1119] Concert 664: Jeff Lynne's ELO - 18 songs imported (Key #1)
+
+📈 Progress: 750/1119 (67%)
+   Current Key: #1
+   Found: 520 | Not found: 228 | Errors: 0 | Skipped: 1
+   Key Stats: 520 successful / 748 total
+✅ [751/1119] Concert 666: Jimmy Buffett - 27 songs imported (Key #1)
+✅ [752/1119] Concert 667: Billy Joel - 25 songs imported (Key #1)
+✅ [753/1119] Concert 668: Joe Bonamassa - 16 songs imported (Key #1)
+✅ [754/1119] Concert 669: Bruce Springsteen & the E Street Band - 32 songs imported (Key #1)
+✅ [756/1119] Concert 670: Bruce Springsteen & the E Street Band - 33 songs imported (Key #1)
+✅ [757/1119] Concert 671: Bruce Springsteen & the E Street Band - 34 songs imported (Key #1)
+✅ [758/1119] Concert 672: Bruce Springsteen & the E Street Band - 33 songs imported (Key #1)
+✅ [759/1119] Concert 673: Bruce Springsteen & the E Street Band - 33 songs imported (Key #1)
+
+📈 Progress: 760/1119 (67%)
+   Current Key: #1
+   Found: 528 | Not found: 230 | Errors: 0 | Skipped: 1
+   Key Stats: 528 successful / 758 total
+✅ [760/1119] Concert 674: Billy Joel - 28 songs imported (Key #1)
+✅ [761/1119] Concert 675: Garth Brooks w. Trisha Yearwood - 41 songs imported (Key #1)
+✅ [762/1119] Concert 676: Elton John - 8 songs imported (Key #1)
+✅ [763/1119] Concert 677: The Who - 21 songs imported (Key #1)
+✅ [764/1119] Concert 678: Bruce Springsteen & the E Street Band - 32 songs imported (Key #1)
+✅ [766/1119] Concert 68: Page - 18 songs imported (Key #1)
+✅ [768/1119] Concert 681: Avett Brothers - 23 songs imported (Key #1)
+✅ [769/1119] Concert 682: David Gilmour - 22 songs imported (Key #1)
+
+📈 Progress: 770/1119 (68%)
+   Current Key: #1
+   Found: 536 | Not found: 232 | Errors: 0 | Skipped: 1
+   Key Stats: 536 successful / 768 total
+✅ [770/1119] Concert 683: David Gilmour - 22 songs imported (Key #1)
+✅ [771/1119] Concert 684: Billy Joel - 22 songs imported (Key #1)
+✅ [772/1119] Concert 685: Huey Lewis  The News - 18 songs imported (Key #1)
+✅ [773/1119] Concert 686: Steely Dan - 19 songs imported (Key #1)
+✅ [774/1119] Concert 687: Bruce Springsteen & the E Street Band - 35 songs imported (Key #1)
+✅ [775/1119] Concert 688: Bruce Springsteen & the E Street Band - 36 songs imported (Key #1)
+⚠️  [777/1119] Concert 69: Lynyrd Skynyrd - Found but no songs
+✅ [778/1119] Concert 690: Pearl Jam - 36 songs imported (Key #1)
+✅ [779/1119] Concert 691: Pearl Jam - 32 songs imported (Key #1)
+
+📈 Progress: 780/1119 (69%)
+   Current Key: #1
+   Found: 544 | Not found: 234 | Errors: 0 | Skipped: 1
+   Key Stats: 544 successful / 778 total
+✅ [780/1119] Concert 692: Keith Urban - 14 songs imported (Key #1)
+⚠️  [781/1119] Concert 693: Jerry Seinfeld - Found but no songs
+✅ [782/1119] Concert 694: John Hiatt - 18 songs imported (Key #1)
+✅ [783/1119] Concert 695: Phil Lesh - 14 songs imported (Key #1)
+✅ [784/1119] Concert 696: Mudcrutch - 22 songs imported (Key #1)
+✅ [785/1119] Concert 697: Bad Company - 14 songs imported (Key #1)
+✅ [786/1119] Concert 698: Mudcrutch - 20 songs imported (Key #1)
+✅ [787/1119] Concert 699: Hall & Oates - 14 songs imported (Key #1)
+✅ [788/1119] Concert 7: Green Day - 18 songs imported (Key #1)
+
+📈 Progress: 790/1119 (70%)
+   Current Key: #1
+   Found: 552 | Not found: 236 | Errors: 0 | Skipped: 1
+   Key Stats: 552 successful / 788 total
+✅ [790/1119] Concert 700: Mumford & Sons - 19 songs imported (Key #1)
+✅ [791/1119] Concert 701: Dead & Company - 19 songs imported (Key #1)
+✅ [792/1119] Concert 702: Dead & Company - 18 songs imported (Key #1)
+✅ [793/1119] Concert 703: Garth Brooks - 21 songs imported (Key #1)
+✅ [794/1119] Concert 704: Garth Brooks - 26 songs imported (Key #1)
+✅ [795/1119] Concert 705: Keith Urban - 23 songs imported (Key #1)
+✅ [796/1119] Concert 706: Billy Joel - 26 songs imported (Key #1)
+✅ [797/1119] Concert 707: Guns - 6 songs imported (Key #1)
+✅ [798/1119] Concert 708: Brad Paisley - 23 songs imported (Key #1)
+✅ [799/1119] Concert 709: Paul McCartney - 15 songs imported (Key #1)
+
+📈 Progress: 800/1119 (71%)
+   Current Key: #1
+   Found: 562 | Not found: 236 | Errors: 0 | Skipped: 1
+   Key Stats: 562 successful / 798 total
+✅ [800/1119] Concert 71: Pearl Jam - 23 songs imported (Key #1)
+✅ [803/1119] Concert 712: Will Hoge - 17 songs imported (Key #1)
+✅ [804/1119] Concert 713: Zac Brown Band - 21 songs imported (Key #1)
+✅ [805/1119] Concert 714: Kenny Chesney - 21 songs imported (Key #1)
+✅ [806/1119] Concert 715: Bruce Springsteen & the E Street Band - 35 songs imported (Key #1)
+✅ [807/1119] Concert 716: Jimmy Buffett - 25 songs imported (Key #1)
+✅ [808/1119] Concert 717: Bruce Springsteen & the E Street Band - 34 songs imported (Key #1)
+✅ [809/1119] Concert 718: Bruce Springsteen & the E Street Band - 34 songs imported (Key #1)
+
+📈 Progress: 810/1119 (72%)
+   Current Key: #1
+   Found: 570 | Not found: 238 | Errors: 0 | Skipped: 1
+   Key Stats: 570 successful / 808 total
+✅ [810/1119] Concert 719: Bruce Springsteen & the E Street Band - 33 songs imported (Key #1)
+✅ [811/1119] Concert 72: Gov't Mule - 20 songs imported (Key #1)
+✅ [812/1119] Concert 720: Bruce Springsteen & the E Street Band - 33 songs imported (Key #1)
+✅ [813/1119] Concert 721: ELO - 18 songs imported (Key #1)
+⚠️  [814/1119] Concert 722: Donovan - Found but no songs
+✅ [815/1119] Concert 723: Adele - 7 songs imported (Key #1)
+✅ [816/1119] Concert 724: Brian Fallon - 18 songs imported (Key #1)
+✅ [817/1119] Concert 725: Weird Al - 32 songs imported (Key #1)
+
+📈 Progress: 820/1119 (73%)
+   Current Key: #1
+   Found: 577 | Not found: 241 | Errors: 0 | Skipped: 1
+   Key Stats: 577 successful / 818 total
+✅ [820/1119] Concert 728: Billy Joel - 28 songs imported (Key #1)
+✅ [822/1119] Concert 73: Aerosmith - 24 songs imported (Key #1)
+✅ [823/1119] Concert 730: Temple of the Dog - 25 songs imported (Key #1)
+✅ [824/1119] Concert 731: Rascal Flatts - 12 songs imported (Key #1)
+✅ [825/1119] Concert 732: Keith Urban - 27 songs imported (Key #1)
+✅ [826/1119] Concert 733: Joe Bonamassa - 15 songs imported (Key #1)
+✅ [828/1119] Concert 735: Billy Joel - 26 songs imported (Key #1)
+✅ [829/1119] Concert 736: Kip Moore - 21 songs imported (Key #1)
+
+📈 Progress: 830/1119 (74%)
+   Current Key: #1
+   Found: 585 | Not found: 243 | Errors: 0 | Skipped: 1
+   Key Stats: 585 successful / 828 total
+✅ [830/1119] Concert 737: Steve Earle - 12 songs imported (Key #1)
+✅ [832/1119] Concert 739: Kings of Leon - 26 songs imported (Key #1)
+✅ [833/1119] Concert 74: Elton John - 24 songs imported (Key #1)
+✅ [835/1119] Concert 741: Eric Church - 40 songs imported (Key #1)
+✅ [838/1119] Concert 744: Ryan Adams - 22 songs imported (Key #1)
+✅ [839/1119] Concert 745: Billy Joel - 25 songs imported (Key #1)
+
+📈 Progress: 840/1119 (75%)
+   Current Key: #1
+   Found: 591 | Not found: 247 | Errors: 0 | Skipped: 1
+   Key Stats: 591 successful / 838 total
+✅ [840/1119] Concert 746: Billy Joel - 26 songs imported (Key #1)
+⚠️  [841/1119] Concert 747: Garth Brooks - Found but no songs
+✅ [842/1119] Concert 748: Green Day - 31 songs imported (Key #1)
+✅ [843/1119] Concert 749: Eric Clapton - 15 songs imported (Key #1)
+✅ [844/1119] Concert 75: KISS - 24 songs imported (Key #1)
+✅ [845/1119] Concert 750: Billy Joel - 32 songs imported (Key #1)
+✅ [847/1119] Concert 752: Bon Jovi - 24 songs imported (Key #1)
+⚠️  [849/1119] Concert 754: Garry Tallent - Found but no songs
+
+📈 Progress: 850/1119 (75%)
+   Current Key: #1
+   Found: 597 | Not found: 251 | Errors: 0 | Skipped: 1
+   Key Stats: 597 successful / 848 total
+✅ [850/1119] Concert 755: Avett Brothers - 27 songs imported (Key #1)
+✅ [851/1119] Concert 756: Metallica - 21 songs imported (Key #1)
+✅ [853/1119] Concert 758: Bob Dylan - 20 songs imported (Key #1)
+✅ [854/1119] Concert 759: Tom Petty - 23 songs imported (Key #1)
+✅ [855/1119] Concert 76: KISS - 22 songs imported (Key #1)
+✅ [856/1119] Concert 760: Neil Diamond - 28 songs imported (Key #1)
+✅ [857/1119] Concert 761: Huey Lewis  The News - 16 songs imported (Key #1)
+✅ [858/1119] Concert 762: Dead & Company - 18 songs imported (Key #1)
+✅ [859/1119] Concert 763: U2 - 23 songs imported (Key #1)
+
+📈 Progress: 860/1119 (76%)
+   Current Key: #1
+   Found: 606 | Not found: 252 | Errors: 0 | Skipped: 1
+   Key Stats: 606 successful / 858 total
+✅ [860/1119] Concert 764: Tom Petty - 19 songs imported (Key #1)
+✅ [861/1119] Concert 765: Billy Joel - 26 songs imported (Key #1)
+✅ [862/1119] Concert 766: John Mellencamp - 18 songs imported (Key #1)
+✅ [863/1119] Concert 767: Chris Stapleton - 21 songs imported (Key #1)
+✅ [864/1119] Concert 768: Tom Petty - 18 songs imported (Key #1)
+✅ [865/1119] Concert 769: Tom Petty - 18 songs imported (Key #1)
+✅ [866/1119] Concert 77: Billy Joel - 21 songs imported (Key #1)
+✅ [867/1119] Concert 770: Queen - 6 songs imported (Key #1)
+
+📈 Progress: 870/1119 (77%)
+   Current Key: #1
+   Found: 614 | Not found: 254 | Errors: 0 | Skipped: 1
+   Key Stats: 614 successful / 868 total
+✅ [870/1119] Concert 773: Brad Paisley - 25 songs imported (Key #1)
+✅ [871/1119] Concert 774: Lyle Lovett - 26 songs imported (Key #1)
+✅ [872/1119] Concert 775: Buckingham/McVie - 19 songs imported (Key #1)
+✅ [873/1119] Concert 776: Kenny Chesney - 21 songs imported (Key #1)
+✅ [874/1119] Concert 777: Jimmy Buffett - 26 songs imported (Key #1)
+✅ [875/1119] Concert 778: Billy Joel - 29 songs imported (Key #1)
+⚠️  [876/1119] Concert 779: Jason Aldean - Found but no songs
+✅ [877/1119] Concert 78: Jimmy Buffett - 30 songs imported (Key #1)
+✅ [878/1119] Concert 780: Kenny Chesney - 3 songs imported (Key #1)
+✅ [879/1119] Concert 781: Lady Gaga - 29 songs imported (Key #1)
+
+📈 Progress: 880/1119 (78%)
+   Current Key: #1
+   Found: 623 | Not found: 255 | Errors: 0 | Skipped: 1
+   Key Stats: 623 successful / 878 total
+⚠️  [880/1119] Concert 782: Eric Clapton - Found but no songs
+✅ [882/1119] Concert 784: Sturgill Simpson - 17 songs imported (Key #1)
+✅ [883/1119] Concert 785: Paul McCartney - 11 songs imported (Key #1)
+✅ [884/1119] Concert 786: Roger Waters - 25 songs imported (Key #1)
+✅ [885/1119] Concert 787: Paul McCartney - 13 songs imported (Key #1)
+✅ [886/1119] Concert 788: Paul McCartney - 40 songs imported (Key #1)
+✅ [888/1119] Concert 79: Black Crowes - 21 songs imported (Key #1)
+✅ [889/1119] Concert 790: Joe Bonamassa - 14 songs imported (Key #1)
+
+📈 Progress: 890/1119 (79%)
+   Current Key: #1
+   Found: 630 | Not found: 258 | Errors: 0 | Skipped: 1
+   Key Stats: 630 successful / 888 total
+✅ [890/1119] Concert 791: Little Steven - 23 songs imported (Key #1)
+⚠️  [892/1119] Concert 793: Guns - Found but no songs
+✅ [893/1119] Concert 794: Guns - 33 songs imported (Key #1)
+✅ [894/1119] Concert 795: Bruce Springsteen - 15 songs imported (Key #1)
+✅ [895/1119] Concert 796: Billy Joel - 31 songs imported (Key #1)
+✅ [896/1119] Concert 797: John Hiatt - 24 songs imported (Key #1)
+✅ [897/1119] Concert 798: Dead & Company - 19 songs imported (Key #1)
+✅ [898/1119] Concert 799: Ringo Starr - 24 songs imported (Key #1)
+⚠️  [899/1119] Concert 8: Joe Cocker - Found but no songs
+
+📈 Progress: 900/1119 (80%)
+   Current Key: #1
+   Found: 637 | Not found: 261 | Errors: 0 | Skipped: 1
+   Key Stats: 637 successful / 898 total
+✅ [901/1119] Concert 800: Bruce Springsteen - 15 songs imported (Key #1)
+✅ [902/1119] Concert 801: Bob Dylan - 20 songs imported (Key #1)
+✅ [903/1119] Concert 802: Garth Brooks w. Trisha Yearwood - 28 songs imported (Key #1)
+✅ [904/1119] Concert 803: Garth Brooks w. Trisha Yearwood - 38 songs imported (Key #1)
+✅ [905/1119] Concert 804: Barry Manilow - 25 songs imported (Key #1)
+✅ [907/1119] Concert 806: Billy Joel - 26 songs imported (Key #1)
+✅ [908/1119] Concert 807: Willie Nile - 16 songs imported (Key #1)
+✅ [909/1119] Concert 808: The Killers - 22 songs imported (Key #1)
+
+📈 Progress: 910/1119 (81%)
+   Current Key: #1
+   Found: 645 | Not found: 263 | Errors: 0 | Skipped: 1
+   Key Stats: 645 successful / 908 total
+✅ [910/1119] Concert 809: Bruce Springsteen - 15 songs imported (Key #1)
+✅ [911/1119] Concert 81: Allman Brothers Band - 18 songs imported (Key #1)
+✅ [915/1119] Concert 813: Billy Joel - 27 songs imported (Key #1)
+✅ [916/1119] Concert 814: Blues Traveler - 19 songs imported (Key #1)
+✅ [917/1119] Concert 815: Weird Al Yankovic - 18 songs imported (Key #1)
+⚠️  [918/1119] Concert 816: Bobby - Found but no songs
+⚠️  [919/1119] Concert 817: Bobby - Found but no songs
+
+📈 Progress: 920/1119 (82%)
+   Current Key: #1
+   Found: 650 | Not found: 268 | Errors: 0 | Skipped: 1
+   Key Stats: 650 successful / 918 total
+⚠️  [920/1119] Concert 818: Lyle Lovett - Found but no songs
+✅ [921/1119] Concert 819: Weird Al Yankovic - 20 songs imported (Key #1)
+✅ [922/1119] Concert 82: Tom Petty & the Heartbreakers - 29 songs imported (Key #1)
+✅ [923/1119] Concert 820: Billy Joel - 26 songs imported (Key #1)
+✅ [924/1119] Concert 821: Steve Earle - 24 songs imported (Key #1)
+⚠️  [925/1119] Concert 822: Ryan Bingham (Acoustic) - Found but no songs
+✅ [926/1119] Concert 823: As the Crow Flies (Chris Robinson) - 16 songs imported (Key #1)
+✅ [927/1119] Concert 824: Govt Mule - 22 songs imported (Key #1)
+✅ [928/1119] Concert 825: Little Steven - 22 songs imported (Key #1)
+✅ [929/1119] Concert 826: Bon Jovi - 23 songs imported (Key #1)
+
+📈 Progress: 930/1119 (83%)
+   Current Key: #1
+   Found: 658 | Not found: 270 | Errors: 0 | Skipped: 1
+   Key Stats: 658 successful / 928 total
+✅ [930/1119] Concert 827: Bon Jovi - 23 songs imported (Key #1)
+✅ [931/1119] Concert 828: Bruce Springsteen - 15 songs imported (Key #1)
+✅ [932/1119] Concert 829: Billy Joel - 28 songs imported (Key #1)
+✅ [933/1119] Concert 83: Tom Petty & the Heartbreakers - 30 songs imported (Key #1)
+✅ [934/1119] Concert 830: Luke Bryan - 23 songs imported (Key #1)
+✅ [935/1119] Concert 831: Kenny Chesney - 25 songs imported (Key #1)
+✅ [937/1119] Concert 833: Dead & Company - 18 songs imported (Key #1)
+✅ [938/1119] Concert 834: Dead & Company - 19 songs imported (Key #1)
+✅ [939/1119] Concert 835: U2 - 29 songs imported (Key #1)
+
+📈 Progress: 940/1119 (84%)
+   Current Key: #1
+   Found: 667 | Not found: 271 | Errors: 0 | Skipped: 1
+   Key Stats: 667 successful / 938 total
+✅ [940/1119] Concert 836: U2 - 29 songs imported (Key #1)
+✅ [942/1119] Concert 838: U2 - 29 songs imported (Key #1)
+✅ [943/1119] Concert 839: U2 - 29 songs imported (Key #1)
+✅ [944/1119] Concert 84: Billy Joel - 28 songs imported (Key #1)
+✅ [945/1119] Concert 840: Govt Mule - 17 songs imported (Key #1)
+✅ [947/1119] Concert 842: Foo Fighters - 22 songs imported (Key #1)
+✅ [948/1119] Concert 843: Billy Joel (with Bruce Springsteen) - 26 songs imported (Key #1)
+✅ [949/1119] Concert 844: Zac Brown Band - 23 songs imported (Key #1)
+
+📈 Progress: 950/1119 (84%)
+   Current Key: #1
+   Found: 675 | Not found: 273 | Errors: 0 | Skipped: 1
+   Key Stats: 675 successful / 948 total
+✅ [950/1119] Concert 845: Keith Urban - 4 songs imported (Key #1)
+✅ [951/1119] Concert 846: Jimmy Buffett - 28 songs imported (Key #1)
+✅ [952/1119] Concert 847: Rod Stewart - 19 songs imported (Key #1)
+✅ [953/1119] Concert 848: Brad Paisley - 24 songs imported (Key #1)
+✅ [954/1119] Concert 849: Jason Aldean - 24 songs imported (Key #1)
+✅ [955/1119] Concert 85: Dave Matthews Band - 18 songs imported (Key #1)
+✅ [956/1119] Concert 850: Jeff Beck - 17 songs imported (Key #1)
+✅ [957/1119] Concert 851: Aerosmith - 2 songs imported (Key #1)
+✅ [958/1119] Concert 852: The Beach Boys - 35 songs imported (Key #1)
+✅ [959/1119] Concert 853: Kenny Chesney - 24 songs imported (Key #1)
+
+📈 Progress: 960/1119 (85%)
+   Current Key: #1
+   Found: 685 | Not found: 273 | Errors: 0 | Skipped: 1
+   Key Stats: 685 successful / 958 total
+✅ [960/1119] Concert 854: ELO - 19 songs imported (Key #1)
+✅ [961/1119] Concert 855: Billy Joel - 25 songs imported (Key #1)
+✅ [962/1119] Concert 856: Bruce Springsteen - 15 songs imported (Key #1)
+✅ [963/1119] Concert 857: Glenn Hughes - 10 songs imported (Key #1)
+✅ [964/1119] Concert 858: Pearl Jam - 31 songs imported (Key #1)
+✅ [965/1119] Concert 859: Dierks Bentley - 19 songs imported (Key #1)
+✅ [966/1119] Concert 86: Tom Petty & the Heartbreakers - 22 songs imported (Key #1)
+✅ [967/1119] Concert 860: Ringo Starr - 24 songs imported (Key #1)
+✅ [968/1119] Concert 861: Amos Lee - 14 songs imported (Key #1)
+✅ [969/1119] Concert 862: Chicago - 31 songs imported (Key #1)
+
+📈 Progress: 970/1119 (86%)
+   Current Key: #1
+   Found: 695 | Not found: 273 | Errors: 0 | Skipped: 1
+   Key Stats: 695 successful / 968 total
+✅ [970/1119] Concert 863: Paul Simon - 26 songs imported (Key #1)
+✅ [971/1119] Concert 864: Kip Moore - 20 songs imported (Key #1)
+✅ [973/1119] Concert 866: Will Hoge - 22 songs imported (Key #1)
+✅ [974/1119] Concert 867: Bruce Springsteen - 15 songs imported (Key #1)
+✅ [975/1119] Concert 868: Billy Joel - 26 songs imported (Key #1)
+✅ [976/1119] Concert 869: Willie Nile - 22 songs imported (Key #1)
+✅ [977/1119] Concert 87: Tom Petty & the Heartbreakers - 21 songs imported (Key #1)
+✅ [978/1119] Concert 870: Eric Clapton - 14 songs imported (Key #1)
+✅ [979/1119] Concert 871: Elton John - 24 songs imported (Key #1)
+
+📈 Progress: 980/1119 (87%)
+   Current Key: #1
+   Found: 704 | Not found: 274 | Errors: 0 | Skipped: 1
+   Key Stats: 704 successful / 978 total
+✅ [980/1119] Concert 872: The Eagles - 26 songs imported (Key #1)
+✅ [981/1119] Concert 873: Phil Collins - 21 songs imported (Key #1)
+✅ [982/1119] Concert 874: Elton John - 24 songs imported (Key #1)
+✅ [983/1119] Concert 875: Avett Brothers - 25 songs imported (Key #1)
+✅ [984/1119] Concert 876: Keith Urban - 30 songs imported (Key #1)
+✅ [985/1119] Concert 877: John Hiatt - 26 songs imported (Key #1)
+✅ [986/1119] Concert 878: John Hiatt - 26 songs imported (Key #1)
+✅ [987/1119] Concert 879: Chris Stapleton - 21 songs imported (Key #1)
+✅ [988/1119] Concert 88: Bruce Springsteen & the E Street Band - 26 songs imported (Key #1)
+
+📈 Progress: 990/1119 (88%)
+   Current Key: #1
+   Found: 713 | Not found: 275 | Errors: 0 | Skipped: 1
+   Key Stats: 713 successful / 988 total
+✅ [990/1119] Concert 881: Elton John - 24 songs imported (Key #1)
+✅ [991/1119] Concert 882: Bob Weir - 17 songs imported (Key #1)
+✅ [992/1119] Concert 883: Bob Weir - 16 songs imported (Key #1)
+✅ [993/1119] Concert 884: Bob Dylan - 20 songs imported (Key #1)
+✅ [994/1119] Concert 885: Dave Matthews Band - 20 songs imported (Key #1)
+✅ [995/1119] Concert 886: Brian Wilson - 26 songs imported (Key #1)
+✅ [996/1119] Concert 887: Lindsey Buckingham - 20 songs imported (Key #1)
+✅ [997/1119] Concert 888: Mumford & Sons - 20 songs imported (Key #1)
+✅ [998/1119] Concert 889: Bruce Springsteen - 15 songs imported (Key #1)
+✅ [999/1119] Concert 89: Bruce Springsteen & the E Street Band - 23 songs imported (Key #1)
+
+📈 Progress: 1000/1119 (89%)
+   Current Key: #1
+   Found: 723 | Not found: 275 | Errors: 0 | Skipped: 1
+   Key Stats: 723 successful / 998 total
+✅ [1001/1119] Concert 891: As the Crow Flies (Chris Robinson) - 15 songs imported (Key #1)
+✅ [1002/1119] Concert 892: Billy Joel - 28 songs imported (Key #1)
+✅ [1004/1119] Concert 894: Dawes - 23 songs imported (Key #1)
+✅ [1005/1119] Concert 895: Billy Joel - 29 songs imported (Key #1)
+✅ [1006/1119] Concert 896: John Hiatt - 21 songs imported (Key #1)
+✅ [1007/1119] Concert 897: John Mellencamp - 21 songs imported (Key #1)
+✅ [1008/1119] Concert 898: Bob Weir - 18 songs imported (Key #1)
+✅ [1009/1119] Concert 899: Elton John - 25 songs imported (Key #1)
+
+📈 Progress: 1010/1119 (90%)
+   Current Key: #1
+   Found: 731 | Not found: 277 | Errors: 0 | Skipped: 1
+   Key Stats: 731 successful / 1008 total
+✅ [1010/1119] Concert 9: REM - 2 songs imported (Key #1)
+⚠️  [1011/1119] Concert 90: Willie Nelson - Found but no songs
+✅ [1012/1119] Concert 900: Fleetwood Mac - 21 songs imported (Key #1)
+✅ [1013/1119] Concert 901: KISS - 25 songs imported (Key #1)
+✅ [1014/1119] Concert 902: Joe Bonamassa - 16 songs imported (Key #1)
+✅ [1015/1119] Concert 903: KISS - 25 songs imported (Key #1)
+✅ [1016/1119] Concert 904: Rock - 14 songs imported (Key #1)
+✅ [1018/1119] Concert 906: The Record Company - 16 songs imported (Key #1)
+
+📈 Progress: 1020/1119 (91%)
+   Current Key: #1
+   Found: 738 | Not found: 280 | Errors: 0 | Skipped: 1
+   Key Stats: 738 successful / 1018 total
+✅ [1020/1119] Concert 908: Billy Joel - 25 songs imported (Key #1)
+✅ [1021/1119] Concert 909: Roger McGuinn - 25 songs imported (Key #1)
+⚠️  [1023/1119] Concert 910: Ryan Bingham - Found but no songs
+✅ [1024/1119] Concert 911: John Hiatt - 21 songs imported (Key #1)
+✅ [1025/1119] Concert 912: Kip Moore - 26 songs imported (Key #1)
+✅ [1026/1119] Concert 913: Richard Thompson - 21 songs imported (Key #1)
+✅ [1027/1119] Concert 914: The Who - 24 songs imported (Key #1)
+✅ [1028/1119] Concert 915: Bob Seger - 23 songs imported (Key #1)
+⚠️  [1029/1119] Concert 916: Tim McGraw (w. John Meachum) - Found but no songs
+
+📈 Progress: 1030/1119 (92%)
+   Current Key: #1
+   Found: 745 | Not found: 283 | Errors: 0 | Skipped: 1
+   Key Stats: 745 successful / 1028 total
+✅ [1030/1119] Concert 917: YES - 12 songs imported (Key #1)
+✅ [1031/1119] Concert 918: Dead & Company - 18 songs imported (Key #1)
+✅ [1032/1119] Concert 919: Jackson Browne - 20 songs imported (Key #1)
+✅ [1033/1119] Concert 92: Paul Simon - 17 songs imported (Key #1)
+✅ [1034/1119] Concert 920: Richard Thompson - 23 songs imported (Key #1)
+✅ [1035/1119] Concert 921: ELO - 21 songs imported (Key #1)
+⚠️  [1036/1119] Concert 922: Lionel Richie - Found but no songs
+✅ [1037/1119] Concert 923: Weird Al Yankovic - 26 songs imported (Key #1)
+✅ [1038/1119] Concert 924: Sheryl Crow - 11 songs imported (Key #1)
+⚠️  [1039/1119] Concert 925: Lyle Lovett - Found but no songs
+
+📈 Progress: 1040/1119 (92%)
+   Current Key: #1
+   Found: 753 | Not found: 285 | Errors: 0 | Skipped: 1
+   Key Stats: 753 successful / 1038 total
+✅ [1040/1119] Concert 926: The Rolling Stones - 20 songs imported (Key #1)
+✅ [1041/1119] Concert 927: Dierks Bentley - 21 songs imported (Key #1)
+✅ [1042/1119] Concert 928: The Rolling Stones - 20 songs imported (Key #1)
+✅ [1043/1119] Concert 929: Queen + Adam Lambert - 33 songs imported (Key #1)
+✅ [1044/1119] Concert 93: Roger Waters - 28 songs imported (Key #1)
+✅ [1045/1119] Concert 930: Jimmy Buffett - 29 songs imported (Key #1)
+✅ [1046/1119] Concert 931: Hootie - 24 songs imported (Key #1)
+✅ [1047/1119] Concert 932: Govt Mule - 16 songs imported (Key #1)
+✅ [1048/1119] Concert 933: John Fogerty - 25 songs imported (Key #1)
+⚠️  [1049/1119] Concert 934: Barry Manilow - Found but no songs
+
+📈 Progress: 1050/1119 (93%)
+   Current Key: #1
+   Found: 762 | Not found: 286 | Errors: 0 | Skipped: 1
+   Key Stats: 762 successful / 1048 total
+✅ [1051/1119] Concert 936: KISS - 25 songs imported (Key #1)
+✅ [1052/1119] Concert 937: Zac Brown Band - 27 songs imported (Key #1)
+✅ [1054/1119] Concert 939: The Who (w. Orchestra) - 24 songs imported (Key #1)
+✅ [1055/1119] Concert 94: Dave Matthews Band - 18 songs imported (Key #1)
+✅ [1056/1119] Concert 940: Jason Aldean - 23 songs imported (Key #1)
+✅ [1057/1119] Concert 941: Peter Frampton - 16 songs imported (Key #1)
+⚠️  [1058/1119] Concert 942: Travis Tritt - Found but no songs
+✅ [1059/1119] Concert 943: Tom Morello - 8 songs imported (Key #1)
+
+📈 Progress: 1060/1119 (94%)
+   Current Key: #1
+   Found: 769 | Not found: 289 | Errors: 0 | Skipped: 1
+   Key Stats: 769 successful / 1058 total
+✅ [1060/1119] Concert 944: Mark Knopfler - 17 songs imported (Key #1)
+✅ [1061/1119] Concert 945: Billy Joel - 26 songs imported (Key #1)
+✅ [1062/1119] Concert 946: Avett Brothers - 22 songs imported (Key #1)
+✅ [1063/1119] Concert 947: Phil Collins - 20 songs imported (Key #1)
+✅ [1064/1119] Concert 948: Phil Collins - 20 songs imported (Key #1)
+✅ [1065/1119] Concert 949: Kip Moore - 24 songs imported (Key #1)
+⚠️  [1066/1119] Concert 95: Lynyrd Skynyrd - Found but no songs
+✅ [1069/1119] Concert 952: Bob Seger & the Silver Bullet Band - 24 songs imported (Key #1)
+
+📈 Progress: 1070/1119 (95%)
+   Current Key: #1
+   Found: 776 | Not found: 292 | Errors: 0 | Skipped: 1
+   Key Stats: 776 successful / 1068 total
+✅ [1070/1119] Concert 953: Dead & Company - 18 songs imported (Key #1)
+✅ [1071/1119] Concert 954: Blues Traveler - 17 songs imported (Key #1)
+✅ [1072/1119] Concert 955: Eric Church - 31 songs imported (Key #1)
+✅ [1074/1119] Concert 957: Dead & Company - 19 songs imported (Key #1)
+✅ [1075/1119] Concert 958: Little Steven (Peter Wolf) - 25 songs imported (Key #1)
+✅ [1076/1119] Concert 959: Dwight Yoakam - 1 songs imported (Key #1)
+✅ [1078/1119] Concert 960: Joe Bonamassa - 1 songs imported (Key #1)
+✅ [1079/1119] Concert 961: Elton John - 25 songs imported (Key #1)
+
+📈 Progress: 1080/1119 (96%)
+   Current Key: #1
+   Found: 784 | Not found: 294 | Errors: 0 | Skipped: 1
+   Key Stats: 784 successful / 1078 total
+✅ [1080/1119] Concert 962: Keith Urban - 18 songs imported (Key #1)
+✅ [1081/1119] Concert 963: Doobie Brothers (Peter Wolf) - 19 songs imported (Key #1)
+✅ [1082/1119] Concert 964: Bob Dylan - 19 songs imported (Key #1)
+✅ [1084/1119] Concert 966: Billy Joel - 27 songs imported (Key #1)
+⚠️  [1085/1119] Concert 967: Andrea Bocelli - Found but no songs
+✅ [1086/1119] Concert 968: Richard Thompson - 22 songs imported (Key #1)
+⚠️  [1087/1119] Concert 969: The Eagles - Found but no songs
+✅ [1088/1119] Concert 97: Billy Joel - 36 songs imported (Key #1)
+
+📈 Progress: 1090/1119 (97%)
+   Current Key: #1
+   Found: 790 | Not found: 298 | Errors: 0 | Skipped: 1
+   Key Stats: 790 successful / 1088 total
+⚠️  [1090/1119] Concert 971: Graham Nash - Found but no songs
+✅ [1091/1119] Concert 972: The Brothers - 24 songs imported (Key #1)
+✅ [1092/1119] Concert 973: Bruce Springsteen - 15 songs imported (Key #1)
+✅ [1093/1119] Concert 974: Tedeschi Trucks Band - 16 songs imported (Key #1)
+✅ [1094/1119] Concert 975: Bruce Springsteen - 15 songs imported (Key #1)
+✅ [1095/1119] Concert 976: Black Crowes - 20 songs imported (Key #1)
+✅ [1096/1119] Concert 977: Guns - 23 songs imported (Key #1)
+✅ [1097/1119] Concert 978: Jason Aldean - 22 songs imported (Key #1)
+✅ [1098/1119] Concert 979: Jimmy Buffett - 26 songs imported (Key #1)
+✅ [1099/1119] Concert 98: Crosby - 30 songs imported (Key #1)
+
+📈 Progress: 1100/1119 (98%)
+   Current Key: #1
+   Found: 799 | Not found: 299 | Errors: 0 | Skipped: 1
+   Key Stats: 799 successful / 1098 total
+✅ [1100/1119] Concert 980: Luke Bryan - 22 songs imported (Key #1)
+✅ [1101/1119] Concert 981: Kings of Leon - 26 songs imported (Key #1)
+✅ [1102/1119] Concert 983: Zac Brown Band - 23 songs imported (Key #1)
+✅ [1103/1119] Concert 984: Zac Brown Band - 24 songs imported (Key #1)
+✅ [1104/1119] Concert 985: Sheryl Crow - 21 songs imported (Key #1)
+✅ [1105/1119] Concert 986: Lindsey Buckingham - 20 songs imported (Key #1)
+✅ [1106/1119] Concert 987: Foo Fighters - 20 songs imported (Key #1)
+⏭️  [1109/1119] Concert 99: No date
+
+📈 Progress: 1110/1119 (99%)
+   Current Key: #1
+   Found: 806 | Not found: 301 | Errors: 0 | Skipped: 2
+   Key Stats: 806 successful / 1107 total
+✅ [1112/1119] Concert 992: Brian Wilson - 29 songs imported (Key #1)
+✅ [1113/1119] Concert 993: Chris Stapleton - 23 songs imported (Key #1)
+✅ [1115/1119] Concert 995: Will Hoge - 13 songs imported (Key #1)
+✅ [1116/1119] Concert 996: Billy Joel - 25 songs imported (Key #1)
+✅ [1118/1119] Concert 998: The Wallflowers - 20 songs imported (Key #1)
+✅ [1119/1119] Concert 999: Jason Isbell + 400 Unit - 19 songs imported (Key #1)
+
+================================================================================
+✅ FETCH COMPLETE
+================================================================================
+
+Processed: 1119 concerts
+  ✅ Successfully imported: 812
+  ❌ Not found on setlist.fm: 305
+  ⚠️  Errors: 0
+  ⏭️  Skipped: 2
+  📊 Updated 812 setlists in Firestore
+
+🔑 API Key Usage:
+   Key #1: 1117 requests, 812 successful (OK)
+   Key #2: 0 requests, 0 successful (OK)
+   Key #3: 0 requests, 0 successful (OK)
+
+🎉 Imported 812 new setlists!
+
+Next steps:
+  1. Run: python3 scripts/export_to_web.py
+  2. Deploy: firebase deploy --only hosting

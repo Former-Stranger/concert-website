@@ -20,6 +20,152 @@
   "photo_count": 0,
   "setlists": [
     {
+      "artist_id": null,
+      "artist_name": null,
+      "artist_role": "headliner",
+      "setlistfm_url": "https://www.setlist.fm/setlist/mark-knopfler/2019/madison-square-garden-new-york-ny-39c2dbf.html",
+      "song_count": 17,
+      "has_encore": true,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Why Aye Man",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Corned Beef City",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Sailing to Philadelphia",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Once Upon a Time in the West",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Dire Straits"
+        },
+        {
+          "position": 5,
+          "name": "Romeo and Juliet",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Dire Straits"
+        },
+        {
+          "position": 6,
+          "name": "My Bacon Roll",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Matchstick Man",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "Done With Bonaparte",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 9,
+          "name": "Heart Full of Holes",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "She's Gone",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "Your Latest Trick",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Dire Straits"
+        },
+        {
+          "position": 12,
+          "name": "Postcards From Paraguay",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 13,
+          "name": "On Every Street",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Dire Straits"
+        },
+        {
+          "position": 14,
+          "name": "Speedway at Nazareth",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 15,
+          "name": "Money for Nothing",
+          "set_name": "Main Set",
+          "encore": 1,
+          "is_cover": true,
+          "cover_artist": "Dire Straits"
+        },
+        {
+          "position": 16,
+          "name": "Wherever I Go",
+          "set_name": "Main Set",
+          "encore": 2,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 17,
+          "name": "Going Home: Theme of the Local Hero",
+          "set_name": "Main Set",
+          "encore": 2,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ]
+    },
+    {
       "artist_id": "74",
       "artist_name": "Bonnie Raitt",
       "artist_role": "festival_performer",
@@ -258,7 +404,7 @@
       "tour_name": "Down the Road Wherever"
     }
   ],
-  "total_song_count": 27,
-  "has_encore": false,
+  "total_song_count": 44,
+  "has_encore": true,
   "tour_name": "Down the Road Wherever"
 }

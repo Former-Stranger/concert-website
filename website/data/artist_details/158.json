@@ -5,43 +5,43 @@
   "top_songs": [
     {
       "name": "Windows Are Rolled Down",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Tricksters, Hucksters, and Scamps",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Bottom of the Barrel",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Keep It Loose, Keep It Tight",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Chill in the Air",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Arms of a Woman",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Violin",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Zombie",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Mountains of Sorrow",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Jesus",
-      "times_played": 1
+      "times_played": 2
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

@@ -16,12 +16,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/richard-thompson/2024/the-emelin-theatre-mamaroneck-ny-63ad7e93.html",
   "song_count": 20,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "I Misunderstood",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -29,7 +29,7 @@
     {
       "position": 2,
       "name": "The Poor Ditching Boy",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -37,7 +37,7 @@
     {
       "position": 3,
       "name": "The Ghost of You Walks",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -45,7 +45,7 @@
     {
       "position": 4,
       "name": "Turning of the Tide",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -53,7 +53,7 @@
     {
       "position": 5,
       "name": "Pharaoh",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -61,7 +61,7 @@
     {
       "position": 6,
       "name": "1952 Vincent Black Lightning",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -69,7 +69,7 @@
     {
       "position": 7,
       "name": "Walking the Long Miles Home",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -77,7 +77,7 @@
     {
       "position": 8,
       "name": "If I Could Live My Life Again",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -85,7 +85,7 @@
     {
       "position": 9,
       "name": "I Feel So Good",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -93,7 +93,7 @@
     {
       "position": 10,
       "name": "The Great Valerio",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Richard & Linda Thompson"
@@ -101,92 +101,82 @@
     {
       "position": 11,
       "name": "Hokey Pokey (The Ice Cream Song)",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Richard & Linda Thompson",
-      "guest_artist": "Zara Phillips"
+      "cover_artist": "Richard & Linda Thompson"
     },
     {
       "position": 12,
       "name": "Singapore Sadie",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Zara Phillips"
+      "cover_artist": null
     },
     {
       "position": 13,
       "name": "The Old Pack Mule",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Zara Phillips"
+      "cover_artist": null
     },
     {
       "position": 14,
       "name": "My Enemy",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Zara Phillips"
+      "cover_artist": null
     },
     {
       "position": 15,
       "name": "She Twists the Knife Again",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Zara Phillips"
+      "cover_artist": null
     },
     {
       "position": 16,
       "name": "Word Unspoken, Sight Unseen",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Zara Phillips"
+      "cover_artist": null
     },
     {
       "position": 17,
       "name": "Wall of Death",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Richard & Linda Thompson",
-      "guest_artist": "Zara Phillips"
+      "cover_artist": "Richard & Linda Thompson"
     },
     {
       "position": 18,
       "name": "Beeswing",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 19,
       "name": "The Day That I Give In",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 2,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Zara Phillips"
+      "cover_artist": null
     },
     {
       "position": 20,
       "name": "Lost in the Crowd",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 2,
       "is_cover": false,
-      "cover_artist": null,
-      "guest_artist": "Zara Phillips"
+      "cover_artist": null
     }
-  ],
-  "tour_name": "Ship to Shore Tour 2024"
+  ]
 }

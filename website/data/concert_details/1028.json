@@ -21,7 +21,7 @@
     {
       "position": 1,
       "name": "Instrumental Jam",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -29,7 +29,7 @@
     {
       "position": 2,
       "name": "Matchbox",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Carl Perkins"
@@ -37,7 +37,7 @@
     {
       "position": 3,
       "name": "Honey Hush",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Big Joe Turner"
@@ -45,7 +45,7 @@
     {
       "position": 4,
       "name": "Coming Up",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -53,7 +53,7 @@
     {
       "position": 5,
       "name": "I Wanna Be Your Man",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Beatles"
@@ -61,7 +61,7 @@
     {
       "position": 6,
       "name": "Women and Wives",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -69,7 +69,7 @@
     {
       "position": 7,
       "name": "Let 'Em In",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Wings"
@@ -77,7 +77,7 @@
     {
       "position": 8,
       "name": "Every Night",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -85,7 +85,7 @@
     {
       "position": 9,
       "name": "Mrs. Vandebilt",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Wings"
@@ -93,7 +93,7 @@
     {
       "position": 10,
       "name": "Ram On",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Paul & Linda McCartney"
@@ -101,7 +101,7 @@
     {
       "position": 11,
       "name": "Midnight Special",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "[traditional]"
@@ -109,7 +109,7 @@
     {
       "position": 12,
       "name": "New",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -117,11 +117,10 @@
     {
       "position": 13,
       "name": "Lady Madonna",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "The Beatles"
     }
-  ],
-  "tour_name": "VIP soundchecks with ticketed audience"
+  ]
 }

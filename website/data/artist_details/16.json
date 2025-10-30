@@ -5,43 +5,43 @@
   "top_songs": [
     {
       "name": "Matchbox",
-      "times_played": 4
+      "times_played": 6
     },
     {
       "name": "It Don't Come Easy",
-      "times_played": 4
+      "times_played": 6
     },
     {
       "name": "What Goes On",
-      "times_played": 4
+      "times_played": 6
     },
     {
       "name": "Evil Ways",
-      "times_played": 4
+      "times_played": 6
     },
     {
       "name": "Rosanna",
-      "times_played": 4
+      "times_played": 6
     },
     {
       "name": "Boys",
-      "times_played": 4
+      "times_played": 6
     },
     {
       "name": "Don't Pass Me By",
-      "times_played": 4
+      "times_played": 6
     },
     {
       "name": "Yellow Submarine",
-      "times_played": 4
+      "times_played": 6
     },
     {
       "name": "Black Magic Woman / Gypsy Queen",
-      "times_played": 4
+      "times_played": 6
     },
     {
       "name": "You're Sixteen",
-      "times_played": 4
+      "times_played": 6
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -65,7 +65,7 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

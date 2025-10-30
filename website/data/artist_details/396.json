@@ -2,7 +2,48 @@
   "id": "396",
   "name": "Nash & young",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Carry On",
+      "times_played": 2
+    },
+    {
+      "name": "Southern Man",
+      "times_played": 2
+    },
+    {
+      "name": "Stand and Be Counted",
+      "times_played": 2
+    },
+    {
+      "name": "Pre-Road Downs",
+      "times_played": 2
+    },
+    {
+      "name": "Heartland",
+      "times_played": 2
+    },
+    {
+      "name": "49 Bye-Byes",
+      "times_played": 2
+    },
+    {
+      "name": "Slowpoke",
+      "times_played": 2
+    },
+    {
+      "name": "Marrakesh Express",
+      "times_played": 2
+    },
+    {
+      "name": "Faith in Me",
+      "times_played": 2
+    },
+    {
+      "name": "Almost Cut My Hair",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "101",
@@ -12,7 +53,7 @@
       "venue": "XL Center",
       "city": "Hartford",
       "state": "CT",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -24,7 +65,7 @@
       "venue": "Ice Arena Tampa, FL",
       "city": "Tampa Bay",
       "state": "FL",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

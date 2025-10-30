@@ -4,43 +4,43 @@
   "concert_count": 2,
   "top_songs": [
     {
-      "name": "A.M.",
+      "name": "Southern Comfort Zone",
       "times_played": 1
     },
     {
-      "name": "Gettin' You Home (The Black Dress Song)",
+      "name": "Mud on the Tires",
       "times_played": 1
     },
     {
-      "name": "Voices",
+      "name": "The Mona Lisa",
       "times_played": 1
     },
     {
-      "name": "Lonely Eyes",
+      "name": "American Saturday Night",
       "times_played": 1
     },
     {
-      "name": "Who I Am With You",
+      "name": "Outstanding in Our Field",
       "times_played": 1
     },
     {
-      "name": "Aw Naw",
+      "name": "This Is Country Music",
       "times_played": 1
     },
     {
-      "name": "I Can Take It From There",
+      "name": "Celebrity",
       "times_played": 1
     },
     {
-      "name": "Change the World",
+      "name": "Then",
       "times_played": 1
     },
     {
-      "name": "Sharp Dressed Man",
+      "name": "She's Everything",
       "times_played": 1
     },
     {
-      "name": "When She's On",
+      "name": "Old Alabama",
       "times_played": 1
     }
   ],
@@ -53,7 +53,7 @@
       "venue": "Palladium Times Square",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -65,7 +65,7 @@
       "venue": "The Meadowlands",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

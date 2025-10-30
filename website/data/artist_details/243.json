@@ -4,6 +4,18 @@
   "concert_count": 3,
   "top_songs": [
     {
+      "name": "The E Street Shuffle",
+      "times_played": 1
+    },
+    {
+      "name": "The River",
+      "times_played": 1
+    },
+    {
+      "name": "Kitty's Back",
+      "times_played": 1
+    },
+    {
       "name": "Maneater",
       "times_played": 1
     },
@@ -30,18 +42,6 @@
     {
       "name": "She's Gone",
       "times_played": 1
-    },
-    {
-      "name": "Sara Smile",
-      "times_played": 1
-    },
-    {
-      "name": "Do What You Want, Be What You Are",
-      "times_played": 1
-    },
-    {
-      "name": "I Can't Go for That (No Can Do)",
-      "times_played": 1
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "Total Mortgage Arena",
       "city": "Bridgeport",
       "state": "CT",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -65,7 +65,7 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },

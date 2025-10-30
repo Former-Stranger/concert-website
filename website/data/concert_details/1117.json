@@ -16,7 +16,7 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/zac-brown-band/2023/northwell-health-at-jones-beach-theater-wantagh-ny-3ba26c74.html",
   "song_count": 25,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
@@ -197,27 +197,26 @@
     {
       "position": 23,
       "name": "Mountain Music / Chattahoochee / All My Ex's Live In Texas / Fishing In The Dark / Callin' Baton Rouge / Family Tradition / Boot Scootin' Boogie / I Will Always Love You/ Man! I Feel Like a Woman!",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     },
     {
       "position": 24,
       "name": "Margaritaville",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Jimmy Buffett"
     },
     {
       "position": 25,
       "name": "Chicken Fried",
-      "set_name": "Set 3",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": false,
       "cover_artist": null
     }
-  ],
-  "tour_name": "From the Fire Tour"
+  ]
 }

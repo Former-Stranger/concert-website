@@ -20,6 +20,112 @@
   "photo_count": 0,
   "setlists": [
     {
+      "artist_id": null,
+      "artist_name": null,
+      "artist_role": "headliner",
+      "setlistfm_url": "https://www.setlist.fm/setlist/steve-earle-and-the-dukes/2016/the-town-hall-new-york-ny-23fbec23.html",
+      "song_count": 12,
+      "has_encore": true,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Guitar Town",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Steve Earle"
+        },
+        {
+          "position": 2,
+          "name": "Goodbye's All We've Got Left",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Steve Earle"
+        },
+        {
+          "position": 3,
+          "name": "Hillbilly Highway",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Steve Earle"
+        },
+        {
+          "position": 4,
+          "name": "Good Ol' Boy (Gettin' Tough)",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Steve Earle"
+        },
+        {
+          "position": 5,
+          "name": "My Old Friend the Blues",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Steve Earle"
+        },
+        {
+          "position": 6,
+          "name": "Someday",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Steve Earle"
+        },
+        {
+          "position": 7,
+          "name": "Think It Over",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Steve Earle"
+        },
+        {
+          "position": 8,
+          "name": "Fearless Heart",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Steve Earle"
+        },
+        {
+          "position": 9,
+          "name": "Little Rock 'n' Roller",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Steve Earle"
+        },
+        {
+          "position": 10,
+          "name": "Down the Road",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Steve Earle"
+        },
+        {
+          "position": 11,
+          "name": "Never Go Home",
+          "set_name": "Main Set",
+          "encore": 1,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 12,
+          "name": "Teach Your Children",
+          "set_name": "Main Set",
+          "encore": 1,
+          "is_cover": true,
+          "cover_artist": "Crosby, Stills, Nash & Young"
+        }
+      ]
+    },
+    {
       "artist_id": "216",
       "artist_name": "Friends",
       "artist_role": "festival_performer",
@@ -339,6 +445,6 @@
       "tour_name": "'Guitar Town' 30th Anniversary Tour"
     }
   ],
-  "total_song_count": 37,
-  "has_encore": false
+  "total_song_count": 49,
+  "has_encore": true
 }

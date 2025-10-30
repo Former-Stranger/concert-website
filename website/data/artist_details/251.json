@@ -2,7 +2,48 @@
   "id": "251",
   "name": "Hot Tuna",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Trouble No More",
+      "times_played": 1
+    },
+    {
+      "name": "Black Hearted Woman",
+      "times_played": 1
+    },
+    {
+      "name": "Jessica",
+      "times_played": 1
+    },
+    {
+      "name": "Somebody Loan Me a Dime",
+      "times_played": 1
+    },
+    {
+      "name": "I Must Have Done Somebody Wrong",
+      "times_played": 1
+    },
+    {
+      "name": "Melissa",
+      "times_played": 1
+    },
+    {
+      "name": "Franklin's Tower",
+      "times_played": 1
+    },
+    {
+      "name": "I Feel So Bad",
+      "times_played": 1
+    },
+    {
+      "name": "Don't Keep Me Wonderin'",
+      "times_played": 1
+    },
+    {
+      "name": "Dreams",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "114",
@@ -12,7 +53,7 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

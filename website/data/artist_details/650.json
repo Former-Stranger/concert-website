@@ -5,43 +5,43 @@
   "top_songs": [
     {
       "name": "Living in Fast Forward",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Beer in Mexico",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Keg in the Closet",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Here and Now",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Reality",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Til It's Gone",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Summertime",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Save It for a Rainy Day",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Guitars and Tiki Bars",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Somewhere With You",
-      "times_played": 1
+      "times_played": 2
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

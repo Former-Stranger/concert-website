@@ -4,44 +4,44 @@
   "concert_count": 2,
   "top_songs": [
     {
-      "name": "Cherry, Cherry",
-      "times_played": 1
-    },
-    {
-      "name": "You Got to Me",
-      "times_played": 1
-    },
-    {
-      "name": "Solitary Man",
-      "times_played": 1
-    },
-    {
-      "name": "Love on the Rocks",
-      "times_played": 1
-    },
-    {
-      "name": "Play Me",
-      "times_played": 1
-    },
-    {
-      "name": "Song Sung Blue",
-      "times_played": 1
+      "name": "Holly Holy",
+      "times_played": 2
     },
     {
       "name": "Beautiful Noise",
-      "times_played": 1
+      "times_played": 2
     },
     {
-      "name": "Jungletime",
-      "times_played": 1
+      "name": "Love on the Rocks",
+      "times_played": 2
     },
     {
-      "name": "Dry Your Eyes",
-      "times_played": 1
+      "name": "Play Me",
+      "times_played": 2
     },
     {
-      "name": "If You Know What I Mean",
-      "times_played": 1
+      "name": "Cherry, Cherry",
+      "times_played": 2
+    },
+    {
+      "name": "Pretty Amazing Grace",
+      "times_played": 2
+    },
+    {
+      "name": "Crunchy Granola Suite",
+      "times_played": 2
+    },
+    {
+      "name": "Done Too Soon",
+      "times_played": 2
+    },
+    {
+      "name": "Brooklyn Roads",
+      "times_played": 2
+    },
+    {
+      "name": "I Am ... I Said",
+      "times_played": 2
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -65,7 +65,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

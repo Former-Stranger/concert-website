@@ -16,12 +16,12 @@
   "photo_count": 0,
   "setlistfm_url": "https://www.setlist.fm/setlist/jeff-lynnes-elo/2015/irving-plaza-new-york-ny-4bf55716.html",
   "song_count": 18,
-  "has_encore": false,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
       "name": "All Over the World",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Electric Light Orchestra"
@@ -29,7 +29,7 @@
     {
       "position": 2,
       "name": "Evil Woman",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Electric Light Orchestra"
@@ -37,7 +37,7 @@
     {
       "position": 3,
       "name": "Showdown",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Electric Light Orchestra"
@@ -45,7 +45,7 @@
     {
       "position": 4,
       "name": "Turn to Stone",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Electric Light Orchestra"
@@ -53,7 +53,7 @@
     {
       "position": 5,
       "name": "When I Was a Boy",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -61,7 +61,7 @@
     {
       "position": 6,
       "name": "Livin' Thing",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Electric Light Orchestra"
@@ -69,7 +69,7 @@
     {
       "position": 7,
       "name": "One Step at a Time",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -77,7 +77,7 @@
     {
       "position": 8,
       "name": "Strange Magic",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Electric Light Orchestra"
@@ -85,7 +85,7 @@
     {
       "position": 9,
       "name": "Don't Bring Me Down",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Electric Light Orchestra"
@@ -93,7 +93,7 @@
     {
       "position": 10,
       "name": "Steppin' Out",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Electric Light Orchestra"
@@ -101,7 +101,7 @@
     {
       "position": 11,
       "name": "Sweet Talkin' Woman",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Electric Light Orchestra"
@@ -109,7 +109,7 @@
     {
       "position": 12,
       "name": "Can't Get It Out of My Head",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Electric Light Orchestra"
@@ -117,7 +117,7 @@
     {
       "position": 13,
       "name": "When the Night Comes",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -125,7 +125,7 @@
     {
       "position": 14,
       "name": "Ain't It a Drag",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": false,
       "cover_artist": null
@@ -133,7 +133,7 @@
     {
       "position": 15,
       "name": "Rock 'n' Roll Is King",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Electric Light Orchestra"
@@ -141,7 +141,7 @@
     {
       "position": 16,
       "name": "Telephone Line",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Electric Light Orchestra"
@@ -149,7 +149,7 @@
     {
       "position": 17,
       "name": "Mr. Blue Sky",
-      "set_name": "Set 1",
+      "set_name": "Main Set",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Electric Light Orchestra"
@@ -157,8 +157,8 @@
     {
       "position": 18,
       "name": "Roll Over Beethoven",
-      "set_name": "Set 2",
-      "encore": 0,
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Chuck Berry"
     }

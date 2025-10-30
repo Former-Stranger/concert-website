@@ -4,43 +4,43 @@
   "concert_count": 3,
   "top_songs": [
     {
-      "name": "Lift Up Every Stone",
-      "times_played": 1
-    },
-    {
-      "name": "Master of Disaster",
-      "times_played": 1
+      "name": "Marlene",
+      "times_played": 2
     },
     {
       "name": "Detroit Made",
-      "times_played": 1
+      "times_played": 2
     },
     {
-      "name": "Real Fine Love",
-      "times_played": 1
+      "name": "Buffalo River Home",
+      "times_played": 2
     },
     {
-      "name": "Marlene",
-      "times_played": 1
+      "name": "Crossing Muddy Waters",
+      "times_played": 2
     },
     {
-      "name": "Your Dad Did",
-      "times_played": 1
+      "name": "Tennessee Plates",
+      "times_played": 2
     },
     {
-      "name": "Terms of My Surrender",
-      "times_played": 1
+      "name": "Long Time Comin'",
+      "times_played": 2
     },
     {
-      "name": "Like a Freight Train",
-      "times_played": 1
+      "name": "Memphis in the Meantime",
+      "times_played": 2
     },
     {
-      "name": "Dust Down a Country Road",
-      "times_played": 1
+      "name": "Have a Little Faith in Me",
+      "times_played": 2
     },
     {
-      "name": "Cry Love",
+      "name": "Drive South",
+      "times_played": 2
+    },
+    {
+      "name": "Blues Can't Even Find Me",
       "times_played": 1
     }
   ],
@@ -53,7 +53,7 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -77,7 +77,7 @@
       "venue": "Tarrytown Music Hall",
       "city": "Tarrytown",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

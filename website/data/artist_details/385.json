@@ -5,43 +5,43 @@
   "top_songs": [
     {
       "name": "Wicked Mind",
-      "times_played": 4
+      "times_played": 6
     },
     {
       "name": "Lightning Boogie",
-      "times_played": 4
+      "times_played": 6
     },
     {
       "name": "Wreckless Abandon",
-      "times_played": 4
+      "times_played": 6
     },
     {
       "name": "Dirty Job",
-      "times_played": 4
+      "times_played": 6
     },
     {
       "name": "Fuck That Guy",
-      "times_played": 4
+      "times_played": 6
     },
     {
       "name": "I Still Love You",
-      "times_played": 4
+      "times_played": 6
     },
     {
       "name": "State of Mind",
-      "times_played": 4
+      "times_played": 6
     },
     {
       "name": "In This Lifetime",
-      "times_played": 4
+      "times_played": 6
     },
     {
       "name": "Refugee",
-      "times_played": 4
+      "times_played": 6
     },
     {
       "name": "Southern Boy",
-      "times_played": 4
+      "times_played": 6
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -65,7 +65,7 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

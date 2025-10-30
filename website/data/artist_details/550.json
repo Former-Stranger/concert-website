@@ -2,7 +2,48 @@
   "id": "550",
   "name": "Stone Temple Pilots",
   "concert_count": 3,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Vasoline",
+      "times_played": 2
+    },
+    {
+      "name": "Crackerman",
+      "times_played": 2
+    },
+    {
+      "name": "Big Empty",
+      "times_played": 2
+    },
+    {
+      "name": "Dead & Bloated",
+      "times_played": 2
+    },
+    {
+      "name": "Sour Girl",
+      "times_played": 2
+    },
+    {
+      "name": "Creep",
+      "times_played": 2
+    },
+    {
+      "name": "Lounge Fly",
+      "times_played": 2
+    },
+    {
+      "name": "Trippin' on a Hole in a Paper Heart",
+      "times_played": 2
+    },
+    {
+      "name": "Interstate Love Song",
+      "times_played": 2
+    },
+    {
+      "name": "Plush",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "339",
@@ -12,7 +53,7 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -24,7 +65,7 @@
       "venue": "Great South Bay Music Festival",
       "city": "Oakdale",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -36,7 +77,7 @@
       "venue": "XL Center",
       "city": "Hartford",
       "state": "CT",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

@@ -4,23 +4,27 @@
   "concert_count": 3,
   "top_songs": [
     {
+      "name": "Jin-go-lo-ba",
+      "times_played": 2
+    },
+    {
+      "name": "Black Magic Woman / Gypsy Queen",
+      "times_played": 2
+    },
+    {
+      "name": "Oye c\u00f3mo va",
+      "times_played": 2
+    },
+    {
+      "name": "Europa (Earth's Cry, Heaven's Smile)",
+      "times_played": 2
+    },
+    {
       "name": "Soul Sacrifice",
       "times_played": 1
     },
     {
-      "name": "Jin-go-lo-ba",
-      "times_played": 1
-    },
-    {
       "name": "Evil Ways",
-      "times_played": 1
-    },
-    {
-      "name": "Black Magic Woman / Gypsy Queen",
-      "times_played": 1
-    },
-    {
-      "name": "Oye c\u00f3mo va",
       "times_played": 1
     },
     {
@@ -38,10 +42,6 @@
     {
       "name": "Chill Out (S\u00e1calo)",
       "times_played": 1
-    },
-    {
-      "name": "(Da le) Yaleo",
-      "times_played": 1
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "House of Blues",
       "city": "Las Vegas",
       "state": "NV",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -65,7 +65,7 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -77,7 +77,7 @@
       "venue": "Thunder Ridge Ski Area",
       "city": "Patterson",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

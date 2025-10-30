@@ -1,0 +1,198 @@
+{
+  "id": "428",
+  "show_number": 427,
+  "date": "2010-06-30",
+  "festival_name": null,
+  "venue": "NYCB Theatre at Westbury",
+  "city": "Westbury",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Ringo Starr",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/ringo-starr-and-his-all-starr-band/2010/theatre-at-westbury-westbury-ny-2bd40002.html",
+  "song_count": 22,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "It Don't Come Easy",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ringo Starr"
+    },
+    {
+      "position": 2,
+      "name": "Honey Don't",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Carl Perkins"
+    },
+    {
+      "position": 3,
+      "name": "Choose Love",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ringo Starr"
+    },
+    {
+      "position": 4,
+      "name": "My Girl Sloopy",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Vibrations"
+    },
+    {
+      "position": 5,
+      "name": "Free Ride",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Edgar Winter Group"
+    },
+    {
+      "position": 6,
+      "name": "Talking in Your Sleep",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Romantics"
+    },
+    {
+      "position": 7,
+      "name": "I Wanna Be Your Man",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Beatles"
+    },
+    {
+      "position": 8,
+      "name": "Dream Weaver",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Gary Wright"
+    },
+    {
+      "position": 9,
+      "name": "Kyrie",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Mr. Mister"
+    },
+    {
+      "position": 10,
+      "name": "The Other Side of Liverpool",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ringo Starr"
+    },
+    {
+      "position": 11,
+      "name": "Yellow Submarine",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Beatles"
+    },
+    {
+      "position": 12,
+      "name": "Frankenstein",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Edgar Winter Group"
+    },
+    {
+      "position": 13,
+      "name": "Peace Dream",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ringo Starr"
+    },
+    {
+      "position": 14,
+      "name": "Back Off Boogaloo",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ringo Starr"
+    },
+    {
+      "position": 15,
+      "name": "What I Like About You",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Romantics"
+    },
+    {
+      "position": 16,
+      "name": "Rock and Roll, Hoochie Koo",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Rick Derringer"
+    },
+    {
+      "position": 17,
+      "name": "Boys",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Shirelles"
+    },
+    {
+      "position": 18,
+      "name": "Love Is Alive",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Gary Wright"
+    },
+    {
+      "position": 19,
+      "name": "Broken Wings",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Mr. Mister"
+    },
+    {
+      "position": 20,
+      "name": "Photograph",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ringo Starr"
+    },
+    {
+      "position": 21,
+      "name": "Act Naturally",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Johnny Russell"
+    },
+    {
+      "position": 22,
+      "name": "With a Little Help From My Friends",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Beatles"
+    }
+  ]
+}

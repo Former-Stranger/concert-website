@@ -2,7 +2,48 @@
   "id": "490",
   "name": "Rusted root",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Spiritual / (Da le) Yaleo",
+      "times_played": 1
+    },
+    {
+      "name": "Everybody's Everything",
+      "times_played": 1
+    },
+    {
+      "name": "Day of Celebration",
+      "times_played": 1
+    },
+    {
+      "name": "Serpents and Doves",
+      "times_played": 1
+    },
+    {
+      "name": "Open Invitation",
+      "times_played": 1
+    },
+    {
+      "name": "Exodus",
+      "times_played": 1
+    },
+    {
+      "name": "Interplanetary Party",
+      "times_played": 1
+    },
+    {
+      "name": "Angel Love (Come for Me)",
+      "times_played": 1
+    },
+    {
+      "name": "Bacalao con pan",
+      "times_played": 1
+    },
+    {
+      "name": "Make Somebody Happy / Get It in Your Soul",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "44",
@@ -12,7 +53,7 @@
       "venue": "Thunder Ridge Ski Area",
       "city": "Patterson",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

@@ -5,43 +5,43 @@
   "top_songs": [
     {
       "name": "Blues Walk",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Pass Me Not, O Gentle Saviour",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "I'm a Soldier in the Army of the Lord",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Church",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Here I Am",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Pants Is Overrated",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "It's a Naked Party",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Pig Meat Man",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Cowboy Man",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Penguins",
-      "times_played": 2
+      "times_played": 3
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "Caramoor Center for Music and the Arts",
       "city": "Katonah",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

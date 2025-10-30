@@ -5,43 +5,43 @@
   "top_songs": [
     {
       "name": "The Bucket",
-      "times_played": 3
+      "times_played": 6
     },
     {
       "name": "On Call",
-      "times_played": 3
+      "times_played": 6
     },
     {
       "name": "Sex on Fire",
-      "times_played": 3
-    },
-    {
-      "name": "Pyro",
-      "times_played": 3
-    },
-    {
-      "name": "Supersoaker",
-      "times_played": 3
+      "times_played": 6
     },
     {
       "name": "Molly's Chambers",
-      "times_played": 3
-    },
-    {
-      "name": "Waste a Moment",
-      "times_played": 3
-    },
-    {
-      "name": "Find Me",
-      "times_played": 3
+      "times_played": 6
     },
     {
       "name": "Closer",
-      "times_played": 3
+      "times_played": 6
     },
     {
       "name": "Use Somebody",
-      "times_played": 3
+      "times_played": 6
+    },
+    {
+      "name": "Pyro",
+      "times_played": 5
+    },
+    {
+      "name": "Crawl",
+      "times_played": 5
+    },
+    {
+      "name": "Manhattan",
+      "times_played": 4
+    },
+    {
+      "name": "Revelry",
+      "times_played": 4
     }
   ],
   "concerts": [
@@ -53,7 +53,7 @@
       "venue": "Hartford HealthCare Amphitheater",
       "city": "Bridgeport",
       "state": "CT",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -65,7 +65,7 @@
       "venue": "Hartford HealthCare Amphitheater",
       "city": "Bridgeport",
       "state": "CT",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -77,7 +77,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -89,7 +89,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -101,7 +101,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -113,7 +113,7 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

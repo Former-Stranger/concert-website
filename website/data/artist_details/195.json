@@ -2,7 +2,20 @@
   "id": "195",
   "name": "Emmylou Harries",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "The E Street Shuffle",
+      "times_played": 1
+    },
+    {
+      "name": "The River",
+      "times_played": 1
+    },
+    {
+      "name": "Kitty's Back",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "572",
@@ -12,7 +25,7 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

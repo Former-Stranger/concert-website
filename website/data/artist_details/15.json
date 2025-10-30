@@ -2,7 +2,48 @@
   "id": "15",
   "name": "Alison Krauss",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Rich Woman",
+      "times_played": 1
+    },
+    {
+      "name": "Leave My Woman Alone",
+      "times_played": 1
+    },
+    {
+      "name": "Black Dog",
+      "times_played": 1
+    },
+    {
+      "name": "Sister Rosetta Goes Before Us",
+      "times_played": 1
+    },
+    {
+      "name": "Through the Morning, Through the Night",
+      "times_played": 1
+    },
+    {
+      "name": "It's Goodbye and So Long to You",
+      "times_played": 1
+    },
+    {
+      "name": "Fortune Teller",
+      "times_played": 1
+    },
+    {
+      "name": "In the Mood",
+      "times_played": 1
+    },
+    {
+      "name": "Black Country Woman",
+      "times_played": 1
+    },
+    {
+      "name": "Shut It Tight",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "578",
@@ -12,7 +53,7 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -24,7 +65,7 @@
       "venue": "The Theater at Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

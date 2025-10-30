@@ -1,0 +1,42 @@
+{
+  "id": "359",
+  "show_number": 358,
+  "date": "2008-10-16",
+  "festival_name": "Multi-Artist Show",
+  "venue": "SUNY Purchase",
+  "city": "Purchase",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Crosby",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Nash",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/crosby-and-nash/2008/state-university-of-new-york-at-purchase-purchase-ny-43c323ff.html",
+  "song_count": 2,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "I Used to Be a King",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Graham Nash"
+    },
+    {
+      "position": 2,
+      "name": "D\u00e9j\u00e0 Vu",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Crosby, Stills, Nash & Young"
+    }
+  ]
+}
