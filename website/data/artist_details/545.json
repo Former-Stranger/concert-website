@@ -2,7 +2,48 @@
   "id": "545",
   "name": "Stevie Wonder",
   "concert_count": 3,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Love's in Need of Love Today",
+      "times_played": 1
+    },
+    {
+      "name": "Have a Talk With God",
+      "times_played": 1
+    },
+    {
+      "name": "Village Ghetto Land",
+      "times_played": 1
+    },
+    {
+      "name": "Contusion",
+      "times_played": 1
+    },
+    {
+      "name": "Sir Duke",
+      "times_played": 1
+    },
+    {
+      "name": "I Wish",
+      "times_played": 1
+    },
+    {
+      "name": "Knocks Me Off My Feet",
+      "times_played": 1
+    },
+    {
+      "name": "Pastime Paradise",
+      "times_played": 1
+    },
+    {
+      "name": "Summer Soft",
+      "times_played": 1
+    },
+    {
+      "name": "Ordinary Pain",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "658",

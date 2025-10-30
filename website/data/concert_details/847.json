@@ -1,0 +1,289 @@
+{
+  "id": "847",
+  "show_number": 846,
+  "date": "2018-08-07",
+  "festival_name": null,
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Rod Stewart",
+      "role": "headliner"
+    },
+    {
+      "name": "Cyndi Lauper",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "Ts7IBnCtQNORftKRdruR",
+      "artist_name": "Cyndi Lauper",
+      "artist_role": "headliner",
+      "setlistfm_url": "https://www.setlist.fm/setlist/cyndi-lauper/2018/madison-square-garden-new-york-ny-6beb562e.html",
+      "song_count": 11,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "I Drove All Night",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "She Bop",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "All Through the Night",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jules Shear"
+        },
+        {
+          "position": 4,
+          "name": "Hope",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "The Goonies 'R' Good Enough",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Money Changes Everything",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Brains"
+        },
+        {
+          "position": 7,
+          "name": "Shine",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "Alone in the Harbor",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 9,
+          "name": "Time After Time",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "Girls Just Want to Have Fun",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "True Colors",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ],
+      "tour_name": "2018 North American Summer Tour"
+    },
+    {
+      "artist_id": "481",
+      "artist_name": "Rod Stewart",
+      "artist_role": "headliner",
+      "setlistfm_url": "https://www.setlist.fm/setlist/rod-stewart/2018/madison-square-garden-new-york-ny-63eb562f.html",
+      "song_count": 19,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Infatuation",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Some Guys Have All the Luck",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Persuaders"
+        },
+        {
+          "position": 3,
+          "name": "You Wear It Well",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Having a Party",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Sam Cooke"
+        },
+        {
+          "position": 5,
+          "name": "Tonight's the Night (Gonna Be Alright)",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "It Takes Two",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Kim Weston",
+          "guest_artist": "Cyndi Lauper"
+        },
+        {
+          "position": 7,
+          "name": "Forever Young",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "Hole in My Heart",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 9,
+          "name": "Rhythm of My Heart",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Marc Jordan"
+        },
+        {
+          "position": 10,
+          "name": "Maggie May",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "Downtown Train",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Waits"
+        },
+        {
+          "position": 12,
+          "name": "The First Cut Is the Deepest",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Cat Stevens"
+        },
+        {
+          "position": 13,
+          "name": "You're in My Heart (The Final Acclaim)",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 14,
+          "name": "Grace",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "[traditional]"
+        },
+        {
+          "position": 15,
+          "name": "Have I Told You Lately",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Van Morrison"
+        },
+        {
+          "position": 16,
+          "name": "Nutbush City Limits",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Ike & Tina Turner"
+        },
+        {
+          "position": 17,
+          "name": "Stay With Me",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Faces"
+        },
+        {
+          "position": 18,
+          "name": "Da Ya Think I'm Sexy?",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 19,
+          "name": "Sailing",
+          "set_name": "Set 2",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Sutherland Brothers Band"
+        }
+      ],
+      "tour_name": "2018 North American Summer Tour"
+    }
+  ],
+  "total_song_count": 30,
+  "has_encore": false,
+  "tour_name": "2018 North American Summer Tour"
+}

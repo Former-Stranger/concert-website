@@ -2,7 +2,48 @@
   "id": "371",
   "name": "Maren Morris",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Love and Happiness",
+      "times_played": 1
+    },
+    {
+      "name": "My Antonia",
+      "times_played": 1
+    },
+    {
+      "name": "Michelangelo",
+      "times_played": 1
+    },
+    {
+      "name": "If I Needed You",
+      "times_played": 1
+    },
+    {
+      "name": "Godzilla",
+      "times_played": 1
+    },
+    {
+      "name": "Blow",
+      "times_played": 1
+    },
+    {
+      "name": "Spaceship",
+      "times_played": 1
+    },
+    {
+      "name": "Your Love Is My Drug",
+      "times_played": 1
+    },
+    {
+      "name": "I Could Use a Love Song",
+      "times_played": 1
+    },
+    {
+      "name": "Greener Pastures",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "812",

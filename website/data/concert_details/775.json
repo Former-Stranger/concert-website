@@ -1,0 +1,175 @@
+{
+  "id": "775",
+  "show_number": 774,
+  "date": "2017-08-10",
+  "festival_name": null,
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Buckingham/McVie",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/lindsey-buckingham-and-christine-mcvie/2017/beacon-theatre-new-york-ny-73e51a99.html",
+  "song_count": 19,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Trouble",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Lindsey Buckingham"
+    },
+    {
+      "position": 2,
+      "name": "Wish You Were Here",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Fleetwood Mac"
+    },
+    {
+      "position": 3,
+      "name": "Never Going Back Again",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Fleetwood Mac"
+    },
+    {
+      "position": 4,
+      "name": "Shut Us Down",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Lindsey Buckingham"
+    },
+    {
+      "position": 5,
+      "name": "Sleeping Around the Corner",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Feel About You",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "In My World",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Too Far Gone",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Hold Me",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Fleetwood Mac"
+    },
+    {
+      "position": 10,
+      "name": "Little Lies",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Fleetwood Mac"
+    },
+    {
+      "position": 11,
+      "name": "Tusk",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Fleetwood Mac"
+    },
+    {
+      "position": 12,
+      "name": "Love Is Here to Stay",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Red Sun",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "You Make Loving Fun",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Fleetwood Mac"
+    },
+    {
+      "position": 15,
+      "name": "I'm So Afraid",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Fleetwood Mac"
+    },
+    {
+      "position": 16,
+      "name": "Go Your Own Way",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Fleetwood Mac"
+    },
+    {
+      "position": 17,
+      "name": "Everywhere",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Fleetwood Mac"
+    },
+    {
+      "position": 18,
+      "name": "Lay Down for Free",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 19,
+      "name": "Game of Pretend",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ],
+  "tour_name": "2017 North American Tour"
+}

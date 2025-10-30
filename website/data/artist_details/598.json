@@ -2,7 +2,48 @@
   "id": "598",
   "name": "Tom Petty",
   "concert_count": 5,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "You Don't Know How It Feels",
+      "times_played": 8
+    },
+    {
+      "name": "Mary Jane's Last Dance",
+      "times_played": 8
+    },
+    {
+      "name": "Runnin' Down a Dream",
+      "times_played": 8
+    },
+    {
+      "name": "Learning to Fly",
+      "times_played": 8
+    },
+    {
+      "name": "Free Fallin'",
+      "times_played": 8
+    },
+    {
+      "name": "I Won't Back Down",
+      "times_played": 8
+    },
+    {
+      "name": "American Girl",
+      "times_played": 8
+    },
+    {
+      "name": "Refugee",
+      "times_played": 8
+    },
+    {
+      "name": "Don't Come Around Here No More",
+      "times_played": 8
+    },
+    {
+      "name": "Into the Great Wide Open",
+      "times_played": 6
+    }
+  ],
   "concerts": [
     {
       "id": "769",

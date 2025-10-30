@@ -1,0 +1,271 @@
+{
+  "id": "628",
+  "show_number": 627,
+  "date": "2015-06-17",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Radio City Music Hall",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Amos Lee",
+      "role": "festival_performer"
+    },
+    {
+      "name": "David Gray",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "21",
+      "artist_name": "Amos Lee",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/amos-lee/2015/radio-city-music-hall-new-york-ny-bc9056a.html",
+      "song_count": 15,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Windows Are Rolled Down",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Tricksters, Hucksters, and Scamps",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Bottom of the Barrel",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Keep It Loose, Keep It Tight",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Chill in the Air",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Arms of a Woman",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Violin",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "Zombie",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Cranberries"
+        },
+        {
+          "position": 9,
+          "name": "Mountains of Sorrow",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "Jesus",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "El Camino",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 12,
+          "name": "Stranger",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 13,
+          "name": "Won't Let Me Go",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 14,
+          "name": "Sweet Pea",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 15,
+          "name": "Street Corner Preacher / Game of Thrones: Main Title",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ]
+    },
+    {
+      "artist_id": "158",
+      "artist_name": "David Gray",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/david-gray/2015/radio-city-music-hall-new-york-ny-1bc90574.html",
+      "song_count": 13,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Birds of the High Arctic",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Back in the World",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Mutineers",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "My Oh My",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Slow Motion",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Nightblindness",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Snow in Vegas",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "LeAnn Rimes"
+        },
+        {
+          "position": 8,
+          "name": "Dancing With Both Feet off the Ground",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "LeAnn Rimes"
+        },
+        {
+          "position": 9,
+          "name": "Babylon",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "Fugitive",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "Please Forgive Me",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 12,
+          "name": "This Year's Love",
+          "set_name": "Set 2",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 13,
+          "name": "Sail Away",
+          "set_name": "Set 2",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ]
+    }
+  ],
+  "total_song_count": 28,
+  "has_encore": false
+}

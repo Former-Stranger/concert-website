@@ -2,7 +2,7 @@
   "id": "1274",
   "show_number": 1273,
   "date": "2025-08-09",
-  "festival_name": "Multi-Artist Show",
+  "festival_name": null,
   "venue": "Forest Hills Stadium",
   "city": "Forest Hills",
   "state": "NY",
@@ -10,6 +10,10 @@
     {
       "name": "Mumford & Sons",
       "role": "festival_performer"
+    },
+    {
+      "name": "Lucia",
+      "role": "opener"
     }
   ],
   "photos": [],

@@ -2,7 +2,48 @@
   "id": "489",
   "name": "Rush",
   "concert_count": 6,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "The World Is...The World Is",
+      "times_played": 1
+    },
+    {
+      "name": "The Anarchist",
+      "times_played": 1
+    },
+    {
+      "name": "Headlong Flight",
+      "times_played": 1
+    },
+    {
+      "name": "Far Cry",
+      "times_played": 1
+    },
+    {
+      "name": "The Main Monkey Business",
+      "times_played": 1
+    },
+    {
+      "name": "One Little Victory",
+      "times_played": 1
+    },
+    {
+      "name": "Animate",
+      "times_played": 1
+    },
+    {
+      "name": "Roll the Bones",
+      "times_played": 1
+    },
+    {
+      "name": "Distant Early Warning",
+      "times_played": 1
+    },
+    {
+      "name": "Losing It",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "633",

@@ -2,7 +2,48 @@
   "id": "372",
   "name": "Mark Knopfler",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Unintended Consequence of Love",
+      "times_played": 1
+    },
+    {
+      "name": "Need You Tonight",
+      "times_played": 1
+    },
+    {
+      "name": "One Belief Away",
+      "times_played": 1
+    },
+    {
+      "name": "I Believe I'm in Love With You",
+      "times_played": 1
+    },
+    {
+      "name": "Devil Got My Woman",
+      "times_played": 1
+    },
+    {
+      "name": "Something to Talk About",
+      "times_played": 1
+    },
+    {
+      "name": "Thing Called Love",
+      "times_played": 1
+    },
+    {
+      "name": "Angel From Montgomery",
+      "times_played": 1
+    },
+    {
+      "name": "I Can't Make You Love Me",
+      "times_played": 1
+    },
+    {
+      "name": "You Got the Love / Love Sneakin' Up on You",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "944",

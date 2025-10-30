@@ -2,7 +2,48 @@
   "id": "84",
   "name": "Brian Fallon",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "I Won't Back Down",
+      "times_played": 1
+    },
+    {
+      "name": "A Wonderful Life",
+      "times_played": 1
+    },
+    {
+      "name": "Nobody Wins",
+      "times_played": 1
+    },
+    {
+      "name": "Rosemary",
+      "times_played": 1
+    },
+    {
+      "name": "Mojo Hand",
+      "times_played": 1
+    },
+    {
+      "name": "Steve McQueen",
+      "times_played": 1
+    },
+    {
+      "name": "Honey Magnolia",
+      "times_played": 1
+    },
+    {
+      "name": "Smoke",
+      "times_played": 1
+    },
+    {
+      "name": "Red Lights",
+      "times_played": 1
+    },
+    {
+      "name": "Among Other Foolish Things",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "724",

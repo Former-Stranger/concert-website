@@ -2,7 +2,48 @@
   "id": "575",
   "name": "The Killers",
   "concert_count": 3,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Wonderful Wonderful",
+      "times_played": 1
+    },
+    {
+      "name": "The Man",
+      "times_played": 1
+    },
+    {
+      "name": "Somebody Told Me",
+      "times_played": 1
+    },
+    {
+      "name": "Spaceman",
+      "times_played": 1
+    },
+    {
+      "name": "The Way It Was",
+      "times_played": 1
+    },
+    {
+      "name": "Run for Cover",
+      "times_played": 1
+    },
+    {
+      "name": "I Can't Stay",
+      "times_played": 1
+    },
+    {
+      "name": "Smile Like You Mean It",
+      "times_played": 1
+    },
+    {
+      "name": "For Reasons Unknown",
+      "times_played": 1
+    },
+    {
+      "name": "Shot at the Night",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "808",

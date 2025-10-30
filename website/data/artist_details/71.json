@@ -2,7 +2,48 @@
   "id": "71",
   "name": "Bon Jovi",
   "concert_count": 19,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "This House Is Not for Sale",
+      "times_played": 3
+    },
+    {
+      "name": "You Give Love a Bad Name",
+      "times_played": 3
+    },
+    {
+      "name": "Lost Highway",
+      "times_played": 3
+    },
+    {
+      "name": "Whole Lot of Leavin'",
+      "times_played": 3
+    },
+    {
+      "name": "Roller Coaster",
+      "times_played": 3
+    },
+    {
+      "name": "We Weren't Born to Follow",
+      "times_played": 3
+    },
+    {
+      "name": "I'll Sleep When I'm Dead",
+      "times_played": 3
+    },
+    {
+      "name": "Who Says You Can't Go Home",
+      "times_played": 3
+    },
+    {
+      "name": "It's My Life",
+      "times_played": 3
+    },
+    {
+      "name": "Lay Your Hands on Me",
+      "times_played": 3
+    }
+  ],
   "concerts": [
     {
       "id": "827",

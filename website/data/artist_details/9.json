@@ -2,7 +2,32 @@
   "id": "9",
   "name": "Adele",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Queen of Swords",
+      "times_played": 2
+    },
+    {
+      "name": "Small World",
+      "times_played": 1
+    },
+    {
+      "name": "Everybody Knows",
+      "times_played": 1
+    },
+    {
+      "name": "I See You",
+      "times_played": 1
+    },
+    {
+      "name": "Perfect Story",
+      "times_played": 1
+    },
+    {
+      "name": "Like Lightning",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "723",

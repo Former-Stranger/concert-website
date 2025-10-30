@@ -1,0 +1,416 @@
+{
+  "id": "759",
+  "show_number": 758,
+  "date": "2017-06-16",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Prudential Center",
+  "city": "Newark",
+  "state": "NJ",
+  "artists": [
+    {
+      "name": "Tom Petty",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Heartbreakers",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "245",
+      "artist_name": "Heartbreakers",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/petty-theft/2017/regional-park-auburn-ca-53e42b45.html",
+      "song_count": 23,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Kings Highway",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 2,
+          "name": "Listen to Her Heart",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 3,
+          "name": "Don't Do Me Like That",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 4,
+          "name": "Handle With Care",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Traveling Wilburys"
+        },
+        {
+          "position": 5,
+          "name": "Into the Great Wide Open",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 6,
+          "name": "Nightwatchman",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 7,
+          "name": "Shadow of a Doubt (A Complex Kid)",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 8,
+          "name": "Even the Losers",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 9,
+          "name": "The Waiting",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 10,
+          "name": "You Don't Know How It Feels",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty"
+        },
+        {
+          "position": 11,
+          "name": "Mary Jane's Last Dance",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 12,
+          "name": "You Wreck Me",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty"
+        },
+        {
+          "position": 13,
+          "name": "Cabin Down Below",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty"
+        },
+        {
+          "position": 14,
+          "name": "Runnin' Down a Dream",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty"
+        },
+        {
+          "position": 15,
+          "name": "Breakdown",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 16,
+          "name": "Here Comes My Girl",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 17,
+          "name": "Learning to Fly",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 18,
+          "name": "Free Fallin'",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty"
+        },
+        {
+          "position": 19,
+          "name": "I Won't Back Down",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty"
+        },
+        {
+          "position": 20,
+          "name": "I Need to Know",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 21,
+          "name": "American Girl",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 22,
+          "name": "Refugee",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 23,
+          "name": "Don't Come Around Here No More",
+          "set_name": "Set 2",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        }
+      ],
+      "tour_name": "Runnin' Down A Dream Tour 2017"
+    },
+    {
+      "artist_id": "598",
+      "artist_name": "Tom Petty",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/petty-theft/2017/regional-park-auburn-ca-53e42b45.html",
+      "song_count": 23,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Kings Highway",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 2,
+          "name": "Listen to Her Heart",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 3,
+          "name": "Don't Do Me Like That",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 4,
+          "name": "Handle With Care",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Traveling Wilburys"
+        },
+        {
+          "position": 5,
+          "name": "Into the Great Wide Open",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 6,
+          "name": "Nightwatchman",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 7,
+          "name": "Shadow of a Doubt (A Complex Kid)",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 8,
+          "name": "Even the Losers",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 9,
+          "name": "The Waiting",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 10,
+          "name": "You Don't Know How It Feels",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty"
+        },
+        {
+          "position": 11,
+          "name": "Mary Jane's Last Dance",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 12,
+          "name": "You Wreck Me",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty"
+        },
+        {
+          "position": 13,
+          "name": "Cabin Down Below",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty"
+        },
+        {
+          "position": 14,
+          "name": "Runnin' Down a Dream",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty"
+        },
+        {
+          "position": 15,
+          "name": "Breakdown",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 16,
+          "name": "Here Comes My Girl",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 17,
+          "name": "Learning to Fly",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 18,
+          "name": "Free Fallin'",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty"
+        },
+        {
+          "position": 19,
+          "name": "I Won't Back Down",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty"
+        },
+        {
+          "position": 20,
+          "name": "I Need to Know",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 21,
+          "name": "American Girl",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 22,
+          "name": "Refugee",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        },
+        {
+          "position": 23,
+          "name": "Don't Come Around Here No More",
+          "set_name": "Set 2",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tom Petty and the Heartbreakers"
+        }
+      ],
+      "tour_name": "Runnin' Down A Dream Tour 2017"
+    }
+  ],
+  "total_song_count": 46,
+  "has_encore": false,
+  "tour_name": "Runnin' Down A Dream Tour 2017"
+}

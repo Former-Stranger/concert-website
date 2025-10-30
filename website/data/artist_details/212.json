@@ -2,7 +2,48 @@
   "id": "212",
   "name": "Fleetwood Mac",
   "concert_count": 5,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "The Chain",
+      "times_played": 3
+    },
+    {
+      "name": "Gypsy",
+      "times_played": 3
+    },
+    {
+      "name": "Little Lies",
+      "times_played": 3
+    },
+    {
+      "name": "Go Your Own Way",
+      "times_played": 3
+    },
+    {
+      "name": "You Make Loving Fun",
+      "times_played": 2
+    },
+    {
+      "name": "Dreams",
+      "times_played": 2
+    },
+    {
+      "name": "Second Hand News",
+      "times_played": 2
+    },
+    {
+      "name": "Rhiannon",
+      "times_played": 2
+    },
+    {
+      "name": "Everywhere",
+      "times_played": 2
+    },
+    {
+      "name": "Say You Love Me",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "900",

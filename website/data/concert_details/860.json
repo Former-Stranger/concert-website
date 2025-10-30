@@ -1,0 +1,456 @@
+{
+  "id": "860",
+  "show_number": 859,
+  "date": "2018-09-13",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Radio City Music Hall",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Ringo Starr",
+      "role": "festival_performer"
+    },
+    {
+      "name": "All Starr Band",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "16",
+      "artist_name": "All Starr Band",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/ringo-starr-and-his-all-starr-band/2018/radio-city-music-hall-new-york-ny-be99d1a.html",
+      "song_count": 24,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Matchbox",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Carl Perkins"
+        },
+        {
+          "position": 2,
+          "name": "It Don't Come Easy",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Ringo Starr"
+        },
+        {
+          "position": 3,
+          "name": "What Goes On",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Beatles"
+        },
+        {
+          "position": 4,
+          "name": "Dreadlock Holiday",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "10cc",
+          "guest_artist": "Graham Gouldman"
+        },
+        {
+          "position": 5,
+          "name": "Evil Ways",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Willie Bobo",
+          "guest_artist": "Gregg Rolie"
+        },
+        {
+          "position": 6,
+          "name": "Rosanna",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Toto",
+          "guest_artist": "Steve Lukather"
+        },
+        {
+          "position": 7,
+          "name": "Down Under",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Men at Work",
+          "guest_artist": "Colin Hay"
+        },
+        {
+          "position": 8,
+          "name": "Boys",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Shirelles"
+        },
+        {
+          "position": 9,
+          "name": "Don't Pass Me By",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Beatles"
+        },
+        {
+          "position": 10,
+          "name": "Yellow Submarine",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Beatles"
+        },
+        {
+          "position": 11,
+          "name": "I'm Not in Love",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "10cc",
+          "guest_artist": "Graham Gouldman"
+        },
+        {
+          "position": 12,
+          "name": "Black Magic Woman / Gypsy Queen",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Gregg Rolie"
+        },
+        {
+          "position": 13,
+          "name": "You're Sixteen",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Johnny Burnette"
+        },
+        {
+          "position": 14,
+          "name": "Anthem",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Ringo Starr"
+        },
+        {
+          "position": 15,
+          "name": "Overkill",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Men at Work",
+          "guest_artist": "Colin Hay"
+        },
+        {
+          "position": 16,
+          "name": "Africa",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Toto",
+          "guest_artist": "Steve Lukather"
+        },
+        {
+          "position": 17,
+          "name": "Oye c\u00f3mo va",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tito Puente",
+          "guest_artist": "Gregg Rolie"
+        },
+        {
+          "position": 18,
+          "name": "I Wanna Be Your Man",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Beatles"
+        },
+        {
+          "position": 19,
+          "name": "The Things We Do for Love",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "10cc",
+          "guest_artist": "Graham Gouldman"
+        },
+        {
+          "position": 20,
+          "name": "Who Can It Be Now?",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Men at Work",
+          "guest_artist": "Colin Hay"
+        },
+        {
+          "position": 21,
+          "name": "Hold the Line",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Toto",
+          "guest_artist": "Steve Lukather"
+        },
+        {
+          "position": 22,
+          "name": "Photograph",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Ringo Starr"
+        },
+        {
+          "position": 23,
+          "name": "Act Naturally",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Johnny Russell"
+        },
+        {
+          "position": 24,
+          "name": "With a Little Help From My Friends",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Beatles"
+        }
+      ],
+      "tour_name": "13th All Starr Band"
+    },
+    {
+      "artist_id": "462",
+      "artist_name": "Ringo Starr",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/ringo-starr-and-his-all-starr-band/2018/radio-city-music-hall-new-york-ny-be99d1a.html",
+      "song_count": 24,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Matchbox",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Carl Perkins"
+        },
+        {
+          "position": 2,
+          "name": "It Don't Come Easy",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Ringo Starr"
+        },
+        {
+          "position": 3,
+          "name": "What Goes On",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Beatles"
+        },
+        {
+          "position": 4,
+          "name": "Dreadlock Holiday",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "10cc",
+          "guest_artist": "Graham Gouldman"
+        },
+        {
+          "position": 5,
+          "name": "Evil Ways",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Willie Bobo",
+          "guest_artist": "Gregg Rolie"
+        },
+        {
+          "position": 6,
+          "name": "Rosanna",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Toto",
+          "guest_artist": "Steve Lukather"
+        },
+        {
+          "position": 7,
+          "name": "Down Under",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Men at Work",
+          "guest_artist": "Colin Hay"
+        },
+        {
+          "position": 8,
+          "name": "Boys",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Shirelles"
+        },
+        {
+          "position": 9,
+          "name": "Don't Pass Me By",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Beatles"
+        },
+        {
+          "position": 10,
+          "name": "Yellow Submarine",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Beatles"
+        },
+        {
+          "position": 11,
+          "name": "I'm Not in Love",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "10cc",
+          "guest_artist": "Graham Gouldman"
+        },
+        {
+          "position": 12,
+          "name": "Black Magic Woman / Gypsy Queen",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Gregg Rolie"
+        },
+        {
+          "position": 13,
+          "name": "You're Sixteen",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Johnny Burnette"
+        },
+        {
+          "position": 14,
+          "name": "Anthem",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Ringo Starr"
+        },
+        {
+          "position": 15,
+          "name": "Overkill",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Men at Work",
+          "guest_artist": "Colin Hay"
+        },
+        {
+          "position": 16,
+          "name": "Africa",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Toto",
+          "guest_artist": "Steve Lukather"
+        },
+        {
+          "position": 17,
+          "name": "Oye c\u00f3mo va",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tito Puente",
+          "guest_artist": "Gregg Rolie"
+        },
+        {
+          "position": 18,
+          "name": "I Wanna Be Your Man",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Beatles"
+        },
+        {
+          "position": 19,
+          "name": "The Things We Do for Love",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "10cc",
+          "guest_artist": "Graham Gouldman"
+        },
+        {
+          "position": 20,
+          "name": "Who Can It Be Now?",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Men at Work",
+          "guest_artist": "Colin Hay"
+        },
+        {
+          "position": 21,
+          "name": "Hold the Line",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Toto",
+          "guest_artist": "Steve Lukather"
+        },
+        {
+          "position": 22,
+          "name": "Photograph",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Ringo Starr"
+        },
+        {
+          "position": 23,
+          "name": "Act Naturally",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Johnny Russell"
+        },
+        {
+          "position": 24,
+          "name": "With a Little Help From My Friends",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Beatles"
+        }
+      ],
+      "tour_name": "13th All Starr Band"
+    }
+  ],
+  "total_song_count": 48,
+  "has_encore": false,
+  "tour_name": "13th All Starr Band"
+}

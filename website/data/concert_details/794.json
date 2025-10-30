@@ -1,0 +1,560 @@
+{
+  "id": "794",
+  "show_number": 793,
+  "date": "2017-10-12",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Prudential Center",
+  "city": "Newark",
+  "state": "NJ",
+  "artists": [
+    {
+      "name": "Guns",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Roses",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "240",
+      "artist_name": "Guns",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/guns-n-roses/2017/prudential-center-newark-nj-73e3ee9d.html",
+      "song_count": 32,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "It's So Easy",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Mr. Brownstone",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Chinese Democracy",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Welcome to the Jungle",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Double Talkin' Jive",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Better",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Estranged",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "Live and Let Die",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Wings"
+        },
+        {
+          "position": 9,
+          "name": "Rocket Queen",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "You Could Be Mine",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "Attitude",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Misfits"
+        },
+        {
+          "position": 12,
+          "name": "This I Love",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 13,
+          "name": "Civil War",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 14,
+          "name": "Yesterdays",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 15,
+          "name": "There Was a Time",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 16,
+          "name": "Coma",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 17,
+          "name": "Slash Guitar Solo",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 18,
+          "name": "Love Theme from The Godfather",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Nino Rota"
+        },
+        {
+          "position": 19,
+          "name": "Sweet Child o' Mine",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 20,
+          "name": "Wichita Lineman",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jimmy Webb"
+        },
+        {
+          "position": 21,
+          "name": "Used to Love Her",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 22,
+          "name": "My Michelle",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 23,
+          "name": "Wish You Were Here",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Pink Floyd"
+        },
+        {
+          "position": 24,
+          "name": "November Rain",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 25,
+          "name": "Black Hole Sun",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Soundgarden"
+        },
+        {
+          "position": 26,
+          "name": "Knockin' on Heaven's Door",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Bob Dylan"
+        },
+        {
+          "position": 27,
+          "name": "Nightrain",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 28,
+          "name": "Madagascar",
+          "set_name": "Set 2",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 29,
+          "name": "Don't Cry",
+          "set_name": "Set 2",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 30,
+          "name": "The Seeker",
+          "set_name": "Set 2",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Who"
+        },
+        {
+          "position": 31,
+          "name": "Paradise City",
+          "set_name": "Set 2",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 32,
+          "name": "You Know My Name",
+          "set_name": "Set 2",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Chris Cornell"
+        }
+      ],
+      "tour_name": "Not in This Lifetime"
+    },
+    {
+      "artist_id": "488",
+      "artist_name": "Roses",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/guns-n-roses/2017/prudential-center-newark-nj-73e3ee9d.html",
+      "song_count": 32,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "It's So Easy",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Mr. Brownstone",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Chinese Democracy",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Welcome to the Jungle",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Double Talkin' Jive",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Better",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Estranged",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "Live and Let Die",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Wings"
+        },
+        {
+          "position": 9,
+          "name": "Rocket Queen",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "You Could Be Mine",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "Attitude",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Misfits"
+        },
+        {
+          "position": 12,
+          "name": "This I Love",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 13,
+          "name": "Civil War",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 14,
+          "name": "Yesterdays",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 15,
+          "name": "There Was a Time",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 16,
+          "name": "Coma",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 17,
+          "name": "Slash Guitar Solo",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 18,
+          "name": "Love Theme from The Godfather",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Nino Rota"
+        },
+        {
+          "position": 19,
+          "name": "Sweet Child o' Mine",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 20,
+          "name": "Wichita Lineman",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jimmy Webb"
+        },
+        {
+          "position": 21,
+          "name": "Used to Love Her",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 22,
+          "name": "My Michelle",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 23,
+          "name": "Wish You Were Here",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Pink Floyd"
+        },
+        {
+          "position": 24,
+          "name": "November Rain",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 25,
+          "name": "Black Hole Sun",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Soundgarden"
+        },
+        {
+          "position": 26,
+          "name": "Knockin' on Heaven's Door",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Bob Dylan"
+        },
+        {
+          "position": 27,
+          "name": "Nightrain",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 28,
+          "name": "Madagascar",
+          "set_name": "Set 2",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 29,
+          "name": "Don't Cry",
+          "set_name": "Set 2",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 30,
+          "name": "The Seeker",
+          "set_name": "Set 2",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Who"
+        },
+        {
+          "position": 31,
+          "name": "Paradise City",
+          "set_name": "Set 2",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 32,
+          "name": "You Know My Name",
+          "set_name": "Set 2",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Chris Cornell"
+        }
+      ],
+      "tour_name": "Not in This Lifetime"
+    }
+  ],
+  "total_song_count": 64,
+  "has_encore": false,
+  "tour_name": "Not in This Lifetime"
+}

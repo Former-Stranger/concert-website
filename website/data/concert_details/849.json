@@ -1,0 +1,374 @@
+{
+  "id": "849",
+  "show_number": 848,
+  "date": "2018-08-11",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Jason Aldean",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Luke Combs",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Lauren Alaina",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "263",
+      "artist_name": "Jason Aldean",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/jason-aldean/2018/madison-square-garden-new-york-ny-2be89c0a.html",
+      "song_count": 24,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Gettin' Warmed Up",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Take a Little Ride",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "They Don't Know",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "A Little More Summertime",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Any Ol' Barstool",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "When She Says Baby",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Tattoos on This Town",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "Night Train",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 9,
+          "name": "Amarillo Sky",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "John Rich"
+        },
+        {
+          "position": 10,
+          "name": "The Truth",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "Drowns the Whiskey",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 12,
+          "name": "Johnny Cash",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 13,
+          "name": "Fly Over States",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 14,
+          "name": "Lights Come On",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 15,
+          "name": "Rearview Town",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 16,
+          "name": "The Only Way I Know",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 17,
+          "name": "Big Green Tractor",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 18,
+          "name": "You Make It Easy",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 19,
+          "name": "Hicktown",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 20,
+          "name": "Dirt Road Anthem",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Colt Ford"
+        },
+        {
+          "position": 21,
+          "name": "My Kinda Party",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Brantley Gilbert"
+        },
+        {
+          "position": 22,
+          "name": "She's Country",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 23,
+          "name": "Burnin' It Down",
+          "set_name": "Set 2",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 24,
+          "name": "Crazy Town",
+          "set_name": "Set 2",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ],
+      "tour_name": "High Noon Neon Tour"
+    },
+    {
+      "artist_id": "338",
+      "artist_name": "Lauren Alaina",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/lauren-alaina/2018/madison-square-garden-new-york-ny-23e89c9f.html",
+      "song_count": 5,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Georgia Peaches / Paradise City",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Next Boyfriend / Watch Me",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Doin' Fine",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "What If's",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Road Less Traveled",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ]
+    },
+    {
+      "artist_id": "357",
+      "artist_name": "Luke Combs",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/luke-combs/2018/madison-square-garden-new-york-ny-23e89c9b.html",
+      "song_count": 10,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Beer Never Broke My Heart",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "She Got the Best of Me",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Houston, We Got a Problem",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Honky Tonk Highway",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "When It Rains It Pours",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Beautiful Crazy",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Take It Easy / Should've Been a Cowboy / Chasin' That Neon Rainbow",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "One Number Away",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 9,
+          "name": "Let the Moonshine",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "Hurricane",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ],
+      "tour_name": "High Noon Neon Tour"
+    }
+  ],
+  "total_song_count": 39,
+  "has_encore": false,
+  "tour_name": "High Noon Neon Tour"
+}

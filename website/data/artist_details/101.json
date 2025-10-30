@@ -2,7 +2,48 @@
   "id": "101",
   "name": "Bryan Adams",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Reckless",
+      "times_played": 1
+    },
+    {
+      "name": "One Night Love Affair",
+      "times_played": 1
+    },
+    {
+      "name": "She's Only Happy When She's Dancin'",
+      "times_played": 1
+    },
+    {
+      "name": "Run to You",
+      "times_played": 1
+    },
+    {
+      "name": "Boys Nite Out",
+      "times_played": 1
+    },
+    {
+      "name": "Heaven",
+      "times_played": 1
+    },
+    {
+      "name": "Kids Wanna Rock",
+      "times_played": 1
+    },
+    {
+      "name": "It's Only Love",
+      "times_played": 1
+    },
+    {
+      "name": "Long Gone",
+      "times_played": 1
+    },
+    {
+      "name": "Somebody",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "630",

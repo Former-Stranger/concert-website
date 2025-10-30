@@ -2,7 +2,48 @@
   "id": "620",
   "name": "Van Halen",
   "concert_count": 3,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Light Up the Sky",
+      "times_played": 1
+    },
+    {
+      "name": "Runnin' With the Devil",
+      "times_played": 1
+    },
+    {
+      "name": "Romeo Delight",
+      "times_played": 1
+    },
+    {
+      "name": "Everybody Wants Some!!",
+      "times_played": 1
+    },
+    {
+      "name": "Drop Dead Legs",
+      "times_played": 1
+    },
+    {
+      "name": "Feel Your Love Tonight",
+      "times_played": 1
+    },
+    {
+      "name": "Somebody Get Me a Doctor",
+      "times_played": 1
+    },
+    {
+      "name": "She's the Woman",
+      "times_played": 1
+    },
+    {
+      "name": "China Town",
+      "times_played": 1
+    },
+    {
+      "name": "I'll Wait",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "643",

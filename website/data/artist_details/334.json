@@ -4,6 +4,18 @@
   "concert_count": 4,
   "top_songs": [
     {
+      "name": "Poker Face",
+      "times_played": 2
+    },
+    {
+      "name": "Born This Way",
+      "times_played": 2
+    },
+    {
+      "name": "Bad Romance",
+      "times_played": 2
+    },
+    {
       "name": "Orange Colored Sky",
       "times_played": 1
     },
@@ -24,23 +36,11 @@
       "times_played": 1
     },
     {
-      "name": "Poker Face",
-      "times_played": 1
-    },
-    {
       "name": "It Don't Mean a Thing (If It Ain't Got That Swing)",
       "times_played": 1
     },
     {
       "name": "I Can't Give You Anything but Love, Baby",
-      "times_played": 1
-    },
-    {
-      "name": "If I Had You",
-      "times_played": 1
-    },
-    {
-      "name": "Do I Love You",
       "times_played": 1
     }
   ],

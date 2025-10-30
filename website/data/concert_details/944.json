@@ -1,0 +1,264 @@
+{
+  "id": "944",
+  "show_number": 943,
+  "date": "2019-09-25",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Mark Knopfler",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Bonnie Raitt",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "74",
+      "artist_name": "Bonnie Raitt",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/bonnie-raitt/2019/madison-square-garden-new-york-ny-139c2db9.html",
+      "song_count": 10,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Unintended Consequence of Love",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Need You Tonight",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "INXS"
+        },
+        {
+          "position": 3,
+          "name": "One Belief Away",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "I Believe I'm in Love With You",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Fabulous Thunderbirds"
+        },
+        {
+          "position": 5,
+          "name": "Devil Got My Woman",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Skip James"
+        },
+        {
+          "position": 6,
+          "name": "Something to Talk About",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Shirley Eikhard"
+        },
+        {
+          "position": 7,
+          "name": "Thing Called Love",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "John Hiatt"
+        },
+        {
+          "position": 8,
+          "name": "Angel From Montgomery",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "John Prine"
+        },
+        {
+          "position": 9,
+          "name": "I Can't Make You Love Me",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Mike Reid"
+        },
+        {
+          "position": 10,
+          "name": "You Got the Love / Love Sneakin' Up on You",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ]
+    },
+    {
+      "artist_id": "372",
+      "artist_name": "Mark Knopfler",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/mark-knopfler/2019/madison-square-garden-new-york-ny-39c2dbf.html",
+      "song_count": 17,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Why Aye Man",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Corned Beef City",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Sailing to Philadelphia",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Once Upon a Time in the West",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Dire Straits"
+        },
+        {
+          "position": 5,
+          "name": "Romeo and Juliet",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Dire Straits"
+        },
+        {
+          "position": 6,
+          "name": "My Bacon Roll",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Matchstick Man",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "Done With Bonaparte",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 9,
+          "name": "Heart Full of Holes",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "She's Gone",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "Your Latest Trick",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Dire Straits"
+        },
+        {
+          "position": 12,
+          "name": "Postcards From Paraguay",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 13,
+          "name": "On Every Street",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Dire Straits"
+        },
+        {
+          "position": 14,
+          "name": "Speedway at Nazareth",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 15,
+          "name": "Money for Nothing",
+          "set_name": "Set 2",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Dire Straits"
+        },
+        {
+          "position": 16,
+          "name": "Wherever I Go",
+          "set_name": "Set 3",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Bonnie Raitt"
+        },
+        {
+          "position": 17,
+          "name": "Going Home: Theme of the Local Hero",
+          "set_name": "Set 3",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ],
+      "tour_name": "Down the Road Wherever"
+    }
+  ],
+  "total_song_count": 27,
+  "has_encore": false,
+  "tour_name": "Down the Road Wherever"
+}

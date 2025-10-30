@@ -2,7 +2,48 @@
   "id": "531",
   "name": "Steely Dan",
   "concert_count": 5,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Aja",
+      "times_played": 2
+    },
+    {
+      "name": "Hey Nineteen",
+      "times_played": 2
+    },
+    {
+      "name": "Black Friday",
+      "times_played": 2
+    },
+    {
+      "name": "Time Out of Mind",
+      "times_played": 2
+    },
+    {
+      "name": "Bodhisattva",
+      "times_played": 2
+    },
+    {
+      "name": "Josie",
+      "times_played": 2
+    },
+    {
+      "name": "Peg",
+      "times_played": 2
+    },
+    {
+      "name": "My Old School",
+      "times_played": 2
+    },
+    {
+      "name": "Reelin' In the Years",
+      "times_played": 2
+    },
+    {
+      "name": "Kid Charlemagne",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "771",

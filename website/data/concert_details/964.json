@@ -1,0 +1,175 @@
+{
+  "id": "964",
+  "show_number": 963,
+  "date": "2019-12-03",
+  "festival_name": null,
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Bob Dylan",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/bob-dylan/2019/beacon-theatre-new-york-ny-539a0b2d.html",
+  "song_count": 19,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Things Have Changed",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "It Ain't Me, Babe",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Highway 61 Revisited",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Simple Twist of Fate",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Can't Wait",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "When I Paint My Masterpiece",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Honest With Me",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Tryin' to Get to Heaven",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Make You Feel My Love",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Pay in Blood",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "Lenny Bruce",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "Early Roman Kings",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Girl From the North Country",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Not Dark Yet",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Thunder on the Mountain",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Soon After Midnight",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "Gotta Serve Somebody",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "Ballad of a Thin Man",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 19,
+      "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ],
+  "tour_name": "Never Ending Tour"
+}

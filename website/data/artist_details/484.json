@@ -2,7 +2,48 @@
   "id": "484",
   "name": "Roger McGuinn",
   "concert_count": 6,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "My Back Pages",
+      "times_played": 1
+    },
+    {
+      "name": "Nothing Was Delivered",
+      "times_played": 1
+    },
+    {
+      "name": "Pretty Boy Floyd",
+      "times_played": 1
+    },
+    {
+      "name": "You Ain't Goin' Nowhere",
+      "times_played": 1
+    },
+    {
+      "name": "I'm In Love",
+      "times_played": 1
+    },
+    {
+      "name": "Daddy Roll 'em",
+      "times_played": 1
+    },
+    {
+      "name": "They Hung Him on a Cross",
+      "times_played": 1
+    },
+    {
+      "name": "St. James Infirmary Blues",
+      "times_played": 1
+    },
+    {
+      "name": "Turn! Turn! Turn! (To Everything There Is a Season)",
+      "times_played": 1
+    },
+    {
+      "name": "The Water Is Wide",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1251",

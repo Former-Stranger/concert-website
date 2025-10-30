@@ -1,0 +1,194 @@
+{
+  "id": "879",
+  "show_number": 878,
+  "date": "2018-11-02",
+  "festival_name": null,
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Chris Stapleton",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/chris-stapleton/2018/madison-square-garden-new-york-ny-73966a4d.html",
+  "song_count": 21,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Midnight Train to Memphis",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The SteelDrivers"
+    },
+    {
+      "position": 2,
+      "name": "Them Stems",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Nobody to Blame",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Hard Livin'",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Millionaire",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Kevin Welch"
+    },
+    {
+      "position": 6,
+      "name": "Fire Away",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Might as Well Get Stoned",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null,
+      "guest_artist": "Brent Cobb"
+    },
+    {
+      "position": 8,
+      "name": "Without Your Love",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Trying to Untangle My Mind",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Now That's Country",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Marty Stuart",
+      "guest_artist": "Marty Stuart"
+    },
+    {
+      "position": 11,
+      "name": "I Ain't Living Long Like This",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Rodney Crowell",
+      "guest_artist": "Marty Stuart"
+    },
+    {
+      "position": 12,
+      "name": "Whiskey and You",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Drunkard's Prayer",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Broken Halos",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Second One to Know",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Traveller",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "I Was Wrong",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "The Devil Named Music",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 19,
+      "name": "Parachute",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "Tennessee Whiskey",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "David Allan Coe"
+    },
+    {
+      "position": 21,
+      "name": "Outlaw State of Mind",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ],
+  "tour_name": "All-American Road Show"
+}

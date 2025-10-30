@@ -2,7 +2,48 @@
   "id": "399",
   "name": "Neil Diamond",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Cherry, Cherry",
+      "times_played": 1
+    },
+    {
+      "name": "You Got to Me",
+      "times_played": 1
+    },
+    {
+      "name": "Solitary Man",
+      "times_played": 1
+    },
+    {
+      "name": "Love on the Rocks",
+      "times_played": 1
+    },
+    {
+      "name": "Play Me",
+      "times_played": 1
+    },
+    {
+      "name": "Song Sung Blue",
+      "times_played": 1
+    },
+    {
+      "name": "Beautiful Noise",
+      "times_played": 1
+    },
+    {
+      "name": "Jungletime",
+      "times_played": 1
+    },
+    {
+      "name": "Dry Your Eyes",
+      "times_played": 1
+    },
+    {
+      "name": "If You Know What I Mean",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "760",

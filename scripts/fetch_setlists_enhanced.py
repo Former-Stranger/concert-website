@@ -21,7 +21,7 @@ import time
 from setlistfm_client import SetlistFMClient
 
 # Setlist.fm API key
-SETLISTFM_API_KEY = "_Q380wqoYXFLsXALU_vlNSUTjwy7j7KQ6Bx9"
+SETLISTFM_API_KEY = "DrR0j3jlKSLRrXSTsd_r71QUIA24ZQydjpsE"
 
 def init_firebase():
     """Initialize Firebase Admin SDK"""

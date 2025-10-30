@@ -1,0 +1,255 @@
+{
+  "id": "838",
+  "show_number": 837,
+  "date": "2018-06-29",
+  "festival_name": null,
+  "venue": "Prudential Center",
+  "city": "Newark",
+  "state": "NJ",
+  "artists": [
+    {
+      "name": "U2",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/u2/2018/prudential-center-newark-nj-4bea1706.html",
+  "song_count": 29,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "It's a Beautiful World",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Noel Gallagher\u2019s High Flying Birds"
+    },
+    {
+      "position": 2,
+      "name": "Rain",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Hans Zimmer & Benjamin Wallfisch"
+    },
+    {
+      "position": 3,
+      "name": "Love Is All We Have Left",
+      "set_name": "Inside Screen",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "The Blackout",
+      "set_name": "Inside Screen",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Lights of Home",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "I Will Follow",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "All Because of You",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Beautiful Day",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "The Ocean",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Iris (Hold Me Close)",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "Cedarwood Road",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "Sunday Bloody Sunday",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Until the End of the World",
+      "set_name": "Set 3",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Hold Me, Thrill Me, Kiss Me, Kill Me",
+      "set_name": "Intermission",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Elevation",
+      "set_name": "\"E\" Stage",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Vertigo",
+      "set_name": "\"E\" Stage",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "Desire",
+      "set_name": "\"E\" Stage",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "Acrobat",
+      "set_name": "\"E\" Stage",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 19,
+      "name": "You're the Best Thing About Me",
+      "set_name": "\"E\" Stage",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "Staring at the Sun",
+      "set_name": "\"E\" Stage",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 21,
+      "name": "Pride (In the Name of Love)",
+      "set_name": "Set 6",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 22,
+      "name": "Get Out of Your Own Way",
+      "set_name": "Set 6",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 23,
+      "name": "American Soul",
+      "set_name": "Set 6",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 24,
+      "name": "City of Blinding Lights",
+      "set_name": "Set 6",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 25,
+      "name": "Women of the World",
+      "set_name": "Set 7",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jim O\u2019Rourke"
+    },
+    {
+      "position": 26,
+      "name": "One",
+      "set_name": "Set 7",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 27,
+      "name": "Love Is Bigger Than Anything in Its Way",
+      "set_name": "Set 7",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 28,
+      "name": "13 (There Is a Light)",
+      "set_name": "Set 7",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 29,
+      "name": "This Must Be the Place (Naive Melody)",
+      "set_name": "Set 7",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Talking Heads"
+    }
+  ],
+  "tour_name": "eXPERIENCE + iNNOCENCE Tour"
+}

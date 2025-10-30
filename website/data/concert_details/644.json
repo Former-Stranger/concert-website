@@ -1,0 +1,30 @@
+{
+  "id": "644",
+  "show_number": 643,
+  "date": "2015-08-14",
+  "festival_name": null,
+  "venue": "Wonder Bar",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "artists": [
+    {
+      "name": "Will Hoge",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/will-hoge/2015/wonder-bar-asbury-park-nj-2bf7e8a6.html",
+  "song_count": 1,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Growing Up Around Here",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

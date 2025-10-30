@@ -1,0 +1,269 @@
+{
+  "id": "695",
+  "show_number": 694,
+  "date": "2016-05-27",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Phil Lesh",
+      "role": "festival_performer"
+    },
+    {
+      "name": "Friends (W. Warren Haynes)",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "218",
+      "artist_name": "Friends (W. Warren Haynes)",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/phil-lesh-and-friends/2016/capitol-theatre-port-chester-ny-73fe86f1.html",
+      "song_count": 14,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Franklin's Tower",
+          "set_name": "First Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 2,
+          "name": "The Weight",
+          "set_name": "First Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Band"
+        },
+        {
+          "position": 3,
+          "name": "Alabama Getaway",
+          "set_name": "First Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 4,
+          "name": "Blue Sky",
+          "set_name": "First Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Allman Brothers Band"
+        },
+        {
+          "position": 5,
+          "name": "Bird Song",
+          "set_name": "First Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jerry Garcia"
+        },
+        {
+          "position": 6,
+          "name": "All Along the Watchtower",
+          "set_name": "First Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Bob Dylan"
+        },
+        {
+          "position": 7,
+          "name": "Mason's Children",
+          "set_name": "Second Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 8,
+          "name": "Mountains of the Moon",
+          "set_name": "Second Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 9,
+          "name": "St. Stephen",
+          "set_name": "Second Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 10,
+          "name": "Unbroken Chain",
+          "set_name": "Second Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 11,
+          "name": "Spots of Time",
+          "set_name": "Second Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Warren Haynes"
+        },
+        {
+          "position": 12,
+          "name": "End of the Line",
+          "set_name": "Second Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Allman Brothers Band"
+        },
+        {
+          "position": 13,
+          "name": "Stella Blue",
+          "set_name": "Second Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 14,
+          "name": "Going Down the Road Feeling Bad",
+          "set_name": "Set 3",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "[traditional]"
+        }
+      ]
+    },
+    {
+      "artist_id": "429",
+      "artist_name": "Phil Lesh",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/phil-lesh-and-friends/2016/capitol-theatre-port-chester-ny-73fe86f1.html",
+      "song_count": 14,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Franklin's Tower",
+          "set_name": "First Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 2,
+          "name": "The Weight",
+          "set_name": "First Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Band"
+        },
+        {
+          "position": 3,
+          "name": "Alabama Getaway",
+          "set_name": "First Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 4,
+          "name": "Blue Sky",
+          "set_name": "First Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Allman Brothers Band"
+        },
+        {
+          "position": 5,
+          "name": "Bird Song",
+          "set_name": "First Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jerry Garcia"
+        },
+        {
+          "position": 6,
+          "name": "All Along the Watchtower",
+          "set_name": "First Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Bob Dylan"
+        },
+        {
+          "position": 7,
+          "name": "Mason's Children",
+          "set_name": "Second Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 8,
+          "name": "Mountains of the Moon",
+          "set_name": "Second Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 9,
+          "name": "St. Stephen",
+          "set_name": "Second Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 10,
+          "name": "Unbroken Chain",
+          "set_name": "Second Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 11,
+          "name": "Spots of Time",
+          "set_name": "Second Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Warren Haynes"
+        },
+        {
+          "position": 12,
+          "name": "End of the Line",
+          "set_name": "Second Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Allman Brothers Band"
+        },
+        {
+          "position": 13,
+          "name": "Stella Blue",
+          "set_name": "Second Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 14,
+          "name": "Going Down the Road Feeling Bad",
+          "set_name": "Set 3",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "[traditional]"
+        }
+      ]
+    }
+  ],
+  "total_song_count": 28,
+  "has_encore": false
+}

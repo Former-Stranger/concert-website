@@ -1,0 +1,456 @@
+{
+  "id": "799",
+  "show_number": 798,
+  "date": "2017-11-15",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Ringo Starr",
+      "role": "festival_performer"
+    },
+    {
+      "name": "All Starr Band",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "16",
+      "artist_name": "All Starr Band",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/ringo-starr-and-his-all-starr-band/2017/beacon-theatre-new-york-ny-1be0857c.html",
+      "song_count": 24,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Matchbox",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Carl Perkins"
+        },
+        {
+          "position": 2,
+          "name": "It Don't Come Easy",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Ringo Starr"
+        },
+        {
+          "position": 3,
+          "name": "What Goes On",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Beatles"
+        },
+        {
+          "position": 4,
+          "name": "I Saw the Light",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Todd Rundgren",
+          "guest_artist": "Todd Rundgren"
+        },
+        {
+          "position": 5,
+          "name": "Evil Ways",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Willie Bobo",
+          "guest_artist": "Gregg Rolie"
+        },
+        {
+          "position": 6,
+          "name": "Rosanna",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Toto",
+          "guest_artist": "Steve Lukather"
+        },
+        {
+          "position": 7,
+          "name": "Kyrie",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Mr. Mister",
+          "guest_artist": "Richard Page"
+        },
+        {
+          "position": 8,
+          "name": "Bang the Drum All Day",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Todd Rundgren",
+          "guest_artist": "Todd Rundgren"
+        },
+        {
+          "position": 9,
+          "name": "Boys",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Shirelles"
+        },
+        {
+          "position": 10,
+          "name": "Don't Pass Me By",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Beatles"
+        },
+        {
+          "position": 11,
+          "name": "Yellow Submarine",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Beatles"
+        },
+        {
+          "position": 12,
+          "name": "Black Magic Woman / Gypsy Queen",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Gregg Rolie"
+        },
+        {
+          "position": 13,
+          "name": "You're Sixteen",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Johnny Burnette"
+        },
+        {
+          "position": 14,
+          "name": "Back Off Boogaloo",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Ringo Starr"
+        },
+        {
+          "position": 15,
+          "name": "You Are Mine",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Richard Page",
+          "guest_artist": "Richard Page"
+        },
+        {
+          "position": 16,
+          "name": "Africa",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Toto",
+          "guest_artist": "Steve Lukather"
+        },
+        {
+          "position": 17,
+          "name": "Oye c\u00f3mo va",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tito Puente",
+          "guest_artist": "Gregg Rolie"
+        },
+        {
+          "position": 18,
+          "name": "I Wanna Be Your Man",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Beatles"
+        },
+        {
+          "position": 19,
+          "name": "Love Is the Answer",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Utopia",
+          "guest_artist": "Todd Rundgren"
+        },
+        {
+          "position": 20,
+          "name": "Broken Wings",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Mr. Mister",
+          "guest_artist": "Richard Page"
+        },
+        {
+          "position": 21,
+          "name": "Hold the Line",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Toto",
+          "guest_artist": "Steve Lukather"
+        },
+        {
+          "position": 22,
+          "name": "Photograph",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Ringo Starr"
+        },
+        {
+          "position": 23,
+          "name": "Act Naturally",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Johnny Russell"
+        },
+        {
+          "position": 24,
+          "name": "With a Little Help From My Friends",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Beatles"
+        }
+      ],
+      "tour_name": "12th All Starr Band"
+    },
+    {
+      "artist_id": "462",
+      "artist_name": "Ringo Starr",
+      "artist_role": "festival_performer",
+      "setlistfm_url": "https://www.setlist.fm/setlist/ringo-starr-and-his-all-starr-band/2017/beacon-theatre-new-york-ny-1be0857c.html",
+      "song_count": 24,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Matchbox",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Carl Perkins"
+        },
+        {
+          "position": 2,
+          "name": "It Don't Come Easy",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Ringo Starr"
+        },
+        {
+          "position": 3,
+          "name": "What Goes On",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Beatles"
+        },
+        {
+          "position": 4,
+          "name": "I Saw the Light",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Todd Rundgren",
+          "guest_artist": "Todd Rundgren"
+        },
+        {
+          "position": 5,
+          "name": "Evil Ways",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Willie Bobo",
+          "guest_artist": "Gregg Rolie"
+        },
+        {
+          "position": 6,
+          "name": "Rosanna",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Toto",
+          "guest_artist": "Steve Lukather"
+        },
+        {
+          "position": 7,
+          "name": "Kyrie",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Mr. Mister",
+          "guest_artist": "Richard Page"
+        },
+        {
+          "position": 8,
+          "name": "Bang the Drum All Day",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Todd Rundgren",
+          "guest_artist": "Todd Rundgren"
+        },
+        {
+          "position": 9,
+          "name": "Boys",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Shirelles"
+        },
+        {
+          "position": 10,
+          "name": "Don't Pass Me By",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Beatles"
+        },
+        {
+          "position": 11,
+          "name": "Yellow Submarine",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Beatles"
+        },
+        {
+          "position": 12,
+          "name": "Black Magic Woman / Gypsy Queen",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null,
+          "guest_artist": "Gregg Rolie"
+        },
+        {
+          "position": 13,
+          "name": "You're Sixteen",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Johnny Burnette"
+        },
+        {
+          "position": 14,
+          "name": "Back Off Boogaloo",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Ringo Starr"
+        },
+        {
+          "position": 15,
+          "name": "You Are Mine",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Richard Page",
+          "guest_artist": "Richard Page"
+        },
+        {
+          "position": 16,
+          "name": "Africa",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Toto",
+          "guest_artist": "Steve Lukather"
+        },
+        {
+          "position": 17,
+          "name": "Oye c\u00f3mo va",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Tito Puente",
+          "guest_artist": "Gregg Rolie"
+        },
+        {
+          "position": 18,
+          "name": "I Wanna Be Your Man",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Beatles"
+        },
+        {
+          "position": 19,
+          "name": "Love Is the Answer",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Utopia",
+          "guest_artist": "Todd Rundgren"
+        },
+        {
+          "position": 20,
+          "name": "Broken Wings",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Mr. Mister",
+          "guest_artist": "Richard Page"
+        },
+        {
+          "position": 21,
+          "name": "Hold the Line",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Toto",
+          "guest_artist": "Steve Lukather"
+        },
+        {
+          "position": 22,
+          "name": "Photograph",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Ringo Starr"
+        },
+        {
+          "position": 23,
+          "name": "Act Naturally",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Johnny Russell"
+        },
+        {
+          "position": 24,
+          "name": "With a Little Help From My Friends",
+          "set_name": "Set 1",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Beatles"
+        }
+      ],
+      "tour_name": "12th All Starr Band"
+    }
+  ],
+  "total_song_count": 48,
+  "has_encore": false,
+  "tour_name": "12th All Starr Band"
+}

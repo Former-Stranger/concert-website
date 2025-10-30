@@ -2,7 +2,36 @@
   "id": "94",
   "name": "Bruce Springsteen with U2",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Change",
+      "times_played": 1
+    },
+    {
+      "name": "Something in the Water",
+      "times_played": 1
+    },
+    {
+      "name": "Power",
+      "times_played": 1
+    },
+    {
+      "name": "Jesus Walks",
+      "times_played": 1
+    },
+    {
+      "name": "Black Skinhead",
+      "times_played": 1
+    },
+    {
+      "name": "Stronger",
+      "times_played": 1
+    },
+    {
+      "name": "Touch the Sky",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "609",

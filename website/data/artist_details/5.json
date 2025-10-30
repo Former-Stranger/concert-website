@@ -2,7 +2,48 @@
   "id": "5",
   "name": "ACDC",
   "concert_count": 3,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Rock or Bust",
+      "times_played": 1
+    },
+    {
+      "name": "Shoot to Thrill",
+      "times_played": 1
+    },
+    {
+      "name": "Hell Ain't a Bad Place to Be",
+      "times_played": 1
+    },
+    {
+      "name": "Back in Black",
+      "times_played": 1
+    },
+    {
+      "name": "Play Ball",
+      "times_played": 1
+    },
+    {
+      "name": "Dirty Deeds Done Dirt Cheap",
+      "times_played": 1
+    },
+    {
+      "name": "Thunderstruck",
+      "times_played": 1
+    },
+    {
+      "name": "High Voltage",
+      "times_played": 1
+    },
+    {
+      "name": "Rock 'n' Roll Train",
+      "times_played": 1
+    },
+    {
+      "name": "Hells Bells",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "648",

@@ -2,7 +2,48 @@
   "id": "108",
   "name": "Carl Palmer",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Go",
+      "times_played": 1
+    },
+    {
+      "name": "Don't Cry",
+      "times_played": 1
+    },
+    {
+      "name": "Video Killed the Radio Star",
+      "times_played": 1
+    },
+    {
+      "name": "The Smile Has Left Your Eyes",
+      "times_played": 1
+    },
+    {
+      "name": "Lucky Man",
+      "times_played": 1
+    },
+    {
+      "name": "Keyboard Solo",
+      "times_played": 1
+    },
+    {
+      "name": "Wildest Dreams",
+      "times_played": 1
+    },
+    {
+      "name": "Sole Survivor",
+      "times_played": 1
+    },
+    {
+      "name": "Only Time Will Tell",
+      "times_played": 1
+    },
+    {
+      "name": "Heat of the Moment",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "917",

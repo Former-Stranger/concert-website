@@ -2,7 +2,48 @@
   "id": "121",
   "name": "Chris Young",
   "concert_count": 2,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "A.M.",
+      "times_played": 1
+    },
+    {
+      "name": "Gettin' You Home (The Black Dress Song)",
+      "times_played": 1
+    },
+    {
+      "name": "Voices",
+      "times_played": 1
+    },
+    {
+      "name": "Lonely Eyes",
+      "times_played": 1
+    },
+    {
+      "name": "Who I Am With You",
+      "times_played": 1
+    },
+    {
+      "name": "Aw Naw",
+      "times_played": 1
+    },
+    {
+      "name": "I Can Take It From There",
+      "times_played": 1
+    },
+    {
+      "name": "Change the World",
+      "times_played": 1
+    },
+    {
+      "name": "Sharp Dressed Man",
+      "times_played": 1
+    },
+    {
+      "name": "When She's On",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "607",

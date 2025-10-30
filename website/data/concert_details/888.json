@@ -1,0 +1,184 @@
+{
+  "id": "888",
+  "show_number": 887,
+  "date": "2018-12-11",
+  "festival_name": "Multi-Artist Show",
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Mumford & Sons",
+      "role": "festival_performer"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/mumford-and-sons/2018/madison-square-garden-new-york-ny-5394b36d.html",
+  "song_count": 20,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "42",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Little Lion Man",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Babel",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Lover of the Light",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Guiding Light",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Tompkins Square Park",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Believe",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Beloved",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Ghosts That We Knew",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "The Cave",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "Roll Away Your Stone",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "Ditmas",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Picture You",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Darkness Visible",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "The Wolf",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Cold Arms",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "Slip Away",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "Awake My Soul",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null,
+      "guest_artist": "Maggie Rogers"
+    },
+    {
+      "position": 19,
+      "name": "I Will Wait",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "Delta",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ],
+  "tour_name": "Delta"
+}

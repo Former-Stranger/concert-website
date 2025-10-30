@@ -1,0 +1,167 @@
+{
+  "id": "815",
+  "show_number": 814,
+  "date": "2018-03-01",
+  "festival_name": null,
+  "venue": "Tarrytown Music Hall",
+  "city": "Tarrytown",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Weird Al Yankovic",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/weird-al-yankovic/2018/tarrytown-music-hall-tarrytown-ny-63ee4e8f.html",
+  "song_count": 18,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Jackson Park Express",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Mr. Popeil",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Generic Blues",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "You Don't Love Me Anymore",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Melanie",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "CNR",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Your Horoscope for Today",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Dare to Be Stupid",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Mr. Frump in the Iron Lung",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Don't Download This Song",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "Traffic Jam",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "Good Old Days",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "My Own Eyes",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Albuquerque",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Bass Solo",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Eat It / I Lost on Jeopardy / Amish Paradise / Smells Like Nirvana / White & Nerdy / I Love Rocky Road / Like a Surgeon",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "Blue Suede Shoes",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Carl Perkins"
+    },
+    {
+      "position": 18,
+      "name": "The Saga Begins",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ],
+  "tour_name": "The Ridiculously Self-Indulgent Ill-Advised Vanity Tour"
+}

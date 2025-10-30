@@ -2,7 +2,48 @@
   "id": "63",
   "name": "Bob Seger",
   "concert_count": 4,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Roll Me Away",
+      "times_played": 2
+    },
+    {
+      "name": "The Fire Down Below",
+      "times_played": 2
+    },
+    {
+      "name": "Mainstreet",
+      "times_played": 2
+    },
+    {
+      "name": "Old Time Rock and Roll",
+      "times_played": 2
+    },
+    {
+      "name": "Come to Poppa",
+      "times_played": 2
+    },
+    {
+      "name": "Her Strut",
+      "times_played": 2
+    },
+    {
+      "name": "Like a Rock",
+      "times_played": 2
+    },
+    {
+      "name": "Travelin' Man",
+      "times_played": 2
+    },
+    {
+      "name": "Beautiful Loser",
+      "times_played": 2
+    },
+    {
+      "name": "We've Got Tonite",
+      "times_played": 2
+    }
+  ],
   "concerts": [
     {
       "id": "915",

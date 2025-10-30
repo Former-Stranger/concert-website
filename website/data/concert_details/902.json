@@ -1,0 +1,150 @@
+{
+  "id": "902",
+  "show_number": 901,
+  "date": "2019-03-23",
+  "festival_name": null,
+  "venue": "NYCB Theatre at Westbury",
+  "city": "Westbury",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Joe Bonamassa",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/joe-bonamassa/2019/nycb-theatre-at-westbury-westbury-ny-239248bf.html",
+  "song_count": 16,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Tiger in Your Tank",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Muddy Waters"
+    },
+    {
+      "position": 2,
+      "name": "King Bee Shakedown",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Evil Mama",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Just 'Cos You Can Don't Mean You Should",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Self-Inflicted Wounds",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "This Train",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Blues of Desperation",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "No Good Place for the Lonely",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Sloe Gin",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tim Curry"
+    },
+    {
+      "position": 10,
+      "name": "Well, Well",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Delaney & Bonnie"
+    },
+    {
+      "position": 11,
+      "name": "Don't You Lie to Me",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tampa Red"
+    },
+    {
+      "position": 12,
+      "name": "Nobody Loves Me but My Mother",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "B.B. King"
+    },
+    {
+      "position": 13,
+      "name": "Little Girl",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "John Mayall & the Bluesbreakers"
+    },
+    {
+      "position": 14,
+      "name": "Last Kiss",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Woke Up Dreaming",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Mountain Time",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

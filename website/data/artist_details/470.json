@@ -4,6 +4,10 @@
   "concert_count": 4,
   "top_songs": [
     {
+      "name": "Rock and Roll",
+      "times_played": 2
+    },
+    {
       "name": "Highway 61 Revisited",
       "times_played": 1
     },
@@ -37,10 +41,6 @@
     },
     {
       "name": "Things Have Changed",
-      "times_played": 1
-    },
-    {
-      "name": "Stella Blue",
       "times_played": 1
     }
   ],

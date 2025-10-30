@@ -4,19 +4,27 @@
   "concert_count": 23,
   "top_songs": [
     {
+      "name": "Why I Am",
+      "times_played": 4
+    },
+    {
+      "name": "Lie in Our Graves",
+      "times_played": 4
+    },
+    {
       "name": "When the World Ends",
       "times_played": 3
     },
     {
-      "name": "Why I Am",
-      "times_played": 3
-    },
-    {
-      "name": "Lie in Our Graves",
-      "times_played": 3
+      "name": "You Might Die Trying",
+      "times_played": 2
     },
     {
       "name": "You Never Know",
+      "times_played": 2
+    },
+    {
+      "name": "Can't Stop",
       "times_played": 2
     },
     {
@@ -33,14 +41,6 @@
     },
     {
       "name": "Crush",
-      "times_played": 2
-    },
-    {
-      "name": "Grey Street",
-      "times_played": 2
-    },
-    {
-      "name": "Tripping Billies",
       "times_played": 2
     }
   ],

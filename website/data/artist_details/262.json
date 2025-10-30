@@ -2,7 +2,48 @@
   "id": "262",
   "name": "James Taylor",
   "concert_count": 4,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Something in the Way She Moves",
+      "times_played": 1
+    },
+    {
+      "name": "Today Today Today",
+      "times_played": 1
+    },
+    {
+      "name": "Lo and Behold",
+      "times_played": 1
+    },
+    {
+      "name": "Mona",
+      "times_played": 1
+    },
+    {
+      "name": "Copperline",
+      "times_played": 1
+    },
+    {
+      "name": "Everyday",
+      "times_played": 1
+    },
+    {
+      "name": "Country Road",
+      "times_played": 1
+    },
+    {
+      "name": "Millworker",
+      "times_played": 1
+    },
+    {
+      "name": "Carolina in My Mind",
+      "times_played": 1
+    },
+    {
+      "name": "One More Go Round",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "610",

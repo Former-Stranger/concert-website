@@ -4,6 +4,14 @@
   "concert_count": 9,
   "top_songs": [
     {
+      "name": "Love in an Elevator",
+      "times_played": 2
+    },
+    {
+      "name": "Sweet Emotion",
+      "times_played": 2
+    },
+    {
       "name": "Back in the Saddle",
       "times_played": 1
     },
@@ -33,14 +41,6 @@
     },
     {
       "name": "Adam's Apple",
-      "times_played": 1
-    },
-    {
-      "name": "Seasons of Wither",
-      "times_played": 1
-    },
-    {
-      "name": "Movin' Out",
       "times_played": 1
     }
   ],

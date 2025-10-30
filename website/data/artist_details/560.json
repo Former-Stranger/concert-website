@@ -4,6 +4,10 @@
   "concert_count": 3,
   "top_songs": [
     {
+      "name": "Let Me Get By",
+      "times_played": 2
+    },
+    {
       "name": "Gravity",
       "times_played": 2
     },
@@ -13,6 +17,10 @@
     },
     {
       "name": "D.M.S.R.",
+      "times_played": 2
+    },
+    {
+      "name": "Shame",
       "times_played": 2
     },
     {
@@ -28,20 +36,12 @@
       "times_played": 2
     },
     {
-      "name": "High & Mighty",
-      "times_played": 1
+      "name": "Get What You Deserve",
+      "times_played": 2
     },
     {
-      "name": "Got My Mo-Jo Working (But It Just Won't Work on You)",
-      "times_played": 1
-    },
-    {
-      "name": "Do I Look Worried",
-      "times_played": 1
-    },
-    {
-      "name": "Let Me Get By",
-      "times_played": 1
+      "name": "Don't Let Me Slide",
+      "times_played": 2
     }
   ],
   "concerts": [

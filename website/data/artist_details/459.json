@@ -2,7 +2,48 @@
   "id": "459",
   "name": "Rick Brantley",
   "concert_count": 3,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Lift Up Every Stone",
+      "times_played": 1
+    },
+    {
+      "name": "Master of Disaster",
+      "times_played": 1
+    },
+    {
+      "name": "Detroit Made",
+      "times_played": 1
+    },
+    {
+      "name": "Real Fine Love",
+      "times_played": 1
+    },
+    {
+      "name": "Marlene",
+      "times_played": 1
+    },
+    {
+      "name": "Your Dad Did",
+      "times_played": 1
+    },
+    {
+      "name": "Terms of My Surrender",
+      "times_played": 1
+    },
+    {
+      "name": "Like a Freight Train",
+      "times_played": 1
+    },
+    {
+      "name": "Dust Down a Country Road",
+      "times_played": 1
+    },
+    {
+      "name": "Cry Love",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "694",

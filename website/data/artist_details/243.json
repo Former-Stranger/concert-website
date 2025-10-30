@@ -2,7 +2,48 @@
   "id": "243",
   "name": "Hall & Oates",
   "concert_count": 3,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Maneater",
+      "times_played": 1
+    },
+    {
+      "name": "Out of Touch",
+      "times_played": 1
+    },
+    {
+      "name": "Did It in a Minute",
+      "times_played": 1
+    },
+    {
+      "name": "Say It Isn't So",
+      "times_played": 1
+    },
+    {
+      "name": "You've Lost That Lovin' Feelin'",
+      "times_played": 1
+    },
+    {
+      "name": "Las Vegas Turnaround (The Stewardess Song)",
+      "times_played": 1
+    },
+    {
+      "name": "She's Gone",
+      "times_played": 1
+    },
+    {
+      "name": "Sara Smile",
+      "times_played": 1
+    },
+    {
+      "name": "Do What You Want, Be What You Are",
+      "times_played": 1
+    },
+    {
+      "name": "I Can't Go for That (No Can Do)",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "699",

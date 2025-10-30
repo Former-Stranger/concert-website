@@ -4,7 +4,27 @@
   "concert_count": 5,
   "top_songs": [
     {
+      "name": "Bird Song",
+      "times_played": 4
+    },
+    {
       "name": "Mississippi Half-Step Uptown Toodeloo",
+      "times_played": 3
+    },
+    {
+      "name": "Mason's Children",
+      "times_played": 3
+    },
+    {
+      "name": "All Along the Watchtower",
+      "times_played": 3
+    },
+    {
+      "name": "Unbroken Chain",
+      "times_played": 3
+    },
+    {
+      "name": "Going Down the Road Feeling Bad",
       "times_played": 3
     },
     {
@@ -21,26 +41,6 @@
     },
     {
       "name": "Me and My Uncle",
-      "times_played": 2
-    },
-    {
-      "name": "Bird Song",
-      "times_played": 2
-    },
-    {
-      "name": "Ramble On Rose",
-      "times_played": 2
-    },
-    {
-      "name": "Box of Rain",
-      "times_played": 2
-    },
-    {
-      "name": "Terrapin Station",
-      "times_played": 2
-    },
-    {
-      "name": "Jack O'Roses",
       "times_played": 2
     }
   ],

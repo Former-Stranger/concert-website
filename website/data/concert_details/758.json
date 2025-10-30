@@ -1,0 +1,183 @@
+{
+  "id": "758",
+  "show_number": 757,
+  "date": "2017-06-15",
+  "festival_name": null,
+  "venue": "Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Bob Dylan",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/bob-dylan/2017/capitol-theatre-port-chester-ny-be4b56a.html",
+  "song_count": 20,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Things Have Changed",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Don't Think Twice, It's All Right",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Highway 61 Revisited",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Stormy Weather",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Leo Reisman and His Orchestra"
+    },
+    {
+      "position": 5,
+      "name": "Summer Days",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Scarlet Town",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Duquesne Whistle",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Melancholy Mood",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Kenny Baker"
+    },
+    {
+      "position": 9,
+      "name": "This Nearly Was Mine",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Richard Rodgers"
+    },
+    {
+      "position": 10,
+      "name": "Pay in Blood",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "Why Try to Change Me Now",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Cy Coleman Jazz Trio"
+    },
+    {
+      "position": 12,
+      "name": "Early Roman Kings",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "Desolation Row",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "All or Nothing at All",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Jimmy Dorsey and His Orchestra"
+    },
+    {
+      "position": 15,
+      "name": "Soon After Midnight",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "That Old Black Magic",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Johnny Mercer"
+    },
+    {
+      "position": 17,
+      "name": "Long and Wasted Years",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "Autumn Leaves",
+      "set_name": "Set 1",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Yves Montand"
+    },
+    {
+      "position": 19,
+      "name": "Blowin' in the Wind",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "Ballad of a Thin Man",
+      "set_name": "Set 2",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ],
+  "tour_name": "Never Ending Tour"
+}
