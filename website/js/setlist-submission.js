@@ -165,3 +165,135 @@ export function showSubmitSetlistSection() {
         section.classList.remove('hidden');
     }
 }
+
+export async function initUpdateSetlist() {
+    const updateBtn = document.getElementById('update-setlist-btn');
+    const submitBtn = document.getElementById('update-setlist-submit-btn');
+    const cancelBtn = document.getElementById('cancel-update-btn');
+    const urlInput = document.getElementById('update-setlistfm-url');
+    const messageDiv = document.getElementById('update-setlist-message');
+    const updateSection = document.getElementById('update-setlist-section');
+
+    if (!updateBtn) return;
+
+    // Show update form when clicking update button
+    updateBtn.addEventListener('click', () => {
+        updateSection.classList.remove('hidden');
+        updateBtn.classList.add('hidden');
+        // Scroll to the update section
+        updateSection.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    });
+
+    // Cancel update
+    if (cancelBtn) {
+        cancelBtn.addEventListener('click', () => {
+            updateSection.classList.add('hidden');
+            updateBtn.classList.remove('hidden');
+            urlInput.value = '';
+            messageDiv.textContent = '';
+            messageDiv.className = 'mt-3 text-center';
+        });
+    }
+
+    // Handle update submission
+    if (submitBtn) {
+        submitBtn.addEventListener('click', async () => {
+            const url = urlInput.value.trim();
+
+            if (!url) {
+                showMessage(messageDiv, 'Please enter a setlist.fm URL', 'error');
+                return;
+            }
+
+            // Extract setlist ID from URL
+            const setlistId = extractSetlistId(url);
+            if (!setlistId) {
+                showMessage(messageDiv, 'Invalid setlist.fm URL format', 'error');
+                return;
+            }
+
+            // Get current concert ID
+            const urlParams = new URLSearchParams(window.location.search);
+            const concertId = urlParams.get('id');
+
+            if (!concertId) {
+                showMessage(messageDiv, 'Concert ID not found', 'error');
+                return;
+            }
+
+            submitBtn.disabled = true;
+            submitBtn.innerHTML = '<i class="fas fa-spinner fa-spin mr-2"></i>Updating...';
+
+            try {
+                console.log('[Update Setlist] Concert ID:', concertId);
+                console.log('[Update Setlist] URL:', url);
+                console.log('[Update Setlist] Setlist ID:', setlistId);
+
+                // Fetch setlist data to validate the URL
+                console.log('[Update Setlist] Fetching setlist data from Cloud Function...');
+                const setlistData = await fetchSetlistData(setlistId);
+                console.log('[Update Setlist] Setlist data received:', setlistData);
+
+                if (!setlistData) {
+                    showMessage(messageDiv, 'Could not find setlist on setlist.fm. Please check the URL', 'error');
+                    submitBtn.disabled = false;
+                    submitBtn.innerHTML = '<i class="fas fa-sync mr-2"></i>Update';
+                    return;
+                }
+
+                // Get user info
+                const user = auth.currentUser;
+                const submitterEmail = user ? user.email : 'anonymous';
+                const submitterName = user ? user.displayName || 'Anonymous' : 'Anonymous';
+
+                // Check if user is owner (auto-approve owner submissions)
+                const userIsOwner = isOwner();
+                const status = userIsOwner ? 'approved' : 'pending';
+
+                console.log('[Update Setlist] User is owner:', userIsOwner);
+                console.log('[Update Setlist] Status:', status);
+
+                // Store in Firestore with the fetched setlist data
+                // This will trigger the Cloud Function to update the existing setlist
+                const submissionData = {
+                    concertId: parseInt(concertId),
+                    setlistfmUrl: url,
+                    setlistfmId: setlistId,
+                    submittedByEmail: submitterEmail,
+                    submittedByName: submitterName,
+                    submittedAt: new Date(),
+                    status: status,
+                    setlistData: setlistData,
+                    isUpdate: true // Flag to indicate this is an update
+                };
+
+                console.log('[Update Setlist] Saving to Firestore:', submissionData);
+                await addDoc(collection(db, 'pending_setlist_submissions'), submissionData);
+
+                const message = userIsOwner
+                    ? 'Setlist updated! The website will refresh with the new data in a few minutes. Please reload the page.'
+                    : 'Update submitted and will be reviewed by an admin';
+                showMessage(messageDiv, message, 'success');
+                urlInput.value = '';
+
+                // Hide the update form after successful submission
+                setTimeout(() => {
+                    updateSection.classList.add('hidden');
+                    if (userIsOwner) {
+                        // Reload the page after a short delay for owner submissions
+                        setTimeout(() => {
+                            window.location.reload();
+                        }, 3000);
+                    }
+                }, 2000);
+
+            } catch (error) {
+                console.error('Error updating setlist:', error);
+                showMessage(messageDiv, 'Error updating setlist. Please try again', 'error');
+            } finally {
+                submitBtn.disabled = false;
+                submitBtn.innerHTML = '<i class="fas fa-sync mr-2"></i>Update';
+            }
+        });
+    }
+}
