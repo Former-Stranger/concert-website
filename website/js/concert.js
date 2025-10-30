@@ -118,16 +118,16 @@ function renderConcertDetail(concert) {
             </div>
         </div>
 
-        ${concert.setlistfm_url ? `
-            <div class="text-center flex flex-col md:flex-row gap-4 justify-center items-center">
+        <div class="text-center flex flex-col md:flex-row gap-4 justify-center items-center">
+            ${concert.setlistfm_url ? `
                 <a href="${concert.setlistfm_url}" target="_blank" class="setlist-fm-btn inline-block px-8 py-3 rounded text-lg">
                     <i class="fas fa-external-link-alt mr-2"></i>View on Setlist.fm
                 </a>
-                <button id="update-setlist-btn" class="setlist-fm-btn inline-block px-8 py-3 rounded text-lg hidden">
-                    <i class="fas fa-edit mr-2"></i>Update Setlist
-                </button>
-            </div>
-        ` : ''}
+            ` : ''}
+            <button id="update-setlist-btn" class="setlist-fm-btn inline-block px-8 py-3 rounded text-lg hidden">
+                <i class="fas fa-edit mr-2"></i>Update Setlist
+            </button>
+        </div>
     `;
 
     // Setlist
