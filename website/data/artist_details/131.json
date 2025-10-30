@@ -1,47 +1,47 @@
 {
   "id": "131",
   "name": "Dead and Company",
-  "concert_count": 20,
+  "concert_count": 17,
   "top_songs": [
     {
       "name": "Drums",
-      "times_played": 6
+      "times_played": 5
     },
     {
       "name": "Space",
-      "times_played": 6
-    },
-    {
-      "name": "China Cat Sunflower",
-      "times_played": 4
-    },
-    {
-      "name": "I Know You Rider",
-      "times_played": 4
-    },
-    {
-      "name": "Cassidy",
-      "times_played": 3
-    },
-    {
-      "name": "Viola Lee Blues",
-      "times_played": 3
+      "times_played": 5
     },
     {
       "name": "Bertha",
       "times_played": 3
     },
     {
-      "name": "Althea",
+      "name": "Eyes of the World",
       "times_played": 3
     },
     {
-      "name": "Uncle John's Band",
+      "name": "China Cat Sunflower",
       "times_played": 3
+    },
+    {
+      "name": "I Know You Rider",
+      "times_played": 3
+    },
+    {
+      "name": "U.S. Blues",
+      "times_played": 3
+    },
+    {
+      "name": "Good Lovin'",
+      "times_played": 2
     },
     {
       "name": "Ramble On Rose",
-      "times_played": 3
+      "times_played": 2
+    },
+    {
+      "name": "Cassidy",
+      "times_played": 2
     }
   ],
   "concerts": [
@@ -65,7 +65,7 @@
       "venue": "Sphere",
       "city": "Las Vegas",
       "state": "NV",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -89,7 +89,7 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -102,42 +102,6 @@
       "city": "Queens",
       "state": "NY",
       "has_setlist": true,
-      "opening_song": null,
-      "closing_song": null
-    },
-    {
-      "id": "1039",
-      "show_number": 1038,
-      "date": "2022-07-16",
-      "festival_name": "Multi-Artist Show",
-      "venue": "Citi Field",
-      "city": "Queens",
-      "state": "NY",
-      "has_setlist": false,
-      "opening_song": null,
-      "closing_song": null
-    },
-    {
-      "id": "1038",
-      "show_number": 1037,
-      "date": "2022-07-15",
-      "festival_name": "Multi-Artist Show",
-      "venue": "Citi Field",
-      "city": "Queens",
-      "state": "NY",
-      "has_setlist": false,
-      "opening_song": null,
-      "closing_song": null
-    },
-    {
-      "id": "1036",
-      "show_number": 1035,
-      "date": "2022-07-05",
-      "festival_name": "Multi-Artist Show",
-      "venue": "Xfinity Center",
-      "city": "Mansfield",
-      "state": "MA",
-      "has_setlist": false,
       "opening_song": null,
       "closing_song": null
     },

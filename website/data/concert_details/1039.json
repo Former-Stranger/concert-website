@@ -2,18 +2,14 @@
   "id": "1039",
   "show_number": 1038,
   "date": "2022-07-16",
-  "festival_name": "Multi-Artist Show",
+  "festival_name": null,
   "venue": "Citi Field",
   "city": "Queens",
   "state": "NY",
   "artists": [
     {
-      "name": "DEAD:  Dead",
-      "role": "festival_performer"
-    },
-    {
-      "name": "Company",
-      "role": "festival_performer"
+      "name": "Dead & Company",
+      "role": "headliner"
     }
   ],
   "photos": [],
@@ -22,7 +18,7 @@
     {
       "artist_id": "131",
       "artist_name": "Company",
-      "artist_role": "festival_performer",
+      "artist_role": "headliner",
       "setlistfm_url": "https://www.setlist.fm/setlist/dead-and-company/2022/citi-field-queens-ny-33b2b019.html",
       "song_count": 18,
       "has_encore": false,
@@ -178,7 +174,7 @@
     {
       "artist_id": "145",
       "artist_name": "DEAD:  Dead",
-      "artist_role": "festival_performer",
+      "artist_role": "headliner",
       "setlistfm_url": "https://www.setlist.fm/setlist/dead-tooth/2022/ilegal-mezcal-brooklyn-headquarters-brooklyn-ny-7bb2eeec.html",
       "song_count": 2,
       "has_encore": false,

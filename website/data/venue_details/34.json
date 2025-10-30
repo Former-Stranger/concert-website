@@ -41,7 +41,7 @@
       "date": "2023-06-22",
       "festival_name": null,
       "artists": "Dead & Company",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -69,8 +69,8 @@
       "id": "1039",
       "show_number": 1038,
       "date": "2022-07-16",
-      "festival_name": "Multi-Artist Show",
-      "artists": "DEAD:  Dead, Company",
+      "festival_name": null,
+      "artists": "Dead & Company",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null
@@ -80,7 +80,7 @@
       "show_number": 1037,
       "date": "2022-07-15",
       "festival_name": "Multi-Artist Show",
-      "artists": "DEAD:  Dead, Company",
+      "artists": "Dead & Company",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null

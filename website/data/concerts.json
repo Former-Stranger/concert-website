@@ -1152,7 +1152,7 @@
     "city": "Las Vegas",
     "state": "NV",
     "artists": "Dead & Company",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1171",
@@ -2010,7 +2010,7 @@
     "city": "Queens",
     "state": "NY",
     "artists": "Dead & Company",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1093",
@@ -2610,11 +2610,11 @@
     "id": "1039",
     "show_number": 1038,
     "date": "2022-07-16",
-    "festival_name": "Multi-Artist Show",
+    "festival_name": null,
     "venue": "Citi Field",
     "city": "Queens",
     "state": "NY",
-    "artists": "DEAD:  Dead, Company",
+    "artists": "Dead & Company",
     "hasSetlist": true
   },
   {
@@ -2625,7 +2625,7 @@
     "venue": "Citi Field",
     "city": "Queens",
     "state": "NY",
-    "artists": "DEAD:  Dead, Company",
+    "artists": "Dead & Company",
     "hasSetlist": true
   },
   {
@@ -2647,7 +2647,7 @@
     "venue": "Xfinity Center",
     "city": "Mansfield",
     "state": "MA",
-    "artists": "DEAD: Dead, Company",
+    "artists": "Dead & Company",
     "hasSetlist": true
   },
   {

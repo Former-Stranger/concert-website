@@ -1,8 +1,8 @@
 {
-  "id": "1038",
-  "show_number": 1037,
-  "date": "2022-07-15",
-  "festival_name": "Multi-Artist Show",
+  "id": "1094",
+  "show_number": 1093,
+  "date": "2023-06-22",
+  "festival_name": null,
   "venue": "Citi Field",
   "city": "Queens",
   "state": "NY",
@@ -14,13 +14,13 @@
   ],
   "photos": [],
   "photo_count": 0,
-  "setlistfm_url": "https://www.setlist.fm/setlist/dead-and-company/2022/citi-field-queens-ny-2bb2bc16.html",
-  "song_count": 18,
-  "has_encore": false,
+  "setlistfm_url": "https://www.setlist.fm/setlist/dead-and-company/2023/citi-field-queens-ny-53a67729.html",
+  "song_count": 19,
+  "has_encore": true,
   "songs": [
     {
       "position": 1,
-      "name": "Bertha",
+      "name": "Feel Like a Stranger",
       "set_name": "Set 1:",
       "encore": 0,
       "is_cover": true,
@@ -28,7 +28,7 @@
     },
     {
       "position": 2,
-      "name": "Mississippi Half-Step Uptown Toodeloo",
+      "name": "Franklin's Tower",
       "set_name": "Set 1:",
       "encore": 0,
       "is_cover": true,
@@ -36,63 +36,63 @@
     },
     {
       "position": 3,
-      "name": "Shakedown Street",
+      "name": "Mama Tried",
       "set_name": "Set 1:",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Grateful Dead"
+      "cover_artist": "Merle Haggard"
     },
     {
       "position": 4,
-      "name": "Sugaree",
+      "name": "Alabama Getaway",
       "set_name": "Set 1:",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Jerry Garcia"
+      "cover_artist": "Grateful Dead"
     },
     {
       "position": 5,
-      "name": "Tennessee Jed",
+      "name": "Dear Mr. Fantasy",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Traffic"
+    },
+    {
+      "position": 6,
+      "name": "Hey Jude",
+      "set_name": "Set 1:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Beatles"
+    },
+    {
+      "position": 7,
+      "name": "Truckin'",
       "set_name": "Set 1:",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Grateful Dead"
     },
     {
-      "position": 6,
-      "name": "Bird Song",
+      "position": 8,
+      "name": "Deal",
       "set_name": "Set 1:",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Jerry Garcia"
     },
     {
-      "position": 7,
-      "name": "Don't Ease Me In",
-      "set_name": "Set 1:",
-      "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Henry Thomas"
-    },
-    {
-      "position": 8,
-      "name": "Althea",
+      "position": 9,
+      "name": "Scarlet Begonias",
       "set_name": "Set 2:",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Grateful Dead"
     },
     {
-      "position": 9,
-      "name": "Viola Lee Blues",
-      "set_name": "Set 2:",
-      "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Cannon\u2019s Jug Stompers"
-    },
-    {
       "position": 10,
-      "name": "Terrapin Station",
+      "name": "Fire on the Mountain",
       "set_name": "Set 2:",
       "encore": 0,
       "is_cover": true,
@@ -100,7 +100,7 @@
     },
     {
       "position": 11,
-      "name": "China Cat Sunflower",
+      "name": "Estimated Prophet",
       "set_name": "Set 2:",
       "encore": 0,
       "is_cover": true,
@@ -108,11 +108,11 @@
     },
     {
       "position": 12,
-      "name": "I Know You Rider",
+      "name": "Eyes of the World",
       "set_name": "Set 2:",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "[traditional]"
+      "cover_artist": "Grateful Dead"
     },
     {
       "position": 13,
@@ -132,15 +132,15 @@
     },
     {
       "position": 15,
-      "name": "The Other One",
+      "name": "All Blues",
       "set_name": "Set 2:",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Grateful Dead"
+      "cover_artist": "Miles Davis"
     },
     {
       "position": 16,
-      "name": "Standing on the Moon",
+      "name": "Cumberland Blues",
       "set_name": "Set 2:",
       "encore": 0,
       "is_cover": true,
@@ -148,20 +148,27 @@
     },
     {
       "position": 17,
-      "name": "Not Fade Away",
+      "name": "All Along the Watchtower",
       "set_name": "Set 2:",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "The Crickets"
+      "cover_artist": "Bob Dylan"
     },
     {
       "position": 18,
-      "name": "Sugar Magnolia",
-      "set_name": "Set 3",
+      "name": "Morning Dew",
+      "set_name": "Set 2:",
       "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bonnie Dobson"
+    },
+    {
+      "position": 19,
+      "name": "Brokedown Palace",
+      "set_name": "Main Set",
+      "encore": 1,
       "is_cover": true,
       "cover_artist": "Grateful Dead"
     }
-  ],
-  "tour_name": "Summer Tour 22"
+  ]
 }

@@ -8,12 +8,8 @@
   "state": "MA",
   "artists": [
     {
-      "name": "DEAD: Dead",
-      "role": "festival_performer"
-    },
-    {
-      "name": "Company",
-      "role": "festival_performer"
+      "name": "Dead & Company",
+      "role": "headliner"
     }
   ],
   "photos": [],
@@ -22,7 +18,7 @@
     {
       "artist_id": "131",
       "artist_name": "Company",
-      "artist_role": "festival_performer",
+      "artist_role": "headliner",
       "setlistfm_url": "https://www.setlist.fm/setlist/dead-and-company/2022/xfinity-theatre-hartford-ct-13b529c9.html",
       "song_count": 18,
       "has_encore": false,
@@ -177,7 +173,7 @@
     {
       "artist_id": "146",
       "artist_name": "DEAD: Dead",
-      "artist_role": "festival_performer",
+      "artist_role": "headliner",
       "setlistfm_url": "https://www.setlist.fm/setlist/deadmau5/2022/zouk-nightclub-las-vegas-nv-5bad47c4.html",
       "song_count": 26,
       "has_encore": false,

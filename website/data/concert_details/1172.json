@@ -1,11 +1,11 @@
 {
-  "id": "1038",
-  "show_number": 1037,
-  "date": "2022-07-15",
-  "festival_name": "Multi-Artist Show",
-  "venue": "Citi Field",
-  "city": "Queens",
-  "state": "NY",
+  "id": "1172",
+  "show_number": 1171,
+  "date": "2024-06-14",
+  "festival_name": null,
+  "venue": "Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
   "artists": [
     {
       "name": "Dead & Company",
@@ -14,21 +14,21 @@
   ],
   "photos": [],
   "photo_count": 0,
-  "setlistfm_url": "https://www.setlist.fm/setlist/dead-and-company/2022/citi-field-queens-ny-2bb2bc16.html",
-  "song_count": 18,
+  "setlistfm_url": "https://www.setlist.fm/setlist/dead-and-company/2024/sphere-at-the-venetian-resort-las-vegas-nv-2babb8ee.html",
+  "song_count": 20,
   "has_encore": false,
   "songs": [
     {
       "position": 1,
-      "name": "Bertha",
+      "name": "Good Lovin'",
       "set_name": "Set 1:",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Grateful Dead"
+      "cover_artist": "The Olympics"
     },
     {
       "position": 2,
-      "name": "Mississippi Half-Step Uptown Toodeloo",
+      "name": "The Music Never Stopped",
       "set_name": "Set 1:",
       "encore": 0,
       "is_cover": true,
@@ -36,7 +36,7 @@
     },
     {
       "position": 3,
-      "name": "Shakedown Street",
+      "name": "Row Jimmy",
       "set_name": "Set 1:",
       "encore": 0,
       "is_cover": true,
@@ -44,15 +44,15 @@
     },
     {
       "position": 4,
-      "name": "Sugaree",
+      "name": "Black-Throated Wind",
       "set_name": "Set 1:",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Jerry Garcia"
+      "cover_artist": "Bob Weir"
     },
     {
       "position": 5,
-      "name": "Tennessee Jed",
+      "name": "New Speedway Boogie",
       "set_name": "Set 1:",
       "encore": 0,
       "is_cover": true,
@@ -60,7 +60,7 @@
     },
     {
       "position": 6,
-      "name": "Bird Song",
+      "name": "Deal",
       "set_name": "Set 1:",
       "encore": 0,
       "is_cover": true,
@@ -68,15 +68,15 @@
     },
     {
       "position": 7,
-      "name": "Don't Ease Me In",
-      "set_name": "Set 1:",
+      "name": "Shakedown Street",
+      "set_name": "Set 2:",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Henry Thomas"
+      "cover_artist": "Grateful Dead"
     },
     {
       "position": 8,
-      "name": "Althea",
+      "name": "Help on the Way",
       "set_name": "Set 2:",
       "encore": 0,
       "is_cover": true,
@@ -84,23 +84,23 @@
     },
     {
       "position": 9,
-      "name": "Viola Lee Blues",
-      "set_name": "Set 2:",
-      "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Cannon\u2019s Jug Stompers"
-    },
-    {
-      "position": 10,
-      "name": "Terrapin Station",
+      "name": "Slipknot!",
       "set_name": "Set 2:",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Grateful Dead"
     },
     {
+      "position": 10,
+      "name": "Cold Rain and Snow",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "[traditional]"
+    },
+    {
       "position": 11,
-      "name": "China Cat Sunflower",
+      "name": "China Doll",
       "set_name": "Set 2:",
       "encore": 0,
       "is_cover": true,
@@ -108,11 +108,11 @@
     },
     {
       "position": 12,
-      "name": "I Know You Rider",
+      "name": "Terrapin Station",
       "set_name": "Set 2:",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "[traditional]"
+      "cover_artist": "Grateful Dead"
     },
     {
       "position": 13,
@@ -132,15 +132,15 @@
     },
     {
       "position": 15,
-      "name": "The Other One",
+      "name": "Dear Prudence",
       "set_name": "Set 2:",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "Grateful Dead"
+      "cover_artist": "The Beatles"
     },
     {
       "position": 16,
-      "name": "Standing on the Moon",
+      "name": "Bertha",
       "set_name": "Set 2:",
       "encore": 0,
       "is_cover": true,
@@ -148,20 +148,35 @@
     },
     {
       "position": 17,
-      "name": "Not Fade Away",
+      "name": "Hell in a Bucket",
       "set_name": "Set 2:",
       "encore": 0,
       "is_cover": true,
-      "cover_artist": "The Crickets"
+      "cover_artist": "Grateful Dead"
     },
     {
       "position": 18,
-      "name": "Sugar Magnolia",
-      "set_name": "Set 3",
+      "name": "Morning Dew",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Bonnie Dobson"
+    },
+    {
+      "position": 19,
+      "name": "Old News Broadcast of the Grateful Dead",
+      "set_name": "Set 2:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "Ripple",
+      "set_name": "Set 2:",
       "encore": 0,
       "is_cover": true,
       "cover_artist": "Grateful Dead"
     }
-  ],
-  "tour_name": "Summer Tour 22"
+  ]
 }
