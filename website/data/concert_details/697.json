@@ -20,128 +20,6 @@
   "photo_count": 0,
   "setlists": [
     {
-      "artist_id": null,
-      "artist_name": null,
-      "artist_role": "headliner",
-      "setlistfm_url": "https://www.setlist.fm/setlist/bad-company/2016/pnc-bank-arts-center-holmdel-nj-73fe1a09.html",
-      "song_count": 14,
-      "has_encore": true,
-      "songs": [
-        {
-          "position": 1,
-          "name": "Live for the Music",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 2,
-          "name": "Gone, Gone, Gone",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 3,
-          "name": "Feel Like Makin' Love",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 4,
-          "name": "Burnin' Sky",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 5,
-          "name": "Electricland",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 6,
-          "name": "Ready for Love",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": true,
-          "cover_artist": "Mott the Hoople"
-        },
-        {
-          "position": 7,
-          "name": "Crazy Circles",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 8,
-          "name": "See the Sunlight",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 9,
-          "name": "Run With the Pack",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 10,
-          "name": "Movin' On",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 11,
-          "name": "Shooting Star",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 12,
-          "name": "Rock 'n' Roll Fantasy",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 13,
-          "name": "Bad Company",
-          "set_name": "Main Set",
-          "encore": 1,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 14,
-          "name": "Can't Get Enough",
-          "set_name": "Main Set",
-          "encore": 2,
-          "is_cover": false,
-          "cover_artist": null
-        }
-      ]
-    },
-    {
       "artist_id": "34",
       "artist_name": "Bad Company",
       "artist_role": "festival_performer",
@@ -373,7 +251,7 @@
       "tour_name": "One Hell of a Night"
     }
   ],
-  "total_song_count": 40,
-  "has_encore": true,
+  "total_song_count": 26,
+  "has_encore": false,
   "tour_name": "One Hell of a Night"
 }

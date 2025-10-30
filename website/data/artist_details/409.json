@@ -5,14 +5,10 @@
   "top_songs": [
     {
       "name": "I Go Back",
-      "times_played": 4
+      "times_played": 2
     },
     {
       "name": "Living in Fast Forward",
-      "times_played": 4
-    },
-    {
-      "name": "Boston",
       "times_played": 2
     },
     {
@@ -42,6 +38,10 @@
     {
       "name": "Star of the Show",
       "times_played": 2
+    },
+    {
+      "name": "Boston",
+      "times_played": 1
     }
   ],
   "concerts": [

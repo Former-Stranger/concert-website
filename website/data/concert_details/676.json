@@ -24,80 +24,6 @@
   "photo_count": 0,
   "setlists": [
     {
-      "artist_id": null,
-      "artist_name": null,
-      "artist_role": "headliner",
-      "setlistfm_url": "https://www.setlist.fm/setlist/elton-john/2016/radio-city-music-hall-new-york-ny-3f09193.html",
-      "song_count": 8,
-      "has_encore": false,
-      "songs": [
-        {
-          "position": 1,
-          "name": "Tiny Dancer",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 2,
-          "name": "Your Song",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 3,
-          "name": "Levon",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 4,
-          "name": "Rocket Man (I Think It's Going to Be a Long, Long Time)",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 5,
-          "name": "I Guess That's Why They Call It the Blues",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 6,
-          "name": "Philadelphia Freedom",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 7,
-          "name": "Don't Let the Sun Go Down on Me",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 8,
-          "name": "I'm Still Standing",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        }
-      ]
-    },
-    {
       "artist_id": "23",
       "artist_name": "Andra Day",
       "artist_role": "festival_performer",
@@ -321,7 +247,7 @@
       ]
     }
   ],
-  "total_song_count": 32,
+  "total_song_count": 24,
   "has_encore": false,
   "tour_name": "I'm With Her"
 }

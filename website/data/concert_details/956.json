@@ -1,0 +1,74 @@
+{
+  "id": "956",
+  "show_number": 955,
+  "date": "2019-11-04",
+  "festival_name": null,
+  "venue": "The Theater at Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Bruce Springsteen - Stand Up for Heroes",
+      "role": "headliner"
+    },
+    {
+      "name": "Sheryl Crown",
+      "role": "opener"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/bruce-springsteen/2019/hulu-theater-at-madison-square-garden-new-york-ny-239d008b.html",
+  "song_count": 6,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Redemption Day",
+      "set_name": "with Sheryl Crow:",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Sheryl Crow"
+    },
+    {
+      "position": 2,
+      "name": "Bobby Jean",
+      "set_name": "Solo:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "I'll Work for Your Love",
+      "set_name": "Solo:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "I'm on Fire",
+      "set_name": "Solo:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Dancing in the Dark",
+      "set_name": "Solo:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Land of Hope and Dreams",
+      "set_name": "Solo:",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}

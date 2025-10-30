@@ -5,26 +5,18 @@
   "top_songs": [
     {
       "name": "Your Song",
-      "times_played": 33
+      "times_played": 32
     },
     {
       "name": "Philadelphia Freedom",
-      "times_played": 32
-    },
-    {
-      "name": "Don't Let the Sun Go Down on Me",
-      "times_played": 32
-    },
-    {
-      "name": "Rocket Man (I Think It's Going to Be a Long, Long Time)",
       "times_played": 31
     },
     {
-      "name": "I Guess That's Why They Call It the Blues",
-      "times_played": 30
+      "name": "Don't Let the Sun Go Down on Me",
+      "times_played": 31
     },
     {
-      "name": "Tiny Dancer",
+      "name": "Rocket Man (I Think It's Going to Be a Long, Long Time)",
       "times_played": 30
     },
     {
@@ -32,8 +24,12 @@
       "times_played": 29
     },
     {
-      "name": "Levon",
-      "times_played": 27
+      "name": "I Guess That's Why They Call It the Blues",
+      "times_played": 29
+    },
+    {
+      "name": "Tiny Dancer",
+      "times_played": 29
     },
     {
       "name": "Funeral for a Friend/Love Lies Bleeding",
@@ -42,6 +38,10 @@
     {
       "name": "The Bitch Is Back",
       "times_played": 27
+    },
+    {
+      "name": "Levon",
+      "times_played": 26
     }
   ],
   "concerts": [
