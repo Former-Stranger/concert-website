@@ -329,9 +329,9 @@ function renderBasicConcert(concert) {
         // Set the setlist.fm search link
         const findSetlistLink = document.getElementById('find-setlist-link');
         if (findSetlistLink) {
-            // Construct search query from concert data
-            const searchQuery = `${concert.artists} ${concert.venue} ${concert.date}`.replace(/ /g, '+');
-            findSetlistLink.href = `https://www.setlist.fm/search?query=${searchQuery}`;
+            // Construct search query from concert data with proper URL encoding
+            const searchQuery = `${concert.artists} ${concert.venue} ${concert.date}`;
+            findSetlistLink.href = `https://www.setlist.fm/search?query=${encodeURIComponent(searchQuery)}`;
         }
     } else {
         console.error('Submit section element not found!');
