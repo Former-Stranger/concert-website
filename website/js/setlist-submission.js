@@ -37,6 +37,10 @@ export async function initSetlistSubmission() {
         submitBtn.innerHTML = '<i class="fas fa-spinner fa-spin mr-2"></i>Submitting...';
 
         try {
+            console.log('[Setlist Submission] Concert ID:', concertId);
+            console.log('[Setlist Submission] URL:', url);
+            console.log('[Setlist Submission] Setlist ID:', setlistId);
+
             // Check if already submitted
             const existingSubmission = await checkExistingSubmission(concertId);
             if (existingSubmission) {
@@ -47,7 +51,10 @@ export async function initSetlistSubmission() {
             }
 
             // Fetch setlist data to validate the URL
+            console.log('[Setlist Submission] Fetching setlist data from Cloud Function...');
             const setlistData = await fetchSetlistData(setlistId);
+            console.log('[Setlist Submission] Setlist data received:', setlistData);
+
             if (!setlistData) {
                 showMessage(messageDiv, 'Could not find setlist on setlist.fm. Please check the URL', 'error');
                 submitBtn.disabled = false;
@@ -64,9 +71,12 @@ export async function initSetlistSubmission() {
             const userIsOwner = isOwner();
             const status = userIsOwner ? 'approved' : 'pending';
 
+            console.log('[Setlist Submission] User is owner:', userIsOwner);
+            console.log('[Setlist Submission] Status:', status);
+
             // Store in Firestore with the fetched setlist data
-            await addDoc(collection(db, 'pending_setlist_submissions'), {
-                concertId: concertId,
+            const submissionData = {
+                concertId: parseInt(concertId),
                 setlistfmUrl: url,
                 setlistfmId: setlistId,
                 submittedByEmail: submitterEmail,
@@ -74,7 +84,10 @@ export async function initSetlistSubmission() {
                 submittedAt: new Date(),
                 status: status,
                 setlistData: setlistData
-            });
+            };
+
+            console.log('[Setlist Submission] Saving to Firestore:', submissionData);
+            await addDoc(collection(db, 'pending_setlist_submissions'), submissionData);
 
             const message = userIsOwner
                 ? 'Setlist submitted and automatically approved! The website will update in a few minutes.'
