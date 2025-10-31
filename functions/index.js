@@ -257,20 +257,38 @@ exports.processApprovedSetlist = functions.firestore
       // Create slug from artist name for document ID
       const artistSlug = artistName.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
 
-      // For multi-artist shows, use format: concertId-artistSlug
-      // For single artist, use simple concertId format
+      // Get all existing setlists for this concert
       const existingSetlists = await db.collection('setlists')
         .where('concert_id', '==', concertId)
         .get();
 
-      // Check if there are existing setlists for DIFFERENT artists
-      const differentArtistExists = existingSetlists.docs.some(doc => {
+      // FIRST: Check if this specific artist already has a setlist (in any format)
+      let existingArtistSetlist = null;
+      for (const doc of existingSetlists.docs) {
         const data = doc.data();
-        return data.artist_name && data.artist_name !== artistName;
-      });
+        if (data.artist_name === artistName) {
+          existingArtistSetlist = doc.id;
+          console.log(`Found existing setlist for ${artistName} with ID: ${existingArtistSetlist}`);
+          break;
+        }
+      }
 
-      const hasMultipleArtists = existingSetlists.size > 0 && differentArtistExists;
-      const docId = hasMultipleArtists ? `${concertId}-${artistSlug}` : concertId;
+      // Determine document ID:
+      // - If this artist already has a setlist, use that ID (prevents duplicates)
+      // - Otherwise, check if multiple artists exist to determine format
+      let docId;
+      if (existingArtistSetlist) {
+        docId = existingArtistSetlist;
+      } else {
+        // Check if there are existing setlists for DIFFERENT artists
+        const differentArtistExists = existingSetlists.docs.some(doc => {
+          const data = doc.data();
+          return data.artist_name && data.artist_name !== artistName;
+        });
+
+        const hasMultipleArtists = differentArtistExists;
+        docId = hasMultipleArtists ? `${concertId}-${artistSlug}` : concertId;
+      }
 
       // Check if this specific artist's setlist already exists
       const setlistRef = db.collection('setlists').doc(docId);
