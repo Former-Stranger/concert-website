@@ -378,13 +378,13 @@
         </footer>
     </div>
 
-    <script src="js/concert.js?v=1761935865"></script>
+    <script src="js/concert.js?v=1761938757"></script>
     <script type="module">
-        import { initAuth, isOwner } from './js/auth.js?v=1761935865';
-        import { initNotesAndComments } from './js/concert-notes.js?v=1761935865';
-        import { initSetlistSubmission } from './js/setlist-submission.js?v=1761935865';
-        import { initPhotoUpload } from './js/concert-photos.js?v=1761935865';
-        import { db } from './js/firebase-config.js?v=1761935865';
+        import { initAuth, isOwner } from './js/auth.js?v=1761938757';
+        import { initNotesAndComments } from './js/concert-notes.js?v=1761938757';
+        import { initSetlistSubmission } from './js/setlist-submission.js?v=1761938757';
+        import { initPhotoUpload } from './js/concert-photos.js?v=1761938757';
+        import { db } from './js/firebase-config.js?v=1761938757';
         import { doc, deleteDoc, getDoc, updateDoc, setDoc, collection, query, where, getDocs } from 'https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js';
 
         // Get concert ID and returnUrl from URL
@@ -397,74 +397,95 @@
             document.getElementById('back-link').href = decodeURIComponent(returnUrl);
         }
 
+        // Function to setup delete button handlers
+        function setupDeleteButtons() {
+            const deleteButtons = document.querySelectorAll('.delete-setlist-btn');
+            deleteButtons.forEach(btn => {
+                // Skip if already has handler
+                if (btn.dataset.handlerAttached === 'true') return;
+
+                btn.classList.remove('hidden');
+                btn.dataset.handlerAttached = 'true';
+
+                btn.addEventListener('click', async () => {
+                    const setlistId = btn.dataset.setlistId;
+                    const artistName = btn.dataset.artistName;
+
+                    if (!setlistId) {
+                        alert('Setlist ID not found');
+                        return;
+                    }
+
+                    const confirmed = confirm(`Are you sure you want to delete the setlist for ${artistName}?\n\nThis action cannot be undone.`);
+                    if (!confirmed) return;
+
+                    try {
+                        // Disable button during delete
+                        btn.disabled = true;
+                        btn.innerHTML = '<i class="fas fa-spinner fa-spin mr-2"></i>Deleting...';
+
+                        // Delete setlist from Firestore
+                        await deleteDoc(doc(db, 'setlists', setlistId));
+
+                        // Update concert has_setlist flag (check if any setlists remain)
+                        const remainingSetlists = await getDocs(query(
+                            collection(db, 'setlists'),
+                            where('concert_id', '==', concertId)
+                        ));
+
+                        const concertRef = doc(db, 'concerts', concertId);
+                        await updateDoc(concertRef, {
+                            has_setlist: remainingSetlists.size > 0,
+                            updated_at: new Date()
+                        });
+
+                        // Trigger deployment in background (don't wait for it)
+                        fetch('https://us-central1-earplugs-and-memories.cloudfunctions.net/triggerManualDeploy', {
+                            method: 'POST'
+                        }).catch(err => console.log('Could not trigger deployment:', err));
+
+                        // Remove the setlist from DOM immediately for instant feedback
+                        const setlistElement = btn.closest('[data-setlist-id]') || btn.closest('.mb-10');
+                        if (setlistElement) {
+                            setlistElement.remove();
+                        }
+
+                        // Show success message
+                        alert('Setlist deleted successfully!\n\nThe static files will update automatically in a few minutes.');
+
+                        // If no setlists remain, reload to show the "submit setlist" form
+                        if (remainingSetlists.size === 0) {
+                            window.location.reload();
+                        }
+                    } catch (error) {
+                        console.error('Error deleting setlist:', error);
+                        alert('Error deleting setlist: ' + error.message);
+                        // Re-enable button on error
+                        btn.disabled = false;
+                        btn.innerHTML = '<i class="fas fa-trash mr-2"></i>Delete Setlist';
+                    }
+                });
+            });
+        }
+
         // Initialize auth with callback to show admin actions
+        let isAdmin = false;
         initAuth(() => {
             if (isOwner()) {
+                isAdmin = true;
                 document.getElementById('admin-actions').classList.remove('hidden');
-                // Show all delete setlist buttons
-                const deleteButtons = document.querySelectorAll('.delete-setlist-btn');
-                deleteButtons.forEach(btn => btn.classList.remove('hidden'));
 
-                // Add click handlers for delete buttons
-                deleteButtons.forEach(btn => {
-                    btn.addEventListener('click', async () => {
-                        const setlistId = btn.dataset.setlistId;
-                        const artistName = btn.dataset.artistName;
+                // Setup delete buttons for any that exist now
+                setupDeleteButtons();
 
-                        if (!setlistId) {
-                            alert('Setlist ID not found');
-                            return;
-                        }
+                // Watch for new delete buttons being added to the DOM
+                const observer = new MutationObserver(() => {
+                    setupDeleteButtons();
+                });
 
-                        const confirmed = confirm(`Are you sure you want to delete the setlist for ${artistName}?\n\nThis action cannot be undone.`);
-                        if (!confirmed) return;
-
-                        try {
-                            // Disable button during delete
-                            btn.disabled = true;
-                            btn.innerHTML = '<i class="fas fa-spinner fa-spin mr-2"></i>Deleting...';
-
-                            // Delete setlist from Firestore
-                            await deleteDoc(doc(db, 'setlists', setlistId));
-
-                            // Update concert has_setlist flag (check if any setlists remain)
-                            const remainingSetlists = await getDocs(query(
-                                collection(db, 'setlists'),
-                                where('concert_id', '==', concertId)
-                            ));
-
-                            const concertRef = doc(db, 'concerts', concertId);
-                            await updateDoc(concertRef, {
-                                has_setlist: remainingSetlists.size > 0,
-                                updated_at: new Date()
-                            });
-
-                            // Trigger deployment in background (don't wait for it)
-                            fetch('https://us-central1-earplugs-and-memories.cloudfunctions.net/triggerManualDeploy', {
-                                method: 'POST'
-                            }).catch(err => console.log('Could not trigger deployment:', err));
-
-                            // Remove the setlist from DOM immediately for instant feedback
-                            const setlistElement = btn.closest('[data-setlist-id]') || btn.closest('.mb-10');
-                            if (setlistElement) {
-                                setlistElement.remove();
-                            }
-
-                            // Show success message
-                            alert('Setlist deleted successfully!\n\nThe static files will update automatically in a few minutes.');
-
-                            // If no setlists remain, reload to show the "submit setlist" form
-                            if (remainingSetlists.size === 0) {
-                                window.location.reload();
-                            }
-                        } catch (error) {
-                            console.error('Error deleting setlist:', error);
-                            alert('Error deleting setlist: ' + error.message);
-                            // Re-enable button on error
-                            btn.disabled = false;
-                            btn.innerHTML = '<i class="fas fa-trash mr-2"></i>Delete Setlist';
-                        }
-                    });
+                observer.observe(document.body, {
+                    childList: true,
+                    subtree: true
                 });
             }
         });

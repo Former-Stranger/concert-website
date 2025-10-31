@@ -1,0 +1,299 @@
+{
+  "id": "938",
+  "show_number": 937,
+  "date": "2019-08-29",
+  "festival_name": null,
+  "venue": "Xfinity Center",
+  "city": "Mansfield",
+  "state": "MA",
+  "artists": [
+    {
+      "name": "Brad Paisley",
+      "role": "headliner"
+    },
+    {
+      "name": "Chris Lane",
+      "role": "opener"
+    },
+    {
+      "name": "Riley Green",
+      "role": "opener"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "d8c85c0e-ad88-47a7-a1df-b70608c2f52f",
+      "artist_name": "Riley Green",
+      "artist_role": "opener",
+      "setlistfm_url": "https://www.setlist.fm/setlist/riley-green/2019/xfinity-theatre-hartford-ct-539cb7cd.html",
+      "song_count": 7,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Same Old Song",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Bettin' Man",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Get That Man a Beer",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "In Love by Now",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Seminole Wind",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "John Anderson"
+        },
+        {
+          "position": 6,
+          "name": "I Wish Grandpas Never Died",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "There Was This Girl",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ]
+    },
+    {
+      "artist_id": "6cfd7ffc-824f-4219-8e27-4b9417700f44",
+      "artist_name": "Brad Paisley",
+      "artist_role": "headliner",
+      "setlistfm_url": "https://www.setlist.fm/setlist/brad-paisley/2019/xfinity-theatre-hartford-ct-b9f5dbe.html",
+      "song_count": 24,
+      "has_encore": true,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Beat This Summer",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Ticks",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "The World",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Perfect Storm",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Water",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Then",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Waitin' on a Woman",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "Celebrity",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 9,
+          "name": "A Country Boy Can Survive / I'm Still a Guy",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "This Is Country Music",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "American Saturday Night",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 12,
+          "name": "She's Everything",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 13,
+          "name": "Last Time for Everything / Purple Rain",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 14,
+          "name": "Old Alabama",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 15,
+          "name": "Letter to Me",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 16,
+          "name": "Whiskey Lullaby",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jon Randall"
+        },
+        {
+          "position": 17,
+          "name": "Crushin' It",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 18,
+          "name": "Hot for Teacher",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Van Halen"
+        },
+        {
+          "position": 19,
+          "name": "I'm Gonna Miss Her (The Fishin' Song)",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 20,
+          "name": "River Bank",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 21,
+          "name": "Chattahoochee",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Alan Jackson"
+        },
+        {
+          "position": 22,
+          "name": "Mud on the Tires",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 23,
+          "name": "Today",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 24,
+          "name": "Alcohol",
+          "set_name": "Main Set",
+          "encore": 1,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ],
+      "tour_name": "2019 World Tour"
+    }
+  ],
+  "total_song_count": 31,
+  "has_encore": true,
+  "tour_name": "2019 World Tour"
+}
