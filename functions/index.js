@@ -245,26 +245,44 @@ exports.processApprovedSetlist = functions.firestore
 
       const songCount = songs.length;
 
-      // Check if setlist already exists for this concert
-      const existingSetlistsQuery = await db.collection('setlists')
+      // Extract artist info from setlist data
+      const artist = setlistData.artist || {};
+      const artistName = artist.name || 'Unknown Artist';
+      const artistMbid = artist.mbid || null;
+
+      // Create slug from artist name for document ID
+      const artistSlug = artistName.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+
+      // For multi-artist shows, use format: concertId-artistSlug
+      // For single artist, use simple concertId format
+      const existingSetlists = await db.collection('setlists')
         .where('concert_id', '==', concertId)
-        .limit(1)
         .get();
 
-      let setlistRef;
-      if (!existingSetlistsQuery.empty) {
-        // Update existing setlist
-        setlistRef = existingSetlistsQuery.docs[0].ref;
-        console.log(`Updating existing setlist for concert ${concertId}`);
+      // Check if there are existing setlists for DIFFERENT artists
+      const differentArtistExists = existingSetlists.docs.some(doc => {
+        const data = doc.data();
+        return data.artist_name && data.artist_name !== artistName;
+      });
+
+      const hasMultipleArtists = existingSetlists.size > 0 && differentArtistExists;
+      const docId = hasMultipleArtists ? `${concertId}-${artistSlug}` : concertId;
+
+      // Check if this specific artist's setlist already exists
+      const setlistRef = db.collection('setlists').doc(docId);
+      const existingSetlist = await setlistRef.get();
+
+      if (existingSetlist.exists) {
+        console.log(`Updating existing setlist for ${artistName} at concert ${concertId}`);
       } else {
-        // Create new setlist
-        setlistRef = db.collection('setlists').doc();
-        console.log(`Creating new setlist for concert ${concertId}`);
+        console.log(`Creating new setlist for ${artistName} at concert ${concertId}`);
       }
 
-      // Write setlist data
+      // Write setlist data with artist info
       await setlistRef.set({
         concert_id: concertId,
+        artist_name: artistName,
+        artist_id: artistMbid,
         setlistfm_id: newData.setlistfmId || null,
         setlistfm_url: newData.setlistfmUrl || null,
         song_count: songCount,
