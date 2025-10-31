@@ -62,6 +62,123 @@ exports.fetchSetlist = functions.https.onRequest(async (req, res) => {
   }
 });
 
+// Fetch setlist with multi-artist detection
+// Given one setlist URL, find all other artists performing at the same venue/date
+exports.fetchSetlistWithMultiArtist = functions.https.onRequest(async (req, res) => {
+  // Enable CORS
+  res.set('Access-Control-Allow-Origin', '*');
+  res.set('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
+  res.set('Access-Control-Allow-Headers', 'Content-Type');
+
+  // Handle preflight request
+  if (req.method === 'OPTIONS') {
+    res.status(204).send('');
+    return;
+  }
+
+  // Only allow GET requests
+  if (req.method !== 'GET') {
+    res.status(405).send('Method Not Allowed');
+    return;
+  }
+
+  const setlistId = req.query.id;
+
+  if (!setlistId) {
+    res.status(400).json({ error: 'Missing setlist ID' });
+    return;
+  }
+
+  try {
+    // STEP 1: Fetch the provided setlist
+    const setlistUrl = `https://api.setlist.fm/rest/1.0/setlist/${setlistId}`;
+    const setlistResponse = await fetch(setlistUrl, {
+      headers: {
+        'x-api-key': SETLISTFM_API_KEY,
+        'Accept': 'application/json'
+      }
+    });
+
+    if (!setlistResponse.ok) {
+      if (setlistResponse.status === 404) {
+        res.status(404).json({ error: 'Setlist not found' });
+        return;
+      }
+      res.status(setlistResponse.status).json({ error: `Setlist.fm API error: ${setlistResponse.status}` });
+      return;
+    }
+
+    const setlistData = await setlistResponse.json();
+
+    // Extract venue and date
+    const venue = setlistData.venue || {};
+    const venueName = venue.name;
+    const venueId = venue.id;
+    const eventDate = setlistData.eventDate; // Format: DD-MM-YYYY
+
+    if (!venueName || !eventDate) {
+      // If we can't detect other artists, just return the single setlist
+      res.status(200).json({
+        setlists: [setlistData],
+        multiArtistDetectionFailed: true
+      });
+      return;
+    }
+
+    // STEP 2: Search for all setlists at this venue on this date
+    const searchUrl = `https://api.setlist.fm/rest/1.0/search/setlists?venueId=${venueId}&date=${eventDate}`;
+    const searchResponse = await fetch(searchUrl, {
+      headers: {
+        'x-api-key': SETLISTFM_API_KEY,
+        'Accept': 'application/json'
+      }
+    });
+
+    if (!searchResponse.ok) {
+      // If search fails, just return the single setlist
+      res.status(200).json({
+        setlists: [setlistData],
+        multiArtistDetectionFailed: true
+      });
+      return;
+    }
+
+    const searchData = await searchResponse.json();
+    const allSetlists = searchData.setlist || [];
+
+    if (allSetlists.length === 0) {
+      // No results from search, return the original setlist
+      res.status(200).json({
+        setlists: [setlistData],
+        multiArtistDetectionFailed: true
+      });
+      return;
+    }
+
+    // STEP 3: Return all setlists found, sorted by song count (headliners first)
+    const setlistsWithCounts = allSetlists.map(s => {
+      const songCount = (s.sets?.set || []).reduce((total, set) => {
+        return total + (set.song || []).length;
+      }, 0);
+      return { ...s, _songCount: songCount };
+    });
+
+    // Sort by song count descending (headliners typically have more songs)
+    setlistsWithCounts.sort((a, b) => b._songCount - a._songCount);
+
+    res.status(200).json({
+      setlists: setlistsWithCounts,
+      venue: venueName,
+      date: eventDate,
+      totalArtists: setlistsWithCounts.length
+    });
+
+  } catch (error) {
+    console.error('Error fetching setlist with multi-artist detection:', error);
+    res.status(500).json({ error: 'Internal server error' });
+  }
+});
+
 // Firestore trigger to automatically import approved setlist submissions (uses onWrite to handle both creates and updates)
 exports.processApprovedSetlist = functions.firestore
   .document('pending_setlist_submissions/{submissionId}')
