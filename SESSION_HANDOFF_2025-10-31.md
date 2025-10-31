@@ -100,32 +100,38 @@ Continued multi-artist setlist work and fixed several critical bugs related to a
 
 ---
 
-## Remaining Issues to Fix
+## Issues Fixed in Continuation Session (Oct 31, 12:30 AM)
 
-### Priority 1: Artist Name Editing Not Working Properly
-**Status**: Not yet investigated
+### ✅ Artist Name Editing Not Working Properly - FIXED
+**Status**: RESOLVED
 
-**User Report**:
-- Edit concert to change artist name (e.g., "DEAD: Phil Lesh + Friends (w. Warren Haynes, Q)" → "Phil Lesh & Friends")
-- After save, artist shows incorrectly (e.g., "Phil Lesh & Friends Q)")
-- Clicking edit again shows the intended name ("Phil Lesh & Friends")
-- After refresh, artist reverts to original or shows something different
-- Issue on concert 1034
+**Root Cause Identified**:
+- Firestore was updating correctly ✓
+- Export/deployment was triggered ✓
+- Page did `window.location.reload()` immediately ✗
+- Static JSON files hadn't regenerated yet (takes 2-5 minutes) ✗
+- User saw stale data from old JSON files ✗
 
-**Suspected Cause**:
-- Edit form is creating unwanted additional artist entries
-- Firestore is updated correctly but static JSON not regenerated
-- Possible artist parsing issue in edit modal code
+**Solution Implemented**:
+- Created `reloadConcertFromFirestore()` function (concert.html:601-671)
+- After saving edit, loads updated data directly from Firestore instead of page reload
+- Updates header display in-place (artist, venue, city, state, festival)
+- Shows changes to user instantly
+- Still triggers export in background for static files
+- Updated success message to explain export timing
+- Falls back to page reload if Firestore read fails
 
-**Next Steps**:
-1. Investigate edit modal artist field handling in `concert.html`
-2. Check how artist data is updated in Firestore
-3. Verify export script regeneration is needed after edits
-4. May need to add "Export Data" button for admins or auto-trigger export
+**Files Modified**:
+- `website/concert.html` (lines 601-671, 713, 716)
+- Cache-busting version updated to v=1761884990
+
+**Deployed**: Yes (commit 353edc7)
 
 ---
 
-### Priority 2: Tour Name Not Captured from Setlist.fm
+## Remaining Issues to Fix
+
+### Priority 1: Tour Name Not Captured from Setlist.fm
 **Status**: Not yet investigated
 
 **User Report**:
@@ -253,25 +259,25 @@ Before continuing with remaining issues:
 
 ## Next Session Priorities
 
-1. **Artist Name Editing** (High Priority)
-   - Most critical as it's causing data inconsistencies
-   - Need to trace through full edit flow
-   - May need to add export automation
-
-2. **Tour Name Capture** (Medium Priority)
+1. **Tour Name Capture** (High Priority)
    - Enhances setlist data completeness
    - Relatively straightforward if API provides the data
+   - Check if setlist.fm API returns tour data
+   - Add tour_name field to setlist documents
+   - Update concert display to show tour name
 
-3. **Opener Detection & Addition** (Medium Priority)
+2. **Opener Detection & Addition** (High Priority)
    - Affects multi-artist show accuracy
-   - Needs concert metadata synchronization
+   - When submitting headliner setlist, opener's setlist is fetched but opener is not added to concert's artists array
+   - Need concert metadata synchronization
+   - Determine correct artist role assignment
 
-4. **Old Setlist Cleanup** (Low Priority)
+3. **Old Setlist Cleanup** (Medium Priority)
    - Data hygiene issue
    - Can be batch processed with script
-   - 60 concerts affected
+   - 60 concerts affected with old-format setlist documents
 
-5. **Simplify Setlist Lookup Scripts** (Low Priority)
+4. **Simplify Setlist Lookup Scripts** (Low Priority)
    - Multiple overlapping scripts exist: fetch_setlists.py (old SQLite version), fetch_setlists_enhanced.py (main Firestore version), fetch_missing_setlists.py, and fetch_missing_setlists_with_rotation.py
    - Should consolidate into single script with options for: initial fetch, missing only, API key rotation
    - Remove deprecated SQLite-based script
@@ -281,17 +287,27 @@ Before continuing with remaining issues:
 
 ## Questions for Next Session
 
-1. **Artist Editing**: Does the edit modal show a single text field or multiple fields for artists? How does it handle multi-artist shows?
+1. **Tour Names**: Do all setlists have tour data, or is it optional? Where should tour names be displayed?
 
-2. **Tour Names**: Do all setlists have tour data, or is it optional? Where should tour names be displayed?
-
-3. **Opener Addition**: Should openers be automatically added to the concert when their setlist is detected, or should it require manual confirmation?
-
-4. **Export Automation**: Should exports happen automatically after admin edits, or should there be a manual "Export Data" button?
+2. **Opener Addition**: Should openers be automatically added to the concert when their setlist is detected, or should it require manual confirmation?
 
 ---
 
 ## End of Session
 Date: October 31, 2025
-Time: ~4:15am EST
-All critical bugs fixed, three enhancement issues remain for next session.
+
+**Initial Session** (~4:15am EST):
+- All critical bugs fixed (auto-approval, update setlist button, modal highlighting, duplicate prevention)
+- Three enhancement issues remained (artist editing, tour names, opener addition)
+
+**Continuation Session** (12:30am - 12:50am EST):
+- ✅ Fixed artist name editing to show changes immediately
+- Added `reloadConcertFromFirestore()` function
+- Deployed with cache version v=1761884990
+- Added TODO for simplifying setlist lookup scripts
+
+**Still Remaining**:
+- Tour name capture from setlist.fm
+- Opener addition to concert when multi-artist setlist detected
+- Old setlist cleanup (60 concerts)
+- Simplify setlist lookup scripts
