@@ -728,8 +728,9 @@
                                 headliner.artist_id = newArtistRef.id;
                                 headliner.artist_name = artistName;
                             } else {
-                                // Keep old artist_id but update display name
-                                headliner.artist_name = artistName;
+                                // User cancelled - abort the save operation
+                                document.getElementById('edit-concert-modal').remove();
+                                return;
                             }
                         }
                     }
