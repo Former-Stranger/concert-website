@@ -1,19 +1,38 @@
-import { db, auth } from './firebase-config.js';
+import { db, auth, onAuthStateChanged } from './firebase-config.js';
 import { collection, addDoc, query, where, getDocs, doc, getDoc } from 'https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js';
 import { isOwner } from './auth.js';
 
 // Helper function to check if current user is admin (async version)
 async function checkIsAdmin() {
-    const user = auth.currentUser;
-    if (!user) return false;
+    // Wait for auth to initialize if needed
+    return new Promise((resolve) => {
+        const checkUser = async () => {
+            const user = auth.currentUser;
+            if (!user) {
+                resolve(false);
+                return;
+            }
 
-    try {
-        const adminDoc = await getDoc(doc(db, 'admins', user.uid));
-        return adminDoc.exists();
-    } catch (error) {
-        console.error('Error checking admin status:', error);
-        return false;
-    }
+            try {
+                const adminDoc = await getDoc(doc(db, 'admins', user.uid));
+                resolve(adminDoc.exists());
+            } catch (error) {
+                console.error('Error checking admin status:', error);
+                resolve(false);
+            }
+        };
+
+        // If auth is ready, check immediately
+        if (auth.currentUser !== undefined) {
+            checkUser();
+        } else {
+            // Wait for auth state to initialize
+            const unsubscribe = onAuthStateChanged(auth, () => {
+                unsubscribe();
+                checkUser();
+            });
+        }
+    });
 }
 
 export async function initSetlistSubmission() {
