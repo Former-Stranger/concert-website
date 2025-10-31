@@ -1,7 +1,7 @@
 {
   "id": "78",
   "name": "Brad Paisley",
-  "concert_count": 8,
+  "concert_count": 9,
   "top_songs": [
     {
       "name": "Ticks",
@@ -65,6 +65,18 @@
       "venue": "Today Show Plaza at Rockefeller Center",
       "city": "New York",
       "state": "NY",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "938",
+      "show_number": 937,
+      "date": "2019-08-29",
+      "festival_name": null,
+      "venue": "Xfinity Center",
+      "city": "Mansfield",
+      "state": "MA",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null
