@@ -250,6 +250,10 @@ exports.processApprovedSetlist = functions.firestore
       const artistName = artist.name || 'Unknown Artist';
       const artistMbid = artist.mbid || null;
 
+      // Extract tour info (optional field)
+      const tour = setlistData.tour || {};
+      const tourName = tour.name || null;
+
       // Create slug from artist name for document ID
       const artistSlug = artistName.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
 
@@ -283,6 +287,7 @@ exports.processApprovedSetlist = functions.firestore
         concert_id: concertId,
         artist_name: artistName,
         artist_id: artistMbid,
+        tour_name: tourName,
         setlistfm_id: newData.setlistfmId || null,
         setlistfm_url: newData.setlistfmUrl || null,
         song_count: songCount,
@@ -292,12 +297,85 @@ exports.processApprovedSetlist = functions.firestore
         fetched_at: admin.firestore.FieldValue.serverTimestamp()
       });
 
-      // Update concert to mark that it has a setlist
+      // Update concert's artists array if this artist isn't already there
       const concertRef = db.collection('concerts').doc(concertId);
-      await concertRef.update({
-        has_setlist: true,
-        updated_at: admin.firestore.FieldValue.serverTimestamp()
-      });
+      const concertDoc = await concertRef.get();
+
+      if (concertDoc.exists) {
+        const concertData = concertDoc.data();
+        const existingArtists = concertData.artists || [];
+
+        // Check if this artist is already in the concert's artists array
+        const artistExists = existingArtists.some(a =>
+          a.artist_name === artistName ||
+          (artistMbid && a.artist_id === artistMbid)
+        );
+
+        if (!artistExists) {
+          console.log(`Adding ${artistName} to concert ${concertId}'s artists array`);
+
+          // Determine role based on song count compared to other setlists for this concert
+          // Get all setlists for this concert to compare song counts
+          const allConcertSetlists = await db.collection('setlists')
+            .where('concert_id', '==', concertId)
+            .get();
+
+          let role = 'headliner';  // Default to headliner
+
+          // If there are other setlists with more songs, this is probably an opener
+          for (const otherSetlist of allConcertSetlists.docs) {
+            const otherData = otherSetlist.data();
+            // Skip if this is the setlist we just created
+            if (otherData.artist_name === artistName) continue;
+
+            if (otherData.song_count && otherData.song_count > songCount) {
+              role = 'opener';
+              break;
+            }
+          }
+
+          // Find or create artist in artists collection
+          const artistsQuery = await db.collection('artists')
+            .where('canonical_name', '==', artistName)
+            .limit(1)
+            .get();
+
+          let artistId;
+          if (!artistsQuery.empty) {
+            artistId = artistsQuery.docs[0].id;
+          } else {
+            // Create new artist
+            const newArtistRef = await db.collection('artists').add({
+              canonical_name: artistName,
+              created_at: admin.firestore.FieldValue.serverTimestamp()
+            });
+            artistId = newArtistRef.id;
+            console.log(`Created new artist: ${artistName} with ID ${artistId}`);
+          }
+
+          // Add artist to concert's artists array
+          const newArtist = {
+            artist_id: artistId,
+            artist_name: artistName,
+            role: role,
+            position: existingArtists.length + 1
+          };
+
+          await concertRef.update({
+            artists: admin.firestore.FieldValue.arrayUnion(newArtist),
+            has_setlist: true,
+            updated_at: admin.firestore.FieldValue.serverTimestamp()
+          });
+
+          console.log(`Added ${artistName} as ${role} to concert ${concertId}`);
+        } else {
+          // Artist already exists, just update has_setlist
+          await concertRef.update({
+            has_setlist: true,
+            updated_at: admin.firestore.FieldValue.serverTimestamp()
+          });
+        }
+      }
 
       // Mark submission as processed
       await change.after.ref.update({

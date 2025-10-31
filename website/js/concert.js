@@ -157,11 +157,14 @@ function renderConcertDetail(concert) {
             return `
                 <div class="mb-10">
                     <div class="flex justify-between items-center mb-6">
-                        <h3 class="text-3xl font-bold poster-title" style="color: #c1502e;">
-                            ${setlist.artist_name}
-                            ${showRole && setlist.artist_role === 'opener' ? '<span class="text-lg opacity-70">(opener)</span>' : ''}
-                            <span class="text-xl opacity-70">(${setlist.song_count} songs)</span>
-                        </h3>
+                        <div>
+                            <h3 class="text-3xl font-bold poster-title" style="color: #c1502e;">
+                                ${setlist.artist_name}
+                                ${showRole && setlist.artist_role === 'opener' ? '<span class="text-lg opacity-70">(opener)</span>' : ''}
+                                <span class="text-xl opacity-70">(${setlist.song_count} songs)</span>
+                            </h3>
+                            ${setlist.tour_name ? `<p class="text-lg mt-2 opacity-80 italic" style="color: #f4e4c1;"><i class="fas fa-route mr-2"></i>${setlist.tour_name}</p>` : ''}
+                        </div>
                         ${setlist.setlistfm_url ? `
                             <a href="${setlist.setlistfm_url}" target="_blank" class="setlist-fm-btn inline-block px-4 py-2 rounded text-sm">
                                 <i class="fas fa-external-link-alt mr-2"></i>View on Setlist.fm
