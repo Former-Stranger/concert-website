@@ -64,7 +64,8 @@ export async function initSetlistSubmission() {
 
             // If multiple artists detected, show selection UI
             if (setlistResponse.totalArtists > 1) {
-                showMessage(messageDiv, `Found ${setlistResponse.totalArtists} artists at this show! Please select which ones to submit.`, 'info');
+                // Don't use showMessage here because it has a 5-second timeout
+                // Instead, the multi-artist selection UI will handle its own messages
                 showMultiArtistSelection(setlistResponse, concertId);
                 submitBtn.disabled = false;
                 submitBtn.innerHTML = '<i class="fas fa-paper-plane mr-2"></i>Submit';
