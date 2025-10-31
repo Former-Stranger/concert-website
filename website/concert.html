@@ -378,13 +378,13 @@
         </footer>
     </div>
 
-    <script src="js/concert.js?v=1761931935"></script>
+    <script src="js/concert.js?v=1761933531"></script>
     <script type="module">
-        import { initAuth, isOwner } from './js/auth.js?v=1761931935';
-        import { initNotesAndComments } from './js/concert-notes.js?v=1761931935';
-        import { initSetlistSubmission } from './js/setlist-submission.js?v=1761931935';
-        import { initPhotoUpload } from './js/concert-photos.js?v=1761931935';
-        import { db } from './js/firebase-config.js?v=1761931935';
+        import { initAuth, isOwner } from './js/auth.js?v=1761933531';
+        import { initNotesAndComments } from './js/concert-notes.js?v=1761933531';
+        import { initSetlistSubmission } from './js/setlist-submission.js?v=1761933531';
+        import { initPhotoUpload } from './js/concert-photos.js?v=1761933531';
+        import { db } from './js/firebase-config.js?v=1761933531';
         import { doc, deleteDoc, getDoc, updateDoc, setDoc, collection, query, where, getDocs } from 'https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js';
 
         // Get concert ID and returnUrl from URL
@@ -420,6 +420,10 @@
                         if (!confirmed) return;
 
                         try {
+                            // Disable button during delete
+                            btn.disabled = true;
+                            btn.innerHTML = '<i class="fas fa-spinner fa-spin mr-2"></i>Deleting...';
+
                             // Delete setlist from Firestore
                             await deleteDoc(doc(db, 'setlists', setlistId));
 
@@ -435,20 +439,30 @@
                                 updated_at: new Date()
                             });
 
-                            // Trigger deployment
-                            try {
-                                await fetch('https://us-central1-earplugs-and-memories.cloudfunctions.net/triggerManualDeploy', {
-                                    method: 'POST'
-                                });
-                            } catch (err) {
-                                console.log('Could not trigger automatic deployment:', err);
+                            // Trigger deployment in background (don't wait for it)
+                            fetch('https://us-central1-earplugs-and-memories.cloudfunctions.net/triggerManualDeploy', {
+                                method: 'POST'
+                            }).catch(err => console.log('Could not trigger deployment:', err));
+
+                            // Remove the setlist from DOM immediately for instant feedback
+                            const setlistElement = btn.closest('[data-setlist-id]') || btn.closest('.mb-10');
+                            if (setlistElement) {
+                                setlistElement.remove();
                             }
 
-                            alert('Setlist deleted successfully! The page will reload.');
-                            window.location.reload();
+                            // Show success message
+                            alert('Setlist deleted successfully!\n\nThe static files will update automatically in a few minutes.');
+
+                            // If no setlists remain, reload to show the "submit setlist" form
+                            if (remainingSetlists.size === 0) {
+                                window.location.reload();
+                            }
                         } catch (error) {
                             console.error('Error deleting setlist:', error);
                             alert('Error deleting setlist: ' + error.message);
+                            // Re-enable button on error
+                            btn.disabled = false;
+                            btn.innerHTML = '<i class="fas fa-trash mr-2"></i>Delete Setlist';
                         }
                     });
                 });
