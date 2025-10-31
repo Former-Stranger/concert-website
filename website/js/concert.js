@@ -88,7 +88,7 @@ function renderConcertDetail(concert) {
             <h2 class="poster-title mb-4 text-[#f4e4c1]" style="font-size: 3.5rem; line-height: 1.1;">${getArtistNames(concert.artists)}</h2>
             ${openers.length > 0 ? `
                 <p class="text-xl mb-4 text-[#f4e4c1] opacity-80">
-                    with ${openers.map(a => a.name).join(', ')}
+                    with ${openers.map(a => a.artist_name).join(', ')}
                 </p>
             ` : ''}
             ${concert.tour_name ? `<p class="text-xl mb-4 text-[#f4e4c1] opacity-80 italic"><i class="fas fa-route mr-2"></i>${concert.tour_name}</p>` : ''}
@@ -275,7 +275,7 @@ function groupSongsBySet(songs) {
 function getArtistNames(artists) {
     if (!artists || artists.length === 0) return 'Unknown Artist';
     const headliners = artists.filter(a => a.role === 'headliner' || a.role === 'festival_performer');
-    return headliners.map(a => a.name).join(', ') || artists[0].name;
+    return headliners.map(a => a.artist_name).join(', ') || artists[0].artist_name;
 }
 
 // Count covers
