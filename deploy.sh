@@ -6,6 +6,16 @@ echo "🚀 Deploying Concert Archive Updates"
 echo "======================================="
 echo ""
 
+# Update cache-busting version numbers
+echo "🔄 Updating cache version..."
+python3 scripts/update_cache_version.py
+
+if [ $? -ne 0 ]; then
+    echo "❌ Cache version update failed!"
+    exit 1
+fi
+
+echo ""
 # Export data from Firestore
 echo "📊 Exporting data from Firestore..."
 export GOOGLE_CLOUD_PROJECT=earplugs-and-memories
