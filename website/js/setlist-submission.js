@@ -1,6 +1,20 @@
 import { db, auth } from './firebase-config.js';
-import { collection, addDoc, query, where, getDocs } from 'https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js';
+import { collection, addDoc, query, where, getDocs, doc, getDoc } from 'https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js';
 import { isOwner } from './auth.js';
+
+// Helper function to check if current user is admin (async version)
+async function checkIsAdmin() {
+    const user = auth.currentUser;
+    if (!user) return false;
+
+    try {
+        const adminDoc = await getDoc(doc(db, 'admins', user.uid));
+        return adminDoc.exists();
+    } catch (error) {
+        console.error('Error checking admin status:', error);
+        return false;
+    }
+}
 
 export async function initSetlistSubmission() {
     const submitBtn = document.getElementById('submit-setlist-btn');
@@ -263,8 +277,11 @@ function showMultiArtistSelection(setlistResponse, concertId) {
             const submitterName = user ? user.displayName || 'Anonymous' : 'Anonymous';
 
             // Check if user is owner (auto-approve owner submissions)
-            const userIsOwner = isOwner();
+            const userIsOwner = await checkIsAdmin();
             const status = userIsOwner ? 'approved' : 'pending';
+
+            console.log('[Multi-Artist Submit] User is owner:', userIsOwner);
+            console.log('[Multi-Artist Submit] Submission status:', status);
 
             // Submit each selected artist's setlist
             const submissions = [];
@@ -321,7 +338,22 @@ function showMultiArtistSelection(setlistResponse, concertId) {
 }
 
 export async function initUpdateSetlist() {
-    const updateBtn = document.getElementById('update-setlist-btn');
+    // Wait for button to exist (it's created asynchronously by concert.js)
+    const waitForButton = () => {
+        return new Promise((resolve) => {
+            const checkButton = () => {
+                const btn = document.getElementById('update-setlist-btn');
+                if (btn) {
+                    resolve(btn);
+                } else {
+                    setTimeout(checkButton, 100);
+                }
+            };
+            checkButton();
+        });
+    };
+
+    const updateBtn = await waitForButton();
     const submitBtn = document.getElementById('update-setlist-submit-btn');
     const cancelBtn = document.getElementById('cancel-update-btn');
     const urlInput = document.getElementById('update-setlistfm-url');
