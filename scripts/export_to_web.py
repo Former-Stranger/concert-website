@@ -173,8 +173,10 @@ def export_to_json(output_dir):
             tour_names = set()
 
             # Sort setlists by artist role: openers first, then headliners
-            # Create a mapping of artist_id to role from the concert data
-            artist_roles = {a.get('artist_id'): a.get('role', 'headliner')
+            # Create a mapping of artist_name to role from the concert data
+            # Note: Use artist_name instead of artist_id because setlist artist_id (MusicBrainz)
+            # doesn't match concert artist_id (Firestore doc ID)
+            artist_roles = {a.get('artist_name'): a.get('role', 'headliner')
                           for a in concert_data.get('artists', [])}
 
             # Role priority for sorting (lower number = appears first)
@@ -182,7 +184,7 @@ def export_to_json(output_dir):
 
             # Sort setlists: openers first, then headliners, then by artist name
             sorted_setlists = sorted(setlist_list,
-                                    key=lambda s: (role_priority.get(artist_roles.get(s.get('artist_id'), 'headliner'), 2),
+                                    key=lambda s: (role_priority.get(artist_roles.get(s.get('artist_name'), 'headliner'), 2),
                                                   s.get('artist_name', '')))
 
             for setlist_data in sorted_setlists:
@@ -204,7 +206,7 @@ def export_to_json(output_dir):
                 setlist_obj = {
                     'artist_id': setlist_data.get('artist_id'),
                     'artist_name': setlist_data.get('artist_name'),
-                    'artist_role': artist_roles.get(setlist_data.get('artist_id'), 'headliner'),
+                    'artist_role': artist_roles.get(setlist_data.get('artist_name'), 'headliner'),
                     'setlistfm_url': setlist_data.get('setlistfm_url'),
                     'song_count': setlist_data.get('song_count', 0),
                     'has_encore': setlist_data.get('has_encore', False),

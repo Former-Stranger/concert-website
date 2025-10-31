@@ -20,6 +20,112 @@
   "photo_count": 0,
   "setlists": [
     {
+      "artist_id": "e01c3376-15fa-40d7-b747-5f219bdefdd7",
+      "artist_name": "Steely Dan",
+      "artist_role": "opener",
+      "setlistfm_url": "https://www.setlist.fm/setlist/steely-dan/2023/madison-square-garden-new-york-ny-7ba2f220.html",
+      "song_count": 12,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Phantom Raiders",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Stanley Wilson"
+        },
+        {
+          "position": 2,
+          "name": "Josie",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Hey Nineteen",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Aja",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Kid Charlemagne",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Dirty Work",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Black Friday",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "Rikki Don't Lose That Number",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 9,
+          "name": "Peg",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "My Old School",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "Reelin' In the Years",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 12,
+          "name": "A Man Ain't Supposed to Cry",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Joe Williams"
+        }
+      ]
+    },
+    {
       "artist_id": "f46bd570-5768-462e-b84c-c7c993bbf47e",
       "artist_name": "Eagles",
       "artist_role": "headliner",
@@ -210,112 +316,6 @@
           "encore": 1,
           "is_cover": false,
           "cover_artist": null
-        }
-      ]
-    },
-    {
-      "artist_id": "e01c3376-15fa-40d7-b747-5f219bdefdd7",
-      "artist_name": "Steely Dan",
-      "artist_role": "headliner",
-      "setlistfm_url": "https://www.setlist.fm/setlist/steely-dan/2023/madison-square-garden-new-york-ny-7ba2f220.html",
-      "song_count": 12,
-      "has_encore": false,
-      "songs": [
-        {
-          "position": 1,
-          "name": "Phantom Raiders",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": true,
-          "cover_artist": "Stanley Wilson"
-        },
-        {
-          "position": 2,
-          "name": "Josie",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 3,
-          "name": "Hey Nineteen",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 4,
-          "name": "Aja",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 5,
-          "name": "Kid Charlemagne",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 6,
-          "name": "Dirty Work",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 7,
-          "name": "Black Friday",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 8,
-          "name": "Rikki Don't Lose That Number",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 9,
-          "name": "Peg",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 10,
-          "name": "My Old School",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 11,
-          "name": "Reelin' In the Years",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 12,
-          "name": "A Man Ain't Supposed to Cry",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": true,
-          "cover_artist": "Joe Williams"
         }
       ]
     }
