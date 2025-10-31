@@ -268,7 +268,7 @@ export async function initUpdateSetlist() {
                 };
 
                 console.log('[Update Setlist] Saving to Firestore:', submissionData);
-                await addDoc(collection(db, 'pending_setlist_submissions'), submissionData);
+                await addDoc(collection(db, 'setlist_submissions'), submissionData);
 
                 const message = userIsOwner
                     ? 'Setlist updated! The website will refresh with the new data in a few minutes. Please reload the page.'
