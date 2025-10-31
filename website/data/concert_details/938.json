@@ -24,6 +24,80 @@
   "photo_count": 0,
   "setlists": [
     {
+      "artist_id": "4e1fea54-3b52-40c2-831a-94cd550d392d",
+      "artist_name": "Chris Lane",
+      "artist_role": "opener",
+      "setlistfm_url": "https://www.setlist.fm/setlist/chris-lane/2019/xfinity-theatre-hartford-ct-439cb7ff.html",
+      "song_count": 8,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Fix",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Broken Windshield View",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Fishin\u2019",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Big, Big Plans",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "For Her",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "I Don't Know About You",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Should've Been a Cowboy / Watermelon Crawl / Boot Scoot Boogie / Chattahoochee / Dust on the Bottle / Check Yes or No / Sold /Friends in Low Places",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "Take Back Home Girl",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ]
+    },
+    {
       "artist_id": "d8c85c0e-ad88-47a7-a1df-b70608c2f52f",
       "artist_name": "Riley Green",
       "artist_role": "opener",
@@ -293,7 +367,7 @@
       "tour_name": "2019 World Tour"
     }
   ],
-  "total_song_count": 31,
+  "total_song_count": 39,
   "has_encore": true,
   "tour_name": "2019 World Tour"
 }

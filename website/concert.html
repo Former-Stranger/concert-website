@@ -378,13 +378,13 @@
         </footer>
     </div>
 
-    <script src="js/concert.js?v=1761938757"></script>
+    <script src="js/concert.js?v=1761954532"></script>
     <script type="module">
-        import { initAuth, isOwner } from './js/auth.js?v=1761938757';
-        import { initNotesAndComments } from './js/concert-notes.js?v=1761938757';
-        import { initSetlistSubmission } from './js/setlist-submission.js?v=1761938757';
-        import { initPhotoUpload } from './js/concert-photos.js?v=1761938757';
-        import { db } from './js/firebase-config.js?v=1761938757';
+        import { initAuth, isOwner } from './js/auth.js?v=1761954532';
+        import { initNotesAndComments } from './js/concert-notes.js?v=1761954532';
+        import { initSetlistSubmission } from './js/setlist-submission.js?v=1761954532';
+        import { initPhotoUpload } from './js/concert-photos.js?v=1761954532';
+        import { db } from './js/firebase-config.js?v=1761954532';
         import { doc, deleteDoc, getDoc, updateDoc, setDoc, collection, query, where, getDocs } from 'https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js';
 
         // Get concert ID and returnUrl from URL
@@ -451,11 +451,14 @@
                         }
 
                         // Show success message
-                        alert('Setlist deleted successfully!\n\nThe static files will update automatically in a few minutes.');
-
-                        // If no setlists remain, reload to show the "submit setlist" form
                         if (remainingSetlists.size === 0) {
-                            window.location.reload();
+                            alert('Setlist deleted successfully!\n\nThis was the last setlist for this concert. The page will refresh in 2 minutes to show the updated state, or you can manually refresh later.');
+                            // Wait 2 minutes for export to complete, then reload
+                            setTimeout(() => {
+                                window.location.reload();
+                            }, 120000);
+                        } else {
+                            alert('Setlist deleted successfully!\n\nThe static files will update automatically in a few minutes.');
                         }
                     } catch (error) {
                         console.error('Error deleting setlist:', error);

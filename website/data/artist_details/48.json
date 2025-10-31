@@ -5,43 +5,43 @@
   "top_songs": [
     {
       "name": "The River of Dreams",
-      "times_played": 67
+      "times_played": 66
     },
     {
       "name": "Scenes From an Italian Restaurant",
-      "times_played": 67
+      "times_played": 66
     },
     {
       "name": "Piano Man",
-      "times_played": 67
+      "times_played": 66
     },
     {
       "name": "You May Be Right",
-      "times_played": 67
+      "times_played": 66
     },
     {
       "name": "Allentown",
-      "times_played": 66
-    },
-    {
-      "name": "Movin' Out (Anthony's Song)",
-      "times_played": 66
-    },
-    {
-      "name": "It's Still Rock and Roll to Me",
       "times_played": 65
     },
     {
-      "name": "New York State of Mind",
+      "name": "Movin' Out (Anthony's Song)",
+      "times_played": 65
+    },
+    {
+      "name": "It's Still Rock and Roll to Me",
       "times_played": 64
     },
     {
+      "name": "New York State of Mind",
+      "times_played": 63
+    },
+    {
       "name": "Only the Good Die Young",
-      "times_played": 61
+      "times_played": 60
     },
     {
       "name": "My Life",
-      "times_played": 60
+      "times_played": 59
     }
   ],
   "concerts": [
@@ -65,7 +65,7 @@
       "venue": "UBS Arena",
       "city": "Elmont",
       "state": "NY",
-      "has_setlist": true,
+      "has_setlist": false,
       "opening_song": null,
       "closing_song": null
     },
