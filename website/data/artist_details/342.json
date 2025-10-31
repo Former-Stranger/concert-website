@@ -1,8 +1,49 @@
 {
   "id": "342",
   "name": "Light of Day",
-  "concert_count": 2,
-  "top_songs": [],
+  "concert_count": 3,
+  "top_songs": [
+    {
+      "name": "What Did You Do in the War",
+      "times_played": 1
+    },
+    {
+      "name": "Never Be Enough Time",
+      "times_played": 1
+    },
+    {
+      "name": "Pumping Iron",
+      "times_played": 1
+    },
+    {
+      "name": "With You",
+      "times_played": 1
+    },
+    {
+      "name": "We Could Be Kings",
+      "times_played": 1
+    },
+    {
+      "name": "Surfboard",
+      "times_played": 1
+    },
+    {
+      "name": "Hazard Lights",
+      "times_played": 1
+    },
+    {
+      "name": "Sandy Sheets",
+      "times_played": 1
+    },
+    {
+      "name": "Dirty Fucker",
+      "times_played": 1
+    },
+    {
+      "name": "Missing You",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "1140",
@@ -13,6 +54,18 @@
       "city": "Red Bank",
       "state": "NJ",
       "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "1076",
+      "show_number": 1075,
+      "date": "2023-01-14",
+      "festival_name": "Light of Day Winter Festival 2023",
+      "venue": "Count Basie Center for the Arts",
+      "city": "Red Bank",
+      "state": "NJ",
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },

@@ -1,0 +1,149 @@
+{
+  "id": "1076",
+  "show_number": 1075,
+  "date": "2023-01-14",
+  "festival_name": "Light of Day Winter Festival 2023",
+  "venue": "Count Basie Center for the Arts",
+  "city": "Red Bank",
+  "state": "NJ",
+  "artists": [
+    {
+      "name": "Light of Day",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "feb265ec-e510-4277-9451-914e3c6ceac5",
+      "artist_name": "Dave Hause",
+      "artist_role": "headliner",
+      "setlistfm_url": "https://www.setlist.fm/setlist/dave-hause/2023/count-basie-center-for-the-arts-red-bank-nj-33bda4c5.html",
+      "song_count": 6,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "With You",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "We Could Be Kings",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Surfboard",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Hazard Lights",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Sandy Sheets",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Dirty Fucker",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ]
+    },
+    {
+      "artist_id": "60890a33-fc2b-4d06-b8a0-a4599437144e",
+      "artist_name": "Joe Grushecky & the Houserockers",
+      "artist_role": "headliner",
+      "setlistfm_url": "https://www.setlist.fm/setlist/joe-grushecky-and-the-houserockers/2023/count-basie-center-for-the-arts-red-bank-nj-2bbd9866.html",
+      "song_count": 3,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "What Did You Do in the War",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Never Be Enough Time",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Pumping Iron",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Iron City Houserockers"
+        }
+      ]
+    },
+    {
+      "artist_id": "f0a4c8af-2b25-45cf-9b41-19171cf4d80f",
+      "artist_name": "John Waite",
+      "artist_role": "headliner",
+      "setlistfm_url": "https://www.setlist.fm/setlist/john-waite/2023/count-basie-center-for-the-arts-red-bank-nj-7bbc42fc.html",
+      "song_count": 1,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Missing You",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ]
+    },
+    {
+      "artist_id": "40fb02de-afc3-441c-a6ec-21fee861d478",
+      "artist_name": "Willie Nile",
+      "artist_role": "headliner",
+      "setlistfm_url": "https://www.setlist.fm/setlist/willie-nile/2023/count-basie-center-for-the-arts-red-bank-nj-4bbd9b36.html",
+      "song_count": 1,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "People Who Died",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Jim Carroll Band"
+        }
+      ]
+    }
+  ],
+  "total_song_count": 11,
+  "has_encore": false
+}

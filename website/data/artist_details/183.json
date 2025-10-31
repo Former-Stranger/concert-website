@@ -1,50 +1,62 @@
 {
   "id": "183",
   "name": "Eagles",
-  "concert_count": 2,
+  "concert_count": 3,
   "top_songs": [
     {
       "name": "Seven Bridges Road",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Take It Easy",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "One of These Nights",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Take It to the Limit",
-      "times_played": 1
-    },
-    {
-      "name": "Tequila Sunrise",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Witchy Woman",
-      "times_played": 1
+      "times_played": 2
+    },
+    {
+      "name": "Peaceful Easy Feeling",
+      "times_played": 2
+    },
+    {
+      "name": "Tequila Sunrise",
+      "times_played": 2
     },
     {
       "name": "In the City",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "I Can't Tell You Why",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "New Kid in Town",
-      "times_played": 1
-    },
-    {
-      "name": "How Long",
-      "times_played": 1
+      "times_played": 2
     }
   ],
   "concerts": [
+    {
+      "id": "1111",
+      "show_number": 1110,
+      "date": "2023-09-07",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
     {
       "id": "969",
       "show_number": 968,

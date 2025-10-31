@@ -378,13 +378,13 @@
         </footer>
     </div>
 
-    <script src="js/concert.js?v=1761879957"></script>
+    <script src="js/concert.js?v=1761884990"></script>
     <script type="module">
-        import { initAuth, isOwner } from './js/auth.js?v=1761879957';
-        import { initNotesAndComments } from './js/concert-notes.js?v=1761879957';
-        import { initSetlistSubmission, initUpdateSetlist } from './js/setlist-submission.js?v=1761879957';
-        import { initPhotoUpload } from './js/concert-photos.js?v=1761879957';
-        import { db } from './js/firebase-config.js?v=1761879957';
+        import { initAuth, isOwner } from './js/auth.js?v=1761884990';
+        import { initNotesAndComments } from './js/concert-notes.js?v=1761884990';
+        import { initSetlistSubmission, initUpdateSetlist } from './js/setlist-submission.js?v=1761884990';
+        import { initPhotoUpload } from './js/concert-photos.js?v=1761884990';
+        import { db } from './js/firebase-config.js?v=1761884990';
         import { doc, deleteDoc, getDoc, updateDoc, setDoc, collection, query, where, getDocs } from 'https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js';
 
         // Get concert ID and returnUrl from URL
@@ -598,6 +598,78 @@
             });
         }
 
+        // Function to reload concert data from Firestore and update display
+        async function reloadConcertFromFirestore(concertId) {
+            try {
+                // Get concert data from Firestore
+                const concertDoc = await getDoc(doc(db, 'concerts', concertId));
+                if (!concertDoc.exists()) {
+                    console.error('Concert not found in Firestore');
+                    return;
+                }
+
+                const concertData = concertDoc.data();
+
+                // Update only the header section with new data (keep setlist data as-is)
+                const header = document.getElementById('concert-header');
+
+                // Get artist names
+                const headliners = concertData.artists ? concertData.artists.filter(a => a.role === 'headliner' || a.role === 'festival_performer') : [];
+                const openers = concertData.artists ? concertData.artists.filter(a => a.role === 'opener') : [];
+                const artistNames = headliners.map(a => a.artist_name).join(' & ');
+
+                // Update header HTML
+                const existingHeader = header.querySelector('.vintage-poster');
+                if (existingHeader) {
+                    existingHeader.querySelector('h2').textContent = artistNames;
+
+                    // Update venue info
+                    const venueInfo = existingHeader.querySelector('.my-6');
+                    if (venueInfo) {
+                        venueInfo.innerHTML = `
+                            <p class="text-2xl text-[#f4e4c1] mb-2 font-bold">${concertData.venue_name}</p>
+                            <p class="text-xl text-[#f4e4c1] opacity-80">${concertData.city}, ${concertData.state}</p>
+                        `;
+                    }
+
+                    // Update or remove festival name
+                    const festivalP = existingHeader.querySelector('.text-2xl.mb-4.text-\\[\\#f4e4c1\\].opacity-90');
+                    if (concertData.festival_name) {
+                        if (festivalP) {
+                            festivalP.textContent = concertData.festival_name;
+                        } else {
+                            // Insert festival name after openers or after artist name
+                            const h2 = existingHeader.querySelector('h2');
+                            const festivalHTML = `<p class="text-2xl mb-4 text-[#f4e4c1] opacity-90">${concertData.festival_name}</p>`;
+                            h2.insertAdjacentHTML('afterend', festivalHTML);
+                        }
+                    } else if (festivalP) {
+                        festivalP.remove();
+                    }
+
+                    // Update or remove openers
+                    const openersP = existingHeader.querySelector('.text-xl.mb-4.text-\\[\\#f4e4c1\\].opacity-80');
+                    if (openers.length > 0) {
+                        const openersText = `with ${openers.map(a => a.artist_name).join(', ')}`;
+                        if (openersP && !openersP.querySelector('.fa-route')) {
+                            openersP.textContent = openersText;
+                        } else {
+                            // Insert after artist name
+                            const h2 = existingHeader.querySelector('h2');
+                            const openersHTML = `<p class="text-xl mb-4 text-[#f4e4c1] opacity-80">${openersText}</p>`;
+                            h2.insertAdjacentHTML('afterend', openersHTML);
+                        }
+                    }
+                }
+
+                console.log('Concert data reloaded from Firestore successfully');
+            } catch (error) {
+                console.error('Error reloading concert from Firestore:', error);
+                // Fall back to page reload if Firestore load fails
+                window.location.reload();
+            }
+        }
+
         // Function to save edited concert
         async function saveEditedConcert(concertId) {
             const date = document.getElementById('edit-date').value;
@@ -709,9 +781,11 @@
                 // Close modal
                 document.getElementById('edit-concert-modal').remove();
 
-                // Show success message and reload
-                alert('Concert updated successfully! The page will reload to show the changes.');
-                window.location.reload();
+                // Reload concert data from Firestore to show changes immediately
+                await reloadConcertFromFirestore(concertId);
+
+                // Show success message
+                alert('Concert updated successfully! Changes are now visible.\n\nNote: The updated data will be included in the next static export (takes a few minutes).');
 
             } catch (error) {
                 console.error('Error updating concert:', error);

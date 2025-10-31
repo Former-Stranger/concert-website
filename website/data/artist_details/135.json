@@ -1,7 +1,7 @@
 {
   "id": "135",
   "name": "Counting Crows",
-  "concert_count": 1,
+  "concert_count": 2,
   "top_songs": [
     {
       "name": "Have You Seen Me Lately?",
@@ -45,6 +45,18 @@
     }
   ],
   "concerts": [
+    {
+      "id": "1042",
+      "show_number": 1041,
+      "date": "2022-08-03",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
+    },
     {
       "id": "271",
       "show_number": 270,

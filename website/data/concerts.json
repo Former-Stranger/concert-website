@@ -1822,8 +1822,8 @@
     "venue": "Madison Square Garden",
     "city": "New York",
     "state": "NY",
-    "artists": "The Eagles + Steely Dan",
-    "hasSetlist": false
+    "artists": "Eagles",
+    "hasSetlist": true
   },
   {
     "id": "1110",
@@ -2207,8 +2207,8 @@
     "venue": "Count Basie Center for the Arts",
     "city": "Red Bank",
     "state": "NJ",
-    "artists": "Jeffrey Gaines",
-    "hasSetlist": false
+    "artists": "Light of Day",
+    "hasSetlist": true
   },
   {
     "id": "1075",
@@ -2581,7 +2581,7 @@
     "venue": "Capitol Theatre",
     "city": "Port Chester",
     "state": "NY",
-    "artists": "Counting Crowes",
+    "artists": "Counting Crows",
     "hasSetlist": false
   },
   {
@@ -2665,12 +2665,12 @@
     "id": "1034",
     "show_number": 1033,
     "date": "2022-07-01",
-    "festival_name": "Multi-Artist Show",
+    "festival_name": null,
     "venue": "Hartford HealthCare Amphitheater",
     "city": "Bridgeport",
     "state": "CT",
-    "artists": "DEAD: Phil Lesh + Friends (w. Warren Haynes, Q)",
-    "hasSetlist": false
+    "artists": "Phil Lesh & Friends",
+    "hasSetlist": true
   },
   {
     "id": "1033",
@@ -3105,11 +3105,11 @@
     "id": "994",
     "show_number": 993,
     "date": "2021-10-11",
-    "festival_name": "Multi-Artist Show",
+    "festival_name": null,
     "venue": "Capitol Theatre",
     "city": "Port Chester",
     "state": "NY",
-    "artists": "DEAD: Phil Lesh + Friends (w. Warren Haynes, Q)",
+    "artists": "Phil Lesh & Friends, Q)",
     "hasSetlist": false
   },
   {
@@ -4100,7 +4100,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "OAR",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "904",

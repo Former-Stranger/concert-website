@@ -1,0 +1,73 @@
+{
+  "id": "q5qs0S2Bk5muvK3dwTcV",
+  "name": "Phil Lesh & Friends",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "Althea",
+      "times_played": 1
+    },
+    {
+      "name": "Mississippi Half-Step Uptown Toodeloo",
+      "times_played": 1
+    },
+    {
+      "name": "She Said She Said",
+      "times_played": 1
+    },
+    {
+      "name": "Atlantic City",
+      "times_played": 1
+    },
+    {
+      "name": "Bertha",
+      "times_played": 1
+    },
+    {
+      "name": "Black Muddy River",
+      "times_played": 1
+    },
+    {
+      "name": "Sugaree",
+      "times_played": 1
+    },
+    {
+      "name": "Shakedown Street",
+      "times_played": 1
+    },
+    {
+      "name": "The Low Spark of High Heeled Boys",
+      "times_played": 1
+    },
+    {
+      "name": "St. Stephen",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1034",
+      "show_number": 1033,
+      "date": "2022-07-01",
+      "festival_name": null,
+      "venue": "Hartford HealthCare Amphitheater",
+      "city": "Bridgeport",
+      "state": "CT",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "994",
+      "show_number": 993,
+      "date": "2021-10-11",
+      "festival_name": null,
+      "venue": "Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
+}

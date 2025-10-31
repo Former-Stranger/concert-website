@@ -535,6 +535,11 @@
     "concert_count": 3
   },
   {
+    "id": "183",
+    "name": "Eagles",
+    "concert_count": 3
+  },
+  {
     "id": "214",
     "name": "Foo Fighters",
     "concert_count": 3
@@ -592,6 +597,11 @@
   {
     "id": "341",
     "name": "Leon Russell",
+    "concert_count": 3
+  },
+  {
+    "id": "342",
+    "name": "Light of Day",
     "concert_count": 3
   },
   {
@@ -775,13 +785,13 @@
     "concert_count": 2
   },
   {
-    "id": "145",
-    "name": "DEAD:  Dead",
+    "id": "135",
+    "name": "Counting Crows",
     "concert_count": 2
   },
   {
-    "id": "147",
-    "name": "DEAD: Phil Lesh + Friends (w. Warren Haynes",
+    "id": "145",
+    "name": "DEAD:  Dead",
     "concert_count": 2
   },
   {
@@ -797,11 +807,6 @@
   {
     "id": "180",
     "name": "Dwight Yoakam",
-    "concert_count": 2
-  },
-  {
-    "id": "183",
-    "name": "Eagles",
     "concert_count": 2
   },
   {
@@ -882,11 +887,6 @@
   {
     "id": "301",
     "name": "John Mayer",
-    "concert_count": 2
-  },
-  {
-    "id": "342",
-    "name": "Light of Day",
     "concert_count": 2
   },
   {
@@ -990,13 +990,13 @@
     "concert_count": 2
   },
   {
-    "id": "436",
-    "name": "Prince",
+    "id": "q5qs0S2Bk5muvK3dwTcV",
+    "name": "Phil Lesh & Friends",
     "concert_count": 2
   },
   {
-    "id": "438",
-    "name": "Q)",
+    "id": "436",
+    "name": "Prince",
     "concert_count": 2
   },
   {
@@ -1530,16 +1530,6 @@
     "concert_count": 1
   },
   {
-    "id": "134",
-    "name": "Counting Crowes",
-    "concert_count": 1
-  },
-  {
-    "id": "135",
-    "name": "Counting Crows",
-    "concert_count": 1
-  },
-  {
     "id": "137",
     "name": "Craig Morgan",
     "concert_count": 1
@@ -1912,11 +1902,6 @@
   {
     "id": "268",
     "name": "Jeff Lynne's ELO",
-    "concert_count": 1
-  },
-  {
-    "id": "rpRLFIxjQ96PAidui5zt",
-    "name": "Jeffrey Gaines",
     "concert_count": 1
   },
   {
@@ -2370,6 +2355,11 @@
     "concert_count": 1
   },
   {
+    "id": "438",
+    "name": "Q)",
+    "concert_count": 1
+  },
+  {
     "id": "439",
     "name": "Queen",
     "concert_count": 1
@@ -2772,11 +2762,6 @@
   {
     "id": "570",
     "name": "The Doobie Brothers",
-    "concert_count": 1
-  },
-  {
-    "id": "573",
-    "name": "The Eagles + Steely Dan",
     "concert_count": 1
   },
   {

@@ -95,7 +95,9 @@ export async function initSetlistSubmission() {
             const submitterName = user ? user.displayName || 'Anonymous' : 'Anonymous';
 
             // Check if user is owner (auto-approve owner submissions)
-            const userIsOwner = isOwner();
+            console.log('[Setlist Submission] Current user:', user ? user.uid : 'NOT AUTHENTICATED');
+
+            const userIsOwner = await checkIsAdmin();
             const status = userIsOwner ? 'approved' : 'pending';
 
             console.log('[Setlist Submission] User is owner:', userIsOwner);
@@ -106,6 +108,7 @@ export async function initSetlistSubmission() {
                 concertId: parseInt(concertId),
                 setlistfmUrl: url,
                 setlistfmId: setlistId,
+                submittedBy: user ? user.uid : null,  // Add user UID
                 submittedByEmail: submitterEmail,
                 submittedByName: submitterName,
                 submittedAt: new Date(),
@@ -277,6 +280,8 @@ function showMultiArtistSelection(setlistResponse, concertId) {
             const submitterName = user ? user.displayName || 'Anonymous' : 'Anonymous';
 
             // Check if user is owner (auto-approve owner submissions)
+            console.log('[Multi-Artist Submit] Current user:', user ? user.uid : 'NOT AUTHENTICATED');
+
             const userIsOwner = await checkIsAdmin();
             const status = userIsOwner ? 'approved' : 'pending';
 
@@ -291,6 +296,7 @@ function showMultiArtistSelection(setlistResponse, concertId) {
                     concertId: parseInt(concertId),
                     setlistfmUrl: setlistData.url || '',
                     setlistfmId: setlistData.id || '',
+                    submittedBy: user ? user.uid : null,  // Add user UID
                     submittedByEmail: submitterEmail,
                     submittedByName: submitterName,
                     submittedAt: new Date(),
@@ -433,7 +439,9 @@ export async function initUpdateSetlist() {
                 const submitterName = user ? user.displayName || 'Anonymous' : 'Anonymous';
 
                 // Check if user is owner (auto-approve owner submissions)
-                const userIsOwner = isOwner();
+                console.log('[Update Setlist] Current user:', user ? user.uid : 'NOT AUTHENTICATED');
+
+                const userIsOwner = await checkIsAdmin();
                 const status = userIsOwner ? 'approved' : 'pending';
 
                 console.log('[Update Setlist] User is owner:', userIsOwner);
@@ -445,6 +453,7 @@ export async function initUpdateSetlist() {
                     concertId: parseInt(concertId),
                     setlistfmUrl: url,
                     setlistfmId: setlistId,
+                    submittedBy: user ? user.uid : null,  // Add user UID
                     submittedByEmail: submitterEmail,
                     submittedByName: submitterName,
                     submittedAt: new Date(),
