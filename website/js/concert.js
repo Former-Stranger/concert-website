@@ -124,9 +124,6 @@ function renderConcertDetail(concert) {
                     <i class="fas fa-external-link-alt mr-2"></i>View on Setlist.fm
                 </a>
             ` : ''}
-            <button id="update-setlist-btn" class="setlist-fm-btn inline-block px-8 py-3 rounded text-lg hidden">
-                <i class="fas fa-edit mr-2"></i>Update Setlist
-            </button>
         </div>
     `;
 
@@ -152,10 +149,10 @@ function renderConcertDetail(concert) {
         const openers = concert.setlists.filter(s => s.artist_role === 'opener');
         const headliners = concert.setlists.filter(s => s.artist_role === 'headliner' || s.artist_role === 'festival_performer');
 
-        const renderSetlist = (setlist, showRole = false) => {
+        const renderSetlist = (setlist, showRole = false, setlistDocId = null) => {
             const songsBySet = groupSongsBySet(setlist.songs);
             return `
-                <div class="mb-10">
+                <div class="mb-10" data-setlist-id="${setlistDocId || ''}">
                     <div class="flex justify-between items-center mb-6">
                         <div>
                             <h3 class="text-3xl font-bold poster-title" style="color: #c1502e;">
@@ -165,11 +162,16 @@ function renderConcertDetail(concert) {
                             </h3>
                             ${setlist.tour_name ? `<p class="text-lg mt-2 opacity-80 italic" style="color: #f4e4c1;"><i class="fas fa-route mr-2"></i>${setlist.tour_name}</p>` : ''}
                         </div>
-                        ${setlist.setlistfm_url ? `
-                            <a href="${setlist.setlistfm_url}" target="_blank" class="setlist-fm-btn inline-block px-4 py-2 rounded text-sm">
-                                <i class="fas fa-external-link-alt mr-2"></i>View on Setlist.fm
-                            </a>
-                        ` : ''}
+                        <div class="flex gap-2">
+                            ${setlist.setlistfm_url ? `
+                                <a href="${setlist.setlistfm_url}" target="_blank" class="setlist-fm-btn inline-block px-4 py-2 rounded text-sm">
+                                    <i class="fas fa-external-link-alt mr-2"></i>View on Setlist.fm
+                                </a>
+                            ` : ''}
+                            <button class="delete-setlist-btn hidden bg-red-600 text-white px-4 py-2 rounded text-sm font-bold hover:bg-red-700 transition" data-setlist-id="${setlistDocId || ''}" data-artist-name="${setlist.artist_name}">
+                                <i class="fas fa-trash mr-2"></i>Delete Setlist
+                            </button>
+                        </div>
                     </div>
                     ${Object.entries(songsBySet).map(([setName, songs]) => `
                         <div class="mb-6">
@@ -203,6 +205,16 @@ function renderConcertDetail(concert) {
             `;
         };
 
+        // Helper to generate setlist document ID
+        const getSetlistDocId = (concertId, artistName, isMultiArtist) => {
+            if (!isMultiArtist) return concertId;
+            const artistSlug = artistName.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+            return `${concertId}-${artistSlug}`;
+        };
+
+        const concertId = concert.id;
+        const isMultiArtist = openers.length > 0 || headliners.length > 1;
+
         setlistContainer.innerHTML = `
             <div class="marquee-header text-center text-3xl rounded mb-6">
                 <i class="fas fa-list-ul mr-3"></i>Setlists
@@ -212,19 +224,26 @@ function renderConcertDetail(concert) {
                     <h3 class="text-2xl font-bold mb-4 poster-title" style="color: #4ade80;">
                         <i class="fas fa-play-circle mr-2"></i>Opening Act${openers.length > 1 ? 's' : ''}
                     </h3>
-                    ${openers.map(setlist => renderSetlist(setlist, false)).join('<hr class="border-2 border-[#4ade80] opacity-20 my-6">')}
+                    ${openers.map(setlist => renderSetlist(setlist, false, getSetlistDocId(concertId, setlist.artist_name, isMultiArtist))).join('<hr class="border-2 border-[#4ade80] opacity-20 my-6">')}
                 </div>
                 <hr class="border-2 border-[#d4773e] opacity-30 my-10">
             ` : ''}
-            ${headliners.map(setlist => renderSetlist(setlist, false)).join('<hr class="border-2 border-[#d4773e] opacity-30 my-8">')}
+            ${headliners.map(setlist => renderSetlist(setlist, false, getSetlistDocId(concertId, setlist.artist_name, isMultiArtist))).join('<hr class="border-2 border-[#d4773e] opacity-30 my-8">')}
         `;
     } else {
         // Single setlist (backward compatible)
         const songsBySet = groupSongsBySet(concert.songs);
+        const concertId = concert.id;
+        const artistName = getArtistNames(concert.artists);
 
         setlistContainer.innerHTML = `
             <div class="marquee-header text-center text-3xl rounded">
                 <i class="fas fa-list-ul mr-3"></i>Setlist
+            </div>
+            <div class="text-right mb-4">
+                <button class="delete-setlist-btn hidden bg-red-600 text-white px-4 py-2 rounded text-sm font-bold hover:bg-red-700 transition" data-setlist-id="${concertId}" data-artist-name="${artistName}">
+                    <i class="fas fa-trash mr-2"></i>Delete Setlist
+                </button>
             </div>
             ${Object.entries(songsBySet).map(([setName, songs]) => `
                 <div class="mb-8">

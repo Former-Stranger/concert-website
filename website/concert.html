@@ -401,17 +401,62 @@
         initAuth(() => {
             if (isOwner()) {
                 document.getElementById('admin-actions').classList.remove('hidden');
-                // Show update setlist button if it exists
-                const updateBtn = document.getElementById('update-setlist-btn');
-                if (updateBtn) {
-                    updateBtn.classList.remove('hidden');
-                }
+                // Show all delete setlist buttons
+                const deleteButtons = document.querySelectorAll('.delete-setlist-btn');
+                deleteButtons.forEach(btn => btn.classList.remove('hidden'));
+
+                // Add click handlers for delete buttons
+                deleteButtons.forEach(btn => {
+                    btn.addEventListener('click', async () => {
+                        const setlistId = btn.dataset.setlistId;
+                        const artistName = btn.dataset.artistName;
+
+                        if (!setlistId) {
+                            alert('Setlist ID not found');
+                            return;
+                        }
+
+                        const confirmed = confirm(`Are you sure you want to delete the setlist for ${artistName}?\n\nThis action cannot be undone.`);
+                        if (!confirmed) return;
+
+                        try {
+                            // Delete setlist from Firestore
+                            await deleteDoc(doc(db, 'setlists', setlistId));
+
+                            // Update concert has_setlist flag (check if any setlists remain)
+                            const remainingSetlists = await getDocs(query(
+                                collection(db, 'setlists'),
+                                where('concert_id', '==', concertId)
+                            ));
+
+                            const concertRef = doc(db, 'concerts', concertId);
+                            await updateDoc(concertRef, {
+                                has_setlist: remainingSetlists.size > 0,
+                                updated_at: new Date()
+                            });
+
+                            // Trigger deployment
+                            try {
+                                await fetch('https://us-central1-earplugs-and-memories.cloudfunctions.net/triggerManualDeploy', {
+                                    method: 'POST'
+                                });
+                            } catch (err) {
+                                console.log('Could not trigger automatic deployment:', err);
+                            }
+
+                            alert('Setlist deleted successfully! The page will reload.');
+                            window.location.reload();
+                        } catch (error) {
+                            console.error('Error deleting setlist:', error);
+                            alert('Error deleting setlist: ' + error.message);
+                        }
+                    });
+                });
             }
         });
 
         initNotesAndComments();
         initSetlistSubmission();
-        initUpdateSetlist();
 
         // Initialize photo upload
         if (concertId) {
@@ -508,18 +553,20 @@
 
             // Track where mousedown occurred to distinguish clicks from drag-releases
             let mousedownOnModal = false;
-            modal.onmousedown = (e) => {
+            modal.addEventListener('mousedown', (e) => {
                 mousedownOnModal = (e.target === modal);
-            };
+            }, true);  // Use capture phase to catch early
 
-            modal.onclick = (e) => {
-                // Only close if both mousedown AND click happened on modal background
-                // This prevents closing when user drags to select text and releases outside content
+            modal.addEventListener('mouseup', (e) => {
+                // Only close if:
+                // 1. Mouseup happened on modal background
+                // 2. Mousedown also happened on modal background
+                // 3. No text is currently selected (not mid-drag)
                 if (e.target === modal && mousedownOnModal && !window.getSelection().toString()) {
                     modal.remove();
                 }
                 mousedownOnModal = false;
-            };
+            }, true);  // Use capture phase
 
             modal.innerHTML = `
                 <div class="bg-white rounded-lg p-8 max-w-2xl w-full my-8" onclick="event.stopPropagation()">
