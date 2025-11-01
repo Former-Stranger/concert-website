@@ -378,13 +378,13 @@
         </footer>
     </div>
 
-    <script src="js/concert.js?v=1761954532"></script>
+    <script src="js/concert.js?v=1761957023"></script>
     <script type="module">
-        import { initAuth, isOwner } from './js/auth.js?v=1761954532';
-        import { initNotesAndComments } from './js/concert-notes.js?v=1761954532';
-        import { initSetlistSubmission } from './js/setlist-submission.js?v=1761954532';
-        import { initPhotoUpload } from './js/concert-photos.js?v=1761954532';
-        import { db } from './js/firebase-config.js?v=1761954532';
+        import { initAuth, isOwner } from './js/auth.js?v=1761957023';
+        import { initNotesAndComments } from './js/concert-notes.js?v=1761957023';
+        import { initSetlistSubmission } from './js/setlist-submission.js?v=1761957023';
+        import { initPhotoUpload } from './js/concert-photos.js?v=1761957023';
+        import { db } from './js/firebase-config.js?v=1761957023';
         import { doc, deleteDoc, getDoc, updateDoc, setDoc, collection, query, where, getDocs } from 'https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js';
 
         // Get concert ID and returnUrl from URL
@@ -400,10 +400,12 @@
         // Function to setup delete button handlers
         function setupDeleteButtons() {
             const deleteButtons = document.querySelectorAll('.delete-setlist-btn');
+            console.log('[setupDeleteButtons] Found', deleteButtons.length, 'delete buttons');
             deleteButtons.forEach(btn => {
                 // Skip if already has handler
                 if (btn.dataset.handlerAttached === 'true') return;
 
+                console.log('[setupDeleteButtons] Showing button for:', btn.dataset.artistName);
                 btn.classList.remove('hidden');
                 btn.dataset.handlerAttached = 'true';
 
@@ -474,15 +476,18 @@
         // Initialize auth with callback to show admin actions
         let isAdmin = false;
         initAuth(() => {
+            console.log('[Auth callback] isOwner:', isOwner());
             if (isOwner()) {
                 isAdmin = true;
                 document.getElementById('admin-actions').classList.remove('hidden');
 
+                console.log('[Auth callback] Setting up delete buttons and observer');
                 // Setup delete buttons for any that exist now
                 setupDeleteButtons();
 
                 // Watch for new delete buttons being added to the DOM
-                const observer = new MutationObserver(() => {
+                const observer = new MutationObserver((mutations) => {
+                    console.log('[MutationObserver] Detected', mutations.length, 'mutations');
                     setupDeleteButtons();
                 });
 
