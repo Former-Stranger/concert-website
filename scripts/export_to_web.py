@@ -241,6 +241,20 @@ def export_to_json(output_dir):
 
     print(f"   Exported {concerts_with_setlists} concert details")
 
+    # Clean up stale detail files for concerts that no longer have setlists
+    concert_ids_with_setlists_set = set(setlists_by_concert.keys())
+    existing_detail_files = list(details_dir.glob('*.json'))
+    deleted_count = 0
+    for detail_file in existing_detail_files:
+        concert_id = detail_file.stem  # filename without extension
+        if concert_id not in concert_ids_with_setlists_set:
+            detail_file.unlink()
+            deleted_count += 1
+            print(f"   Deleted stale detail file: {concert_id}.json")
+
+    if deleted_count > 0:
+        print(f"   Cleaned up {deleted_count} stale detail file(s)")
+
     # Now update hasSetlist flags for concerts that have setlists
     concert_ids_with_setlists = set(setlists_by_concert.keys())
     for concert in concerts_list:
