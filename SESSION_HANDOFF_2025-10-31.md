@@ -1,313 +1,718 @@
 # Session Handoff - October 31, 2025
 
-## Session Summary
-Continued multi-artist setlist work and fixed several critical bugs related to auto-approval, UI interactions, and duplicate setlist creation.
+## Session Overview
+**MAJOR UPDATE - All Core Features Complete**
 
----
+Completed implementation and testing of tour name capture, automatic opener detection, and delete setlist functionality. Fixed critical Service Worker caching issues that prevented deployments. All requested features from the session handoff are now working.
 
-## Issues Fixed This Session
+## What Was Accomplished
 
-### 1. Auto-Approval for Admin Setlist Submissions ✅
-**Problem**: Admin users' setlist submissions were going to pending status instead of being auto-approved.
+### 1. Tour Name Capture ✅ COMPLETE
+**Status**: Working perfectly
 
-**Root Cause**:
-- The `isOwner()` function is synchronous but relies on a cached variable set asynchronously
-- All three submission code paths (single artist, multi-artist, update setlist) were using the synchronous `isOwner()` which returned `false` before the admin check completed
+**Implementation**:
+- `functions/index.js` lines 253-255: Extract tour name from setlist.fm API response (`setlistData.tour.name`)
+- `functions/index.js` line 290: Store `tour_name` in setlist document
+- `website/js/concert.js` line 163: Display tour name under artist name on concert page
+- `scripts/export_to_web.py` lines 165-168, 233-235: Export tour name to JSON for both single and multi-setlist formats
 
-**Solution**:
-- Created `checkIsAdmin()` async helper function that directly queries Firestore `admins` collection
-- Updated all three submission paths to use `await checkIsAdmin()` instead of `isOwner()`
-- Added `submittedBy` field with user UID to all submission documents
-- Added console logging for debugging: shows user UID, admin status, and submission status
+**Testing**: Concert 938 (Brad Paisley, 2019-08-29) successfully displays "2019 World Tour"
 
-**Files Modified**:
-- `website/js/setlist-submission.js`:
-  - Lines 6-17: Added `checkIsAdmin()` helper
-  - Line 100: Single-artist submission uses `await checkIsAdmin()`
-  - Line 111: Added `submittedBy` field
-  - Line 282: Multi-artist submission uses `await checkIsAdmin()`
-  - Line 297: Added `submittedBy` field
-  - Line 444: Update setlist uses `await checkIsAdmin()`
-  - Line 456: Added `submittedBy` field
+**Note**: Tour name is optional - only set if exists in setlist.fm data.
 
-**Deployed**: Yes (cache version v=1761882967)
+### 2. Automatic Opener Detection & Addition ✅ COMPLETE
+**Status**: Working - all 3 setlists created, artists added to concert
 
----
+**How It Works**:
+1. User submits headliner's setlist URL
+2. Cloud Function queries setlist.fm for ALL setlists at that venue/date
+3. For each setlist found:
+   - Creates setlist document in Firestore
+   - Adds artist to concert's `artists` array if not already present
+   - Determines role (opener vs headliner) by comparing song counts
+   - Uses proper document ID format (single: `concertId`, multi: `concertId-artistSlug`)
 
-### 2. Update Setlist Button Not Working ✅
-**Problem**: Clicking "Update Setlist" button didn't do anything.
+**Implementation**:
+- `functions/index.js` lines 265-291: Duplicate prevention logic - checks if THIS specific artist already has a setlist before creating new one
+- `functions/index.js` lines 300-378: Artist addition to concert - creates/finds artist in artists collection, determines role, adds to concert's artists array
+- `website/js/concert.js` lines 209-232: Multi-setlist rendering with correct document IDs
+- `scripts/export_to_web.py` lines 175-188: Sort setlists by role (openers first), map roles by artist_name
 
-**Root Cause**:
-- `initUpdateSetlist()` was called immediately when module loaded
-- Button is created asynchronously by `concert.js` after data loads
-- Event listener was trying to attach to a button that didn't exist yet
+**Role Determination**: Compares song counts of all setlists for the concert. If another setlist has more songs, marks artist as "opener".
 
-**Solution**:
-- Added `waitForButton()` promise in `initUpdateSetlist()` that polls for button existence with 100ms intervals
-- Only attaches event listeners after button is confirmed to exist
+**Testing - Concert 938**: Successfully created all 3 setlists:
+- Brad Paisley (doc ID: `938`) - 24 songs, headliner, "2019 World Tour"
+- Chris Lane (doc ID: `938-chris-lane`) - 8 songs, opener
+- Riley Green (doc ID: `938-riley-green`) - 7 songs, opener
 
-**Files Modified**:
-- `website/js/setlist-submission.js` (lines 341-354)
+**Testing - Concert 969**: Created single setlist:
+- Eagles (doc ID: `969`) - 32 songs
 
-**Deployed**: Yes
+### 3. Delete Setlist Functionality ✅ COMPLETE
+**Status**: Working (with known limitations)
 
----
+**Features**:
+- Delete buttons visible to admin users only
+- Confirmation dialog before deletion
+- Removes setlist from Firestore immediately
+- Updates concert's `has_setlist` flag
+- Triggers deployment in background via Cloud Function
+- Different messages for last setlist (2-min auto-reload) vs multiple setlists
 
-### 3. Edit Concert Modal Closing When Highlighting Text ✅
-**Problem**: When highlighting text in input fields, if the mouse release happened outside the modal content area (on the modal background), the modal would close.
+**Implementation**:
+- `website/concert.html` lines 400-474: `setupDeleteButtons()` function with handler attachment
+- `website/concert.html` lines 476-499: Auth callback initializes delete buttons and MutationObserver
+- `website/js/concert.js` lines 171-173, 244-246: Delete button rendering in HTML (hidden by default)
 
-**Root Cause**:
-- Modal click handler was closing on any click event
-- When dragging to select text, mousedown occurs on input, mouseup occurs on modal background
-- This triggered the close handler even though user was just selecting text
+**MutationObserver**: Watches DOM for new delete buttons being added (handles async data loading) and automatically shows them to admin users.
 
-**Solution**:
-- Track where mousedown occurs using a flag
-- Modal only closes if BOTH mousedown AND mouseup happen on modal background
-- Also check for active text selection using `window.getSelection().toString()`
+**Known Limitation**: Deleted setlist remains visible on page until export completes (~2 min) or manual refresh. This is due to:
+- Complex HTML structure with wrapper divs and `<hr>` separators makes selective DOM removal difficult
+- Page loads from static JSON files anyway, so DOM changes are temporary
+- Acceptable workaround: For last setlist, page auto-reloads after 2 minutes
 
-**Files Modified**:
-- `website/concert.html` (lines 509-522)
+**Code Location**: `website/concert.html` lines 447-462 (delete logic and success messages)
 
-**Deployed**: Yes
+### 4. Export Script Improvements ✅ COMPLETE
+**Status**: Working - auto-deletes stale files
 
----
-
-### 4. Duplicate Setlist Creation for Same Artist ✅
-**Problem**: Resubmitting a setlist for the same artist created duplicate documents (e.g., concert 905 had both "905" and "905-o-a-r" for O.A.R.).
-
-**Root Cause**:
-- Cloud Function logic checked if ANY existing setlists exist
-- Used multi-artist format whenever existing setlists found, even for same artist
-- Should only use multi-artist format when DIFFERENT artists exist
+**Problem Solved**: When all setlists deleted from a concert, old concert detail JSON files remained, causing website to show deleted data for 10-20 minutes until manual cleanup.
 
 **Solution**:
-- Updated `processApprovedSetlist` to check if existing setlists are for different artist names
-- Use `.some()` to check if any existing setlist has a different `artist_name`
-- Only use multi-artist format if different artists detected
+- `scripts/export_to_web.py` lines 244-256: After exporting concerts with setlists, scan existing detail files in `website/data/concert_details/` directory
+- Delete any JSON files for concerts NOT in the current export set (concerts without setlists)
+- Log deleted files for visibility
 
-**Logic**:
-- First submission for Artist A → docId = "concertId" (simple format)
-- Resubmission for Artist A → docId = "concertId" (updates existing)
-- First submission for Artist B on same concert → docId = "concertId-artist-b-slug" (multi-artist format)
+**Testing**: Concerts 938 and 1230 - verified stale files are now auto-deleted on export run.
 
-**Files Modified**:
-- `functions/index.js` (lines 262-269)
+### 5. Service Worker Cache Management ✅ FIXED
+**Status**: Critical fix - deployments now work
 
-**Deployed**: Yes (Cloud Functions deployed)
+**Problem**: Browser Service Worker was aggressively caching old JavaScript files. Even after multiple `firebase deploy` commands, users (including admin) were loading ancient version v=1761875488 instead of latest updates.
 
-**Cleanup**: Deleted duplicate setlist "905-o-a-r", kept "905"
+**Root Causes**:
+1. Service Worker cached all HTML/JS files on first install
+2. Cache version wasn't being bumped between deployments
+3. Firebase Hosting had stale files cached (required `--force` flag)
+4. No clear cache mechanism for users
 
----
+**Solution**:
+- Bumped Service Worker cache version: v8 → v9
+- `website/service-worker.js` lines 1-5: Version 1.0.8, CACHE_NAME and DATA_CACHE_NAME both updated to v9
+- Forced fresh Firebase deployment with `firebase deploy --only hosting --force`
+- All HTML files updated to cache version v=1761957023
+- Documented cache clearing procedure for users
 
-## Issues Fixed in Continuation Session (Oct 31, 12:30 AM)
+**How to Clear Cache** (for reference):
+1. DevTools → Application tab → Clear storage → "Clear site data" button
+2. OR: DevTools → Application → Service Workers → "Unregister"
+3. Close ALL browser tabs
+4. Wait 10 seconds
+5. Reopen browser and visit site
+6. Verify version: Check console for `concert.js?v=1761957023`
 
-### ✅ Artist Name Editing Not Working Properly - FIXED
-**Status**: RESOLVED
+**Prevention**: Always bump Service Worker CACHE_NAME when deploying breaking changes.
 
-**Root Cause Identified**:
-- Firestore was updating correctly ✓
-- Export/deployment was triggered ✓
-- Page did `window.location.reload()` immediately ✗
-- Static JSON files hadn't regenerated yet (takes 2-5 minutes) ✗
-- User saw stale data from old JSON files ✗
+## Files Modified Summary
 
-**Solution Implemented**:
-- Created `reloadConcertFromFirestore()` function (concert.html:601-671)
-- After saving edit, loads updated data directly from Firestore instead of page reload
-- Updates header display in-place (artist, venue, city, state, festival)
-- Shows changes to user instantly
-- Still triggers export in background for static files
-- Updated success message to explain export timing
-- Falls back to page reload if Firestore read fails
+### Cloud Functions
+- **functions/index.js**:
+  - Lines 253-255: Tour name extraction from setlist.fm API
+  - Lines 265-291: Duplicate setlist prevention (checks if same artist already has setlist)
+  - Lines 300-378: Artist addition to concert with role determination
 
-**Files Modified**:
-- `website/concert.html` (lines 601-671, 713, 716)
-- Cache-busting version updated to v=1761884990
+### Frontend HTML
+- **website/concert.html**:
+  - Lines 400-474: `setupDeleteButtons()` function with MutationObserver support
+  - Lines 476-499: Auth callback with delete button initialization and DOM mutation watching
+  - Cache version updated throughout: v=1761957023
 
-**Deployed**: Yes (commit 353edc7)
+### Frontend JavaScript
+- **website/js/concert.js**:
+  - Line 163: Tour name display in setlist header
+  - Lines 166, 294-298: Artist name display (handles both 'name' and 'artist_name' properties)
+  - Lines 171-173, 244-246: Delete button rendering in setlist HTML
+  - Lines 209-232: Multi-setlist rendering with `getSetlistDocId()` helper
 
----
+- **website/service-worker.js**:
+  - Lines 1-5: Version bumped to 1.0.8, cache names updated to v9
 
-## Remaining Issues to Fix
+### Backend Scripts
+- **scripts/export_to_web.py**:
+  - Lines 165-168: Tour name export for single setlist format
+  - Lines 179-180, 209: Artist role mapping by artist_name (not artist_id - MusicBrainz IDs don't match Firestore IDs)
+  - Lines 233-235: Tour name export for multi-setlist format
+  - Lines 244-256: Stale detail file cleanup logic
 
-### Priority 1: Tour Name Not Captured from Setlist.fm
-**Status**: Not yet investigated
+- **scripts/update_cache_version.py**:
+  - Existing file - generates timestamp-based cache versions
+  - Updates all `?v=` query parameters in HTML files
 
-**User Report**:
-- Concert 905 setlist was fetched from setlist.fm
-- Tour name should have been captured but wasn't
-- Need to store tour information when available
+- **deploy.sh**:
+  - Lines 9-16: Calls `update_cache_version.py` before export
 
-**Next Steps**:
-1. Check if setlist.fm API returns tour data
-2. Verify Cloud Function `fetchSetlist` extracts tour info
-3. Add tour_name field to setlist documents
-4. Update concert display to show tour name
-5. Update export script to include tour data
+## Current System State
 
----
+### Cache Versions
+- **Current deployed version**: v=1761957023
+- **Service Worker cache**: v9 (earplugs-memories-v9, earplugs-memories-data-v9)
+- **Previous versions** (obsolete): v=1761875488 (before session), v=1761938757 (intermediate)
 
-### Priority 3: Opener Not Added to Concert When Submitting Headliner Setlist
-**Status**: Not yet investigated
+### Test Concerts Status
 
-**User Report**:
-- Submit headliner setlist for a show with an opener
-- Multi-artist detection finds the opener and fetches their setlist
-- Opener setlist is saved to database
-- BUT: Opener is not added to the concert's artists array
+**Concert 938** (Brad Paisley, 2019-08-29, Xfinity Center, Mansfield MA):
+- ✅ 3 setlists created (Brad Paisley, Chris Lane, Riley Green)
+- ✅ Tour name captured: "2019 World Tour"
+- ✅ Correct document IDs: 938, 938-chris-lane, 938-riley-green
+- ✅ Roles assigned correctly: Brad=headliner, others=opener
+- ✅ All delete buttons visible to admin
+- **Status**: Ready for continued testing
 
-**Suspected Cause**:
-- Cloud Function creates setlist documents for both artists
-- But doesn't update the concert's `artists` array to include opener
-- Concert metadata not being synchronized with setlist data
+**Concert 969** (Eagles):
+- ✅ 1 setlist created (32 songs)
+- ✅ Delete button visible to admin
+- **Status**: Active
 
-**Next Steps**:
-1. Review `processApprovedSetlist` Cloud Function
-2. Add logic to update concert's `artists` array when new artist setlist is added
-3. Determine correct artist role (opener vs headliner vs co-headliner)
-4. Ensure export script reflects updated artist list
+**Concert 1230**:
+- ✅ Clean slate (no setlists)
+- **Status**: Ready for fresh testing
 
----
+### Firestore Data Structure
 
-## Data Cleanup Needed
+**concerts Collection**:
+```javascript
+{
+  id: "938",
+  show_number: 937,
+  date: "2019-08-29",
+  venue_name: "Xfinity Center",
+  city: "Mansfield",
+  state: "MA",
+  has_setlist: true,  // Updated when setlists added/removed
+  artists: [           // Updated when setlists created
+    {
+      artist_id: "firestore-doc-id",  // From artists collection
+      artist_name: "Brad Paisley",
+      role: "headliner",              // Determined by song count comparison
+      position: 1
+    },
+    {
+      artist_id: "firestore-doc-id",
+      artist_name: "Chris Lane",
+      role: "opener",
+      position: 2
+    }
+  ]
+}
+```
 
-### Old Format Setlists (60 concerts)
-There are 60 concerts with old-format setlist documents (document ID = concertId, no artist_name field) that also have newer multi-artist format setlists. These old documents should be cleaned up.
+**setlists Collection**:
+```javascript
+{
+  // Document ID: "938" (single) OR "938-chris-lane" (multi)
+  concert_id: "938",
+  artist_id: "musicbrainz-id",        // From setlist.fm (MusicBrainz)
+  artist_name: "Chris Lane",
+  song_count: 8,
+  tour_name: null,                    // Optional - from setlist.fm
+  setlistfm_url: "https://...",
+  has_encore: false,
+  songs: [
+    {
+      position: 1,
+      name: "Song Title",
+      set_name: "Main Set",
+      encore: 0,
+      is_cover: false,
+      cover_artist: null
+    }
+  ]
+}
+```
 
-**To view list**:
+**admins Collection**:
+- akalbfell@gmail.com (uid: jBa71VgYp0Qz782bawa4SgjHu1l1)
+- jlbisogni@gmail.com (uid: aiPsaFrLeRUBzJ9hoF7bNHcI6ss1)
+
+### Static Files Architecture
+
+**Data Flow**:
+1. User submits setlist → Firestore
+2. Cloud Function processes → Creates setlist docs, updates concert
+3. Cloud Function triggers GitHub Actions → Runs export script
+4. Export script generates JSON files from Firestore
+5. GitHub Actions deploys to Firebase Hosting
+6. Users load static JSON files (with no-cache headers for HTML/data)
+
+**JSON Files** (in `website/data/`):
+- `concerts.json` - All concerts with hasSetlist flags
+- `concert_details/{id}.json` - Individual concert details with setlists (only for concerts with setlists)
+- `artists.json` - All artists
+- `venues.json` - All venues
+- `songs.json` - All unique songs
+
+**No-Cache Headers** (firebase.json):
+- `**/*.html` → `Cache-Control: no-cache, no-store, must-revalidate`
+- `data/**` → `Cache-Control: no-cache, no-store, must-revalidate`
+
+**Cache-Busting**:
+- JavaScript/CSS files use query string versioning: `?v=1761957023`
+- Auto-updated by `scripts/update_cache_version.py` on each deployment
+
+## Known Issues & Limitations
+
+### 1. DOM Removal After Delete
+**Issue**: When deleting a setlist, it remains visible on page until export completes (~2 min) or manual refresh.
+
+**Root Cause**:
+- Complex HTML structure: setlists rendered with wrapper divs, grouped by role (openers section), separated by `<hr>` elements
+- Makes selective DOM removal difficult (can't just remove one div)
+- Page loads from static JSON files anyway, so DOM changes are temporary
+
+**Current Behavior**:
+- Setlist deleted from Firestore immediately ✓
+- Deployment triggered in background ✓
+- Static JSON files updated in 2-3 minutes ✓
+- Page still shows deleted setlist until manual refresh or auto-reload
+
+**Workaround**:
+- For last setlist: 2-minute auto-reload timer (wait for export to complete)
+- For multiple setlists: User sees success message, can manually refresh
+- Not a critical issue - data is correct in Firestore
+
+**Code**: `website/concert.html` lines 447-462
+
+### 2. Service Worker Caching (PARTIALLY MITIGATED)
+**Issue**: Service Worker aggressively caches all files, can prevent updates from appearing.
+
+**Mitigation**:
+- Bump Service Worker cache version (CACHE_NAME) when deploying breaking changes
+- Current version: v9
+- Users must clear Service Worker cache after major updates
+
+**Prevention**:
+- Always increment cache version for breaking changes
+- Document cache clearing procedure for users
+- Consider automated Service Worker update notifications in future
+
+**User Instructions**:
+1. DevTools → Application → Clear storage → Clear site data
+2. Close all browser tabs
+3. Wait 10 seconds
+4. Reopen browser
+
+### 3. Artist Name Property Inconsistency
+**Issue**: JSON export uses 'name' property, Firestore uses 'artist_name'.
+
+**Why**: Historical - initial JSON export used 'name', Firestore schema uses 'artist_name'.
+
+**Workaround**: Code checks both properties:
+```javascript
+const artistName = a.name || a.artist_name;
+```
+
+**Locations**: `website/js/concert.js` lines 166, 294-298
+
+**Future**: Could standardize on one property name, but requires data migration.
+
+### 4. Artist ID Type Mismatch
+**Issue**: Firestore artist_id (Firestore document ID) ≠ setlist.fm artist_id (MusicBrainz ID)
+
+**Why**: Two different systems:
+- Firestore artists collection: Auto-generated document IDs
+- setlist.fm API: Returns MusicBrainz IDs
+
+**Impact**: Can't match artists by ID alone
+
+**Solution**: Export script matches by artist_name instead of artist_id
+
+**Code**: `scripts/export_to_web.py` lines 179-180, 209
+
+## Pending Items
+
+### From Previous Sessions (NOT STARTED)
+
+**1. Old Format Setlist Cleanup**
+- **Count**: 60 concerts
+- **Issue**: Old-format setlist documents exist (document ID = concertId, no artist_name field) alongside newer multi-artist format
+- **Impact**: Data duplication, confusion
+- **Solution**: Create cleanup script to delete old format when newer versions exist
+- **Priority**: Medium (data hygiene)
+
+**2. Simplify Setlist Lookup Scripts**
+- **Issue**: Multiple overlapping scripts exist:
+  - `fetch_setlists.py` (old SQLite version - deprecated)
+  - `fetch_setlists_enhanced.py` (main Firestore version)
+  - `fetch_missing_setlists.py`
+  - `fetch_missing_setlists_with_rotation.py`
+- **Solution**: Consolidate into single script with options for:
+  - Initial fetch
+  - Missing only
+  - API key rotation
+- **Priority**: Low (convenience)
+
+### New Items
+**None** - All requested functionality from session handoff is complete and working!
+
+## Testing Checklist
+
+### Full End-to-End Flow
+
+**1. Submit Setlist with Openers**:
+- [ ] Go to concert without setlist (e.g., 1230)
+- [ ] Click "Submit Setlist" button
+- [ ] Enter headliner's setlist.fm URL
+- [ ] Select all artists when prompted (headliner + openers)
+- [ ] Submit
+- [ ] Verify success message shows
+- [ ] Check Firestore: All setlists created with correct doc IDs
+- [ ] Check Firestore: Concert's artists array updated with all artists
+- [ ] Wait 2-3 minutes for export/deployment
+- [ ] Refresh page
+- [ ] Verify: All setlists visible, tour name shown (if available), delete buttons visible
+
+**2. Delete Individual Setlist**:
+- [ ] Go to concert with multiple setlists (e.g., 938)
+- [ ] Click delete button on one setlist (not the last one)
+- [ ] Confirm deletion in dialog
+- [ ] Verify: Success message appears
+- [ ] Note: Setlist still visible on page (expected)
+- [ ] Wait 2-3 minutes OR manually refresh
+- [ ] Verify: Setlist removed from page
+- [ ] Check Firestore: Setlist document deleted
+- [ ] Check Firestore: Concert still has has_setlist=true
+
+**3. Delete Last Setlist**:
+- [ ] Go to concert with one setlist
+- [ ] Click delete button
+- [ ] Confirm deletion
+- [ ] Verify: Message shows "2-min auto-reload"
+- [ ] Wait 2 minutes (or refresh manually)
+- [ ] Verify: Page shows "Submit Setlist" form
+- [ ] Check Firestore: No setlists for concert
+- [ ] Check Firestore: Concert has has_setlist=false
+
+**4. Verify Delete Buttons After Refresh**:
+- [ ] Go to concert with setlists
+- [ ] Hard refresh (Cmd+Shift+R or Ctrl+Shift+R)
+- [ ] Verify: Delete buttons appear immediately
+- [ ] Check console: Should see debug messages from setupDeleteButtons
+
+### Debugging Checklist
+
+**Console Messages** (concert with setlists):
+```
+Admin status checked: Is admin
+[Auth callback] isOwner: true
+[Auth callback] Setting up delete buttons and observer
+[setupDeleteButtons] Found 3 delete buttons
+[setupDeleteButtons] Showing button for: Brad Paisley
+[setupDeleteButtons] Showing button for: Chris Lane
+[setupDeleteButtons] Showing button for: Riley Green
+[MutationObserver] Detected X mutations
+```
+
+**If Delete Buttons Don't Appear**:
+1. Check console for version: Should be `v=1761957023`
+2. If seeing old version (v=1761875488), clear Service Worker cache
+3. Check `isOwner()` in console: Should return `true`
+4. Check if logged in as admin user
+5. Verify Service Worker cache version is v9
+
+**If Deleted Setlist Still Shows**:
+1. Wait 2-3 minutes for export to complete
+2. OR manually refresh page
+3. Check Firestore to confirm deletion
+4. If Firestore shows deleted but page shows it: Check for stale JSON file manually
+
+## Debug Console Messages
+
+When viewing a concert page with setlists, console shows:
+
+```javascript
+// Service Worker installation
+[ServiceWorker] Installing...
+[ServiceWorker] Caching static assets
+[ServiceWorker] Skip waiting
+[ServiceWorker] Activating...
+[ServiceWorker] Claiming clients
+
+// File versions being loaded
+concert-photos.js?v=1761957023:251 Loading photos...
+auth.js?v=1761957023:31 Admin status checked: Is admin
+
+// Delete button setup (if admin)
+concert.html:479 [Auth callback] isOwner: true
+concert.html:484 [Auth callback] Setting up delete buttons and observer
+concert.html:403 [setupDeleteButtons] Found 3 delete buttons
+concert.html:408 [setupDeleteButtons] Showing button for: Brad Paisley
+concert.html:408 [setupDeleteButtons] Showing button for: Chris Lane
+concert.html:408 [setupDeleteButtons] Showing button for: Riley Green
+
+// MutationObserver detecting DOM changes
+concert.html:490 [MutationObserver] Detected 2 mutations
+concert.html:403 [setupDeleteButtons] Found 3 delete buttons
+```
+
+**Debug logging intentionally left in place** per user request for future troubleshooting.
+
+## Deployment Commands
+
+### Full Deployment (Recommended)
 ```bash
+./deploy.sh
+```
+**What it does**:
+1. Updates cache versions (runs `update_cache_version.py`)
+2. Exports Firestore data to JSON (runs `export_to_web.py`)
+3. Deploys to Firebase Hosting
+
+### Manual Step-by-Step
+```bash
+# 1. Update cache-busting versions
+python3 scripts/update_cache_version.py
+
+# 2. Export data from Firestore
+python3 scripts/export_to_web.py
+
+# 3. Deploy to Firebase
+firebase deploy --only hosting
+
+# 3a. Force deploy if hosting has stale cache
+firebase deploy --only hosting --force
+```
+
+### Deploy Cloud Functions
+```bash
+firebase deploy --only functions
+```
+
+### Verify Deployment
+```bash
+# Check deployed version
+curl -s 'https://earplugs-and-memories.web.app/concert.html' | grep -o "v=[0-9]*" | head -1
+
+# Check Service Worker version
+curl -s 'https://earplugs-and-memories.web.app/service-worker.js' | head -5
+
+# Expected output:
+# v=1761957023
+# // Service Worker for Earplugs & Memories PWA
+# // Version: 1.0.8
+# const CACHE_NAME = 'earplugs-memories-v9';
+```
+
+## Git Commits from This Session
+
+**In chronological order**:
+
+1. **5faaa90** - Fix delete button visibility with MutationObserver
+   - Added `setupDeleteButtons()` function
+   - Added MutationObserver to detect new buttons
+   - Prevents duplicate handler attachment
+
+2. **06860c9** - Fix page reload timing when deleting last setlist
+   - Changed immediate reload to 2-minute timer
+   - Different success messages for last vs multiple setlists
+   - Gives time for export to complete
+
+3. **73dc503** - Auto-delete stale concert detail files on export
+   - Scans for existing detail files after export
+   - Deletes files for concerts without setlists
+   - Logs deleted files for visibility
+
+4. **61c6bd4** - Bump Service Worker cache version to force update
+   - Service Worker: v8 → v9
+   - All HTML: v=1761957023
+   - Fixed deployment caching issues
+
+**To view full commit history**:
+```bash
+git log --oneline --since="2025-10-31" --until="2025-11-01"
+```
+
+## Important Files Reference
+
+### Configuration
+- **firebase.json** - Firebase Hosting config, no-cache headers for HTML/data
+- **firestore.rules** - Security rules for Firestore
+- **.firebaserc** - Firebase project configuration
+
+### Cloud Functions
+- **functions/index.js** - Main Cloud Functions:
+  - `processSetlistApproval` - Creates setlists, adds artists to concert
+  - `triggerDeploy` - Triggers GitHub Actions for export/deploy
+  - `fetchSetlistWithOpeners` - HTTP endpoint to fetch all setlists for venue/date
+- **functions/package.json** - Dependencies (Node.js 20)
+
+### Frontend Entry Points
+- **website/index.html** - Home page
+- **website/concerts.html** - Concert list
+- **website/concert.html** - Individual concert detail page (MOST MODIFIED)
+- **website/add-concert.html** - Admin add concert form
+- **website/admin-setlists.html** - Pending setlist approvals
+
+### Key JavaScript Modules
+- **website/js/auth.js** - Authentication, admin checking (`isOwner()`, `checkAdminStatus()`)
+- **website/js/concert.js** - Concert detail rendering, multi-setlist support
+- **website/js/setlist-submission.js** - Setlist submission workflow, auto-approval
+- **website/js/firebase-config.js** - Firebase initialization
+
+### Scripts
+- **scripts/export_to_web.py** - Main export script (Firestore → JSON)
+- **scripts/update_cache_version.py** - Auto-generates cache-busting versions
+- **deploy.sh** - One-click deployment wrapper
+
+### Service Worker
+- **website/service-worker.js** - PWA service worker, caches static assets
+
+## Architecture Overview
+
+### Data Flow
+```
+┌─────────────────┐
+│ User Submits    │
+│ Setlist URL     │
+└────────┬────────┘
+         │
+         v
+┌─────────────────────────────────┐
+│ Firestore                       │
+│ pending_setlist_submissions     │
+│ (status: approved if admin)     │
+└────────┬────────────────────────┘
+         │
+         v (onUpdate trigger)
+┌─────────────────────────────────┐
+│ Cloud Function:                 │
+│ processSetlistApproval          │
+│ 1. Fetch from setlist.fm        │
+│ 2. Find all setlists (openers)  │
+│ 3. Create setlist docs          │
+│ 4. Add artists to concert       │
+│ 5. Trigger deployment           │
+└────────┬────────────────────────┘
+         │
+         v
+┌─────────────────────────────────┐
+│ GitHub Actions                  │
+│ (via repository_dispatch)       │
+│ 1. Checkout code                │
+│ 2. Run export_to_web.py         │
+│ 3. Deploy to Firebase Hosting   │
+└────────┬────────────────────────┘
+         │
+         v
+┌─────────────────────────────────┐
+│ Static JSON Files               │
+│ website/data/                   │
+│ - concerts.json                 │
+│ - concert_details/{id}.json     │
+│ - artists.json, etc.            │
+└────────┬────────────────────────┘
+         │
+         v
+┌─────────────────────────────────┐
+│ Firebase Hosting (CDN)          │
+│ Users load static files         │
+│ No-cache headers for HTML/data  │
+└─────────────────────────────────┘
+```
+
+### Document ID Logic
+```javascript
+// Determine setlist document ID
+if (existingSetlistForThisArtist) {
+  // Update existing
+  docId = existingSetlistId;
+} else if (otherArtistHasSetlist) {
+  // Multi-artist format
+  docId = `${concertId}-${artistSlug}`;
+} else {
+  // First/only setlist
+  docId = concertId;
+}
+
+// Examples:
+// Concert 938 (Brad Paisley + openers):
+// - "938" (Brad Paisley, first submitted)
+// - "938-chris-lane" (Chris Lane, second artist)
+// - "938-riley-green" (Riley Green, third artist)
+```
+
+## Next Session Recommendations
+
+### High Priority
+1. **Test full end-to-end flow** on a concert you care about
+2. **Monitor for any issues** with the new features
+3. **Consider removing debug logging** if console gets too noisy
+
+### Medium Priority
+4. **Old format setlist cleanup** - 60 concerts have duplicate data
+5. **Script consolidation** - Simplify the 4 different setlist fetch scripts
+
+### Low Priority
+6. **Improve DOM removal** after delete (nice-to-have, current behavior is acceptable)
+7. **Standardize artist name property** (consolidate 'name' vs 'artist_name')
+
+### Questions to Consider
+- Are tour names displaying correctly on all concerts?
+- Should we add tour name to concert list view?
+- Do opener roles need manual review/override capability?
+- Should we auto-generate artist pages for new artists?
+
+## Session Metadata
+
+**Date**: October 31, 2025 (Halloween! 🎃)
+
+**Duration**:
+- Started: ~7:30 PM EST
+- Ended: ~8:30 PM EST
+- Total: ~1 hour
+
+**User**: Jay (akalbfell@gmail.com)
+
+**Status at End**: ✅ ALL CORE FEATURES WORKING
+- ✅ Tour name capture
+- ✅ Automatic opener detection
+- ✅ Delete setlist functionality
+- ✅ Export script improvements
+- ✅ Service Worker cache fixed
+
+**Remaining Work**: Only cleanup tasks (old format setlists, script consolidation)
+
+---
+
+## Quick Start for Next Session
+
+```bash
+# Check current deployment
+curl -s 'https://earplugs-and-memories.web.app/concert.html' | grep -o "v=[0-9]*" | head -1
+
+# Should see: v=1761957023
+
+# If you make changes and want to deploy:
+./deploy.sh
+
+# To test locally:
+firebase serve --only hosting
+
+# To view Cloud Function logs:
+firebase functions:log
+
+# To check Firestore data for a concert:
 python3 -c "
-import firebase_admin
-from firebase_admin import credentials, firestore
-
-cred = credentials.ApplicationDefault()
-firebase_admin.initialize_app(cred, {'projectId': 'earplugs-and-memories'})
-db = firestore.client()
-
-setlists = db.collection('setlists').stream()
-for setlist in setlists:
-    data = setlist.to_dict()
-    if data.get('artist_name') is None and '-' not in setlist.id:
-        concert_id = data.get('concert_id')
-        newer_setlists = db.collection('setlists').where('concert_id', '==', concert_id).stream()
-        newer_count = sum(1 for s in newer_setlists if s.id != setlist.id)
-        if newer_count > 0:
-            print(f'Concert {concert_id}: old doc \"{setlist.id}\" - has {newer_count} newer versions')
+from google.cloud import firestore
+import os
+os.environ['GOOGLE_CLOUD_PROJECT'] = 'earplugs-and-memories'
+db = firestore.Client()
+setlists = list(db.collection('setlists').where('concert_id', '==', '938').stream())
+for s in setlists:
+    data = s.to_dict()
+    print(f'{s.id}: {data.get(\"artist_name\")} ({data.get(\"song_count\")} songs)')
 "
 ```
 
-**Recommended Action**: Create a cleanup script to delete old format setlists when newer versions exist.
-
 ---
 
-## Technical Notes
-
-### Cache-Busting Version
-Current deployed version: `v=1761882967`
-- All JavaScript files use this version
-- Hard refresh required for users to get latest code
-
-### Deployment Process Issues
-- Sometimes `firebase deploy --only hosting` doesn't properly upload all files
-- concert.html specifically seems to have caching issues
-- Recommendation: Always verify deployed version with curl after deployment
-- Command: `curl -s 'https://earplugs-and-memories.web.app/concert.html' | grep -o "v=[0-9]*" | head -1`
-
-### Auto-Approval Debugging
-Console logs now show:
-- `[Setlist Submission] Current user: <UID>`
-- `[Setlist Submission] User is owner: <true/false>`
-- `[Setlist Submission] Status: <approved/pending>`
-
-Similar logs for multi-artist and update setlist flows.
-
----
-
-## Files Changed This Session
-
-### JavaScript
-- `website/js/setlist-submission.js` - Auto-approval fixes, submittedBy field, waitForButton logic
-- `website/concert.html` - Modal mousedown tracking, cache-busting version updates
-
-### Cloud Functions
-- `functions/index.js` - Fixed duplicate setlist creation logic
-
-### Data
-- Deleted duplicate setlist document `905-o-a-r`
-- Re-exported all static JSON files (991 concert details now)
-
----
-
-## Commits Created
-1. `fa074df` - Fix modal closing when dragging text selection outside content area
-2. `76a483e` - Fix three UI issues with setlist submission and concert editing
-3. `1893766` - Fix duplicate setlist creation for same artist
-
----
-
-## Testing Recommendations
-
-Before continuing with remaining issues:
-
-1. **Test Auto-Approval**: Submit a setlist and verify it auto-approves with console logs showing correct UID
-2. **Test Update Setlist**: Click Update Setlist button and verify it works
-3. **Test Modal Text Selection**: Highlight text in edit modal and release mouse outside - modal should stay open
-4. **Test Duplicate Prevention**: Resubmit a setlist for same artist - should update existing, not create duplicate
-
----
-
-## Next Session Priorities
-
-1. **Tour Name Capture** (High Priority)
-   - Enhances setlist data completeness
-   - Relatively straightforward if API provides the data
-   - Check if setlist.fm API returns tour data
-   - Add tour_name field to setlist documents
-   - Update concert display to show tour name
-
-2. **Opener Detection & Addition** (High Priority)
-   - Affects multi-artist show accuracy
-   - When submitting headliner setlist, opener's setlist is fetched but opener is not added to concert's artists array
-   - Need concert metadata synchronization
-   - Determine correct artist role assignment
-
-3. **Old Setlist Cleanup** (Medium Priority)
-   - Data hygiene issue
-   - Can be batch processed with script
-   - 60 concerts affected with old-format setlist documents
-
-4. **Simplify Setlist Lookup Scripts** (Low Priority)
-   - Multiple overlapping scripts exist: fetch_setlists.py (old SQLite version), fetch_setlists_enhanced.py (main Firestore version), fetch_missing_setlists.py, and fetch_missing_setlists_with_rotation.py
-   - Should consolidate into single script with options for: initial fetch, missing only, API key rotation
-   - Remove deprecated SQLite-based script
-   - Add clear documentation on which script to use when
-
----
-
-## Questions for Next Session
-
-1. **Tour Names**: Do all setlists have tour data, or is it optional? Where should tour names be displayed?
-
-2. **Opener Addition**: Should openers be automatically added to the concert when their setlist is detected, or should it require manual confirmation?
-
----
-
-## End of Session
-Date: October 31, 2025
-
-**Initial Session** (~4:15am EST):
-- All critical bugs fixed (auto-approval, update setlist button, modal highlighting, duplicate prevention)
-- Three enhancement issues remained (artist editing, tour names, opener addition)
-
-**Continuation Session** (12:30am - 12:50am EST):
-- ✅ Fixed artist name editing to show changes immediately
-- Added `reloadConcertFromFirestore()` function
-- Deployed with cache version v=1761884990
-- Added TODO for simplifying setlist lookup scripts
-
-**Still Remaining**:
-- Tour name capture from setlist.fm
-- Opener addition to concert when multi-artist setlist detected
-- Old setlist cleanup (60 concerts)
-- Simplify setlist lookup scripts
+**End of Session Handoff**
