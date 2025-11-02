@@ -1,56 +1,81 @@
 #!/usr/bin/env python3
 """
-Update cache-busting version numbers in all HTML files.
-Generates a timestamp-based version and updates all ?v= query parameters.
+Update Service Worker cache version automatically.
+This script increments the cache version number in service-worker.js,
+which forces all browsers to fetch fresh JavaScript and CSS files.
 """
 
 import re
-import time
-import glob
 from pathlib import Path
 
-def update_version_in_file(filepath, new_version):
-    """Update all ?v= version strings in a file."""
-    with open(filepath, 'r', encoding='utf-8') as f:
+def update_service_worker_version(sw_path):
+    """Bump the Service Worker cache version."""
+    with open(sw_path, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # Replace all instances of ?v=NNNNNNNNNN with new version
-    # Pattern matches ?v= followed by digits
-    updated_content = re.sub(r'\?v=\d+', f'?v={new_version}', content)
+    # Find current version number in CACHE_NAME
+    match = re.search(r"const CACHE_NAME = 'earplugs-memories-v(\d+)'", content)
+    if not match:
+        print("❌ Could not find CACHE_NAME in service-worker.js")
+        return False
 
-    # Only write if changes were made
-    if updated_content != content:
-        with open(filepath, 'w', encoding='utf-8') as f:
-            f.write(updated_content)
-        return True
-    return False
+    current_version = int(match.group(1))
+    new_version = current_version + 1
+
+    print(f"Service Worker Cache Version:")
+    print(f"  Current: v{current_version}")
+    print(f"  New:     v{new_version}")
+
+    # Update CACHE_NAME
+    content = re.sub(
+        r"const CACHE_NAME = 'earplugs-memories-v\d+'",
+        f"const CACHE_NAME = 'earplugs-memories-v{new_version}'",
+        content
+    )
+
+    # Update DATA_CACHE_NAME
+    content = re.sub(
+        r"const DATA_CACHE_NAME = 'earplugs-memories-data-v\d+'",
+        f"const DATA_CACHE_NAME = 'earplugs-memories-data-v{new_version}'",
+        content
+    )
+
+    # Update version comment
+    content = re.sub(
+        r"// Version: 1\.0\.\d+",
+        f"// Version: 1.0.{new_version}",
+        content
+    )
+
+    with open(sw_path, 'w', encoding='utf-8') as f:
+        f.write(content)
+
+    return True
 
 def main():
-    # Generate new version from current timestamp
-    new_version = int(time.time())
-
-    print(f"Updating cache version to: {new_version}")
+    print("=" * 60)
+    print("Updating Service Worker Cache Version")
     print("=" * 60)
 
-    # Find all HTML files in website directory
+    # Find service-worker.js
     website_dir = Path(__file__).parent.parent / 'website'
-    html_files = list(website_dir.glob('*.html'))
+    sw_path = website_dir / 'service-worker.js'
 
-    updated_count = 0
-    for html_file in sorted(html_files):
-        if update_version_in_file(html_file, new_version):
-            print(f"✓ Updated: {html_file.name}")
-            updated_count += 1
-        else:
-            print(f"- No changes: {html_file.name}")
+    if not sw_path.exists():
+        print(f"❌ Service Worker not found at: {sw_path}")
+        return 1
 
-    print("=" * 60)
-    print(f"Updated {updated_count} file(s) to version {new_version}")
-
-    if updated_count > 0:
-        print("\nNext steps:")
-        print("1. Review changes: git diff website/*.html")
-        print("2. Deploy: firebase deploy --only hosting")
+    if update_service_worker_version(sw_path):
+        print("✓ Service Worker updated successfully")
+        print("=" * 60)
+        print("")
+        print("The new cache version will:")
+        print("  • Force browsers to fetch fresh JS/CSS files")
+        print("  • Clear old cached files automatically")
+        print("  • Apply changes to all users on next visit")
+        return 0
+    else:
+        return 1
 
 if __name__ == '__main__':
-    main()
+    exit(main())

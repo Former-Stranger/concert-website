@@ -21,6 +21,9 @@ jobs:
       - name: Install Python dependencies
         run: pip install firebase-admin
 
+      - name: Update Service Worker cache version
+        run: python3 scripts/update_cache_version.py
+
       - name: Export data from Firestore
         env:
           GOOGLE_CLOUD_PROJECT: earplugs-and-memories
@@ -29,9 +32,12 @@ jobs:
           export GOOGLE_APPLICATION_CREDENTIALS=$HOME/gcloud-key.json
           python3 scripts/export_to_web.py
 
+      - name: Clear Firebase CLI cache
+        run: rm -rf .firebase/hosting*.cache
+
       - name: Deploy to Firebase Hosting
         env:
           FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
         run: |
           npm install -g firebase-tools
-          firebase deploy --only hosting --project earplugs-and-memories --token "$FIREBASE_TOKEN"
+          firebase deploy --only hosting --force --project earplugs-and-memories --token "$FIREBASE_TOKEN"

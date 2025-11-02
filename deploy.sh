@@ -27,13 +27,22 @@ if [ $? -ne 0 ]; then
 fi
 
 echo ""
+echo "🧹 Clearing Firebase CLI cache..."
+rm -rf .firebase/hosting*.cache
+echo "✓ Cache cleared"
+
+echo ""
 echo "🌐 Deploying to Firebase Hosting..."
-firebase deploy --only hosting
+firebase deploy --only hosting --force
 
 if [ $? -eq 0 ]; then
     echo ""
     echo "✅ Deploy complete! Your website is updated."
     echo "🔗 https://earplugs-and-memories.web.app"
+    echo ""
+    echo "⏳ Note: Firebase CDN cache may take 10-30 seconds to propagate."
+    echo "   Clear your browser cache to see changes immediately."
+    echo "   (DevTools → Right-click refresh → Empty Cache and Hard Reload)"
 else
     echo "❌ Deploy failed!"
     exit 1
