@@ -68,7 +68,8 @@ def export_to_json(output_dir):
             'city': data.get('city', ''),
             'state': data.get('state', ''),
             'artists': artist_names,
-            'hasSetlist': False  # Will be updated later if setlists exist
+            'hasSetlist': False,  # Will be updated later if setlists exist
+            'setlist_status': data.get('setlist_status', 'not_researched')
         })
 
     # Don't write concerts.json yet - need to update hasSetlist flags first

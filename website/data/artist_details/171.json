@@ -1,7 +1,7 @@
 {
   "id": "171",
   "name": "Dierks Bentley",
-  "concert_count": 5,
+  "concert_count": 4,
   "top_songs": [
     {
       "name": "Burning Man",
@@ -87,18 +87,6 @@
       "date": "2018-06-12",
       "festival_name": null,
       "venue": "Today Show Plaza",
-      "city": "New York",
-      "state": "NY",
-      "has_setlist": false,
-      "opening_song": null,
-      "closing_song": null
-    },
-    {
-      "id": "402",
-      "show_number": 401,
-      "date": "2009-10-21",
-      "festival_name": "Multi-Artist Show",
-      "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
       "has_setlist": false,

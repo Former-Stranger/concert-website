@@ -193,8 +193,11 @@
                     </select>
                     <select id="setlist-filter" class="filter-select px-4 py-3 rounded">
                         <option value="">All Concerts</option>
-                        <option value="with-setlist">With Setlist</option>
-                        <option value="no-setlist">No Setlist</option>
+                        <option value="has_setlist">🎵 Has Setlist</option>
+                        <option value="verified_none_on_setlistfm">🔍 Verified - No Setlist on Setlist.fm</option>
+                        <option value="verified_show_didnt_happen">❌ Verified - Show Didn't Happen</option>
+                        <option value="verified_without_setlist">✓ Verified - No Show on Setlist.fm</option>
+                        <option value="not_researched">⏳ Not Researched</option>
                     </select>
                 </div>
 
@@ -211,7 +214,8 @@
                                 <th>Artist(s)</th>
                                 <th>Venue</th>
                                 <th>Location</th>
-                                <th class="text-center">Setlist</th>
+                                <th class="text-center">Status</th>
+                                <th id="admin-status-header" class="text-center hidden">Actions</th>
                             </tr>
                         </thead>
                         <tbody id="concerts-list">
@@ -229,10 +233,18 @@
         </footer>
     </div>
 
-    <script src="js/concerts.js?v=1762049158"></script>
     <script type="module">
-        import { initAuth } from './js/auth.js?v=1762049158';
-        initAuth();
+        import { initAuth } from './js/auth.js';
+        import { initAdminUI, loadConcerts } from './js/concerts.js';
+
+        // Initialize auth and then admin UI
+        initAuth(() => {
+            // Auth is ready, initialize admin UI if user is owner
+            initAdminUI();
+        });
+
+        // Load concerts on page load
+        document.addEventListener('DOMContentLoaded', loadConcerts);
     </script>
 </body>
 </html>

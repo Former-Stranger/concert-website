@@ -1,11 +1,15 @@
 // JavaScript for concerts list page
+import { isOwner } from './auth.js';
+import { db } from './firebase-config.js';
+import { doc, updateDoc } from 'https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js';
 
 let allConcerts = [];
 let filteredConcerts = [];
 let concertDetails = new Map(); // Cache for concert details
+let isAdmin = false;
 
 // Load concerts
-async function loadConcerts() {
+export async function loadConcerts() {
     try {
         // Add cache-busting parameter to force fresh data
         const response = await fetch(`data/concerts.json?v=${Date.now()}`);
@@ -80,10 +84,10 @@ function applyFilters() {
 
         // Setlist filter
         let matchesSetlist = true;
-        if (setlistFilter === 'with-setlist') {
-            matchesSetlist = concert.hasSetlist === true;
-        } else if (setlistFilter === 'no-setlist') {
-            matchesSetlist = concert.hasSetlist === false;
+        if (setlistFilter) {
+            // Use setlist_status if available, fall back to hasSetlist for backward compatibility
+            const status = concert.setlist_status || (concert.hasSetlist ? 'has_setlist' : 'not_researched');
+            matchesSetlist = status === setlistFilter;
         }
 
         return matchesSearch && matchesYear && matchesSetlist;
@@ -114,14 +118,56 @@ function buildReturnURL() {
     return currentParams.toString() ? `concerts.html?${currentParams.toString()}` : 'concerts.html';
 }
 
+// Get icon HTML for setlist status
+function getSetlistStatusIcon(concert) {
+    // Use setlist_status if available, fall back to hasSetlist
+    const status = concert.setlist_status || (concert.hasSetlist ? 'has_setlist' : 'not_researched');
+
+    const icons = {
+        'has_setlist': '<i class="fas fa-music" style="color: #4ade80;" title="Has Setlist"></i>',
+        'verified_none_on_setlistfm': '<i class="fas fa-search" style="color: #fbbf24;" title="Verified - No Setlist on Setlist.fm"></i>',
+        'verified_show_didnt_happen': '<i class="fas fa-times-circle" style="color: #ef4444;" title="Verified - Show Didn\'t Happen"></i>',
+        'verified_without_setlist': '<i class="fas fa-check-circle" style="color: #60a5fa;" title="Verified - No Show on Setlist.fm"></i>',
+        'not_researched': '<i class="fas fa-question-circle" style="color: #9ca3af;" title="Not Researched"></i>'
+    };
+
+    return icons[status] || icons['not_researched'];
+}
+
+// Update setlist status in Firestore
+async function updateSetlistStatus(concertId, status) {
+    try {
+        const concertRef = doc(db, 'concerts', concertId);
+        await updateDoc(concertRef, {
+            setlist_status: status
+        });
+
+        // Update local cache
+        const concert = allConcerts.find(c => c.id === concertId);
+        if (concert) {
+            concert.setlist_status = status;
+        }
+
+        // Re-render
+        applyFilters();
+
+        console.log(`Updated concert ${concertId} status to ${status}`);
+    } catch (error) {
+        console.error('Error updating setlist status:', error);
+        alert('Failed to update status. Please try again.');
+    }
+}
+
 // Render concerts table
 function renderConcerts() {
     const tbody = document.getElementById('concerts-list');
 
+    const colspan = isAdmin ? 6 : 5;
+
     if (filteredConcerts.length === 0) {
         tbody.innerHTML = `
             <tr>
-                <td colspan="5" class="text-center py-8 opacity-70">
+                <td colspan="${colspan}" class="text-center py-8 opacity-70">
                     <i class="fas fa-search mr-2"></i>No concerts found
                 </td>
             </tr>
@@ -132,19 +178,54 @@ function renderConcerts() {
     // Build return URL once with current filters
     const returnURL = buildReturnURL();
 
-    tbody.innerHTML = filteredConcerts.map(concert => `
-        <tr class="concert-row rounded" onclick="window.location.href='concert.html?id=${concert.id}&returnUrl=${encodeURIComponent(returnURL)}'">
-            <td style="font-weight: bold; color: #c1502e;">${formatDate(concert.date)}</td>
-            <td class="font-bold">${concert.artists}</td>
-            <td>${concert.venue}</td>
-            <td>${concert.city}, ${concert.state}</td>
-            <td class="text-center">
-                ${concert.hasSetlist
-                    ? '<i class="fas fa-check-circle" style="color: #4ade80;" title="Setlist available"></i>'
-                    : '<i class="fas fa-times-circle" style="color: #f87171;" title="No setlist"></i>'}
+    tbody.innerHTML = filteredConcerts.map(concert => {
+        const status = concert.setlist_status || (concert.hasSetlist ? 'has_setlist' : 'not_researched');
+
+        return `
+        <tr class="concert-row rounded" ${!isAdmin ? `onclick="window.location.href='concert.html?id=${concert.id}&returnUrl=${encodeURIComponent(returnURL)}'"` : ''}>
+            <td style="font-weight: bold; color: #c1502e;" ${isAdmin ? `onclick="window.location.href='concert.html?id=${concert.id}&returnUrl=${encodeURIComponent(returnURL)}'"` : ''}>${formatDate(concert.date)}</td>
+            <td class="font-bold" ${isAdmin ? `onclick="window.location.href='concert.html?id=${concert.id}&returnUrl=${encodeURIComponent(returnURL)}'"` : ''}>${concert.artists}</td>
+            <td ${isAdmin ? `onclick="window.location.href='concert.html?id=${concert.id}&returnUrl=${encodeURIComponent(returnURL)}'"` : ''}>${concert.venue}</td>
+            <td ${isAdmin ? `onclick="window.location.href='concert.html?id=${concert.id}&returnUrl=${encodeURIComponent(returnURL)}'"` : ''}>${concert.city}, ${concert.state}</td>
+            <td class="text-center" ${isAdmin ? `onclick="window.location.href='concert.html?id=${concert.id}&returnUrl=${encodeURIComponent(returnURL)}'"` : ''}>
+                ${getSetlistStatusIcon(concert)}
             </td>
+            ${isAdmin ? `
+            <td class="text-center" onclick="event.stopPropagation();">
+                <select
+                    class="px-2 py-1 text-sm border border-[#d4773e] rounded bg-white"
+                    onchange="window.updateSetlistStatus('${concert.id}', this.value)"
+                    onclick="event.stopPropagation();">
+                    <option value="">Set Status...</option>
+                    <option value="has_setlist" ${status === 'has_setlist' ? 'selected' : ''}>🎵 Has Setlist</option>
+                    <option value="verified_none_on_setlistfm" ${status === 'verified_none_on_setlistfm' ? 'selected' : ''}>🔍 No Setlist on Setlist.fm</option>
+                    <option value="verified_show_didnt_happen" ${status === 'verified_show_didnt_happen' ? 'selected' : ''}>❌ Show Didn't Happen</option>
+                    <option value="verified_without_setlist" ${status === 'verified_without_setlist' ? 'selected' : ''}>✓ No Show on Setlist.fm</option>
+                    <option value="not_researched" ${status === 'not_researched' ? 'selected' : ''}>⏳ Not Researched</option>
+                </select>
+            </td>
+            ` : ''}
         </tr>
-    `).join('');
+        `;
+    }).join('');
+}
+
+// Initialize admin UI
+export function initAdminUI() {
+    isAdmin = isOwner();
+    if (isAdmin) {
+        // Show admin column header
+        const adminHeader = document.getElementById('admin-status-header');
+        if (adminHeader) {
+            adminHeader.classList.remove('hidden');
+        }
+
+        // Make updateSetlistStatus available globally for onclick handlers
+        window.updateSetlistStatus = updateSetlistStatus;
+
+        // Re-render to show admin controls
+        renderConcerts();
+    }
 }
 
 // Update count display
@@ -168,8 +249,7 @@ function formatDate(dateStr) {
 
 // Set up event listeners
 document.addEventListener('DOMContentLoaded', () => {
-    loadConcerts();
-
+    // loadConcerts is called from concerts.html now
     document.getElementById('search').addEventListener('input', applyFilters);
     document.getElementById('year-filter').addEventListener('change', applyFilters);
     document.getElementById('setlist-filter').addEventListener('change', applyFilters);
