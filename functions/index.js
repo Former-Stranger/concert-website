@@ -623,20 +623,17 @@ exports.processApprovedSetlist = functions.firestore
           console.log(`Skipped adding "${artistName}" - already exists in concert (possibly as a variant)`);
 
           // Check if this is a variant match (not exact match) - if so, fix the artist name
-          let artistsArrayUpdated = false;
+          let updatedArtists = null;
           if (variantMatch && variantMatch.artist_name !== artistName) {
             console.log(`Updating artist name from "${variantMatch.artist_name}" to "${artistName}" (setlist.fm is source of truth)`);
 
             // Update the artist name in the artists array
-            const updatedArtists = existingArtists.map(artist => {
+            updatedArtists = existingArtists.map(artist => {
               if (artist.artist_name === variantMatch.artist_name) {
                 return { ...artist, artist_name: artistName };
               }
               return artist;
             });
-
-            existingArtists = updatedArtists;
-            artistsArrayUpdated = true;
           }
 
           // Determine setlist status based on whether setlist has songs
@@ -646,8 +643,8 @@ exports.processApprovedSetlist = functions.firestore
           };
 
           // Update artists array if name was corrected
-          if (artistsArrayUpdated) {
-            updateData.artists = existingArtists;
+          if (updatedArtists) {
+            updateData.artists = updatedArtists;
           }
 
           if (songCount > 0) {
