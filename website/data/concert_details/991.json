@@ -1,0 +1,87 @@
+{
+  "id": "991",
+  "show_number": 990,
+  "date": "2021-10-05",
+  "festival_name": null,
+  "venue": "The Town Hall",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Dave Grohl",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/dave-grohl/2021/the-town-hall-new-york-ny-738dc271.html",
+  "song_count": 8,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Eight Days a Week",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Beatles"
+    },
+    {
+      "position": 2,
+      "name": "Came Without Warning",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Scream"
+    },
+    {
+      "position": 3,
+      "name": "Smells Like Teen Spirit",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Nirvana"
+    },
+    {
+      "position": 4,
+      "name": "Times Like These",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Foo Fighters"
+    },
+    {
+      "position": 5,
+      "name": "My Hero",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Foo Fighters"
+    },
+    {
+      "position": 6,
+      "name": "Learn to Fly",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Foo Fighters"
+    },
+    {
+      "position": 7,
+      "name": "Best of You",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Foo Fighters"
+    },
+    {
+      "position": 8,
+      "name": "Everlong",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Foo Fighters"
+    }
+  ],
+  "tour_name": "Dave Grohl - The Storyteller"
+}

@@ -326,7 +326,7 @@ exports.processApprovedSetlist = functions.firestore
         // Helper function to parse combined artist names like "Artist A and Artist B"
         const parseArtistName = (name) => {
           // Split on common separators (order matters - try most specific first)
-          const separators = [' and ', ' & ', ' with ', '/', ', '];
+          const separators = [' and ', ' & ', ' with ', '/', ', ', ': '];
           for (const sep of separators) {
             if (name.includes(sep)) {
               return name.split(sep).map(n => n.trim()).filter(n => n.length > 0);

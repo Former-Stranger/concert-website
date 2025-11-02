@@ -2,7 +2,40 @@
   "id": "215",
   "name": "Foo Fighters:  Dave Grohl: Storyteller",
   "concert_count": 1,
-  "top_songs": [],
+  "top_songs": [
+    {
+      "name": "Eight Days a Week",
+      "times_played": 1
+    },
+    {
+      "name": "Came Without Warning",
+      "times_played": 1
+    },
+    {
+      "name": "Smells Like Teen Spirit",
+      "times_played": 1
+    },
+    {
+      "name": "Times Like These",
+      "times_played": 1
+    },
+    {
+      "name": "My Hero",
+      "times_played": 1
+    },
+    {
+      "name": "Learn to Fly",
+      "times_played": 1
+    },
+    {
+      "name": "Best of You",
+      "times_played": 1
+    },
+    {
+      "name": "Everlong",
+      "times_played": 1
+    }
+  ],
   "concerts": [
     {
       "id": "991",
@@ -12,7 +45,7 @@
       "venue": "The Town Hall",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }
