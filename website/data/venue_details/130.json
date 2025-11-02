@@ -111,7 +111,7 @@
       "date": "2019-07-17",
       "festival_name": null,
       "artists": "Lionel Richie",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -150,8 +150,8 @@
       "show_number": 815,
       "date": "2018-03-02",
       "festival_name": "Multi-Artist Show",
-      "artists": "Bobby, Phil",
-      "has_setlist": false,
+      "artists": "Bob Weir, Phil Lesh",
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },

@@ -1,18 +1,22 @@
 {
-  "id": "1230",
-  "show_number": 1229,
-  "date": "2024-12-31",
+  "id": "727",
+  "show_number": 726,
+  "date": "2016-10-14",
   "festival_name": null,
-  "venue": "UBS Arena",
-  "city": "Elmont",
-  "state": "NY",
+  "venue": "Red Rocks Amphitheatre",
+  "city": "Morrison",
+  "state": "CO",
   "artists": [
     {
-      "name": "Billy Joel",
+      "name": "Brantley Gilbert",
       "role": "headliner"
     },
     {
-      "name": "Jason Bonham\u2019s Led Zeppelin Evening",
+      "name": "Justin Moore",
+      "role": "opener"
+    },
+    {
+      "name": "Colt Ford",
       "role": "opener"
     }
   ],
@@ -20,106 +24,91 @@
   "photo_count": 0,
   "setlists": [
     {
-      "artist_id": "8feb61e0-be9c-41c9-acd8-df0196783744",
-      "artist_name": "Jason Bonham\u2019s Led Zeppelin Evening",
+      "artist_id": "52730e29-8ffa-43b3-a341-8750f3d1496e",
+      "artist_name": "Colt Ford",
       "artist_role": "opener",
-      "setlistfm_url": "https://www.setlist.fm/setlist/jason-bonhams-led-zeppelin-evening/2024/ubs-arena-elmont-ny-335c1cf5.html",
-      "song_count": 9,
+      "setlistfm_url": "https://www.setlist.fm/setlist/colt-ford/2016/red-rocks-amphitheatre-morrison-co-13fd5929.html",
+      "song_count": 7,
       "has_encore": false,
       "songs": [
         {
           "position": 1,
-          "name": "Good Times Bad Times",
+          "name": "Answer to No One",
           "set_name": "Main Set",
           "encore": 0,
-          "is_cover": true,
-          "cover_artist": "Led Zeppelin"
+          "is_cover": false,
+          "cover_artist": null
         },
         {
           "position": 2,
-          "name": "Ramble On",
+          "name": "Drivin' Around Song",
           "set_name": "Main Set",
           "encore": 0,
-          "is_cover": true,
-          "cover_artist": "Led Zeppelin"
+          "is_cover": false,
+          "cover_artist": null
         },
         {
           "position": 3,
-          "name": "What Is and What Should Never Be",
+          "name": "Ride Through the Country",
           "set_name": "Main Set",
           "encore": 0,
-          "is_cover": true,
-          "cover_artist": "Led Zeppelin"
+          "is_cover": false,
+          "cover_artist": null
         },
         {
           "position": 4,
-          "name": "Heartbreaker",
+          "name": "Chicken and Biscuits",
           "set_name": "Main Set",
           "encore": 0,
-          "is_cover": true,
-          "cover_artist": "Led Zeppelin"
+          "is_cover": false,
+          "cover_artist": null
         },
         {
           "position": 5,
-          "name": "When the Levee Breaks",
+          "name": "4 Lane Gone",
           "set_name": "Main Set",
           "encore": 0,
-          "is_cover": true,
-          "cover_artist": "Memphis Minnie & Kansas Joe McCoy"
+          "is_cover": false,
+          "cover_artist": null
         },
         {
           "position": 6,
-          "name": "The Ocean",
+          "name": "Lose Yourself",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": true,
-          "cover_artist": "Led Zeppelin"
+          "cover_artist": "Eminem"
         },
         {
           "position": 7,
-          "name": "Misty Mountain Hop",
+          "name": "Crank It Up",
           "set_name": "Main Set",
           "encore": 0,
-          "is_cover": true,
-          "cover_artist": "Led Zeppelin"
-        },
-        {
-          "position": 8,
-          "name": "Stairway to Heaven",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": true,
-          "cover_artist": "Led Zeppelin"
-        },
-        {
-          "position": 9,
-          "name": "Rock and Roll",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": true,
-          "cover_artist": "Led Zeppelin"
+          "is_cover": false,
+          "cover_artist": null
         }
-      ]
+      ],
+      "tour_name": "Take It Outside Tour"
     },
     {
-      "artist_id": "64b94289-9474-4d43-8c93-918ccc1920d1",
-      "artist_name": "Billy Joel",
-      "artist_role": "headliner",
-      "setlistfm_url": "https://www.setlist.fm/setlist/billy-joel/2024/ubs-arena-elmont-ny-4b53abb6.html",
-      "song_count": 29,
-      "has_encore": true,
+      "artist_id": "ab5d785b-ff87-48b5-b9e1-027e3c21ec0d",
+      "artist_name": "Justin Moore",
+      "artist_role": "opener",
+      "setlistfm_url": "https://www.setlist.fm/setlist/justin-moore/2016/red-rocks-amphitheatre-morrison-co-bfd592a.html",
+      "song_count": 11,
+      "has_encore": false,
       "songs": [
         {
           "position": 1,
-          "name": "The Natural (The End Title)",
+          "name": "Point at You",
           "set_name": "Main Set",
           "encore": 0,
-          "is_cover": true,
-          "cover_artist": "Randy Newman"
+          "is_cover": false,
+          "cover_artist": null
         },
         {
           "position": 2,
-          "name": "Movin' Out (Anthony's Song)",
+          "name": "How I Got to Be This Way",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
@@ -127,7 +116,7 @@
         },
         {
           "position": 3,
-          "name": "My Life",
+          "name": "Til My Last Day",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
@@ -135,7 +124,7 @@
         },
         {
           "position": 4,
-          "name": "The Entertainer",
+          "name": "Lettin' the Night Roll",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
@@ -143,7 +132,7 @@
         },
         {
           "position": 5,
-          "name": "Just the Way You Are",
+          "name": "Bait a Hook",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
@@ -151,7 +140,7 @@
         },
         {
           "position": 6,
-          "name": "The Downeaster \"Alexa\"",
+          "name": "If Heaven Wasn't So Far Away",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
@@ -159,15 +148,15 @@
         },
         {
           "position": 7,
-          "name": "Start Me Up",
+          "name": "Somebody Else Will",
           "set_name": "Main Set",
           "encore": 0,
-          "is_cover": true,
-          "cover_artist": "The Rolling Stones"
+          "is_cover": false,
+          "cover_artist": null
         },
         {
           "position": 8,
-          "name": "An Innocent Man",
+          "name": "You Look Like I Need a Drink",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
@@ -175,7 +164,7 @@
         },
         {
           "position": 9,
-          "name": "Don't Ask Me Why",
+          "name": "I Could Kick Your Ass",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
@@ -183,7 +172,106 @@
         },
         {
           "position": 10,
-          "name": "This Is the Time",
+          "name": "Rocky Mountain Way",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Joe Walsh"
+        },
+        {
+          "position": 11,
+          "name": "Small Town USA",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ],
+      "tour_name": "Take It Outside Tour"
+    },
+    {
+      "artist_id": "9ad8aede-6938-48f2-93fa-908bc4da9ef6",
+      "artist_name": "Brantley Gilbert",
+      "artist_role": "headliner",
+      "setlistfm_url": "https://www.setlist.fm/setlist/brantley-gilbert/2016/red-rocks-amphitheatre-morrison-co-3bfd5cd0.html",
+      "song_count": 17,
+      "has_encore": true,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Read Me My Rights",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Hell on Wheels",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "If You Want a Bad Boy",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "My Kinda Party",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "It's About to Get Dirty",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "My Baby's Guns N' Roses",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "You Don't Know Her Like I Do",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "The Weekend",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 9,
+          "name": "Dirt Road Anthem",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Colt Ford"
+        },
+        {
+          "position": 10,
+          "name": "Country Must Be Country Wide",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
@@ -191,23 +279,23 @@
         },
         {
           "position": 11,
-          "name": "Whole Lotta Love",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": true,
-          "cover_artist": "Led Zeppelin"
-        },
-        {
-          "position": 12,
-          "name": "New York State of Mind",
+          "name": "Grown Ass Man",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
           "cover_artist": null
         },
         {
+          "position": 12,
+          "name": "Outlaw Women",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Hank Williams, Jr."
+        },
+        {
           "position": 13,
-          "name": "Zanzibar",
+          "name": "Small Town Throwdown",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
@@ -215,7 +303,7 @@
         },
         {
           "position": 14,
-          "name": "Allentown",
+          "name": "One Hell of an Amen",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
@@ -223,7 +311,7 @@
         },
         {
           "position": 15,
-          "name": "Vienna",
+          "name": "Take It Outside",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
@@ -231,7 +319,7 @@
         },
         {
           "position": 16,
-          "name": "A Room of Our Own",
+          "name": "Kick It in the Sticks",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
@@ -239,113 +327,16 @@
         },
         {
           "position": 17,
-          "name": "Souvenir",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 18,
-          "name": "Only the Good Die Young",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 19,
-          "name": "Layla",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": true,
-          "cover_artist": "Derek and the Dominos"
-        },
-        {
-          "position": 20,
-          "name": "Auld Lang Syne",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": true,
-          "cover_artist": "Robert Burns"
-        },
-        {
-          "position": 21,
-          "name": "The River of Dreams",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 22,
-          "name": "Nessun dorma",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": true,
-          "cover_artist": "Giacomo Puccini"
-        },
-        {
-          "position": 23,
-          "name": "Scenes From an Italian Restaurant",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 24,
-          "name": "Piano Man",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 25,
-          "name": "We Didn't Start the Fire",
-          "set_name": "Main Set",
-          "encore": 1,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 26,
-          "name": "Uptown Girl",
-          "set_name": "Main Set",
-          "encore": 1,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 27,
-          "name": "It's Still Rock and Roll to Me",
-          "set_name": "Main Set",
-          "encore": 1,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 28,
-          "name": "Big Shot",
-          "set_name": "Main Set",
-          "encore": 1,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 29,
-          "name": "You May Be Right",
+          "name": "Bottoms Up",
           "set_name": "Main Set",
           "encore": 1,
           "is_cover": false,
           "cover_artist": null
         }
       ],
-      "tour_name": "Billy Joel in Concert"
+      "tour_name": "Take It outside Tour"
     }
   ],
-  "total_song_count": 38,
-  "has_encore": true,
-  "tour_name": "Billy Joel in Concert"
+  "total_song_count": 35,
+  "has_encore": true
 }

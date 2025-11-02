@@ -1,0 +1,61 @@
+{
+  "id": "kPu1lMgdlb7UhStBJhAo",
+  "name": "Ringo Starr & His All Star Band",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Matchbox",
+      "times_played": 1
+    },
+    {
+      "name": "It Don't Come Easy",
+      "times_played": 1
+    },
+    {
+      "name": "What Goes On",
+      "times_played": 1
+    },
+    {
+      "name": "Evil Ways",
+      "times_played": 1
+    },
+    {
+      "name": "Rosanna",
+      "times_played": 1
+    },
+    {
+      "name": "Pick Up the Pieces",
+      "times_played": 1
+    },
+    {
+      "name": "Down Under",
+      "times_played": 1
+    },
+    {
+      "name": "Boys",
+      "times_played": 1
+    },
+    {
+      "name": "Don't Pass Me By",
+      "times_played": 1
+    },
+    {
+      "name": "Yellow Submarine",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "935",
+      "show_number": 934,
+      "date": "2019-08-17",
+      "festival_name": null,
+      "venue": "Bald Hill Amphitheater",
+      "city": "Farmingville",
+      "state": "NY",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
+}

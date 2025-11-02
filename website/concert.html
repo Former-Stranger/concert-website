@@ -238,33 +238,6 @@
                     </div>
                 </div>
 
-                <!-- Update Setlist Section (Only shown when updating existing setlist) -->
-                <div id="update-setlist-section" class="mt-8 hidden">
-                    <div class="marquee-header text-center text-2xl rounded">
-                        <i class="fas fa-edit mr-3"></i>Update Setlist
-                    </div>
-                    <div class="text-center mb-4">
-                        <p class="mb-2">Update the setlist.fm URL to refresh the setlist data</p>
-                        <p class="text-sm opacity-70">This will clear the existing setlist and fetch fresh data from setlist.fm</p>
-                    </div>
-                    <div class="max-w-2xl mx-auto">
-                        <div class="flex flex-col md:flex-row gap-2">
-                            <input type="text" id="update-setlistfm-url"
-                                   class="flex-1 p-3 border-2 border-[#d4773e] rounded bg-white text-[#2d1b1b]"
-                                   placeholder="Paste new setlist.fm URL here">
-                            <button id="update-setlist-submit-btn"
-                                    class="bg-[#c1502e] text-[#f4e4c1] px-6 py-3 rounded font-bold hover:bg-[#d4773e] transition">
-                                <i class="fas fa-sync mr-2"></i>Update
-                            </button>
-                            <button id="cancel-update-btn"
-                                    class="bg-gray-500 text-white px-6 py-3 rounded font-bold hover:bg-gray-600 transition">
-                                <i class="fas fa-times mr-2"></i>Cancel
-                            </button>
-                        </div>
-                        <div id="update-setlist-message" class="mt-3 text-center"></div>
-                    </div>
-                </div>
-
                 <!-- Personal Notes Section -->
                 <div id="notes-section" class="mt-8 hidden">
                     <div class="marquee-header text-center text-2xl rounded">
@@ -378,13 +351,13 @@
         </footer>
     </div>
 
-    <script src="js/concert.js?v=1761957023"></script>
+    <script src="js/concert.js"></script>
     <script type="module">
-        import { initAuth, isOwner } from './js/auth.js?v=1761957023';
-        import { initNotesAndComments } from './js/concert-notes.js?v=1761957023';
-        import { initSetlistSubmission } from './js/setlist-submission.js?v=1761957023';
-        import { initPhotoUpload } from './js/concert-photos.js?v=1761957023';
-        import { db } from './js/firebase-config.js?v=1761957023';
+        import { initAuth, isOwner } from './js/auth.js';
+        import { initNotesAndComments, updateUIBasedOnAuth } from './js/concert-notes.js';
+        import { initSetlistSubmission } from './js/setlist-submission.js';
+        import { initPhotoUpload } from './js/concert-photos.js';
+        import { db } from './js/firebase-config.js';
         import { doc, deleteDoc, getDoc, updateDoc, setDoc, collection, query, where, getDocs } from 'https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js';
 
         // Get concert ID and returnUrl from URL
@@ -477,6 +450,10 @@
         let isAdmin = false;
         initAuth(() => {
             console.log('[Auth callback] isOwner:', isOwner());
+
+            // Update comments/photos/notes UI based on auth state
+            updateUIBasedOnAuth();
+
             if (isOwner()) {
                 isAdmin = true;
                 document.getElementById('admin-actions').classList.remove('hidden');
@@ -494,6 +471,12 @@
                 observer.observe(document.body, {
                     childList: true,
                     subtree: true
+                });
+
+                // Also listen for the concertLoaded event from concert.js
+                window.addEventListener('concertLoaded', () => {
+                    console.log('[concertLoaded event] Concert data loaded, setting up delete buttons');
+                    setupDeleteButtons();
                 });
             }
         });
@@ -583,8 +566,9 @@
         // Helper function to get headliner/primary artist name
         function getHeadlinerName(artists) {
             if (!artists || !Array.isArray(artists)) return '';
-            const headliner = artists.find(a => a.role === 'headliner' || a.role === 'festival_performer');
-            return headliner ? headliner.artist_name : '';
+            // Get ALL headliners/festival performers, not just the first one
+            const headliners = artists.filter(a => a.role === 'headliner' || a.role === 'festival_performer');
+            return headliners.map(a => a.artist_name).join(', ');
         }
 
         // Function to show edit modal
@@ -763,89 +747,115 @@
         // Function to save edited concert
         async function saveEditedConcert(concertId) {
             const date = document.getElementById('edit-date').value;
-            const artistName = document.getElementById('edit-artist').value.trim();
+            const artistNames = document.getElementById('edit-artist').value.trim();
             const venueName = document.getElementById('edit-venue').value.trim();
             const city = document.getElementById('edit-city').value.trim();
             const state = document.getElementById('edit-state').value.trim();
             const supportingAct = document.getElementById('edit-support').value.trim();
             const festivalName = document.getElementById('edit-festival').value.trim();
 
-            if (!date || !artistName || !venueName || !city || !state) {
+            if (!date || !artistNames || !venueName || !city || !state) {
                 alert('Please fill in all required fields');
                 return;
             }
 
             try {
-                // Get current concert data to preserve the artists array structure
+                // Get current concert data
                 const concertDoc = await getDoc(doc(db, 'concerts', concertId));
                 const currentData = concertDoc.data();
 
-                // Build updated artists array
-                let updatedArtists = currentData.artists || [];
+                // Parse artist names (comma-separated for multi-artist shows)
+                const artistNameArray = artistNames.split(',').map(name => name.trim()).filter(name => name.length > 0);
 
-                // Find and update headliner/primary artist
-                const headliner = updatedArtists.find(a => a.role === 'headliner' || a.role === 'festival_performer');
-                if (headliner) {
-                    // Check if artist name changed
-                    if (headliner.artist_name !== artistName) {
-                        // Look up the artist by canonical_name to get the correct artist_id
-                        const artistsQuery = query(
-                            collection(db, 'artists'),
-                            where('canonical_name', '==', artistName)
+                console.log('[Edit Concert] Parsing artists:', artistNameArray);
+
+                // Determine the role for primary artists (check current data)
+                const currentHeadliners = currentData.artists ? currentData.artists.filter(a => a.role === 'headliner' || a.role === 'festival_performer') : [];
+                const primaryRole = currentHeadliners.length > 0 ? currentHeadliners[0].role : 'headliner';
+
+                // Build new primary artists array
+                const newPrimaryArtists = [];
+
+                for (let i = 0; i < artistNameArray.length; i++) {
+                    const artistName = artistNameArray[i];
+
+                    // Look up artist in artists collection
+                    const artistsQuery = query(
+                        collection(db, 'artists'),
+                        where('canonical_name', '==', artistName)
+                    );
+                    const artistsSnapshot = await getDocs(artistsQuery);
+
+                    let artistId;
+                    if (!artistsSnapshot.empty) {
+                        // Artist exists
+                        artistId = artistsSnapshot.docs[0].id;
+                    } else {
+                        // Artist doesn't exist - create it
+                        const createNew = confirm(
+                            `Artist "${artistName}" doesn't exist in the database.\n\n` +
+                            `Would you like to create a new artist record?\n\n` +
+                            `Click OK to create, or Cancel to abort.`
                         );
-                        const artistsSnapshot = await getDocs(artistsQuery);
 
-                        if (!artistsSnapshot.empty) {
-                            // Artist exists - use their ID
-                            const artistDoc = artistsSnapshot.docs[0];
-                            headliner.artist_id = artistDoc.id;
-                            headliner.artist_name = artistName;
+                        if (createNew) {
+                            const newArtistRef = doc(collection(db, 'artists'));
+                            await setDoc(newArtistRef, {
+                                canonical_name: artistName,
+                                created_at: new Date()
+                            });
+                            artistId = newArtistRef.id;
+                            console.log(`[Edit Concert] Created new artist: ${artistName} (${artistId})`);
                         } else {
-                            // Artist doesn't exist - ask user if they want to create it
-                            const createNew = confirm(
-                                `Artist "${artistName}" doesn't exist in the database.\n\n` +
-                                `Would you like to create a new artist record?\n\n` +
-                                `Click OK to create new artist, or Cancel to keep the old artist link.`
-                            );
-
-                            if (createNew) {
-                                // Create new artist document
-                                const newArtistRef = doc(collection(db, 'artists'));
-                                await setDoc(newArtistRef, {
-                                    canonical_name: artistName,
-                                    created_at: new Date()
-                                });
-                                headliner.artist_id = newArtistRef.id;
-                                headliner.artist_name = artistName;
-                            } else {
-                                // User cancelled - abort the save operation
-                                document.getElementById('edit-concert-modal').remove();
-                                return;
-                            }
+                            // User cancelled
+                            document.getElementById('edit-concert-modal').remove();
+                            return;
                         }
                     }
+
+                    newPrimaryArtists.push({
+                        artist_id: artistId,
+                        artist_name: artistName,
+                        role: primaryRole,
+                        position: i + 1
+                    });
                 }
 
+                console.log('[Edit Concert] New primary artists:', newPrimaryArtists);
+
+                // Handle supporting act (opener)
+                let openerArtists = [];
                 if (supportingAct) {
-                    // Check if opener already exists
-                    const existingOpener = updatedArtists.find(a => a.role === 'opener');
+                    // Look up opener
+                    const openerQuery = query(
+                        collection(db, 'artists'),
+                        where('canonical_name', '==', supportingAct)
+                    );
+                    const openerSnapshot = await getDocs(openerQuery);
 
-                    if (existingOpener) {
-                        // Update existing opener name
-                        existingOpener.artist_name = supportingAct;
+                    let openerId;
+                    if (!openerSnapshot.empty) {
+                        openerId = openerSnapshot.docs[0].id;
                     } else {
-                        // Add new opener
-                        updatedArtists.push({
-                            artist_id: '', // Will be populated by backend
-                            artist_name: supportingAct,
-                            role: 'opener',
-                            position: 2
+                        // Create opener artist
+                        const newOpenerRef = doc(collection(db, 'artists'));
+                        await setDoc(newOpenerRef, {
+                            canonical_name: supportingAct,
+                            created_at: new Date()
                         });
+                        openerId = newOpenerRef.id;
                     }
-                } else {
-                    // Remove opener if support act field is empty
-                    updatedArtists = updatedArtists.filter(a => a.role !== 'opener');
+
+                    openerArtists.push({
+                        artist_id: openerId,
+                        artist_name: supportingAct,
+                        role: 'opener',
+                        position: newPrimaryArtists.length + 1
+                    });
                 }
+
+                // Combine primary artists and openers
+                const updatedArtists = [...newPrimaryArtists, ...openerArtists];
 
                 // Update concert in Firestore
                 const concertRef = doc(db, 'concerts', concertId);

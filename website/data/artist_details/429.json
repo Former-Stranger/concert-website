@@ -1,11 +1,23 @@
 {
   "id": "429",
   "name": "Phil Lesh",
-  "concert_count": 5,
+  "concert_count": 6,
   "top_songs": [
     {
       "name": "Bird Song",
-      "times_played": 4
+      "times_played": 5
+    },
+    {
+      "name": "Me and My Uncle",
+      "times_played": 3
+    },
+    {
+      "name": "Ramble On Rose",
+      "times_played": 3
+    },
+    {
+      "name": "Box of Rain",
+      "times_played": 3
     },
     {
       "name": "Shakedown Street",
@@ -28,20 +40,8 @@
       "times_played": 3
     },
     {
-      "name": "Unbroken Chain",
+      "name": "Mountains of the Moon",
       "times_played": 3
-    },
-    {
-      "name": "Going Down the Road Feeling Bad",
-      "times_played": 3
-    },
-    {
-      "name": "Tennessee Jed",
-      "times_played": 2
-    },
-    {
-      "name": "Bertha",
-      "times_played": 2
     }
   ],
   "concerts": [
@@ -77,6 +77,18 @@
       "venue": "Fort Adams State Park",
       "city": "Newport",
       "state": "RI",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "816",
+      "show_number": 815,
+      "date": "2018-03-02",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Radio City Music Hall",
+      "city": "New York",
+      "state": "NY",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null

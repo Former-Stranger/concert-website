@@ -1,0 +1,61 @@
+{
+  "id": "F5Sh6p1easKfA5gEJxJB",
+  "name": "Johnny Marr",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Armatopia",
+      "times_played": 1
+    },
+    {
+      "name": "Panic",
+      "times_played": 1
+    },
+    {
+      "name": "Night and Day",
+      "times_played": 1
+    },
+    {
+      "name": "Spirit Power and Soul",
+      "times_played": 1
+    },
+    {
+      "name": "Getting Away With It",
+      "times_played": 1
+    },
+    {
+      "name": "Easy Money",
+      "times_played": 1
+    },
+    {
+      "name": "There Is a Light That Never Goes Out",
+      "times_played": 1
+    },
+    {
+      "name": "How Soon Is Now?",
+      "times_played": 1
+    },
+    {
+      "name": "My Own Soul's Warning",
+      "times_played": 1
+    },
+    {
+      "name": "Enterlude",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1061",
+      "show_number": 1060,
+      "date": "2022-09-30",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
+}

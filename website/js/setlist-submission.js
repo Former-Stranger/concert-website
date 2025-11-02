@@ -4,30 +4,43 @@ import { isOwner } from './auth.js';
 
 // Helper function to check if current user is admin (async version)
 async function checkIsAdmin() {
+    console.log('[DEBUG] checkIsAdmin called');
     // Wait for auth to initialize if needed
     return new Promise((resolve) => {
         const checkUser = async () => {
             const user = auth.currentUser;
+            console.log('[DEBUG] checkUser - user:', user ? user.uid : 'NO USER');
+            console.log('[DEBUG] checkUser - user email:', user ? user.email : 'NO EMAIL');
+
             if (!user) {
+                console.log('[DEBUG] checkUser - no user, returning false');
                 resolve(false);
                 return;
             }
 
             try {
-                const adminDoc = await getDoc(doc(db, 'admins', user.uid));
+                const adminDocRef = doc(db, 'admins', user.uid);
+                console.log('[DEBUG] checkUser - checking admin doc path:', `admins/${user.uid}`);
+                const adminDoc = await getDoc(adminDocRef);
+                console.log('[DEBUG] checkUser - admin doc exists:', adminDoc.exists());
+                console.log('[DEBUG] checkUser - admin doc data:', adminDoc.exists() ? adminDoc.data() : 'N/A');
                 resolve(adminDoc.exists());
             } catch (error) {
-                console.error('Error checking admin status:', error);
+                console.error('[ERROR] Error checking admin status:', error);
                 resolve(false);
             }
         };
 
         // If auth is ready, check immediately
+        console.log('[DEBUG] auth.currentUser state:', auth.currentUser);
         if (auth.currentUser !== undefined) {
+            console.log('[DEBUG] Auth ready, checking immediately');
             checkUser();
         } else {
+            console.log('[DEBUG] Auth not ready, waiting for onAuthStateChanged');
             // Wait for auth state to initialize
             const unsubscribe = onAuthStateChanged(auth, () => {
+                console.log('[DEBUG] onAuthStateChanged fired');
                 unsubscribe();
                 checkUser();
             });
@@ -108,19 +121,24 @@ export async function initSetlistSubmission() {
             // Single artist - proceed with submission
             const setlistData = setlistResponse.setlists[0];
 
-            // Get user info
+            // Check if user is owner (auto-approve owner submissions)
+            // IMPORTANT: Call checkIsAdmin FIRST to ensure auth is initialized
+            console.log('[Setlist Submission] About to call checkIsAdmin()...');
+            const userIsOwner = await checkIsAdmin();
+            console.log('[Setlist Submission] checkIsAdmin() returned:', userIsOwner);
+
+            // NOW get user info (after checkIsAdmin ensures auth is ready)
             const user = auth.currentUser;
             const submitterEmail = user ? user.email : 'anonymous';
             const submitterName = user ? user.displayName || 'Anonymous' : 'Anonymous';
 
-            // Check if user is owner (auto-approve owner submissions)
             console.log('[Setlist Submission] Current user:', user ? user.uid : 'NOT AUTHENTICATED');
+            console.log('[Setlist Submission] Current user email:', user ? user.email : 'NOT AUTHENTICATED');
 
-            const userIsOwner = await checkIsAdmin();
             const status = userIsOwner ? 'approved' : 'pending';
 
             console.log('[Setlist Submission] User is owner:', userIsOwner);
-            console.log('[Setlist Submission] Status:', status);
+            console.log('[Setlist Submission] FINAL STATUS SET TO:', status);
 
             // Store in Firestore with the fetched setlist data
             const submissionData = {
@@ -293,19 +311,24 @@ function showMultiArtistSelection(setlistResponse, concertId) {
         submitBtn.innerHTML = '<i class="fas fa-spinner fa-spin mr-2"></i>Submitting...';
 
         try {
-            // Get user info
+            // Check if user is owner (auto-approve owner submissions)
+            // IMPORTANT: Call checkIsAdmin FIRST to ensure auth is initialized
+            console.log('[Multi-Artist Submit] About to call checkIsAdmin()...');
+            const userIsOwner = await checkIsAdmin();
+            console.log('[Multi-Artist Submit] checkIsAdmin() returned:', userIsOwner);
+
+            // NOW get user info (after checkIsAdmin ensures auth is ready)
             const user = auth.currentUser;
             const submitterEmail = user ? user.email : 'anonymous';
             const submitterName = user ? user.displayName || 'Anonymous' : 'Anonymous';
 
-            // Check if user is owner (auto-approve owner submissions)
             console.log('[Multi-Artist Submit] Current user:', user ? user.uid : 'NOT AUTHENTICATED');
+            console.log('[Multi-Artist Submit] Current user email:', user ? user.email : 'NOT AUTHENTICATED');
 
-            const userIsOwner = await checkIsAdmin();
             const status = userIsOwner ? 'approved' : 'pending';
 
             console.log('[Multi-Artist Submit] User is owner:', userIsOwner);
-            console.log('[Multi-Artist Submit] Submission status:', status);
+            console.log('[Multi-Artist Submit] FINAL STATUS SET TO:', status);
 
             // Submit each selected artist's setlist
             const submissions = [];
@@ -452,17 +475,17 @@ export async function initUpdateSetlist() {
                     return;
                 }
 
-                // Get user info
+                // Check if user is owner (auto-approve owner submissions)
+                // IMPORTANT: Call checkIsAdmin FIRST to ensure auth is initialized
+                const userIsOwner = await checkIsAdmin();
+                const status = userIsOwner ? 'approved' : 'pending';
+
+                // NOW get user info (after checkIsAdmin ensures auth is ready)
                 const user = auth.currentUser;
                 const submitterEmail = user ? user.email : 'anonymous';
                 const submitterName = user ? user.displayName || 'Anonymous' : 'Anonymous';
 
-                // Check if user is owner (auto-approve owner submissions)
                 console.log('[Update Setlist] Current user:', user ? user.uid : 'NOT AUTHENTICATED');
-
-                const userIsOwner = await checkIsAdmin();
-                const status = userIsOwner ? 'approved' : 'pending';
-
                 console.log('[Update Setlist] User is owner:', userIsOwner);
                 console.log('[Update Setlist] Status:', status);
 

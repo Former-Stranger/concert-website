@@ -1,0 +1,219 @@
+{
+  "id": "935",
+  "show_number": 934,
+  "date": "2019-08-17",
+  "festival_name": null,
+  "venue": "Bald Hill Amphitheater",
+  "city": "Farmingville",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Ringo Starr & His All Star Band",
+      "role": "headliner"
+    },
+    {
+      "name": "Ringo Starr & His All Starr Band",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/ringo-starr-and-his-all-starr-band/2019/long-island-community-hospital-amphitheater-farmingville-ny-5b9fdb4c.html",
+  "song_count": 24,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Matchbox",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Carl Perkins"
+    },
+    {
+      "position": 2,
+      "name": "It Don't Come Easy",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ringo Starr"
+    },
+    {
+      "position": 3,
+      "name": "What Goes On",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Beatles"
+    },
+    {
+      "position": 4,
+      "name": "Evil Ways",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Willie Bobo"
+    },
+    {
+      "position": 5,
+      "name": "Rosanna",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Toto"
+    },
+    {
+      "position": 6,
+      "name": "Pick Up the Pieces",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Average White Band"
+    },
+    {
+      "position": 7,
+      "name": "Down Under",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Men at Work"
+    },
+    {
+      "position": 8,
+      "name": "Boys",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Shirelles"
+    },
+    {
+      "position": 9,
+      "name": "Don't Pass Me By",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Beatles"
+    },
+    {
+      "position": 10,
+      "name": "Yellow Submarine",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Beatles"
+    },
+    {
+      "position": 11,
+      "name": "Cut the Cake",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Average White Band"
+    },
+    {
+      "position": 12,
+      "name": "Black Magic Woman / Gypsy Queen",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "You're Sixteen",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Johnny Burnette"
+    },
+    {
+      "position": 14,
+      "name": "Anthem",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ringo Starr"
+    },
+    {
+      "position": 15,
+      "name": "Overkill",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Men at Work"
+    },
+    {
+      "position": 16,
+      "name": "Africa",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Toto"
+    },
+    {
+      "position": 17,
+      "name": "Work to Do",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Isley Brothers"
+    },
+    {
+      "position": 18,
+      "name": "Oye c\u00f3mo va",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Tito Puente"
+    },
+    {
+      "position": 19,
+      "name": "I Wanna Be Your Man",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Beatles"
+    },
+    {
+      "position": 20,
+      "name": "Who Can It Be Now?",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Men at Work"
+    },
+    {
+      "position": 21,
+      "name": "Hold the Line",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Toto"
+    },
+    {
+      "position": 22,
+      "name": "Photograph",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ringo Starr"
+    },
+    {
+      "position": 23,
+      "name": "Act Naturally",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Johnny Russell"
+    },
+    {
+      "position": 24,
+      "name": "With a Little Help From My Friends",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Beatles"
+    }
+  ],
+  "tour_name": "14th All Starr Band"
+}

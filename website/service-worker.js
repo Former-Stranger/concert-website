@@ -1,8 +1,8 @@
 // Service Worker for Earplugs & Memories PWA
-// Version: 1.0.8
+// Version: 1.0.18
 
-const CACHE_NAME = 'earplugs-memories-v9';
-const DATA_CACHE_NAME = 'earplugs-memories-data-v9';
+const CACHE_NAME = 'earplugs-memories-v18';
+const DATA_CACHE_NAME = 'earplugs-memories-data-v18';
 
 // Files to cache immediately on install
 const STATIC_CACHE_URLS = [

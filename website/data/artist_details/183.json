@@ -4,44 +4,44 @@
   "concert_count": 3,
   "top_songs": [
     {
+      "name": "Hotel California",
+      "times_played": 4
+    },
+    {
       "name": "Seven Bridges Road",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Take It Easy",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "One of These Nights",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Take It to the Limit",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Witchy Woman",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Peaceful Easy Feeling",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "Tequila Sunrise",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "In the City",
-      "times_played": 2
+      "times_played": 3
     },
     {
       "name": "I Can't Tell You Why",
-      "times_played": 2
-    },
-    {
-      "name": "New Kid in Town",
-      "times_played": 2
+      "times_played": 3
     }
   ],
   "concerts": [
@@ -65,7 +65,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },

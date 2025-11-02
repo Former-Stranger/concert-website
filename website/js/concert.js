@@ -393,4 +393,9 @@ function formatDate(dateStr) {
 }
 
 // Load concert when page loads
-document.addEventListener('DOMContentLoaded', loadConcertDetail);
+document.addEventListener('DOMContentLoaded', () => {
+    loadConcertDetail().then(() => {
+        // Trigger custom event when concert is loaded
+        window.dispatchEvent(new Event('concertLoaded'));
+    });
+});

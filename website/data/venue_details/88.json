@@ -320,8 +320,8 @@
       "show_number": 1060,
       "date": "2022-09-30",
       "festival_name": null,
-      "artists": "The Killers (w. Johnny Marr)",
-      "has_setlist": false,
+      "artists": "The Killers, Johnny Marr",
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -460,8 +460,8 @@
       "show_number": 968,
       "date": "2020-02-15",
       "festival_name": null,
-      "artists": "The Eagles",
-      "has_setlist": false,
+      "artists": "Eagles",
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -931,7 +931,7 @@
       "date": "2017-09-08",
       "festival_name": null,
       "artists": "Eric Clapton",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -1610,8 +1610,8 @@
       "show_number": 458,
       "date": "2010-11-20",
       "festival_name": null,
-      "artists": "Further",
-      "has_setlist": false,
+      "artists": "Furthur, Dark Star Orchestra",
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },

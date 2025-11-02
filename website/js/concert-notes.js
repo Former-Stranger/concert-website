@@ -1,6 +1,6 @@
 // Concert notes and comments functionality
 import { isAuthenticated, isOwner, getCurrentUser } from './auth.js';
-import { db, collection, addDoc, getDocs, query, where, orderBy, serverTimestamp, doc, setDoc, getDoc, deleteDoc, updateDoc } from './firebase-config.js';
+import { auth, db, collection, addDoc, getDocs, query, where, orderBy, serverTimestamp, doc, setDoc, getDoc, deleteDoc, updateDoc } from './firebase-config.js';
 
 // Get concert ID from URL
 const urlParams = new URLSearchParams(window.location.search);
@@ -10,19 +10,28 @@ const concertId = urlParams.get('id');
 export async function initNotesAndComments() {
     if (!concertId) return;
 
-    // Wait for auth to initialize
-    setTimeout(async () => {
-        await loadNotes();
-        await loadComments();
-        setupEventListeners();
+    // Load initial data and setup listeners
+    await loadNotes();
+    await loadComments();
+    setupEventListeners();
+
+    // Note: updateUIBasedOnAuth() is called from the auth callback in concert.html
+    // Also listen for auth state changes directly to catch any timing issues
+    auth.onAuthStateChanged(user => {
+        console.log('[concert-notes] Auth state changed, user:', !!user);
         updateUIBasedOnAuth();
-    }, 500);
+    });
 }
+
+// Export updateUIBasedOnAuth so it can be called from concert.html
+export { updateUIBasedOnAuth };
 
 // Update UI based on authentication state
 function updateUIBasedOnAuth() {
     const isAuth = isAuthenticated();
     const isOwn = isOwner();
+
+    console.log('[updateUIBasedOnAuth] isAuth:', isAuth, 'isOwner:', isOwn);
 
     // Notes section - only show to owner
     const notesSection = document.getElementById('notes-section');
@@ -30,6 +39,7 @@ function updateUIBasedOnAuth() {
 
     if (notesSection) {
         if (isOwn) {
+            console.log('[updateUIBasedOnAuth] Showing notes section for owner');
             notesSection.classList.remove('hidden');
             if (editNotesBtn) {
                 editNotesBtn.classList.remove('hidden');
@@ -43,11 +53,24 @@ function updateUIBasedOnAuth() {
     const commentForm = document.getElementById('comment-form');
     const commentSigninPrompt = document.getElementById('comment-signin-prompt');
 
-    if (isAuth && commentForm && commentSigninPrompt) {
-        commentForm.classList.remove('hidden');
-        commentSigninPrompt.classList.add('hidden');
-    } else if (commentSigninPrompt) {
-        commentSigninPrompt.classList.remove('hidden');
+    console.log('[updateUIBasedOnAuth] commentForm:', !!commentForm, 'commentSigninPrompt:', !!commentSigninPrompt);
+
+    if (isAuth) {
+        console.log('[updateUIBasedOnAuth] User is authenticated, showing comment form');
+        if (commentForm) {
+            commentForm.classList.remove('hidden');
+        }
+        if (commentSigninPrompt) {
+            commentSigninPrompt.classList.add('hidden');
+        }
+    } else {
+        console.log('[updateUIBasedOnAuth] User is NOT authenticated, showing signin prompt');
+        if (commentForm) {
+            commentForm.classList.add('hidden');
+        }
+        if (commentSigninPrompt) {
+            commentSigninPrompt.classList.remove('hidden');
+        }
     }
 }
 

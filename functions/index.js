@@ -323,13 +323,74 @@ exports.processApprovedSetlist = functions.firestore
         const concertData = concertDoc.data();
         const existingArtists = concertData.artists || [];
 
+        // Helper function to parse combined artist names like "Artist A and Artist B"
+        const parseArtistName = (name) => {
+          // Split on common separators (order matters - try most specific first)
+          const separators = [' and ', ' & ', ' with ', '/', ', '];
+          for (const sep of separators) {
+            if (name.includes(sep)) {
+              return name.split(sep).map(n => n.trim()).filter(n => n.length > 0);
+            }
+          }
+          return [name];
+        };
+
+        // Helper function to normalize artist names for fuzzy matching
+        const normalizeArtistName = (name) => {
+          return name
+            .toLowerCase()
+            .replace(/[^a-z0-9\s]/g, '') // Remove special chars
+            .replace(/\s+/g, ' ')         // Normalize whitespace
+            .trim();
+        };
+
+        // Helper function to check if two artist names are similar/variants
+        const areArtistNamesSimilar = (name1, name2) => {
+          const norm1 = normalizeArtistName(name1);
+          const norm2 = normalizeArtistName(name2);
+
+          // Exact match after normalization
+          if (norm1 === norm2) return true;
+
+          // One name contains the other (handles cases like "GLAF - Grahame Lesh & Friends" vs "Grahame Lesh & Friends")
+          if (norm1.includes(norm2) || norm2.includes(norm1)) {
+            // Make sure it's substantial (not just "the" or "and")
+            const shorterLength = Math.min(norm1.length, norm2.length);
+            if (shorterLength > 5) return true;
+          }
+
+          // Check if the words substantially overlap (for abbreviations/variations)
+          const words1 = norm1.split(' ').filter(w => w.length > 2);
+          const words2 = norm2.split(' ').filter(w => w.length > 2);
+
+          // Count how many significant words match
+          const matchingWords = words1.filter(w1 =>
+            words2.some(w2 => w1.includes(w2) || w2.includes(w1))
+          ).length;
+
+          // If 75% or more of the shorter list's words match, consider them similar
+          const minWords = Math.min(words1.length, words2.length);
+          if (minWords > 0 && matchingWords / minWords >= 0.75) return true;
+
+          return false;
+        };
+
         // Check if this artist is already in the concert's artists array
+        // Use fuzzy matching to catch variants like "GLAF - Grahame Lesh & Friends" vs "Grahame Lesh & Friends"
         const artistExists = existingArtists.some(a =>
           a.artist_name === artistName ||
-          (artistMbid && a.artist_id === artistMbid)
+          (artistMbid && a.artist_id === artistMbid) ||
+          areArtistNamesSimilar(a.artist_name, artistName)
         );
 
-        if (!artistExists) {
+        // Check if this is a combined artist name that matches existing artists
+        const parsedNames = parseArtistName(artistName);
+        const allParsedNamesExist = parsedNames.length > 1 &&
+          parsedNames.every(parsedName =>
+            existingArtists.some(a => a.artist_name === parsedName)
+          );
+
+        if (!artistExists && !allParsedNamesExist) {
           console.log(`Adding ${artistName} to concert ${concertId}'s artists array`);
 
           // Determine role based on song count compared to other setlists for this concert
@@ -386,8 +447,66 @@ exports.processApprovedSetlist = functions.firestore
           });
 
           console.log(`Added ${artistName} as ${role} to concert ${concertId}`);
+
+          // Clean up malformed artist entries (old imports with combined names)
+          // Get the updated artists array
+          const updatedConcert = await concertRef.get();
+          const allArtists = updatedConcert.data().artists || [];
+
+          // Detect malformed entries that look like "Artist A with Artist B and Artist C"
+          const malformedArtists = allArtists.filter(a => {
+            const name = a.artist_name || '';
+
+            // Check if name contains multiple artist indicators
+            const hasMultipleIndicators = (name.match(/ with | and | \+ | \/ /gi) || []).length >= 2;
+
+            // Check if name can be parsed and all parsed names exist as separate artists
+            const parsedNames = parseArtistName(name);
+            const canBeSplit = parsedNames.length > 1 &&
+              parsedNames.every(parsedName =>
+                allArtists.some(otherArtist =>
+                  otherArtist.artist_name === parsedName && otherArtist.artist_name !== name
+                )
+              );
+
+            // Check if it contains separator and also contains one of the other artists
+            const containsOtherArtist = allArtists.some(otherArtist =>
+              otherArtist.artist_name !== name &&
+              name.toLowerCase().includes(otherArtist.artist_name.toLowerCase())
+            );
+            const hasCombinedPattern = (name.includes(' with ') || name.includes(' and ') || name.includes('/') || name.includes(', ')) && containsOtherArtist;
+
+            return hasMultipleIndicators || canBeSplit || hasCombinedPattern;
+          });
+
+          if (malformedArtists.length > 0) {
+            console.log(`Cleaning up ${malformedArtists.length} malformed artist entries from concert ${concertId}`);
+            malformedArtists.forEach(a => {
+              console.log(`  Removing: "${a.artist_name}"`);
+            });
+
+            // Remove malformed entries
+            const cleanedArtists = allArtists.filter(a => !malformedArtists.includes(a));
+
+            // Fix positions to be sequential
+            cleanedArtists.forEach((artist, index) => {
+              artist.position = index + 1;
+            });
+
+            await concertRef.update({
+              artists: cleanedArtists,
+              updated_at: admin.firestore.FieldValue.serverTimestamp()
+            });
+
+            console.log(`Cleaned artists array for concert ${concertId}`);
+          }
         } else {
-          // Artist already exists, just update has_setlist
+          // Artist already exists or is a combined name matching existing artists
+          if (allParsedNamesExist) {
+            console.log(`Skipped adding "${artistName}" - parsed names already exist in concert as separate artists`);
+          }
+
+          // Just update has_setlist
           await concertRef.update({
             has_setlist: true,
             updated_at: admin.firestore.FieldValue.serverTimestamp()

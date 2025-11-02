@@ -344,11 +344,11 @@
     "id": "1245",
     "show_number": 1244,
     "date": "2025-03-17",
-    "festival_name": "Multi-Artist Show",
+    "festival_name": null,
     "venue": "Capitol Theatre",
     "city": "Port Chester",
     "state": "NY",
-    "artists": "Tribute to Phil Lesh / Graham Lesh, Friends (Q)",
+    "artists": "Grahame Lesh & Friends",
     "hasSetlist": true
   },
   {
@@ -514,7 +514,7 @@
     "city": "Elmont",
     "state": "NY",
     "artists": "Billy Joel",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1229",
@@ -2372,8 +2372,8 @@
     "venue": "Madison Square Garden",
     "city": "New York",
     "state": "NY",
-    "artists": "The Killers (w. Johnny Marr)",
-    "hasSetlist": false
+    "artists": "The Killers, Johnny Marr",
+    "hasSetlist": true
   },
   {
     "id": "1060",
@@ -2582,7 +2582,7 @@
     "city": "Port Chester",
     "state": "NY",
     "artists": "Counting Crows",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "1041",
@@ -3109,7 +3109,7 @@
     "venue": "Capitol Theatre",
     "city": "Port Chester",
     "state": "NY",
-    "artists": "Phil Lesh & Friends, Q)",
+    "artists": "Phil Lesh & Friends",
     "hasSetlist": false
   },
   {
@@ -3384,8 +3384,8 @@
     "venue": "Madison Square Garden",
     "city": "New York",
     "state": "NY",
-    "artists": "The Eagles",
-    "hasSetlist": false
+    "artists": "Eagles",
+    "hasSetlist": true
   },
   {
     "id": "968",
@@ -3769,8 +3769,8 @@
     "venue": "Bald Hill Amphitheater",
     "city": "Farmingville",
     "state": "NY",
-    "artists": "Ringo Starr & His All Sarr Band",
-    "hasSetlist": false
+    "artists": "Ringo Starr & His All Star Band, Ringo Starr & His All Starr Band",
+    "hasSetlist": true
   },
   {
     "id": "934",
@@ -3913,7 +3913,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Lionel Richie",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "921",
@@ -5078,8 +5078,8 @@
     "venue": "Radio City Music Hall",
     "city": "New York",
     "state": "NY",
-    "artists": "Bobby, Phil",
-    "hasSetlist": false
+    "artists": "Bob Weir, Phil Lesh",
+    "hasSetlist": true
   },
   {
     "id": "815",
@@ -5453,7 +5453,7 @@
     "city": "New York",
     "state": "NY",
     "artists": "Eric Clapton",
-    "hasSetlist": false
+    "hasSetlist": true
   },
   {
     "id": "781",
@@ -6046,8 +6046,8 @@
     "venue": "Red Rocks Amphitheatre",
     "city": "Morrison",
     "state": "CO",
-    "artists": "Brantley Gilbert with Justin Moore and Colt Ford",
-    "hasSetlist": false
+    "artists": "Brantley Gilbert",
+    "hasSetlist": true
   },
   {
     "id": "726",
@@ -8268,8 +8268,8 @@
     "venue": "Izod Center",
     "city": "East Rutherford",
     "state": "NJ",
-    "artists": "Zac Brown Band with Blackberry Smoke",
-    "hasSetlist": false
+    "artists": "Zac Brown Band",
+    "hasSetlist": true
   },
   {
     "id": "526",
@@ -8708,8 +8708,8 @@
     "venue": "The Meadowlands",
     "city": "East Rutherford",
     "state": "NJ",
-    "artists": "Kenny Chesney/Zac Brown Band",
-    "hasSetlist": false
+    "artists": "Kenny Chesney",
+    "hasSetlist": true
   },
   {
     "id": "486",
@@ -9016,8 +9016,8 @@
     "venue": "Madison Square Garden",
     "city": "New York",
     "state": "NY",
-    "artists": "Further",
-    "hasSetlist": false
+    "artists": "Furthur, Dark Star Orchestra",
+    "hasSetlist": true
   },
   {
     "id": "458",

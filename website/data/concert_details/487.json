@@ -1,0 +1,630 @@
+{
+  "id": "487",
+  "show_number": 486,
+  "date": "2011-08-13",
+  "festival_name": null,
+  "venue": "The Meadowlands",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "artists": [
+    {
+      "name": "Kenny Chesney",
+      "role": "headliner"
+    },
+    {
+      "name": "Zac Brown Band",
+      "role": "opener"
+    },
+    {
+      "name": "Billy Currington",
+      "role": "opener"
+    },
+    {
+      "name": "Uncle Kracker",
+      "role": "opener"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "dbf94c49-0dd9-4f72-85d5-f548beb453f6",
+      "artist_name": "Billy Currington",
+      "artist_role": "opener",
+      "setlistfm_url": "https://www.setlist.fm/setlist/billy-currington/2011/new-meadowlands-stadium-east-rutherford-nj-23d0fc47.html",
+      "song_count": 12,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "That's How Country Boys Roll",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "I Wanna Be a Hillbilly",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "I Got a Feelin'",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Love Done Gone",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Pretty Good at Drinkin' Beer",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "All Day Long",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Let Me Down Easy",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "Don't",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 9,
+          "name": "Family Tradition",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Hank Williams, Jr."
+        },
+        {
+          "position": 10,
+          "name": "People Are Crazy",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "Must Be Doin' Somethin' Right",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 12,
+          "name": "Good Directions",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ],
+      "tour_name": "Goin Coastal Tour 2011"
+    },
+    {
+      "artist_id": "1a02e1e4-000e-46fa-83de-f3a36674e4fc",
+      "artist_name": "Uncle Kracker",
+      "artist_role": "opener",
+      "setlistfm_url": "https://www.setlist.fm/setlist/uncle-kracker/2011/new-meadowlands-stadium-east-rutherford-nj-3bd0fc40.html",
+      "song_count": 7,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "In a Little While",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Drift Away",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Mentor Williams"
+        },
+        {
+          "position": 3,
+          "name": "Follow Me",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "The Gambler",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Don Schlitz"
+        },
+        {
+          "position": 5,
+          "name": "Good to Be Me",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "All Summer Long",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Kid Rock"
+        },
+        {
+          "position": 7,
+          "name": "Smile",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ],
+      "tour_name": "Goin Coastal Tour 2011"
+    },
+    {
+      "artist_id": "507226f4-0842-4f43-950e-81a7017230ec",
+      "artist_name": "Zac Brown Band",
+      "artist_role": "opener",
+      "setlistfm_url": "https://www.setlist.fm/setlist/zac-brown-band/2011/new-meadowlands-stadium-east-rutherford-nj-2bd0fc46.html",
+      "song_count": 18,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "As She's Walking Away",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Toes",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "It's Not OK",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Where the Boat Leaves From / Crazy Love / Islands in the Stream",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Highway 20 Ride",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "No Hurry",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "The Devil Went Down to Georgia",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Charlie Daniels Band"
+        },
+        {
+          "position": 8,
+          "name": "Quiet Your Mind",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 9,
+          "name": "My Name Is Money",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Sonia Leigh"
+        },
+        {
+          "position": 10,
+          "name": "Colder Weather",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "Keep Me in Mind",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 12,
+          "name": "Who Knows",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 13,
+          "name": "Whatever It Is",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 14,
+          "name": "Settle Me Down",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 15,
+          "name": "Whiskey's Gone",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 16,
+          "name": "Free / Into the Mystic",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 17,
+          "name": "America the Beautiful",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Samuel A. Ward and Katharine Lee Bates"
+        },
+        {
+          "position": 18,
+          "name": "Chicken Fried",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ],
+      "tour_name": "Goin Coastal Tour 2011"
+    },
+    {
+      "artist_id": "5dca4d22-d6c8-4e70-8ca1-4543e43353c7",
+      "artist_name": "Kenny Chesney",
+      "artist_role": "headliner",
+      "setlistfm_url": "https://www.setlist.fm/setlist/kenny-chesney/2011/new-meadowlands-stadium-east-rutherford-nj-33d0fc41.html",
+      "song_count": 32,
+      "has_encore": true,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Live a Little",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Reality",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Summertime",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Beer in Mexico",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "The Woman With You",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Big Star",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "I Go Back",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "No Shoes, No Shirt, No Problems",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 9,
+          "name": "Anything but Mine",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "There Goes My Life",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "You and Tequila",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Deana Carter"
+        },
+        {
+          "position": 12,
+          "name": "Living in Fast Forward",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 13,
+          "name": "Young",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 14,
+          "name": "Happy Birthday to You",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Mildred J. Hill & Patty Hill"
+        },
+        {
+          "position": 15,
+          "name": "Somewhere With You",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 16,
+          "name": "Don't Happen Twice",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 17,
+          "name": "Never Wanted Nothing More",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 18,
+          "name": "Out Last Night",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 19,
+          "name": "When the Sun Goes Down",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 20,
+          "name": "Midnight Rider",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Allman Brothers Band"
+        },
+        {
+          "position": 21,
+          "name": "Cowboy",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Kid Rock"
+        },
+        {
+          "position": 22,
+          "name": "Blister in the Sun",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Violent Femmes"
+        },
+        {
+          "position": 23,
+          "name": "How Forever Feels",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 24,
+          "name": "The Boys of Fall",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 25,
+          "name": "She Thinks My Tractor's Sexy",
+          "set_name": "Main Set",
+          "encore": 1,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 26,
+          "name": "Dixieland Delight / If You're Gonna Play in Texas (You Gotta Have a Fiddle in the Band)",
+          "set_name": "Main Set",
+          "encore": 1,
+          "is_cover": true,
+          "cover_artist": "Alabama"
+        },
+        {
+          "position": 27,
+          "name": "Knee Deep",
+          "set_name": "Main Set",
+          "encore": 1,
+          "is_cover": true,
+          "cover_artist": "Zac Brown Band"
+        },
+        {
+          "position": 28,
+          "name": "Everybody Wants to Go to Heaven",
+          "set_name": "Main Set",
+          "encore": 1,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 29,
+          "name": "The Joker",
+          "set_name": "Main Set",
+          "encore": 1,
+          "is_cover": true,
+          "cover_artist": "Steve Miller Band"
+        },
+        {
+          "position": 30,
+          "name": "Three Little Birds",
+          "set_name": "Main Set",
+          "encore": 1,
+          "is_cover": true,
+          "cover_artist": "Bob Marley & The Wailers"
+        },
+        {
+          "position": 31,
+          "name": "Caress Me Down",
+          "set_name": "Main Set",
+          "encore": 1,
+          "is_cover": true,
+          "cover_artist": "Sublime"
+        },
+        {
+          "position": 32,
+          "name": "Runnin' Down a Dream",
+          "set_name": "Main Set",
+          "encore": 1,
+          "is_cover": true,
+          "cover_artist": "Tom Petty"
+        }
+      ],
+      "tour_name": "Goin Coastal Tour 2011"
+    }
+  ],
+  "total_song_count": 69,
+  "has_encore": true,
+  "tour_name": "Goin Coastal Tour 2011"
+}

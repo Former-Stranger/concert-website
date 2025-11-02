@@ -1,0 +1,277 @@
+{
+  "id": "782",
+  "show_number": 781,
+  "date": "2017-09-08",
+  "festival_name": null,
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Eric Clapton",
+      "role": "headliner"
+    },
+    {
+      "name": "Jimmie Vaughan",
+      "role": "opener"
+    },
+    {
+      "name": "Gary Clark Jr.",
+      "role": "opener"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "c733c4e6-22a2-499d-ace7-17b832356aff",
+      "artist_name": "Gary Clark Jr.",
+      "artist_role": "opener",
+      "setlistfm_url": "https://www.setlist.fm/setlist/gary-clark-jr/2017/madison-square-garden-new-york-ny-43e2dbbb.html",
+      "song_count": 7,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Catfish Blues",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Robert Petway"
+        },
+        {
+          "position": 2,
+          "name": "Next Door Neighbor Blues",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "When My Train Pulls In",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Our Love",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Bright Lights",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Come Together",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Beatles"
+        },
+        {
+          "position": 7,
+          "name": "Shake",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ]
+    },
+    {
+      "artist_id": "dac15690-cbad-4692-a6bf-3bb0ae05cfe1",
+      "artist_name": "Jimmie Vaughan",
+      "artist_role": "opener",
+      "setlistfm_url": "https://www.setlist.fm/setlist/jimmie-vaughan/2017/madison-square-garden-new-york-ny-4be2dbba.html",
+      "song_count": 4,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "I Ain't Never",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Webb Pierce"
+        },
+        {
+          "position": 2,
+          "name": "White Boots",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Vaughan Brothers"
+        },
+        {
+          "position": 3,
+          "name": "Texas Flood",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Larry Davis"
+        },
+        {
+          "position": 4,
+          "name": "Roll Roll Roll",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Luther \u201cGuitar Junior\u201d Johnson"
+        }
+      ]
+    },
+    {
+      "artist_id": "618b6900-0618-4f1e-b835-bccb17f84294",
+      "artist_name": "Eric Clapton",
+      "artist_role": "headliner",
+      "setlistfm_url": "https://www.setlist.fm/setlist/eric-clapton/2017/madison-square-garden-new-york-ny-5be2dbdc.html",
+      "song_count": 16,
+      "has_encore": true,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Somebody's Knocking",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "J.J. Cale"
+        },
+        {
+          "position": 2,
+          "name": "Key to the Highway",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Charles Segar"
+        },
+        {
+          "position": 3,
+          "name": "I'm Your Hoochie Coochie Man",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Willie Dixon"
+        },
+        {
+          "position": 4,
+          "name": "I Shot the Sheriff",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Wailers"
+        },
+        {
+          "position": 5,
+          "name": "Driftin' Blues",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Johnny Moore\u2019s Three Blazers"
+        },
+        {
+          "position": 6,
+          "name": "Lay Down Sally",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Nobody Knows You When You're Down and Out",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Jimmy Cox"
+        },
+        {
+          "position": 8,
+          "name": "Layla",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Derek and the Dominos"
+        },
+        {
+          "position": 9,
+          "name": "Tears in Heaven",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "White Room",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Cream"
+        },
+        {
+          "position": 11,
+          "name": "Wonderful Tonight",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 12,
+          "name": "Cross Road Blues",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Robert Johnson"
+        },
+        {
+          "position": 13,
+          "name": "Little Queen of Spades",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Robert Johnson"
+        },
+        {
+          "position": 14,
+          "name": "Cocaine",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "J.J. Cale"
+        },
+        {
+          "position": 15,
+          "name": "Sunshine of Your Love",
+          "set_name": "Main Set",
+          "encore": 1,
+          "is_cover": true,
+          "cover_artist": "Cream"
+        },
+        {
+          "position": 16,
+          "name": "Before You Accuse Me",
+          "set_name": "Main Set",
+          "encore": 1,
+          "is_cover": true,
+          "cover_artist": "Bo Diddley"
+        }
+      ],
+      "tour_name": "A Celebration of 50 Years of Music"
+    }
+  ],
+  "total_song_count": 27,
+  "has_encore": true,
+  "tour_name": "A Celebration of 50 Years of Music"
+}

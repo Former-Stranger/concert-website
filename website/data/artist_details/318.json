@@ -1,47 +1,47 @@
 {
   "id": "318",
   "name": "Kenny Chesney",
-  "concert_count": 10,
+  "concert_count": 11,
   "top_songs": [
     {
       "name": "Living in Fast Forward",
-      "times_played": 8
+      "times_played": 9
     },
     {
       "name": "I Go Back",
-      "times_played": 8
+      "times_played": 9
     },
     {
       "name": "Beer in Mexico",
-      "times_played": 7
+      "times_played": 8
     },
     {
       "name": "Reality",
-      "times_played": 7
+      "times_played": 8
     },
     {
       "name": "Summertime",
-      "times_played": 7
+      "times_played": 8
     },
     {
       "name": "Somewhere With You",
-      "times_played": 7
+      "times_played": 8
     },
     {
       "name": "She Thinks My Tractor's Sexy",
-      "times_played": 7
+      "times_played": 8
     },
     {
       "name": "Young",
-      "times_played": 7
+      "times_played": 8
     },
     {
       "name": "How Forever Feels",
-      "times_played": 7
+      "times_played": 8
     },
     {
-      "name": "Til It's Gone",
-      "times_played": 6
+      "name": "Anything but Mine",
+      "times_played": 7
     }
   ],
   "concerts": [
@@ -162,6 +162,18 @@
       "city": "New York",
       "state": "NY",
       "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "487",
+      "show_number": 486,
+      "date": "2011-08-13",
+      "festival_name": null,
+      "venue": "The Meadowlands",
+      "city": "East Rutherford",
+      "state": "NJ",
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

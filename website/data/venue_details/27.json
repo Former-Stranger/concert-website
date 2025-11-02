@@ -69,9 +69,9 @@
       "id": "1245",
       "show_number": 1244,
       "date": "2025-03-17",
-      "festival_name": "Multi-Artist Show",
-      "artists": "Tribute to Phil Lesh / Graham Lesh, Friends (Q)",
-      "has_setlist": false,
+      "festival_name": null,
+      "artists": "Grahame Lesh & Friends",
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -371,7 +371,7 @@
       "date": "2022-08-03",
       "festival_name": null,
       "artists": "Counting Crows",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -440,7 +440,7 @@
       "show_number": 993,
       "date": "2021-10-11",
       "festival_name": null,
-      "artists": "Phil Lesh & Friends, Q)",
+      "artists": "Phil Lesh & Friends",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null

@@ -1,7 +1,7 @@
 {
   "id": "427",
   "name": "Phil",
-  "concert_count": 2,
+  "concert_count": 1,
   "top_songs": [
     {
       "name": "Big Mouth",
@@ -49,18 +49,6 @@
       "id": "817",
       "show_number": 816,
       "date": "2018-03-03",
-      "festival_name": "Multi-Artist Show",
-      "venue": "Radio City Music Hall",
-      "city": "New York",
-      "state": "NY",
-      "has_setlist": false,
-      "opening_song": null,
-      "closing_song": null
-    },
-    {
-      "id": "816",
-      "show_number": 815,
-      "date": "2018-03-02",
       "festival_name": "Multi-Artist Show",
       "venue": "Radio City Music Hall",
       "city": "New York",

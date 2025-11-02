@@ -1,0 +1,263 @@
+{
+  "id": "1042",
+  "show_number": 1041,
+  "date": "2022-08-03",
+  "festival_name": null,
+  "venue": "Capitol Theatre",
+  "city": "Port Chester",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Counting Crows",
+      "role": "headliner"
+    },
+    {
+      "name": "Stephen Kellogg",
+      "role": "opener"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "74dc2e73-9d7a-4d78-b151-0b4c14b08f50",
+      "artist_name": "Stephen Kellogg",
+      "artist_role": "opener",
+      "setlistfm_url": "https://www.setlist.fm/setlist/stephen-kellogg/2022/capitol-theatre-port-chester-ny-13b26165.html",
+      "song_count": 7,
+      "has_encore": false,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Satisfied Man",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Stephen Kellogg and the Sixers"
+        },
+        {
+          "position": 2,
+          "name": "Sweet Sophia",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Stephen Kellogg and the Sixers"
+        },
+        {
+          "position": 3,
+          "name": "Keep It Up, Kid",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Song for Daughters",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Symphony of Joy",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Milwaukee",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Stephen Kellogg and the Sixers"
+        },
+        {
+          "position": 7,
+          "name": "Objects in the Mirror",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ]
+    },
+    {
+      "artist_id": "a0327dc2-dc76-44d5-aec6-47cd2dff1469",
+      "artist_name": "Counting Crows",
+      "artist_role": "headliner",
+      "setlistfm_url": "https://www.setlist.fm/setlist/counting-crows/2022/capitol-theatre-port-chester-ny-5bb25b88.html",
+      "song_count": 20,
+      "has_encore": true,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Speedway",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 2,
+          "name": "Come Around",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Mr. Jones",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Colorblind",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "Omaha",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Cover Up the Sun",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Recovering the Satellites",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 8,
+          "name": "I Wish I Was a Girl",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 9,
+          "name": "Miami",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "Washington Square",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "God of Ocean Tides",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 12,
+          "name": "The Tall Grass",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 13,
+          "name": "Elevator Boots",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 14,
+          "name": "Angel of 14th Street",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 15,
+          "name": "Bobby and the Rat-Kings",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 16,
+          "name": "Rain King",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 17,
+          "name": "A Long December",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 18,
+          "name": "Round Here",
+          "set_name": "Main Set",
+          "encore": 1,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 19,
+          "name": "Almost Woke You Up",
+          "set_name": "Main Set",
+          "encore": 1,
+          "is_cover": true,
+          "cover_artist": "Stephen Kellogg"
+        },
+        {
+          "position": 20,
+          "name": "Hanginaround",
+          "set_name": "Main Set",
+          "encore": 1,
+          "is_cover": false,
+          "cover_artist": null
+        }
+      ],
+      "tour_name": "Butter Miracle"
+    }
+  ],
+  "total_song_count": 27,
+  "has_encore": true,
+  "tour_name": "Butter Miracle"
+}

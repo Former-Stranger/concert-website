@@ -1,0 +1,159 @@
+{
+  "id": "922",
+  "show_number": 921,
+  "date": "2019-07-17",
+  "festival_name": null,
+  "venue": "Radio City Music Hall",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Lionel Richie",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/lionel-richie/2019/radio-city-music-hall-new-york-ny-239edc9f.html",
+  "song_count": 17,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Running With the Night",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Easy / My Love",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 3,
+      "name": "Penny Lover",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "Truly",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "You Are",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Stuck on You",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Dancing on the Ceiling",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Three Times a Lady",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Commodores"
+    },
+    {
+      "position": 9,
+      "name": "Sail On",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Commodores"
+    },
+    {
+      "position": 10,
+      "name": "Fancy Dancer / Sweet Love / Lady (You Bring Me Up)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Commodores"
+    },
+    {
+      "position": 11,
+      "name": "Just to Be Close to You",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Commodores"
+    },
+    {
+      "position": 12,
+      "name": "Endless Love",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Diana Ross & Lionel Richie"
+    },
+    {
+      "position": 13,
+      "name": "Brick House / Fire",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "Hello",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Say You, Say Me",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "We Are the World",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "USA for Africa"
+    },
+    {
+      "position": 17,
+      "name": "All Night Long (All Night)",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ],
+  "tour_name": "Hello! Hits"
+}

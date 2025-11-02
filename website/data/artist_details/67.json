@@ -1,14 +1,22 @@
 {
   "id": "67",
   "name": "Bob Weir",
-  "concert_count": 9,
+  "concert_count": 10,
   "top_songs": [
     {
       "name": "Playing in the Band",
       "times_played": 4
     },
     {
+      "name": "He's Gone",
+      "times_played": 4
+    },
+    {
       "name": "Two Djinn",
+      "times_played": 4
+    },
+    {
+      "name": "Let It Grow",
       "times_played": 4
     },
     {
@@ -33,14 +41,6 @@
     },
     {
       "name": "Turn On Your Love Light",
-      "times_played": 3
-    },
-    {
-      "name": "The Other One",
-      "times_played": 3
-    },
-    {
-      "name": "He's Gone",
       "times_played": 3
     }
   ],
@@ -148,6 +148,18 @@
       "festival_name": "Multi-Artist Show",
       "venue": "Capitol Theatre",
       "city": "Port Chester",
+      "state": "NY",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "816",
+      "show_number": 815,
+      "date": "2018-03-02",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Radio City Music Hall",
+      "city": "New York",
       "state": "NY",
       "has_setlist": true,
       "opening_song": null,

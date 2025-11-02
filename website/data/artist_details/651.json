@@ -1,30 +1,38 @@
 {
   "id": "651",
   "name": "Zac Brown Band",
-  "concert_count": 8,
+  "concert_count": 9,
   "top_songs": [
     {
       "name": "Toes",
-      "times_played": 8
+      "times_played": 9
+    },
+    {
+      "name": "Colder Weather",
+      "times_played": 9
+    },
+    {
+      "name": "Chicken Fried",
+      "times_played": 9
     },
     {
       "name": "Homegrown",
       "times_played": 8
     },
     {
-      "name": "Colder Weather",
-      "times_played": 8
-    },
-    {
-      "name": "Chicken Fried",
-      "times_played": 8
-    },
-    {
       "name": "Keep Me in Mind",
-      "times_played": 7
+      "times_played": 8
     },
     {
       "name": "As She's Walking Away",
+      "times_played": 8
+    },
+    {
+      "name": "Knee Deep",
+      "times_played": 8
+    },
+    {
+      "name": "Free / Into the Mystic",
       "times_played": 7
     },
     {
@@ -32,16 +40,8 @@
       "times_played": 7
     },
     {
-      "name": "Knee Deep",
-      "times_played": 7
-    },
-    {
-      "name": "Free / Into the Mystic",
-      "times_played": 6
-    },
-    {
       "name": "Sweet Annie",
-      "times_played": 5
+      "times_played": 6
     }
   ],
   "concerts": [
@@ -137,6 +137,18 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "527",
+      "show_number": 526,
+      "date": "2012-11-18",
+      "festival_name": null,
+      "venue": "Izod Center",
+      "city": "East Rutherford",
+      "state": "NJ",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
