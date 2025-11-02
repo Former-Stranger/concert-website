@@ -473,10 +473,48 @@ exports.processApprovedSetlist = functions.firestore
 
           console.log(`Added ${artistName} as ${role} to concert ${concertId}`);
 
-          // Clean up malformed artist entries (old imports with combined names)
-          // Get the updated artists array
+          // Re-evaluate ALL artist roles based on final setlist song counts
+          // This ensures roles are correct after multiple setlists are added
           const updatedConcert = await concertRef.get();
-          const allArtists = updatedConcert.data().artists || [];
+          let allArtists = updatedConcert.data().artists || [];
+
+          // Get all setlists for this concert
+          const allSetlistsForRoleUpdate = await db.collection('setlists')
+            .where('concert_id', '==', concertId)
+            .get();
+
+          // Create a map of artist_name -> song_count
+          const songCounts = {};
+          allSetlistsForRoleUpdate.docs.forEach(doc => {
+            const data = doc.data();
+            songCounts[data.artist_name] = data.song_count || 0;
+          });
+
+          // Find the max song count
+          const maxSongCount = Math.max(...Object.values(songCounts), 0);
+
+          // Update roles: artist(s) with max song count = headliner, others = opener
+          let rolesUpdated = false;
+          allArtists = allArtists.map(artist => {
+            const artistSongCount = songCounts[artist.artist_name] || 0;
+            const correctRole = artistSongCount === maxSongCount ? 'headliner' : 'opener';
+
+            if (artist.role !== correctRole) {
+              console.log(`Updating ${artist.artist_name} role: ${artist.role} -> ${correctRole} (${artistSongCount} songs)`);
+              rolesUpdated = true;
+              return { ...artist, role: correctRole };
+            }
+            return artist;
+          });
+
+          // If roles were updated, save the changes
+          if (rolesUpdated) {
+            await concertRef.update({
+              artists: allArtists,
+              updated_at: admin.firestore.FieldValue.serverTimestamp()
+            });
+            console.log(`Updated artist roles for concert ${concertId}`);
+          }
 
           // Detect malformed entries that look like "Artist A with Artist B and Artist C"
           const malformedArtists = allArtists.filter(a => {

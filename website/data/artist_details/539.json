@@ -1,50 +1,62 @@
 {
   "id": "539",
   "name": "Steve Miller Band",
-  "concert_count": 5,
+  "concert_count": 6,
   "top_songs": [
     {
       "name": "Jet Airliner",
-      "times_played": 4
+      "times_played": 5
     },
     {
       "name": "Fly Like an Eagle",
-      "times_played": 3
+      "times_played": 4
     },
     {
       "name": "The Stake",
-      "times_played": 3
+      "times_played": 4
     },
     {
       "name": "Abracadabra",
-      "times_played": 3
+      "times_played": 4
     },
     {
       "name": "Dance, Dance, Dance",
-      "times_played": 3
+      "times_played": 4
     },
     {
       "name": "Wild Mountain Honey",
-      "times_played": 3
+      "times_played": 4
     },
     {
       "name": "Swingtown",
-      "times_played": 3
+      "times_played": 4
     },
     {
       "name": "Jungle Love",
-      "times_played": 3
+      "times_played": 4
     },
     {
       "name": "Serenade",
-      "times_played": 3
+      "times_played": 4
     },
     {
       "name": "Living in the U.S.A.",
-      "times_played": 3
+      "times_played": 4
     }
   ],
   "concerts": [
+    {
+      "id": "1095",
+      "show_number": 1094,
+      "date": "2023-06-24",
+      "festival_name": null,
+      "venue": "Hartford HealthCare Amphitheater",
+      "city": "Bridgeport",
+      "state": "CT",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
     {
       "id": "1045",
       "show_number": 1044,
