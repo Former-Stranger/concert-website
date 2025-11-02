@@ -375,22 +375,47 @@ exports.processApprovedSetlist = functions.firestore
           return false;
         };
 
-        // Check if this artist is already in the concert's artists array
-        // Use fuzzy matching to catch variants like "GLAF - Grahame Lesh & Friends" vs "Grahame Lesh & Friends"
-        const artistExists = existingArtists.some(a =>
+        // Strategy: setlist.fm is the source of truth for artist names
+        // We need to handle three scenarios:
+        // 1. Artist already exists with exact/similar name (keep it)
+        // 2. Artist is part of a combined name that should be split (replace the combined entry)
+        // 3. Artist doesn't exist at all (add it)
+
+        // Check for exact match or MBID match
+        const exactMatch = existingArtists.find(a =>
           a.artist_name === artistName ||
-          (artistMbid && a.artist_id === artistMbid) ||
-          areArtistNamesSimilar(a.artist_name, artistName)
+          (artistMbid && a.artist_id === artistMbid)
         );
 
-        // Check if this is a combined artist name that matches existing artists
-        const parsedNames = parseArtistName(artistName);
-        const allParsedNamesExist = parsedNames.length > 1 &&
-          parsedNames.every(parsedName =>
-            existingArtists.some(a => a.artist_name === parsedName)
-          );
+        // Check if this artist name is a VARIANT of an existing single artist
+        // (e.g., "GLAF - Grahame Lesh & Friends" is variant of "Grahame Lesh & Friends")
+        // BUT we should NOT match if the existing artist is a COMBINED name that should be split
+        const variantMatch = !exactMatch && existingArtists.find(a => {
+          // Don't match if existing artist is a combined name (contains separators)
+          const existingIsCombined = parseArtistName(a.artist_name).length > 1;
+          if (existingIsCombined) return false;
 
-        if (!artistExists && !allParsedNamesExist) {
+          // Check if it's a variant using fuzzy matching
+          return areArtistNamesSimilar(a.artist_name, artistName);
+        });
+
+        // Check if existing concert has a COMBINED artist name that contains this artist
+        // (e.g., "Steve Miller Band with Dave Mason" contains "Steve Miller Band")
+        // In this case, we should REPLACE the combined entry with separate artists
+        const combinedArtistToReplace = existingArtists.find(a => {
+          const parsedExisting = parseArtistName(a.artist_name);
+          // Only consider if existing name is combined (has multiple parts)
+          if (parsedExisting.length <= 1) return false;
+
+          // Check if any of the parsed parts match our artist
+          return parsedExisting.some(part =>
+            normalizeArtistName(part) === normalizeArtistName(artistName)
+          );
+        });
+
+        const artistExists = exactMatch || variantMatch;
+
+        if (!artistExists) {
           console.log(`Adding ${artistName} to concert ${concertId}'s artists array`);
 
           // Determine role based on song count compared to other setlists for this concert
@@ -501,10 +526,8 @@ exports.processApprovedSetlist = functions.firestore
             console.log(`Cleaned artists array for concert ${concertId}`);
           }
         } else {
-          // Artist already exists or is a combined name matching existing artists
-          if (allParsedNamesExist) {
-            console.log(`Skipped adding "${artistName}" - parsed names already exist in concert as separate artists`);
-          }
+          // Artist already exists (exact match or variant match)
+          console.log(`Skipped adding "${artistName}" - already exists in concert (possibly as a variant)`);
 
           // Just update has_setlist
           await concertRef.update({
