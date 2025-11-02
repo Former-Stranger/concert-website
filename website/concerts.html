@@ -215,7 +215,6 @@
                                 <th>Venue</th>
                                 <th>Location</th>
                                 <th class="text-center">Status</th>
-                                <th id="admin-status-header" class="text-center hidden">Actions</th>
                             </tr>
                         </thead>
                         <tbody id="concerts-list">
@@ -235,13 +234,10 @@
 
     <script type="module">
         import { initAuth } from './js/auth.js';
-        import { initAdminUI, loadConcerts } from './js/concerts.js';
+        import { loadConcerts } from './js/concerts.js';
 
-        // Initialize auth and then admin UI
-        initAuth(() => {
-            // Auth is ready, initialize admin UI if user is owner
-            initAdminUI();
-        });
+        // Initialize auth
+        initAuth();
 
         // Load concerts on page load
         document.addEventListener('DOMContentLoaded', loadConcerts);

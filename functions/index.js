@@ -344,6 +344,32 @@ exports.processApprovedSetlist = functions.firestore
             .trim();
         };
 
+        // Helper function: Calculate Levenshtein distance between two strings
+        const levenshteinDistance = (str1, str2) => {
+          const m = str1.length;
+          const n = str2.length;
+          const dp = Array(m + 1).fill(null).map(() => Array(n + 1).fill(0));
+
+          for (let i = 0; i <= m; i++) dp[i][0] = i;
+          for (let j = 0; j <= n; j++) dp[0][j] = j;
+
+          for (let i = 1; i <= m; i++) {
+            for (let j = 1; j <= n; j++) {
+              if (str1[i - 1] === str2[j - 1]) {
+                dp[i][j] = dp[i - 1][j - 1];
+              } else {
+                dp[i][j] = Math.min(
+                  dp[i - 1][j] + 1,    // deletion
+                  dp[i][j - 1] + 1,    // insertion
+                  dp[i - 1][j - 1] + 1 // substitution
+                );
+              }
+            }
+          }
+
+          return dp[m][n];
+        };
+
         // Helper function to check if two artist names are similar/variants
         const areArtistNamesSimilar = (name1, name2) => {
           const norm1 = normalizeArtistName(name1);
@@ -351,6 +377,16 @@ exports.processApprovedSetlist = functions.firestore
 
           // Exact match after normalization
           if (norm1 === norm2) return true;
+
+          // Check Levenshtein distance for close typos (like "Osbourne" vs "Osborne")
+          // Allow up to 2 character differences for names longer than 8 characters
+          // Allow 1 character difference for shorter names
+          const maxDistance = norm1.length > 8 || norm2.length > 8 ? 2 : 1;
+          const distance = levenshteinDistance(norm1, norm2);
+          if (distance <= maxDistance) {
+            console.log(`Fuzzy match: "${name1}" and "${name2}" (distance: ${distance})`);
+            return true;
+          }
 
           // One name contains the other (handles cases like "GLAF - Grahame Lesh & Friends" vs "Grahame Lesh & Friends")
           if (norm1.includes(norm2) || norm2.includes(norm1)) {
@@ -465,11 +501,30 @@ exports.processApprovedSetlist = functions.firestore
             position: existingArtists.length + 1
           };
 
-          await concertRef.update({
+          // Determine setlist status based on whether setlist has songs
+          const currentStatus = concertData.setlist_status || 'not_researched';
+          let updateData = {
             artists: admin.firestore.FieldValue.arrayUnion(newArtist),
-            has_setlist: true,
             updated_at: admin.firestore.FieldValue.serverTimestamp()
-          });
+          };
+
+          if (songCount > 0) {
+            // Has actual setlist with songs
+            updateData.has_setlist = true;
+            updateData.setlist_status = 'has_setlist';
+          } else if (currentStatus === 'not_researched') {
+            // Found on setlist.fm but no setlist available
+            updateData.setlist_status = 'verified_none_on_setlistfm';
+            console.log(`Auto-updated status to 'verified_none_on_setlistfm' for concert ${concertId} (found on setlist.fm, no songs)`);
+          }
+
+          // Update tour name if available
+          if (tourName) {
+            updateData.tour_name = tourName;
+            console.log(`Setting tour name: ${tourName}`);
+          }
+
+          await concertRef.update(updateData);
 
           console.log(`Added ${artistName} as ${role} to concert ${concertId}`);
 
@@ -567,11 +622,51 @@ exports.processApprovedSetlist = functions.firestore
           // Artist already exists (exact match or variant match)
           console.log(`Skipped adding "${artistName}" - already exists in concert (possibly as a variant)`);
 
-          // Just update has_setlist
-          await concertRef.update({
-            has_setlist: true,
+          // Check if this is a variant match (not exact match) - if so, fix the artist name
+          let artistsArrayUpdated = false;
+          if (variantMatch && variantMatch.artist_name !== artistName) {
+            console.log(`Updating artist name from "${variantMatch.artist_name}" to "${artistName}" (setlist.fm is source of truth)`);
+
+            // Update the artist name in the artists array
+            const updatedArtists = existingArtists.map(artist => {
+              if (artist.artist_name === variantMatch.artist_name) {
+                return { ...artist, artist_name: artistName };
+              }
+              return artist;
+            });
+
+            existingArtists = updatedArtists;
+            artistsArrayUpdated = true;
+          }
+
+          // Determine setlist status based on whether setlist has songs
+          const currentStatus = concertData.setlist_status || 'not_researched';
+          let updateData = {
             updated_at: admin.firestore.FieldValue.serverTimestamp()
-          });
+          };
+
+          // Update artists array if name was corrected
+          if (artistsArrayUpdated) {
+            updateData.artists = existingArtists;
+          }
+
+          if (songCount > 0) {
+            // Has actual setlist with songs
+            updateData.has_setlist = true;
+            updateData.setlist_status = 'has_setlist';
+          } else if (currentStatus === 'not_researched') {
+            // Found on setlist.fm but no setlist available
+            updateData.setlist_status = 'verified_none_on_setlistfm';
+            console.log(`Auto-updated status to 'verified_none_on_setlistfm' for concert ${concertId} (found on setlist.fm, no songs)`);
+          }
+
+          // Update tour name if available
+          if (tourName) {
+            updateData.tour_name = tourName;
+            console.log(`Setting tour name: ${tourName}`);
+          }
+
+          await concertRef.update(updateData);
         }
       }
 

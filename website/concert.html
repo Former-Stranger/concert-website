@@ -238,6 +238,28 @@
                     </div>
                 </div>
 
+                <!-- Admin Settings Section (Owner Only) -->
+                <div id="admin-settings-section" class="mt-8 hidden">
+                    <div class="marquee-header text-center text-2xl rounded">
+                        <i class="fas fa-cog mr-3"></i>Admin Settings
+                    </div>
+
+                    <div class="bg-white rounded p-6 border-2 border-[#d4773e]">
+                        <div class="mb-4">
+                            <label class="block text-[#2d1b1b] font-bold mb-2">Setlist Research Status:</label>
+                            <select id="setlist-status-select" class="w-full p-3 border-2 border-[#d4773e] rounded bg-white text-[#2d1b1b] font-semibold">
+                                <option value="has_setlist">🎵 Has Setlist</option>
+                                <option value="verified_none_on_setlistfm">🔍 Verified - No Setlist on Setlist.fm</option>
+                                <option value="verified_show_didnt_happen">❌ Verified - Show Didn't Happen</option>
+                                <option value="verified_without_setlist">✓ Verified - No Show on Setlist.fm</option>
+                                <option value="not_researched">⏳ Not Researched</option>
+                            </select>
+                            <p class="text-sm text-[#2d1b1b] opacity-70 mt-2">Use this to track your research progress for shows without setlists.</p>
+                        </div>
+                        <div id="status-update-message" class="text-sm font-bold text-center mt-3"></div>
+                    </div>
+                </div>
+
                 <!-- Personal Notes Section -->
                 <div id="notes-section" class="mt-8 hidden">
                     <div class="marquee-header text-center text-2xl rounded">
@@ -370,6 +392,80 @@
             document.getElementById('back-link').href = decodeURIComponent(returnUrl);
         }
 
+        // Load and set current setlist status
+        async function loadSetlistStatus() {
+            if (!concertId) return;
+
+            try {
+                const concertDoc = await getDoc(doc(db, 'concerts', concertId));
+                if (concertDoc.exists()) {
+                    const concertData = concertDoc.data();
+                    const currentStatus = concertData.setlist_status || 'not_researched';
+
+                    const statusSelect = document.getElementById('setlist-status-select');
+                    if (statusSelect) {
+                        statusSelect.value = currentStatus;
+                        console.log('[loadSetlistStatus] Set status to:', currentStatus);
+                    }
+                }
+            } catch (error) {
+                console.error('Error loading setlist status:', error);
+            }
+        }
+
+        // Update setlist status in Firestore
+        async function updateSetlistStatus(newStatus) {
+            if (!concertId) return;
+
+            const messageDiv = document.getElementById('status-update-message');
+
+            try {
+                const concertRef = doc(db, 'concerts', concertId);
+                await updateDoc(concertRef, {
+                    setlist_status: newStatus,
+                    updated_at: new Date()
+                });
+
+                console.log('[updateSetlistStatus] Updated status to:', newStatus);
+
+                // Show success message
+                messageDiv.textContent = '✓ Status updated successfully!';
+                messageDiv.style.color = '#4ade80';
+
+                setTimeout(() => {
+                    messageDiv.textContent = '';
+                }, 3000);
+
+                // Trigger deployment to update static site
+                try {
+                    await fetch('https://us-central1-earplugs-and-memories.cloudfunctions.net/triggerManualDeploy', {
+                        method: 'POST'
+                    });
+                    console.log('Triggered deployment for status update');
+                } catch (err) {
+                    console.log('Could not trigger deployment:', err);
+                }
+            } catch (error) {
+                console.error('Error updating setlist status:', error);
+                messageDiv.textContent = '✗ Error updating status';
+                messageDiv.style.color = '#ef4444';
+
+                setTimeout(() => {
+                    messageDiv.textContent = '';
+                }, 5000);
+            }
+        }
+
+        // Set up event listener for status dropdown
+        document.addEventListener('DOMContentLoaded', () => {
+            const statusSelect = document.getElementById('setlist-status-select');
+            if (statusSelect) {
+                statusSelect.addEventListener('change', (e) => {
+                    updateSetlistStatus(e.target.value);
+                });
+            }
+        });
+
         // Function to setup delete button handlers
         function setupDeleteButtons() {
             const deleteButtons = document.querySelectorAll('.delete-setlist-btn');
@@ -457,6 +553,10 @@
             if (isOwner()) {
                 isAdmin = true;
                 document.getElementById('admin-actions').classList.remove('hidden');
+                document.getElementById('admin-settings-section').classList.remove('hidden');
+
+                // Load and set current setlist status
+                loadSetlistStatus();
 
                 console.log('[Auth callback] Setting up delete buttons and observer');
                 // Setup delete buttons for any that exist now
