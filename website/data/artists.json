@@ -45,13 +45,13 @@
     "concert_count": 19
   },
   {
-    "id": "293",
-    "name": "John Fogerty",
-    "concert_count": 18
-  },
-  {
     "id": "316",
     "name": "Keith Urban",
+    "concert_count": 19
+  },
+  {
+    "id": "293",
+    "name": "John Fogerty",
     "concert_count": 18
   },
   {
@@ -315,11 +315,6 @@
     "concert_count": 5
   },
   {
-    "id": "171",
-    "name": "Dierks Bentley",
-    "concert_count": 5
-  },
-  {
     "id": "212",
     "name": "Fleetwood Mac",
     "concert_count": 5
@@ -407,6 +402,11 @@
   {
     "id": "157",
     "name": "David Gilmour",
+    "concert_count": 4
+  },
+  {
+    "id": "171",
+    "name": "Dierks Bentley",
     "concert_count": 4
   },
   {
@@ -2150,11 +2150,6 @@
     "concert_count": 1
   },
   {
-    "id": "317",
-    "name": "Keith Urban with Sugarland",
-    "concert_count": 1
-  },
-  {
     "id": "319",
     "name": "Kenny Chesney / Dan + Shay / Old Dominion",
     "concert_count": 1
@@ -2912,6 +2907,11 @@
   {
     "id": "554",
     "name": "Sugar Ray",
+    "concert_count": 1
+  },
+  {
+    "id": "fce18UNvfw24YEVsau6g",
+    "name": "Sugarland",
     "concert_count": 1
   },
   {

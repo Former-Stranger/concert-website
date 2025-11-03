@@ -1,22 +1,18 @@
 {
-  "id": "859",
-  "show_number": 858,
-  "date": "2018-09-08",
+  "id": "398",
+  "show_number": 397,
+  "date": "2009-10-08",
   "festival_name": null,
   "venue": "Madison Square Garden",
   "city": "New York",
   "state": "NY",
   "artists": [
     {
-      "name": "Dierks Bentley",
+      "name": "Keith Urban",
       "role": "headliner"
     },
     {
-      "name": "LANCO",
-      "role": "opener"
-    },
-    {
-      "name": "Brothers Osborne",
+      "name": "Sugarland",
       "role": "opener"
     }
   ],
@@ -24,16 +20,16 @@
   "photo_count": 0,
   "setlists": [
     {
-      "artist_id": "7a502bfc-4cab-4dc8-a618-b12aca7258e7",
-      "artist_name": "Brothers Osborne",
+      "artist_id": "f87b740a-c22b-4fae-9987-1f3e16f840c4",
+      "artist_name": "Sugarland",
       "artist_role": "opener",
-      "setlistfm_url": "https://www.setlist.fm/setlist/brothers-osborne/2018/madison-square-garden-new-york-ny-be9ad7e.html",
-      "song_count": 9,
+      "setlistfm_url": "https://www.setlist.fm/setlist/sugarland/2009/madison-square-garden-new-york-ny-63d722ef.html",
+      "song_count": 15,
       "has_encore": false,
       "songs": [
         {
           "position": 1,
-          "name": "Shoot Me Straight",
+          "name": "Love",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
@@ -41,7 +37,7 @@
         },
         {
           "position": 2,
-          "name": "Down Home",
+          "name": "Settlin'",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
@@ -49,7 +45,7 @@
         },
         {
           "position": 3,
-          "name": "Rum",
+          "name": "It Happens",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
@@ -57,7 +53,7 @@
         },
         {
           "position": 4,
-          "name": "Greener Pastures",
+          "name": "Want To",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
@@ -65,15 +61,15 @@
         },
         {
           "position": 5,
-          "name": "21 Summer",
+          "name": "Nightswimming",
           "set_name": "Main Set",
           "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
+          "is_cover": true,
+          "cover_artist": "R.E.M."
         },
         {
           "position": 6,
-          "name": "I Don't Remember Me (Before You)",
+          "name": "Joey",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
@@ -81,7 +77,7 @@
         },
         {
           "position": 7,
-          "name": "Drank Like Hank",
+          "name": "Already Gone",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
@@ -89,7 +85,7 @@
         },
         {
           "position": 8,
-          "name": "Stay a Little Longer",
+          "name": "Genevieve",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
@@ -97,149 +93,7 @@
         },
         {
           "position": 9,
-          "name": "It Ain't My Fault",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        }
-      ],
-      "tour_name": "Mountain High Tour"
-    },
-    {
-      "artist_id": "bc4c4098-32b1-4881-9d38-659637de0692",
-      "artist_name": "LANCO",
-      "artist_role": "opener",
-      "setlistfm_url": "https://www.setlist.fm/setlist/lanco/2018/madison-square-garden-new-york-ny-3e9ad5f.html",
-      "song_count": 6,
-      "has_encore": false,
-      "songs": [
-        {
-          "position": 1,
-          "name": "Trouble Maker",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 2,
-          "name": "Long Live Tonight",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 3,
-          "name": "Pick You Up",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 4,
-          "name": "Born to Love You",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 5,
-          "name": "Singin' at the Stars",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 6,
-          "name": "Greatest Love Story",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        }
-      ],
-      "tour_name": "Mountain High Tour"
-    },
-    {
-      "artist_id": "6bd7faa9-601f-44db-a2a6-239209f83156",
-      "artist_name": "Dierks Bentley",
-      "artist_role": "headliner",
-      "setlistfm_url": "https://www.setlist.fm/setlist/dierks-bentley/2018/madison-square-garden-new-york-ny-1be9ad7c.html",
-      "song_count": 19,
-      "has_encore": true,
-      "songs": [
-        {
-          "position": 1,
-          "name": "The Mountain",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 2,
-          "name": "I Hold On",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 3,
-          "name": "Free and Easy (Down the Road I Go)",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 4,
-          "name": "Somewhere on a Beach",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 5,
-          "name": "Woman, Amen",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 6,
-          "name": "Black",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 7,
-          "name": "Burning Man",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 8,
-          "name": "Up on the Ridge",
-          "set_name": "Main Set",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 9,
-          "name": "5-1-5-0",
+          "name": "All I Need",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
@@ -247,15 +101,15 @@
         },
         {
           "position": 10,
-          "name": "Sold (The Grundy County Auction Incident)",
+          "name": "All I Want to Do",
           "set_name": "Main Set",
           "encore": 0,
-          "is_cover": true,
-          "cover_artist": "John Michael Montgomery"
+          "is_cover": false,
+          "cover_artist": null
         },
         {
           "position": 11,
-          "name": "Riser",
+          "name": "Everyday America",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
@@ -263,7 +117,7 @@
         },
         {
           "position": 12,
-          "name": "Different for Girls",
+          "name": "Stay",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
@@ -271,15 +125,15 @@
         },
         {
           "position": 13,
-          "name": "Am I the Only One",
+          "name": "Who Says You Can't Go Home",
           "set_name": "Main Set",
           "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
+          "is_cover": true,
+          "cover_artist": "Bon Jovi"
         },
         {
           "position": 14,
-          "name": "My Religion",
+          "name": "Something More",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
@@ -287,15 +141,145 @@
         },
         {
           "position": 15,
-          "name": "Say You Do",
+          "name": "Walking on Sunshine",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Katrina and the Waves"
+        }
+      ]
+    },
+    {
+      "artist_id": "f45da029-7b00-4bf3-962c-0eeb20309cc4",
+      "artist_name": "Keith Urban",
+      "artist_role": "headliner",
+      "setlistfm_url": "https://www.setlist.fm/setlist/keith-urban/2009/madison-square-garden-new-york-ny-63d7ee47.html",
+      "song_count": 22,
+      "has_encore": true,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Hit the Ground Runnin'",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
           "cover_artist": null
         },
         {
+          "position": 2,
+          "name": "Days Go By",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 3,
+          "name": "Stupid Boy",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 4,
+          "name": "Where the Blacktop Ends",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 5,
+          "name": "You're My Better Half",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 6,
+          "name": "Once in a Lifetime",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 7,
+          "name": "Making Memories of Us",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "The Notorious Cherry Bombs"
+        },
+        {
+          "position": 8,
+          "name": "Only You Can Love Me This Way",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 9,
+          "name": "Who Do You Love?",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Bo Diddley"
+        },
+        {
+          "position": 10,
+          "name": "Who Wouldn't Wanna Be Me",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 11,
+          "name": "Sweet Thing",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 12,
+          "name": "'Til Summer Comes Around",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 13,
+          "name": "Thank You",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 14,
+          "name": "Raining on Sunday",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Radney Foster"
+        },
+        {
+          "position": 15,
+          "name": "Seven Bridges Road",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Steve Young"
+        },
+        {
           "position": 16,
-          "name": "Living",
+          "name": "Kiss a Girl",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
@@ -303,7 +287,7 @@
         },
         {
           "position": 17,
-          "name": "What Was I Thinkin'",
+          "name": "I Told You So",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
@@ -311,7 +295,7 @@
         },
         {
           "position": 18,
-          "name": "Sideways",
+          "name": "You'll Think of Me",
           "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
@@ -319,17 +303,41 @@
         },
         {
           "position": 19,
-          "name": "Drunk on a Plane",
+          "name": "You Look Good in My Shirt",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 20,
+          "name": "Somebody Like You",
+          "set_name": "Main Set",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 21,
+          "name": "Tonight I Wanna Cry",
+          "set_name": "Main Set",
+          "encore": 1,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 22,
+          "name": "Better Life",
           "set_name": "Main Set",
           "encore": 1,
           "is_cover": false,
           "cover_artist": null
         }
       ],
-      "tour_name": "Mountain High Tour"
+      "tour_name": "Escape Together World Tour"
     }
   ],
-  "total_song_count": 34,
+  "total_song_count": 37,
   "has_encore": true,
-  "tour_name": "Mountain High Tour"
+  "tour_name": "Escape Together World Tour"
 }

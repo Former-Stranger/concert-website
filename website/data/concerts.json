@@ -10567,9 +10567,9 @@
     "venue": "Madison Square Garden",
     "city": "New York",
     "state": "NY",
-    "artists": "Keith Urban with Sugarland",
-    "hasSetlist": false,
-    "setlist_status": "not_researched"
+    "artists": "Keith Urban",
+    "hasSetlist": true,
+    "setlist_status": "has_setlist"
   },
   {
     "id": "397",

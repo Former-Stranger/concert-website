@@ -1,27 +1,27 @@
 {
   "id": "316",
   "name": "Keith Urban",
-  "concert_count": 18,
+  "concert_count": 19,
   "top_songs": [
     {
       "name": "Long Hot Summer",
       "times_played": 14
     },
     {
-      "name": "Somewhere in My Car",
-      "times_played": 13
-    },
-    {
       "name": "Somebody Like You",
-      "times_played": 13
+      "times_played": 14
     },
     {
       "name": "Stupid Boy",
-      "times_played": 13
+      "times_played": 14
     },
     {
       "name": "Days Go By",
-      "times_played": 12
+      "times_played": 13
+    },
+    {
+      "name": "Somewhere in My Car",
+      "times_played": 13
     },
     {
       "name": "Blue Ain't Your Color",
@@ -41,7 +41,7 @@
     },
     {
       "name": "You Look Good in My Shirt",
-      "times_played": 8
+      "times_played": 9
     }
   ],
   "concerts": [
@@ -275,6 +275,19 @@
       "city": "Oakdale",
       "state": "NY",
       "role": "festival_performer",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "398",
+      "show_number": 397,
+      "date": "2009-10-08",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
