@@ -1,9 +1,20 @@
 Please perform a comprehensive project review:
 
-1. Review all documentation files (README, docs, etc.) to understand the project's purpose and setup
-2. Examine the project structure and key files to understand the architecture and implementation
-3. Analyze the last 3 git commits to understand recent changes and development direction
-4. Provide a summary of:
+**FIRST: Read the comprehensive handoff document**
+1. Read `CLAUDE_HANDOFF.md` in its entirety - this contains complete project documentation including:
+   - Full architecture and data flow diagrams
+   - All key files with line number references
+   - Critical systems (multi-artist support, fuzzy matching, caching)
+   - Common tasks and workflows
+   - Known issues and solutions
+   - Development patterns and conventions
+   - Testing and debugging procedures
+
+**THEN: Perform additional analysis**
+2. Review any other documentation files (README, docs, etc.) for supplementary information
+3. Examine the project structure and key files to understand current implementation
+4. Analyze the last 3 git commits to understand recent changes and development direction
+5. Provide a summary of:
    - What this project does
    - Key technologies and architecture
    - Recent development activity and changes
