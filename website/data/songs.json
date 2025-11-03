@@ -9036,11 +9036,6 @@
       "is_mostly_cover": true
     },
     {
-      "name": "Stay a Little Longer",
-      "times_heard": 3,
-      "is_mostly_cover": true
-    },
-    {
       "name": "You Were Always on My Mind",
       "times_heard": 3,
       "is_mostly_cover": true
@@ -13089,6 +13084,11 @@
       "name": "Under the Red Sky",
       "times_heard": 2,
       "is_mostly_cover": false
+    },
+    {
+      "name": "Stay a Little Longer",
+      "times_heard": 2,
+      "is_mostly_cover": true
     },
     {
       "name": "Funny How Time Slips Away / Crazy / Night Life",
@@ -17699,11 +17699,6 @@
       "name": "Romeo and Juliet",
       "times_heard": 2,
       "is_mostly_cover": true
-    },
-    {
-      "name": "Greener Pastures",
-      "times_heard": 2,
-      "is_mostly_cover": false
     },
     {
       "name": "Jackson Park Express",
@@ -36836,6 +36831,11 @@
       "is_mostly_cover": false
     },
     {
+      "name": "Greener Pastures",
+      "times_heard": 1,
+      "is_mostly_cover": true
+    },
+    {
       "name": "Dear Hate",
       "times_heard": 1,
       "is_mostly_cover": false
@@ -37716,41 +37716,6 @@
       "is_mostly_cover": true
     },
     {
-      "name": "Shoot Me Straight",
-      "times_heard": 1,
-      "is_mostly_cover": false
-    },
-    {
-      "name": "Down Home",
-      "times_heard": 1,
-      "is_mostly_cover": false
-    },
-    {
-      "name": "Rum",
-      "times_heard": 1,
-      "is_mostly_cover": false
-    },
-    {
-      "name": "21 Summer",
-      "times_heard": 1,
-      "is_mostly_cover": false
-    },
-    {
-      "name": "I Don't Remember Me (Before You)",
-      "times_heard": 1,
-      "is_mostly_cover": false
-    },
-    {
-      "name": "Drank Like Hank",
-      "times_heard": 1,
-      "is_mostly_cover": false
-    },
-    {
-      "name": "It Ain't My Fault",
-      "times_heard": 1,
-      "is_mostly_cover": false
-    },
-    {
       "name": "The Mountain",
       "times_heard": 1,
       "is_mostly_cover": false
@@ -37762,6 +37727,36 @@
     },
     {
       "name": "My Religion",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Trouble Maker",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Long Live Tonight",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Pick You Up",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Born to Love You",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Singin' at the Stars",
+      "times_heard": 1,
+      "is_mostly_cover": false
+    },
+    {
+      "name": "Greatest Love Story",
       "times_heard": 1,
       "is_mostly_cover": false
     },
@@ -42004,6 +41999,12 @@
         "times": 2
       }
     ],
+    "Dierks Bentley": [
+      {
+        "song": "Sideways",
+        "times": 2
+      }
+    ],
     "ELO": [
       {
         "song": "Mr. Blue Sky",
@@ -44199,7 +44200,13 @@
         "song": "Guitar Man",
         "times": 2
       }
+    ],
+    "Dierks Bentley": [
+      {
+        "song": "Drunk on a Plane",
+        "times": 2
+      }
     ]
   },
-  "total_unique_songs": 8078
+  "total_unique_songs": 8077
 }

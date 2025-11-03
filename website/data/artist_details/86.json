@@ -2,48 +2,7 @@
   "id": "86",
   "name": "Brothers Osborne",
   "concert_count": 3,
-  "top_songs": [
-    {
-      "name": "Shoot Me Straight",
-      "times_played": 1
-    },
-    {
-      "name": "Down Home",
-      "times_played": 1
-    },
-    {
-      "name": "Rum",
-      "times_played": 1
-    },
-    {
-      "name": "Greener Pastures",
-      "times_played": 1
-    },
-    {
-      "name": "21 Summer",
-      "times_played": 1
-    },
-    {
-      "name": "I Don't Remember Me (Before You)",
-      "times_played": 1
-    },
-    {
-      "name": "Drank Like Hank",
-      "times_played": 1
-    },
-    {
-      "name": "Stay a Little Longer",
-      "times_played": 1
-    },
-    {
-      "name": "It Ain't My Fault",
-      "times_played": 1
-    },
-    {
-      "name": "The Mountain",
-      "times_played": 1
-    }
-  ],
+  "top_songs": [],
   "concerts": [
     {
       "id": "1012",
@@ -75,11 +34,11 @@
       "id": "859",
       "show_number": 858,
       "date": "2018-09-08",
-      "festival_name": "Multi-Artist Show",
+      "festival_name": null,
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
-      "role": "festival_performer",
+      "role": "opener",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null

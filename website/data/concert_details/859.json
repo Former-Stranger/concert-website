@@ -2,18 +2,22 @@
   "id": "859",
   "show_number": 858,
   "date": "2018-09-08",
-  "festival_name": "Multi-Artist Show",
+  "festival_name": null,
   "venue": "Madison Square Garden",
   "city": "New York",
   "state": "NY",
   "artists": [
     {
       "name": "Dierks Bentley",
-      "role": "festival_performer"
+      "role": "headliner"
+    },
+    {
+      "name": "LANCO",
+      "role": "opener"
     },
     {
       "name": "Brothers Osborne",
-      "role": "festival_performer"
+      "role": "opener"
     }
   ],
   "photos": [],
@@ -22,79 +26,65 @@
     {
       "artist_id": "86",
       "artist_name": "Brothers Osborne",
-      "artist_role": "festival_performer",
-      "setlistfm_url": "https://www.setlist.fm/setlist/brothers-osborne/2018/madison-square-garden-new-york-ny-be9ad7e.html",
-      "song_count": 9,
+      "artist_role": "opener",
+      "setlistfm_url": null,
+      "song_count": 0,
+      "has_encore": false,
+      "songs": [],
+      "tour_name": "Mountain High Tour"
+    },
+    {
+      "artist_id": "bc4c4098-32b1-4881-9d38-659637de0692",
+      "artist_name": "LANCO",
+      "artist_role": "opener",
+      "setlistfm_url": "https://www.setlist.fm/setlist/lanco/2018/madison-square-garden-new-york-ny-3e9ad5f.html",
+      "song_count": 6,
       "has_encore": false,
       "songs": [
         {
           "position": 1,
-          "name": "Shoot Me Straight",
-          "set_name": "Set 1",
+          "name": "Trouble Maker",
+          "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
           "cover_artist": null
         },
         {
           "position": 2,
-          "name": "Down Home",
-          "set_name": "Set 1",
+          "name": "Long Live Tonight",
+          "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
           "cover_artist": null
         },
         {
           "position": 3,
-          "name": "Rum",
-          "set_name": "Set 1",
+          "name": "Pick You Up",
+          "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
           "cover_artist": null
         },
         {
           "position": 4,
-          "name": "Greener Pastures",
-          "set_name": "Set 1",
+          "name": "Born to Love You",
+          "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
           "cover_artist": null
         },
         {
           "position": 5,
-          "name": "21 Summer",
-          "set_name": "Set 1",
+          "name": "Singin' at the Stars",
+          "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
           "cover_artist": null
         },
         {
           "position": 6,
-          "name": "I Don't Remember Me (Before You)",
-          "set_name": "Set 1",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 7,
-          "name": "Drank Like Hank",
-          "set_name": "Set 1",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 8,
-          "name": "Stay a Little Longer",
-          "set_name": "Set 1",
-          "encore": 0,
-          "is_cover": false,
-          "cover_artist": null
-        },
-        {
-          "position": 9,
-          "name": "It Ain't My Fault",
-          "set_name": "Set 1",
+          "name": "Greatest Love Story",
+          "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
           "cover_artist": null
@@ -103,17 +93,17 @@
       "tour_name": "Mountain High Tour"
     },
     {
-      "artist_id": "171",
+      "artist_id": "6bd7faa9-601f-44db-a2a6-239209f83156",
       "artist_name": "Dierks Bentley",
-      "artist_role": "festival_performer",
+      "artist_role": "headliner",
       "setlistfm_url": "https://www.setlist.fm/setlist/dierks-bentley/2018/madison-square-garden-new-york-ny-1be9ad7c.html",
       "song_count": 19,
-      "has_encore": false,
+      "has_encore": true,
       "songs": [
         {
           "position": 1,
           "name": "The Mountain",
-          "set_name": "Set 1",
+          "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
           "cover_artist": null
@@ -121,7 +111,7 @@
         {
           "position": 2,
           "name": "I Hold On",
-          "set_name": "Set 1",
+          "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
           "cover_artist": null
@@ -129,7 +119,7 @@
         {
           "position": 3,
           "name": "Free and Easy (Down the Road I Go)",
-          "set_name": "Set 1",
+          "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
           "cover_artist": null
@@ -137,7 +127,7 @@
         {
           "position": 4,
           "name": "Somewhere on a Beach",
-          "set_name": "Set 1",
+          "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
           "cover_artist": null
@@ -145,7 +135,7 @@
         {
           "position": 5,
           "name": "Woman, Amen",
-          "set_name": "Set 1",
+          "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
           "cover_artist": null
@@ -153,7 +143,7 @@
         {
           "position": 6,
           "name": "Black",
-          "set_name": "Set 1",
+          "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
           "cover_artist": null
@@ -161,16 +151,15 @@
         {
           "position": 7,
           "name": "Burning Man",
-          "set_name": "Set 1",
+          "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
-          "cover_artist": null,
-          "guest_artist": "Brothers Osborne"
+          "cover_artist": null
         },
         {
           "position": 8,
           "name": "Up on the Ridge",
-          "set_name": "Set 1",
+          "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
           "cover_artist": null
@@ -178,7 +167,7 @@
         {
           "position": 9,
           "name": "5-1-5-0",
-          "set_name": "Set 1",
+          "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
           "cover_artist": null
@@ -186,7 +175,7 @@
         {
           "position": 10,
           "name": "Sold (The Grundy County Auction Incident)",
-          "set_name": "Set 1",
+          "set_name": "Main Set",
           "encore": 0,
           "is_cover": true,
           "cover_artist": "John Michael Montgomery"
@@ -194,7 +183,7 @@
         {
           "position": 11,
           "name": "Riser",
-          "set_name": "Set 1",
+          "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
           "cover_artist": null
@@ -202,7 +191,7 @@
         {
           "position": 12,
           "name": "Different for Girls",
-          "set_name": "Set 1",
+          "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
           "cover_artist": null
@@ -210,7 +199,7 @@
         {
           "position": 13,
           "name": "Am I the Only One",
-          "set_name": "Set 1",
+          "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
           "cover_artist": null
@@ -218,7 +207,7 @@
         {
           "position": 14,
           "name": "My Religion",
-          "set_name": "Set 1",
+          "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
           "cover_artist": null
@@ -226,7 +215,7 @@
         {
           "position": 15,
           "name": "Say You Do",
-          "set_name": "Set 1",
+          "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
           "cover_artist": null
@@ -234,7 +223,7 @@
         {
           "position": 16,
           "name": "Living",
-          "set_name": "Set 1",
+          "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
           "cover_artist": null
@@ -242,7 +231,7 @@
         {
           "position": 17,
           "name": "What Was I Thinkin'",
-          "set_name": "Set 1",
+          "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
           "cover_artist": null
@@ -250,7 +239,7 @@
         {
           "position": 18,
           "name": "Sideways",
-          "set_name": "Set 1",
+          "set_name": "Main Set",
           "encore": 0,
           "is_cover": false,
           "cover_artist": null
@@ -258,8 +247,8 @@
         {
           "position": 19,
           "name": "Drunk on a Plane",
-          "set_name": "Set 2",
-          "encore": 0,
+          "set_name": "Main Set",
+          "encore": 1,
           "is_cover": false,
           "cover_artist": null
         }
@@ -267,7 +256,7 @@
       "tour_name": "Mountain High Tour"
     }
   ],
-  "total_song_count": 28,
-  "has_encore": false,
+  "total_song_count": 25,
+  "has_encore": true,
   "tour_name": "Mountain High Tour"
 }
