@@ -1,7 +1,7 @@
 {
   "id": "86",
   "name": "Brothers Osborne",
-  "concert_count": 2,
+  "concert_count": 3,
   "top_songs": [
     {
       "name": "Shoot Me Straight",
@@ -52,6 +52,19 @@
       "festival_name": null,
       "venue": "Capitol Theatre",
       "city": "Port Chester",
+      "state": "NY",
+      "role": "headliner",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "893",
+      "show_number": 892,
+      "date": "2019-01-23",
+      "festival_name": null,
+      "venue": "Terminal 5",
+      "city": "New York",
       "state": "NY",
       "role": "headliner",
       "has_setlist": false,
