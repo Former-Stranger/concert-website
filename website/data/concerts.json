@@ -3175,9 +3175,9 @@
     "venue": "Capitol Theatre",
     "city": "Port Chester",
     "state": "NY",
-    "artists": "Brothers Osbourne",
-    "hasSetlist": false,
-    "setlist_status": "not_researched"
+    "artists": "Brothers Osborne",
+    "hasSetlist": true,
+    "setlist_status": "verified_none_on_setlistfm"
   },
   {
     "id": "1011",
@@ -4615,9 +4615,9 @@
     "venue": "Terminal 5",
     "city": "New York",
     "state": "NY",
-    "artists": "Brothers Osbourne",
-    "hasSetlist": false,
-    "setlist_status": "not_researched"
+    "artists": "Brothers Osborne",
+    "hasSetlist": true,
+    "setlist_status": "verified_none_on_setlistfm"
   },
   {
     "id": "892",

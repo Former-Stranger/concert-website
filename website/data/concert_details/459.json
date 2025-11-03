@@ -18,138 +18,157 @@
   ],
   "photos": [],
   "photo_count": 0,
-  "setlistfm_url": "https://www.setlist.fm/setlist/furthur/2010/madison-square-garden-new-york-ny-73d2be95.html",
-  "song_count": 16,
-  "has_encore": true,
-  "songs": [
+  "setlists": [
     {
-      "position": 1,
-      "name": "Help on the Way",
-      "set_name": "Set One",
-      "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Grateful Dead"
+      "artist_id": "e477d9c0-1f35-40f7-ad1a-b915d2523b84",
+      "artist_name": "Dark Star Orchestra",
+      "artist_role": "headliner",
+      "setlistfm_url": "https://www.setlist.fm/setlist/dark-star-orchestra/2010/madison-square-garden-new-york-ny-23b1c0d3.html",
+      "song_count": 0,
+      "has_encore": false,
+      "songs": []
     },
     {
-      "position": 2,
-      "name": "Slipknot!",
-      "set_name": "Set One",
-      "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Grateful Dead"
-    },
-    {
-      "position": 3,
-      "name": "Shakedown Street",
-      "set_name": "Set One",
-      "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Grateful Dead"
-    },
-    {
-      "position": 4,
-      "name": "Jack Straw",
-      "set_name": "Set One",
-      "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Grateful Dead"
-    },
-    {
-      "position": 5,
-      "name": "El Paso",
-      "set_name": "Set One",
-      "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Marty Robbins"
-    },
-    {
-      "position": 6,
-      "name": "Wharf Rat",
-      "set_name": "Set One",
-      "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Grateful Dead"
-    },
-    {
-      "position": 7,
-      "name": "Two Djinn",
-      "set_name": "Set One",
-      "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Ratdog"
-    },
-    {
-      "position": 8,
-      "name": "Terrapin Station",
-      "set_name": "Set One",
-      "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Grateful Dead"
-    },
-    {
-      "position": 9,
-      "name": "The Mountain Song",
-      "set_name": "Set Two",
-      "encore": 0,
-      "is_cover": false,
-      "cover_artist": null
-    },
-    {
-      "position": 10,
-      "name": "Dark Star",
-      "set_name": "Set Two",
-      "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Grateful Dead"
-    },
-    {
-      "position": 11,
-      "name": "The Other One",
-      "set_name": "Set Two",
-      "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Grateful Dead"
-    },
-    {
-      "position": 12,
-      "name": "St. Stephen",
-      "set_name": "Set Two",
-      "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Grateful Dead"
-    },
-    {
-      "position": 13,
-      "name": "The Eleven",
-      "set_name": "Set Two",
-      "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Grateful Dead"
-    },
-    {
-      "position": 14,
-      "name": "Death Don't Have No Mercy",
-      "set_name": "Set Two",
-      "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Reverend Gary Davis"
-    },
-    {
-      "position": 15,
-      "name": "Franklin's Tower",
-      "set_name": "Set Two",
-      "encore": 0,
-      "is_cover": true,
-      "cover_artist": "Grateful Dead"
-    },
-    {
-      "position": 16,
-      "name": "One More Saturday Night",
-      "set_name": "Main Set",
-      "encore": 1,
-      "is_cover": true,
-      "cover_artist": "Bob Weir"
+      "artist_id": "39e07389-bbc0-4629-9ceb-dbd0d13b85fe",
+      "artist_name": "Furthur",
+      "artist_role": "headliner",
+      "setlistfm_url": "https://www.setlist.fm/setlist/furthur/2010/madison-square-garden-new-york-ny-73d2be95.html",
+      "song_count": 16,
+      "has_encore": true,
+      "songs": [
+        {
+          "position": 1,
+          "name": "Help on the Way",
+          "set_name": "Set One",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 2,
+          "name": "Slipknot!",
+          "set_name": "Set One",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 3,
+          "name": "Shakedown Street",
+          "set_name": "Set One",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 4,
+          "name": "Jack Straw",
+          "set_name": "Set One",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 5,
+          "name": "El Paso",
+          "set_name": "Set One",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Marty Robbins"
+        },
+        {
+          "position": 6,
+          "name": "Wharf Rat",
+          "set_name": "Set One",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 7,
+          "name": "Two Djinn",
+          "set_name": "Set One",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Ratdog"
+        },
+        {
+          "position": 8,
+          "name": "Terrapin Station",
+          "set_name": "Set One",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 9,
+          "name": "The Mountain Song",
+          "set_name": "Set Two",
+          "encore": 0,
+          "is_cover": false,
+          "cover_artist": null
+        },
+        {
+          "position": 10,
+          "name": "Dark Star",
+          "set_name": "Set Two",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 11,
+          "name": "The Other One",
+          "set_name": "Set Two",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 12,
+          "name": "St. Stephen",
+          "set_name": "Set Two",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 13,
+          "name": "The Eleven",
+          "set_name": "Set Two",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 14,
+          "name": "Death Don't Have No Mercy",
+          "set_name": "Set Two",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Reverend Gary Davis"
+        },
+        {
+          "position": 15,
+          "name": "Franklin's Tower",
+          "set_name": "Set Two",
+          "encore": 0,
+          "is_cover": true,
+          "cover_artist": "Grateful Dead"
+        },
+        {
+          "position": 16,
+          "name": "One More Saturday Night",
+          "set_name": "Main Set",
+          "encore": 1,
+          "is_cover": true,
+          "cover_artist": "Bob Weir"
+        }
+      ],
+      "tour_name": "2010 Fall Tour"
     }
   ],
+  "total_song_count": 16,
+  "has_encore": true,
   "tour_name": "2010 Fall Tour"
 }

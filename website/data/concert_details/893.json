@@ -1,0 +1,45 @@
+{
+  "id": "893",
+  "show_number": 892,
+  "date": "2019-01-23",
+  "festival_name": null,
+  "venue": "Terminal 5",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Brothers Osborne",
+      "role": "headliner"
+    },
+    {
+      "name": "The Wild Feathers",
+      "role": "opener"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlists": [
+    {
+      "artist_id": "a4cc0286-3f4f-476c-b64d-ffae2cc8eda8",
+      "artist_name": "The Wild Feathers",
+      "artist_role": "opener",
+      "setlistfm_url": "https://www.setlist.fm/setlist/the-wild-feathers/2019/terminal-5-new-york-ny-7baf6ea4.html",
+      "song_count": 0,
+      "has_encore": false,
+      "songs": []
+    },
+    {
+      "artist_id": "7a502bfc-4cab-4dc8-a618-b12aca7258e7",
+      "artist_name": "Brothers Osborne",
+      "artist_role": "headliner",
+      "setlistfm_url": "https://www.setlist.fm/setlist/brothers-osborne/2019/terminal-5-new-york-ny-43911b6b.html",
+      "song_count": 0,
+      "has_encore": false,
+      "songs": [],
+      "tour_name": "Mountain High Tour"
+    }
+  ],
+  "total_song_count": 0,
+  "has_encore": false,
+  "tour_name": "Mountain High Tour"
+}
