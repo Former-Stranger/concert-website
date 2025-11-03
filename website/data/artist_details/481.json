@@ -53,6 +53,7 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -65,6 +66,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -77,6 +79,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -89,6 +92,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -101,6 +105,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -113,6 +118,7 @@
       "venue": "XL Center",
       "city": "Hartford",
       "state": "CT",
+      "role": "headliner",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null

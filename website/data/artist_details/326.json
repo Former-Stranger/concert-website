@@ -53,6 +53,7 @@
       "venue": "Webster Hall",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -65,6 +66,7 @@
       "venue": "Terminal 5",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null
@@ -77,6 +79,7 @@
       "venue": "Mayo Performing Arts Center",
       "city": "Morristown",
       "state": "NJ",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -89,6 +92,7 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -101,6 +105,7 @@
       "venue": "Hammerstein Ballroom",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -113,6 +118,7 @@
       "venue": "Terminal 5",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null

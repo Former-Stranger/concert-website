@@ -12,6 +12,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null
@@ -24,6 +25,7 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null

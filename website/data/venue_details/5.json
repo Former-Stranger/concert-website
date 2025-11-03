@@ -29,9 +29,9 @@
       "id": "1059",
       "show_number": 1058,
       "date": "2022-09-18",
-      "festival_name": null,
-      "artists": "Sea Hear Now (Green Day)",
-      "has_setlist": false,
+      "festival_name": "Sea.Hear.Now",
+      "artists": "Green Day",
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -60,7 +60,7 @@
       "show_number": 987,
       "date": "2021-09-18",
       "festival_name": "Multi-Artist Show",
-      "artists": "Sea Hear Now (Pearl Jam, Avetts, Patti Smith)",
+      "artists": "Sea Hear Now (Pearl Jam, Avetts, Patti Smith",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null

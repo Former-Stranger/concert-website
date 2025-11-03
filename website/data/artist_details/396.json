@@ -53,6 +53,7 @@
       "venue": "XL Center",
       "city": "Hartford",
       "state": "CT",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -65,6 +66,7 @@
       "venue": "Ice Arena Tampa, FL",
       "city": "Tampa Bay",
       "state": "FL",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null

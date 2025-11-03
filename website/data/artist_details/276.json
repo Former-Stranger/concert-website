@@ -1,7 +1,21 @@
 {
-  "id": 276,
+  "id": "276",
   "name": "Jewel",
-  "concert_count": 0,
+  "concert_count": 1,
   "top_songs": [],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "30",
+      "show_number": 29,
+      "date": "1996-08-26",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY",
+      "role": "opener",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
 }

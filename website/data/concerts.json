@@ -489,7 +489,7 @@
     "state": "NY",
     "artists": "SNL Concert",
     "hasSetlist": false,
-    "setlist_status": "not_researched"
+    "setlist_status": "verified_without_setlist"
   },
   {
     "id": "1235",
@@ -571,7 +571,7 @@
     "venue": "Beacon Theatre",
     "city": "New York",
     "state": "NY",
-    "artists": "Govt Mule",
+    "artists": "Gov't Mule",
     "hasSetlist": true,
     "setlist_status": "has_setlist"
   },
@@ -1203,13 +1203,13 @@
     "id": "1176",
     "show_number": 1175,
     "date": "2024-06-29",
-    "festival_name": "Outlaw Festival",
+    "festival_name": "Outlaw Music Festival Tour",
     "venue": "Jones Beach Theater",
     "city": "Wantagh",
     "state": "NY",
-    "artists": "Willie Nelson, Bob Dylan, Robert Plant",
+    "artists": "Lukas Nelson",
     "hasSetlist": true,
-    "setlist_status": "not_researched"
+    "setlist_status": "has_setlist"
   },
   {
     "id": "1175",
@@ -2035,7 +2035,7 @@
     "venue": "PNC Park",
     "city": "Pittsburgh",
     "state": "PA",
-    "artists": "Govt Mule, JBLZE",
+    "artists": "Gov't Mule, JBLZE",
     "hasSetlist": true,
     "setlist_status": "has_setlist"
   },
@@ -2347,7 +2347,7 @@
     "venue": "Gramercy Theater",
     "city": "New York",
     "state": "NY",
-    "artists": "Will Hoge, Wild Feathers",
+    "artists": "Will Hoge, The Wild Feathers",
     "hasSetlist": true,
     "setlist_status": "not_researched"
   },
@@ -2503,9 +2503,9 @@
     "venue": "Beacon Theatre",
     "city": "New York",
     "state": "NY",
-    "artists": "U2:  Bono",
-    "hasSetlist": false,
-    "setlist_status": "not_researched"
+    "artists": "Bono",
+    "hasSetlist": true,
+    "setlist_status": "has_setlist"
   },
   {
     "id": "1067",
@@ -2607,13 +2607,13 @@
     "id": "1059",
     "show_number": 1058,
     "date": "2022-09-18",
-    "festival_name": null,
+    "festival_name": "Sea.Hear.Now",
     "venue": "Asbury Park Beach",
     "city": "Asbury Park",
     "state": "NJ",
-    "artists": "Sea Hear Now (Green Day)",
-    "hasSetlist": false,
-    "setlist_status": "not_researched"
+    "artists": "Green Day",
+    "hasSetlist": true,
+    "setlist_status": "has_setlist"
   },
   {
     "id": "1058",
@@ -2887,7 +2887,7 @@
     "venue": "Xfinity Center",
     "city": "Mansfield",
     "state": "MA",
-    "artists": "Dead & Company",
+    "artists": "DEAD:  Dead",
     "hasSetlist": true,
     "setlist_status": "has_setlist"
   },
@@ -3079,7 +3079,7 @@
     "venue": "UBS Arena",
     "city": "Elmont",
     "state": "NY",
-    "artists": "The Eagles",
+    "artists": "Eagles",
     "hasSetlist": true,
     "setlist_status": "has_setlist"
   },
@@ -3463,7 +3463,7 @@
     "venue": "Asbury Park Beach",
     "city": "Asbury Park",
     "state": "NJ",
-    "artists": "Sea Hear Now (Pearl Jam, Avetts, Patti Smith)",
+    "artists": "Sea Hear Now (Pearl Jam, Avetts, Patti Smith",
     "hasSetlist": true,
     "setlist_status": "not_researched"
   },
@@ -3859,7 +3859,7 @@
     "venue": "The Theater at Madison Square Garden",
     "city": "New York",
     "state": "NY",
-    "artists": "Bruce Springsteen - Stand Up for Heroes",
+    "artists": "Bruce Springsteen: Stand Up For Heroes",
     "hasSetlist": true,
     "setlist_status": "has_setlist"
   },
@@ -4147,7 +4147,7 @@
     "venue": "Stubb's Bar-B-Q",
     "city": "Austin",
     "state": "TX",
-    "artists": "Govt Mule",
+    "artists": "Gov't Mule",
     "hasSetlist": true,
     "setlist_status": "has_setlist"
   },
@@ -4471,7 +4471,7 @@
     "venue": "Hard Rock Hotel New York",
     "city": "New York",
     "state": "NY",
-    "artists": "O.A.R.",
+    "artists": "OAR",
     "hasSetlist": true,
     "setlist_status": "has_setlist"
   },
@@ -5239,7 +5239,7 @@
     "venue": "Jones Beach Theater",
     "city": "Wantagh",
     "state": "NY",
-    "artists": "Govt Mule, Avetts",
+    "artists": "Gov't Mule, Avetts",
     "hasSetlist": true,
     "setlist_status": "has_setlist"
   },
@@ -5443,7 +5443,7 @@
     "venue": "Capitol Theatre",
     "city": "Port Chester",
     "state": "NY",
-    "artists": "Govt Mule",
+    "artists": "Gov't Mule",
     "hasSetlist": true,
     "setlist_status": "has_setlist"
   },
@@ -8155,7 +8155,7 @@
     "venue": "Madison Square Garden",
     "city": "New York",
     "state": "NY",
-    "artists": "The Eagles",
+    "artists": "Eagles",
     "hasSetlist": true,
     "setlist_status": "has_setlist"
   },
@@ -9398,14 +9398,14 @@
   {
     "id": "495",
     "show_number": 494,
-    "date": "2011-11-19",
+    "date": "2011-11-18",
     "festival_name": null,
     "venue": "Beacon Theatre",
     "city": "New York",
     "state": "NY",
     "artists": "John Fogerty",
-    "hasSetlist": false,
-    "setlist_status": "not_researched"
+    "hasSetlist": true,
+    "setlist_status": "has_setlist"
   },
   {
     "id": "494",
@@ -9571,7 +9571,7 @@
     "venue": "Gramercy Theatre",
     "city": "New York",
     "state": "NY",
-    "artists": "Lee DeWyze",
+    "artists": "Lee Dewyze",
     "hasSetlist": false,
     "setlist_status": "not_researched"
   },
@@ -11179,7 +11179,7 @@
     "venue": "Ives Concert Park",
     "city": "Danbury",
     "state": "CT",
-    "artists": "The Beach Boys",
+    "artists": "Beach Boys",
     "hasSetlist": true,
     "setlist_status": "has_setlist"
   },
@@ -11263,7 +11263,7 @@
     "venue": "Madison Square Garden",
     "city": "New York",
     "state": "NY",
-    "artists": "The Eagles",
+    "artists": "Eagles",
     "hasSetlist": true,
     "setlist_status": "has_setlist"
   },
@@ -12151,7 +12151,7 @@
     "venue": "Madison Square Garden",
     "city": "New York",
     "state": "NY",
-    "artists": "Tom Petty & the Heartbreakers",
+    "artists": "Tom Petty & The Heartbreakers",
     "hasSetlist": true,
     "setlist_status": "has_setlist"
   },
@@ -12619,7 +12619,7 @@
     "venue": "Izod Center",
     "city": "East Rutherford",
     "state": "NJ",
-    "artists": "The Eagles",
+    "artists": "Eagles",
     "hasSetlist": true,
     "setlist_status": "has_setlist"
   },
@@ -13567,7 +13567,7 @@
     "venue": "Madison Square Garden",
     "city": "New York",
     "state": "NY",
-    "artists": "Concert for New York (David Bowie, Bon Jovi, Goo Goo Dolls, Eric Clapton, Destiny's Child, Backstreet Boys, Elton John, Billy Joel, James Taylor, Paul McCartney, Melissa Etheridge, The Who, Mick Jagger/Keith Richards, John Mellencamp)",
+    "artists": "Concert for New York (David Bowie, Bon Jovi, Goo Goo Dolls, Eric Clapton, Destiny's Child, Backstreet Boys, Elton John, Billy Joel, James Taylor, Paul McCartney, Melissa Etheridge, The Who, Mick Jagger/Keith Richards, John Mellencamp",
     "hasSetlist": false,
     "setlist_status": "not_researched"
   },
@@ -14251,7 +14251,7 @@
     "venue": "Jones Beach Theater",
     "city": "Wantagh",
     "state": "NY",
-    "artists": "Tom Petty & the Heartbreakers",
+    "artists": "Tom Petty & The Heartbreakers",
     "hasSetlist": true,
     "setlist_status": "has_setlist"
   },
@@ -14263,7 +14263,7 @@
     "venue": "PNC Bank Arts Center",
     "city": "Holmdel",
     "state": "NJ",
-    "artists": "Tom Petty & the Heartbreakers",
+    "artists": "Tom Petty & The Heartbreakers",
     "hasSetlist": true,
     "setlist_status": "has_setlist"
   },
@@ -14299,7 +14299,7 @@
     "venue": "Irving Plaza",
     "city": "New York",
     "state": "NY",
-    "artists": "Tom Petty & the Heartbreakers",
+    "artists": "Tom Petty & The Heartbreakers",
     "hasSetlist": true,
     "setlist_status": "has_setlist"
   },
@@ -14311,7 +14311,7 @@
     "venue": "Irving Plaza",
     "city": "New York",
     "state": "NY",
-    "artists": "Tom Petty & the Heartbreakers",
+    "artists": "Tom Petty & The Heartbreakers",
     "hasSetlist": true,
     "setlist_status": "has_setlist"
   },
@@ -15055,7 +15055,7 @@
     "venue": "Nassau Coliseum",
     "city": "Uniondale",
     "state": "NY",
-    "artists": "The Eagles",
+    "artists": "Eagles",
     "hasSetlist": true,
     "setlist_status": "has_setlist"
   },
@@ -15199,7 +15199,7 @@
     "venue": "The Meadowlands",
     "city": "East Rutherford",
     "state": "NJ",
-    "artists": "Tom Petty & the Heartbreakers",
+    "artists": "Tom Petty & The Heartbreakers",
     "hasSetlist": false,
     "setlist_status": "not_researched"
   },

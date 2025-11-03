@@ -1,9 +1,22 @@
 {
   "id": "153",
   "name": "Dave Mason",
-  "concert_count": 1,
+  "concert_count": 2,
   "top_songs": [],
   "concerts": [
+    {
+      "id": "1095",
+      "show_number": 1094,
+      "date": "2023-06-24",
+      "festival_name": null,
+      "venue": "Hartford HealthCare Amphitheater",
+      "city": "Bridgeport",
+      "state": "CT",
+      "role": "opener",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
     {
       "id": "254",
       "show_number": 253,
@@ -12,6 +25,7 @@
       "venue": "NYCB Theatre at Westbury",
       "city": "Westbury",
       "state": "NY",
+      "role": "festival_performer",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null

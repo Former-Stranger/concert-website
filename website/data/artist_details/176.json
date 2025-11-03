@@ -1,7 +1,7 @@
 {
   "id": "176",
   "name": "Donovan",
-  "concert_count": 2,
+  "concert_count": 3,
   "top_songs": [],
   "concerts": [
     {
@@ -12,6 +12,7 @@
       "venue": "Peekskill Paramount",
       "city": "Peekskill",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null
@@ -24,7 +25,21 @@
       "venue": "Paramount Hudson Valley Theater",
       "city": "Peekskill",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "223",
+      "show_number": 222,
+      "date": "2005-04-01",
+      "festival_name": null,
+      "venue": "CHI Health Center",
+      "city": "Omaha",
+      "state": "NE",
+      "role": "opener",
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     }

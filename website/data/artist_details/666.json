@@ -1,7 +1,7 @@
 {
   "id": "666",
   "name": "the Pretenders",
-  "concert_count": 2,
+  "concert_count": 3,
   "top_songs": [
     {
       "name": "Motorcycle Mama",
@@ -53,6 +53,20 @@
       "venue": "Bridgeport",
       "city": "Bridgeport",
       "state": "CT",
+      "role": "festival_performer",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "169",
+      "show_number": 168,
+      "date": "2002-09-28",
+      "festival_name": null,
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ",
+      "role": "opener",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -65,6 +79,7 @@
       "venue": "Freedom Mortgage Pavilion",
       "city": "Camden",
       "state": "NJ",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null

@@ -1,7 +1,7 @@
 {
   "id": "191",
   "name": "Elvis Costello",
-  "concert_count": 2,
+  "concert_count": 3,
   "top_songs": [
     {
       "name": "Maneater",
@@ -53,6 +53,7 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -65,6 +66,20 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
+      "role": "festival_performer",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "354",
+      "show_number": 353,
+      "date": "2008-07-03",
+      "festival_name": null,
+      "venue": "PNC Bank Arts Center",
+      "city": "Holmdel",
+      "state": "NJ",
+      "role": "opener",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null

@@ -4,43 +4,43 @@
   "concert_count": 4,
   "top_songs": [
     {
-      "name": "Rich Woman",
-      "times_played": 2
-    },
-    {
-      "name": "Fortune Teller",
-      "times_played": 2
-    },
-    {
-      "name": "Rock and Roll",
-      "times_played": 2
-    },
-    {
-      "name": "Please Read the Letter",
-      "times_played": 2
-    },
-    {
-      "name": "The Battle of Evermore",
-      "times_played": 2
-    },
-    {
-      "name": "Gone Gone Gone",
-      "times_played": 2
-    },
-    {
       "name": "Black Dog",
       "times_played": 2
     },
     {
-      "name": "Highway 61 Revisited",
+      "name": "I Can't Explain",
       "times_played": 1
     },
     {
-      "name": "Shooting Star",
+      "name": "Substitute",
       "times_played": 1
     },
     {
-      "name": "Love Sick",
+      "name": "Anyway, Anyhow, Anywhere",
+      "times_played": 1
+    },
+    {
+      "name": "Who Are You",
+      "times_played": 1
+    },
+    {
+      "name": "Another Tricky Day",
+      "times_played": 1
+    },
+    {
+      "name": "Relay",
+      "times_played": 1
+    },
+    {
+      "name": "Bargain",
+      "times_played": 1
+    },
+    {
+      "name": "Baba O'Riley",
+      "times_played": 1
+    },
+    {
+      "name": "I'm One",
       "times_played": 1
     }
   ],
@@ -49,11 +49,12 @@
       "id": "1176",
       "show_number": 1175,
       "date": "2024-06-29",
-      "festival_name": "Outlaw Festival",
+      "festival_name": "Outlaw Music Festival Tour",
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": false,
+      "role": "opener",
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -65,6 +66,7 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -77,6 +79,7 @@
       "venue": "The Theater at Madison Square Garden",
       "city": "New York",
       "state": "NY",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -89,6 +92,7 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null

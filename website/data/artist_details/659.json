@@ -12,6 +12,7 @@
       "venue": "Yonkers",
       "city": "Yonkers",
       "state": "NY",
+      "role": "festival_performer",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null
@@ -24,6 +25,7 @@
       "venue": "BB King Blues Club",
       "city": "New York",
       "state": "NY",
+      "role": "festival_performer",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null
@@ -36,6 +38,7 @@
       "venue": "Webster Theater",
       "city": "Hartford",
       "state": "CT",
+      "role": "festival_performer",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null

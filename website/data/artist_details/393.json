@@ -1,7 +1,21 @@
 {
-  "id": 393,
+  "id": "393",
   "name": "My Morning Jacket & Wilco",
-  "concert_count": 0,
+  "concert_count": 1,
   "top_songs": [],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "544",
+      "show_number": 543,
+      "date": "2013-07-19",
+      "festival_name": null,
+      "venue": "Hartford HealthCare Amphitheater",
+      "city": "Bridgeport",
+      "state": "CT",
+      "role": "opener",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
 }

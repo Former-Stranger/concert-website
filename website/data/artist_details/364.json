@@ -53,6 +53,7 @@
       "venue": "Sony Hall",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -65,6 +66,7 @@
       "venue": "City Winery",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null

@@ -1,7 +1,21 @@
 {
-  "id": 433,
+  "id": "433",
   "name": "Poison",
-  "concert_count": 0,
+  "concert_count": 1,
   "top_songs": [],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "209",
+      "show_number": 208,
+      "date": "2004-07-21",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY",
+      "role": "opener",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
 }

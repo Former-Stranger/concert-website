@@ -1,7 +1,7 @@
 {
   "id": "542",
   "name": "Steve Winwood",
-  "concert_count": 5,
+  "concert_count": 9,
   "top_songs": [
     {
       "name": "Glad",
@@ -53,7 +53,21 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
+      "role": "festival_performer",
       "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "344",
+      "show_number": 343,
+      "date": "2018-06-18",
+      "festival_name": null,
+      "venue": "Prudential Center",
+      "city": "Newark",
+      "state": "NJ",
+      "role": "opener",
+      "has_setlist": false,
       "opening_song": null,
       "closing_song": null
     },
@@ -65,6 +79,33 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
+      "role": "headliner",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "595",
+      "show_number": 594,
+      "date": "2014-09-13",
+      "festival_name": null,
+      "venue": "XL Center",
+      "city": "Hartford",
+      "state": "CT",
+      "role": "opener",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "594",
+      "show_number": 593,
+      "date": "2014-09-10",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY",
+      "role": "opener",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -77,6 +118,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -89,6 +131,20 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
+      "role": "festival_performer",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "343",
+      "show_number": 342,
+      "date": "2008-06-17",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY",
+      "role": "opener",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -101,6 +157,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null

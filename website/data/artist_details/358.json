@@ -1,7 +1,21 @@
 {
-  "id": 358,
+  "id": "358",
   "name": "Luscious Jackson",
-  "concert_count": 0,
+  "concert_count": 1,
   "top_songs": [],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "9",
+      "show_number": 8,
+      "date": "1995-06-23",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY",
+      "role": "opener",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
 }

@@ -12,6 +12,7 @@
       "venue": "Ridgefield Playhouse",
       "city": "Ridgefield",
       "state": "CT",
+      "role": "festival_performer",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null
@@ -24,6 +25,7 @@
       "venue": "Damrosch Park at Lincoln Center",
       "city": "New York",
       "state": "NY",
+      "role": "festival_performer",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null

@@ -1,7 +1,21 @@
 {
-  "id": 442,
+  "id": "442",
   "name": "Queens of the Stone Age",
-  "concert_count": 0,
+  "concert_count": 1,
   "top_songs": [],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "181",
+      "show_number": 180,
+      "date": "2003-05-20",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY",
+      "role": "opener",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
 }

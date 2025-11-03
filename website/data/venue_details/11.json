@@ -60,7 +60,7 @@
       "show_number": 1228,
       "date": "2024-12-30",
       "festival_name": null,
-      "artists": "Govt Mule",
+      "artists": "Gov't Mule",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -160,8 +160,8 @@
       "show_number": 1067,
       "date": "2022-11-02",
       "festival_name": null,
-      "artists": "U2:  Bono",
-      "has_setlist": false,
+      "artists": "Bono",
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -388,10 +388,10 @@
     {
       "id": "495",
       "show_number": 494,
-      "date": "2011-11-19",
+      "date": "2011-11-18",
       "festival_name": null,
       "artists": "John Fogerty",
-      "has_setlist": false,
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },

@@ -1,0 +1,159 @@
+{
+  "id": "1068",
+  "show_number": 1067,
+  "date": "2022-11-02",
+  "festival_name": null,
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "Bono",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/bono/2022/beacon-theatre-new-york-ny-4bbe3f06.html",
+  "song_count": 17,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "City of Blinding Lights",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "U2"
+    },
+    {
+      "position": 2,
+      "name": "Vertigo",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "U2"
+    },
+    {
+      "position": 3,
+      "name": "With or Without You",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "U2"
+    },
+    {
+      "position": 4,
+      "name": "Out of Control",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "U2"
+    },
+    {
+      "position": 5,
+      "name": "Stories for Boys",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "U2"
+    },
+    {
+      "position": 6,
+      "name": "I Will Follow",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "U2"
+    },
+    {
+      "position": 7,
+      "name": "Iris (Hold Me Close)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "U2"
+    },
+    {
+      "position": 8,
+      "name": "Gloria",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "U2"
+    },
+    {
+      "position": 9,
+      "name": "October",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "U2"
+    },
+    {
+      "position": 10,
+      "name": "Sunday Bloody Sunday",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "U2"
+    },
+    {
+      "position": 11,
+      "name": "Miss Sarajevo",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Passengers"
+    },
+    {
+      "position": 12,
+      "name": "Pride (In the Name of Love)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "U2"
+    },
+    {
+      "position": 13,
+      "name": "Where the Streets Have No Name",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "U2"
+    },
+    {
+      "position": 14,
+      "name": "Desire",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "U2"
+    },
+    {
+      "position": 15,
+      "name": "Beautiful Day",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "U2"
+    },
+    {
+      "position": 16,
+      "name": "Torna a surriento",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ernesto De Curtis"
+    },
+    {
+      "position": 17,
+      "name": "City of Blinding Lights",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "U2"
+    }
+  ],
+  "tour_name": "Stories of Surrender"
+}

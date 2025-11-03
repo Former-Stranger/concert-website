@@ -1,47 +1,47 @@
 {
   "id": "75",
   "name": "Bono",
-  "concert_count": 1,
+  "concert_count": 2,
   "top_songs": [
     {
       "name": "City of Blinding Lights",
-      "times_played": 1
+      "times_played": 3
     },
     {
       "name": "Vertigo",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "With or Without You",
-      "times_played": 1
-    },
-    {
-      "name": "Into the Heart",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Out of Control",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Stories for Boys",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "I Will Follow",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Iris (Hold Me Close)",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Gloria",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "October",
-      "times_played": 1
+      "times_played": 2
+    },
+    {
+      "name": "Sunday Bloody Sunday",
+      "times_played": 2
     }
   ],
   "concerts": [
@@ -53,6 +53,20 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "1068",
+      "show_number": 1067,
+      "date": "2022-11-02",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null

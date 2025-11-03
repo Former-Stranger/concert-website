@@ -1,7 +1,21 @@
 {
-  "id": 617,
+  "id": "617",
   "name": "Tyminski and Kane Brown",
-  "concert_count": 0,
+  "concert_count": 1,
   "top_songs": [],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "848",
+      "show_number": 847,
+      "date": "2018-08-10",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY",
+      "role": "opener",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
 }

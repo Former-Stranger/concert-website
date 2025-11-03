@@ -1,7 +1,21 @@
 {
-  "id": 83,
+  "id": "83",
   "name": "Brian Dunne",
-  "concert_count": 0,
+  "concert_count": 1,
   "top_songs": [],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "712",
+      "show_number": 711,
+      "date": "2016-08-13",
+      "festival_name": null,
+      "venue": "City Winery",
+      "city": "New York",
+      "state": "NY",
+      "role": "opener",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
 }

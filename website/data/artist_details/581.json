@@ -1,7 +1,21 @@
 {
-  "id": 581,
+  "id": "581",
   "name": "The Pretenders",
-  "concert_count": 0,
+  "concert_count": 1,
   "top_songs": [],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "169",
+      "show_number": 168,
+      "date": "2002-09-28",
+      "festival_name": null,
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ",
+      "role": "opener",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "302",
   "name": "John Mellencamp",
-  "concert_count": 12,
+  "concert_count": 13,
   "top_songs": [
     {
       "name": "Small Town",
@@ -53,6 +53,7 @@
       "venue": "The Town Hall",
       "city": "New York",
       "state": "NY",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -65,6 +66,7 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -77,6 +79,7 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -89,6 +92,7 @@
       "venue": "Forest Hills Stadium",
       "city": "Forest Hills",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -101,6 +105,7 @@
       "venue": "Carnegie Hall",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -113,6 +118,7 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -125,6 +131,7 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
+      "role": "festival_performer",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null
@@ -137,6 +144,7 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -149,6 +157,7 @@
       "venue": "CHI Health Center",
       "city": "Omaha",
       "state": "NE",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -161,6 +170,20 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
+      "role": "headliner",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "145",
+      "show_number": 144,
+      "date": "2001-10-20",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY",
+      "role": "festival_performer",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null
@@ -173,6 +196,7 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -185,6 +209,7 @@
       "venue": "Paramount Theater at MSG",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null

@@ -53,6 +53,7 @@
       "venue": "MVP Arena",
       "city": "Albany",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null
@@ -65,6 +66,7 @@
       "venue": "Yankee Stadium",
       "city": "Bronx",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -77,6 +79,7 @@
       "venue": "Yankee Stadium",
       "city": "Bronx",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -89,6 +92,7 @@
       "venue": "Chelsea Piers",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null

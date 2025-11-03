@@ -1,7 +1,75 @@
 {
-  "id": 415,
+  "id": "415",
   "name": "Patti Smith",
-  "concert_count": 0,
-  "top_songs": [],
-  "concerts": []
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "Redondo Beach",
+      "times_played": 1
+    },
+    {
+      "name": "Grateful",
+      "times_played": 1
+    },
+    {
+      "name": "Ghost Dance",
+      "times_played": 1
+    },
+    {
+      "name": "Dancing Barefoot",
+      "times_played": 1
+    },
+    {
+      "name": "Free Money",
+      "times_played": 1
+    },
+    {
+      "name": "One Too Many Mornings",
+      "times_played": 1
+    },
+    {
+      "name": "Beneath the Southern Cross",
+      "times_played": 1
+    },
+    {
+      "name": "Because the Night",
+      "times_played": 1
+    },
+    {
+      "name": "Pissing in a River",
+      "times_played": 1
+    },
+    {
+      "name": "Gloria",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "988",
+      "show_number": 987,
+      "date": "2021-09-18",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Asbury Park Beach",
+      "city": "Asbury Park",
+      "state": "NJ",
+      "role": "festival_performer",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "245",
+      "show_number": 244,
+      "date": "2005-11-21",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY",
+      "role": "opener",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
 }

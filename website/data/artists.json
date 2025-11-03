@@ -100,14 +100,14 @@
     "concert_count": 13
   },
   {
-    "id": "422",
-    "name": "Pearl Jam",
+    "id": "302",
+    "name": "John Mellencamp",
     "concert_count": 13
   },
   {
-    "id": "302",
-    "name": "John Mellencamp",
-    "concert_count": 12
+    "id": "422",
+    "name": "Pearl Jam",
+    "concert_count": 13
   },
   {
     "id": "587",
@@ -140,6 +140,21 @@
     "concert_count": 10
   },
   {
+    "id": "585",
+    "name": "The Rolling Stones",
+    "concert_count": 10
+  },
+  {
+    "id": "599",
+    "name": "Tom Petty & The Heartbreakers",
+    "concert_count": 10
+  },
+  {
+    "id": "651",
+    "name": "Zac Brown Band",
+    "concert_count": 10
+  },
+  {
     "id": "10",
     "name": "Aerosmith",
     "concert_count": 9
@@ -150,18 +165,23 @@
     "concert_count": 9
   },
   {
+    "id": "542",
+    "name": "Steve Winwood",
+    "concert_count": 9
+  },
+  {
+    "id": "570",
+    "name": "The Doobie Brothers",
+    "concert_count": 9
+  },
+  {
     "id": "643",
     "name": "Wolf Brothers",
     "concert_count": 9
   },
   {
-    "id": "651",
-    "name": "Zac Brown Band",
-    "concert_count": 9
-  },
-  {
-    "id": "177",
-    "name": "Doobie Brothers",
+    "id": "183",
+    "name": "Eagles",
     "concert_count": 8
   },
   {
@@ -173,6 +193,11 @@
     "id": "390",
     "name": "Mumford & Sons",
     "concert_count": 8
+  },
+  {
+    "id": "133",
+    "name": "Coral Reefer Band",
+    "concert_count": 7
   },
   {
     "id": "259",
@@ -202,6 +227,16 @@
   {
     "id": "198",
     "name": "Eric Church",
+    "concert_count": 6
+  },
+  {
+    "id": "232",
+    "name": "Gov't Mule",
+    "concert_count": 6
+  },
+  {
+    "id": "236",
+    "name": "Green Day",
     "concert_count": 6
   },
   {
@@ -255,8 +290,8 @@
     "concert_count": 6
   },
   {
-    "id": "601",
-    "name": "Tom Petty & the Heartbreakers",
+    "id": "586",
+    "name": "The Wallflowers",
     "concert_count": 6
   },
   {
@@ -265,8 +300,8 @@
     "concert_count": 6
   },
   {
-    "id": "661",
-    "name": "the Coral Reefer Band",
+    "id": "646",
+    "name": "ZZ Top",
     "concert_count": 6
   },
   {
@@ -280,6 +315,11 @@
     "concert_count": 5
   },
   {
+    "id": "171",
+    "name": "Dierks Bentley",
+    "concert_count": 5
+  },
+  {
     "id": "212",
     "name": "Fleetwood Mac",
     "concert_count": 5
@@ -290,18 +330,8 @@
     "concert_count": 5
   },
   {
-    "id": "233",
-    "name": "Govt Mule",
-    "concert_count": 5
-  },
-  {
     "id": "235",
     "name": "Great Southern",
-    "concert_count": 5
-  },
-  {
-    "id": "236",
-    "name": "Green Day",
     "concert_count": 5
   },
   {
@@ -312,6 +342,11 @@
   {
     "id": "245",
     "name": "Heartbreakers",
+    "concert_count": 5
+  },
+  {
+    "id": "282",
+    "name": "Joe Cocker",
     "concert_count": 5
   },
   {
@@ -335,11 +370,6 @@
     "concert_count": 5
   },
   {
-    "id": "487",
-    "name": "Rolling Stones",
-    "concert_count": 5
-  },
-  {
     "id": "488",
     "name": "Roses",
     "concert_count": 5
@@ -347,21 +377,6 @@
   {
     "id": "531",
     "name": "Steely Dan",
-    "concert_count": 5
-  },
-  {
-    "id": "542",
-    "name": "Steve Winwood",
-    "concert_count": 5
-  },
-  {
-    "id": "572",
-    "name": "The Eagles",
-    "concert_count": 5
-  },
-  {
-    "id": "585",
-    "name": "The Rolling Stones",
     "concert_count": 5
   },
   {
@@ -395,13 +410,13 @@
     "concert_count": 4
   },
   {
-    "id": "171",
-    "name": "Dierks Bentley",
+    "id": "181",
+    "name": "ELO",
     "concert_count": 4
   },
   {
-    "id": "181",
-    "name": "ELO",
+    "id": "214",
+    "name": "Foo Fighters",
     "concert_count": 4
   },
   {
@@ -425,18 +440,28 @@
     "concert_count": 4
   },
   {
-    "id": "282",
-    "name": "Joe Cocker",
-    "concert_count": 4
-  },
-  {
     "id": "334",
     "name": "Lady Gaga",
     "concert_count": 4
   },
   {
+    "id": "340",
+    "name": "Lee Dewyze",
+    "concert_count": 4
+  },
+  {
     "id": "356",
     "name": "Luke Bryan",
+    "concert_count": 4
+  },
+  {
+    "id": "394",
+    "name": "Nash",
+    "concert_count": 4
+  },
+  {
+    "id": "395",
+    "name": "Nash & Young",
     "concert_count": 4
   },
   {
@@ -467,16 +492,6 @@
   {
     "id": "575",
     "name": "The Killers",
-    "concert_count": 4
-  },
-  {
-    "id": "586",
-    "name": "The Wallflowers",
-    "concert_count": 4
-  },
-  {
-    "id": "599",
-    "name": "Tom Petty & The Heartbreakers",
     "concert_count": 4
   },
   {
@@ -525,6 +540,11 @@
     "concert_count": 3
   },
   {
+    "id": "135",
+    "name": "Counting Crows",
+    "concert_count": 3
+  },
+  {
     "id": "140",
     "name": "Creed",
     "concert_count": 3
@@ -540,13 +560,18 @@
     "concert_count": 3
   },
   {
-    "id": "183",
-    "name": "Eagles",
+    "id": "145",
+    "name": "DEAD:  Dead",
     "concert_count": 3
   },
   {
-    "id": "214",
-    "name": "Foo Fighters",
+    "id": "176",
+    "name": "Donovan",
+    "concert_count": 3
+  },
+  {
+    "id": "191",
+    "name": "Elvis Costello",
     "concert_count": 3
   },
   {
@@ -590,11 +615,6 @@
     "concert_count": 3
   },
   {
-    "id": "340",
-    "name": "Lee Dewyze",
-    "concert_count": 3
-  },
-  {
     "id": "341",
     "name": "Leon Russell",
     "concert_count": 3
@@ -602,11 +622,6 @@
   {
     "id": "342",
     "name": "Light of Day",
-    "concert_count": 3
-  },
-  {
-    "id": "394",
-    "name": "Nash",
     "concert_count": 3
   },
   {
@@ -665,6 +680,11 @@
     "concert_count": 3
   },
   {
+    "id": "569",
+    "name": "The Dead",
+    "concert_count": 3
+  },
+  {
     "id": "580",
     "name": "The Police",
     "concert_count": 3
@@ -690,11 +710,6 @@
     "concert_count": 3
   },
   {
-    "id": "646",
-    "name": "ZZ Top",
-    "concert_count": 3
-  },
-  {
     "id": "655",
     "name": "Zach Bryan",
     "concert_count": 3
@@ -702,6 +717,16 @@
   {
     "id": "659",
     "name": "the Asbury Jukes",
+    "concert_count": 3
+  },
+  {
+    "id": "665",
+    "name": "the News",
+    "concert_count": 3
+  },
+  {
+    "id": "666",
+    "name": "the Pretenders",
     "concert_count": 3
   },
   {
@@ -735,8 +760,23 @@
     "concert_count": 2
   },
   {
+    "id": "39",
+    "name": "Beach Boys",
+    "concert_count": 2
+  },
+  {
+    "id": "45",
+    "name": "Billy Currington",
+    "concert_count": 2
+  },
+  {
     "id": "65",
     "name": "Bob Seger & the Silver Bullet Band",
+    "concert_count": 2
+  },
+  {
+    "id": "75",
+    "name": "Bono",
     "concert_count": 2
   },
   {
@@ -747,6 +787,11 @@
   {
     "id": "93",
     "name": "Bruce Springsteen In Conversation",
+    "concert_count": 2
+  },
+  {
+    "id": "99",
+    "name": "Bruce Springsteen: Stand Up For Heroes",
     "concert_count": 2
   },
   {
@@ -775,13 +820,18 @@
     "concert_count": 2
   },
   {
-    "id": "135",
-    "name": "Counting Crows",
+    "id": "153",
+    "name": "Dave Mason",
     "concert_count": 2
   },
   {
-    "id": "145",
-    "name": "DEAD:  Dead",
+    "id": "161",
+    "name": "Dawes",
+    "concert_count": 2
+  },
+  {
+    "id": "167",
+    "name": "Dgeneration",
     "concert_count": 2
   },
   {
@@ -790,23 +840,18 @@
     "concert_count": 2
   },
   {
-    "id": "176",
-    "name": "Donovan",
-    "concert_count": 2
-  },
-  {
     "id": "180",
     "name": "Dwight Yoakam",
     "concert_count": 2
   },
   {
-    "id": "191",
-    "name": "Elvis Costello",
+    "id": "205",
+    "name": "Fab Faux",
     "concert_count": 2
   },
   {
-    "id": "205",
-    "name": "Fab Faux",
+    "id": "206",
+    "name": "Fairfield Four",
     "concert_count": 2
   },
   {
@@ -870,6 +915,11 @@
     "concert_count": 2
   },
   {
+    "id": "284",
+    "name": "Joe Ely",
+    "concert_count": 2
+  },
+  {
     "id": "285",
     "name": "Joe Grushecky",
     "concert_count": 2
@@ -925,6 +975,11 @@
     "concert_count": 2
   },
   {
+    "id": "375",
+    "name": "Max Weinberg 7 & Friends",
+    "concert_count": 2
+  },
+  {
     "id": "380",
     "name": "Metallica",
     "concert_count": 2
@@ -940,13 +995,8 @@
     "concert_count": 2
   },
   {
-    "id": "395",
-    "name": "Nash & Young",
-    "concert_count": 2
-  },
-  {
-    "id": "396",
-    "name": "Nash & young",
+    "id": "392",
+    "name": "My Morning Jacket",
     "concert_count": 2
   },
   {
@@ -960,6 +1010,11 @@
     "concert_count": 2
   },
   {
+    "id": "406",
+    "name": "OAR",
+    "concert_count": 2
+  },
+  {
     "id": "407",
     "name": "Oasis",
     "concert_count": 2
@@ -967,6 +1022,11 @@
   {
     "id": "409",
     "name": "Old Dominion",
+    "concert_count": 2
+  },
+  {
+    "id": "415",
+    "name": "Patti Smith",
     "concert_count": 2
   },
   {
@@ -1005,6 +1065,11 @@
     "concert_count": 2
   },
   {
+    "id": "452",
+    "name": "Retrotones",
+    "concert_count": 2
+  },
+  {
     "id": "454",
     "name": "Richard Marx",
     "concert_count": 2
@@ -1020,13 +1085,13 @@
     "concert_count": 2
   },
   {
-    "id": "567",
-    "name": "The Brothers",
+    "id": "559",
+    "name": "Ted Nugent",
     "concert_count": 2
   },
   {
-    "id": "569",
-    "name": "The Dead",
+    "id": "567",
+    "name": "The Brothers",
     "concert_count": 2
   },
   {
@@ -1037,6 +1102,11 @@
   {
     "id": "353",
     "name": "The Lone Bellow",
+    "concert_count": 2
+  },
+  {
+    "id": "wOhG5GZnPglfZYtnjBo3",
+    "name": "The Wild Feathers",
     "concert_count": 2
   },
   {
@@ -1065,11 +1135,6 @@
     "concert_count": 2
   },
   {
-    "id": "648",
-    "name": "ZZTOP",
-    "concert_count": 2
-  },
-  {
     "id": "662",
     "name": "the Coral Reefer Band with Huey Lewis",
     "concert_count": 2
@@ -1077,16 +1142,6 @@
   {
     "id": "663",
     "name": "the Destroyers",
-    "concert_count": 2
-  },
-  {
-    "id": "665",
-    "name": "the News",
-    "concert_count": 2
-  },
-  {
-    "id": "666",
-    "name": "the Pretenders",
     "concert_count": 2
   },
   {
@@ -1127,6 +1182,11 @@
   {
     "id": "11",
     "name": "Aerosmith with Cheap Trrick",
+    "concert_count": 1
+  },
+  {
+    "id": "12",
+    "name": "Alanis Morrisette",
     "concert_count": 1
   },
   {
@@ -1175,6 +1235,11 @@
     "concert_count": 1
   },
   {
+    "id": "27",
+    "name": "Ashely McBryde",
+    "concert_count": 1
+  },
+  {
     "id": "28",
     "name": "Asia",
     "concert_count": 1
@@ -1210,13 +1275,13 @@
     "concert_count": 1
   },
   {
-    "id": "39",
-    "name": "Beach Boys",
+    "id": "hI7ssMfAm6v3K5HAlX8Y",
+    "name": "Beatles Tribute",
     "concert_count": 1
   },
   {
-    "id": "hI7ssMfAm6v3K5HAlX8Y",
-    "name": "Beatles Tribute",
+    "id": "41",
+    "name": "Ben Folds Five & Beck",
     "concert_count": 1
   },
   {
@@ -1232,11 +1297,6 @@
   {
     "id": "44",
     "name": "Bernie Williams",
-    "concert_count": 1
-  },
-  {
-    "id": "45",
-    "name": "Billy Currington",
     "concert_count": 1
   },
   {
@@ -1280,6 +1340,11 @@
     "concert_count": 1
   },
   {
+    "id": "56",
+    "name": "Blind Boys from Alabama",
+    "concert_count": 1
+  },
+  {
     "id": "57",
     "name": "Blly Joel",
     "concert_count": 1
@@ -1287,6 +1352,11 @@
   {
     "id": "58",
     "name": "Blowfish/BNL",
+    "concert_count": 1
+  },
+  {
+    "id": "60",
+    "name": "Bo Diddley",
     "concert_count": 1
   },
   {
@@ -1325,8 +1395,8 @@
     "concert_count": 1
   },
   {
-    "id": "75",
-    "name": "Bono",
+    "id": "73",
+    "name": "Bone Pony",
     "concert_count": 1
   },
   {
@@ -1355,6 +1425,11 @@
     "concert_count": 1
   },
   {
+    "id": "83",
+    "name": "Brian Dunne",
+    "concert_count": 1
+  },
+  {
     "id": "84",
     "name": "Brian Fallon",
     "concert_count": 1
@@ -1367,11 +1442,6 @@
   {
     "id": "90",
     "name": "Bruce Springsteen (Late Night",
-    "concert_count": 1
-  },
-  {
-    "id": "Tywr12yjvrXIYPeGSDX4",
-    "name": "Bruce Springsteen - Stand Up for Heroes",
     "concert_count": 1
   },
   {
@@ -1395,11 +1465,6 @@
     "concert_count": 1
   },
   {
-    "id": "99",
-    "name": "Bruce Springsteen: Stand Up For Heroes",
-    "concert_count": 1
-  },
-  {
     "id": "100",
     "name": "Bruce Springsteen: Stand Up For Heroes (Gaffigan",
     "concert_count": 1
@@ -1407,6 +1472,11 @@
   {
     "id": "102",
     "name": "Bryan Adams (w. Dave Stewart)",
+    "concert_count": 1
+  },
+  {
+    "id": "103",
+    "name": "Buckcherry",
     "concert_count": 1
   },
   {
@@ -1450,6 +1520,11 @@
     "concert_count": 1
   },
   {
+    "id": "114",
+    "name": "Chase Rice",
+    "concert_count": 1
+  },
+  {
     "id": "115",
     "name": "Cher",
     "concert_count": 1
@@ -1457,6 +1532,11 @@
   {
     "id": "117",
     "name": "Chicago and Hall",
+    "concert_count": 1
+  },
+  {
+    "id": "QQqHk4jSOAOuwQfcTRzR",
+    "name": "Chris Lane",
     "concert_count": 1
   },
   {
@@ -1490,6 +1570,11 @@
     "concert_count": 1
   },
   {
+    "id": "127",
+    "name": "Clarence \"Gatemouth \" Brown",
+    "concert_count": 1
+  },
+  {
     "id": "128",
     "name": "Classic East: Eagles",
     "concert_count": 1
@@ -1500,13 +1585,18 @@
     "concert_count": 1
   },
   {
+    "id": "S1sCVnTMcU1vUoGeExvf",
+    "name": "Colt Ford",
+    "concert_count": 1
+  },
+  {
     "id": "132",
     "name": "Concert for New York (David Bowie",
     "concert_count": 1
   },
   {
-    "id": "133",
-    "name": "Coral Reefer Band",
+    "id": "136",
+    "name": "Cowboy Junkies",
     "concert_count": 1
   },
   {
@@ -1532,11 +1622,6 @@
   {
     "id": "Ts7IBnCtQNORftKRdruR",
     "name": "Cyndi Lauper",
-    "concert_count": 1
-  },
-  {
-    "id": "146",
-    "name": "DEAD: Dead",
     "concert_count": 1
   },
   {
@@ -1570,11 +1655,6 @@
     "concert_count": 1
   },
   {
-    "id": "153",
-    "name": "Dave Mason",
-    "concert_count": 1
-  },
-  {
     "id": "154",
     "name": "Dave Matthews",
     "concert_count": 1
@@ -1590,13 +1670,13 @@
     "concert_count": 1
   },
   {
-    "id": "161",
-    "name": "Dawes",
+    "id": "159",
+    "name": "David Johanssen",
     "concert_count": 1
   },
   {
-    "id": "162",
-    "name": "Dead",
+    "id": "160",
+    "name": "David Lindley",
     "concert_count": 1
   },
   {
@@ -1627,6 +1707,16 @@
   {
     "id": "170",
     "name": "Dickey Betts Band",
+    "concert_count": 1
+  },
+  {
+    "id": "172",
+    "name": "Dilana, Toby Rand and Dave Navarro",
+    "concert_count": 1
+  },
+  {
+    "id": "ZgVQ47rYHLd6j80GcsXX",
+    "name": "Dinosaur Jr.",
     "concert_count": 1
   },
   {
@@ -1720,13 +1810,28 @@
     "concert_count": 1
   },
   {
+    "id": "201",
+    "name": "Eric Johnson",
+    "concert_count": 1
+  },
+  {
     "id": "202",
     "name": "Esteban",
     "concert_count": 1
   },
   {
+    "id": "204",
+    "name": "Eve6 and Sugar Ray",
+    "concert_count": 1
+  },
+  {
     "id": "207",
     "name": "Fall Out Boy)",
+    "concert_count": 1
+  },
+  {
+    "id": "208",
+    "name": "Fallon)",
     "concert_count": 1
   },
   {
@@ -1755,6 +1860,11 @@
     "concert_count": 1
   },
   {
+    "id": "219",
+    "name": "Fuel",
+    "concert_count": 1
+  },
+  {
     "id": "KifxBOuLE5xPkVRdZUVM",
     "name": "Furthur",
     "concert_count": 1
@@ -1762,6 +1872,11 @@
   {
     "id": "221",
     "name": "Garry Tallent",
+    "concert_count": 1
+  },
+  {
+    "id": "AwoWtigamYeHvI7gXPr1",
+    "name": "Gary Clark Jr.",
     "concert_count": 1
   },
   {
@@ -1787,11 +1902,6 @@
   {
     "id": "230",
     "name": "Global Citizen Festival with Beyonce",
-    "concert_count": 1
-  },
-  {
-    "id": "232",
-    "name": "Gov't Mule",
     "concert_count": 1
   },
   {
@@ -1880,6 +1990,11 @@
     "concert_count": 1
   },
   {
+    "id": "luRyQjZkfI5pbbKdITLx",
+    "name": "Jason Bonham\u2019s Led Zeppelin Evening",
+    "concert_count": 1
+  },
+  {
     "id": "265",
     "name": "Jason Isbell + 400 Unit",
     "concert_count": 1
@@ -1910,6 +2025,16 @@
     "concert_count": 1
   },
   {
+    "id": "276",
+    "name": "Jewel",
+    "concert_count": 1
+  },
+  {
+    "id": "iq7ZnukREbuK7rBS6219",
+    "name": "Jimmie Vaughan",
+    "concert_count": 1
+  },
+  {
     "id": "278",
     "name": "Joan Baez",
     "concert_count": 1
@@ -1917,11 +2042,6 @@
   {
     "id": "281",
     "name": "Joe Bonamassa + Styx + Don Felder",
-    "concert_count": 1
-  },
-  {
-    "id": "284",
-    "name": "Joe Ely",
     "concert_count": 1
   },
   {
@@ -1940,11 +2060,6 @@
     "concert_count": 1
   },
   {
-    "id": "290",
-    "name": "Joe ely",
-    "concert_count": 1
-  },
-  {
     "id": "291",
     "name": "Johhny Winter",
     "concert_count": 1
@@ -1952,6 +2067,16 @@
   {
     "id": "294",
     "name": "John Fogerty with Dr. John",
+    "concert_count": 1
+  },
+  {
+    "id": "295",
+    "name": "John Fogerty, Patti Scialfa, Jackson Browne, Eddie Vedder",
+    "concert_count": 1
+  },
+  {
+    "id": "296",
+    "name": "John Fogerty, REM, Bright Eyes",
     "concert_count": 1
   },
   {
@@ -1972,11 +2097,6 @@
   {
     "id": "303",
     "name": "John Mellencamp (Bruce appearance)",
-    "concert_count": 1
-  },
-  {
-    "id": "304",
-    "name": "John Mellencamp)",
     "concert_count": 1
   },
   {
@@ -2010,6 +2130,11 @@
     "concert_count": 1
   },
   {
+    "id": "jWgnA4fGwGneGIMlDdDn",
+    "name": "Justin Moore",
+    "concert_count": 1
+  },
+  {
     "id": "311",
     "name": "Kacey Musgraves",
     "concert_count": 1
@@ -2022,6 +2147,11 @@
   {
     "id": "314",
     "name": "Katy Perry",
+    "concert_count": 1
+  },
+  {
+    "id": "315",
+    "name": "Keb' Mo",
     "concert_count": 1
   },
   {
@@ -2090,6 +2220,11 @@
     "concert_count": 1
   },
   {
+    "id": "336",
+    "name": "Larry McCray",
+    "concert_count": 1
+  },
+  {
     "id": "337",
     "name": "Last Waltz with Warren Haynes + Jamey Johnson",
     "concert_count": 1
@@ -2097,11 +2232,6 @@
   {
     "id": "338",
     "name": "Lauren Alaina",
-    "concert_count": 1
-  },
-  {
-    "id": "339",
-    "name": "Lee DeWyze",
     "concert_count": 1
   },
   {
@@ -2145,6 +2275,16 @@
     "concert_count": 1
   },
   {
+    "id": "5XsVAEKOhiDfHhnFByTa",
+    "name": "Lukas Nelson",
+    "concert_count": 1
+  },
+  {
+    "id": "358",
+    "name": "Luscious Jackson",
+    "concert_count": 1
+  },
+  {
     "id": "359",
     "name": "Luther Guitar Johnson",
     "concert_count": 1
@@ -2162,6 +2302,11 @@
   {
     "id": "365",
     "name": "Maddock etc.",
+    "concert_count": 1
+  },
+  {
+    "id": "368",
+    "name": "Marcus King Band",
     "concert_count": 1
   },
   {
@@ -2185,8 +2330,23 @@
     "concert_count": 1
   },
   {
+    "id": "373",
+    "name": "Mavis Staples",
+    "concert_count": 1
+  },
+  {
     "id": "374",
     "name": "Max Weinberg",
+    "concert_count": 1
+  },
+  {
+    "id": "376",
+    "name": "Me'shell N'dge'Ocello",
+    "concert_count": 1
+  },
+  {
+    "id": "377",
+    "name": "Meat Puppets",
     "concert_count": 1
   },
   {
@@ -2230,8 +2390,8 @@
     "concert_count": 1
   },
   {
-    "id": "392",
-    "name": "My Morning Jacket",
+    "id": "393",
+    "name": "My Morning Jacket & Wilco",
     "concert_count": 1
   },
   {
@@ -2265,16 +2425,6 @@
     "concert_count": 1
   },
   {
-    "id": "N4EuHK6LJMK5O9pw1aNl",
-    "name": "O.A.R.",
-    "concert_count": 1
-  },
-  {
-    "id": "406",
-    "name": "OAR",
-    "concert_count": 1
-  },
-  {
     "id": "408",
     "name": "Oates",
     "concert_count": 1
@@ -2302,11 +2452,6 @@
   {
     "id": "414",
     "name": "Pat Benetar",
-    "concert_count": 1
-  },
-  {
-    "id": "416",
-    "name": "Patti Smith)",
     "concert_count": 1
   },
   {
@@ -2345,6 +2490,11 @@
     "concert_count": 1
   },
   {
+    "id": "433",
+    "name": "Poison",
+    "concert_count": 1
+  },
+  {
     "id": "434",
     "name": "Post Malone",
     "concert_count": 1
@@ -2362,6 +2512,11 @@
   {
     "id": "439",
     "name": "Queen",
+    "concert_count": 1
+  },
+  {
+    "id": "442",
+    "name": "Queens of the Stone Age",
     "concert_count": 1
   },
   {
@@ -2420,6 +2575,11 @@
     "concert_count": 1
   },
   {
+    "id": "AiD4aB1PKRdadeLtX5Qh",
+    "name": "Riley Green",
+    "concert_count": 1
+  },
+  {
     "id": "kPu1lMgdlb7UhStBJhAo",
     "name": "Ringo Starr & His All Star Band",
     "concert_count": 1
@@ -2440,6 +2600,11 @@
     "concert_count": 1
   },
   {
+    "id": "466",
+    "name": "Robert Cray",
+    "concert_count": 1
+  },
+  {
     "id": "467",
     "name": "Robert Cray Band",
     "concert_count": 1
@@ -2450,8 +2615,18 @@
     "concert_count": 1
   },
   {
+    "id": "469",
+    "name": "Robert Hunter",
+    "concert_count": 1
+  },
+  {
     "id": "471",
     "name": "Robert Plant + Alison Krauss",
+    "concert_count": 1
+  },
+  {
+    "id": "472",
+    "name": "Robert Randolph band",
     "concert_count": 1
   },
   {
@@ -2560,11 +2735,6 @@
     "concert_count": 1
   },
   {
-    "id": "502",
-    "name": "Sea Hear Now (Green Day)",
-    "concert_count": 1
-  },
-  {
     "id": "503",
     "name": "Sea Hear Now (Pearl Jam",
     "concert_count": 1
@@ -2615,6 +2785,11 @@
     "concert_count": 1
   },
   {
+    "id": "515",
+    "name": "Silverchair",
+    "concert_count": 1
+  },
+  {
     "id": "516",
     "name": "Simon & Garfunkel",
     "concert_count": 1
@@ -2627,6 +2802,11 @@
   {
     "id": "518",
     "name": "Slash (4 Songs)",
+    "concert_count": 1
+  },
+  {
+    "id": "519",
+    "name": "Slayer, Sevendust and Slipknot!",
     "concert_count": 1
   },
   {
@@ -2655,6 +2835,11 @@
     "concert_count": 1
   },
   {
+    "id": "528",
+    "name": "Staind, Linkin Park, Deadsy, Static X",
+    "concert_count": 1
+  },
+  {
     "id": "529",
     "name": "Stand Up for Heroes:  Bruce Springsteen, Norah Jones",
     "concert_count": 1
@@ -2675,8 +2860,18 @@
     "concert_count": 1
   },
   {
+    "id": "y6U2jHcXgy7NF3PWswxs",
+    "name": "Stephen Kellogg",
+    "concert_count": 1
+  },
+  {
     "id": "534",
     "name": "Stephen Stills",
+    "concert_count": 1
+  },
+  {
+    "id": "535",
+    "name": "Stereophonics",
     "concert_count": 1
   },
   {
@@ -2720,6 +2915,11 @@
     "concert_count": 1
   },
   {
+    "id": "555",
+    "name": "Susan Tedeschi",
+    "concert_count": 1
+  },
+  {
     "id": "556",
     "name": "Symphony",
     "concert_count": 1
@@ -2755,16 +2955,6 @@
     "concert_count": 1
   },
   {
-    "id": "566",
-    "name": "The Beach Boys",
-    "concert_count": 1
-  },
-  {
-    "id": "570",
-    "name": "The Doobie Brothers",
-    "concert_count": 1
-  },
-  {
     "id": "574",
     "name": "The Earthlings",
     "concert_count": 1
@@ -2775,13 +2965,18 @@
     "concert_count": 1
   },
   {
-    "id": "578",
-    "name": "The News",
+    "id": "579",
+    "name": "The Other Ones",
     "concert_count": 1
   },
   {
-    "id": "579",
-    "name": "The Other Ones",
+    "id": "582",
+    "name": "The Pretenders and Stray Cats",
+    "concert_count": 1
+  },
+  {
+    "id": "583",
+    "name": "The Radiators, Thunderbirds and Buddy Guy",
     "concert_count": 1
   },
   {
@@ -2885,13 +3080,28 @@
     "concert_count": 1
   },
   {
+    "id": "613",
+    "name": "Trey Anastasio & Stevie Nicks",
+    "concert_count": 1
+  },
+  {
     "id": "614",
     "name": "Tribute to Phil Lesh / Graham Lesh",
     "concert_count": 1
   },
   {
-    "id": "619",
-    "name": "U2:  Bono",
+    "id": "616",
+    "name": "Tyler Farr",
+    "concert_count": 1
+  },
+  {
+    "id": "617",
+    "name": "Tyminski and Kane Brown",
+    "concert_count": 1
+  },
+  {
+    "id": "CI7LpI1XJUi5C6wuQGk6",
+    "name": "Uncle Kracker",
     "concert_count": 1
   },
   {
@@ -2902,11 +3112,6 @@
   {
     "id": "622",
     "name": "Van Halen 3 (Cherone) / Creed",
-    "concert_count": 1
-  },
-  {
-    "id": "625",
-    "name": "Wallflowers",
     "concert_count": 1
   },
   {
@@ -2945,8 +3150,8 @@
     "concert_count": 1
   },
   {
-    "id": "636",
-    "name": "Wild Feathers",
+    "id": "635",
+    "name": "Wilco & Everest",
     "concert_count": 1
   },
   {
@@ -2970,11 +3175,6 @@
     "concert_count": 1
   },
   {
-    "id": "649",
-    "name": "ZZTop",
-    "concert_count": 1
-  },
-  {
     "id": "650",
     "name": "Zac Brown",
     "concert_count": 1
@@ -2990,11 +3190,6 @@
     "concert_count": 1
   },
   {
-    "id": "657",
-    "name": "nash",
-    "concert_count": 1
-  },
-  {
     "id": "658",
     "name": "the 400 Unit",
     "concert_count": 1
@@ -3007,16 +3202,6 @@
   {
     "id": "664",
     "name": "the Houserockers",
-    "concert_count": 1
-  },
-  {
-    "id": "667",
-    "name": "the Retrotones",
-    "concert_count": 1
-  },
-  {
-    "id": "669",
-    "name": "the Wallflowers",
     "concert_count": 1
   }
 ]

@@ -1,7 +1,21 @@
 {
-  "id": 114,
+  "id": "114",
   "name": "Chase Rice",
-  "concert_count": 0,
+  "concert_count": 1,
   "top_songs": [],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "1187",
+      "show_number": 1186,
+      "date": "2024-08-18",
+      "festival_name": null,
+      "venue": "Arthur Ashe Stadium",
+      "city": "Queens",
+      "state": "NY",
+      "role": "opener",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
 }

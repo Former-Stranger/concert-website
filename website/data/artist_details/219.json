@@ -1,7 +1,21 @@
 {
-  "id": 219,
+  "id": "219",
   "name": "Fuel",
-  "concert_count": 0,
+  "concert_count": 1,
   "top_songs": [],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "131",
+      "show_number": 130,
+      "date": "2001-06-16",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY",
+      "role": "opener",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
 }

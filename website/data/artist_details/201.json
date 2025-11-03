@@ -1,7 +1,21 @@
 {
-  "id": 201,
+  "id": "201",
   "name": "Eric Johnson",
-  "concert_count": 0,
+  "concert_count": 1,
   "top_songs": [],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "47",
+      "show_number": 46,
+      "date": "1997-07-31",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY",
+      "role": "opener",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
 }

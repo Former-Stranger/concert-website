@@ -1,47 +1,47 @@
 {
   "id": "646",
   "name": "ZZ Top",
-  "concert_count": 3,
+  "concert_count": 6,
   "top_songs": [
     {
-      "name": "Got Me Under Pressure",
-      "times_played": 1
+      "name": "Gimme All Your Lovin'",
+      "times_played": 3
     },
     {
-      "name": "I Thank You",
-      "times_played": 1
+      "name": "Sharp Dressed Man",
+      "times_played": 3
+    },
+    {
+      "name": "Legs",
+      "times_played": 3
+    },
+    {
+      "name": "La Grange",
+      "times_played": 3
+    },
+    {
+      "name": "Got Me Under Pressure",
+      "times_played": 2
     },
     {
       "name": "Waitin' for the Bus",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Jesus Just Left Chicago",
-      "times_played": 1
-    },
-    {
-      "name": "Gimme All Your Lovin'",
-      "times_played": 1
-    },
-    {
-      "name": "Pearl Necklace",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "I'm Bad, I'm Nationwide",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "I Gotsta Get Paid",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "My Head's in Mississippi",
-      "times_played": 1
-    },
-    {
-      "name": "Sixteen Tons",
-      "times_played": 1
+      "times_played": 2
     }
   ],
   "concerts": [
@@ -53,6 +53,20 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
+      "role": "headliner",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "537",
+      "show_number": 536,
+      "date": "2013-05-15",
+      "festival_name": null,
+      "venue": "NYCB Theatre at Westbury",
+      "city": "Westbury",
+      "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -65,6 +79,7 @@
       "venue": "Ives Concert Park",
       "city": "Danbury",
       "state": "CT",
+      "role": "headliner",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null
@@ -77,6 +92,33 @@
       "venue": "Izod Center",
       "city": "East Rutherford",
       "state": "NJ",
+      "role": "festival_performer",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "45",
+      "show_number": 44,
+      "date": "1997-07-13",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY",
+      "role": "festival_performer",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "307",
+      "show_number": 306,
+      "date": "",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY",
+      "role": "headliner",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null

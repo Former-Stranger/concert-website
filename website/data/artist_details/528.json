@@ -1,7 +1,21 @@
 {
-  "id": 528,
+  "id": "528",
   "name": "Staind, Linkin Park, Deadsy, Static X",
-  "concert_count": 0,
+  "concert_count": 1,
   "top_songs": [],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "146",
+      "show_number": 145,
+      "date": "2001-10-26",
+      "festival_name": null,
+      "venue": "XL Center",
+      "city": "Hartford",
+      "state": "CT",
+      "role": "opener",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
 }

@@ -1,7 +1,21 @@
 {
-  "id": 469,
+  "id": "469",
   "name": "Robert Hunter",
-  "concert_count": 0,
+  "concert_count": 1,
   "top_songs": [],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "173",
+      "show_number": 172,
+      "date": "2002-11-22",
+      "festival_name": null,
+      "venue": "XL Center",
+      "city": "Hartford",
+      "state": "CT",
+      "role": "opener",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
 }

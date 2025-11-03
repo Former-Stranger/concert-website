@@ -53,6 +53,7 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -65,6 +66,7 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -77,6 +79,7 @@
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
       "state": "PA",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -89,6 +92,7 @@
       "venue": "Gillette Stadium",
       "city": "Foxborough",
       "state": "MA",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -101,6 +105,7 @@
       "venue": "Mohegan Sun Arena",
       "city": "Uncasville",
       "state": "CT",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -113,6 +118,7 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -125,6 +131,7 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -137,6 +144,7 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -149,6 +157,7 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state": "NJ",
+      "role": "festival_performer",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null
@@ -161,6 +170,7 @@
       "venue": "Rockefeller Plaza",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null
@@ -173,6 +183,7 @@
       "venue": "The Meadowlands",
       "city": "East Rutherford",
       "state": "NJ",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null

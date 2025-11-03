@@ -1,7 +1,21 @@
 {
-  "id": 466,
+  "id": "466",
   "name": "Robert Cray",
-  "concert_count": 0,
+  "concert_count": 1,
   "top_songs": [],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "281",
+      "show_number": 280,
+      "date": "2006-09-28",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY",
+      "role": "opener",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
 }

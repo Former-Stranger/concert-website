@@ -53,6 +53,7 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
+      "role": "headliner",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null
@@ -65,6 +66,7 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -77,6 +79,7 @@
       "venue": "Giants Stadium",
       "city": "East Rutherford",
       "state": "NJ",
+      "role": "festival_performer",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null

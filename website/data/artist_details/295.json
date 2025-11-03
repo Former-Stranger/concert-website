@@ -1,7 +1,21 @@
 {
-  "id": 295,
+  "id": "295",
   "name": "John Fogerty, Patti Scialfa, Jackson Browne, Eddie Vedder",
-  "concert_count": 0,
+  "concert_count": 1,
   "top_songs": [],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "216",
+      "show_number": 215,
+      "date": "2004-10-13",
+      "festival_name": null,
+      "venue": "Izod Center",
+      "city": "East Rutherford",
+      "state": "NJ",
+      "role": "opener",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
 }

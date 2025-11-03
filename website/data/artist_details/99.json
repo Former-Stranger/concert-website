@@ -1,9 +1,47 @@
 {
   "id": "99",
   "name": "Bruce Springsteen: Stand Up For Heroes",
-  "concert_count": 1,
-  "top_songs": [],
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "Redemption Day",
+      "times_played": 1
+    },
+    {
+      "name": "Bobby Jean",
+      "times_played": 1
+    },
+    {
+      "name": "I'll Work for Your Love",
+      "times_played": 1
+    },
+    {
+      "name": "I'm on Fire",
+      "times_played": 1
+    },
+    {
+      "name": "Dancing in the Dark",
+      "times_played": 1
+    },
+    {
+      "name": "Land of Hope and Dreams",
+      "times_played": 1
+    }
+  ],
   "concerts": [
+    {
+      "id": "956",
+      "show_number": 955,
+      "date": "2019-11-04",
+      "festival_name": null,
+      "venue": "The Theater at Madison Square Garden",
+      "city": "New York",
+      "state": "NY",
+      "role": "headliner",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
     {
       "id": "606",
       "show_number": 605,
@@ -12,6 +50,7 @@
       "venue": "The Theater at Madison Square Garden",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null

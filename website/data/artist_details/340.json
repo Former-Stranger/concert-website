@@ -1,7 +1,7 @@
 {
   "id": "340",
   "name": "Lee Dewyze",
-  "concert_count": 3,
+  "concert_count": 4,
   "top_songs": [],
   "concerts": [
     {
@@ -12,6 +12,7 @@
       "venue": "SubCulture",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null
@@ -24,6 +25,7 @@
       "venue": "Iridium Jazz Club",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null
@@ -36,6 +38,20 @@
       "venue": "Iridium Jazz Club",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "481",
+      "show_number": 480,
+      "date": "2011-06-29",
+      "festival_name": null,
+      "venue": "Gramercy Theatre",
+      "city": "New York",
+      "state": "NY",
+      "role": "headliner",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null

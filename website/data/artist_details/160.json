@@ -1,7 +1,21 @@
 {
-  "id": 160,
+  "id": "160",
   "name": "David Lindley",
-  "concert_count": 0,
+  "concert_count": 1,
   "top_songs": [],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "445",
+      "show_number": 444,
+      "date": "2010-09-14",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY",
+      "role": "opener",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
 }

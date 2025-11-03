@@ -1,7 +1,21 @@
 {
-  "id": 159,
+  "id": "159",
   "name": "David Johanssen",
-  "concert_count": 0,
+  "concert_count": 1,
   "top_songs": [],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "202",
+      "show_number": 201,
+      "date": "2004-05-22",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY",
+      "role": "opener",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
 }

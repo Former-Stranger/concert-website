@@ -1,7 +1,7 @@
 {
   "id": "284",
   "name": "Joe Ely",
-  "concert_count": 1,
+  "concert_count": 2,
   "top_songs": [],
   "concerts": [
     {
@@ -12,6 +12,20 @@
       "venue": "City Winery",
       "city": "New York",
       "state": "NY",
+      "role": "festival_performer",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "144",
+      "show_number": 143,
+      "date": "2001-10-19",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Count Basie Center for the Arts",
+      "city": "Red Bank",
+      "state": "NJ",
+      "role": "festival_performer",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null

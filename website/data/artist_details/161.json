@@ -1,7 +1,7 @@
 {
   "id": "161",
   "name": "Dawes",
-  "concert_count": 1,
+  "concert_count": 2,
   "top_songs": [
     {
       "name": "Living in the Future",
@@ -53,6 +53,20 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
+      "role": "headliner",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "512",
+      "show_number": 511,
+      "date": "2012-08-01",
+      "festival_name": null,
+      "venue": "Pier A Park",
+      "city": "Hoboken",
+      "state": "NJ",
+      "role": "opener",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null

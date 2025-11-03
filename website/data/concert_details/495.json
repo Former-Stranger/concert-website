@@ -1,0 +1,247 @@
+{
+  "id": "495",
+  "show_number": 494,
+  "date": "2011-11-18",
+  "festival_name": null,
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "artists": [
+    {
+      "name": "John Fogerty",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/john-fogerty/2011/beacon-theatre-new-york-ny-3d1e50b.html",
+  "song_count": 28,
+  "has_encore": true,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Almost Saturday Night",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 2,
+      "name": "Green River",
+      "set_name": "Green River",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 3,
+      "name": "Commotion",
+      "set_name": "Green River",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 4,
+      "name": "Tombstone Shadow",
+      "set_name": "Green River",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 5,
+      "name": "Wrote a Song for Everyone",
+      "set_name": "Green River",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 6,
+      "name": "Bad Moon Rising",
+      "set_name": "Green River",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 7,
+      "name": "Lodi",
+      "set_name": "Green River",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 8,
+      "name": "Cross-Tie Walker",
+      "set_name": "Green River",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 9,
+      "name": "Sinister Purpose",
+      "set_name": "Green River",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 10,
+      "name": "Night Time Is the Right Time",
+      "set_name": "Green River",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Roosevelt Sykes"
+    },
+    {
+      "position": 11,
+      "name": "Centerfield",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 12,
+      "name": "Hey Tonight",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 13,
+      "name": "Born on the Bayou",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 14,
+      "name": "I Will Walk With You",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Hot Rod Heart",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "Gunslinger",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "Keep On Chooglin'",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 18,
+      "name": "Have You Ever Seen the Rain?",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 19,
+      "name": "Oh, Pretty Woman",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Roy Orbison"
+    },
+    {
+      "position": 20,
+      "name": "Down on the Corner",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 21,
+      "name": "Susie-Q",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Dale Hawkins"
+    },
+    {
+      "position": 22,
+      "name": "Saxophone Instrumental",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 23,
+      "name": "Bad Case of Lovin' You",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Moon Martin"
+    },
+    {
+      "position": 24,
+      "name": "The Old Man Down the Road",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 25,
+      "name": "Fortunate Son",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 26,
+      "name": "Good Golly, Miss Molly",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Little Richard"
+    },
+    {
+      "position": 27,
+      "name": "Proud Mary",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": true,
+      "cover_artist": "Creedence Clearwater Revival"
+    },
+    {
+      "position": 28,
+      "name": "Don't You Wish It Was True",
+      "set_name": "Main Set",
+      "encore": 1,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ],
+  "tour_name": "Lookin' Out My Back Door"
+}

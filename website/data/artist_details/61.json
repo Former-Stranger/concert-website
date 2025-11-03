@@ -5,15 +5,15 @@
   "top_songs": [
     {
       "name": "Highway 61 Revisited",
-      "times_played": 9
+      "times_played": 8
     },
     {
       "name": "Early Roman Kings",
-      "times_played": 8
+      "times_played": 7
     },
     {
       "name": "Things Have Changed",
-      "times_played": 8
+      "times_played": 7
     },
     {
       "name": "When I Paint My Masterpiece",
@@ -21,14 +21,6 @@
     },
     {
       "name": "Gotta Serve Somebody",
-      "times_played": 6
-    },
-    {
-      "name": "Love Sick",
-      "times_played": 6
-    },
-    {
-      "name": "Soon After Midnight",
       "times_played": 6
     },
     {
@@ -40,7 +32,15 @@
       "times_played": 6
     },
     {
-      "name": "I'll Be Your Baby Tonight",
+      "name": "Love Sick",
+      "times_played": 5
+    },
+    {
+      "name": "Thunder on the Mountain",
+      "times_played": 5
+    },
+    {
+      "name": "Soon After Midnight",
       "times_played": 5
     }
   ],
@@ -53,6 +53,7 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -61,11 +62,12 @@
       "id": "1176",
       "show_number": 1175,
       "date": "2024-06-29",
-      "festival_name": "Outlaw Festival",
+      "festival_name": "Outlaw Music Festival Tour",
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": false,
+      "role": "opener",
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -77,6 +79,7 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -89,6 +92,7 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -101,6 +105,7 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -113,6 +118,7 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -125,6 +131,7 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -137,6 +144,7 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -149,6 +157,7 @@
       "venue": "Capitol Theatre",
       "city": "Port Chester",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -161,6 +170,7 @@
       "venue": "Hartford HealthCare Amphitheater",
       "city": "Bridgeport",
       "state": "CT",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -173,6 +183,7 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -185,6 +196,7 @@
       "venue": "XL Center",
       "city": "Hartford",
       "state": "CT",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -197,6 +209,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -209,6 +222,7 @@
       "venue": "Paramount Theater at MSG",
       "city": "New York",
       "state": "NY",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -221,6 +235,7 @@
       "venue": "Mid-Hudson Civic Center",
       "city": "Poughkeepsie",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null

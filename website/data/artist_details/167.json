@@ -1,7 +1,34 @@
 {
-  "id": 167,
+  "id": "167",
   "name": "Dgeneration",
-  "concert_count": 0,
+  "concert_count": 2,
   "top_songs": [],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "26",
+      "show_number": 25,
+      "date": "1996-07-27",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY",
+      "role": "opener",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "25",
+      "show_number": 24,
+      "date": "1996-07-25",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY",
+      "role": "opener",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
 }

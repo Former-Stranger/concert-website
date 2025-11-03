@@ -1,47 +1,47 @@
 {
   "id": "236",
   "name": "Green Day",
-  "concert_count": 5,
+  "concert_count": 6,
   "top_songs": [
     {
       "name": "Longview",
-      "times_played": 5
+      "times_played": 6
     },
     {
       "name": "Basket Case",
+      "times_played": 6
+    },
+    {
+      "name": "American Idiot",
       "times_played": 5
     },
     {
-      "name": "She",
+      "name": "Holiday",
+      "times_played": 5
+    },
+    {
+      "name": "Boulevard of Broken Dreams",
+      "times_played": 5
+    },
+    {
+      "name": "St. Jimmy",
       "times_played": 5
     },
     {
       "name": "Minority",
-      "times_played": 4
+      "times_played": 5
     },
     {
-      "name": "American Idiot",
-      "times_played": 4
+      "name": "Knowledge",
+      "times_played": 5
     },
     {
       "name": "Jesus of Suburbia",
-      "times_played": 4
+      "times_played": 5
     },
     {
-      "name": "Holiday",
-      "times_played": 4
-    },
-    {
-      "name": "Boulevard of Broken Dreams",
-      "times_played": 4
-    },
-    {
-      "name": "Are We the Waiting",
-      "times_played": 4
-    },
-    {
-      "name": "St. Jimmy",
-      "times_played": 4
+      "name": "Good Riddance (Time of Your Life)",
+      "times_played": 5
     }
   ],
   "concerts": [
@@ -53,6 +53,20 @@
       "venue": "Citi Field",
       "city": "Queens",
       "state": "NY",
+      "role": "festival_performer",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "1059",
+      "show_number": 1058,
+      "date": "2022-09-18",
+      "festival_name": "Sea.Hear.Now",
+      "venue": "Asbury Park Beach",
+      "city": "Asbury Park",
+      "state": "NJ",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -65,6 +79,7 @@
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -77,6 +92,7 @@
       "venue": "CHI Health Center",
       "city": "Omaha",
       "state": "NE",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -89,6 +105,7 @@
       "venue": "SNHU Arena",
       "city": "Manchester",
       "state": "NH",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -101,6 +118,7 @@
       "venue": "Nassau Coliseum",
       "city": "Uniondale",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null

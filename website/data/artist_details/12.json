@@ -1,7 +1,21 @@
 {
-  "id": 12,
+  "id": "12",
   "name": "Alanis Morrisette",
-  "concert_count": 0,
+  "concert_count": 1,
   "top_songs": [],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "238",
+      "show_number": 237,
+      "date": "2005-09-15",
+      "festival_name": null,
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "state": "NJ",
+      "role": "opener",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
 }

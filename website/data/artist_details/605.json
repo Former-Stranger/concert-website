@@ -12,6 +12,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null
@@ -24,6 +25,7 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null
@@ -36,6 +38,7 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
+      "role": "headliner",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null

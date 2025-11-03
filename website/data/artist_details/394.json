@@ -1,7 +1,7 @@
 {
   "id": "394",
   "name": "Nash",
-  "concert_count": 3,
+  "concert_count": 4,
   "top_songs": [
     {
       "name": "D\u00e9j\u00e0 Vu",
@@ -53,6 +53,7 @@
       "venue": "SUNY Purchase",
       "city": "Purchase",
       "state": "NY",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -65,7 +66,21 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
+      "role": "festival_performer",
       "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "210",
+      "show_number": 209,
+      "date": "2004-08-12",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY",
+      "role": "festival_performer",
+      "has_setlist": false,
       "opening_song": null,
       "closing_song": null
     },
@@ -77,6 +92,7 @@
       "venue": "Thunder Ridge Ski Area",
       "city": "Patterson",
       "state": "NY",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null

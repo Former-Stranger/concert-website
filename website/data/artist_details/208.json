@@ -1,7 +1,21 @@
 {
-  "id": 208,
+  "id": "208",
   "name": "Fallon)",
-  "concert_count": 0,
+  "concert_count": 1,
   "top_songs": [],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "1072",
+      "show_number": 1071,
+      "date": "2022-11-14",
+      "festival_name": null,
+      "venue": "NBC Studios",
+      "city": "New York",
+      "state": "NY",
+      "role": "opener",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
 }

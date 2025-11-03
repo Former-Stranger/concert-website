@@ -1,7 +1,34 @@
 {
-  "id": 452,
+  "id": "452",
   "name": "Retrotones",
-  "concert_count": 0,
+  "concert_count": 2,
   "top_songs": [],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "367",
+      "show_number": 366,
+      "date": "2008-12-18",
+      "festival_name": null,
+      "venue": "Ridgefield Playhouse",
+      "city": "Ridgefield",
+      "state": "CT",
+      "role": "opener",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "328",
+      "show_number": 327,
+      "date": "2007-12-02",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Ridgefield Playhouse",
+      "city": "Ridgefield",
+      "state": "CT",
+      "role": "festival_performer",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "392",
   "name": "My Morning Jacket",
-  "concert_count": 1,
+  "concert_count": 2,
   "top_songs": [
     {
       "name": "Cobra",
@@ -53,6 +53,20 @@
       "venue": "Beacon Theatre",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "262",
+      "show_number": 261,
+      "date": "2006-06-03",
+      "festival_name": null,
+      "venue": "Continental Airlines Arena",
+      "city": "East Rutherford",
+      "state": "NJ",
+      "role": "opener",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null

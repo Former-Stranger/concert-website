@@ -12,6 +12,7 @@
       "venue": "Paramount Hudson Valley Theater",
       "city": "Peekskill",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null
@@ -24,6 +25,7 @@
       "venue": "Stamford Center for the Arts",
       "city": "Stamford",
       "state": "CT",
+      "role": "festival_performer",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null

@@ -1,50 +1,63 @@
 {
   "id": "406",
   "name": "OAR",
-  "concert_count": 1,
+  "concert_count": 2,
   "top_songs": [
     {
-      "name": "The Wanderer",
-      "times_played": 1
-    },
-    {
-      "name": "Lay Down",
-      "times_played": 1
-    },
-    {
       "name": "Wonderful Day",
-      "times_played": 1
-    },
-    {
-      "name": "Black Rock",
-      "times_played": 1
-    },
-    {
-      "name": "Heard the World",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Something Coming Over",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Hey Girl",
-      "times_played": 1
-    },
-    {
-      "name": "To Zion Goes I",
-      "times_played": 1
-    },
-    {
-      "name": "Tragedy in Waiting",
-      "times_played": 1
+      "times_played": 2
     },
     {
       "name": "Shattered (Turn the Car Around)",
+      "times_played": 2
+    },
+    {
+      "name": "City on Down",
+      "times_played": 2
+    },
+    {
+      "name": "Love and Memories",
+      "times_played": 2
+    },
+    {
+      "name": "Peace",
+      "times_played": 2
+    },
+    {
+      "name": "Delicate Few",
+      "times_played": 2
+    },
+    {
+      "name": "That Was a Crazy Game of Poker",
+      "times_played": 2
+    },
+    {
+      "name": "The Wanderer",
       "times_played": 1
     }
   ],
   "concerts": [
+    {
+      "id": "905",
+      "show_number": 904,
+      "date": "2019-04-05",
+      "festival_name": null,
+      "venue": "Hard Rock Hotel New York",
+      "city": "New York",
+      "state": "NY",
+      "role": "headliner",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
     {
       "id": "548",
       "show_number": 547,
@@ -53,6 +66,7 @@
       "venue": "PNC Bank Arts Center",
       "city": "Holmdel",
       "state": "NJ",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null

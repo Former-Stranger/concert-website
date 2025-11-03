@@ -1,7 +1,21 @@
 {
-  "id": 336,
+  "id": "336",
   "name": "Larry McCray",
-  "concert_count": 0,
+  "concert_count": 1,
   "top_songs": [],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "117",
+      "show_number": 116,
+      "date": "2000-09-23",
+      "festival_name": null,
+      "venue": "Webster Theater",
+      "city": "Hartford",
+      "state": "CT",
+      "role": "opener",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
 }

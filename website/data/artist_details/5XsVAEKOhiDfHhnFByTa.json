@@ -1,0 +1,62 @@
+{
+  "id": "5XsVAEKOhiDfHhnFByTa",
+  "name": "Lukas Nelson",
+  "concert_count": 1,
+  "top_songs": [
+    {
+      "name": "Rich Woman",
+      "times_played": 1
+    },
+    {
+      "name": "Fortune Teller",
+      "times_played": 1
+    },
+    {
+      "name": "Can't Let Go",
+      "times_played": 1
+    },
+    {
+      "name": "The Price of Love",
+      "times_played": 1
+    },
+    {
+      "name": "Rock and Roll",
+      "times_played": 1
+    },
+    {
+      "name": "Please Read the Letter",
+      "times_played": 1
+    },
+    {
+      "name": "High and Lonesome",
+      "times_played": 1
+    },
+    {
+      "name": "Trouble With My Lover",
+      "times_played": 1
+    },
+    {
+      "name": "In the Mood / Matty Groves / Gallows Pole",
+      "times_played": 1
+    },
+    {
+      "name": "The Battle of Evermore",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1176",
+      "show_number": 1175,
+      "date": "2024-06-29",
+      "festival_name": "Outlaw Music Festival Tour",
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY",
+      "role": "headliner",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
+}

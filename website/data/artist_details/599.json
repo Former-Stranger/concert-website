@@ -1,47 +1,47 @@
 {
   "id": "599",
   "name": "Tom Petty & The Heartbreakers",
-  "concert_count": 4,
+  "concert_count": 10,
   "top_songs": [
     {
-      "name": "You Wreck Me",
-      "times_played": 3
+      "name": "I Won't Back Down",
+      "times_played": 8
     },
     {
       "name": "Mary Jane's Last Dance",
-      "times_played": 3
-    },
-    {
-      "name": "I Won't Back Down",
-      "times_played": 3
-    },
-    {
-      "name": "Free Fallin'",
-      "times_played": 3
-    },
-    {
-      "name": "Learning to Fly",
-      "times_played": 3
-    },
-    {
-      "name": "Refugee",
-      "times_played": 3
+      "times_played": 8
     },
     {
       "name": "Runnin' Down a Dream",
-      "times_played": 3
+      "times_played": 8
+    },
+    {
+      "name": "You Wreck Me",
+      "times_played": 8
+    },
+    {
+      "name": "Free Fallin'",
+      "times_played": 7
+    },
+    {
+      "name": "You Don't Know How It Feels",
+      "times_played": 6
     },
     {
       "name": "American Girl",
-      "times_played": 3
+      "times_played": 6
     },
     {
-      "name": "So You Want to Be a Rock 'n' Roll Star",
-      "times_played": 2
+      "name": "Listen to Her Heart",
+      "times_played": 5
     },
     {
-      "name": "American Dream Plan B",
-      "times_played": 2
+      "name": "Learning to Fly",
+      "times_played": 5
+    },
+    {
+      "name": "Don't Come Around Here No More",
+      "times_played": 4
     }
   ],
   "concerts": [
@@ -53,6 +53,7 @@
       "venue": "Prudential Center",
       "city": "Newark",
       "state": "NJ",
+      "role": "headliner",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null
@@ -65,6 +66,7 @@
       "venue": "XL Center",
       "city": "Hartford",
       "state": "CT",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -77,6 +79,7 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -89,7 +92,86 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
+      "role": "headliner",
       "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "263",
+      "show_number": 262,
+      "date": "2006-06-20",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY",
+      "role": "headliner",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "87",
+      "show_number": 86,
+      "date": "1999-07-03",
+      "festival_name": null,
+      "venue": "Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY",
+      "role": "headliner",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "86",
+      "show_number": 85,
+      "date": "1999-06-30",
+      "festival_name": null,
+      "venue": "PNC Bank Arts Center",
+      "city": "Holmdel",
+      "state": "NJ",
+      "role": "headliner",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "83",
+      "show_number": 82,
+      "date": "1999-04-15",
+      "festival_name": null,
+      "venue": "Irving Plaza",
+      "city": "New York",
+      "state": "NY",
+      "role": "headliner",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "82",
+      "show_number": 81,
+      "date": "1999-04-11",
+      "festival_name": null,
+      "venue": "Irving Plaza",
+      "city": "New York",
+      "state": "NY",
+      "role": "headliner",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "10",
+      "show_number": 9,
+      "date": "1995-08-18",
+      "festival_name": null,
+      "venue": "The Meadowlands",
+      "city": "East Rutherford",
+      "state": "NJ",
+      "role": "headliner",
+      "has_setlist": false,
       "opening_song": null,
       "closing_song": null
     }

@@ -1,7 +1,21 @@
 {
-  "id": 296,
+  "id": "296",
   "name": "John Fogerty, REM, Bright Eyes",
-  "concert_count": 0,
+  "concert_count": 1,
   "top_songs": [],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "215",
+      "show_number": 214,
+      "date": "2004-10-01",
+      "festival_name": null,
+      "venue": "Wells Fargo Center",
+      "city": "Philadelphia",
+      "state": "PA",
+      "role": "opener",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
 }

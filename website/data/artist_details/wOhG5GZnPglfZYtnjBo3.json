@@ -1,0 +1,75 @@
+{
+  "id": "wOhG5GZnPglfZYtnjBo3",
+  "name": "The Wild Feathers",
+  "concert_count": 2,
+  "top_songs": [
+    {
+      "name": "Quittin' Time",
+      "times_played": 1
+    },
+    {
+      "name": "Backwoods Company",
+      "times_played": 1
+    },
+    {
+      "name": "I Can Have You",
+      "times_played": 1
+    },
+    {
+      "name": "Overnight",
+      "times_played": 1
+    },
+    {
+      "name": "Out on the Road",
+      "times_played": 1
+    },
+    {
+      "name": "Big Sky",
+      "times_played": 1
+    },
+    {
+      "name": "Hard Times",
+      "times_played": 1
+    },
+    {
+      "name": "Help Me Out",
+      "times_played": 1
+    },
+    {
+      "name": "Happy Again",
+      "times_played": 1
+    },
+    {
+      "name": "Kitchen Breeze",
+      "times_played": 1
+    }
+  ],
+  "concerts": [
+    {
+      "id": "1081",
+      "show_number": 1080,
+      "date": "2023-03-21",
+      "festival_name": "Multi-Artist Show",
+      "venue": "Gramercy Theater",
+      "city": "New York",
+      "state": "NY",
+      "role": "festival_performer",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "893",
+      "show_number": 892,
+      "date": "2019-01-23",
+      "festival_name": null,
+      "venue": "Terminal 5",
+      "city": "New York",
+      "state": "NY",
+      "role": "opener",
+      "has_setlist": false,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
+}

@@ -1,7 +1,21 @@
 {
-  "id": 373,
+  "id": "373",
   "name": "Mavis Staples",
-  "concert_count": 0,
+  "concert_count": 1,
   "top_songs": [],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "801",
+      "show_number": 800,
+      "date": "2017-11-21",
+      "festival_name": null,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY",
+      "role": "opener",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
 }

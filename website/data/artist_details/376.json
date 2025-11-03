@@ -1,7 +1,21 @@
 {
-  "id": 376,
+  "id": "376",
   "name": "Me'shell N'dge'Ocello",
-  "concert_count": 0,
+  "concert_count": 1,
   "top_songs": [],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "24",
+      "show_number": 23,
+      "date": "1996-07-20",
+      "festival_name": null,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY",
+      "role": "opener",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
 }

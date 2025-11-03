@@ -1,47 +1,47 @@
 {
   "id": "39",
   "name": "Beach Boys",
-  "concert_count": 1,
+  "concert_count": 2,
   "top_songs": [
     {
-      "name": "Do It Again",
-      "times_played": 1
+      "name": "California Girls",
+      "times_played": 2
     },
     {
-      "name": "Surfin' Safari",
-      "times_played": 1
+      "name": "California Dreamin'",
+      "times_played": 2
     },
     {
-      "name": "Catch a Wave",
-      "times_played": 1
+      "name": "Sloop John B",
+      "times_played": 2
     },
     {
-      "name": "Hawaii",
-      "times_played": 1
-    },
-    {
-      "name": "Surfin' U.S.A.",
-      "times_played": 1
-    },
-    {
-      "name": "Surfer Girl",
-      "times_played": 1
-    },
-    {
-      "name": "Getcha Back",
-      "times_played": 1
-    },
-    {
-      "name": "Good to My Baby",
-      "times_played": 1
-    },
-    {
-      "name": "Darlin'",
-      "times_played": 1
+      "name": "When I Grow Up (to Be a Man)",
+      "times_played": 2
     },
     {
       "name": "Why Do Fools Fall in Love",
-      "times_played": 1
+      "times_played": 2
+    },
+    {
+      "name": "Wouldn't It Be Nice",
+      "times_played": 2
+    },
+    {
+      "name": "Surfer Girl",
+      "times_played": 2
+    },
+    {
+      "name": "Don't Worry Baby",
+      "times_played": 2
+    },
+    {
+      "name": "Darlin'",
+      "times_played": 2
+    },
+    {
+      "name": "Be True to Your School",
+      "times_played": 2
     }
   ],
   "concerts": [
@@ -53,6 +53,20 @@
       "venue": "Ford Amphitheater at Coney Island",
       "city": "Brooklyn",
       "state": "NY",
+      "role": "headliner",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    },
+    {
+      "id": "346",
+      "show_number": 345,
+      "date": "2008-07-03",
+      "festival_name": null,
+      "venue": "Ives Concert Park",
+      "city": "Danbury",
+      "state": "CT",
+      "role": "headliner",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null

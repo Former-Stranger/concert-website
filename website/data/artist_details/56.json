@@ -1,7 +1,21 @@
 {
-  "id": 56,
+  "id": "56",
   "name": "Blind Boys from Alabama",
-  "concert_count": 0,
+  "concert_count": 1,
   "top_songs": [],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "82",
+      "show_number": 81,
+      "date": "1999-04-11",
+      "festival_name": null,
+      "venue": "Irving Plaza",
+      "city": "New York",
+      "state": "NY",
+      "role": "opener",
+      "has_setlist": true,
+      "opening_song": null,
+      "closing_song": null
+    }
+  ]
 }

@@ -4,22 +4,6 @@
   "concert_count": 5,
   "top_songs": [
     {
-      "name": "Highway 61 Revisited",
-      "times_played": 2
-    },
-    {
-      "name": "Love Sick",
-      "times_played": 2
-    },
-    {
-      "name": "Early Roman Kings",
-      "times_played": 2
-    },
-    {
-      "name": "Under the Red Sky",
-      "times_played": 2
-    },
-    {
       "name": "Whiskey River",
       "times_played": 2
     },
@@ -42,6 +26,22 @@
     {
       "name": "You Were Always on My Mind",
       "times_played": 2
+    },
+    {
+      "name": "Good Hearted Woman",
+      "times_played": 2
+    },
+    {
+      "name": "Help Me Make It Through the Night",
+      "times_played": 2
+    },
+    {
+      "name": "Georgia (on My Mind)",
+      "times_played": 2
+    },
+    {
+      "name": "Roll Me Up and Smoke Me When I Die",
+      "times_played": 2
     }
   ],
   "concerts": [
@@ -53,6 +53,7 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -61,11 +62,12 @@
       "id": "1176",
       "show_number": 1175,
       "date": "2024-06-29",
-      "festival_name": "Outlaw Festival",
+      "festival_name": "Outlaw Music Festival Tour",
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
-      "has_setlist": false,
+      "role": "opener",
+      "has_setlist": true,
       "opening_song": null,
       "closing_song": null
     },
@@ -77,6 +79,7 @@
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -89,6 +92,7 @@
       "venue": "Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
+      "role": "festival_performer",
       "has_setlist": true,
       "opening_song": null,
       "closing_song": null
@@ -101,6 +105,7 @@
       "venue": "Cape Cod Melody Tent",
       "city": "Hyannis",
       "state": "MA",
+      "role": "headliner",
       "has_setlist": false,
       "opening_song": null,
       "closing_song": null

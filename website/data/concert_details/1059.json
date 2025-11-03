@@ -1,0 +1,214 @@
+{
+  "id": "1059",
+  "show_number": 1058,
+  "date": "2022-09-18",
+  "festival_name": "Sea.Hear.Now",
+  "venue": "Asbury Park Beach",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "artists": [
+    {
+      "name": "Green Day",
+      "role": "headliner"
+    }
+  ],
+  "photos": [],
+  "photo_count": 0,
+  "setlistfm_url": "https://www.setlist.fm/setlist/green-day/2022/asbury-park-oceanfront-asbury-park-nj-3b011a7.html",
+  "song_count": 24,
+  "has_encore": false,
+  "songs": [
+    {
+      "position": 1,
+      "name": "Bohemian Rhapsody",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    {
+      "position": 2,
+      "name": "Blitzkrieg Bop",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Ramones"
+    },
+    {
+      "position": 3,
+      "name": "lntro Theme",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 4,
+      "name": "American Idiot",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 5,
+      "name": "Holiday",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 6,
+      "name": "Know Your Enemy",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 7,
+      "name": "Boulevard of Broken Dreams",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 8,
+      "name": "Longview",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 9,
+      "name": "Welcome to Paradise",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 10,
+      "name": "Hitchin' a Ride",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 11,
+      "name": "Rock and Roll All Nite",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "KISS"
+    },
+    {
+      "position": 12,
+      "name": "Brain Stew",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 13,
+      "name": "St. Jimmy",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 14,
+      "name": "When I Come Around",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 15,
+      "name": "Disappearing Boy",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 16,
+      "name": "21 Guns",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 17,
+      "name": "Minority",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 18,
+      "name": "Knowledge",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "Operation Ivy"
+    },
+    {
+      "position": 19,
+      "name": "Basket Case",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 20,
+      "name": "King for a Day",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 21,
+      "name": "Shout",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": true,
+      "cover_artist": "The Isley Brothers"
+    },
+    {
+      "position": 22,
+      "name": "Wake Me Up When September Ends",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 23,
+      "name": "Jesus of Suburbia",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    },
+    {
+      "position": 24,
+      "name": "Good Riddance (Time of Your Life)",
+      "set_name": "Main Set",
+      "encore": 0,
+      "is_cover": false,
+      "cover_artist": null
+    }
+  ]
+}
