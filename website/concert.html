@@ -659,8 +659,9 @@
         // Helper function to get supporting act from artists array
         function getSupportingAct(artists) {
             if (!artists || !Array.isArray(artists)) return '';
-            const opener = artists.find(a => a.role === 'opener');
-            return opener ? opener.artist_name : '';
+            // Get ALL openers, not just the first one
+            const openers = artists.filter(a => a.role === 'opener');
+            return openers.map(a => a.artist_name).join(', ');
         }
 
         // Helper function to get headliner/primary artist name
