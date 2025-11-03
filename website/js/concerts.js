@@ -120,7 +120,7 @@ function getSetlistStatusIcon(concert) {
     const status = concert.setlist_status || (concert.hasSetlist ? 'has_setlist' : 'not_researched');
 
     const icons = {
-        'has_setlist': '<i class="fas fa-music" style="color: #4ade80;" title="Has Setlist"></i>',
+        'has_setlist': '<i class="fas fa-circle-check" style="color: #4ade80;" title="Has Setlist"></i>',
         'verified_none_on_setlistfm': '<i class="fas fa-circle-minus" style="color: #fbbf24;" title="Verified - No Setlist on Setlist.fm"></i>',
         'verified_show_didnt_happen': '<i class="fas fa-question-circle" style="color: #ef4444;" title="Verified - Show Didn\'t Happen"></i>',
         'verified_without_setlist': '<i class="fas fa-eye-slash" style="color: #60a5fa;" title="Verified - No Show on Setlist.fm"></i>',
