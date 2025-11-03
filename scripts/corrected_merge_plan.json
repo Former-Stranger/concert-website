@@ -1,0 +1,177 @@
+[
+  {
+    "comment": "GROUP 1: John Mellencamp (13 concerts) - Keep 'John Mellencamp', merge typo",
+    "keep_id": "302",
+    "keep_name": "John Mellencamp",
+    "merge_id": "304",
+    "merge_name": "John Mellencamp)"
+  },
+  {
+    "comment": "GROUP 2: Rolling Stones (10 concerts) - USER SAYS: The Rolling Stones is correct",
+    "keep_id": "585",
+    "keep_name": "The Rolling Stones",
+    "merge_id": "487",
+    "merge_name": "Rolling Stones"
+  },
+  {
+    "comment": "GROUP 3: Tom Petty (10 concerts) - USER SAYS: Tom Petty & The Heartbreakers (uppercase The) is correct",
+    "keep_id": "599",
+    "keep_name": "Tom Petty & The Heartbreakers",
+    "merge_id": "601",
+    "merge_name": "Tom Petty & the Heartbreakers"
+  },
+  {
+    "comment": "GROUP 4: Doobie Brothers (9 concerts) - USER SAYS: The Doobie Brothers is correct",
+    "keep_id": "570",
+    "keep_name": "The Doobie Brothers",
+    "merge_id": "177",
+    "merge_name": "Doobie Brothers"
+  },
+  {
+    "comment": "GROUP 5: Eagles (8 concerts) - USER SAYS: Eagles is correct (no The)",
+    "keep_id": "183",
+    "keep_name": "Eagles",
+    "merge_id": "572",
+    "merge_name": "The Eagles"
+  },
+  {
+    "comment": "GROUP 6: Coral Reefer Band (7 concerts) - USER SAYS: Coral Reefer Band is correct (no 'the')",
+    "keep_id": "133",
+    "keep_name": "Coral Reefer Band",
+    "merge_id": "661",
+    "merge_name": "the Coral Reefer Band"
+  },
+  {
+    "comment": "GROUP 7: Gov't Mule (6 concerts) - USER SAYS: Gov't Mule (with apostrophe) is correct",
+    "keep_id": "232",
+    "keep_name": "Gov't Mule",
+    "merge_id": "233",
+    "merge_name": "Govt Mule"
+  },
+  {
+    "comment": "GROUP 8: Wallflowers (6 concerts) - USER SAYS: The Wallflowers is correct",
+    "keep_id": "586",
+    "keep_name": "The Wallflowers",
+    "merge_id": "625",
+    "merge_name": "Wallflowers"
+  },
+  {
+    "comment": "GROUP 8b: Wallflowers - merge second duplicate",
+    "keep_id": "586",
+    "keep_name": "The Wallflowers",
+    "merge_id": "669",
+    "merge_name": "the Wallflowers"
+  },
+  {
+    "comment": "GROUP 9: Lee DeWyze - Keep Lee Dewyze (more concerts)",
+    "keep_id": "340",
+    "keep_name": "Lee Dewyze",
+    "merge_id": "339",
+    "merge_name": "Lee DeWyze"
+  },
+  {
+    "comment": "GROUP 10: Nash - Keep Nash (capitalized)",
+    "keep_id": "394",
+    "keep_name": "Nash",
+    "merge_id": "657",
+    "merge_name": "nash"
+  },
+  {
+    "comment": "GROUP 11: Nash & Young - Keep capitalized version",
+    "keep_id": "395",
+    "keep_name": "Nash & Young",
+    "merge_id": "396",
+    "merge_name": "Nash & young"
+  },
+  {
+    "comment": "GROUP 12: DEAD: Dead - Keep proper spacing",
+    "keep_id": "145",
+    "keep_name": "DEAD:  Dead",
+    "merge_id": "146",
+    "merge_name": "DEAD: Dead"
+  },
+  {
+    "comment": "GROUP 13: The Dead - Keep The Dead",
+    "keep_id": "569",
+    "keep_name": "The Dead",
+    "merge_id": "162",
+    "merge_name": "Dead"
+  },
+  {
+    "comment": "GROUP 14: the News - Keep the News",
+    "keep_id": "665",
+    "keep_name": "the News",
+    "merge_id": "578",
+    "merge_name": "The News"
+  },
+  {
+    "comment": "GROUP 15: the Pretenders - Keep the Pretenders",
+    "keep_id": "666",
+    "keep_name": "the Pretenders",
+    "merge_id": "581",
+    "merge_name": "The Pretenders"
+  },
+  {
+    "comment": "GROUP 16: ZZ Top - USER SAYS: ZZ Top is correct (merge question mark variant)",
+    "keep_id": "646",
+    "keep_name": "ZZ Top",
+    "merge_id": "647",
+    "merge_name": "ZZ Top?"
+  },
+  {
+    "comment": "GROUP 17a: ZZTOP variants - USER SAYS: merge ZZTOP (no space) into ZZ Top",
+    "keep_id": "646",
+    "keep_name": "ZZ Top",
+    "merge_id": "648",
+    "merge_name": "ZZTOP"
+  },
+  {
+    "comment": "GROUP 17b: ZZTOP variants - merge ZZTop (camelcase) into ZZ Top",
+    "keep_id": "646",
+    "keep_name": "ZZ Top",
+    "merge_id": "649",
+    "merge_name": "ZZTop"
+  },
+  {
+    "comment": "GROUP 18: Joe Ely - Keep Joe Ely (capitalized)",
+    "keep_id": "284",
+    "keep_name": "Joe Ely",
+    "merge_id": "290",
+    "merge_name": "Joe ely"
+  },
+  {
+    "comment": "GROUP 19: Beach Boys - Keep Beach Boys",
+    "keep_id": "39",
+    "keep_name": "Beach Boys",
+    "merge_id": "566",
+    "merge_name": "The Beach Boys"
+  },
+  {
+    "comment": "GROUP 20: OAR - Keep OAR (all caps)",
+    "keep_id": "406",
+    "keep_name": "OAR",
+    "merge_id": "N4EuHK6LJMK5O9pw1aNl",
+    "merge_name": "O.A.R."
+  },
+  {
+    "comment": "GROUP 21: Patti Smith - Keep Patti Smith",
+    "keep_id": "415",
+    "keep_name": "Patti Smith",
+    "merge_id": "416",
+    "merge_name": "Patti Smith)"
+  },
+  {
+    "comment": "GROUP 22: Retrotones - Keep Retrotones",
+    "keep_id": "452",
+    "keep_name": "Retrotones",
+    "merge_id": "667",
+    "merge_name": "the Retrotones"
+  },
+  {
+    "comment": "GROUP 23: Bruce Springsteen Stand Up For Heroes - Keep colon version",
+    "keep_id": "99",
+    "keep_name": "Bruce Springsteen: Stand Up For Heroes",
+    "merge_id": "Tywr12yjvrXIYPeGSDX4",
+    "merge_name": "Bruce Springsteen - Stand Up for Heroes"
+  }
+]

@@ -280,13 +280,13 @@ def export_to_json(output_dir):
         artist_id = artist_doc.id
         artist_names_map[artist_id] = artist_data.get('canonical_name', '')
 
-    # Count concerts for each artist
+    # Count concerts for each artist (includes headliners, openers, and festival performers)
     for concert_data in all_concerts_data.values():
         for artist in concert_data.get('artists', []):
-            if artist.get('role') in ['headliner', 'festival_performer']:
-                artist_id = artist.get('artist_id')
-                if artist_id:
-                    artist_concert_counts[artist_id] += 1
+            # Count ALL artists regardless of role - if you saw them play, they count!
+            artist_id = artist.get('artist_id')
+            if artist_id:
+                artist_concert_counts[artist_id] += 1
 
     artists = []
     for artist_id, name in artist_names_map.items():
@@ -586,8 +586,8 @@ def export_to_json(output_dir):
         concerts_for_artist = []
         for concert_id, concert_data in all_concerts_data.items():
             for artist in concert_data.get('artists', []):
-                if (artist.get('artist_id') == artist_id and
-                    artist.get('role') in ['headliner', 'festival_performer']):
+                if artist.get('artist_id') == artist_id:
+                    # Include ALL roles (headliner, opener, festival_performer)
                     concerts_for_artist.append({
                         'id': concert_id,
                         'show_number': concert_data.get('show_number'),
@@ -596,6 +596,7 @@ def export_to_json(output_dir):
                         'venue': concert_data.get('venue_name', ''),
                         'city': concert_data.get('city', ''),
                         'state': concert_data.get('state', ''),
+                        'role': artist.get('role', 'headliner'),  # Include role to show on artist page
                         'has_setlist': concert_data.get('has_setlist', False),
                         'opening_song': concert_data.get('opening_song'),
                         'closing_song': concert_data.get('closing_song')

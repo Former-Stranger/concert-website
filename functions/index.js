@@ -341,7 +341,8 @@ exports.processApprovedSetlist = functions.firestore
             .toLowerCase()
             .replace(/[^a-z0-9\s]/g, '') // Remove special chars
             .replace(/\s+/g, ' ')         // Normalize whitespace
-            .trim();
+            .trim()
+            .replace(/^(the|a|an)\s+/i, ''); // Remove leading articles (The, A, An)
         };
 
         // Helper function: Calculate Levenshtein distance between two strings
