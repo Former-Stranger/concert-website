@@ -275,19 +275,24 @@ exports.processApprovedSetlist = functions.firestore
 
       // Determine document ID:
       // - If this artist already has a setlist, use that ID (prevents duplicates)
-      // - Otherwise, check if multiple artists exist to determine format
+      // - Otherwise, check CONCERT's artists array to see if multiple artists expected
+      //   (this prevents race conditions where concurrent submissions overwrite each other)
       let docId;
       if (existingArtistSetlist) {
         docId = existingArtistSetlist;
       } else {
-        // Check if there are existing setlists for DIFFERENT artists
-        const differentArtistExists = existingSetlists.docs.some(doc => {
-          const data = doc.data();
-          return data.artist_name && data.artist_name !== artistName;
-        });
+        // Get concert to check how many artists it has
+        const concertRef = db.collection('concerts').doc(concertId);
+        const concertDoc = await concertRef.get();
+        const concertData = concertDoc.exists ? concertDoc.data() : {};
+        const concertArtists = concertData.artists || [];
 
-        const hasMultipleArtists = differentArtistExists;
+        // If concert has multiple artists OR will have multiple artists (more than just this one),
+        // use the artist-specific format to prevent race condition overwrites
+        const hasMultipleArtists = concertArtists.length > 1;
         docId = hasMultipleArtists ? `${concertId}-${artistSlug}` : concertId;
+
+        console.log(`Concert ${concertId} has ${concertArtists.length} artists, using docId: ${docId}`);
       }
 
       // Check if this specific artist's setlist already exists
