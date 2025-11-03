@@ -91,9 +91,8 @@ def export_to_json(output_dir):
         concert_id = setlist_data.get('concert_id')
 
         if concert_id and concert_id in all_concerts_data:
-            songs = setlist_data.get('songs', [])
-            if songs:  # Only include setlists with songs
-                setlists_by_concert[concert_id].append(setlist_data)
+            # Include all setlists, even if empty (to show supporting acts/multiple artists)
+            setlists_by_concert[concert_id].append(setlist_data)
 
     concerts_with_setlists = 0
     for concert_id, setlist_list in setlists_by_concert.items():

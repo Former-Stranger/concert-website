@@ -552,10 +552,18 @@ exports.processApprovedSetlist = functions.firestore
           let rolesUpdated = false;
           allArtists = allArtists.map(artist => {
             const artistSongCount = songCounts[artist.artist_name] || 0;
-            const correctRole = artistSongCount === maxSongCount ? 'headliner' : 'opener';
+            let correctRole;
+
+            // If all setlists are empty (maxSongCount = 0), use position-based logic
+            // First artist (position 1) = headliner, subsequent artists = opener
+            if (maxSongCount === 0) {
+              correctRole = artist.position === 1 ? 'headliner' : 'opener';
+            } else {
+              correctRole = artistSongCount === maxSongCount ? 'headliner' : 'opener';
+            }
 
             if (artist.role !== correctRole) {
-              console.log(`Updating ${artist.artist_name} role: ${artist.role} -> ${correctRole} (${artistSongCount} songs)`);
+              console.log(`Updating ${artist.artist_name} role: ${artist.role} -> ${correctRole} (${artistSongCount} songs, position ${artist.position})`);
               rolesUpdated = true;
               return { ...artist, role: correctRole };
             }
